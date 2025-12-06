@@ -17,16 +17,16 @@ Wonder is the starting point of both scientific inquiry and faith. When we marve
 
 **The Wonder Cycle:**
 ```
-     ┌──────────────────────┐
-     │                      │
-     ▼                      │
+     +----------------------+
+     |                      |
+     v                      |
   WONDER          GRATITUDE/WORSHIP
-     │                      ▲
-     ▼                      │
+     |                      ^
+     v                      |
  CURIOSITY         UNDERSTANDING
-     │                      ▲
-     ▼                      │
-  INQUIRY ───────────────►─┘
+     |                      ^
+     v                      |
+  INQUIRY ---------------►-+
 ```
 
 ---

@@ -360,5 +360,5 @@ When a student thinks they're done, count to 10 together:
 
 ---
 
-**Lesson Version:** 1.0  
-****Last Updated:** December 2025
+**Lesson Version:** {{ page.meta.version }}  
+**Last Updated:** {{ page.meta.date }}

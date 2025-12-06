@@ -153,10 +153,10 @@ Say (join "Thank you for sharing: " (answer)) for 2 seconds
 **Sample flow:**
 ```
 START → Welcome → Menu: Add Entry / View Entries / Random Gratitude
-│
-├── Add Entry → Prompt → Store → Confirmation → Menu
-├── View Entries → Display List → Menu
-└── Random Gratitude → Pull Random Entry → Display → Menu
+|
++-- Add Entry → Prompt → Store → Confirmation → Menu
++-- View Entries → Display List → Menu
++-- Random Gratitude → Pull Random Entry → Display → Menu
 ```
 
 **Teacher circulates:**

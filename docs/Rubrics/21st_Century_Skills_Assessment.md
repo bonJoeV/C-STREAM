@@ -50,11 +50,11 @@ This assessment framework evaluates the development of essential 21st century sk
 
 **Observation Notes:**
 ```
-□ Shows persistence when facing challenges (perseverance)
-□ Asks "why" questions to understand deeply
-□ Considers multiple perspectives before deciding
-□ Connects problem-solving to faith (e.g., "What would be the right thing to do?")
-□ Evaluates solutions based on impact on others
+[ ] Shows persistence when facing challenges (perseverance)
+[ ] Asks "why" questions to understand deeply
+[ ] Considers multiple perspectives before deciding
+[ ] Connects problem-solving to faith (e.g., "What would be the right thing to do?")
+[ ] Evaluates solutions based on impact on others
 ```
 
 ---
@@ -75,11 +75,11 @@ This assessment framework evaluates the development of essential 21st century sk
 
 **Observation Notes:**
 ```
-□ Uses kind, respectful language
-□ Listens to understand, not just to respond
-□ Shares credit with others
-□ Uses technology responsibly
-□ Communicates in ways that build up rather than tear down
+[ ] Uses kind, respectful language
+[ ] Listens to understand, not just to respond
+[ ] Shares credit with others
+[ ] Uses technology responsibly
+[ ] Communicates in ways that build up rather than tear down
 ```
 
 ---
@@ -100,11 +100,11 @@ This assessment framework evaluates the development of essential 21st century sk
 
 **Observation Notes:**
 ```
-□ Helps teammates who are struggling (solidarity)
-□ Celebrates others' successes genuinely
-□ Takes responsibility for team outcomes
-□ Treats all team members with dignity
-□ Works toward common good, not personal glory
+[ ] Helps teammates who are struggling (solidarity)
+[ ] Celebrates others' successes genuinely
+[ ] Takes responsibility for team outcomes
+[ ] Treats all team members with dignity
+[ ] Works toward common good, not personal glory
 ```
 
 ---
@@ -125,11 +125,11 @@ This assessment framework evaluates the development of essential 21st century sk
 
 **Observation Notes:**
 ```
-□ Sees failures as learning opportunities
-□ Shows wonder and curiosity about creation
-□ Uses creativity to help others
-□ Considers ethical implications of innovations
-□ Gives thanks for creative inspirations
+[ ] Sees failures as learning opportunities
+[ ] Shows wonder and curiosity about creation
+[ ] Uses creativity to help others
+[ ] Considers ethical implications of innovations
+[ ] Gives thanks for creative inspirations
 ```
 
 ---
@@ -148,11 +148,11 @@ This assessment framework evaluates the development of essential 21st century sk
 
 **Observation Notes:**
 ```
-□ Says "I wonder..." or "Have you ever thought about...?"
-□ Notices beauty and complexity in creation
-□ Connects scientific discoveries to God's wisdom
-□ Shows gratitude for the gift of learning
-□ Curiosity leads to both scientific and spiritual questions
+[ ] Says "I wonder..." or "Have you ever thought about...?"
+[ ] Notices beauty and complexity in creation
+[ ] Connects scientific discoveries to God's wisdom
+[ ] Shows gratitude for the gift of learning
+[ ] Curiosity leads to both scientific and spiritual questions
 ```
 
 ---
@@ -171,11 +171,11 @@ This assessment framework evaluates the development of essential 21st century sk
 
 **Observation Notes:**
 ```
-□ Makes ethical choices even when difficult
-□ Considers impact on others before acting
-□ Uses resources responsibly
-□ Admits mistakes and seeks to make amends
-□ Connects ethical decisions to Catholic teaching
+[ ] Makes ethical choices even when difficult
+[ ] Considers impact on others before acting
+[ ] Uses resources responsibly
+[ ] Admits mistakes and seeks to make amends
+[ ] Connects ethical decisions to Catholic teaching
 ```
 
 ---

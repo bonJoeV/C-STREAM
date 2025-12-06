@@ -307,5 +307,5 @@ Show students how to save their project (it auto-saves), then close iPads.
 
 ---
 
-**Lesson Version:** 1.0  
-****Last Updated:** December 2025
+**Lesson Version:** {{ page.meta.version }}  
+**Last Updated:** {{ page.meta.date }}

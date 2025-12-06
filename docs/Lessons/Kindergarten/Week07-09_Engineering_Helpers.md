@@ -117,11 +117,11 @@ Students will be able to:
 **Introduce the Engineering Design Process** using a simple poster:
 
 ```
-🤔 ASK    - What is the problem?
-💭 IMAGINE - What are some ideas?
-📝 PLAN   - What will I make?
-🔨 CREATE - Build it!
-✅ TEST   - Does it work?
+ASK    - What is the problem?
+IMAGINE - What are some ideas?
+PLAN   - What will I make?
+CREATE - Build it!
+TEST   - Does it work?
 ```
 
 **Present the Problem (Choose ONE for the class):**
@@ -215,16 +215,16 @@ Give each student paper to draw ONE idea for a helper tool.
 
 **Simple Planning Sheet:**
 ```
-┌─────────────────────────────────────┐
-│ MY ENGINEERING PLAN                 │
-│ Name: _______________               │
-│                                     │
-│ My helper tool will help: ______    │
-│                                     │
-│ [Big box for drawing]               │
-│                                     │
-│ I will need: _________________      │
-└─────────────────────────────────────┘
++-------------------------------------+
+| MY ENGINEERING PLAN                 |
+| Name: _______________               |
+|                                     |
+| My helper tool will help: ______    |
+|                                     |
+| [Big box for drawing]               |
+|                                     |
+| I will need: _________________      |
++-------------------------------------+
 ```
 
 ---
@@ -449,5 +449,5 @@ Students mark on their planning sheet: ✓ It worked! or ✗ Needs changes
 
 ---
 
-**Lesson Version:** 1.0  
-****Last Updated:** December 2025
+**Lesson Version:** {{ page.meta.version }}  
+**Last Updated:** {{ page.meta.date }}

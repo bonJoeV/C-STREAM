@@ -253,5 +253,5 @@ When groups are ready, test with toy car:
 
 ---
 
-**Lesson Version:** 1.0  
-****Last Updated:** December 2025
+**Lesson Version:** {{ page.meta.version }}  
+**Last Updated:** {{ page.meta.date }}

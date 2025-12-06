@@ -273,25 +273,25 @@ Let a few students share who they made a gift for and why.
 ## 🎁 Gift Planning Sheet
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│              MY GIFT FROM THE HEART                         │
-│                                                             │
-│  Who is my gift for?                                        │
-│  [Box to draw face or write name]                           │
-│                                                             │
-│  What will I make?                                          │
-│  ☐ Card   ☐ Bookmark   ☐ Picture   ☐ Other: _______       │
-│                                                             │
-│  Why am I making this gift?                                 │
-│  ☐ To say I love you                                        │
-│  ☐ To make them smile                                       │
-│  ☐ To help them feel special                                │
-│                                                             │
-│  My gift will look like: [Box for sketch]                  │
-└─────────────────────────────────────────────────────────────┘
++---------------------------------------------------------+
+|              MY GIFT FROM THE HEART                     |
+|                                                         |
+|  Who is my gift for?                                    |
+|  [Box to draw face or write name]                       |
+|                                                         |
+|  What will I make?                                      |
+|  [ ] Card  [ ] Bookmark  [ ] Picture  [ ] Other: ____   |
+|                                                         |
+|  Why am I making this gift?                             |
+|  [ ] To say I love you                                  |
+|  [ ] To make them smile                                 |
+|  [ ] To help them feel special                          |
+|                                                         |
+|  My gift will look like: [Box for sketch]               |
++---------------------------------------------------------+
 ```
 
 ---
 
-**Lesson Version:** 1.0  
-****Last Updated:** December 2025
+**Lesson Version:** {{ page.meta.version }}  
+**Last Updated:** {{ page.meta.date }}

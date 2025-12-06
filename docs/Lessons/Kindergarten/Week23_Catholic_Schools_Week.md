@@ -248,5 +248,5 @@ Hang speech bubbles for Catholic Schools Week display.
 
 ---
 
-**Lesson Version:** 1.0  
-****Last Updated:** December 2025
+**Lesson Version:** {{ page.meta.version }}  
+**Last Updated:** {{ page.meta.date }}

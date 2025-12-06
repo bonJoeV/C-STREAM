@@ -83,12 +83,12 @@ Before modifying for individuals, build accessibility into every lesson:
 
 **Sample Visual Schedule:**
 ```
-1. 🙏 Prayer (2 min)
-2. ❓ Wonder Question (3 min)
-3. 📚 Learn Together (8 min)
-4. 🔧 Build/Create (12 min)
-5. 🗣️ Share (3 min)
-6. 🙏 Closing Prayer (2 min)
+1. Prayer (2 min)
+2. Wonder Question (3 min)
+3. Learn Together (8 min)
+4. Build/Create (12 min)
+5. Share (3 min)
+6. Closing Prayer (2 min)
 ```
 
 ---
