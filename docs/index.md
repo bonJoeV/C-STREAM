@@ -19,7 +19,7 @@ keywords: Catholic STEM, STREAM education, Catholic schools curriculum, faith an
 
 </div>
 
-![C-STREAM Logo](assets/images/C-STREAM-Logo.png){ align=right width=230 }
+![C-STREAM Logo](/C-STREAM/assets/images/C-STREAM-Logo.png){ align=right width=230 }
 
 ## Welcome to C-STREAM
 

@@ -4,7 +4,7 @@ description: "Terms of use for the C-STREAM Framework"
 ---
 
 <div style="display: flex; align-items: flex-start; margin: 20px 0;">
-  <img src="assets/images/C-STREAM-Logo.png" alt="C-STREAM Logo" width="100" style="margin-right: 15px;">
+  <img src="/C-STREAM/assets/images/C-STREAM-Logo.png" alt="C-STREAM Logo" width="100" style="margin-right: 15px;">
   <div style="max-width: 600px;">
     <h1 style="margin-top: 0;">📜 License & Use Policy</h1>
     <p><strong>C-STREAM Framework</strong> – Catholic Science, Technology, Religion, Engineering, Arts, and Math</p>

@@ -4,7 +4,7 @@ description: "Catholic Science, Technology, Religion, Engineering, Arts, and Mat
 ---
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
-  <img src="C-STREAM-Logo.png" alt="C-STREAM Logo" width="150" style="margin-right: 15px;">
+  <img src="C-STREAM-Logo.png" alt="C-STREAM Logo" width="120" style="margin-right: 15px;">
   <div style="max-width: 600px;">
     <h1 style="margin-top: 0;">C-STREAM Framework</h1>
     <p><strong>C</strong>atholic · <strong>S</strong>cience · <strong>T</strong>echnology · <strong>R</strong>eligion · <strong>E</strong>ngineering · <strong>A</strong>rts · <strong>M</strong>ath</p>

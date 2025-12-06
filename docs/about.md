@@ -7,7 +7,7 @@ description: "Joe Vandermark - Creator of C-STREAM Framework"
 
 ## Joe Vandermark
 
-![Joe Vandermark](assets/images/joe-vandermark.jpg){ align=right width=230 }
+![Joe Vandermark](/C-STREAM/assets/images/joe-vandermark.jpg){ align=right width=120 }
 
 With more than 30 years in technology, I'm passionate about helping people understand how computers, cloud systems, and new tools make life and work better. I created the C-STREAM Framework to bring that same spirit of innovation into Catholic education—nurturing both the mind and spirit.
 

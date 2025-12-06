@@ -23,17 +23,17 @@ theme:
   name: material
   custom_dir: docs/overrides
   
-  # Color palette - Catholic/school colors
+  # Color palette - OLP School colors (Navy & Gold)
   palette:
     - scheme: default
-      primary: deep purple
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: deep purple
-      accent: amber
+      primary: custom
+      accent: custom
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -45,8 +45,7 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
+    - navigation.prune
     - navigation.indexes
     - navigation.top
     - search.suggest
