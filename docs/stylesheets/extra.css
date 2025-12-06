@@ -1,0 +1,247 @@
+/* C-STREAM Custom Styles for MkDocs Material */
+
+/* Catholic/School color accents */
+:root {
+  --md-primary-fg-color: #5e35b1; /* Deep purple - Catholic liturgical */
+  --md-accent-fg-color: #ffc107; /* Amber/Gold - celebration */
+}
+
+/* Custom admonition for Faith Connection */
+.md-typeset .admonition.faith,
+.md-typeset details.faith {
+  border-color: #7b1fa2;
+}
+.md-typeset .admonition.faith > .admonition-title,
+.md-typeset details.faith > summary {
+  background-color: rgba(123, 31, 162, 0.1);
+}
+.md-typeset .admonition.faith > .admonition-title::before,
+.md-typeset details.faith > summary::before {
+  background-color: #7b1fa2;
+  -webkit-mask-image: var(--md-admonition-icon--example);
+  mask-image: var(--md-admonition-icon--example);
+}
+
+/* Custom admonition for Prayer */
+.md-typeset .admonition.prayer,
+.md-typeset details.prayer {
+  border-color: #1565c0;
+}
+.md-typeset .admonition.prayer > .admonition-title,
+.md-typeset details.prayer > summary {
+  background-color: rgba(21, 101, 192, 0.1);
+}
+.md-typeset .admonition.prayer > .admonition-title::before,
+.md-typeset details.prayer > summary::before {
+  background-color: #1565c0;
+  -webkit-mask-image: var(--md-admonition-icon--quote);
+  mask-image: var(--md-admonition-icon--quote);
+}
+
+/* Custom admonition for Saint/Scientist Connection */
+.md-typeset .admonition.saint,
+.md-typeset details.saint {
+  border-color: #2e7d32;
+}
+.md-typeset .admonition.saint > .admonition-title,
+.md-typeset details.saint > summary {
+  background-color: rgba(46, 125, 50, 0.1);
+}
+.md-typeset .admonition.saint > .admonition-title::before,
+.md-typeset details.saint > summary::before {
+  background-color: #2e7d32;
+  -webkit-mask-image: var(--md-admonition-icon--info);
+  mask-image: var(--md-admonition-icon--info);
+}
+
+/* Teacher tip styling */
+.md-typeset .admonition.teacher,
+.md-typeset details.teacher {
+  border-color: #f57c00;
+}
+.md-typeset .admonition.teacher > .admonition-title,
+.md-typeset details.teacher > summary {
+  background-color: rgba(245, 124, 0, 0.1);
+}
+.md-typeset .admonition.teacher > .admonition-title::before,
+.md-typeset details.teacher > summary::before {
+  background-color: #f57c00;
+  -webkit-mask-image: var(--md-admonition-icon--tip);
+  mask-image: var(--md-admonition-icon--tip);
+}
+
+/* Safety warning styling */
+.md-typeset .admonition.safety,
+.md-typeset details.safety {
+  border-color: #d32f2f;
+}
+.md-typeset .admonition.safety > .admonition-title,
+.md-typeset details.safety > summary {
+  background-color: rgba(211, 47, 47, 0.1);
+}
+.md-typeset .admonition.safety > .admonition-title::before,
+.md-typeset details.safety > summary::before {
+  background-color: #d32f2f;
+  -webkit-mask-image: var(--md-admonition-icon--warning);
+  mask-image: var(--md-admonition-icon--warning);
+}
+
+/* Home Connection styling */
+.md-typeset .admonition.home,
+.md-typeset details.home {
+  border-color: #00897b;
+}
+.md-typeset .admonition.home > .admonition-title,
+.md-typeset details.home > summary {
+  background-color: rgba(0, 137, 123, 0.1);
+}
+.md-typeset .admonition.home > .admonition-title::before,
+.md-typeset details.home > summary::before {
+  background-color: #00897b;
+  -webkit-mask-image: var(--md-admonition-icon--abstract);
+  mask-image: var(--md-admonition-icon--abstract);
+}
+
+/* Print styles for teacher handouts */
+@media print {
+  /* Hide navigation elements */
+  .md-header, .md-footer, .md-sidebar, .md-tabs,
+  .md-search, .md-source, .md-top, .md-dialog {
+    display: none !important;
+  }
+  
+  /* Full width content */
+  .md-content {
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  .md-main__inner {
+    padding-top: 0 !important;
+  }
+  
+  .md-content__inner {
+    margin: 0 auto !important;
+    max-width: 7.5in !important;
+  }
+  
+  /* Typography adjustments */
+  .md-typeset {
+    font-size: 11pt !important;
+    line-height: 1.4 !important;
+  }
+  
+  .md-typeset h1 {
+    font-size: 18pt !important;
+    page-break-before: auto;
+    margin-top: 0 !important;
+  }
+  
+  .md-typeset h1:first-of-type {
+    page-break-before: avoid;
+  }
+  
+  .md-typeset h2 {
+    font-size: 14pt !important;
+    page-break-after: avoid;
+  }
+  
+  .md-typeset h3 {
+    font-size: 12pt !important;
+    page-break-after: avoid;
+  }
+  
+  /* Keep content together */
+  .md-typeset .admonition,
+  .md-typeset details,
+  .md-typeset table,
+  .md-typeset pre,
+  .md-typeset blockquote {
+    break-inside: avoid;
+    page-break-inside: avoid;
+  }
+  
+  /* Table styling for print */
+  .md-typeset table {
+    font-size: 10pt !important;
+    width: 100% !important;
+  }
+  
+  .md-typeset table th,
+  .md-typeset table td {
+    padding: 4px 8px !important;
+    border: 1px solid #ccc !important;
+  }
+  
+  /* Admonition print styling */
+  .md-typeset .admonition {
+    border: 1px solid #666 !important;
+    box-shadow: none !important;
+    margin: 0.5em 0 !important;
+  }
+  
+  .md-typeset .admonition-title {
+    background-color: #f0f0f0 !important;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  
+  /* Links - show URL for print */
+  .md-typeset a[href^="http"]::after {
+    content: " (" attr(href) ")";
+    font-size: 9pt;
+    color: #666;
+  }
+  
+  /* Hide external link icons */
+  .md-typeset a[href^="http"]::after .md-icon {
+    display: none;
+  }
+  
+  /* Lesson metadata footer */
+  .lesson-metadata {
+    border-top: 1px solid #ccc;
+    padding-top: 0.5em;
+    margin-top: 1em;
+    font-size: 9pt;
+    color: #666;
+  }
+  
+  /* Page margins */
+  @page {
+    size: letter;
+    margin: 0.75in;
+  }
+  
+  @page :first {
+    margin-top: 0.5in;
+  }
+}
+
+/* Grade band color coding in navigation */
+.md-nav__item--nested .md-nav__link[href*="Kindergarten"] {
+  border-left: 3px solid #4caf50;
+}
+
+.md-nav__item--nested .md-nav__link[href*="Grades_1-2"] {
+  border-left: 3px solid #2196f3;
+}
+
+.md-nav__item--nested .md-nav__link[href*="Grades_3-4"] {
+  border-left: 3px solid #ff9800;
+}
+
+.md-nav__item--nested .md-nav__link[href*="Grades_5-6"] {
+  border-left: 3px solid #9c27b0;
+}
+
+/* Lesson overview tables */
+.md-typeset table:not([class]) {
+  font-size: 0.85rem;
+}
+
+/* Logo in header */
+.md-header__button.md-logo img {
+  height: 1.5rem;
+}

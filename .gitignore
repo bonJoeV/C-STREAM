@@ -1,0 +1,28 @@
+# Jekyll build output (legacy)
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# MkDocs build output
+site/
+
+# Ruby/Bundler
+Gemfile.lock
+vendor/
+.bundle/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log

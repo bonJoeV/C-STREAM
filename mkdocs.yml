@@ -1,0 +1,490 @@
+# C-STREAM Framework - MkDocs Configuration
+# Catholic Science, Technology, Religion, Engineering, Arts, and Math
+
+site_name: C-STREAM Framework
+site_url: https://bonJoeV.github.io/C-STREAM
+site_author: Joe Vandermark
+site_description: >-
+  Catholic Science, Technology, Religion, Engineering, Arts, and Math - 
+  Integrating faith and reason in STEM education for K-6 Catholic schools.
+
+# Repository
+repo_name: bonJoeV/C-STREAM
+repo_url: https://github.com/bonJoeV/C-STREAM
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: >-
+  C-STREAM Framework · Our Lady of the Prairie Catholic School · Belle Plaine, MN · 
+  Archdiocese of Saint Paul and Minneapolis
+
+# Theme Configuration
+theme:
+  name: material
+  custom_dir: docs/overrides
+  
+  # Color palette - Catholic/school colors
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  
+  # Features
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.tabs.link
+    - content.code.copy
+    - content.action.edit
+    - toc.follow
+  
+  # Icons
+  icon:
+    repo: fontawesome/brands/github
+    logo: material/school
+  favicon: assets/images/favicon.ico
+  
+  # Fonts
+  font:
+    text: Roboto
+    code: Roboto Mono
+
+# Plugins
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"/]+|(?!\b)(?=[A-Z][a-z])|\.(?!\d)|&[lg]t;'
+      lang: en
+  - tags
+  - meta
+  - macros  # Enables {{ page.meta.version }} in content
+  # Social cards plugin - requires pillow and cairosvg
+  # - social:
+  #     cards: true
+  - print-site:
+      add_to_navigation: true
+      print_page_title: 'Print / PDF'
+      add_print_site_banner: true
+      print_site_banner_template: "docs/overrides/print_banner.html"
+      add_cover_page: true
+      cover_page_template: "docs/overrides/cover_page.html"
+      enabled: true
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - tables
+
+# Extra CSS/JS
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/bonJoeV/C-STREAM
+    - icon: fontawesome/solid/envelope
+      link: mailto:joe@olp.school
+      name: Contact Me
+  generator: false
+  
+  # Analytics (uncomment when you have a Google Analytics ID)
+  # analytics:
+  #   provider: google
+  #   property: G-XXXXXXXXXX
+  
+# Navigation Structure
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Quick Start Guide: Resources/Quick_Start_Guide.md
+    - Year Planner: C-STREAM_Year_Planner.md
+    - Lesson Index: C-STREAM_Lesson_Index.md
+    - Browse by Tag: tags.md
+    - FAQ & Troubleshooting: Resources/FAQ_Troubleshooting.md
+  
+  - Weekly Lessons:
+    - Overview: Lessons/README.md
+    - Kindergarten:
+      - Lessons/Kindergarten/README.md
+      - Week 01 - Welcome: Lessons/Kindergarten/Week01_Welcome_to_CSTREAM.md
+      - Week 02-03 - Sphero: Lessons/Kindergarten/Week02-03_Sphero_Movement.md
+      - Week 04 - Wonder Walk: Lessons/Kindergarten/Week04_Wonder_Walk.md
+      - Week 05-06 - KEVA: Lessons/Kindergarten/Week05-06_KEVA_Building.md
+      - Week 07-09 - Engineering: Lessons/Kindergarten/Week07-09_Engineering_Helpers.md
+      - Week 10 - Bridges: Lessons/Kindergarten/Week10_Bridges_Connect_Us.md
+      - Week 11 - Thanksgiving: Lessons/Kindergarten/Week11_Coding_Thankfulness.md
+      - Week 12 - Making Gifts: Lessons/Kindergarten/Week12_Making_Gifts.md
+      - Week 13 - Fall Celebration: Lessons/Kindergarten/Week13_Fall_Celebration.md
+      - Week 14-15 - Light: Lessons/Kindergarten/Week14-15_Light_All_Around.md
+      - Week 16 - Star of Wonder: Lessons/Kindergarten/Week16_Star_of_Wonder.md
+      - Week 18 - New Year Goals: Lessons/Kindergarten/Week18_New_Year_Goals.md
+      - Week 19-22 - Exploration: Lessons/Kindergarten/Week19-22_Exploration_Stations.md
+      - Week 23 - Catholic Schools: Lessons/Kindergarten/Week23_Catholic_Schools_Week.md
+      - Week 24-25 - Dash Robot: Lessons/Kindergarten/Week24-25_Dash_Robot_Friends.md
+      - Week 26-27 - Helping Hands: Lessons/Kindergarten/Week26-27_Helping_Hands.md
+      - Week 28 - Pi Day: Lessons/Kindergarten/Week28_Circles_and_Pi.md
+      - Week 29-31 - Growing: Lessons/Kindergarten/Week29-31_Growing_Things.md
+      - Week 33 - New Life: Lessons/Kindergarten/Week33_New_Life_Engineering.md
+      - Week 34 - Celebration: Lessons/Kindergarten/Week34_Year_Celebration.md
+    - Grades 1-2 Year A:
+      - Lessons/Grades_1-2_YearA/README.md
+      - Week 01 - Welcome: Lessons/Grades_1-2_YearA/Week01_Welcome_to_CSTREAM.md
+      - Week 02-03 - Sphero: Lessons/Grades_1-2_YearA/Week02-03_Sphero_Coding.md
+      - Week 04 - Wonder Walk: Lessons/Grades_1-2_YearA/Week04_Wonder_Walk.md
+      - Week 05-06 - KEVA: Lessons/Grades_1-2_YearA/Week05-06_KEVA_Engineering.md
+      - Week 07-09 - Engineering: Lessons/Grades_1-2_YearA/Week07-09_Engineering_for_Others.md
+      - Week 10 - Bridges: Lessons/Grades_1-2_YearA/Week10_Strong_Bridges.md
+      - Week 11 - Thanksgiving: Lessons/Grades_1-2_YearA/Week11_Thankful_Coding.md
+      - Week 12 - Making Gifts: Lessons/Grades_1-2_YearA/Week12_Making_Gifts.md
+      - Week 13 - Fall Celebration: Lessons/Grades_1-2_YearA/Week13_Fall_Celebration.md
+      - Week 14-15 - Light: Lessons/Grades_1-2_YearA/Week14-15_Light_Explorations.md
+      - Week 16 - Star of Wonder: Lessons/Grades_1-2_YearA/Week16_Star_of_Wonder.md
+      - Week 18 - New Year Goals: Lessons/Grades_1-2_YearA/Week18_New_Year_Goals.md
+      - Week 19-22 - Exploration: Lessons/Grades_1-2_YearA/Week19-22_Exploration_Stations.md
+      - Week 23 - Catholic Schools: Lessons/Grades_1-2_YearA/Week23_Catholic_Schools_Week.md
+      - Week 24-25 - Dash Robot: Lessons/Grades_1-2_YearA/Week24-25_Dash_Robot_Adventures.md
+      - Week 26-27 - Helping Hands: Lessons/Grades_1-2_YearA/Week26-27_Helping_Hands_Design.md
+      - Week 28 - Pi Day: Lessons/Grades_1-2_YearA/Week28_Pi_Day_Circles.md
+      - Week 29-31 - Growing: Lessons/Grades_1-2_YearA/Week29-31_Growing_Things.md
+      - Week 33 - New Life: Lessons/Grades_1-2_YearA/Week33_New_Life_Engineering.md
+      - Week 34 - Celebration: Lessons/Grades_1-2_YearA/Week34_Year_Celebration.md
+    - Grades 1-2 Year B:
+      - Lessons/Grades_1-2_YearB/README.md
+      - Week 01 - Welcome: Lessons/Grades_1-2_YearB/Week01_Welcome_Scientists.md
+      - Week 02-03 - Dash: Lessons/Grades_1-2_YearB/Week02-03_Dash_Adventures.md
+      - Week 04 - Senses: Lessons/Grades_1-2_YearB/Week04_Senses_Discovery.md
+      - Week 05-06 - Towers: Lessons/Grades_1-2_YearB/Week05-06_Tower_Engineering.md
+      - Week 07-09 - Animal Habitats: Lessons/Grades_1-2_YearB/Week07-09_Animal_Habitats.md
+      - Week 10 - Ramp Races: Lessons/Grades_1-2_YearB/Week10_Ramp_Races.md
+      - Week 11 - Thanksgiving: Lessons/Grades_1-2_YearB/Week11_Thanksgiving_Coding.md
+      - Week 12 - Gifts: Lessons/Grades_1-2_YearB/Week12_Gifts_Others.md
+      - Week 13 - Fall Festival: Lessons/Grades_1-2_YearB/Week13_Fall_Festival.md
+      - Week 14-15 - Stars: Lessons/Grades_1-2_YearB/Week14-15_Stars_Light.md
+      - Week 16 - Winter: Lessons/Grades_1-2_YearB/Week16_Winter_Wonders.md
+      - Week 18 - Growth Goals: Lessons/Grades_1-2_YearB/Week18_Growth_Goals.md
+      - Week 19-22 - Invention: Lessons/Grades_1-2_YearB/Week19-22_Invention_Labs.md
+      - Week 23 - Catholic Schools: Lessons/Grades_1-2_YearB/Week23_Catholic_Schools.md
+      - Week 24-25 - Friendship: Lessons/Grades_1-2_YearB/Week24-25_Friendship_Machines.md
+      - Week 26-27 - Garden: Lessons/Grades_1-2_YearB/Week26-27_Garden_Engineering.md
+      - Week 28 - Math Games: Lessons/Grades_1-2_YearB/Week28_Math_Games.md
+      - Week 29-31 - Butterfly: Lessons/Grades_1-2_YearB/Week29-31_Butterfly_Engineering.md
+      - Week 33 - New Life: Lessons/Grades_1-2_YearB/Week33_New_Life.md
+      - Week 34 - Showcase: Lessons/Grades_1-2_YearB/Week34_Showcase.md
+    - Grades 3-4 Year A:
+      - Lessons/Grades_3-4_YearA/README.md
+      - Week 01 - Welcome: Lessons/Grades_3-4_YearA/Week01_Welcome_to_CSTREAM.md
+      - Week 02-03 - Sphero: Lessons/Grades_3-4_YearA/Week02-03_Sphero_Advanced.md
+      - Week 04 - Scientific Method: Lessons/Grades_3-4_YearA/Week04_Scientific_Method.md
+      - Week 05-06 - KEVA: Lessons/Grades_3-4_YearA/Week05-06_KEVA_Challenges.md
+      - Week 07-09 - Community: Lessons/Grades_3-4_YearA/Week07-09_Community_Helpers.md
+      - Week 10 - Bridges: Lessons/Grades_3-4_YearA/Week10_Bridge_Engineering.md
+      - Week 11 - Gratitude: Lessons/Grades_3-4_YearA/Week11_Coding_Gratitude.md
+      - Week 12 - Giving: Lessons/Grades_3-4_YearA/Week12_Giving_Through_Making.md
+      - Week 13 - Fall: Lessons/Grades_3-4_YearA/Week13_Fall_Celebration.md
+      - Week 14-15 - Light: Lessons/Grades_3-4_YearA/Week14-15_Light_Science_Advent.md
+      - Week 16 - Astronomy: Lessons/Grades_3-4_YearA/Week16_Astronomy_Star.md
+      - Week 18 - SMART Goals: Lessons/Grades_3-4_YearA/Week18_SMART_Goals.md
+      - Week 19-22 - Choice Labs: Lessons/Grades_3-4_YearA/Week19-22_Choice_Labs.md
+      - Week 23 - Catholic Schools: Lessons/Grades_3-4_YearA/Week23_Catholic_Schools_Week.md
+      - Week 24-25 - Scratch: Lessons/Grades_3-4_YearA/Week24-25_Scratch_Programming.md
+      - Week 26-27 - Circuits: Lessons/Grades_3-4_YearA/Week26-27_Little_Bits_Circuits.md
+      - Week 28 - Pi Day: Lessons/Grades_3-4_YearA/Week28_Pi_Day_Circles.md
+      - Week 29-31 - Environmental: Lessons/Grades_3-4_YearA/Week29-31_Environmental_STREAM.md
+      - Week 33 - Resurrection: Lessons/Grades_3-4_YearA/Week33_Resurrection_Science.md
+      - Week 34 - Expo: Lessons/Grades_3-4_YearA/Week34_STREAM_Expo.md
+    - Grades 3-4 Year B:
+      - Lessons/Grades_3-4_YearB/README.md
+      - Week 01 - Welcome: Lessons/Grades_3-4_YearB/Week01_Welcome_Scientists.md
+      - Week 02-03 - Flight: Lessons/Grades_3-4_YearB/Week02-03_Flight_Fundamentals.md
+      - Week 04-06 - Paper Airplane: Lessons/Grades_3-4_YearB/Week04-06_Paper_Airplane.md
+      - Week 07-09 - Architecture: Lessons/Grades_3-4_YearB/Week07-09_Architectural_Marvels.md
+      - Week 10 - Fall Festival: Lessons/Grades_3-4_YearB/Week10_Fall_Festival.md
+      - Week 11 - Thanksgiving: Lessons/Grades_3-4_YearB/Week11_Thanksgiving_Gratitude.md
+      - Week 12 - Gifts: Lessons/Grades_3-4_YearB/Week12_Gifts_Others.md
+      - Week 13 - Advent: Lessons/Grades_3-4_YearB/Week13_Advent_Preparation.md
+      - Week 14-17 - Marine: Lessons/Grades_3-4_YearB/Week14-17_Marine_Science.md
+      - Week 18 - New Year: Lessons/Grades_3-4_YearB/Week18_New_Year_Goals.md
+      - Week 19-22 - Game Design: Lessons/Grades_3-4_YearB/Week19-22_Game_Design.md
+      - Week 23 - Catholic Schools: Lessons/Grades_3-4_YearB/Week23_Catholic_Schools.md
+      - Week 24-27 - Sustainable City: Lessons/Grades_3-4_YearB/Week24-27_Sustainable_City.md
+      - Week 28 - Pi Day: Lessons/Grades_3-4_YearB/Week28_Pi_Day.md
+      - Week 29-31 - Weather: Lessons/Grades_3-4_YearB/Week29-31_Weather_Station.md
+      - Week 33 - Easter: Lessons/Grades_3-4_YearB/Week33_Easter_Engineering.md
+      - Week 34 - Showcase: Lessons/Grades_3-4_YearB/Week34_Showcase.md
+    - Grades 5-6 Year A:
+      - Lessons/Grades_5-6_YearA/README.md
+      - Week 01 - Welcome: Lessons/Grades_5-6_YearA/Week01_Welcome_to_CSTREAM.md
+      - Week 02-03 - Sphero: Lessons/Grades_5-6_YearA/Week02-03_Sphero_Mastery.md
+      - Week 04 - Experimental: Lessons/Grades_5-6_YearA/Week04_Experimental_Design.md
+      - Week 05-06 - Structural: Lessons/Grades_5-6_YearA/Week05-06_Structural_Engineering.md
+      - Week 07-09 - Social: Lessons/Grades_5-6_YearA/Week07-09_Social_Innovation.md
+      - Week 10 - Bridges: Lessons/Grades_5-6_YearA/Week10_Advanced_Bridges.md
+      - Week 11 - Gratitude: Lessons/Grades_5-6_YearA/Week11_Gratitude_Coding.md
+      - Week 12 - Giving: Lessons/Grades_5-6_YearA/Week12_Giving_Making.md
+      - Week 13 - Fall: Lessons/Grades_5-6_YearA/Week13_Fall_Showcase.md
+      - Week 14-15 - Optics: Lessons/Grades_5-6_YearA/Week14-15_Optics_Light.md
+      - Week 16 - Astronomy: Lessons/Grades_5-6_YearA/Week16_Astronomy.md
+      - Week 18 - Goal Engineering: Lessons/Grades_5-6_YearA/Week18_Goal_Engineering.md
+      - Week 19-22 - Passion: Lessons/Grades_5-6_YearA/Week19-22_Passion_Projects.md
+      - Week 23 - Catholic Schools: Lessons/Grades_5-6_YearA/Week23_Catholic_Schools_Week.md
+      - Week 24-25 - Scratch: Lessons/Grades_5-6_YearA/Week24-25_Advanced_Scratch.md
+      - Week 26-27 - Little Bits: Lessons/Grades_5-6_YearA/Week26-27_Little_Bits.md
+      - Week 28 - Pi Day: Lessons/Grades_5-6_YearA/Week28_Pi_Day.md
+      - Week 29-31 - Environmental: Lessons/Grades_5-6_YearA/Week29-31_Environmental_Science.md
+      - Week 33 - Easter: Lessons/Grades_5-6_YearA/Week33_Easter_Engineering.md
+      - Week 34 - Expo: Lessons/Grades_5-6_YearA/Week34_STREAM_Expo.md
+    - Grades 5-6 Year B:
+      - Lessons/Grades_5-6_YearB/README.md
+      - Week 01 - Welcome: Lessons/Grades_5-6_YearB/Week01_Welcome_Innovators.md
+      - Week 02-04 - Biotechnology: Lessons/Grades_5-6_YearB/Week02-04_Biotechnology.md
+      - Week 05-07 - Renewable: Lessons/Grades_5-6_YearB/Week05-07_Renewable_Energy.md
+      - Week 08-10 - Biomimicry: Lessons/Grades_5-6_YearB/Week08-10_Biomimicry.md
+      - Week 11 - Thanksgiving: Lessons/Grades_5-6_YearB/Week11_Thanksgiving_Data.md
+      - Week 12 - Gifts: Lessons/Grades_5-6_YearB/Week12_Gifts_Service.md
+      - Week 13 - Advent: Lessons/Grades_5-6_YearB/Week13_Advent_Technology.md
+      - Week 14-18 - App Dev: Lessons/Grades_5-6_YearB/Week14-18_App_Development.md
+      - Week 19 - New Year: Lessons/Grades_5-6_YearB/Week19_New_Year_Vision.md
+      - Week 20-23 - Social: Lessons/Grades_5-6_YearB/Week20-23_Social_Entrepreneurship.md
+      - Week 24 - Catholic Schools: Lessons/Grades_5-6_YearB/Week24_Catholic_Schools.md
+      - Week 25-28 - Health Tech: Lessons/Grades_5-6_YearB/Week25-28_Health_Technology.md
+      - Week 29-31 - Environmental: Lessons/Grades_5-6_YearB/Week29-31_Environmental_Monitoring.md
+      - Week 33 - Easter: Lessons/Grades_5-6_YearB/Week33_Easter_Hope.md
+      - Week 34 - Exhibition: Lessons/Grades_5-6_YearB/Week34_Exhibition.md
+
+  - Bi-Weekly Lessons:
+    - Overview: Lessons/Bi-Weekly/README.md
+    - Kindergarten:
+      - Lessons/Bi-Weekly/Kindergarten/README.md
+      - Session 01 - Welcome Wonder: Lessons/Bi-Weekly/Kindergarten/Session01_Welcome_Wonder.md
+      - Session 02 - God's World: Lessons/Bi-Weekly/Kindergarten/Session02_Gods_World.md
+      - Session 03 - Building Basics: Lessons/Bi-Weekly/Kindergarten/Session03_Building_Basics.md
+      - Session 04 - Colors Light: Lessons/Bi-Weekly/Kindergarten/Session04_Colors_Light.md
+      - Session 05 - Simple Machines: Lessons/Bi-Weekly/Kindergarten/Session05_Simple_Machines.md
+      - Session 06 - Thanksgiving: Lessons/Bi-Weekly/Kindergarten/Session06_Thanksgiving.md
+      - Session 07 - Advent Light: Lessons/Bi-Weekly/Kindergarten/Session07_Advent_Light.md
+      - Session 08 - Winter Science: Lessons/Bi-Weekly/Kindergarten/Session08_Winter_Science.md
+      - Session 09 - Catholic Schools: Lessons/Bi-Weekly/Kindergarten/Session09_Catholic_Schools.md
+      - Session 10 - Weather Wonder: Lessons/Bi-Weekly/Kindergarten/Session10_Weather_Wonder.md
+      - Session 11 - Growing Things: Lessons/Bi-Weekly/Kindergarten/Session11_Growing_Things.md
+      - Session 12 - Animal Homes: Lessons/Bi-Weekly/Kindergarten/Session12_Animal_Homes.md
+      - Session 13 - Easter New Life: Lessons/Bi-Weekly/Kindergarten/Session13_Easter_New_Life.md
+      - Session 14 - Sound Music: Lessons/Bi-Weekly/Kindergarten/Session14_Sound_Music.md
+      - Session 15 - Helping Others: Lessons/Bi-Weekly/Kindergarten/Session15_Helping_Others.md
+      - Session 16 - Water Wonder: Lessons/Bi-Weekly/Kindergarten/Session16_Water_Wonder.md
+      - Session 17 - Celebration: Lessons/Bi-Weekly/Kindergarten/Session17_Celebration.md
+    - Grades 1-2 Year A:
+      - Lessons/Bi-Weekly/Grades_1-2_YearA/README.md
+      - Session 01 - Wonder Engineers: Lessons/Bi-Weekly/Grades_1-2_YearA/Session01_Wonder_Engineers.md
+      - Session 02 - God's Patterns: Lessons/Bi-Weekly/Grades_1-2_YearA/Session02_Gods_Patterns.md
+      - Session 03 - Bridge Building: Lessons/Bi-Weekly/Grades_1-2_YearA/Session03_Bridge_Building.md
+      - Session 04 - Robot Friends: Lessons/Bi-Weekly/Grades_1-2_YearA/Session04_Robot_Friends.md
+      - Session 05 - Nature Exploration: Lessons/Bi-Weekly/Grades_1-2_YearA/Session05_Nature_Exploration.md
+      - Session 06 - Thanksgiving Service: Lessons/Bi-Weekly/Grades_1-2_YearA/Session06_Thanksgiving_Service.md
+      - Session 07 - Light in Darkness: Lessons/Bi-Weekly/Grades_1-2_YearA/Session07_Light_in_Darkness.md
+      - Session 08 - Coding Basics: Lessons/Bi-Weekly/Grades_1-2_YearA/Session08_Coding_Basics.md
+      - Session 09 - Catholic Inventors: Lessons/Bi-Weekly/Grades_1-2_YearA/Session09_Catholic_Inventors.md
+      - Session 10 - Weather Watchers: Lessons/Bi-Weekly/Grades_1-2_YearA/Session10_Weather_Watchers.md
+      - Session 11 - Lenten Engineers: Lessons/Bi-Weekly/Grades_1-2_YearA/Session11_Lenten_Engineers.md
+      - Session 12 - Life Cycles: Lessons/Bi-Weekly/Grades_1-2_YearA/Session12_Life_Cycles.md
+      - Session 13 - Easter Innovation: Lessons/Bi-Weekly/Grades_1-2_YearA/Session13_Easter_Innovation.md
+      - Session 14 - Sound Engineering: Lessons/Bi-Weekly/Grades_1-2_YearA/Session14_Sound_Engineering.md
+      - Session 15 - Robot Challenge: Lessons/Bi-Weekly/Grades_1-2_YearA/Session15_Robot_Challenge.md
+      - Session 16 - Community Helpers: Lessons/Bi-Weekly/Grades_1-2_YearA/Session16_Community_Helpers.md
+      - Session 17 - Exhibition: Lessons/Bi-Weekly/Grades_1-2_YearA/Session17_Exhibition.md
+    - Grades 1-2 Year B:
+      - Lessons/Bi-Weekly/Grades_1-2_YearB/README.md
+      - Session 01 - Design Detectives: Lessons/Bi-Weekly/Grades_1-2_YearB/Session01_Design_Detectives.md
+      - Session 02 - Tower Power: Lessons/Bi-Weekly/Grades_1-2_YearB/Session02_Tower_Power.md
+      - Session 03 - Sphero Intro: Lessons/Bi-Weekly/Grades_1-2_YearB/Session03_Sphero_Intro.md
+      - Session 04 - Animal Adaptations: Lessons/Bi-Weekly/Grades_1-2_YearB/Session04_Animal_Adaptations.md
+      - Session 05 - Garden Engineers: Lessons/Bi-Weekly/Grades_1-2_YearB/Session05_Garden_Engineers.md
+      - Session 06 - Gratitude Gifts: Lessons/Bi-Weekly/Grades_1-2_YearB/Session06_Gratitude_Gifts.md
+      - Session 07 - Star Makers: Lessons/Bi-Weekly/Grades_1-2_YearB/Session07_Star_Makers.md
+      - Session 08 - Digital Art: Lessons/Bi-Weekly/Grades_1-2_YearB/Session08_Digital_Art.md
+      - Session 09 - Faith Scientists: Lessons/Bi-Weekly/Grades_1-2_YearB/Session09_Faith_Scientists.md
+      - Session 10 - Magnets Motion: Lessons/Bi-Weekly/Grades_1-2_YearB/Session10_Magnets_Motion.md
+      - Session 11 - Lenten Love: Lessons/Bi-Weekly/Grades_1-2_YearB/Session11_Lenten_Love.md
+      - Session 12 - Butterfly Wonder: Lessons/Bi-Weekly/Grades_1-2_YearB/Session12_Butterfly_Wonder.md
+      - Session 13 - Easter Joy: Lessons/Bi-Weekly/Grades_1-2_YearB/Session13_Easter_Joy.md
+      - Session 14 - Sphero Challenge: Lessons/Bi-Weekly/Grades_1-2_YearB/Session14_Sphero_Challenge.md
+      - Session 15 - Simple Machines: Lessons/Bi-Weekly/Grades_1-2_YearB/Session15_Simple_Machines.md
+      - Session 16 - Earth Care: Lessons/Bi-Weekly/Grades_1-2_YearB/Session16_Earth_Care.md
+      - Session 17 - Celebration: Lessons/Bi-Weekly/Grades_1-2_YearB/Session17_Celebration.md
+    - Grades 3-4 Year A:
+      - Lessons/Bi-Weekly/Grades_3-4_YearA/README.md
+      - Session 01 - Engineering Design: Lessons/Bi-Weekly/Grades_3-4_YearA/Session01_Engineering_Design.md
+      - Session 02 - Dash Code: Lessons/Bi-Weekly/Grades_3-4_YearA/Session02_Dash_Code.md
+      - Session 03 - Bridge Engineering: Lessons/Bi-Weekly/Grades_3-4_YearA/Session03_Bridge_Engineering.md
+      - Session 04 - Animal Habitats: Lessons/Bi-Weekly/Grades_3-4_YearA/Session04_Animal_Habitats.md
+      - Session 05 - Scratch Intro: Lessons/Bi-Weekly/Grades_3-4_YearA/Session05_Scratch_Intro.md
+      - Session 06 - Gratitude Tech: Lessons/Bi-Weekly/Grades_3-4_YearA/Session06_Gratitude_Tech.md
+      - Session 07 - Light Circuits: Lessons/Bi-Weekly/Grades_3-4_YearA/Session07_Light_Circuits.md
+      - Session 08 - Scratch Animation: Lessons/Bi-Weekly/Grades_3-4_YearA/Session08_Scratch_Animation.md
+      - Session 09 - Catholic Scientists: Lessons/Bi-Weekly/Grades_3-4_YearA/Session09_Catholic_Scientists.md
+      - Session 10 - Weather Science: Lessons/Bi-Weekly/Grades_3-4_YearA/Session10_Weather_Science.md
+      - Session 11 - Lenten Engineering: Lessons/Bi-Weekly/Grades_3-4_YearA/Session11_Lenten_Engineering.md
+      - Session 12 - Plants Growth: Lessons/Bi-Weekly/Grades_3-4_YearA/Session12_Plants_Growth.md
+      - Session 13 - Easter Tech: Lessons/Bi-Weekly/Grades_3-4_YearA/Session13_Easter_Tech.md
+      - Session 14 - Dash Challenge: Lessons/Bi-Weekly/Grades_3-4_YearA/Session14_Dash_Challenge.md
+      - Session 15 - Simple Machines: Lessons/Bi-Weekly/Grades_3-4_YearA/Session15_Simple_Machines.md
+      - Session 16 - Little Bits: Lessons/Bi-Weekly/Grades_3-4_YearA/Session16_Little_Bits.md
+      - Session 17 - Exhibition: Lessons/Bi-Weekly/Grades_3-4_YearA/Session17_Exhibition.md
+    - Grades 3-4 Year B:
+      - Lessons/Bi-Weekly/Grades_3-4_YearB/README.md
+      - Session 01 - Design Thinking: Lessons/Bi-Weekly/Grades_3-4_YearB/Session01_Design_Thinking.md
+      - Session 02 - Ozobot Coding: Lessons/Bi-Weekly/Grades_3-4_YearB/Session02_Ozobot_Coding.md
+      - Session 03 - Tower Challenge: Lessons/Bi-Weekly/Grades_3-4_YearB/Session03_Tower_Challenge.md
+      - Session 04 - Ecosystems: Lessons/Bi-Weekly/Grades_3-4_YearB/Session04_Ecosystems.md
+      - Session 05 - Scratch Games: Lessons/Bi-Weekly/Grades_3-4_YearB/Session05_Scratch_Games.md
+      - Session 06 - Thanksgiving Design: Lessons/Bi-Weekly/Grades_3-4_YearB/Session06_Thanksgiving_Design.md
+      - Session 07 - Christmas Circuits: Lessons/Bi-Weekly/Grades_3-4_YearB/Session07_Christmas_Circuits.md
+      - Session 08 - Digital Stories: Lessons/Bi-Weekly/Grades_3-4_YearB/Session08_Digital_Stories.md
+      - Session 09 - Faith Science: Lessons/Bi-Weekly/Grades_3-4_YearB/Session09_Faith_Science.md
+      - Session 10 - Geology Rocks: Lessons/Bi-Weekly/Grades_3-4_YearB/Session10_Geology_Rocks.md
+      - Session 11 - Lenten Service: Lessons/Bi-Weekly/Grades_3-4_YearB/Session11_Lenten_Service.md
+      - Session 12 - Life Cycles: Lessons/Bi-Weekly/Grades_3-4_YearB/Session12_Life_Cycles.md
+      - Session 13 - Easter Creation: Lessons/Bi-Weekly/Grades_3-4_YearB/Session13_Easter_Creation.md
+      - Session 14 - Ozobot Challenge: Lessons/Bi-Weekly/Grades_3-4_YearB/Session14_Ozobot_Challenge.md
+      - Session 15 - Compound Machines: Lessons/Bi-Weekly/Grades_3-4_YearB/Session15_Compound_Machines.md
+      - Session 16 - Makey Makey: Lessons/Bi-Weekly/Grades_3-4_YearB/Session16_Makey_Makey.md
+      - Session 17 - Celebration: Lessons/Bi-Weekly/Grades_3-4_YearB/Session17_Celebration.md
+    - Grades 5-6 Year A:
+      - Lessons/Bi-Weekly/Grades_5-6_YearA/README.md
+      - Session 01 - Design Process: Lessons/Bi-Weekly/Grades_5-6_YearA/Session01_Design_Process.md
+      - Session 02 - Sphero Advanced: Lessons/Bi-Weekly/Grades_5-6_YearA/Session02_Sphero_Advanced.md
+      - Session 03 - Structural Engineering: Lessons/Bi-Weekly/Grades_5-6_YearA/Session03_Structural_Engineering.md
+      - Session 04 - Body Systems: Lessons/Bi-Weekly/Grades_5-6_YearA/Session04_Body_Systems.md
+      - Session 05 - Scratch Advanced: Lessons/Bi-Weekly/Grades_5-6_YearA/Session05_Scratch_Advanced.md
+      - Session 06 - Thanksgiving Innovation: Lessons/Bi-Weekly/Grades_5-6_YearA/Session06_Thanksgiving_Innovation.md
+      - Session 07 - Christmas Electronics: Lessons/Bi-Weekly/Grades_5-6_YearA/Session07_Christmas_Electronics.md
+      - Session 08 - App Inventor: Lessons/Bi-Weekly/Grades_5-6_YearA/Session08_App_Inventor.md
+      - Session 09 - Catholic Scientists: Lessons/Bi-Weekly/Grades_5-6_YearA/Session09_Catholic_Scientists.md
+      - Session 10 - Environmental Science: Lessons/Bi-Weekly/Grades_5-6_YearA/Session10_Environmental_Science.md
+      - Session 11 - Lenten Engineering: Lessons/Bi-Weekly/Grades_5-6_YearA/Session11_Lenten_Engineering.md
+      - Session 12 - Life Science: Lessons/Bi-Weekly/Grades_5-6_YearA/Session12_Life_Science.md
+      - Session 13 - Easter Tech: Lessons/Bi-Weekly/Grades_5-6_YearA/Session13_Easter_Tech.md
+      - Session 14 - Sphero Challenge: Lessons/Bi-Weekly/Grades_5-6_YearA/Session14_Sphero_Challenge.md
+      - Session 15 - Physics Motion: Lessons/Bi-Weekly/Grades_5-6_YearA/Session15_Physics_Motion.md
+      - Session 16 - Advanced Invention: Lessons/Bi-Weekly/Grades_5-6_YearA/Session16_Advanced_Invention.md
+      - Session 17 - Exhibition: Lessons/Bi-Weekly/Grades_5-6_YearA/Session17_Exhibition.md
+    - Grades 5-6 Year B:
+      - Lessons/Bi-Weekly/Grades_5-6_YearB/README.md
+      - Session 01 - Engineering Thinking: Lessons/Bi-Weekly/Grades_5-6_YearB/Session01_Engineering_Thinking.md
+      - Session 02 - Sphero Sensors: Lessons/Bi-Weekly/Grades_5-6_YearB/Session02_Sphero_Sensors.md
+      - Session 03 - Architecture: Lessons/Bi-Weekly/Grades_5-6_YearB/Session03_Architecture.md
+      - Session 04 - Forensic Science: Lessons/Bi-Weekly/Grades_5-6_YearB/Session04_Forensic_Science.md
+      - Session 05 - Scratch Games: Lessons/Bi-Weekly/Grades_5-6_YearB/Session05_Scratch_Games.md
+      - Session 06 - Gratitude Design: Lessons/Bi-Weekly/Grades_5-6_YearB/Session06_Gratitude_Design.md
+      - Session 07 - Advent Coding: Lessons/Bi-Weekly/Grades_5-6_YearB/Session07_Advent_Coding.md
+      - Session 08 - App Design: Lessons/Bi-Weekly/Grades_5-6_YearB/Session08_App_Design.md
+      - Session 09 - Science Faith: Lessons/Bi-Weekly/Grades_5-6_YearB/Session09_Science_Faith.md
+      - Session 10 - Space Science: Lessons/Bi-Weekly/Grades_5-6_YearB/Session10_Space_Science.md
+      - Session 11 - Mercy Engineering: Lessons/Bi-Weekly/Grades_5-6_YearB/Session11_Mercy_Engineering.md
+      - Session 12 - Ecosystems: Lessons/Bi-Weekly/Grades_5-6_YearB/Session12_Ecosystems.md
+      - Session 13 - New Life Tech: Lessons/Bi-Weekly/Grades_5-6_YearB/Session13_New_Life_Tech.md
+      - Session 14 - Robot Olympics: Lessons/Bi-Weekly/Grades_5-6_YearB/Session14_Robot_Olympics.md
+      - Session 15 - Energy Science: Lessons/Bi-Weekly/Grades_5-6_YearB/Session15_Energy_Science.md
+      - Session 16 - Innovation Lab: Lessons/Bi-Weekly/Grades_5-6_YearB/Session16_Innovation_Lab.md
+      - Session 17 - Celebration: Lessons/Bi-Weekly/Grades_5-6_YearB/Session17_Celebration.md
+
+  - Resources:
+    - Overview: Resources/README.md
+    - Teacher Resources:
+      - Quick Start Guide: Resources/Quick_Start_Guide.md
+      - Materials Inventory: Resources/Materials_Inventory_Checklist.md
+      - CSCOE Library Guide: Resources/CSCOE_Library_Planning_Guide.md
+      - Catholic Scientists: Resources/Catholic_Scientists_Heritage.md
+      - Wonder & Curiosity Guide: Resources/Wonder_Curiosity_Guide.md
+      - Teacher Self-Evaluation: Resources/Teacher_Self_Evaluation.md
+      - Differentiation Guide: Resources/Differentiation_Guide.md
+      - Student Progress Tracker: Resources/Student_Progress_Tracker.md
+      - Substitute Teacher Guide: Resources/Substitute_Teacher_Guide.md
+      - FAQ & Troubleshooting: Resources/FAQ_Troubleshooting.md
+    - Parent Resources:
+      - Parent Communication Guide: Resources/Parent_Communication_Guide.md
+      - Weekly Parent Sheet: Resources/Weekly_Parent_Sheet_Template.md
+      - Volunteer Guide: Resources/Volunteer_Guide.md
+    - Planning & Events:
+      - Liturgical Calendar: Resources/Liturgical_Calendar_Integration.md
+      - Budget Request Templates: Resources/Budget_Request_Templates.md
+      - STREAM Night Guide: Resources/STREAM_Night_Guide.md
+
+  - Templates:
+    - Overview: Templates/README.md
+    - Lesson Plan Template: Templates/Lesson_Plan_Template.md
+    - Project-Based Learning: Templates/Project_Based_Learning_Template.md
+    - Cross-Curricular Unit: Templates/Cross_Curricular_Unit_Template.md
+
+  - Rubrics:
+    - Overview: Rubrics/README.md
+    - Faith-Reason Integration: Rubrics/Faith_Reason_Integration_Rubric.md
+    - Service-Oriented STEM: Rubrics/Service_Oriented_STEM_Rubric.md
+    - 21st Century Skills: Rubrics/21st_Century_Skills_Assessment.md
+    - Student Project Rubric: Rubrics/Student_Project_Rubric.md
+
+  - Student Resources:
+    - Overview: Student_Resources/README.md
+    - STREAM Journal Cover: Student_Resources/STREAM_Journal_Cover.md
+    - My STREAM Goals: Student_Resources/My_STREAM_Goals.md
+    - Engineering Design Process: Student_Resources/Engineering_Design_Process.md
+    - Wonder Journal Page: Student_Resources/Wonder_Journal_Page.md
+    - Project Reflection: Student_Resources/Project_Reflection.md
+
+  - About:
+    - About the Author: about.md
+    - Contributing: CONTRIBUTING.md
+    - License: LICENSE.md

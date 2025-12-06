@@ -1,0 +1,7 @@
+# C-STREAM MkDocs Dependencies
+mkdocs-material>=9.0.0
+mkdocs-minify-plugin>=0.7.0
+mkdocs-macros-plugin>=1.0.0
+mkdocs-print-site-plugin>=2.3.0
+pillow>=10.0.0
+cairosvg>=2.7.0
