@@ -139,6 +139,7 @@ Ready-to-print weekly take-home sheets.
 - Material care guidelines
 
 - Direct link to [CSCOE Library](https://cscoe.myturn.com/library/)
+- Direct link to [Engineering is Elementary collection](https://cscoe.myturn.com/library/inventory/browse?q=Engineering+is+Elementary)
 
 **Use for:** Planning material requests from the Archdiocese resource library
 
