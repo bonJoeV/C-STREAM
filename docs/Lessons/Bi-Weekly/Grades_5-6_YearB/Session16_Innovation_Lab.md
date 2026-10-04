@@ -1,247 +1,89 @@
 ---
 title: "Session 16: Innovation Lab"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B original invention"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - astronomy
-  - service
-  - arts
----
-
-
-# Session 16: Innovation Lab 💡
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 16 of 17
-
-Students create original inventions, applying all skills learned throughout Year B to solve real-world problems.
-
+description: "A bounded information-sort invention with criterion, three requests and retest"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 16: Innovation Lab
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Apply integrated skills to original invention
-
-- Follow complete design thinking process
-
-- Create working prototype
-
-- Present invention with rationale
-
----
-
-# Session 16: Innovation Lab
-
-## Materials Needed
-
-- 📦 Various making materials
-
-- 💻 Digital tools as needed
-
-- 📓 Engineering journals
-
-- 🏆 Invention showcase materials
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Innovation for Good** — Every saint innovated in their own way—new ways to serve, teach, or help! Our inventions should serve the common good.
-
-### Scripture
-> *"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23
-
-### Opening Prayer
-*Dear God, you gave us creative minds to invent and innovate. Help us use all we've learned to create something that truly helps others. May our work honor you. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Capstone Challenge:**
-   - "Apply EVERYTHING from Year B!"
-   - Design thinking + sensors + architecture + forensic thinking + games + gratitude + apps + space + mercy + ecosystems + energy
-2. **Year B Skills Review:**
-   - Design thinking (deep empathy)
-   - Sensor-based robotics
-   - Architecture and structures
-   - Scientific investigation
-   - Game design
-   - App development
-   - Systems thinking
-3. **Invention Requirements:**
-   - Solve a REAL problem
-   - Use Year B skills
-   - Be original and creative
-   - Be able to present
-
-### Main Activity: Innovation Lab (31 minutes)
-
-**Part 1: Problem Discovery (5 minutes)**
-
-**Find a Problem Worth Solving:**
-
-- Observe: What frustrates people around you?
-
-- Listen: What do people complain about?
-
-- Research: What needs exist?
-
-**Good Problems:**
-
-- Affect real people
-
-- Haven't been perfectly solved
-
-- Match your skills/resources
-
-- You care about solving
-
-**Choose Your Focus:**
-
-- Write problem statement
-
-- Who is affected?
-
-- Why does it matter?
-
-**Part 2: Invention Development (22 minutes)**
-
-**Full Design Thinking Cycle:**
-
-**1. EMPATHIZE (3 min):**
-
-- Deep understanding of people with this problem
-
-- What's their experience?
-
-- What have they tried?
-
-- What would help most?
-
-**2. DEFINE (2 min):**
-
-- Clear problem statement
-
-- "How might we [solve problem] for [users]?"
-
-**3. IDEATE (4 min):**
-
-- Generate many solutions
-
-- Wild ideas welcome!
-
-- Build on possibilities
-
-- Select promising approach
-
-**4. PROTOTYPE (10 min):**
-
-- Build your invention!
-
-- Options:
-  - Physical prototype
-  - App/digital solution
-  - Combined approach
-  - System/service design
-
-- Focus on demonstrating the concept
-
-**5. TEST (3 min):**
-
-- Does it work?
-
-- Get quick feedback
-
-- Note improvements
-
-**Part 3: Pitch Preparation (4 minutes)**
-
-- Prepare 2-minute pitch:
-  - Problem you're solving
-  - Who benefits
-  - Your solution
-  - How it works
-  - Why it matters
-
-### Engineering Journal (5 minutes)
-1. Invention name: ___
-2. Problem solved: ___
-3. User group: ___
-4. Solution sketch and description:
-5. Write: "I'm proud of this because..."
-
-### Closing Circle (3 minutes)
-1. **Preview** — Quick invention previews
-2. **Celebration** — "You are all inventors!"
-3. **Closing Prayer** — *"Thank you, God, for creativity and the ability to solve problems. Bless these inventions and the people they will serve. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-E1 - criterion and constraint; CST-E2 - test/revision evidence; CST-C2 - respectful user decision. Use one dry cardboard/paper function, not "everything" from the year; a mockup is not a validated working device. No bodily, clinical, launching, chemical, mains, or improvised battery projects. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Identified real problem
-
-- [ ] Applied design process
-
-- [ ] Created working prototype
-
-- [ ] Prepared presentation
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler problem focus
-
-- Guided prototyping
-
-- Partner work
-
-### For Advanced Students
-
-- Complex multi-part invention
-
-- User testing incorporated
-
-- Implementation planning
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Practice your pitch for family! Get feedback to improve. Research young inventors and their stories. Discuss: What problems in our world need solving? How could you contribute?
-
----
-
-## Teacher Notes
-
-- Second-to-last session
-
-- Inventions ready for exhibition
-
-- Encourage originality
-
-- Document for portfolios
-
-- Consider competition or showcase
-
----
-
-**Previous:** [Session 15 — Energy Science](./Session15_Energy_Science.md)  
-**Next:** [Session 17 — Celebration](./Session17_Celebration.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Capstone |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can design/test/revise one information-routing function and explain a user safeguard. A bounded invention can integrate skills without pretending to apply everything. |
+| Domains / Catholic connection | E, C; service and inclusive choices, no medical, safety or real-world efficacy claim. |
+| Local standards | CST-E1: criterion/constraint; CST-E2: test/retest; CST-C2: dignity/access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; physical paper routing model, not actual app. |
+| Difficulty / entry | Developing; teach decision rules and test log here. |
+| Prep / cleanup | Light: first 15 min/repeat 10; cleanup 4 min. Kit: Routing Invention. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; 4/5/7/9 teams. Brief: "A visitor needs to find
+DRAW or READ activity instructions; can PASS without recording identity."
+Criterion: peer routes DRAW/READ/PASS correctly unaided; constraint one base,
+six tokens, 0.5 m tape. Copy rule: request DRAW -> drawing panel, READ ->
+reading panel, PASS -> no activity, unrecognized -> ask visitor to choose
+again, no guesses about ability. Starter forms: branching tabletop diagram or
+three labelled pockets; students invent purposeful form within dry kit.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardboard base; cardstock token sheet; ruler; marker; brief sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper panels | 3/team | 12 | 15 | 21 | 27 |
+| Masking tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable/reused; tools reusable; no powered extension.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Criterion/constraint:** success/limit. **Prototype:** test model.
+**Iteration:** evidence-based change. **Common misconception:** attractive
+interface already routes correctly. **If asked, "Is it patentable?"** We cannot
+establish originality; explain choices and tests. Six tokens, two/category;
+three requests with one error =2/3 correct, not "most users helped".
+Unexpected request should not generate a guessed profile.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Which one function will we test?" Connect inclusive service.
+2. **4-11 (7 min):** Model two forms, rule and three-request log.
+3. **11-25 (14 min):** Each sketches two ideas and criterion/constraint; team builds one, rotates designer/maker/operator.
+4. **25-35 (10 min):** Each operates one request, record baseline; revise unclear branch/label and retest all three from same start.
+5. **35-41 (6 min):** Individual original/retest counts, justified revision and privacy/PASS safeguard.
+6. **41-45 (4 min):** Save prototypes/logs for exhibition, count tokens/tools and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Did you hint? What happens on unknown request? Can the user pass?"
+Each has criterion/constraint, three baseline/retest results and dignity
+reason. 1 unsupported; 2 prompted; 3 independent; 4 form/access tradeoff;
+NE for untested work.
+
+## IF THINGS GO WRONG / SAFETY
+
+No cardboard -> paper layout preserves routing. All pass -> compare another
+form, keep results honest. Scope too broad -> one function only.
+No medical/bodily/chemical/launching/mains/battery projects, real user data,
+public media or invented benefit. Stop/report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: rule arrows/word labels, scribed result.
+Grade 6/challenge: defend unknown-input behavior and label-space tradeoff.
+Indoor tabletop model independent of devices/weather.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep each test/revision, count six tokens/team, return tools.
+**Explored:** useful invention. **Did:** built/tested/revised routing.
+**Learned:** one function and honest checks. **Catholic connection:** dignity.
+**Ask:** "What happened when someone passed?" No routine homework.
+
+**Previous:** [Energy Science](./Session15_Energy_Science.md)
+**Next:** [Celebration Exhibition](./Session17_Celebration.md)

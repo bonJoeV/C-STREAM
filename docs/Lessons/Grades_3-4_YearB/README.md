@@ -27,7 +27,7 @@ This is the **Year B curriculum** for Grades 3-4, alternating with [Year A](../G
 
 - **Sessions:** **33 represented meetings / 1,320 minutes in 17 lesson files**; Week 32 omitted as break, Week 17 included in Marine Science
 
-- **Technology:** Scratch coding, KEVA planks, basic robotics
+- **Technology:** Executed Scratch in Game Design; ordinary tools/materials elsewhere
 
 ---
 
@@ -43,30 +43,36 @@ This is the **Year B curriculum** for Grades 3-4, alternating with [Year A](../G
 | 7-9 | [Architectural Marvels](Week07-09_Architectural_Marvels.md) | Structure & design | Cathedral builders |
 | 10 | [Fall Festival Engineering](Week10_Fall_Festival.md) | Applied engineering | Harvest celebration |
 | 11 | [Thanksgiving Gratitude](Week11_Thanksgiving_Gratitude.md) | Data & reflection | Gratitude practices |
-| 12 | [Gifts for Others](Week12_Gifts_Others.md) | Service projects | St. Elizabeth Ann Seton |
+| 12 | [Gifts for Others](Week12_Gifts_Others.md) | User-tested help card | Dignity and thoughtful giving |
 | 13 | [Advent Preparation](Week13_Advent_Preparation.md) | Light & hope | Jesse Tree symbols |
 
 ### Second Semester
 
 | Week | Lesson | Focus | Saint/Theme |
 |------|--------|-------|-------------|
-| 14-17 | [Marine Science Lab](Week14-17_Marine_Science.md) | Ocean ecosystems | St. Brendan the Navigator |
+| 14-17 | [Marine Science Lab](Week14-17_Marine_Science.md) | Sourced zones, feeding model, debris retest | Creation care |
 | 18 | [New Year Goals](Week18_New_Year_Goals.md) | Goal setting | Resolution projects |
 | 19-22 | [Game Design Studio](Week19-22_Game_Design.md) | Scratch game creation | St. John Bosco |
 | 23 | [Catholic Schools Week](Week23_Catholic_Schools.md) | Faith & learning | Community celebration |
-| 24-27 | [Sustainable City](Week24-27_Sustainable_City.md) | Environmental design | St. Kateri Tekakwitha |
-| 28 | [Pi Day Activities](Week28_Pi_Day.md) | Mathematical thinking | Sacred geometry |
+| 24-27 | [Sustainable City](Week24-27_Sustainable_City.md) | Twenty-token budget and route retest | Stewardship without stereotypes |
+| 28 | [Pi Day Activities](Week28_Pi_Day.md) | Circle measurements and radial art | Honest mathematical wonder |
 | 29-31 | [Weather Station](Week29-31_Weather_Station.md) | Meteorology | God's creation |
 | 33 | [Easter Engineering](Week33_Easter_Engineering.md) | Resurrection projects | Easter celebration |
 | 34 | [Year B Showcase](Week34_Showcase.md) | Celebration | Year-end exhibition |
 
 ## Audit status and availability
 
-Read the [Grades 3-4 review](../../Review/Grades_3-4_Review.md) and [lesson audit](../../Review/Grades_3-4_Audit.csv). Flight, Game Design and Weather Station are rebuilt; the rest are retained or targeted improvements with remaining preparation needs. No whole-year substitute-readiness or standards certification is claimed.
+Read the [Grades 3-4 review](../../Review/Grades_3-4_Review.md) and [lesson audit](../../Review/Grades_3-4_Audit.csv). All 17 packages have complete native meeting directions, quantities and individual evidence. Fourteen were completed in the all-60 follow-up; Flight, Game Design and Weather remain unchanged. Document completion is not whole-year classroom, substitute or official-standards certification.
 
 Grade 3 uses whole-number comparisons and supported diagrams; Grade 4 adds repeat tests, limits and tradeoffs. Either grade may begin in either rotation. Scratch's primary pathway needs functioning computers; its paper path evidences CT, not executable programming. Weather has a complete indoor simulated-data path, explicitly not observed local weather.
 
-Do not assume equipment, CSCOE loans, internet, software compatibility or trained helpers. Verify in advance. Biographies/quotations, current CSW theme, specific historical figures and source numbers are **VERIFICATION REQUIRED** wherever not linked to a verified source; unresolved source facts are not taught as established facts. In particular, Gusmao is not labeled Blessed/saint. Home activities/material donations are optional, never prerequisites.
+Do not assume equipment, loans, software compatibility or trained helpers. Verify in advance. New packages omit unneeded unverified biography/quotation/theme claims. Marine zones supply a NOAA source, ecology cards explicitly model hypothetical relationships, and source/official-alignment limits remain in the review. Home activities/material donations are optional, never prerequisites.
+
+Optional preparation aid: [Grades 1-6 reference routines](../../Resources/Grade_Band_Reference_Routines.md).
+Use the actual lesson's complete supplies/times, not a generic nine-kit issue.
+Flight, Game Design and Weather retain their own pair/trio allocations.
+When equipment is shared, use the specified testing/device turns and log
+unobserved operation separately; do not enlarge groups or count watching.
 
 ---
 
@@ -80,7 +86,7 @@ Do not assume equipment, CSCOE loans, internet, software compatibility or traine
 | Coding | Animation | Game Design |
 | Environmental Science | Land/Water Systems | Ocean/Climate |
 | Data Analysis | Science Research | Weather/Mapping |
-| Faith Integration | Various Saints | Different Saints |
+| Faith Integration | Truth, service and stewardship | Truth, service and stewardship in new contexts |
 
 ---
 

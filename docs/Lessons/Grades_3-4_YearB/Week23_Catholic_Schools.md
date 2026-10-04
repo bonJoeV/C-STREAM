@@ -1,243 +1,70 @@
 ---
 title: "Week 23: Catholic Schools Week"
-description: "Grades 3-4 Year B celebration of Catholic education"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - astronomy
-  - catholic-schools-week
-  - service
-  - arts
----
-
-# 🏫 Week 23: Catholic Schools Week
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Celebration) |
-
+description: "A privacy-respecting school-appreciation survey and chart"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T3, CST-M2, CST-M3, CST-A3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Metric ruler, Markers]
 ---
 
 # Week 23: Catholic Schools Week
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Create data visualizations about Catholic education
-2. Design interactive displays
-3. Present information clearly
-4. Apply STREAM skills to celebration
-
-### Faith Integration Objectives
-Students will be able to:
-1. Appreciate Catholic education's gift
-2. Celebrate faith and learning together
-3. Share faith with community
-
----
-
-# Week 23: Catholic Schools Week
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Catholic Education** — Catholic schools exist to form the whole person — mind, body, and spirit. We learn not just facts, but wisdom. We grow not just smarter, but holier. Faith and reason dance together!
-
-### Scripture Connection
-> "Train up a child in the way he should go; even when he is old he will not depart from it."
-> — Proverbs 22:6
-
-### Theme Connection
-**Current CSW theme: VERIFICATION REQUIRED** with the school's current-year communication/NCEA source before display. Do not reuse a dated theme as current.
-
----
-
-## 📚 Materials Needed
-
-- Survey materials
-
-- Graphing supplies
-
-- Poster materials
-
-- Computer access (optional)
-
-- Display materials
-
-- School history information
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Thank You, Lord, for our Catholic school! Thank You for teachers who share faith and knowledge. Thank You for classmates who learn and pray with us. Bless Catholic schools everywhere! Amen."
-
-### Catholic Schools Week Introduction (5 min)
-**Why we celebrate:**
-
-**History:**
-
-- Catholic Schools Week began in 1974
-
-- Celebrates Catholic education in America
-
-- Honors students, teachers, families, communities
-
-**This year's theme:**
-
-- Explain the theme
-
-- How does our school show this?
-
-- What makes Catholic schools special?
-
-**Faith + Learning:**
-
-- We start with prayer
-
-- We learn about God in every subject
-
-- We serve others
-
-- We're part of a faith community
-
-### Data Collection Activity (12 min)
-**Survey: Why We Love Our School**
-
-**Create class data:**
-
-- Favorite subject (including Religion!)
-
-- Favorite school tradition
-
-- Best thing about Catholic school
-
-- Years at this school
-
-- Service projects participated in
-
-**Conduct mini-survey:**
-
-- Each student answers
-
-- Compile class totals
-
-- Grade 3: compare whole-number category totals. Grade 4: represent part of class as a count/fraction if already taught; no required percentages.
-
-**Math connections:**
-
-- Fractions of class
-
-- Whole-number comparisons; percentages are later optional enrichment
-
-- Graphing
-
-### Data Visualization (12 min)
-**Create Catholic Schools Week displays:**
-
-**Option A: Class Infographic**
-
-- Combine all data into one poster
-
-- Include school statistics
-
-- Add fun facts
-
-- Make visually appealing
-
-**Option B: Individual Graph**
-
-- Choose one data set
-
-- Create a labeled bar graph; pie charts are not required
-
-- Include title, labels, key
-
-- Add school spirit decoration
-
-**Option C: Digital Presentation**
-
-- Use computer to create slide
-
-- Include images and data
-
-- Share with school community
-
-**Faith integration:**
-
-- How do numbers tell our story?
-
-- What do the data show about our community?
-
-- How is faith visible in our answers?
-
-### Sharing & Celebration (7 min)
-**Present findings:**
-
-- Share key statistics
-
-- What surprised you?
-
-- What are you proud of?
-
-**Appreciation moment:**
-
-- Thank teachers
-
-- Thank families
-
-- Thank each other
-
-- Thank God!
-
-**Class commitment:**
-"This week I will show appreciation by..."
-
-### Closing (2 min)
-**CSW Challenge:**
-Ideas for the week:
-
-- Write thank you notes
-
-- Pray for teachers
-
-- Be extra helpful
-
-- Share why you love your school
-
-**Closing Prayer:**
-"Lord, bless all Catholic schools! Bless our teachers who share their faith with us. Bless our families who sacrifice for our education. Bless our classmates who journey with us. Help us be grateful every day, not just this week. May Catholic schools continue to form saints and scholars for Your glory! Amen."
-
----
-
-## 📎 Home Connection
-> "We celebrated Catholic Schools Week today with data and gratitude! Ask your child: 'What did the class data show?' 'Why do you love your school?' 'How will you show appreciation this week?' Thank YOU for choosing Catholic education for your child!"
-
----
-
-## ✅ Assessment
-
-- Participated in data collection
-
-- Created accurate data visualization
-
-- Expressed appreciation for Catholic education
-
-- Identified what makes Catholic school special
-
----
-
-**Lesson Version:** 1.0 — Year B | **
-
-## Evidence and privacy
-
-Choose one survey question rather than five simultaneous datasets. Do not require disclosure of family finances, service participation or religious feeling. Each child reads two bars and explains a comparison. Optional digital display is teacher-managed/private. Verify school-history statistics and the CSW start date before displaying as sourced facts.
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Community data; **one 40-minute meeting**.
+**Objective:** make a three-category class survey chart, read two bars and
+revise a caption to respect privacy/sample limits. **Why:** appreciation and
+truthful data communication can coexist.
+Catholic/CST-C2 no coerced disclosure; CST-T3 data/privacy; CST-M2 chart;
+CST-M3 counts/difference; CST-A3 caption critique. Official alignment
+**VERIFICATION REQUIRED**. Technology **None**; introductory.
+Prep 10; cleanup 5. No dated national theme/history statistics required.
+
+## Before class and exact supplies
+
+Question on board: "Which classroom appreciation activity would you choose:
+thank-you drawing, helpful cleanup, quiet prayer?" One anonymous choice,
+abstention permitted; not a holiness survey. Per pupil: ballot scrap, graph
+sheet/pencil. Teams <=3 (4/5/7/9) share ruler/two markers. Teacher board/timer.
+If survey unsuitable, **simulated practice counts 6/4/3**, labeled not class
+data. No family finances/years of attendance questions. Save charts, reuse tools.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Ballots; graph sheets; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Markers (2/team) | 8 | 10 | 14 | 18 |
+
+## Vocabulary/background/SAFETY
+
+Survey = question with recorded responses; anonymous = unnamed; sample =
+responding group; caption = explanatory label. **Misconception:** choices
+measure faith. **If asked "Can we say all Catholic children prefer drawing?"**
+No; this group/simulation cannot represent all pupils.
+Paper indoors; adult keeps ballots private/destroys after tally, no public names/
+media, no obligatory prayer disclosure. Report broken supplies.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional gratitude prayer; explain Catholic appreciation/privacy.
+2. **4-10:** Model one response/one tally; valid total excludes blank/double marks.
+3. **10-20:** Simultaneously collect ballots, tally/check counts on board.
+4. **20-29:** Each graphs three bars 0-based scale, title/unit/source label;
+   peer critiques misleading caption and pupil revises.
+5. **29-35:** Each child reads two bars, total/difference and privacy/sample limit.
+   Practice key: total 13; drawing exceeds cleanup by 2.
+6. **35-40:** Collect dated charts, adult handles ballots, cap/count/clear.
+
+## Success/access/troubleshooting
+
+Meets: accurate chart/comparison, responsible caption/source and access choice.
+Grade 3/support: pre-drawn 0-25 axis/oral evidence. Grade 4/challenge:
+nonresponse/sample bias in words, no required percentages/pie chart.
+Mismatch: recount, label invalid ballots; never adjust silently. No survey:
+labeled practice data. Early finish: explain an unanswered question.
+
+**Family:** We used school-appreciation data responsibly. Ask, "Whose responses
+does your graph represent?" Optional: thank a school helper.

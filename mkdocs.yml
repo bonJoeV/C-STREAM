@@ -8,6 +8,9 @@ site_description: >-
   Catholic Science, Technology, Religion, Engineering, Arts, and Math - 
   Integrating faith and reason in STEM education for K-6 Catholic schools.
 
+exclude_docs: |
+  /README.md
+
 # Repository
 repo_name: bonJoeV/C-STREAM
 repo_url: https://github.com/bonJoeV/C-STREAM
@@ -168,9 +171,11 @@ nav:
     - Family Communication: Review/Family_Communication.md
     - Standards Traceability: Review/Standards_Traceability.md
     - K External Candidates: Review/Kindergarten_External_Alignment.md
+    - External Alignment Candidates: Review/External_Alignment.md
     - Gap Analysis: Review/Gap_Analysis.md
     - Implementation Plan: Review/Implementation_Plan.md
     - Validation: Review/Validation.md
+    - School Release Checklist: Review/School_Release_Checklist.md
     - Repository Inventory: Review/Repository_Inventory.md
   - Getting Started:
     - Quick Start Guide: Resources/Quick_Start_Guide.md
@@ -478,6 +483,7 @@ nav:
       - Student Progress Tracker: Resources/Student_Progress_Tracker.md
       - Substitute Teacher Guide: Resources/Substitute_Teacher_Guide.md
       - Kindergarten Routines: Resources/Kindergarten_Reference_Routines.md
+      - Grades 1-6 Routines: Resources/Grade_Band_Reference_Routines.md
       - FAQ & Troubleshooting: Resources/FAQ_Troubleshooting.md
     - Parent Resources:
       - Parent Communication Guide: Resources/Parent_Communication_Guide.md

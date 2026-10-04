@@ -1,227 +1,87 @@
 ---
 title: "Session 3: Structural Engineering"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A engineering"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - robotics
-  - engineering
-  - service
-  - arts
----
-
-
-# Session 3: Structural Engineering 🏗️
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 3 of 17
-
-Students explore structural engineering principles by designing and testing load-bearing structures.
-
+description: "A bounded folded-beam test and force-path redesign"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 3: Structural Engineering
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand key structural engineering concepts
-
-- Identify forces: tension, compression, shear
-
-- Build and test load-bearing structures
-
-- Analyze structural failures
-
----
-
-# Session 3: Structural Engineering
-
-## Materials Needed
-
-- 📦 KEVA Planks (from CSCOE library)
-
-- Dry straws and tape or planks; no toothpicks/food models
-
-- 🪙 Weights for testing
-
-- 📏 Measuring tools
-
-- 📓 Engineering journals
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Medieval Cathedral Builders** — Anonymous craftsmen who built soaring cathedrals to glorify God. Their engineering still stands 800+ years later!
-
-### Scripture
-> *"Unless the Lord builds the house, the builders labor in vain."* — Psalm 127:1
-
-### Opening Prayer
-*Dear God, like the cathedral builders of old, help us build structures that honor you and serve others. Give us wisdom to create with integrity. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (8 minutes)
-1. **Structural Engineering:**
-   - "Making sure buildings don't fall down!"
-   - Engineers calculate forces and design structures
-2. **Key Forces:**
-   - **Tension** — Pulling apart (rope in tug-of-war)
-   - **Compression** — Pushing together (standing on box)
-   - **Shear** — Sliding (deck of cards)
-3. **Structural Elements:**
-   - Triangles = Strong! (forces distributed)
-   - Arch = Distributes compression
-   - Column = Resists compression
-   - Beam = Spans distances
-4. **Cathedral Builders:**
-   - Built structures that stood centuries
-   - Flying buttresses, pointed arches
-   - Glory to God through engineering
-
-### Main Activity: Structural Challenge (28 minutes)
-
-**Part 1: Force Demonstrations (5 minutes)**
-
-- Tension: Stretch rubber band
-
-- Compression: Push sponge
-
-- Shear: Slide books
-
-- Feel the forces!
-
-- Where do these occur in buildings?
-
-**Part 2: The Challenge (20 minutes)**
-
-**Challenge:** Build a bridge or tower that holds maximum weight
-
-**Bridge Challenge Option:**
-
-- Span 20 cm on low stable supports with a catching tray; adult approves support arrangement
-
-- Use provided materials
-
-- Hold weight in the middle
-
-- Goal: Maximum weight before failure
-
-**Tower Challenge Option:**
-
-- Build at most 20 cm tall; no standing on furniture or body-weight loading
-
-- Support weight on top
-
-- Use provided materials
-
-- Goal: Maximum weight before failure
-
-**Engineering Process:**
-1. **Design (4 min):**
-   - Sketch with labels
-   - Identify where forces will act
-   - Plan triangulation
-
-2. **Build (12 min):**
-   - Construct structure
-   - Test stability as you build
-   - Make adjustments
-
-3. **Test (4 min):**
-   - Adult adds sealed 10 g packets, at most 100 g total; stop at instability, not intentional collapse
-   - Record weight held
-   - Observe failure point
-
-**Part 3: Analysis (3 minutes)**
-
-- What designs held most weight?
-
-- Where did failures occur?
-
-- What would you change?
-
-- Class discussion
-
-### Engineering Journal (5 minutes)
-1. Sketch your structure (label forces)
-2. Record: Weight held = ____
-3. Write: "My structure failed because..."
-4. Write: "Next time I would..."
-5. Draw a famous structure and identify forces
-
-### Closing Circle (4 minutes)
-1. **Engineering Insights** — "What surprised you?"
-2. **Cathedral Connection** — "How did faith inspire those builders?"
-3. **Closing Prayer** — *"God, thank you for the gift of engineering. May our structures serve people and honor you. Amen."*
-
----
-
-## Assessment
-
-**Local standards (not official):** CST-S3 - individual force labels; CST-E2 - redesign tied to test; CST-M1 - individual load recorded in g. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY
-
-Adult alone loads, within the 100 g cap, onto an inspected low structure over a tray. Keep hands away and no students underneath. Record maximum **safe demonstrated load**, not breaking strength. No sharp food-based construction or loose heavy weights. School must confirm stock, not assume loan availability.
-**Observation Checklist:**
-
-- [ ] Identified three types of forces
-
-- [ ] Applied structural principles
-
-- [ ] Built and tested structure
-
-- [ ] Analyzed failure modes
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Partner work
-
-- Simpler materials
-
-- Lower weight goals
-
-### For Advanced Students
-
-- Efficiency ratio (weight held ÷ materials used)
-
-- Multiple design iterations
-
-- Research famous structural failures
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Look for structural engineering in your community! Find bridges, buildings, arches. Where do you see triangles used for strength? Research famous structures like the Eiffel Tower or Golden Gate Bridge!
-
----
-
-## Teacher Notes
-
-- Reserve KEVA planks from CSCOE
-
-- Have sufficient weights (coins, washers)
-
-- Document with photos
-
-- Connect to local architecture/churches
-
-- Consider field trip to cathedral
-
----
-
-**Previous:** [Session 2 — Sphero Advanced](./Session02_Sphero_Advanced.md)  
-**Next:** [Session 4 — Human Body Systems](./Session04_Body_Systems.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Structures |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can explain a load path and compare a beam before/after folding using safe load in g. Structural decisions need test evidence. |
+| Domains / Catholic connection | S, E, M; church buildings can inspire purposeful work; no unsourced cathedral dates or human-worth comparison. |
+| Local standards | CST-S3: force path; CST-E2: retest; CST-M1: load/span units. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; physical inspected kit required, no KEVA loan assumed. |
+| Difficulty / entry | Developing; teach beam/compression/tension and measurement. |
+| Prep / cleanup | Moderate: first 20 min, repeat 10 min; cleanup 4 min. Kit: Short Beam Test. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations; seat 4/5/7/9 teams. Adult pre-cuts two 10 x 25 cm
+strips/team, sets low books 15 cm apart over trays, pilots 20/40 g flat/folded
+test. Verify four sealed 10 g packets/class; adult only adds/removes.
+Rotate builder/measurer/recorder; serial test visits about one minute/team.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper strips; books | 2 each/team | 8 | 10 | 14 | 18 |
+| Tray; ruler | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.2 m/team | 0.8 m | 1 m | 1.4 m | 1.8 m |
+| Sealed 10 g packets | 4/teacher | 4 | 4 | 4 | 4 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/tape consumable; other pieces reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Beam:** spans supports. **Load:** applied force represented by packet mass.
+**Compression/tension:** pushing/pulling. Geometry/joints affect bending.
+**Common misconception:** tested load is breaking strength.
+**If asked, "Is our bridge safe for people?"** No; tabletop model only.
+Key: two packets = 20 g, four = 40 g, not 400 g. Trace centered load down to
+both supports; no universal "divide weight by number of pieces" law.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Where does a load go?" Brief responsible-work reflection.
+2. **4-11 (7 min):** Model force arrows, span/ruler and adult loading/stop.
+3. **11-25 (14 min):** Each sketches a flat/folded beam; teams make both and measure span, predict bending with reasons.
+4. **25-35 (10 min):** Adult tests both at 20 then 40 g, stopping at sag; teams record original/revised shape results, each observes and explains one change.
+5. **35-41 (6 min):** Individual path/support labels, actual g/span record and evidence-based redesign reason/limit.
+6. **41-45 (4 min):** Adult retrieves/counts packets; pupils stack books, return rulers, save evidence and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Did span stay 15 cm? What changed? Was maximum strength measured?"
+Each has path, correct units, two shape results and justified revision.
+1 unsupported; 2 prompted; 3 independent; 4 identifies confound; NE for untested.
+
+## IF THINGS GO WRONG / SAFETY
+
+Beam sags -> stop, record lower demonstrated load, no destruction.
+Missing packets -> same cardstock-load comparison, note changed quantitative
+g objective. No supports -> diagram reasoning, operation deferred.
+No body weight, loose heavy weights, sharp sticks, towers/climbing or hands
+under load; adult isolates/reports unstable kit.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: precreased strip, arrow labels, oral/scribed record.
+Grade 6/challenge: defend repeatability and material/form tradeoff, not added
+loads. Indoor table path unchanged in winter.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count four packets/tools, save raw records, replenish strips.
+**Explored:** structural form. **Did:** safe comparison.
+**Learned:** load path and test limits. **Catholic connection:** purposeful
+responsible work. **Ask:** "Where did the force go?" No routine homework.
+
+**Previous:** [Sphero Advanced](./Session02_Sphero_Advanced.md)
+**Next:** [Body Systems](./Session04_Body_Systems.md)

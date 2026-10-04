@@ -1,253 +1,72 @@
 ---
 title: "Week 18: New Year Goals"
-description: "Grades 3-4 Year B goal setting and reflection"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - coding
-  - light
-  - astronomy
-  - service
-  - arts
----
-
-# 🎯 Week 18: New Year Goals
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | M (Math - Planning), T (Technology), R (Religion) |
-
+description: "A portfolio-informed goal with observed in-class follow-through"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-M2, CST-M3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Student portfolios, Plain paper, Pencils]
 ---
 
 # Week 18: New Year Goals
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Reflect on first semester learning
-2. Set SMART goals for second semester
-3. Create goal-tracking systems
-4. Plan steps to achieve goals
-
-### Faith Integration Objectives
-Students will be able to:
-1. Seek God's guidance in goal-setting
-2. Connect goals to virtue growth
-3. Commit to purposeful learning
-
----
-
-# Week 18: New Year Goals
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Purposeful Living** — God calls us to live with intention and purpose. Setting goals isn't just about achievement — it's about becoming who God created us to be. We discern His will and work toward it!
-
-### Scripture Connection
-> "For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."
-> — Jeremiah 29:11
-
-### Saint Connection
-**St. Ignatius of Loyola** — Founder of the Jesuits who created the Examen — a daily reflection practice. He taught that reviewing our day helps us see God's presence and make better choices. Reflection leads to growth!
-
----
-
-## 📚 Materials Needed
-
-- Semester 1 work samples/portfolios
-
-- Goal-setting worksheets
-
-- SMART goals template
-
-- Progress tracker templates
-
-- Journals
-
-- Calendar/planning tools
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, You have plans for each of us! As we start a new semester, help us set goals that honor You. St. Ignatius, teach us to reflect and grow. Guide us toward becoming who God created us to be. Amen."
-
-### Semester 1 Review (8 min)
-**Look back to move forward:**
-
-**Review activities:**
-
-- Look through science journals
-
-- Remember major projects
-
-- Review skills learned
-
-**Year B First Semester highlights:**
-
-- Flight and aerodynamics
-
-- Architecture and design
-
-- Marine science
-
-**Reflection questions:**
-
-- What did you learn that surprised you?
-
-- What are you most proud of?
-
-- What was most challenging?
-
-- What would you do differently?
-
-**St. Ignatius' Examen adapted:**
-
-- Where did I see God this semester?
-
-- When was I my best self?
-
-- When did I struggle?
-
-- What am I grateful for?
-
-### SMART Goals Introduction (8 min)
-**What makes a good goal?**
-
-**S.M.A.R.T. framework:**
-
-- **S** = Specific (clearly defined)
-
-- **M** = Measurable (can track progress)
-
-- **A** = Achievable (realistic)
-
-- **R** = Relevant (matters to you)
-
-- **T** = Time-bound (has deadline)
-
-**Examples:**
-
-**Vague goal:** "Get better at coding"
-**SMART goal:** "Complete 5 Scratch projects independently by Week 22"
-
-**Vague goal:** "Be a better scientist"
-**SMART goal:** "Use all 7 steps of scientific method correctly in next experiment"
-
-**Practice together:**
-
-- Take a vague goal
-
-- Make it SMART
-
-- Identify what makes it better
-
-### Personal Goal Setting (15 min)
-**Create your goals:**
-
-**Categories:**
-1. **Academic Goal** — Learning or skills
-2. **Character Goal** — Virtue or behavior
-3. **Faith Goal** — Spiritual growth
-4. **Service Goal** — Helping others
-
-**Worksheet for each goal:**
-
-- My goal: (SMART version)
-
-- Why this matters to me:
-
-- Steps to achieve it:
-
-- How I'll track progress:
-
-- Who can help me:
-
-- Target date:
-
-**Example goals:**
-
-- Academic: "Master one new Scratch coding block each week"
-
-- Character: "Practice patience by counting to 10 before reacting"
-
-- Faith: "Pray for one classmate each day"
-
-- Service: "Help one younger student each week"
-
-**Teacher guidance:**
-
-- Help make goals specific
-
-- Ensure they're achievable
-
-- Connect to upcoming units
-
-### Goal Tracker Design (5 min)
-**Create tracking system:**
-
-**Options:**
-
-- Calendar chart
-
-- Progress bar graphic
-
-- Checklist format
-
-- Journal pages
-
-**Key elements:**
-
-- Visual progress indicator
-
-- Space for notes
-
-- Weekly check-in spots
-
-- Celebration markers
-
-### Closing (2 min)
-**Commitment:**
-
-- Share one goal with partner
-
-- Partner commits to checking in
-
-- Write goals in journal
-
-**Preview:**
-"We'll check on these goals regularly! Next week we start GAME DESIGN!"
-
-**Closing Prayer:**
-"Lord, You know the plans You have for us. Help us follow them faithfully. Give us perseverance when goals feel hard. Help us celebrate progress, not just perfection. St. Ignatius, teach us daily reflection. Bless our second semester! Amen."
-
----
-
-## 📎 Home Connection
-> "We set SMART goals for second semester today! Ask your child: 'What are your goals?' 'Why did you choose them?' 'How can I help you achieve them?' Post their goals somewhere visible at home and check in regularly. Celebrate progress together!"
-
----
-
-## ✅ Assessment
-
-- Reflected meaningfully on first semester
-
-- Set SMART goals in multiple categories
-
-- Created goal tracking system
-
-- Connected goals to faith growth
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Reflection; **one 40-minute meeting**.
+**Objective:** select one evidence-recording goal, practice twice and compare
+checked features to decide a next step. **Why:** purposeful effort needs
+observable follow-through, not four ambitious promises.
+Catholic/CST-C3 stewardship of work; CST-M2 dated tracker; CST-M3 count/change.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 10; cleanup 5 included. No five-project target, required
+family tracker or rating spiritual growth.
+
+## Before class and exact supplies
+
+Per pupil: portfolio, two sheets/pencil. Teacher board/timer; source on board
+**simulated flight cm data: first 40/50/40; second 50/60/50**.
+Goal example: "By minute 30 I will copy a three-trial table with title, cm unit
+and all three readings correct." Three features, checked 0-3.
+Missing portfolio uses supplied data, not invented first-semester history.
+Teams <=3 confer at desks (4/5/7/9); no team-specific hardware.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Portfolios; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+
+## Vocabulary/background/SAFETY
+
+SMART = specific/measurable/achievable/relevant/time-bound; tracker = actual
+record; action = practice step; evidence = observed result.
+**Misconception:** meeting a goal once proves permanent mastery.
+**If asked "Does prayer guarantee success?"** Prayer accompanies effort, not
+a performance guarantee or measure of a child's worth.
+Desk paper only, no private faith/service/family disclosure or peer rankings.
+Report missing records; indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional prayer for patient work; "Which saved task needs a clearer
+   record?" View portfolio briefly, no forced personal confession.
+2. **4-10:** Model one SMART goal and tracker `attempt/time | 0-3 | next action`.
+3. **10-20:** Write goal/relevance/two actions; copy first simulated table, peer
+   checks title/unit/values, each records actual feature count.
+4. **20-30:** Apply action to missing feature, copy second table; recheck/record.
+5. **30-35:** Each child compares counts, identifies action from evidence and states
+   simulation label/limit. "What changed in your practice?"
+6. **35-40:** Date/file tracker, return portfolios/pencils, clear. Teacher
+   schedules optional next-class check without hiding extra required meetings.
+
+## Success/access/troubleshooting
+
+Meets: one measurable goal, two real check counts, accurate comparison and
+next action tied to result. Grade 3/support: goal stem/dictation/three boxes.
+Grade 4/challenge: explain later transfer check needed. No improvement: record
+same count and propose support, not invented progress. Too ambitious: reduce
+to three table features today. Early finish: new data/table, same criteria.
+
+**Family:** We practiced and tracked one goal. Ask, "What did evidence tell you
+to try next?" Optional conversation, not compulsory home monitoring.

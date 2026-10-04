@@ -1,221 +1,92 @@
 ---
 title: "Session 11: Lenten Engineering"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A service project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - engineering
-  - life-science
-  - earth-science
-  - lent
-  - easter
-  - service
-  - arts
----
-
-
-# Session 11: Lenten Engineering 💜
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 11 of 17
-
-Students design and implement meaningful service projects during Lent, applying engineering and design skills to serve others.
-
+description: "Plan, test and implement a classroom kit handoff as a modest service action"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 11: Lenten Engineering
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Connect Lenten practices to service
-
-- Identify meaningful service opportunities
-
-- Design comprehensive service project
-
-- Create implementation and impact plans
-
----
-
-# Session 11: Lenten Engineering
-
-## Materials Needed
-
-- 📋 Project planning templates
-
-- 📦 Prototyping materials
-
-- 📓 Engineering journals
-
-- 💻 Research resources
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Corporal and Spiritual Works of Mercy** — Traditional Catholic ways to serve: Feed the hungry, shelter the homeless, visit the sick, comfort the sorrowful, counsel the doubtful...
-
-### Scripture
-> *"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."* — Matthew 25:40
-
-### Opening Prayer
-*Dear Jesus, during Lent we prepare for Easter by growing closer to you through service. Help us use our skills to serve "the least of these." Guide our designs and our hearts. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (7 minutes)
-1. **Lent Season:**
-   - 40 days of preparation
-   - Prayer, Fasting, Almsgiving
-   - Growing through sacrifice and service
-2. **Works of Mercy:**
-   - **Corporal:** Feed, clothe, shelter, visit, care for
-   - **Spiritual:** Counsel, instruct, comfort, forgive, pray
-3. **Engineering for Service:**
-   - Apply our skills to serve
-   - Design thinking meets Catholic Social Teaching
-   - Create lasting impact
-
-### Main Activity: Service Project Design (30 minutes)
-
-**Part 1: Need Assessment (8 minutes)**
-
-**Identify Service Opportunity:**
-
-- School community needs
-
-- Parish outreach needs
-
-- Local organization needs
-
-- Global mission needs
-
-**Research Questions:**
-
-- Who specifically needs help?
-
-- What are the root causes?
-
-- What's already being done?
-
-- Where can we add value?
-
-**Select Project Focus:**
-
-- Must be actionable
-
-- Must use our skills
-
-- Must have real impact
-
-**Part 2: Project Design (15 minutes)**
-
-**Comprehensive Project Plan:**
-
-1. **Problem Statement (2 min):**
-   - Clear, specific need
-   - Who benefits and how
-
-2. **Solution Design (5 min):**
-   - What exactly will you create/do?
-   - How does it address the need?
-   - What makes it effective?
-
-3. **Implementation Plan (4 min):**
-   - Timeline
-   - Resources needed
-   - Team roles
-   - Partnerships required
-
-4. **Impact Measurement (2 min):**
-   - How will you know it worked?
-   - What will change?
-   - How many people helped?
-
-5. **Sustainability (2 min):**
-   - Can this continue beyond this project?
-   - How can others replicate it?
-
-**Part 3: Project Pitches (7 minutes)**
-
-- Present project plans
-
-- Class selects project(s) to implement
-
-- Assign teams/roles
-
-### Engineering Journal (5 minutes)
-1. Your project summary
-2. Your role and responsibilities
-3. Implementation timeline
-4. Write: "Service is important during Lent because..."
-5. Personal Lenten commitment: ___
-
-### Closing Circle (3 minutes)
-1. **Commitment** — "What will you sacrifice and serve?"
-2. **Works of Mercy** — "Which work are we practicing?"
-3. **Closing Prayer** — *"Jesus, you came to serve, not to be served. Help us follow your example this Lent. Bless our projects and those we serve. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-C2 - consent/dignity decision; CST-E1 - criterion and constraint; CST-E3 - plan with evidence and uncertain impact. This meeting designs, not implements, service; adult-approved follow-up needs separate calendar time. No compulsory donation, fasting, family service, clinical device, or real-user health data. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Identified meaningful service opportunity
-
-- [ ] Created comprehensive project plan
-
-- [ ] Considered implementation details
-
-- [ ] Made personal commitment
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Join established project
-
-- Specific role assignment
-
-- Scaffolded planning
-
-### For Advanced Students
-
-- Lead project component
-
-- Create promotional materials
-
-- Coordinate partnerships
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Family Lenten service project! Discuss Works of Mercy. Choose one to practice as a family. Rice Bowl, volunteering, visiting elderly. Design thinking at home for service!
-
----
-
-## Teacher Notes
-
-- Connect to school/parish Lent initiatives
-
-- Schedule follow-up implementation sessions
-
-- Partner with outreach organizations
-
-- Document service for portfolio
-
----
-
-**Previous:** [Session 10 — Environmental Science](./Session10_Environmental_Science.md)  
-**Next:** [Session 12 — Life Science](./Session12_Life_Science.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Service |
+| Time | 1 meeting of 45 minutes; outside service separately approved/booked |
+| Objective / why / big idea | I can define/test a useful kit handoff and complete its safe in-class implementation. Service includes doing the bounded work, not only proposing impact. |
+| Domains / Catholic connection | C, E; Lenten service and instructing/helping others with dignity; no compulsory donation or fast. |
+| Local standards | CST-C2: consent/access; CST-E1: criterion/constraint; CST-E3: evidence/limit explanation. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; classroom paper-kit service. |
+| Difficulty / entry | Introductory; teach handoff test and delivered-versus-used distinction. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Service Handoff. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact. Teacher is the consenting in-class recipient:
+request "Please prepare counted paper/ruler kits with a clear return label
+for the next class." Confirm available storage table; if teacher cannot accept,
+use fictional handoff and explicitly record implementation deferred.
+Seat 4/5/7/9 teams. Each kit: three blank paper sheets, one ruler, one label
+RETURN RULER / KEEP YOUR WORK. Criterion: peer finds return action without
+coaching and kit matches inventory. No external organization needed for this
+bounded in-class work; no assumed community outcome.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Blank kit paper | 3/team | 12 | 15 | 21 | 27 |
+| Cardstock label; folder; ruler; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster; acceptance checklist | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardstock consumable; folders/tools reusable. No family supply obligation.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Implementation:** carry out approved action. **Output:** prepared/delivered
+kit. **Outcome:** later user effect, not assumed. **Consent:** accepted choice.
+**Common misconception:** delivering nine kits proves improved learning.
+**If asked, "Can we contact a shelter?"** Adults arrange any outside partner/
+date/review separately. In-class task is actual service only when accepted.
+Key kit totals: at 25, 9x3=27 sheets, 9 rulers/folders/labels; individual
+evidence adds 25 sheets, total paper 52. Counts are not "people helped."
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Read teacher request; connect Lenten service to careful work.
+2. **4-11 (7 min):** Model counted kit, label/access criterion and acceptance record.
+3. **11-24 (13 min):** Each drafts criterion/constraint, teams assemble counted kits; rotate counter/label maker/checker.
+4. **24-35 (11 min):** Neighbor tests return label and inventory; revise; teacher accepts/checks kits placed on designated table. Each logs actual handed-off or deferred status.
+5. **35-41 (6 min):** Individual count, test evidence, consent/access decision and "delivered does not prove used/helped" limit.
+6. **41-45 (4 min):** Store accepted kits, return other tools, save logs and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Was the recipient asked? Is it delivered or planned? What remains unknown?"
+Each has criterion/constraint, checked handoff evidence and dignity/impact limit.
+1 unsupported; 2 prompted; 3 independent; 4 identifies follow-up evidence;
+NE for unfinished implementation, never disguised as completed service.
+
+## IF THINGS GO WRONG / SAFETY
+
+No storage/consent -> prototype/tabletop handoff only, log deferred delivery.
+Missing folder -> flat stacked kit on approved table, record changed constraint.
+Label unclear -> larger action words, retry. No clinical/food-contact gifts,
+private data, donations, fasting requirement or off-site visit.
+Stop/report unsafe handling; adult owns recipient/event approval.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: inventory checklist, label frame, scribing.
+Grade 6/challenge: propose anonymous follow-up usability check without counting
+assumed impact. In-class indoor service; no winter travel.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Record accepted/deferred kits and individual tests; replenish supplies later.
+**Explored:** service handoffs. **Did:** prepared/tested and, if accepted,
+delivered classroom kits. **Learned:** outputs aren't outcomes.
+**Catholic connection:** Lenten care and dignity. **Ask:** "How did you know
+the kit was ready?" No routine homework or compulsory family service.
+
+**Previous:** [Environmental Science](./Session10_Environmental_Science.md)
+**Next:** [Life Science](./Session12_Life_Science.md)

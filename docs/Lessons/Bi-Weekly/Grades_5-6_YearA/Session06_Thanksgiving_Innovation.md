@@ -1,219 +1,88 @@
 ---
 title: "Session 6: Thanksgiving Innovation"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A service design"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - earth-science
-  - astronomy
-  - thanksgiving
-  - christmas
-  - service
-  - arts
----
-
-
-# Session 6: Thanksgiving Innovation 🦃
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 6 of 17
-
-Students apply design thinking to create innovations that serve others, expressing gratitude through action.
-
+description: "A complete classroom gratitude-service routing trial and limited pitch"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 6: Thanksgiving Innovation
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Connect gratitude to service
-
-- Apply design thinking to a real problem
-
-- Create a service-oriented innovation
-
-- Plan implementation of solution
-
----
-
-# Session 6: Thanksgiving Innovation
-
-## Materials Needed
-
-- 📋 Design thinking worksheets
-
-- 📦 Prototyping materials
-
-- 📓 Engineering journals
-
-- 💻 Research tools
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Katharine Drexel** — Wealthy woman who gave everything to serve others. Gratitude led her to innovative service!
-
-### Scripture
-> *"From everyone who has been given much, much will be demanded."* — Luke 12:48
-
-### Opening Prayer
-*Dear God, thank you for all the blessings in our lives. Help us turn gratitude into action, serving others with the gifts you've given us. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (7 minutes)
-1. **Gratitude & Responsibility:**
-   - "With blessing comes responsibility"
-   - We have many gifts—how do we share them?
-2. **St. Katharine Drexel:**
-   - Inherited fortune
-   - Instead of keeping it, started innovative schools
-   - Founded missions, served Native Americans and African Americans
-   - Gratitude → Action!
-3. **Today's Challenge:**
-   - Design an innovation that serves others
-   - Use our skills for good!
-
-### Main Activity: Service Design Sprint (30 minutes)
-
-**Part 1: Identify Need (8 minutes)**
-
-**Community Scan:**
-
-- Who in our community needs help?
-
-- Categories:
-  - Elderly/homebound
-  - Hungry/homeless
-  - Lonely/isolated
-  - Environmental
-  - Educational
-  - Healthcare
-
-**Choose Focus:**
-
-- Select one need area
-
-- Research: What's being done? What gaps exist?
-
-**Part 2: Design Innovation (12 minutes)**
-
-**Apply Design Thinking:**
-
-1. **EMPATHIZE (2 min):**
-   - Who specifically needs help?
-   - What's their experience?
-
-2. **DEFINE (2 min):**
-   - "How might we..." statement
-   - Clear problem frame
-
-3. **IDEATE (3 min):**
-   - 5+ possible solutions
-   - Technology-enhanced options
-   - Simple and complex ideas
-
-4. **PROTOTYPE (5 min):**
-   - Choose best idea
-   - Create prototype/plan:
-     - Sketch or model
-     - Implementation steps
-     - Resources needed
-
-**Part 3: Pitch Preparation (7 minutes)**
-
-**Create a Pitch:**
-
-- Problem you're solving
-
-- Your innovative solution
-
-- How it helps
-
-- What you need to implement
-
-- Call to action
-
-**Part 4: Pitch Presentations (3 minutes)**
-
-- 30-second pitches
-
-- Class votes on ideas to pursue!
-
-### Engineering Journal (5 minutes)
-1. Write your "How Might We" statement
-2. Sketch your innovation
-3. Write implementation plan
-4. Write: "Gratitude leads to action because..."
-
-### Closing Circle (3 minutes)
-1. **Action Commitment** — "What will you DO?"
-2. **Gratitude Practice** — "What are you thankful for today?"
-3. **Closing Prayer** — *"God, thank you for everything. Help us turn our blessings into service for others. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-C2 - dignity/access choice without stereotypes; CST-E1 - criterion and constraint; CST-E3 - 30-second supported pitch plus limit. At nine teams use paired exchanges rather than nine plenary pitches in three minutes. No promised real impact or compulsory family service. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Identified real community need
-
-- [ ] Applied design thinking
-
-- [ ] Created viable innovation concept
-
-- [ ] Developed implementation plan
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Join group project
-
-- Scaffolded design process
-
-- Focus on single aspect
-
-### For Advanced Students
-
-- Complete implementation plan
-
-- Research existing solutions
-
-- Lead project team
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Discuss family blessings and how to share them! Choose a family service project. Research St. Katharine Drexel. Practice gratitude daily—and pair it with action!
-
----
-
-## Teacher Notes
-
-- Connect to school Thanksgiving service
-
-- Follow through on promising ideas
-
-- Consider partnering with parish outreach
-
-- St. Katharine Drexel feast: March 3
-
----
-
-**Previous:** [Session 5 — Scratch Advanced](./Session05_Scratch_Advanced.md)  
-**Next:** [Session 7 — Christmas Electronics](./Session07_Christmas_Electronics.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Service |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can define a respectful service criterion, test a choice table and give an evidence-limited pitch. Gratitude can motivate action without assuming recipients' feelings. |
+| Domains / Catholic connection | C, E; gifts used for others with consent/choice; no compulsory gratitude disclosure or saint biography. |
+| Local standards | CST-C2: dignity; CST-E1: criterion/constraint; CST-E3: supported pitch. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper routing system. |
+| Difficulty / entry | Introductory; no prior service unit, teach test criterion. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Thanks Choice Table. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; seat 4/5/7/9 teams. Brief: "A fictional school
+helper wants visitors to choose a blank THANKS card or a blank DRAW card,
+or pass; no names or thanks ranking." Prepare six tokens (two THANKS/two DRAW/
+two PASS). Criterion: peer routes three requests correctly without coaching;
+constraint one base/six tokens. Pilot clear/unclear layout; no external contact.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardstock token sheet; cardboard base; brief/test sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Ruler; marker; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.3 m/team | 1.2 m | 1.5 m | 2.1 m | 2.7 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable; tools reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Service:** action for others. **Consent:** free permission. **Criterion:**
+checkable success. **Pitch:** supported recommendation.
+**Common misconception:** being thankful means accepting an unwanted activity.
+**If asked, "Did we make anyone happier?"** We measured routing only.
+Key: three categories x two tokens = six; requests DRAW/THANKS/PASS should all
+route to matching labels; correctly placed PASS counts as successful choice,
+not failure of participation.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "How can gratitude respect a pass?" Introduce service purpose.
+2. **4-11 (7 min):** Model brief/criterion and token request without hints.
+3. **11-25 (14 min):** Each records need/constraint, sketches two layouts; team builds labels/table with rotating roles.
+4. **25-35 (10 min):** Peer executes three requests, record 0-3 correct; revise confusing label and repeat. Paired-team 30-second pitches, not nine plenary talks.
+5. **35-41 (6 min):** Each gives criterion/constraint, test result/limit and consent/access decision.
+6. **41-45 (4 min):** Count six tokens, return tools, save evidence and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What was actually requested? Was PASS easy to find? What is untested?"
+Each has criterion/constraint, three trial records and supported limited pitch/
+dignity safeguard. 1 unsupported; 2 prompted; 3 independent; 4 tradeoff;
+NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+No cardboard -> paper layout, same routing objective. No confusion -> compare
+two layouts honestly, no invented failure. No real partner -> simulation only.
+No compulsory donations/family service, private gratitude/health interviews,
+clinical gifts or powered construction. Stop/report unsafe tools/data.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: labels provided, oral/scribed pitch.
+Grade 6/challenge: explain how a fourth choice might improve access but crowd
+layout. Indoor tabletop path, no weather/community visit needed.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep individual result/limit, count tools/tokens and reuse bases.
+**Explored:** gratitude in service. **Did:** tested a fictional choice table.
+**Learned:** consent/evidence. **Catholic connection:** dignity and generosity.
+**Ask:** "Why was PASS successful?" No routine homework.
+
+**Previous:** [Scratch Advanced](./Session05_Scratch_Advanced.md)
+**Next:** [Christmas Electronics](./Session07_Christmas_Electronics.md)

@@ -1,74 +1,59 @@
 ---
 title: "Weeks 29-31: Environmental Monitoring"
-description: "Grades 5-6 Year B data science for creation care"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - light
-  - circuits
-  - life-science
-  - earth-science
-  - astronomy
-  - animals
-  - service
-  - arts
+description: "Fictional energy records, preserved raw data and an evidence-limited stewardship proposal"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🌍 Weeks 29-31: Environmental Monitoring
+# Weeks 29-31: Environmental Monitoring
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 3 sessions (45 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), T (Technology), M (Math - Data), R (Religion) |
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Environment |
+| Time | 3 meetings of 45 minutes; 135 total |
+| Objective / why / big idea | I can preserve provenance, graph two fictional energy weeks, compare totals and propose further evidence before claiming savings. Monitoring requires reliable records and limits. |
+| Domains / Catholic connection | S, M, T, C; care for common home requires honest evidence and consideration of people using resources. |
+| Local standards | CST-S1: evidence/limit; CST-M2: graph; CST-T3: raw provenance; CST-C3: stewardship tradeoff. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; optional school-approved spreadsheet adds analysis, not sensor acquisition. |
+| Difficulty / entry | Developing; teach kWh as energy unit, graph scale and mean. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min/meeting. Kit: Energy Records. |
 
----
+## BEFORE CLASS / MATERIALS
 
-# Weeks 29-31: Environmental Monitoring
+Review accommodations/contact. Seat tool teams 4/5/7/9. Copy full invented
+table below and separate raw/working labels; never imply actual school readings.
+Adult checks all sums/graph. No meters, trash, sensors, unknown water, parking
+lots or home data collection. Facilities staff alone may provide approved
+future real building records; that is not this lesson's evidence.
 
-## 🎯 Learning Objectives
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper logs; pencil | 3 sheets and 1 pencil/student | 30;10 | 45;15 | 60;20 | 75;25 |
+| Graph paper | 1/student | 10 | 15 | 20 | 25 |
+| Paper raw/working/protocol sheets | 3/team | 12 | 15 | 21 | 27 |
+| Ruler; calculator; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Computer with approved spreadsheet, optional | 1/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
 
-### STEM Objectives
-Students will be able to:
-1. Collect environmental data systematically
-2. Use technology for environmental monitoring
-3. Analyze data to identify patterns
-4. Propose evidence-based solutions
+Paper consumable; tools reusable; software an access resource.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Apply Laudato Si' to environmental action
-2. See data as tool for stewardship
-3. Combine science and faith for creation care
+## VOCABULARY / TEACHER BACKGROUND
 
----
+**kWh:** unit of energy, not instantaneous power. **Provenance:** origin/
+context of record. **Mean:** total divided by count. **Confound:** other
+factor affecting comparison.
+**Common misconception:** a lower second week proves a campaign worked.
+**If asked, "Can we delete unusual values?"** No; flag, verify against original,
+keep both versions and reason. A missing reading is not zero.
 
-# Weeks 29-31: Environmental Monitoring
+### Complete dataset and key
 
-## 🙏 Faith-Reason Integration
+**Invented classroom record, not school measurement.** Fictional campaign
+occurs between weeks; occupancy/weather records unavailable.
 
-### Catholic Teaching Connection
-**Laudato Si' in Action** — Pope Francis calls us to care for our common home. Environmental monitoring is how we understand the problems. Data becomes a tool for justice and stewardship.
-
-### Scripture Connection
-> "The Lord God took the man and put him in the Garden of Eden to work it and take care of it."
-> — Genesis 2:15
-
-### Faith Theme
-**Stewardship through Science** — Good stewards need good information. Environmental monitoring gives us the data to make wise decisions. Science serves creation care!
-
----
-
-## 📚 Materials Needed
-
-**Primary safe path:** provided fictional energy records, paper graphs, ruler, pencil. No student meter access, unknown water, trash handling, sensors, outdoor exposure, or unsupervised collection. For 10/15/20/25 students make 4/5/7/9 team datasets and one graph/exit sheet and pencil per student.
-
-| Fictional day | Week A kWh | Week B kWh |
+| Day | Week A kWh | Week B kWh |
 |---|---:|---:|
 | Monday | 12 | 11 |
 | Tuesday | 14 | 13 |
@@ -76,465 +61,69 @@ Students will be able to:
 | Thursday | 11 | 10 |
 | Friday | 15 | 14 |
 
-Teacher key: totals 65/60 kWh; means 13/12 kWh; ranges both 4 kWh. **Invented classroom data, not school measurements.** B follows a proposed awareness campaign in the fictional story, but this association does not prove the campaign caused the difference.
-
-### Week 29
-
-- Environmental sensors (if available)
-
-- Data collection templates
-
-- Mapping tools
-
-- Research materials
-
-- Laudato Si' excerpts
-
-### Week 30
-
-- Computers for data analysis
-
-- Graphing software
-
-- Statistical tools
-
-- Research databases
-
-### Week 31
-
-- Presentation materials
-
-- Action plan templates
-
-- Community connection resources
-
----
-
-## 📝 Week 29 Procedure: Environmental Data Collection (45 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, help us care for Your creation! Give us wisdom to understand our environment and courage to protect it. May our data serve Your world. Amen."
-
-### Environmental Monitoring Introduction (10 min)
-**Why monitor the environment?**
-
-**Key concept:**
-"You can't manage what you don't measure."
-
-**What scientists monitor:**
-
-- Air quality
-
-- Water quality
-
-- Temperature/climate
-
-- Biodiversity
-
-- Noise levels
-
-- Light pollution
-
-- Soil health
-
-**Why it matters:**
-
-- Identify problems
-
-- Track changes over time
-
-- Measure impact of solutions
-
-- Provide evidence for action
-
-**Laudato Si' connection:**
-> "Each year sees the disappearance of thousands of plant and animal species... The great majority become extinct for reasons related to human activity." (LS 33)
-
-"We can't protect what we don't understand. Data is essential for stewardship!"
-
-### Choose Monitoring Focus (8 min)
-**Select environmental aspect:**
-
-**Options:**
-
-- School energy use
-
-- Local air quality
-
-- Water usage/quality
-
-- Waste generation
-
-- Biodiversity (species present)
-
-- Noise/light pollution
-
-- Green space
-
-**For each option:**
-
-- What data can we collect?
-
-- What tools do we have?
-
-- How long should we monitor?
-
-- What might we discover?
-
-**Teams form around interests**
-
-### Data Collection Planning (15 min)
-**Design monitoring protocol:**
-
-**Protocol elements:**
-1. **What** are we measuring?
-2. **Where** are we measuring?
-3. **When** (frequency)?
-4. **How** (methods/tools)?
-5. **Who** collects data?
-6. **How** do we record it?
-
-**Example protocols:**
-
-**Energy Monitoring:**
-
-- Use the supplied fictional table; only facilities staff may obtain any real building meter records.
-
-- Record at same time
-
-- Note weather and events
-
-- Calculate usage patterns
-
-**Biodiversity Survey:**
-
-- Define observation area
-
-- Set regular observation times
-
-- Use identification guides
-
-- Record species and counts
-
-**Water Quality:**
-
-- Discuss a hypothetical sampling protocol on paper; do not collect unknown water.
-
-- Test for pH, temperature, clarity
-
-- Note precipitation and runoff
-
-- Track over weeks
-
-**Waste Audit:**
-
-- Sort pictures of clean materials only; never handle actual trash.
-
-- Categorize (recycle, compost, landfill)
-
-- Calculate averages
-
-- Identify reduction opportunities
-
-**Create data collection sheet:**
-
-- Clear categories
-
-- Easy to complete
-
-- Includes date/time/collector
-
-- Space for notes
-
-### Begin Data Collection (8 min)
-**Start your monitoring:**
-
-
-- Collect first data point
-
-- Test your protocol
-
-- Note any issues
-
-- Adjust as needed
-
-**Assign ongoing collection:**
-
-- Who collects when?
-
-- Where is data stored?
-
-- How do we ensure consistency?
-
-### Closing (2 min)
-**No routine homework:**
-
-- Use the supplied fictional record in class; no ongoing home collection.
-
-- Continue through next week
-
-- Note observations and questions
-
-**Closing Prayer:**
-"Thank You for the gift of Your creation, Lord! Help us be faithful stewards who understand and protect our environment. May our data lead to action. Amen."
-
----
-
-## 📝 Week 30 Procedure: Data Analysis (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, give us wisdom to understand our data. Help us see patterns that guide our stewardship. Amen."
-
-### Data Compilation (10 min)
-**Gather your data:**
-
-**Compile:**
-
-- Collect all recorded data
-
-- Enter into spreadsheet
-
-- Check for errors
-
-- Organize chronologically
-
-**Data cleaning:**
-
-- Preserve the raw record. Flag suspected errors and record why; correct only against a verified source, with both versions retained.
-
-- Note any gaps
-
-- Standardize format
-
-- Calculate any needed conversions
-
-### Data Analysis (20 min)
-**Find patterns and insights:**
-
-**Analysis techniques:**
-
-**Descriptive statistics:**
-
-- Mean (average)
-
-- Range (high to low)
-
-- Trends over time
-
-**Visualizations:**
-
-- Line graphs (change over time)
-
-- Bar graphs (comparisons)
-
-- Pie charts (proportions)
-
-- Maps (spatial patterns)
-
-**Questions to answer:**
-
-- What patterns do you see?
-
-- Any surprising findings?
-
-- How does this compare to standards?
-
-- What might be causing patterns?
-
-**Create at least 2 visualizations:**
-
-- Choose most meaningful data
-
-- Clear labels and titles
-
-- Accurate representation
-
-- Visual appeal
-
-### Research Context (8 min)
-**Compare to broader data:**
-
-**Research:**
-
-- How does our data compare to regional/national?
-
-- What are environmental standards?
-
-- What do experts say about our findings?
-
-- What solutions are recommended?
-
-**Connect to Laudato Si':**
-
-- How does our data relate to Pope Francis' concerns?
-
-- What does Catholic teaching say about our findings?
-
-- What responsibility do we have?
-
-### Closing (5 min)
-**Prepare for action:**
-
-- What does data suggest we should do?
-
-- Who needs to see this?
-
-- What solutions could we propose?
-
-**Next week:**
-
-- Present findings
-
-- Propose action plans
-
-- Connect to community
-
-**Closing Prayer:**
-"Thank You for insights from our data, Lord! Help us act on what we've learned. Amen."
-
----
-
-## 📝 Week 31 Procedure: Action & Presentation (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us move from knowledge to action! May our presentations inspire others to care for creation. Amen."
-
-### Action Plan Development (15 min)
-**Turn data into action:**
-
-**Action plan components:**
-
-**1. Summary of Findings**
-
-- Key data points
-
-- Main patterns
-
-- Comparison to standards
-
-**2. Root Cause Analysis**
-
-- Why is this happening?
-
-- What factors contribute?
-
-- What's within our control?
-
-**3. Recommended Actions**
-
-- Short-term (this month)
-
-- Medium-term (this year)
-
-- Long-term (ongoing)
-
-**4. Implementation Plan**
-
-- Who does what?
-
-- What resources needed?
-
-- How do we track progress?
-
-**5. Faith Connection**
-
-- How does this honor creation?
-
-- What does Laudato Si' say?
-
-- How is this our responsibility?
-
-### Presentation Preparation (10 min)
-**Create presentation:**
-
-**Include:**
-
-- Problem overview
-
-- Data visualizations
-
-- Key findings
-
-- Catholic teaching connection
-
-- Action recommendations
-
-- Call to action for audience
-
-**Prepare for:**
-
-- Questions
-
-- Challenges
-
-- Next steps
-
-### Presentations (15 min)
-**Share findings and proposals:**
-
-**Each team presents (4-5 min):**
-
-- Data summary
-
-- Key visualizations
-
-- Analysis and findings
-
-- Action recommendations
-
-- Faith connection
-
-**Audience:**
-
-- Ask questions
-
-- Offer support
-
-- Commit to actions
-
-### Commitment & Closing (3 min)
-**Class commitment:**
-"Based on our findings, we commit to..."
-
-**Individual commitments:**
-Each student: "I will..."
-
-**Next steps:**
-
-- Share with school administration?
-
-- Present to parish?
-
-- Implement recommendations?
-
-- Continue monitoring?
-
-**Closing Prayer:**
-"Creator God, thank You for helping us understand Your creation better! Thank You for the gift of data that guides our stewardship. Help us act on what we've learned. May we be faithful caretakers of our common home. Give us courage to speak for creation and wisdom to make changes that matter. St. Francis, lover of creation, pray for us! Amen."
-
----
-
-## 📎 Home Connection
-> "We completed Environmental Monitoring! Ask your child: 'What environmental data did you collect?' 'What did you discover?' 'What actions did you recommend?' 'How does this connect to Laudato Si'?' Consider family environmental actions — what can you measure and improve at home?"
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-S1 - individual evidence/limitation; CST-M2 - each student's labeled graph and total; CST-T3 - explain raw-data preservation; CST-C3 - evidence-limited stewardship action. Official benchmarks **VERIFICATION REQUIRED**. Primary technology requirement: **None**; spreadsheets optional. No claim that paper analysis demonstrates actual sensor monitoring.
-
-## SAFETY
-
-No unknown water, trash, electrical meters/panels, roads/parking lots, or student thermostat changes. Facilities staff controls any real records. Unknown water is not proven safe by pH/clarity. Use indoor fictional records in winter; proposals are not permission to install or alter equipment.
-
-- Collected environmental data systematically
-
-- Analyzed data accurately
-
-- Created meaningful visualizations
-
-- Proposed evidence-based action plan
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+Totals 65/60 kWh; means 13/12 kWh; ranges both 4 kWh; difference 5 kWh.
+That is about 7.7% of 65 if explicitly taught, not necessary Grade 5 evidence.
+Working-copy intentional error: Tuesday A typed 41; raw says 14. Correction
+log records old 41/new 14/source/reason; never alter raw.
+Graph: grouped bars, weekdays horizontal, kWh 0-16 vertical, one-unit grid,
+two distinguishable patterns/labels, zero baseline.
+Hypothetical protocol: facilities staff records daily usage for matched
+occupied weekdays, method/unit/date/context; raw locked, working copy versioned.
+No claim of executed monitoring. Proposed action: reusable reminder label;
+criterion reader finds message, not guaranteed kWh reduction.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: provenance and protocol
+1. **0-4 (4 min):** Ask "Where did these readings come from?" Introduce honest stewardship.
+2. **4-11 (7 min):** Read invented/raw labels, energy unit and missing-context limits.
+3. **11-24 (13 min):** Each copies table, identifies investigable question; teams draft hypothetical staff protocol with date/unit/context fields.
+4. **24-35 (11 min):** Compare raw/working error 41 versus 14; preserve raw and log verified correction. Sum both original weeks with scaffold.
+5. **35-41 (6 min):** Individual 65/60 totals, provenance and correction explanation.
+6. **41-45 (4 min):** Label/save raw and working sheets, count tools.
+
+### Meeting 2: representation and inference
+1. **0-4 (4 min):** Retrieve actual unit/source label.
+2. **4-11 (7 min):** Model grouped-bar axes, total/5 mean, labels rather than color-only.
+3. **11-24 (13 min):** Each graphs ten bars; optional spreadsheet teams actually enter/test numbers but still submit individual interpretation.
+4. **24-35 (11 min):** Peer checks all points/scale; compare means/ranges and two possible confounds. Do not infer campaign causation.
+5. **35-41 (6 min):** Individual graph, numerical comparison and causal limit.
+6. **41-45 (4 min):** Save school-only if digital, store graphs, return tools.
+
+### Meeting 3: proposal and evidence defense
+1. **0-4 (4 min):** Name uncertainty before proposing action.
+2. **4-11 (7 min):** Model proposal versus permission; consider occupants needing light/access.
+3. **11-24 (13 min):** Each drafts reusable reminder and further-data plan; teams test label with peers, record confusion and revise.
+4. **24-35 (11 min):** Paired 90-second recommendations: dataset/result, possible action, access/resource tradeoff, required evidence.
+5. **35-41 (6 min):** Individual result/limit, raw preservation and stewardship decision; no savings promise.
+6. **41-45 (4 min):** Save records/proposals, reuse materials, count tools.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Is 41 unusual or verified wrong? What changed besides the campaign?
+Who might need lights on?" Each has preserved raw/correction log, ten
+accurate labeled bars, totals/means with scaffold, causal limit and resource
+tradeoff. 1 unsupported; 2 prompted; 3 independent; 4 defends matched-data plan;
+NE if missing, not sensor competency from graphing.
+
+## IF THINGS GO WRONG / SAFETY
+
+Graph crowded -> two patterns and labels, not misleading scale. No graph paper
+-> ruler axes. No actual records -> fictional path remains complete.
+No meter/panel/thermostat access, electrical changes, trash/unknown water,
+potability claims, unsupervised collection or private data. Stop/report unsafe
+condition; facilities staff controls any real acquisition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: axes/table supplied, total scaffold, oral explanation.
+Grade 6/challenge: verify means/ranges and defend comparison denominator/confounds.
+Indoor January route unchanged; no outdoor monitoring claim.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep raw/working versions, graphs and individual limits; count tools.
+**Explored:** energy evidence. **Did:** analyzed invented records and proposed
+further checks. **Learned:** patterns aren't causation. **Catholic connection:**
+careful stewardship. **Ask:** "What other information did you need?"
+No routine homework or real savings/monitoring claim.

@@ -1,430 +1,103 @@
 ---
 title: "Weeks 4-6: Paper Airplane Challenge"
-description: "Grades 3-4 Year B engineering design challenge"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - engineering
-  - light
-  - life-science
-  - astronomy
-  - arts
----
-
-# ✈️ Weeks 4-6: Paper Airplane Challenge
-
-## Unit Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 3 sessions (40 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), S (Science), M (Math) |
-
+description: "One distance criterion, repeated launches and measured redesign"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S2, CST-E1, CST-E2, CST-M1]
+technology: None
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Metric ruler, Measuring tape, Floor-safe tape]
 ---
 
 # Weeks 4-6: Paper Airplane Challenge
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply engineering design process
-2. Design for specific performance criteria
-3. Iterate based on test results
-4. Present designs with data evidence
-
-### Faith Integration Objectives
-Students will be able to:
-1. Practice perseverance through failure
-2. Collaborate using Catholic virtues
-3. Connect creativity to being made in God's image
-
----
-
-# Weeks 4-6: Paper Airplane Challenge
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Made in God's Image** — When we design and create, we reflect God the Creator. Our creativity is a gift! The engineering design process — designing, testing, improving — mirrors how we grow in virtue.
-
-### Scripture Connection
-> "Whatever you do, work at it with all your heart, as working for the Lord."
-> — Colossians 3:23
-
-### Saint Connection
-**Wright Brothers** — Aviation innovators, not saints. Exact trial counts and claims about religious motivation are **VERIFICATION REQUIRED**; avoid suggesting that faith guarantees successful inventions.
-
----
-
-## 📚 Materials Needed
-
-- Various paper types (printer, cardstock, origami)
-
-- Scissors, rulers, tape
-
-- Paper clips for weight
-
-- Measuring tapes
-
-- Stopwatches
-
-- Engineering Design worksheets
-
-- Flight testing area
-
-- Data recording sheets
-
----
-
-## 🎯 Challenge Categories
-
-Teams choose ONE category to design for:
-
-| Category | Success Criteria |
-|----------|-----------------|
-| Distance | Travels the farthest |
-| Hang Time | Stays aloft the longest |
-| Accuracy | Lands closest to target |
-| Acrobatics | Does the best tricks |
-
----
-
-## 📝 Week 4 Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, You designed the universe with wisdom and love! Help us be creative designers too. Give us patience when things don't work and joy when they do. Amen."
-
-### Challenge Introduction (5 min)
-**Announce the Paper Airplane Challenge:**
-
-**Categories:**
-1. **Distance Champion** — Who can design a plane that flies the farthest?
-2. **Hang Time Hero** — Who can keep their plane in the air longest?
-3. **Accuracy Ace** — Who can hit the target most precisely?
-4. **Stunt Star** — Who can design the coolest tricks?
-
-**Rules:**
-
-- Paper only (no other materials except allowed tape)
-
-- Must be throwable by student
-
-- Maximum of 3 sheets of paper
-
-- Must be safe (no sharp points)
-
-**Teams choose category:**
-
-- Groups of 2-3
-
-- Select focus category
-
-- All teams will compete in all categories at finals
-
-### Engineering Design Process Review (5 min)
-**Steps to follow:**
-
-1. **ASK** — What's the problem? What are constraints?
-2. **IMAGINE** — Brainstorm solutions
-3. **PLAN** — Choose best idea, make blueprint
-4. **CREATE** — Build prototype
-5. **TEST** — Does it work?
-6. **IMPROVE** — Make it better based on tests
-7. **SHARE** — Present your solution
-
-"Engineers don't get it right the first time. They iterate — try, learn, improve!"
-
-### Research Phase (12 min)
-**Learn from existing designs:**
-
-**Provide resources:**
-
-- Paper airplane design books/printouts
-
-- Videos of championship planes
-
-- Basic fold patterns
-
-**Teams research:**
-
-- What designs work for their category?
-
-- What makes planes fly far? Stay up? Go straight?
-
-- Take notes in journals
-
-**Key discoveries to guide toward:**
-
-- **Distance:** Narrow, dart-like, heavy nose
-
-- **Hang Time:** Wide wings, light, glider-style
-
-- **Accuracy:** Balanced, straight creases, fins
-
-- **Acrobatics:** Special folds, adjustable surfaces
-
-### Initial Design (14 min)
-**Design worksheet:**
-
-- Category chosen
-
-- Sketch of design (3 views)
-
-- Materials list
-
-- Hypothesis: "We think this will work because..."
-
-**Build first prototype:**
-
-- Follow your plan
-
-- Make careful folds
-
-- Label your plane
-
-### Closing (2 min)
-**Checkpoint:**
-
-- "What did your team design?"
-
-- "Why do you think it will work?"
-
-**Preview:**
-"Next week: Testing and improving! Your first design probably won't be perfect — that's GOOD! We learn from failure!"
-
-**Closing Prayer:**
-"Thank You, God, for the gift of creativity. Help us learn from our mistakes and keep improving. Bless our teamwork. Amen."
-
----
-
-## 📝 Week 5 Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us learn patiently from careful tests and encourage one another. Amen."
-
-### Testing Round 1 (12 min)
-**Test your design:**
-
-**All categories measured:**
-
-- Distance (measuring tape)
-
-- Hang time (stopwatch)
-
-- Accuracy (distance from target)
-
-- Stability (straight flight?)
-
-**Each team:**
-
-- 3 test flights
-
-- Record all data
-
-- Grade 3: compare shortest/longest and whole-number changes. Grade 4: compare trial ranges; a mean is optional teacher-led enrichment, not expected mastery.
-
-**Data table in journals:**
-| Test | Distance | Hang Time | Accuracy | Notes |
-|------|----------|-----------|----------|-------|
-| 1    |          |           |          |       |
-| 2    |          |           |          |       |
-| 3    |          |           |          |       |
-| Avg  |          |           |          |       |
-
-### Analysis & Redesign (10 min)
-**Study your results:**
-
-- What worked well?
-
-- What didn't work?
-
-- What could you change?
-
-**Connect to four forces:**
-
-- A shorter flight alone does not identify a force. Choose one wing/balance feature to test, keep the launch method fixed and compare repeated results. After release a paper glider has no engine thrust.
-
-**Improvement plan:**
-
-- List 2-3 changes to try
-
-- Explain WHY each change might help
-
-- Sketch modified design
-
-### Build Version 2.0 (10 min)
-**Create improved prototype:**
-
-- Apply your changes
-
-- Keep careful folds
-
-- Label as "Version 2"
-
-**Test immediately:**
-
-- Same 3 trials
-
-- Record data
-
-- Compare to Version 1
-
-### Analysis Discussion (4 min)
-**Share findings:**
-
-- "Who improved their results?"
-
-- "What changes made the biggest difference?"
-
-- "Anyone surprised by their results?"
-
-**Faith connection:**
-
-- "How is this like growing in virtue?"
-
-- "We try, fail, learn, try again"
-
-- "Perseverance is a spiritual gift!"
-
-### Closing (2 min)
-**Status check:**
-
-- Version 2 results
-
-- Plans for final version
-
-**Preview:**
-"Next week: Final designs and competition!"
-
-**Closing Prayer:**
-"Thank You, God, for teaching us through testing and trying. Help us be patient learners who never give up. Amen."
-
----
-
-## 📝 Week 6 Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, today we celebrate what we've learned! Help us compete with joy and good sportsmanship. Help us cheer for others' success. Amen."
-
-### Final Preparation (8 min)
-**Last improvements:**
-
-- Make final version
-
-- Last-minute adjustments
-
-- Prepare presentation
-
-**Presentation requirements:**
-
-- Show your plane
-
-- Explain design choices
-
-- Share your data journey (Version 1 → Version 2 → Final)
-
-- What did you learn from failures?
-
-### Competition Rounds (20 min)
-**Each category competition:**
-
-**Distance Round:**
-
-- Each team: 2 throws, best counts
-
-- Measure from launch line
-
-- Record results
-
-**Hang Time Round:**
-
-- Each team: 2 throws, best counts
-
-- Time from release to landing
-
-- Record results
-
-**Accuracy Round:**
-
-- Target at set distance
-
-- Each team: 3 throws, closest counts
-
-- Measure from target center
-
-**Stunt Round (if teams entered):**
-
-- Demonstrate planned tricks
-
-- Judges award points for creativity, execution
-
-### Team Presentations (8 min)
-**Brief shares:**
-
-- Each team: 1-minute presentation
-
-- What was your strategy?
-
-- What did you learn from failure?
-
-- What would you do differently?
-
-**Celebrate all teams:**
-
-- Recognition for each category
-
-- "Biggest Improvement" award
-
-- "Best Perseverance" award
-
-- "Best Teamwork" award
-
-### Closing Celebration (2 min)
-**Reflect:**
-
-- "What was the most important thing you learned?"
-
-- "How did failure help you succeed?"
-
-- "How is engineering like faith?"
-
-**Connection:**
-
-- "The Wright Brothers' first flight was 12 seconds"
-
-- "They kept going — now we fly around the world!"
-
-- "Never give up on what God calls you to do"
-
-**Closing Prayer:**
-"Thank You, God, for this challenge! Thank You for teaching us that failure leads to learning. Thank You for teammates who helped us improve. Bless the creativity You've given us, and help us always use it to serve others. Amen."
-
----
-
-## 📎 Home Connection
-> "We completed the Paper Airplane Challenge! Ask your child: 'What category did you design for?' 'What did you learn from your failures?' 'How did you improve your design?' Challenge them to teach you their best design and have a family paper airplane competition!"
-
----
-
-## ✅ Assessment
-
-- Applied engineering design process
-
-- Iterated based on test data
-
-- Demonstrated perseverance through failure
-
-- Presented design with evidence
-
----
-
-**Lesson Version:** 1.0 — Year B | **
-
-## SAFETY / time constraints
-
-Use the controlled indoor lanes and blunt paper noses from [Flight Fundamentals](Week02-03_Flight_Fundamentals.md). No clips, hard weights, overhead throws, people in lanes or retrieval during launches. Choose **one** finals performance category for the class; four full rounds are not realistic at 25 pupils. Reserve 5 minutes of build/finals time for cleanup. In winter or without an approved lane, use the teacher-led short-flight pathway there. Record each child's comparison/retest reason; team competition results alone are not mastery.
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Flight; **three 40-minute meetings**.
+**Objective:** build a blunt paper glider, record three trials/version and
+justify one redesign under a fixed distance test. **Why:** repeated tests beat
+one lucky "champion" flight. Catholic/CST-C1 honest failed results; CST-S2
+controls/repetition; CST-E1 distance criterion/limits; CST-E2 actual redesign;
+CST-M1 whole-cm results. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; developing, novice fold shown. Prep 20 plus approved space;
+cleanup 5 each. No four-category finals, ratios or required averages.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9). Per team/unit: three identical paper sheets (versions),
+ruler. Per pupil: three evidence sheets/pencil. Class: one metric tape and
+**200 cm floor-safe tape** for a clear **2 m low-flight lane**, broad paper-nose
+models only, no people beyond launch line. Teacher board/timer; demo uses kit.
+Preflight three low launches/retrievals within one **one-minute team slot**;
+measure landing distance to nearest 10 cm, a whole-number approximation.
+If space/slot fails, use the indoor short-flight path below, not rushed safety.
+
+Fold starter: lengthwise crease, unfold; top corners to center; fold resulting
+upper edges to center; fold tip back 2 cm to blunt nose; close center fold;
+fold matching wings down. Teacher checks nose and symmetry.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Build paper (3/team) | 12 | 15 | 21 | 27 |
+| Evidence sheets (3/pupil) | 30 | 45 | 60 | 75 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+| Class measuring tape (fixed) | 1 | 1 | 1 | 1 |
+| Class floor tape (fixed cm) | 200 | 200 | 200 | 200 |
+
+## Vocabulary/background/SAFETY
+
+Lift/drag = aerodynamic forces; gravity = downward attraction; trial = repeat;
+criterion = desired result. After hand release, no engine thrust. Distance
+alone does not measure lift. **Misconception:** change everything to improve.
+**If asked "Can a shorter flight still teach?"** Yes; record it and compare
+fairly. No clips/hard loads, sharp noses, overhead throws, racing, people in
+lane or retrieval during flight. Teacher clears lane/signals stop/retrieve;
+report hazards. One team active, others seated with records.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "What counts as a fair distance test?" State 2 m cap, same paper/
+   release height/method; effort honesty, not winning, is Catholic application.
+2. **4-10:** Fold/demo starter and safe lane; criterion: farther within lane,
+   same conditions, not unlimited maximum.
+3. **10-21:** Each sketches, team builds version 1, marks fixed launch method.
+4. **21-30:** Nine or fewer one-minute slots, three launches/team; every child
+   launches in a trio, pair's third is repeat. Record actual/capped distances.
+5. **30-35:** Each copies three results/units and names two controls.
+6. **35-40:** Store gliders flat, count rulers, collect dated records/clear.
+
+## Meeting 2: exactly 40 minutes
+
+1. **0-4:** Retrieve baseline ranges; "What feature might account for drift?"
+2. **4-9:** Model changing wing-fold width only; keep blunt nose/paper.
+3. **9-21:** Each proposes change; build version 2 with one agreed feature.
+4. **21-30:** Same three-launch slots/test; compare shortest/longest and actual
+   whole-number changes, not required mean.
+5. **30-35:** Each gives six readings across versions and change/control reason.
+6. **35-40:** Save both models/records, count tools/clear.
+
+## Meeting 3: exactly 40 minutes
+
+1. **0-4:** Choose final design using repeated evidence, not "best throw."
+2. **4-9:** Model qualified claim when trial ranges overlap or cap is reached.
+3. **9-21:** Build version 3; prepare prediction and same test plan.
+4. **21-30:** Three final launches/team in same slots; record results.
+5. **30-35:** Parallel peer explanations and individual recommendation/limit;
+   recognize careful tests, not four serial category awards.
+6. **35-40:** Count/store paper/rulers, remove approved tape, archive dated data.
+
+## Success/access/troubleshooting
+
+Meets: nine readings, clear version change/controls and evidence-supported
+recommendation. Grade 3/support: precreased starter/oral counts. Grade
+4/challenge: overlapping ranges/censored cap reasoning. Nose dives: check
+symmetry, choose one fold change; do not add clips.
+**Indoor fallback:** no safe lane -> teacher-controlled 1 m short lane at desk,
+identical release, same slots; capped distance criterion explicitly shifts,
+not actual full-lane performance. If no safe launch space, paper force/design
+model only; flight evidence not observed. No unsafe winter outdoor flight.
+
+**Family:** We compared repeated glider tests. Ask, "What stayed the same across
+versions?" Optional: explain the force arrows, no home launches required.

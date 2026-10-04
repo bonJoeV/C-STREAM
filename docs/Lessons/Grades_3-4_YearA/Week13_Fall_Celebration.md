@@ -1,176 +1,75 @@
 ---
 title: "Week 13: Fall STREAM Celebration"
-description: "Grades 3-4 semester showcase and celebration"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - thanksgiving
-  - service
-  - arts
----
-
-# 🎉 Week 13: Fall STREAM Celebration
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **STREAM Focus** | All STREAM Areas |
-
+description: "Evidence-based portfolio sharing and a fresh demonstration"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E3, CST-A3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Student portfolios, Plain paper, Pencils, Metric ruler]
 ---
 
 # Week 13: Fall STREAM Celebration
 
-## 🎯 Learning Objectives
+## Lesson at a glance
 
-### STEM Objectives
-Students will be able to:
-1. Reflect on and articulate semester learning
-2. Demonstrate skills at celebration stations
-3. Evaluate their own growth and learning
-4. Celebrate achievements and effort
+Grades 3-4; Weekly A; Portfolio; **one 40-minute meeting**.
+**Objective:** explain one artifact using actual evidence, demonstrate its
+reasoning again and revise a display caption after feedback. **Why/big idea:**
+celebrating growth is more informative than ranking favorite decorations.
+Catholic/CST-C3: gifts used responsibly, inventory care; CST-E3: evidence/limit
+in explanation; CST-A3: audience critique/caption revision. Official alignment
+**VERIFICATION REQUIRED**. Technology **None**; developing. Prep 10 minutes;
+cleanup 5 included. Celebration is not an all-domain mastery certificate.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude for learning opportunities
-2. Celebrate as community
-3. Recognize God's gifts of curiosity and creativity
+## Before class and exact supplies
 
----
+Return each child's portfolio; identify an earlier plan/test record, not only a
+photo. Missing portfolios use a fresh paper-tower evidence task below, labeled
+today rather than invented growth. Per pupil: portfolio, two paper sheets
+(caption/evidence and demonstration), pencil. Teams <=3 (4/5/7/9) share ruler.
+Teacher board/timer, prompt written large. All share at desks, no four-device
+station rotation, food or awards requiring extra time.
 
-# Week 13: Fall STREAM Celebration
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Portfolios; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
 
-## 🙏 Faith-Reason Integration
+## Vocabulary/background/SAFETY
 
-### Catholic Teaching Connection
-**Celebration and Thanksgiving** — Throughout the Bible, God's people celebrated after significant work was completed. We celebrate not to boast, but to give thanks to God for His gifts and to recognize our growth.
+Artifact = saved work; evidence = recorded result; caption = explanatory label;
+reflection = reasoned look back. **Misconception:** attendance proves skill.
+**If asked "Am I a master coder?"** Only observed individual operation supports
+that skill; a paper trace is a different kind of evidence.
+Dry paper displays; no restarted robots/circuits, small prizes, balloons or
+private pupil photos. Report missing/broken supplies. Indoor primary.
 
-### Scripture Connection
-> "Shout for joy to the LORD, all the earth. Worship the LORD with gladness; come before him with joyful songs."
-> — Psalm 100:1-2
+## Meeting 1: exactly 40 minutes
 
-### Saint Connection
-**All Saints** — We celebrate the saints because they used their gifts to serve God. Today we celebrate how we've used our STREAM gifts this semester!
+1. **0-4:** Optional prayer of thanks; "Which work shows a decision you changed?"
+2. **4-9:** Model caption: task, real result, reason, limit; distinguish measured
+   from predicted and actually operated from watched.
+3. **9-19:** Select artifact and caption it. Each independently re-explains a
+   test or code trace. Missing artifact: fold a standing paper tower, measure cm
+   and ten-second standing, then change base/retest, recording today's evidence.
+4. **19-29:** Parallel team round: each has two minutes to explain/demonstrate;
+   peers ask "What evidence supports that?" Give one specific caption suggestion.
+5. **29-35:** Each revises caption and submits artifact reference plus fresh
+   explanation/limit and material-care choice; teacher checks individual slips.
+6. **35-40:** Date/store portfolios, count rulers, collect captions and clear
+   desks. Gratitude may be private; enthusiasm not scored.
 
----
+## Success/access/troubleshooting
 
-## 📚 Materials Needed
+Meets: identifiable evidence, fresh reasoning demonstration, accurate limitation,
+caption revision and responsible return. Grade 3/support: point/dictate; two
+caption stems. Grade 4/challenge: compare two dated artifacts and identify what
+cannot be inferred. Unsupported caption: change "proved" to evidence-supported
+claim, never fabricate data. No earlier artifact: today's demonstration only,
+not year-growth certification. Early finish: revise for a new reader.
 
-- Station materials (see station descriptions)
-
-- Student portfolios
-
-- Celebration certificates
-
-- Reflection worksheets
-
-- Display of semester projects/photos
-
-- Treats (optional)
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Introduction (4 min)
-**Prayer:** "Joyful God, thank You for a semester of STREAM learning! Thank You for curious minds, creative hands, and our wonderful community. We celebrate Your gifts today! Amen."
-
-**Introduction:** "Today we celebrate everything we've learned and created this semester!"
-
-### Reflection Activity (6 min)
-**Self-Assessment Reflection:**
-Students complete quick reflection:
-1. My favorite STREAM project this semester was...
-2. Something I learned that surprised me...
-3. A skill I improved at...
-4. A challenge I overcame...
-5. How I grew in faith through STREAM...
-
-**Share:** Turn to a partner and share one reflection.
-
-### Celebration Stations (24 min)
-**Rotate through 4 stations (6 min each):**
-
-**Station 1: Sphero Challenge**
-
-- Complete a coding challenge
-
-- Show off your skills
-
-- Try something new
-
-**Station 2: Engineering Build**
-
-- Quick KEVA or building challenge
-
-- Personal best attempt
-
-- Creative construction
-
-**Station 3: Memory Lane**
-
-- Look through semester projects/photos
-
-- Share favorite memory with others
-
-- Sign classmates' memory pages
-
-**Station 4: Scratch Showcase**
-
-- Share projects created this semester
-
-- Explore classmates' projects
-
-- Appreciate each other's creativity
-
-### Recognition & Certificates (4 min)
-**Celebrate growth:**
-
-- Distribute semester certificates
-
-- Recognize effort, growth, and achievement
-
-- Celebrate the whole community
-
-### Closing Celebration (2 min)
-**Share one word:** Students share one word describing their C-STREAM semester.
-
-**Faith Connection:** "Everything we've learned reveals more of God's amazing creation. Every skill we've developed is a gift from God. As we head into the holiday season, let's carry our gratitude and curiosity with us!"
-
-**Closing Prayer:** "Thank You, God, for an amazing semester of STREAM! Thank You for:
-
-- Curious minds that asked questions
-
-- Creative hands that built and coded
-
-- Caring hearts that helped each other
-
-- Our wonderful class community
-
-Bless our holiday break and bring us back ready to learn more! Amen."
-
----
-
-## ✅ Assessment
-
-- Completed reflection worksheet
-
-- Participated in celebration stations
-
-- Expressed gratitude and growth
-
----
-
-## 📎 Home Connection
-> "We celebrated our C-STREAM semester! Ask your child: 'What was your favorite project?' 'What skill did you improve?' 'What are you proud of?' Thank you for your partnership. Have a blessed holiday season!"
-
----
-
-**Lesson Version:** 1.0 | **
+**Family:** We celebrated learning with evidence and revised captions. Ask,
+"Which result supports your explanation?" Optional: listen to the explanation.

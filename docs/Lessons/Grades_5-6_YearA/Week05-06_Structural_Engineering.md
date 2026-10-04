@@ -1,345 +1,103 @@
 ---
 title: "Weeks 5-6: Structural Engineering"
-description: "Grades 5-6 advanced structural analysis and construction"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - engineering
-  - astronomy
-  - arts
+description: "Force models, bounded load tests and an evidence-based redesign"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🏗️ Weeks 5-6: Structural Engineering
+# Weeks 5-6: Structural Engineering
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 2 sessions (45 min each) |
-| **STREAM Focus** | E (Engineering), M (Math), S (Science) |
-
----
-
-# Weeks 5-6: Structural Engineering
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Analyze forces in structures (tension, compression, shear)
-2. Identify structural elements (beams, columns, trusses, arches)
-3. Calculate efficiency ratios
-4. Design, build, and test optimized structures
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect structural engineering to building God's kingdom
-2. Understand the Church as a structure with each member supporting others
-3. Appreciate the engineering of great cathedrals as acts of worship
-
----
-
-# Weeks 5-6: Structural Engineering
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**The Church as Living Stones** — St. Peter describes Christians as "living stones" being built into a spiritual house. Just as physical structures need every piece in the right place, the Church needs every member contributing their gifts.
-
-### Scripture Connection
-> "You also, like living stones, are being built into a spiritual house to be a holy priesthood."
-> — 1 Peter 2:5
-
-### Saint Connection
-**Medieval Cathedral Builders** — The great Gothic cathedrals were engineering marvels built as acts of worship. Engineers and craftsmen worked for generations to create structures that lifted hearts to God.
-
----
-
-## 📚 Materials Needed
-
-- KEVA planks (300+)
-
-- Straws and connectors
-
-- Testing weights (standardized)
-
-- Scale for weighing structures
-
-- Rulers and measuring tape
-
-- Calculators
-
-- Structural element cards/images
-
----
-
-# Session 1: Forces & Structural Elements
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Lord, You are the foundation and cornerstone of our lives. Help us understand how structures stand strong and how we, as living stones, can build Your kingdom. Amen."
-
-**Wonder moment:** Show images of impressive structures:
-
-- Notre Dame Cathedral
-
-- Golden Gate Bridge  
-
-- Burj Khalifa
-
-**Question:** "How do these structures stand? What keeps them from falling?"
-
-### Forces in Structures (12 min)
-**Three main forces:**
-
-**1. Compression** 💀
-
-- Squeezing force
-
-- Pushes inward
-
-- Think: standing on a pillar
-
-- Example: Columns, arches
-
-**2. Tension** ↔️
-
-- Stretching force
-
-- Pulls outward
-
-- Think: pulling a rope
-
-- Example: Cables, ties
-
-**3. Shear** ↕️↕️
-
-- Sliding force
-
-- Forces moving past each other
-
-- Think: scissors cutting
-
-- Example: Bolts, connections
-
-**Demonstration:**
-
-- Show compression by pressing on eraser
-
-- Show tension by stretching rubber band
-
-- Show shear by sliding books past each other
-
-### Structural Elements (10 min)
-**Key structural elements:**
-
-**Beams** — Horizontal members spanning between supports
-
-- Resist bending (compression on top, tension on bottom)
-
-**Columns** — Vertical members carrying weight down
-
-- Resist compression
-
-**Trusses** — Triangular arrangements
-
-- Triangles are STRONG (can't deform like squares)
-
-- Distribute forces efficiently
-
-**Arches** — Curved elements pushing outward
-
-- Convert vertical load to horizontal thrust
-
-- Very efficient for compression
-
-**Gothic cathedral engineering:**
-
-- Flying buttresses handle outward thrust
-
-- Pointed arches distribute weight
-
-- Ribbed vaults span large spaces
-
-**Faith connection:** "Cathedral builders solved incredible engineering challenges so they could create spaces that lifted hearts to God. Their science was an act of worship!"
-
-### Guided Exploration (15 min)
-**Mini-challenges:**
-
-**Challenge 1: Triangle vs. Square**
-
-- Build a triangle from straws
-
-- Build a square from straws
-
-- Press down — which deforms? Which holds?
-
-**Challenge 2: Beam Study**
-
-- Span a beam (ruler or plank) between two supports
-
-- Add weight to middle
-
-- What happens? Why?
-
-**Challenge 3: Truss Power**
-
-- Add diagonal support to the square
-
-- Test again — what changed?
-
-### Closing & Preview (3 min)
-**Faith Connection:** "St. Peter calls us 'living stones.' Each stone in a cathedral has a purpose. Each of us has a purpose in God's kingdom. What's YOUR structural role?"
-
-**Preview:** "Next session: design and build for maximum efficiency!"
-
----
-
-# Session 2: Optimization Challenge
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Review (4 min)
-**Prayer:** "Lord, help us build wisely today — both physical structures and our lives. May everything we create honor You. Amen."
-
-**Quick review:** "What are the three forces? Why are triangles strong?"
-
-### Efficiency Challenge Introduction (6 min)
-**Challenge:** Build the most EFFICIENT structure.
-
-**Efficiency = Weight Held ÷ Structure Weight**
-
-**Example:**
-
-- Structure A: Weighs 50g, holds 500g → Efficiency = 10
-
-- Structure B: Weighs 100g, holds 800g → Efficiency = 8
-
-- Structure A is MORE EFFICIENT!
-
-**Constraints:**
-
-- Must span a 12" gap
-
-- Must hold weight at center
-
-- KEVA planks only (counted and weighed)
-
-- 10 minutes build time
-
-**Strategy discussion:**
-
-- "Use FEWER materials wisely, not MORE materials wastefully"
-
-- "Where do you need strength? Where can you save?"
-
-- "Triangles, trusses, strategic placement"
-
-### Design Phase (5 min)
-**Quick planning:**
-
-- Sketch your design
-
-- Mark where forces will flow
-
-- Identify structural elements used
-
-- Estimate materials needed
-
-### Build Phase (15 min)
-**Construction time!**
-
-**Teacher circulates:**
-
-- "Where are the compression members?"
-
-- "Where are the tension members?"
-
-- "How are you using triangles?"
-
-- "Where could you remove unnecessary material?"
-
-**Encourage strategic thinking:**
-
-- Every piece should have a purpose
-
-- Test as you build
-
-- Be willing to redesign
-
-### Testing & Analysis (12 min)
-**Test each structure:**
-1. Weigh structure (record)
-2. Place across gap
-3. Adult adds ten 10 g packets at most (100 g total); stop at instability, not intentional collapse. Record maximum safe demonstrated load, not breaking strength.
-4. Calculate efficiency ratio
-
-**Class data collection:**
-
-| Team | Structure Weight | Weight Held | Efficiency |
-|------|------------------|-------------|------------|
-| A    | 45g              | 600g        | 13.3       |
-| B    | 60g              | 720g        | 12.0       |
-| ...  | ...              | ...         | ...        |
-
-**Analysis discussion:**
-
-- "Which was most efficient? Why?"
-
-- "What design choices led to efficiency?"
-
-- "What would you do differently?"
-
-### Reflection & Closing (3 min)
-**Engineering principles learned:**
-
-- Triangles distribute force
-
-- Efficiency matters
-
-- Design with purpose
-
-**Faith Connection:** "In God's kingdom, every person matters. Like an efficient structure where every piece has purpose, the Church needs every member. You're not extra or unnecessary — you're a 'living stone' with an irreplaceable role!"
-
-**Closing Prayer:** "Thank You, God, for the gift of engineering. Help us build structures that serve others and build Your kingdom with our lives. May we each fulfill our purpose as living stones. Amen."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-S3 - individual force-path explanation; CST-E2 - test and proposed redesign; CST-M3 - individual's load-to-structure mass ratio using like units. Official benchmarks: **VERIFICATION REQUIRED**.
-
-## SAFETY
-
-Adult inspects supports and loads; tabletop structures stay below 30 cm and tests use a catching tray. No body-weight testing, chairs, standing under models, or load additions beyond 100 g. Keep hands back during adult loading. Replace "failure" language with observed instability when no safe failure occurs. Ten 10 g sealed packets/class suffice for serial tests; 4/5/7/9 teams share supervised testing.
-
-### Session 1
-
-- Identified three main forces in structures
-
-- Named key structural elements
-
-- Demonstrated understanding through exploration
-
-### Session 2
-
-- Designed structure with clear strategy
-
-- Built within constraints
-
-- Calculated and compared efficiency
-
-- Connected engineering to faith
-
----
-
-## 📎 Home Connection
-> "We studied structural engineering! Ask your child: 'What are the three forces in structures?' 'Why are triangles strong?' 'What's efficiency in engineering?' Notice structures around you — bridges, buildings, furniture. Discuss how we're called to be 'living stones' in God's kingdom, each with a purpose."
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Structures |
+| Time | 2 meetings of 45 minutes; 90 total |
+| Objective / big idea | I can trace a load to its supports, compare a paper beam before/after folding and calculate demonstrated load/model mass with equal units. Form and connections matter. |
+| Why / domains | Engineers test small models before recommending structures; S, E, M. |
+| Catholic connection | Shared work supports community; human worth never depends on load-bearing usefulness. A church-building metaphor is not structural evidence. |
+| Local standards | CST-S3: force path; CST-E2: redesign/retest; CST-M3: equal-unit ratio. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; real physical testing requires the counted kit. |
+| Difficulty / entry | Developing; cm/g, folding, division taught with example; no previous rotation required. |
+| Prep / cleanup | Moderate: first 25 min, repeat 15 min; cleanup 4 min each meeting. Kit: Paper Structures. |
+
+## BEFORE CLASS
+
+1. Confirm school contact/accommodations. Seat 4/5/7/9 teams; rotate designer/builder/recorder.
+2. Cut two 10 x 25 cm paper rectangles/team; leave others for redesign. Mark supports 15 cm apart in trays, below 10 cm high.
+3. Adult verifies four sealed 10 g packets with a scale. Test one flat and one accordion-folded beam with 20 then 40 g. Stop at sag/instability; never seek collapse.
+4. Draw compression (push), tension (pull), shear (slide) arrows on board; use hands on a paper strip, not snapping rubber bands. Preweigh original papers and record mass to scale precision; if below readable resolution, do not invent a ratio.
+
+## MATERIALS
+
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 2 sheets and 1 pencil/student | 20;10 | 30;15 | 40;20 | 50;25 |
+| Paper rectangles | 4/team | 16 | 20 | 28 | 36 |
+| Stable books | 2/team | 8 | 10 | 14 | 18 |
+| Tray; ruler | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Sealed 10 g packets | 4/teacher, shared serially | 4 | 4 | 4 | 4 |
+| Scale; board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/tape consumable; supports/tools/packets reusable. No KEVA loan assumed.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Beam:** spans supports. **Compression/tension/shear:** pushing/pulling/sliding
+forces. **Ratio:** one quantity divided by another. In a bent beam different
+regions experience tension/compression. Folding changes geometry, not paper
+chemistry. A triangle resists changing shape only with adequate joints.
+**Common misconception:** "Our 40 g success proves maximum strength."
+It establishes only the safe tested load. **If asked, "Is the best ratio the
+best bridge?"** Not always: access, durability and safety also matter.
+Worked fictional ratios: 40 g / 5 g = 8; 40 g / 10 g = 4. Same units cancel;
+these are load/mass indices, not energy efficiency or safe human capacities.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: forces and baseline
+
+1. **0-4 (4 min):** Ask "Where does a centered load go?" Introduce responsible teamwork.
+2. **4-11 (7 min):** Model force arrows, low support/tray and adult-only loading.
+3. **11-24 (13 min):** Teams fold one rectangle lengthwise once and leave one flat. Each pupil sketches predictions, labels load/supports and measures span.
+4. **24-35 (11 min):** Adult visits nine tables, two loads per beam, approximately one minute/team. Children record 20/40 g pass or stop, never add loads. While waiting, trace force paths individually.
+5. **35-41 (6 min):** Each explains one path and test-based fold proposal; collect baseline sheets.
+6. **41-45 (4 min):** Adult retrieves packets; pupils stack supports, save beams and tidy.
+
+### Meeting 2: optimization and tradeoff
+
+1. **0-4 (4 min):** Retrieve baseline, not assumed mastery; name one observed result.
+2. **4-11 (7 min):** Work 40/5 example; define constraint: same paper count, 15 cm span, 40 g cap.
+3. **11-24 (13 min):** Each suggests a shape change; team chooses accordion/side flanges, builds, records dimensions and material count. Adult weighs model during this window.
+4. **24-35 (11 min):** Adult repeats identical two-load test/table; record actuals and retain failures. Compare only equivalent conditions.
+5. **35-41 (6 min):** Individual force drawing, before/after conclusion and actual ratio if scale resolves mass; otherwise use labeled fictional 40/5 calculation and state measurement deferred.
+6. **41-45 (4 min):** Retrieve packets, save diagrams, sort paper, store dry supports.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Where would the beam bend? What changed besides shape? Why isn't this breaking
+strength?" Each has labeled path, two dated tests, revision reason and checked
+equal-unit ratio. 1 unsupported; 2 prompted; 3 independent; 4 defensible
+material/safety tradeoff; NE for unobserved operations.
+
+## IF THINGS GO WRONG / SAFETY
+
+Beam sags -> adult stops, record stop, revise fold; no extra weights. No scale
+-> retain shape testing, use fictional arithmetic labeled as such. Missing
+supports -> teacher tray demonstration, individual building deferred. No
+body-weight tests, furniture climbing, sharp sticks or hands under loads.
+Adult reports damage/injury; isolates kit.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: folding guide, g labels, calculator and oral force explanation.
+Grade 6/challenge: compare two indices with uncertainty and justify why a
+high index alone is insufficient. Dry tabletop work is the indoor plan.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count four packets and all rulers; save original/revised evidence; replenish paper.
+**Explored:** forces/form. **Did:** controlled safe tests and folding redesign.
+**Learned:** tested capacity has limits. **Catholic connection:** shared responsible
+work. **Ask:** "What evidence justified your fold?" No routine homework.

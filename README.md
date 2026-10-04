@@ -20,8 +20,9 @@ Start with [the curriculum review](docs/Review/README.md) for the executive
 review, verified standards sources, local competencies, K-6 progression, all
 251 lesson audit records, classroom materials, revised priority lessons and
 remaining teaching-release checks. This is a local program, not an
-Archdiocesan-approved standards framework. Not every legacy lesson is
-substitute-ready.
+Archdiocesan-approved standards framework. All 251 lesson documents now have
+complete written pathways; actual equipment, school approval and classroom
+pilot checks remain conditional.
 
 From the repository root in PowerShell, regenerate and validate the maps with
 `.\scripts\Build-CurriculumMaps.ps1`, then publish locally with `mkdocs build`.

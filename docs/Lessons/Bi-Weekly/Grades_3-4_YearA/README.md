@@ -13,13 +13,19 @@ This bi-weekly schedule provides a condensed C-STREAM experience for schools wit
 
 ## Audit status and prerequisites
 
-These are **17 represented meetings / 680 minutes in 17 files**, not half the weekly sequence compressed without loss. See the [Grades 3-4 review](../../../Review/Grades_3-4_Review.md) and [71-lesson audit](../../../Review/Grades_3-4_Audit.csv). Dash, Light & Circuits and Plants & Growth are rebuilt; other sessions have varied kit, source and assessment needs. No entire-track readiness certification.
+These are **17 represented meetings / 680 minutes in 17 files**, not half the weekly sequence compressed without loss. See the [Grades 3-4 review](../../../Review/Grades_3-4_Review.md) and [71-lesson audit](../../../Review/Grades_3-4_Audit.csv). All packages have complete quantities, native timelines and individual checks. Fourteen were completed in the all-60 follow-up; Dash, the updated Light & Circuits and Plants references remain unchanged. Document completion is not classroom certification.
 
 Either rotation may be a pupil's first year. Teach Grade 3 supported counts/measurement and Grade 4 repeat-test/limitation reasoning in either. Scratch Intro is the prerequisite for animation; verify that learning rather than assume attendance. Plants has a within-meeting evidence path; living growth still takes days and an assigned adult caretaker.
 
 CSCOE loan stock/dates, models, batteries, software and privacy permissions are **VERIFICATION REQUIRED**, not guaranteed. Paper route fallbacks evidence CT, not Dash operation. Circuits require approved low-voltage kits for real electrical outcomes; paper models do not light. No loose coin-cell cards are sent home. Weather and plant work have indoor/no-homework paths.
 
-Use only source-checked biography/quotation/Scripture cards; unresolved claims are marked **VERIFICATION REQUIRED** in the review. Home activities and donations remain optional.
+New packages supply needed source facts or omit unneeded biographies/quotes. Gratitude/Easter slides and Scratch animation include concrete executable workflows; paper fallbacks explicitly shift objectives. LittleBits needs its own matching approved modules, not guessed Snap wiring. Home activities and donations remain optional.
+
+Optional preparation aid: [Grades 1-6 reference routines](../../../Resources/Grade_Band_Reference_Routines.md).
+The complete lesson-specific supplies, individual checks and 40-minute sequence
+still govern. Dash retains its pair/trio budget; Light & Circuits retains the
+eight reported Snap kits and its actual station/wave plan. Waiting work is
+reasoning/design evidence, not a physical turn; groups never increase to four.
 
 ---
 
@@ -27,10 +33,10 @@ Use only source-checked biography/quotation/Scripture cards; unresolved claims a
 
 | Session | Title | Focus | Catholic Connection |
 |---------|-------|-------|---------------------|
-| 01 | [Engineering Design](./Session01_Engineering_Design.md) | Design thinking process | St. Juan Diego & wonder |
+| 01 | [Engineering Design](./Session01_Engineering_Design.md) | Tested paper tower | Inclusive service |
 | 02 | [Dash & Code](./Session02_Dash_Code.md) | Dash robots introduction | St. Carlo Acutis |
-| 03 | [Bridge Engineering](./Session03_Bridge_Engineering.md) | Bridge building with KEVA | St. Patrick |
-| 04 | [Animal Habitats](./Session04_Animal_Habitats.md) | Habitat design | St. Francis |
+| 03 | [Bridge Engineering](./Session03_Bridge_Engineering.md) | Capped KEVA retest | Access for neighbors |
+| 04 | [Animal Habitats](./Session04_Animal_Habitats.md) | Source-limited habitat model | Responsible care |
 | 05 | [Scratch Intro](./Session05_Scratch_Intro.md) | Block-based coding | Responsible creativity; programmer metaphor not literal |
 | 06 | [Gratitude Tech](./Session06_Gratitude_Tech.md) | Thanksgiving technology | Gratitude and thanks |
 | 07 | [Light & Circuits](./Session07_Light_Circuits.md) | Snap switched-light tests and Advent message | Jesus as Light |

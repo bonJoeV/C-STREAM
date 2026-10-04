@@ -1,536 +1,116 @@
 ---
 title: "Weeks 24-27: Sustainable City"
-description: "Grades 3-4 Year B environmental design project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - engineering
-  - life-science
-  - earth-science
-  - astronomy
-  - animals
-  - lent
-  - service
-  - arts
----
-
-# 🌆 Weeks 24-27: Sustainable City
-
-## Unit Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 4 sessions (40 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), S (Science), R (Religion), A (Arts) |
-
+description: "A whole-number resource budget and tested access/system model"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E1, CST-E2, CST-A1, CST-M3]
+technology: None
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Cardboard, Cardstock, Plain paper, Pencils, Markers, Metric ruler, Masking tape, Blunt scissors]
 ---
 
 # Weeks 24-27: Sustainable City
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Understand sustainability principles
-2. Design eco-friendly city features
-3. Calculate energy and resource usage
-4. Build model sustainable city
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect creation care to Catholic teaching
-2. Apply Laudato Si' principles
-3. See stewardship as faith response
-
----
-
-# Weeks 24-27: Sustainable City
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Laudato Si'** — Pope Francis calls us to care for our "common home." Sustainable cities represent our response to this call — designing human communities that live in harmony with God's creation.
-
-### Scripture Connection
-> "The Lord God took the man and put him in the Garden of Eden to work it and take care of it."
-> — Genesis 2:15
-
-### Saint Connection
-**St. Kateri Tekakwitha** — A Catholic saint whose life can be studied with a verified biography. Do not infer her words, ecological practices or all Indigenous peoples' beliefs from her ancestry. Particular historical/biographical claims are **VERIFICATION REQUIRED**.
-
----
-
-## 📚 Materials Needed
-
-### Week 24
-
-- Sustainability concept images
-
-- City planning maps
-
-- Problem scenario cards
-
-- Planning worksheets
-
-### Weeks 25-27
-
-- Building materials (cardboard, boxes, recycled items)
-
-- Craft supplies
-
-- Solar panels (toy/model)
-
-- Green roof materials (moss, plants)
-
-- Labels and signs
-
-- Assessment rubrics
-
----
-
-## 📝 Week 24 Procedure: Sustainability Basics (40 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, You made the Earth and called it GOOD! Help us learn to care for Your creation. St. Kateri, teach us to see God in nature. Amen."
-
-### What is Sustainability? (10 min)
-**Definition:**
-"Meeting our needs TODAY without hurting the ability of FUTURE generations to meet their needs."
-
-**Key questions:**
-
-- If we use all the water now, what about our grandchildren?
-
-- If we pollute the air, who breathes it later?
-
-- If we destroy forests, what's left for the future?
-
-**Three pillars:**
-
-- 🌍 **Environmental** — Care for nature
-
-- 👥 **Social** — Care for people
-
-- 💰 **Economic** — Can we afford it long-term?
-
-**St. Kateri connection:**
-
-- Our stewardship application is a modern classroom reflection, not a sourced description of Kateri's ecology.
-- The earlier "borrow the Earth" saying is removed; it was not a verified quotation from Kateri.
-
-### Laudato Si' Introduction (8 min)
-**Pope Francis' message:**
-
-**Key points:**
-
-- "The Earth is our common home"
-
-- "Everything is connected"
-
-- "We are called to care for creation"
-
-- "The poor suffer most from environmental damage"
-
-**Read excerpt:**
-Paraphrase the creation-care theme using [Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html). The earlier quotation/paragraph pairing was not verified and is removed; no invented source number.
-
-**Discussion:**
-
-- Why does the Pope write about environment?
-
-- How is caring for Earth a faith issue?
-
-- What can WE do?
-
-### City Problems to Solve (12 min)
-**Current city challenges:**
-
-**Problem cards activity:**
-
-- Energy waste
-
-- Water pollution
-
-- Air pollution
-
-- Too much trash
-
-- Not enough green space
-
-- Traffic congestion
-
-- Flooding
-
-**For each problem:**
-
-- What causes it?
-
-- Who is affected?
-
-- What solutions exist?
-
-**Sustainable city features:**
-
-- Renewable energy (solar, wind)
-
-- Public transportation
-
-- Green spaces (parks, trees)
-
-- Water recycling
-
-- Waste reduction
-
-- Walkable neighborhoods
-
-### City Planning Introduction (6 min)
-**Your sustainable city:**
-
-**Teams assigned (groups of 3-4)**
-
-**City features to include:**
-
-- Energy system
-
-- Transportation
-
-- Water management
-
-- Waste management
-
-- Green spaces
-
-- Housing
-
-- Community spaces
-
-**Design document:**
-
-- City name
-
-- Key sustainability features
-
-- Map sketch
-
-- Roles for team members
-
-### Closing (2 min)
-**In-class preparation:** Teacher supplies clean cardboard/paper for everyone and two short source-checked feature cards. Home research/donations are optional, never a participation prerequisite.
-
-**Closing Prayer:**
-"Thank You, God, for calling us to care for Your creation. Help us design cities that honor You and protect the Earth. St. Kateri, pray for us! Amen."
-
----
-
-## 📝 Week 25 Procedure: Detailed Planning (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, bless our planning today! Help us think carefully about how to care for creation. Amen."
-
-### Share Research (5 min)
-**Quick shares:**
-
-- What sustainable feature did you research?
-
-- How does it help the environment?
-
-- Can we include it in our city?
-
-### Detailed City Planning (25 min)
-**Design each system:**
-
-**Team planning worksheet:**
-
-**1. Energy System (5 min)**
-
-- Power source (solar, wind, etc.)
-
-- How much energy needed?
-
-- Where will panels/turbines go?
-
-- Backup system?
-
-**2. Transportation (5 min)**
-
-- How do people get around?
-
-- Public transit options
-
-- Bike lanes, walking paths
-
-- Reduced car use?
-
-**3. Water System (5 min)**
-
-- Where does water come from?
-
-- How is it cleaned?
-
-- How do you reduce waste?
-
-- Rain collection?
-
-**4. Waste Management (5 min)**
-
-- Recycling system
-
-- Composting
-
-- Reducing trash
-
-- No landfill goal?
-
-**5. Green Spaces (5 min)**
-
-- Parks and gardens
-
-- Trees and plants
-
-- Wildlife habitats
-
-- Community gardens
-
-**Teacher guidance:**
-
-- Help with realistic planning
-
-- Connect to real examples
-
-- Ensure faith integration
-
-### Materials Planning (6 min)
-**What do you need to build?**
-
-**Materials list:**
-
-- Check what's available
-
-- Plan materials from the school stock; no pupil supply assignments
-
-**Building schedule:**
-
-- Week 26: Build main structures
-
-- Week 27: Add details, present
-
-### Closing (2 min)
-**Checklist:**
-
-- [ ] All systems planned
-
-- [ ] Materials identified
-
-- [ ] Roles assigned
-
-- [ ] Ready to build!
-
-**Closing Prayer:**
-"Thank You for time to plan, Lord! Help us be good stewards as we build. Amen."
-
----
-
-## 📝 Week 26 Procedure: Construction (40 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, guide our hands as we build! Help us work together in peace. Amen."
-
-### Build Time (35 min)
-**Construct your sustainable city:**
-
-**Building phases:**
-
-**Phase 1: Base and Layout (10 min)**
-
-- Set up base (cardboard, board)
-
-- Mark areas for different features
-
-- Begin major structures
-
-**Phase 2: Main Features (15 min)**
-
-- Energy systems (solar panels, wind turbines)
-
-- Buildings (homes, schools, stores)
-
-- Transportation (roads, bus stops, bike lanes)
-
-- Water features (treatment, rain gardens)
-
-**Phase 3: Green Spaces (10 min)**
-
-- Parks and gardens
-
-- Trees and plants
-
-- Wildlife areas
-
-- Community spaces
-
-**Building tips:**
-
-- Use recycled materials
-
-- Make features identifiable
-
-- Include labels
-
-- Think about scale
-
-- Work as team
-
-**Teacher circulation:**
-
-- Check on progress
-
-- Ensure all systems included
-
-- Ask about design choices
-
-- Support collaboration
-
-### Progress Check (3 min)
-**Assessment:**
-
-- What's done?
-
-- What needs finishing?
-
-- What help is needed?
-
-**Photo documentation**
-
-**Closing Prayer:**
-"Thank You for progress, Lord! Bless our continued work. Amen."
-
----
-
-## 📝 Week 27 Procedure: Completion & Presentation (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us finish well and share our learning with others! Amen."
-
-### Final Construction (10 min)
-**Complete your city:**
-
-- Finish any structures
-
-- Add labels and signs
-
-- Clean up presentation
-
-- Prepare for sharing
-
-### Presentation Preparation (5 min)
-**Team presentation plan:**
-
-- Who introduces the city?
-
-- Who explains energy?
-
-- Who explains transportation?
-
-- Who explains water/waste?
-
-- Who explains green spaces?
-
-- Who explains faith connection?
-
-**Key points to cover:**
-
-- City name and vision
-
-- How each system is sustainable
-
-- How it reflects Laudato Si'
-
-- What you're proudest of
-
-### City Presentations (18 min)
-**Each team presents (4-5 min):**
-
-- Show city model
-
-- Explain sustainable features
-
-- Answer questions
-
-- Receive feedback
-
-**Audience task:**
-
-- Listen respectfully
-
-- Notice sustainability features
-
-- Prepare one compliment
-
-- Prepare one question
-
-### Gallery Walk & Voting (3 min)
-**View all cities:**
-
-- Walk around quietly
-
-- Appreciate details
-
-- Silent reflection
-
-**Recognition categories:**
-
-- Most Sustainable
-
-- Most Creative Design
-
-- Best Use of Recycled Materials
-
-- Most Beautiful Green Space
-
-- Best Faith Integration
-
-### Closing Reflection (2 min)
-**Discussion:**
-
-- "What did you learn about sustainability?"
-
-- "How can we apply this to real life?"
-
-- "How is caring for creation a faith response?"
-
-**Action commitment:**
-Each student: "I will help the Earth by..."
-
-**Closing Prayer:**
-"Thank You, God, for teaching us to care for Your creation! Thank You for teammates and creativity. Help us take what we learned and live it every day. May we be good stewards of our common home. St. Kateri, pray for us and for our Earth! Amen."
-
----
-
-## 📎 Home Connection
-> "We completed Sustainable City projects! Ask your child: 'What is your city called?' 'What makes it sustainable?' 'What did you learn about Laudato Si'?' 'What will you do to help the Earth?' Consider family eco-practices: recycling, reducing energy, planting trees!"
-
----
-
-## ✅ Assessment
-
-- Demonstrated understanding of sustainability
-
-- Included all required city systems
-
-- Applied Laudato Si' principles
-
-- Collaborated effectively
-
-- Presented clearly
-
----
-
-**Lesson Version:** 1.0 — Year B | **
-
-## SAFETY / model limits
-
-Dry paper/cardboard primary; no moldy recyclables, sharp metal, glass, planted moss, live electrical generators or drinking-water claims. Solar/green-roof/water features may be labeled nonworking models; do not claim measured resource savings without a test. For Grade 3 compare whole-number tokens in a hypothetical resource budget; Grade 4 explains tradeoffs with the same budget. Seven teams at 25 pupils share in pairs or a gallery, not seven five-minute presentations inside eighteen minutes. A fully specified resource budget and individual assessment still need P1 development.
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Stewardship design; **four 40-minute meetings**.
+**Objective:** plan/build a city within twenty resource tokens, test access and
+revise a system using countable criteria. **Why:** sustainability involves
+tradeoffs, people and resources, not green decoration.
+Catholic/CST-C3 stewardship; CST-E1 criteria/budget; CST-E2 test/retest;
+CST-A1 labeled plan/model; CST-M3 whole-number budget/remainder.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+developing. Prep 20; cleanup 5 each. Creation-care paraphrase:
+[Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html).
+No Kateri stereotype/quote, real power/water savings or hidden home materials.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): **30 x 30 cm** cardboard base, three cardstock sheets,
+twenty drawn large paper resource tokens, ruler/scissors, two markers,
+**100 cm tape/unit**. Per pupil: four evidence sheets/pencil. Teacher board/
+timer; demo from kit. Inspect recycled edges, reserve dry storage on bases.
+Post **hypothetical planning costs**, not dollars or measured energy:
+housing 4, shared community space 3, walking/public-transport route 3,
+water-management model 3, waste-management model 2, green space 2,
+energy-system model 3. Required set total **20**, remainder **0**.
+Symbols label water/waste/energy functions; no real generators or plants.
+An alternative upgrade costs 2 extra; choose what to reduce and explain lost
+function, never imply free benefits.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Bases; rulers; scissors (1/team each) | 4 | 5 | 7 | 9 |
+| Cardstock (3/team) | 12 | 15 | 21 | 27 |
+| Tokens (20/team) | 80 | 100 | 140 | 180 |
+| Markers (2/team) | 8 | 10 | 14 | 18 |
+| Tape (100 cm/team, cm total) | 400 | 500 | 700 | 900 |
+| Evidence sheets (4/pupil) | 40 | 60 | 80 | 100 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Sustainable = meeting needs while considering future resources; tradeoff =
+gain with a cost; system = interacting parts; budget = finite allowance.
+**Misconception:** labeled solar roof proves energy savings.
+**If asked "Does our rain garden clean drinking water?"** No; this is a
+nonworking system model, actual performance requires separate tests.
+Dry paper only; no moss/mold, glass/metal, wiring, stagnant water or real
+construction. Scissors seated; stop/report hazards. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "Who could be left out of a resource-saving city?"
+2. **4-10:** Read seven feature costs, count twenty tokens; distinguish budget
+   units from money/energy.
+3. **10-22:** Each draws labeled plan, team assigns tokens to all seven features.
+4. **22-30:** Peer checks sum/layout; criterion continuous >=2 cm route joining
+   housing/community/water/waste/green space; revise one plan gap.
+5. **30-35:** Individual sum/remainder, one stewardship choice and plan limit.
+6. **35-40:** Count tokens/tools, save dated plans.
+
+## Meeting 2: exactly 40 minutes
+
+1. **0-4:** Retrieve budget/route criteria.
+2. **4-9:** Model water/energy/waste labels with input/process/output arrows;
+   conceptual functions, not certified machinery.
+3. **9-21:** Each details one system and annotates a user/resource tradeoff;
+   complete seven-feature plan.
+4. **21-30:** Try the two-token upgrade on paper; rebalance or reject with
+   reason, retaining required feature functions.
+5. **30-35:** Each records baseline/alternative budget and justified choice.
+6. **35-40:** Save/count; no family research assigned.
+
+## Meeting 3: exactly 40 minutes
+
+1. **0-4:** Retrieve final plan/material allowance.
+2. **4-9:** Show low card buildings and route width ruler check.
+3. **9-21:** Build dry city model, rotating roles; every pupil adds system label.
+4. **21-30:** Trace route to five destinations and measure narrowest width;
+   record reached 0-5/cm, identify revision.
+5. **30-35:** Each compares built model to plan and cites test result.
+6. **35-40:** Store bases, count tools/tokens, clear scraps.
+
+## Meeting 4: exactly 40 minutes
+
+1. **0-4:** "Which evidence makes a route change necessary?"
+2. **4-9:** Model one relocated building, keeping budget/fixed base.
+3. **9-21:** Revise/retest five destinations and width, same conditions.
+4. **21-30:** Parallel peer tours; each explains system, cost and tradeoff;
+   no serial seven-team five-minute speeches.
+5. **30-35:** Individual before/after, sum/remainder and limit: model route
+   is not a real accessibility-code or resource-savings certification.
+6. **35-40:** Count/archive dry models/plans, cap markers/clear.
+
+## Success/access/troubleshooting
+
+Meets: correct twenty-token budget, labeled model, real route retest and
+stewardship tradeoff. Grade 3/support: token piles/copied cost card/scribing.
+Grade 4/challenge: compare two whole-number alternatives and explain displaced
+function. Over-budget: reject/adjust on paper, no invented zero-cost upgrade.
+Missing base: paper 30 cm plan model, label reduced 3D evidence. Early finish:
+new reader traces route, same criterion. No savings outcomes inferred.
+
+**Family:** We balanced resource budgets and retested a city model. Ask,
+"What did your design gain and give up?" Optional: discuss a shared resource.

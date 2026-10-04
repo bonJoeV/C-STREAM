@@ -1,254 +1,76 @@
 ---
 title: "Week 34: Year-End STREAM Expo"
-description: "Grades 3-4 showcase, presentations, and celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - circuits
-  - earth-science
-  - advent
-  - service
-  - arts
----
-
-# 🎉 Week 34: Year-End STREAM Expo
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes (or extended for expo) |
-| **STREAM Focus** | All STREAM Areas |
-
+description: "Parallel evidence sharing, individual demonstrations and honest closure"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E3, CST-A3]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Student portfolios, Plain paper, Pencils, Metric ruler]
 ---
 
 # Week 34: Year-End STREAM Expo
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Present their learning and growth from the year
-2. Demonstrate skills across STREAM disciplines
-3. Reflect on and articulate their learning journey
-4. Celebrate achievements and community
-
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude for the gift of learning
-2. Recognize how faith integrated throughout the year
-3. Celebrate growth as individuals and community
-
----
-
-# Week 34: Year-End STREAM Expo
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Gratitude and Celebration** — The Christian life includes celebration! Throughout Scripture, God's people celebrated milestones and gave thanks for completed work. Our STREAM Expo is an act of worship — giving thanks for all God has helped us learn and create.
-
-### Scripture Connection
-> "The LORD has done great things for us, and we are filled with joy."
-> — Psalm 126:3
-
-### Saint Connection
-**All Our Saints** — Throughout the year, we've learned about Catholic scientists, engineers, artists, and more. They all used their gifts for God's glory — just like we're learning to do!
-
----
-
-## 📚 Materials Needed
-
-- Student portfolios/projects
-
-- Display materials
-
-- Expo station supplies
-
-- Certificates
-
-- Photo slideshow (optional)
-
-- Celebration treats
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Year-End Prayer:** "Gracious God, thank You for an amazing year of STREAM learning! Thank You for curious minds, creative hands, faithful hearts, and our wonderful community. We gather to celebrate all You've helped us do. Every discovery gives glory to You! Amen."
-
-**Introduction:**
-
-- "What a year we've had!"
-
-- "Today we celebrate everything we've learned and created"
-
-- "This is a time to be grateful and joyful!"
-
-### Year in Review (8 min)
-**Journey through the year:**
-
-**Photo slideshow or discussion of highlights:**
-
-- Sphero coding
-
-- Scientific method investigations
-
-- Engineering challenges
-
-- Community helper designs
-
-- Circuits and electronics
-
-- Environmental projects
-
-- And more!
-
-**Class sharing:**
-
-- "What was your favorite project?"
-
-- "What's the most important thing you learned?"
-
-- "How did you grow this year?"
-
-### STREAM Expo Stations (20 min)
-**Format options:**
-
-**Option A: Gallery Walk**
-Display student work around the room. Students rotate to view and appreciate each other's work.
-
-**Option B: Expo Stations**
-Set up interactive stations with demonstrations:
-
-- Station 1: Coding showcase (Sphero/Scratch demos)
-
-- Station 2: Engineering builds (construction challenges)
-
-- Station 3: Science investigations (favorite experiments)
-
-- Station 4: Portfolio sharing (year's work)
-
-**Option C: Presentations**
-Students give brief presentations (2 min each) on their proudest work or learning.
-
-**Peer appreciation:** Students write "appreciation notes" for classmates' work.
-
-### Recognition & Reflection (5 min)
-**Certificate presentation:**
-Distribute year-end STREAM certificates recognizing growth, effort, and achievement.
-
-**Personal reflection moment:**
-Students write briefly:
-
-- What I'm most proud of this year...
-
-- How I grew in faith through STREAM...
-
-- One goal for next year...
-
-### Closing Celebration (2 min)
-**Final gratitude circle:**
-Each student shares one word describing their C-STREAM year.
-
-**Faith Connection:** "This year, you've proven that faith and learning work together. You've explored God's creation through science, created like your Creator through engineering and art, and grown in both knowledge and faith. That's what Catholic education is all about!"
-
-**Closing Prayer:** 
-"Thank You, God, for this incredible year of C-STREAM!
-
-Thank You for:
-
-- **Science** that helped us discover Your creation
-
-- **Technology** that taught us to create and solve
-
-- **Religion** that guided everything we learned
-
-- **Engineering** that let us build and help others
-
-- **Art** that helped us express beauty
-
-- **Math** that revealed Your patterns and order
-
-Thank You for our teachers, our classmates, and our school family.
-
-Bless our summer adventures and bring us back ready to learn more.
-
-We give You all the glory for everything we've done.
-
-In Jesus' name, Amen!"
-
----
-
-## ✅ Assessment
-
-- Participated in Expo activities
-
-- Shared learning and growth
-
-- Expressed gratitude and reflection
-
-- Celebrated community
-
----
-
-## 📎 Home Connection
-> "We celebrated our C-STREAM year at the Expo! Ask your child: 'What was your favorite part of C-STREAM?' 'What are you most proud of?' 'How did you grow?'
-
-Thank you for your partnership this year! Continue STREAM at home this summer:
-
-- Build and create together
-
-- Explore nature and ask questions
-
-- Code with free resources online
-
-- Notice God's design in everything
-
-Your child has grown in knowledge, skills, and faith. Well done!
-
-Have a blessed summer! 🌟"
-
----
-
-## 🏆 Year-End Certificate
-
-**C-STREAM Achievement Certificate**
-
-*This certifies that*
-
-**[Student Name]**
-
-*has successfully completed a year of C-STREAM in Grades 3-4*
-
-*demonstrating growth in:*
-
-
-- ✝️ **Faith-Reason Integration**
-
-- 🔬 **Scientific Inquiry**
-
-- 💻 **Technology & Coding**
-
-- 🏗️ **Engineering Design**
-
-- 🎨 **Creative Expression**
-
-- ➕ **Mathematical Thinking**
-
-*"Faith and reason are like two wings on which the human spirit rises to the contemplation of truth."*
-— Pope St. John Paul II
-
-*Congratulations on an outstanding year!*
-
----
-
-**Lesson Version:** 1.0 | **
+## Lesson at a glance
+
+Grades 3-4; Weekly A; Portfolio; **one 40-minute meeting**, not an extended event.
+**Objective:** support a learning claim with two dated artifacts, demonstrate
+reasoning individually and revise an explanation for a peer.
+**Why:** an expo should show what changed, not certify attendance as mastery.
+Catholic/CST-C3: stewardship of gifts/work; CST-E3: evidence/tradeoff/limit;
+CST-A3: display critique/revision. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; developing. Prep 15 minutes; cleanup 5 included.
+
+## Before class and exact supplies
+
+Per pupil: portfolio, two paper sheets (evidence caption/fresh demonstration),
+pencil. Teams <=3 (4/5/7/9) share ruler. Teacher board/timer; choose safe paper
+artifacts, not live circuits/robots. Missing work: fresh tower folding/measuring
+task, labeled today's evidence, never invented history. Board:
+`earlier date/result | later date/result | fresh explanation | limit`.
+Tools reusable; evidence retained. No certificate/treat supplies required.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Portfolios; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+
+## Vocabulary/background/SAFETY
+
+Evidence = actual record; growth = supported change; demonstration = individual
+showing; limit = what record cannot establish. **Misconception:** a photo proves
+each child programmed. **If asked "Can I say mastered all STREAM?"** Not without
+individual evidence across those skills; local mastery requires two dated
+observations on separate occasions, including changed context/explanation.
+No live hardware, food, balloons or public private photos; report missing
+artifacts. Indoor desk displays, no weather dependency.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional gratitude prayer. "Which records show a changed decision?"
+2. **4-9:** Model qualified claim: actual dates/results; separate paper/real
+   operation, prediction/measurement and faith reflection.
+3. **9-20:** Select two artifacts, prepare caption and independently re-trace
+   code or explain/recreate a design. Without work, fold/test tower ten seconds,
+   measure cm, change base/retest; label fresh evidence only.
+4. **20-29:** Parallel teams: two minutes per child to show evidence/demonstrate;
+   peers ask a specific question. At 25, nine simultaneous groups, not 25 serial
+   two-minute speeches.
+5. **29-35:** Each revises caption, names supported skill/limit and stewardship
+   action; teacher collects individual explanation and missing-evidence flags.
+6. **35-40:** File dated captions, count rulers, return portfolios, clear desks.
+   Optional recognition says "participated/explored," not certified mastery.
+
+## Success/access/troubleshooting
+
+Meets: evidence-referenced claim, fresh individual reasoning and critique-backed
+caption; growth not credited without two genuine records. Grade 3/support:
+pointing/dictation/caption stems. Grade 4/challenge: defend a tradeoff and what
+transfer evidence would be needed. Missing earlier work: report growth not
+evidenced; today's task still assesses reasoning. Overlong speech: use prompt
+card/task-result-limit within two minutes. Early finish: answer new peer question.
+
+**Family:** Our Expo used evidence and individual explanations. Ask, "What can
+your records show, and what can't they show?" Optional: listen to one explanation.

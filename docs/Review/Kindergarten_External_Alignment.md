@@ -8,9 +8,11 @@ description: "Twelve exact arts benchmark links with explicit task/evidence boun
 **Checked October 4, 2026 for 2026-27.** This is progress beyond topic-level
 alignment, not a school approval, observed mastery or complete subject crosswalk.
 
-[Download the twelve candidate links](Kindergarten_External_Alignment.csv).
-They connect **four exact published benchmark identifiers -> eleven lesson
-documents -> specific student tasks -> individual planned evidence**.
+[Download the source-specific candidate links](Kindergarten_External_Alignment.csv).
+The initial twelve arts links use four exact arts identifiers; the completion
+pass adds four national-CS links using two directly verified CSTA 2026 codes.
+Each record states the actual task, individual planned evidence and source/
+authority boundary rather than claiming full subject coverage.
 
 ## What was actually verified
 
@@ -58,6 +60,19 @@ The CSV status deliberately separates **source verification** from
 institutional review and classroom outcomes. The generated local-standard
 map retains its general external-alignment verification hold and links here
 for these narrowly checked candidates.
+
+### National CS follow-up
+
+The current [CSTA viewer](https://csteachers.org/pk12standards/view/) directly
+supplied **EK-ALG-IM-03** and **EK-DAT-DC-08** in its PK/K placement.
+The first concerns the human process of naming a goal, breaking it into
+smaller steps and ordering them; the gratitude/service algorithm references
+now model and individually check that process explicitly.
+The second concerns collecting data to answer an age-appropriate question
+with two or three variables/attributes. Actual cloud-category/time records
+can evidence this target with teacher help; invented model records cannot.
+Neither code is a Minnesota adoption claim, a requirement for an iPad or
+evidence of executing computer code.
 
 ## Science and mathematics: no guessed identifiers
 

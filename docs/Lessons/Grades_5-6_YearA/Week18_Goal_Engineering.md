@@ -1,243 +1,86 @@
 ---
 title: "Week 18: New Year Goal Engineering"
-description: "Grades 5-6 SMART goals and project planning"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - engineering
-  - lent
-  - service
-  - arts
+description: "Measurable project goals, three milestones and resource constraints"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎯 Week 18: New Year Goal Engineering
+# Week 18: New Year Goal Engineering
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | M (Math), R (Religion) |
-
----
-
-# Week 18: New Year Goal Engineering
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply SMART goal framework systematically
-2. Break complex goals into measurable milestones
-3. Create project timeline with dependencies
-4. Use data tracking for progress monitoring
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect goal-setting to discernment and vocation
-2. Include faith goals alongside personal/academic goals
-3. Understand perseverance as a virtue
-
----
-
-# Week 18: New Year Goal Engineering
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Discernment and Direction** — The Church encourages prayerful discernment about our path in life. While God has a plan, we cooperate through intentional choices. Goal-setting is a way to steward our time and talents responsibly.
-
-### Scripture Connection
-> "For I know the plans I have for you, declares the Lord, plans to prosper you and not to harm you, plans to give you hope and a future."
-> — Jeremiah 29:11
-
-### Saint Connection
-**St. Ignatius of Loyola** — Developed the Spiritual Exercises, a systematic approach to discernment and spiritual growth. He modeled intentional, goal-oriented spiritual development.
-
----
-
-## 📚 Materials Needed
-
-- SMART goal worksheets
-
-- Planning templates
-
-- Calendars (monthly, semester)
-
-- Tracking templates
-
-- Progress journal pages
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Reflection (5 min)
-**Prayer:** "Lord, You have a plan for each of us. Help us set goals that align with Your will. Give us wisdom to plan well and perseverance to follow through. May this new year bring growth in every area of our lives. Amen."
-
-**New Year reflection:**
-
-- "What are you proud of from last year?"
-
-- "What do you want to be different this year?"
-
-- "Where do you sense God calling you to grow?"
-
-### SMART Goals Deep Dive (10 min)
-**SMART Framework:**
-
-| Letter | Meaning | Question |
-|--------|---------|----------|
-| **S** | Specific | What exactly do I want to accomplish? |
-| **M** | Measurable | How will I track progress? What numbers? |
-| **A** | Achievable | Is this realistic given my resources? |
-| **R** | Relevant | Does this matter to me? Does it align with my values? |
-| **T** | Time-bound | When will I complete this? What are deadlines? |
-
-**Example transformation:**
-
-❌ **Vague:** "I want to be better at math."
-✅ **SMART:** "I will improve my math grade from B- to B+ by May by completing all homework, attending tutoring twice weekly, and practicing 20 minutes daily."
-
-❌ **Vague:** "I want to pray more."
-✅ **SMART:** "I will pray for 10 minutes every morning before school for the next semester, using the Examen prayer method."
-
-**Practice together:**
-Transform: "I want to be healthier" → SMART version
-
-### Goal Categories & Setting (15 min)
-**Four goal categories:**
-
-**1. Academic/Learning Goal**
-
-- School achievement
-
-- New skill development
-
-- Reading/study habits
-
-**2. Physical/Health Goal**
-
-- Exercise, sleep, nutrition
-
-- Sports improvement
-
-- Screen time management
-
-**3. Relationship/Service Goal**
-
-- Family relationships
-
-- Friendship goals
-
-- Service to others
-
-**4. Faith/Spiritual Goal**
-
-- Prayer habits
-
-- Mass participation
-
-- Scripture reading
-
-- Virtue development
-
-**Individual goal development:**
-
-- Write ONE goal in each category
-
-- Apply SMART framework to each
-
-- Include measurement method
-
-**Peer review:**
-
-- Share with partner
-
-- Check: Is it truly SMART?
-
-- Suggestions for improvement
-
-### Project Planning (10 min)
-**Breaking down goals:**
-
-**For your most important goal:**
-
-**1. Identify milestones:**
-
-- What are the major checkpoints?
-
-- Example: "Improve math grade" → (1) Complete all homework this month (2) Attend tutoring for 4 weeks (3) First quiz improvement (4) Mid-term grade check (5) Final grade
-
-**2. Create timeline:**
-
-- Map milestones on calendar
-
-- Identify key dates
-
-- Build in buffer time
-
-**3. Identify dependencies:**
-
-- What needs to happen first?
-
-- What resources do you need?
-
-- Who can help?
-
-**4. Tracking system:**
-
-- How will you monitor progress?
-
-- Weekly check-ins?
-
-- Data to collect?
-
-**Create simple Gantt-style chart for one goal.**
-
-### Accountability & Closing (5 min)
-**Accountability structures:**
-
-- Who will hold you accountable?
-
-- When will you check progress?
-
-- What happens if you fall behind?
-
-**Faith Connection:** "St. Ignatius developed a systematic approach to spiritual growth — the Spiritual Exercises aren't random; they're carefully planned. God gives us the ability to plan, to set goals, to pursue growth intentionally. That's not unspiritual — it's good stewardship of our time and talents!"
-
-**Commitment:**
-
-- Choose your #1 goal
-
-- Identify your accountability partner
-
-- Set your first milestone date
-
-**Closing Prayer:** "Lord, bless these goals we've set. Help us pursue them with perseverance, adjust them with wisdom, and remember that all our plans are under Your greater plan. May this year be one of growth — academically, physically, relationally, and spiritually. Amen."
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-E1 - name one criterion and dependency in a school-project goal; CST-M2 - represent three milestones on a timeline; CST-C3 - explain a time/resource constraint. Use project goals rather than compelled health/spiritual disclosures. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Created SMART goals in all four categories
-
-- Developed milestone plan for one goal
-
-- Created timeline with checkpoints
-
-- Identified accountability structure
-
----
-
-## 📎 Home Connection
-> "We learned advanced goal-setting today! Ask your child to share their SMART goals in four areas: academic, physical, relational, and spiritual. Help them identify accountability strategies. Consider setting family goals together. How can you support each other's growth this year?"
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Planning |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can plan three dependent milestones, a measurable criterion and a realistic time/material budget. Plans guide careful work, not guarantee success. |
+| Domains / Catholic connection | E, M, C; stewardship of time/talents, perseverance and respectful collaboration; spiritual/health goals remain private. |
+| Local standards | CST-E1: criterion/dependency; CST-M2: timeline; CST-C3: resource tradeoff. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper project timeline. |
+| Difficulty / entry | Introductory; teach dependency and 45-minute scheduling. |
+| Prep / cleanup | Light: first 10 min, repeat 5 min; cleanup 4 min. Kit: Project Planning. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; pair students, odd enrollment a trio. Copy
+fictional task: "Improve a classroom supply label so a peer reads three words
+from 1 m; one sheet and 30 work minutes." This avoids forced grades, sleep,
+prayer or personal health disclosure. Draw blank timeline 0-30 and three
+boxes Plan / Make / Test. Use school dates only if genuinely booked.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper goal/timeline sheets | 2/student | 20 | 30 | 40 | 50 |
+| Pencil; journal | 1 each/student | 10 | 15 | 20 | 25 |
+| Ruler; task reference | 1 each/tool team of <=3 | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools/journals reusable. No actual label build required today.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Milestone:** checkable point. **Dependency:** step needing another first.
+**Buffer:** spare time for trouble. **SMART:** specific, measurable, achievable,
+relevant, time-bound. SMART is a planning aid, not a spiritual rule.
+**Common misconception:** writing dates guarantees completion.
+**If asked, "May I share a private goal?"** Not required; assess only school task.
+Worked plan: 5 min sketch -> 12 min make -> 8 min reader test -> 5 min buffer;
+5+12+8+5 = 30. Tests depend on a made label; sketch may be revised after tests.
+Milestone evidence: chosen layout, finished draft, two reader checks.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What would show progress, not just effort?" Connect to stewardship.
+2. **4-11 (7 min):** Model vague "better label" to stated criterion and 30-minute budget.
+3. **11-24 (13 min):** Each writes goal, criterion, one constraint and three milestone boxes; position intervals on timeline.
+4. **24-35 (11 min):** Partners check sum/order and ask about a missing ruler. Revise plan to use verified marks or borrow before making; record resource choice.
+5. **35-41 (6 min):** Each student independently explains one dependency, three checkable milestones, correct sum and a time/material tradeoff.
+6. **41-45 (4 min):** Save goal/timeline, return rulers, sort paper and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Could testing start before making? Where is buffer? What evidence checks a
+milestone?" Each has criterion/constraint, three labeled milestones, a
+30-minute plan and dependency/resource explanation. 1 unsupported;
+2 prompted; 3 independent; 4 justifies revised contingency; NE for missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+Plan totals 35 -> remove feature, not cleanup/buffer silently. No calendar
+-> use meeting-relative minutes; no invented bookings. Missing ruler ->
+hand-drawn interval boxes preserve scheduling. No forced personal goals,
+public rankings, account use or promises about God's plan/outcomes.
+Stop/report unsafe tool or privacy behavior.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: prepared boxes, addition scaffold, oral/scribed dependency.
+Grade 6/challenge: compare two schedules with a five-minute delay and explain
+which work to defer. Seated indoor plan unchanged in winter.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Teacher keeps goals for next project; notes missing evidence, counts tools.
+**Explored:** measurable planning. **Did:** three milestones and budget.
+**Learned:** order/buffer matter. **Catholic connection:** stewardship.
+**Ask:** "What has to happen first?" Optional conversation; no routine homework.

@@ -1,205 +1,91 @@
 ---
 title: "Session 8: Scratch Animation"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A digital storytelling"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - light
-  - circuits
-  - astronomy
-  - arts
----
-
-
-# Session 8: Scratch Animation 🎬
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 8 of 17
-
-Students use their Scratch skills to create a story animation with Catholic themes, building on skills from Session 5.
-
+description: "An executable two-character helping story with coordinated reply"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T1, CST-T2, CST-A3]
+technology: Required
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Compatible computers, Plain paper, Pencils]
 ---
 
 # Session 8: Scratch Animation
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Create a multi-sprite animation
-
-- Use backdrops and scene changes
-
-- Program dialogue and movement sequences
-
-- Tell a faith-based story through code
-
----
-
-# Session 8: Scratch Animation
-
-## Materials Needed
-
-- 💻 Computers with Scratch
-
-- 📋 Story planning sheets
-
-- 📓 Engineering journals
-
-- 🖥️ Projector for examples
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Your Choice!** — Students can animate the story of their favorite saint or Bible story.
-
-### Scripture
-> *"Go and make disciples of all nations... teaching them."* — Matthew 28:19-20 (We share stories!)
-
-### Opening Prayer
-*Dear God, thank you for the stories of faith that teach us about you. Help us use our programming skills to share your Good News through creative animation. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Story Power:**
-   - "Stories help us remember and share what's important"
-   - Bible = stories of God's love
-   - Saint stories inspire us
-2. **Animation = Moving Stories:**
-   - Combine art, writing, and coding
-   - Share faith in a new way!
-3. **Building on Skills:**
-   - Remember Session 5? Now we go further!
-
-### Main Activity: Story Animation (27 minutes)
-
-**Part 1: Story Planning (5 minutes)**
-
-- Choose a story:
-  - A saint's story (Francis, Patrick, Kateri, etc.)
-  - A Bible story (Good Samaritan, Creation, Nativity)
-  - A parable (Prodigal Son, Lost Sheep)
-
-- Storyboard:
-  - Beginning: Who? Where?
-  - Middle: What happens?
-  - End: What's the message?
-
-**Part 2: Build Your Animation (18 minutes)**
-
-**Setup (3 min):**
-
-- Choose backdrop(s)
-
-- Add sprites (characters)
-
-- Position for starting scene
-
-**Program Dialogue (5 min):**
-
-- Use "say __ for __ seconds"
-
-- Create conversation between characters
-
-- Use "broadcast" to trigger responses
-
-**Program Action (5 min):**
-
-- Add movement to tell story
-
-- Use "glide to" for smooth motion
-
-- Change costumes for action
-
-**Add Scenes (5 min if needed):**
-
-- Use "switch backdrop to"
-
-- Broadcast to coordinate changes
-
-- Add transitions
-
-**Part 3: Premiere (4 minutes)**
-
-- Share animations (volunteer or all screens visible)
-
-- Celebrate creativity!
-
-### Engineering Journal (5 minutes)
-1. Describe your story (3-5 sentences)
-2. List 3 new Scratch skills you used
-3. Write: "My story teaches..."
-4. Sketch one scene from your animation
-
-### Closing Circle (3 minutes)
-1. **Story Impact** — "What story touched you?"
-2. **Share the Story** — "How could you share your animation?"
-3. **Closing Prayer** — *"Thank you, God, for stories that teach us about you. Help us share your love in creative ways. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Created multi-sprite animation
-
-- [ ] Included beginning, middle, end
-
-- [ ] Used multiple Scratch features
-
-- [ ] Conveyed faith-based message
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Provided story template
-
-- Simpler story (2 characters, 1 scene)
-
-- Partner work
-
-### For Advanced Students
-
-- Multiple scenes and backdrops
-
-- Add sound effects and music
-
-- Create interactive elements
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Show your animation to family! Discuss the story and its message. Explore other Scratch projects for inspiration. Make an animation together about your family's favorite saint!
-
----
-
-## Teacher Notes
-
-- Allow students to finish projects later if needed
-
-- Keep guest/offline projects in private local storage; any online sharing needs school approval
-
-- Animations can be shown at school events
-
-- Save project links for portfolio
-
----
-
-**Previous:** [Session 7 — Light & Circuits](./Session07_Light_Circuits.md)  
-**Next:** [Session 9 — Catholic Scientists](./Session09_Catholic_Scientists.md)
-
-## Realistic primary path
-
-Begin with two characters and one scene; multiple broadcasts/scenes are optional extensions. Source saint/Bible story from a teacher-approved card, separating retelling from invented dialogue. Paper storyboard/sequence tracing is the no-device path, **not** an executed animation. Each child traces an event and explains one revision; leave 5 minutes of creation for local save/cleanup. No required home finishing.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Computing art; **one 40-minute meeting**.
+**Objective:** edit/run a coordinated two-sprite story, trace three messages
+and revise dialogue from feedback. **Why:** actual events can coordinate
+characters more reliably than guessed timing. Catholic/CST-C2 helping without
+stereotypes; CST-T1 operation; CST-T2 event/broadcast trace; CST-A3 narrative
+critique. Official alignment **VERIFICATION REQUIRED**. Technology **Required**;
+novice starter provided, Session 5 helpful not assumed. Prep 20 after Scratch
+works, installation extra; cleanup 5.
+
+## Before class and exact supplies
+
+Guest/offline Scratch 3; add two library sprites A/B and one backdrop. Assemble
+below; flag twice/Stop/save `.sb3`/reopen; leave sample/save location.
+Teams <=3 (4/5/7/9): computer/team. Each pupil two paper sheets/pencil.
+Teacher board/timer/demo from issued device. Original fictional helping story,
+not invented saint/Bible dialogue presented as history.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Computers (1/team) | 4 | 5 | 7 | 9 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Starter, vocabulary and background
+
+```text
+A: when green flag clicked
+   go to x: (-100) y: (0)
+   say [May I have help finding the book tray?] for (2) seconds
+   broadcast [reply] and wait
+   say [Thank you for showing me.] for (2) seconds
+
+B: when green flag clicked
+   go to x: (100) y: (0)
+   say []
+B: when I receive [reply]
+   say [I can show you the tray.] for (2) seconds
+```
+
+Broadcast = event message; wait = finish receiving scripts before continuing;
+dialogue = conversation; revision = purposeful change.
+**Misconception:** changing B's flag script makes it answer after A.
+**If asked "Can we add scenes?"** Not required; first verify A/B/A order.
+
+## SAFETY/privacy
+
+Dry seated devices, no public accounts/photos/voices/private names. Stop/report
+damaged leads. Indoor primary; invented story labeled fiction, not religious
+proof.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How can a story model respectful help?" Optional original prayer.
+2. **4-10:** Demo sprites/broadcast/Stop; predict A/B/A order.
+3. **10-21:** Each pupil edits/runs three-minute turn; peers storyboard three
+   messages and record actual order.
+4. **21-29:** Reader identifies problem/help/thanks; revise one line then rerun
+   twice, checking coordinated order.
+5. **29-35:** Each child traces trigger/reply/return, explains feedback revision;
+   log actual edit/run/stop separately.
+6. **35-40:** Stop/save/reopen, return devices, collect dated storyboards.
+
+## Success/access/troubleshooting
+
+Meets: correct three-event trace, observed operation and story revision.
+Grade 3/support: copied scripts/read-aloud/dictation. Grade 4/challenge:
+explain broadcast versus broadcast-and-wait before changing anything.
+No reply: match message spelling/selected sprite, inspect receive hat, rerun.
+Half devices: two waves of three-minute turns in work windows; fewer means
+reschedule. No device: paper A/B/reply cards at same times; narrative/CT only,
+**animation execution not observed**. Early finish: clearer dialogue, no new
+unverified multimedia workflow.
+
+**Family:** We coordinated a fictional helping story. Ask, "What triggered the
+reply?" Optional: tell a three-part story, no home coding.

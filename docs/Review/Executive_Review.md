@@ -1,166 +1,119 @@
 ---
-title: "Executive curriculum review"
-description: "Strengths, weaknesses, implemented priorities and remaining release gates"
+title: "Executive curriculum review and completion"
+description: "A complete written K-6 program with verified sources, explicit evidence and school-release gates"
 ---
 
 # Executive curriculum review
 
-**Program:** K-6 Catholic C-STREAM, Our Lady of the Prairie Catholic School,
-Belle Plaine, Minnesota, Archdiocese of Saint Paul and Minneapolis.
-**Review date:** October 4, 2026. **Planning year:** 2026-27.
+**School:** Our Lady of the Prairie, Belle Plaine, Minnesota; Archdiocese of
+Saint Paul and Minneapolis. **Planning year:** 2026-27.
+**Review/completion work:** October 4, 2026.
 
 ## Overall judgment
 
-The repository contains a substantial, useful bank of Catholic hands-on
-activities, not yet a uniformly verified, substitute-proof academic program.
-Its strongest features are grade-band organization, alternative schedules,
-service/wonder themes, design opportunities and existing teacher/family
-resources. Its main weaknesses are inconsistent teaching detail, unverified
-standards/authority claims, device and inventory assumptions, misleading
-pacing totals, and insufficient differentiation between participation and
-individual mastery.
+The baseline was a substantial useful activity bank, not a uniformly usable,
+verified academic program. The completed repository now provides **251 complete
+conditional lesson references**, intentional local K-6 progression, individual
+planned evidence, scalable materials, realistic periods, source boundaries,
+teacher/family systems and automated consistency checks.
 
-The review preserves useful activities and existing URLs while adding a
-coherent local standards/progression framework, a complete lesson audit,
-materials and operating plans, traceability, and targeted lesson revisions.
-**Remaining legacy lessons are not automatically classroom-ready.**
-Use the audit's revision state and band review before scheduling.
+This is **document completion**, not an Archdiocesan approval, full state-subject
+coverage certification, physical-kit inspection or classroom-outcome study.
+The [school release checklist](School_Release_Checklist.md) identifies the
+checks a repository review cannot perform.
 
-## Evidence baseline
+## Preserved structure and completed lessons
 
-The baseline documentation tree contains **307 Markdown documents** and
-**251 lesson documents** across 14 tracks:
-
-| Band | Weekly documents | Bi-weekly documents | Total |
+| Band | Weekly files | Bi-weekly files | Complete references |
 |---|---:|---:|---:|
 | K | 20 | 17 | 37 |
 | 1-2 | 40 | 34 | 74 |
 | 3-4 | 37 | 34 | 71 |
 | 5-6 | 35 | 34 | 69 |
-| Total | 132 | 119 | 251 |
+| Total | 132 | 119 | **251** |
 
-These are file counts, not annual meeting totals. A child follows one
-schedule/rotation, not the entire bank. Weekly filenames often cover multiple
-meetings; the bi-weekly alternatives have 17 meetings each.
-See the [inventory](Repository_Inventory.md) and
-[complete lesson audit](Lesson_Quality_Audit.md).
+All original lesson URLs, baseline dispositions/priorities and meeting
+allocations are preserved. The final state is **251 rebuilt packages,
+0 improved-only, 0 unchanged outlines**. Audit history is not erased or
+downgraded to imply formal safety closure.
 
-After autonomous Kindergarten closure and the bounded OLP Snap Circuits follow-up,
-implemented lesson revisions total
-**72 complete reference rebuilds, 167 targeted improvements and 12 unchanged
-documents**. All 37 K documents are complete references. Rebuilds are
-conditional instructional references, not classroom certifications.
-Primary-path technology labels total **149 None, 49 Optional,
-15 Recommended and 38 Required**. Required physical supplies are a separate
-question from the digital-device label.
+Across all alternatives the library represents **345 teaching meetings**.
+That is not one pupil's year. Choose one weekly/bi-weekly track and rotation;
+compare actual meetings with school holidays. Native periods remain
+25/30/40/45 minutes.
 
-Four existing Grades 3-6 lessons now use the school's eight reported individual
-Snap Circuits kits with model/age/power approval gates, individual test records
-and two waves at 25 pupils. See the
-[classroom guide](../Resources/Snap_Circuits_Classroom_Guide.md);
-reported ownership is not completed inspection or classroom certification.
+The [current generated summary](Program_Summary.csv) gives map/resource totals.
+The [validation record](Validation.md) and band reviews document content,
+timing, quantity and evidence checks rather than inferring readiness from a filename.
 
-## Findings and responses
+## Strengths preserved and weaknesses corrected
 
-| Area | Strength | Weakness/risk | Response |
-|---|---|---|---|
-| Academic credibility | Authentic structures, systems, investigation and computing contexts | A named topic or standard does not establish learning; some prerequisites and explanations are underspecified | Local observable competencies, grade progression and assessment evidence; exact external mapping remains gated |
-| Catholic identity | Wonder, prayer, service, stewardship and historical connections recur | Connections can become formulas or metaphors; historical/scriptural attribution needs checking | Meaningful choices about truth, dignity, resources and service; accuracy fixes and source register |
-| Teacher usability | Existing lesson procedures and supporting guides | Hidden setup, vague supplies, missing quick-reference claims and inconsistent timings | Revised reference lessons and common templates; honest remaining readiness work |
-| Technology | Robots/apps can support real creation and testing | Required equipment/accounts can overwhelm a small school and obscure computing objectives | Hands-on/unplugged first; explicitly distinguish algorithm evidence from actual hardware/software execution |
-| Developmental fit | Separate K, 1-2, 3-4 and 5-6 periods | Bands do not alone establish distinct expectations for seven grades; writing and advanced arithmetic can be barriers | Grade-specific progression, oral/drawn checks and appropriate supports/challenges |
-| Pacing/progression | Weekly/bi-weekly and A/B alternatives exist | Double-counted category quotas and a generic planner beyond its claimed calendar | Corrected scaffold, exact meeting records and one selected sequence |
-| Arts/mathematics | Design, pattern, sound and measurement contexts exist | Art can be reduced to decoration/digital tools; mathematics can be counting without reasoning | Purposeful art/communication/revision and measurable mathematical evidence |
-| Materials/safety | Many common supplies can be reused | Specialty stock, unsafe/unknown materials, small parts and replenishment are not uniformly controlled | Normalized core inventory, scalable quantities, budget ceilings, reusable kits and activity-specific stop rules |
-| Minnesota practicality | Weather, nature and growth are valuable local contexts | Outdoor conditions and seasonal timing are unreliable | Indoor alternatives, explicit longitudinal observations and calendar adjustment |
-| Assessment/families | Journals, rubrics and newsletters are available | Group participation, polish and home support can obscure mastery/equity | Individual objective-linked evidence and optional no-purchase family communication |
+| Area | Baseline strength/concern | Completion response |
+|---|---|---|
+| Academic learning | Authentic inquiry, design and computing contexts; targets/evidence often vague | Specific objectives, actual fair retests, worked/labeled model data and individual evidence thresholds |
+| Catholic identity | Wonder, faith and service; some forced analogies or unsupported biographies/quotes | Truth, dignity, stewardship and user needs shape decisions; sourced heritage and clear belief/evidence boundaries |
+| Substitute usability | Useful activities but hidden setup, unspecified handouts and missing cleanup | Complete written packages, exact kits/roles, background, troubleshooting and native timed sequences |
+| Developmental fit | Band organization but insufficient distinct expectations | Grade-specific support/challenge, K/Grade 1 nonreader responses and scaffolded age-appropriate mathematics |
+| Technology | Genuine creation possible but equipment/apps often assumed | Hands-on primary paths where appropriate; actual execution/operation remains Required when its objective needs it |
+| Arts/mathematics | Design/measurement contexts but decoration and advanced calculation could substitute for learning | Purposeful artistic choices/feedback and justified quantities/data; no artistic-polish or handwriting mastery proxy |
+| Minnesota seasons | Valuable nature/weather themes but unreliable outside conditions | Indoor pathways, explicit dated observations, actual/model-data labels and school-managed plant care |
+| Materials/safety | Reusable common materials but vague special items/conditions | Normalized identities, teacher tools, safe stop rules, capacity/turn plans and separated component/access/stock records |
+| Families/assessment | Journals/newsletters available but participation/home support could obscure mastery | Individual objective-linked evidence; plain-language family copy; no routine homework/purchase/donation prerequisite |
+| Progression/scope | Rotation options but overfilled calendar quotas and inconsistent prerequisites | Checked meeting counts, one selected sequence, local progression and repeated skills with increasing independence/evidence |
 
-## Standards situation
+## Standards environment and traceability
 
-The [source register](Standards_Sources.md) distinguishes:
+For 2026-27, verified Minnesota implementation editions are science 2019,
+arts 2018, ELA 2020 and social studies 2021. Mathematics 2022 begins full
+implementation in **2027-28**; retain the 2007 planning baseline unless the
+school intentionally transitions early. CSTA 2026 was published in July 2026
+and uses different elementary organization from 2017.
 
-1. Official state standards and applicable implementation versions.
-2. Official Archdiocesan/Church guidance.
-3. National frameworks used as supplementary guidance.
-4. **Locally created C-STREAM competencies**.
+The **18 CST competencies are locally created**, not fabricated Archdiocesan
+benchmarks. They survive lesson changes and support 126 grade targets/stages.
+The local map contains **929 planned evidence links**.
 
-The local 18-code catalog is not an invented Archdiocesan standard set.
-Absence of a detailed public C-STREAM document among inspected sources is
-not proof that no diocesan expectations exist; consult the Office for the
-Mission of Catholic Education as appropriate.
+The [external matrix](External_Alignment.md) provides **29 narrow,
+source-verified candidates** using sixteen identifiers across twenty-six
+lessons. A separate register records twenty-four inspected arts/CSTA identifiers.
+State-agency arts copies retain MDE-copy/school review; CSTA is national,
+not automatically adopted Minnesota guidance.
 
-For **2026-27**, verified Minnesota implementation editions are science
-2019, arts 2018, ELA 2020 and social studies 2021. The adopted mathematics
-2022 edition begins full implementation in **2027-28**; retain the 2007
-planning baseline unless the school intentionally transitions early.
-**CSTA's 2026 edition was published in July 2026**, with elementary grade
-organization different from its 2017 edition. These facts do not establish
-Minnesota adoption of CSTA or this program's benchmark alignment.
-
-The generated map deliberately marks official benchmark alignment
-**VERIFICATION REQUIRED** until exact identifiers, applicable versions,
-student tasks and assessment evidence are jointly verified. This enrichment
-program does not replace the primary subject curricula or prove complete
-Minnesota academic-standard coverage.
-
-The [K external-candidate matrix](Kindergarten_External_Alignment.md) now
-verifies four exact 2018 arts identifiers and twelve narrow task/evidence links
-against the state-agency workbook. MDE-copy corroboration, school review and
-actual student evidence still apply; no inaccessible science/math code was guessed.
-
-## Catholic integration assessment
-
-Retain wonder, age-appropriate prayer and truthful scientific explanation.
-Strengthen connections where students make a real stewardship decision,
-consider a user's dignity/access, explain a service need, or report evidence
-honestly. Do not force theology into every scientific fact or treat a physical
-analogy as scientific proof of a belief.
-
-Assess a student's reasoned response to the lesson, not personal piety.
-A saint biography or opening prayer is not, by itself, evidence that a
-Catholic-integration competency was demonstrated.
+Final MDE tables inaccessible through normal retrieval are not replaced with
+guessed science/math/ELA/social-studies numbers. The program complements primary
+subjects; a topic resemblance, device or local code cannot certify official coverage.
+Obtain school-issued OMCE guidance before claiming institutional alignment.
 
 ## Classroom practicality
 
-The existing 25/30/40/45-minute periods are retained. Revised reference
-lessons use smaller, teachable objectives, named individual checks,
-material scaling and cleanup. Preparation and costs are editorial planning
-estimates; local timing, prices, working equipment and accommodations
-require verification.
+Every reference supplies native-period directions, exact class-size quantities,
+individual evidence, safety/access, troubleshooting, cleanup and family copy.
+No package requires hidden institutional knowledge as its written minimum;
+actual kits, software, room, contacts and approvals still need local confirmation.
 
-The [materials plan](Materials_Plan.md) separates a low-tech operating core
-from optional legacy equipment and budgets up to approximately $250, $500,
-$1,000 and $2,500 without requiring spending to the ceiling.
-It does not promise those budgets purchase every specialty item in all 251
-legacy lesson documents.
+The eight reported **individual OHM-135 Snap Circuits kits** are preserved
+as reported—not inspected—stock. Four selected Grades 3-6 routes use matching
+manual/project checks and bounded hardware waves. Snap is not automatically
+equivalent to protected-AA or modular electronics; K remains optional adult
+demonstration only.
 
-The [technology plan](Technology_Plan.md) describes where tools/devices add
-value and what a no-device alternative can actually demonstrate. A paper
-algorithm is useful computing evidence, but cannot certify that a child
-programmed a robot or executed a digital program.
+The original conditional first-year budgets remain **$229.52 / $476.04 /
+$854.32 / $2,367.84**. They fund a modest core on stated cohort/stock assumptions,
+not every optional item in every alternative track. Prices/specifications and
+actual replenishment require local checks. Do not purchase every catalog row.
 
-## Highest-priority actions
+Technology labels describe the selected primary pathway, not every extension.
+Paper reasoning can preserve computational concepts but cannot establish actual
+software, sensor, robot or electrical operation. Declare what was deferred.
 
-1. **P0:** Hold unresolved safety/accuracy blockers; verify revised supplies
-   and procedures before teaching.
-2. **P1:** Release only scheduled lessons with complete instructions,
-   individual evidence, grade-specific expectations and realistic timing.
-3. **P1:** Match the chosen track to the actual school calendar and verify
-   prerequisite routines in either rotation.
-4. **P2:** Pilot kits, measure real prep/cleanup and refine supply consumption,
-   accessibility, arts and data follow-up.
-5. **P3:** Add digital/specialty equipment only for a clear additional objective.
+## What to do next at school
 
-The [implementation plan](Implementation_Plan.md) records substantive changes
-and release conditions. The [seven simulations](Validation.md) document desk
-checks and automated verification, not observed classroom outcomes.
+1. Select the actual schedule/rotation and next reference, not the entire bank.
+2. Complete the counted-kit, safety/access and pretest release checks.
+3. Pilot younger/older references; measure real preparation/cleanup and supply use.
+4. Gather individual evidence, with two dated observations at local mastery checkpoints.
+5. Finish authorized official-source/institutional review before restoring stronger claims.
 
-## Start teaching from evidence
-
-Read the relevant [K](Kindergarten_Review.md), [1-2](Grades_1-2_Review.md),
-[3-4](Grades_3-4_Review.md) or [5-6](Grades_5-6_Review.md) review, choose a
-revised lesson, confirm the kit and collect a simple individual explanation.
-Use the [scope](Scope_and_Sequence.md), [progression](Learning_Progression.md)
-and [traceability](Standards_Traceability.md) to explain what students are
-learning and how increasing independence, evidence and ethical reasoning
-develop across K-6.
+There is no remaining written-package queue to disguise as "future improvements."
+Remaining release work is real school/source/pilot evidence, explicitly separated
+from the repository checks and recorded in the [implementation plan](Implementation_Plan.md).

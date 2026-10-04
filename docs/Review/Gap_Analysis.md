@@ -17,6 +17,13 @@ Every K primary-material term is cataloged; twelve arts candidates have exact
 source-verified identifiers. This closes those document-level gaps, not actual
 school stock, official full-subject coverage or observed mastery.
 
+**All-grade closeout:** the other 214 lesson documents are also complete
+conditional references. Fair retests, individual checks, grade-specific
+support/challenge, complete timed sequences and explicit material/pathway
+boundaries replace the earlier package queues. Baseline weaknesses remain
+historical evidence, not a claim that every old defect is still active.
+Full external subject coverage and actual mastery remain separate checks.
+
 ## Program-wide gaps and controls
 
 | Area to investigate | Baseline concern or evidence limit | Improvement and closure evidence |

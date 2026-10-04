@@ -1,262 +1,71 @@
 ---
 title: "Week 1: Welcome Back Scientists"
-description: "Grades 3-4 Year B opening lesson"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - coding
-  - engineering
-  - light
-  - life-science
-  - earth-science
-  - astronomy
-  - animals
-  - advent
-  - lent
-  - arts
----
-
-# 🔬 Week 1: Welcome Back Scientists
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Introduction) |
-
+description: "A novice-safe observation and question checkpoint"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-A1]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Cardstock, Metric ruler]
 ---
 
 # Week 1: Welcome Back Scientists
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Review the scientific method
-2. Explore Year B curriculum themes
-3. Establish lab expectations and procedures
-4. Practice observation and questioning
-
-### Faith Integration Objectives
-Students will be able to:
-1. Understand faith and science as complementary
-2. Appreciate God's gift of curiosity
-3. Commit to learning with integrity
-
----
-
-# Week 1: Welcome Back Scientists
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Faith and Reason** — As Catholics, we believe faith and science work together. Science helps us understand HOW God's creation works, while faith helps us understand WHY God created it. Great Catholic scientists throughout history have made incredible discoveries!
-
-### Scripture Connection
-> "Great are the works of the LORD, studied by all who delight in them."
-> — Psalm 111:2
-
-### Saint Connection
-**St. Albert the Great** — Teacher of St. Thomas Aquinas, Albert was a scientist who studied nature, chemistry, biology, and geography. He believed studying creation brought us closer to the Creator. He's the patron saint of scientists!
-
----
-
-## 📚 Materials Needed
-
-- Science journals/notebooks
-
-- Year B curriculum preview images
-
-- Mystery objects for observation
-
-- Lab safety posters
-
-- Exit ticket templates
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"St. Albert the Great, patron of scientists, pray for us! Lord, give us curious minds that seek to understand Your creation. Help us learn with honesty and wonder. Bless our Year B STREAM adventures! Amen."
-
-### Year B Preview (8 min)
-**What's coming this year:**
-
-**Show preview images for each unit:**
-
-- ✈️ **Flight & Aviation** — "We'll learn how planes fly!"
-
-- 🏛️ **Architecture** — "We'll design buildings like cathedral architects!"
-
-- 🌊 **Marine Science** — "We'll explore ocean ecosystems!"
-
-- 🎮 **Game Design** — "We'll create our own games in Scratch!"
-
-- 🌆 **Sustainable Cities** — "We'll design cities that care for creation!"
-
-- 🌤️ **Weather Science** — "We'll become meteorologists!"
-
-**Discussion:**
-
-- What are you most excited about?
-
-- What questions do you already have?
-
-- What do you wonder about these topics?
-
-### Scientific Method Review (10 min)
-**The process scientists use:**
-
-1. **Observe** — Use your senses carefully
-2. **Question** — Ask "Why?" and "How?"
-3. **Hypothesize** — Make an educated guess
-4. **Experiment** — Test your hypothesis
-5. **Analyze** — Look at your results
-6. **Conclude** — What did you learn?
-7. **Share** — Tell others!
-
-**Quick practice:**
-
-- Present mystery object
-
-- Students observe silently (1 min)
-
-- Share observations (descriptive, not guesses!)
-
-- Form questions
-
-- "How is observation different from guessing?"
-
-**St. Albert connection:**
-
-- "St. Albert carefully observed nature"
-
-- "He wrote detailed notes about plants, animals, minerals"
-
-- "He asked questions and tested ideas"
-
-- "His faith inspired his curiosity!"
-
-### Lab Expectations (8 min)
-**Year B Lab Norms:**
-
-**Safety:**
-
-- Follow all instructions carefully
-
-- Never taste materials unless told
-
-- Report accidents immediately
-
-- Treat materials with respect
-
-**Collaboration:**
-
-- Listen to all ideas
-
-- Share materials fairly
-
-- Help teammates succeed
-
-- Disagree respectfully
-
-**Integrity:**
-
-- Record honest data
-
-- Accept unexpected results
-
-- Learn from failures
-
-- Give credit to others
-
-**Faith:**
-
-- See God in all discoveries
-
-- Thank God for curious minds
-
-- Use science to serve others
-
-- Respect all of creation
-
-**Create class agreement:**
-
-- Students suggest key rules
-
-- Record on poster
-
-- Everyone signs commitment
-
-### Science Journal Setup (10 min)
-**Create Year B journal:**
-
-**Page 1: Title Page**
-
-- Name
-
-- Grade
-
-- "Year B Science Journal"
-
-- Decorate with STREAM themes
-
-**Page 2: Table of Contents**
-
-- Leave blank, fill in as year progresses
-
-**Page 3: My Scientific Self**
-
-- What am I curious about?
-
-- What's my favorite science topic?
-
-- One science goal for Year B
-
-- Draw yourself as a scientist
-
-**Page 4: Faith & Science**
-
-- "I believe faith and science..."
-
-- Draw or write what that means
-
-### Closing (2 min)
-**Preview:**
-"Next week we begin our first unit: FLIGHT! We'll learn how things fly through the air!"
-
-**Exit ticket:**
-
-- One thing I'm excited about
-
-- One question I have about Year B
-
-**Closing Prayer:**
-"Thank You, God, for this new year of learning! Thank You for the gift of curiosity. Help us be like St. Albert — careful observers who see Your hand in all creation. Bless our Year B journey! Amen."
-
----
-
-## 📎 Home Connection
-> "We started Year B today! Ask your child about: 'What units are you excited about?' 'What is the scientific method?' 'Who is St. Albert the Great?' Review their science journal and talk about how faith and science work together."
-
----
-
-## ✅ Assessment
-
-- Participated in curriculum preview discussion
-
-- Demonstrated understanding of scientific method
-
-- Set up science journal correctly
-
-- Made faith-science connection
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Foundations; **one 40-minute meeting**.
+**Objective:** observe/draw three details and pose a testable question, separating
+what was seen from a guess. **Why:** Year B begins with evidence, not assumed
+Year A attendance. Catholic/CST-C1: integrity in inquiry; CST-S1: detail/question;
+CST-A1: labeled observation drawing. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; introductory. Prep 10; cleanup 5 included. Preview flight,
+architecture, marine systems and weather, but do not claim mastery of them.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9); each gets a folded cardstock "mystery structure" and ruler.
+Per pupil: two paper sheets/pencil (observation page and journal cover).
+Teacher board/timer; demo uses issued card. Make different folds, no hidden
+hazardous objects. Board `observed / predicted / question`. Reuse card/ruler;
+save pages as Year B journal, no notebook purchase.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Cards; rulers (1/team each) | 4 | 5 | 7 | 9 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Observe = inspect evidence; infer = explain from evidence; testable = can
+investigate; journal = dated record. **Misconception:** recognizing a name is an
+observation of function. **If asked "What if I never did STREAM?"** Today teaches
+the needed routines; no prerequisite course. Faith values curiosity and honesty,
+not a claim that every scientist/history episode lacked conflict.
+Dry desk materials only; no tasting, blindfold mystery or sharp objects.
+Stop/report damaged tools; indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Welcome novices; optional original prayer for honest curiosity.
+2. **4-10:** Demo visible fold/height versus "it is strongest"; model ruler zero.
+3. **10-22:** Each handles/measures/draws card, labels three visible details,
+   asks an investigable question. Rotate tools.
+4. **22-30:** Peer asks "Where can I see that?" Revise one unsupported label;
+   agree norms: record truth, safe hands, fair turns. Preview units briefly.
+5. **30-35:** Each child shows three details, question and corrected drawing; teacher
+   records novice checkpoint, not only participation.
+6. **35-40:** Date/file pages, count cards/rulers, clear desks.
+
+## Success/access/troubleshooting
+
+Meets: three verifiable details, testable question and faithful visual revision.
+Grade 3/support: stem/picture choices, dictation. Grade 4/challenge: two
+possible explanations and evidence needed to distinguish them. No card:
+teacher folds ordinary paper, label substitution. Unsupported guess: keep in
+prediction column, do not erase uncertainty. Early finish: refine a question's
+changed/measured features. No forced journal decoration.
+
+**Family:** We began Year B with careful observations. Ask, "Which detail did
+you actually see?" Optional: notice an everyday object together.

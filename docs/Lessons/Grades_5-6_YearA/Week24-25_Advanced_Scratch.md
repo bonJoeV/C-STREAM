@@ -1,370 +1,165 @@
 ---
 title: "Weeks 24-25: Advanced Scratch Programming"
-description: "Grades 5-6 complex coding concepts and projects"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - coding
-  - engineering
-  - life-science
-  - astronomy
-  - lent
-  - arts
+description: "Executable custom blocks and bounded clones with explicit tests"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 💻 Weeks 24-25: Advanced Scratch Programming
+# Weeks 24-25: Advanced Scratch Programming
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 2 sessions (45 min each) |
-| **STREAM Focus** | T (Technology), M (Math) |
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Computing |
+| Time | 2 meetings of 45 minutes; 90 total |
+| Objective / why / big idea | I can execute a parameterized custom block and three finite clones, predict their behavior and correct a tested bug. Decomposition makes code understandable. |
+| Domains / Catholic connection | T, A; clear instructions and honest tests serve users; elegant code is not a measure of holiness. |
+| Local standards | CST-T2: call/clone trace/debug; CST-T3: school-only data; CST-A2: purposeful feedback. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Required for actual Scratch execution; paper trace fallback explicitly defers programming. |
+| Difficulty / entry | Developing; teach events/repeat/custom input. Lists/broadcast systems are not squeezed into this two-meeting core. |
+| Prep / cleanup | Moderate: first 30 min, repeat 15 min; IT approval/setup extra; cleanup 4 min/meeting. |
 
----
+## BEFORE CLASS / MATERIALS
 
-# Weeks 24-25: Advanced Scratch Programming
+Check school contact/accommodations and approved offline/school Scratch access,
+local save and working editor. Pretest both complete starters; Pen extension
+needed only for meeting 1. Team roles operator/tracer/tester rotate, each edits
+and runs. No personal/shared logins or public publishing.
 
-## 🎯 Learning Objectives
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper traces; pencil | 2 sheets and 1 pencil/student | 20;10 | 30;15 | 40;20 | 50;25 |
+| Computer with approved Scratch, simultaneous route | 1/team | 4 | 5 | 7 | 9 |
+| Computer with approved Scratch, shared route instead | 3/class alternative | 3 | 3 | 3 | 3 |
+| Paper starter/test reference | 2/team | 8 | 10 | 14 | 18 |
+| Ruler | 1/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
 
-### STEM Objectives
-Students will be able to:
-1. Create and use custom blocks (functions)
-2. Implement cloning and object management
-3. Use advanced list operations
-4. Design multi-sprite interactive programs
+Paper consumable; devices/tools reusable; software an access resource.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect programming organization to order in creation
-2. Understand abstraction as reflecting God's hierarchical creation
-3. Create programs that serve or teach others
+### Shared-route kit and turn plan
 
----
+Select one computer row; no extra demo setup or purchase is assumed.
+For three working approved setups, teacher preloads the complete starters
+below (Pen added; clone `slot` sprite-local), making fresh turn copies.
+Keep 4/5/7/9 balanced teams: two trios/two pairs, five trios, six trios/one
+pair, seven trios/two pairs. In **each meeting**, teams 1-3 use **11-19**,
+4-6 **19-27**, 7-9 **27-35**; 10/15 use two waves and then retest.
+Each pupil gets up to two minutes plus two minutes/team for reset/checking:
+meeting 1 restore repeat 3 to 4 on a bug copy, run both square sizes and check
+160/320; meeting 2 change spacing 60 to 40, run three clones and compare
+-80/-40/0 with -60/0/60, then restore and rerun. Every pupil edits and executes;
+waiting pupils annotate call/clone traces and purposeful visual feedback.
+Pretest the exact access/switch/turn workflow. Log observed/assisted/NE;
+watching a partner is not operation. One/two setups serve that many teams per
+window; remaining pupils keep paper evidence and book later runtime checks.
+Do not enlarge groups or rush motor/access support. Shared-route evidence is
+editing/running a provided starter, not independent from-scratch creation.
 
-# Weeks 24-25: Advanced Scratch Programming
+## VOCABULARY / TEACHER BACKGROUND
 
-## 🙏 Faith-Reason Integration
+**Custom block:** named reusable instructions. **Parameter:** supplied input.
+**Clone:** runtime sprite copy. **Local variable:** value private to that sprite/
+clone; globals are shared. **Common misconception:** moving automatically draws.
+Pen down is required. **If asked, "Are clones permanent?"** No; this starter
+deletes each after its finite behavior and starts without stored personal data.
 
-### Catholic Teaching Connection
-**Order in Creation** — God created an ordered universe with hierarchies and systems. Good programming mirrors this: organized code, clear structures, and elegant solutions. Excellence in coding reflects the Creator's excellence.
+### Complete starters and keys
 
-### Scripture Connection
-> "For God is not a God of disorder but of peace."
-> — 1 Corinthians 14:33
+Meeting 1, one sprite, add Pen, make block `square (size)`:
 
-### Saint Connection
-**St. Thomas Aquinas** — Master of organized thinking who created the Summa Theologica with beautiful logical structure. His clear organization of complex ideas mirrors good code structure.
+```text
+define square (size)
+repeat (4)
+  move (size) steps
+  turn clockwise (90) degrees
 
----
-
-## 📚 Materials Needed
-
-- Computers with Scratch
-
-- Advanced concepts reference sheet
-
-- Project planning templates
-
-- Code organization guides
-
----
-
-# Session 1: Custom Blocks & Cloning
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (4 min)
-**Prayer:** "Lord, You created an ordered universe with beautiful systems. Help us write code that is organized, clear, and excellent. May our programming skills honor You. Amen."
-
-**Today's focus:** "Level up your coding with custom blocks and cloning!"
-
-### Custom Blocks (Functions) (12 min)
-**What are custom blocks?**
-
-- Reusable code chunks
-
-- Like making your own Scratch block
-
-- Called "functions" in most languages
-
-**Why use them?**
-
-- Avoid repeating code
-
-- Make code more readable
-
-- Easier to debug
-
-- Change once, works everywhere
-
-**Creating a custom block:**
-1. Go to "My Blocks"
-2. Click "Make a Block"
-3. Name it (descriptive!)
-4. Add input parameters if needed
-5. Define what it does
-
-**Example:**
-```
-Define [draw square (size)]
-    Repeat 4
-        Move (size) steps
-        Turn right 90 degrees
+when green flag clicked
+erase all
+pen up
+go to x: (-100) y: (0)
+point in direction (90)
+pen down
+square (40)
+pen up
+go to x: (20) y: (0)
+pen down
+square (80)
+pen up
+say [Two sizes, one definition]
 ```
 
-Now you can use `draw square (50)` or `draw square (100)` anywhere!
+Key: each call has four moves/four turns; perimeter 160/320 steps (Scratch
+steps, not screen cm). Change repeat 4 to 3 in a copy -> open three sides;
+fix/retest. Keep "run without screen refresh" unchecked.
 
-**Practice:** Create a custom block for something you do repeatedly in your programs.
+Meeting 2, new one-sprite project, create variable `slot` **for this sprite only**:
 
-**Parameters:**
+```text
+when green flag clicked
+show
+go to x: (0) y: (0)
+set [slot] to (0)
+repeat (3)
+  change [slot] by (1)
+  create clone of [myself]
+  wait (0.2) seconds
+hide
 
-- Make blocks flexible with inputs
-
-- `draw polygon (sides) (size)` — now it can draw ANY shape!
-
-### Cloning (12 min)
-**What is cloning?**
-
-- Creating copies of a sprite during runtime
-
-- Each clone acts independently
-
-- Great for: enemies, particles, projectiles, repetitive elements
-
-**How to clone:**
-
-- `create clone of [myself]` — makes a copy
-
-- `when I start as a clone` — what the clone does
-
-- `delete this clone` — removes the clone
-
-**Example: Falling snow**
-```
-When green flag clicked
-Forever
-    Create clone of myself
-    Wait 0.1 seconds
-
-When I start as a clone
-    Go to x: (pick random -240 to 240) y: 180
-    Repeat until y position < -180
-        Change y by -5
-    Delete this clone
+when I start as a clone
+go to x: ((slot) * (60) - (120)) y: (0)
+show
+say (slot) for (2) seconds
+delete this clone
 ```
 
-**Clone properties:**
-
-- Each clone has its own position, variables, appearance
-
-- Clones can interact with each other
-
-- Be careful: too many clones can slow things down!
-
-**Practice:** Create a simple project using clones.
-
-### Faith Connection (5 min)
-**Organized code as worship:**
-
-- St. Thomas Aquinas organized complex theological ideas beautifully
-
-- His Summa has clear structure: questions, articles, objections, replies
-
-- Good code has similar organization
-
-- "Excellence in our work honors God"
-
-**Discussion:** "When we write messy, disorganized code that 'just works,' we're settling for less than our best. When we write clean, organized code, we're exercising our God-given ability to create order."
-
-### Work Time & Preview (12 min)
-**Begin project:**
-
-- Start a project that uses custom blocks OR cloning
-
-- Must include faith connection in final product
-
-**Preview:** "Next session: advanced lists and multi-sprite coordination!"
-
----
-
-# Session 2: Advanced Lists & Project Development
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Review (4 min)
-**Prayer:** "Lord, continue to guide our learning. Help us create programs that are both technically excellent and meaningful. Amen."
-
-**Review:** "What are custom blocks? What is cloning?"
-
-### Advanced List Operations (10 min)
-**Beyond basic lists:**
-
-**List operations:**
-
-- `length of [list]` — how many items
-
-- `item (1) of [list]` — get specific item
-
-- `item (last) of [list]` — get last item
-
-- `item (random) of [list]` — random selection
-
-- `[list] contains [thing]` — check if item exists
-
-**List manipulation:**
-
-- `replace item (1) of [list] with [value]` — update item
-
-- `insert [value] at (1) of [list]` — add at position
-
-- `delete (1) of [list]` — remove item
-
-**Practical uses:**
-
-- High score tracking
-
-- Inventory systems
-
-- Quiz question banks
-
-- Conversation trees
-
-- Save/load game states
-
-**Example: Quiz from list**
-```
-Set [score] to 0
-Set [question_num] to 1
-Repeat (length of [questions])
-    Ask (item (question_num) of [questions])
-    If answer = item (question_num) of [answers] then
-        Change score by 1
-        Say "Correct!"
-    Else
-        Say (join "The answer was " (item (question_num) of [answers]))
-    Change question_num by 1
-```
-
-### Multi-Sprite Coordination (8 min)
-**Sprites working together:**
-
-**Broadcast messaging:**
-
-- `broadcast [message]` — send to all sprites
-
-- `when I receive [message]` — respond to broadcast
-
-- Coordinates action across sprites
-
-**Example: Game states**
-```
-// In main controller sprite:
-When green flag clicked
-Broadcast "game start"
-
-When [space] key pressed
-Broadcast "game over"
-
-// In player sprite:
-When I receive "game start"
-Show
-Go to starting position
-
-When I receive "game over"
-Hide
-```
-
-**Variable sharing:**
-
-- Global variables: all sprites can see
-
-- Sprite-only variables: private to one sprite
-
-- Choose appropriately!
-
-### Project Development (20 min)
-**Project options:**
-
-**Option A: Educational Game**
-
-- Quiz or learning game
-
-- Uses lists for content
-
-- Clones for game elements
-
-- Custom blocks for organization
-
-**Option B: Interactive Story**
-
-- Multiple characters (sprites)
-
-- Broadcast messaging for coordination
-
-- User choices affect outcome
-
-- Lists for dialogue/options
-
-**Option C: Simulation**
-
-- Model a system (ecosystem, physics, social)
-
-- Clones for multiple agents
-
-- Variables track state
-
-- Custom blocks for behaviors
-
-**Requirements:**
-
-- Use at least TWO advanced concepts (custom blocks, cloning, advanced lists, broadcasting)
-
-- Clear organization
-
-- Faith connection (content or purpose)
-
-- Comments in code explaining sections
-
-**Work time with teacher support.**
-
-### Closing (3 min)
-**Share progress:**
-
-- What are you creating?
-
-- Which advanced concepts are you using?
-
-- What's your faith connection?
-
-**Faith Connection:** "Programming is a form of creation. When we write organized, elegant code, we reflect God's ordered creation. When we use our programming skills to teach, help, or serve others, we use technology for good."
-
-**Closing Prayer:** "Thank You, God, for the gift of logic and creativity. Help us continue growing as programmers who create excellent, purposeful programs. May our skills serve You and others. Amen."
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-T2 - trace a custom-block call or clone's behavior and fix one bug; CST-T3 - identify school-only storage/no private inputs; CST-A2 - explain one purposeful feedback/control design. One trace/test record per student, not a shared screenshot. Official benchmarks **VERIFICATION REQUIRED**. Custom square drawing requires the Pen extension/pen-down to leave a visible line; movement alone does not draw. Clones share global variables; only sprite-local variables have per-clone values. No public accounts or uploads.
-
-- Demonstrated custom block usage
-
-- Implemented cloning appropriately
-
-- Used advanced list operations
-
-- Created organized, commented code
-
-- Included faith connection
-
----
-
-## 📎 Home Connection
-> "We learned advanced Scratch programming! Ask your child to explain: 'What are custom blocks (functions)?' 'What is cloning in programming?' 'Show me your project!' We discussed how organized code reflects God's ordered creation. Encourage your child to continue developing their programming skills — they're building abilities that can serve others!"
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+Key: copies inherit slots 1/2/3, positions -60/0/60; all delete after their
+two-second display; original hidden. A global slot can change while copies
+run, so it is not the intended per-clone record. No forever-clone loop.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: function and parameter
+1. **0-4 (4 min):** Ask "Can one definition draw two sizes?" Explain user clarity.
+2. **4-11 (7 min):** Model Pen setup, custom input and 4x40 perimeter.
+3. **11-24 (13 min):** Teams assemble/run starter; each edits size or executes call and records path. Shared teams begin the stated waves; waiting pupils annotate calls.
+4. **24-35 (11 min):** Run 40/80 tests, diagnose three-side bug, restore four; finish shared waves and choose line color/contrast purposefully without color-only instruction.
+5. **35-41 (6 min):** Individual call trace, 160/320 check, bug/retest and feedback-design explanation.
+6. **41-45 (4 min):** Save approved local project, close devices, collect traces.
+
+### Meeting 2: bounded clones
+1. **0-4 (4 min):** Retrieve call reasoning; introduce clone copies.
+2. **4-11 (7 min):** Model sprite-only variable and finite starter/key.
+3. **11-24 (13 min):** Assemble/run, rotate all pupils through one edit/execution; record 1/2/3 and positions. Shared teams begin the stated waves; waiting pupils predict inherited slots.
+4. **24-35 (11 min):** Repeat run; inspect deletion/reset. Change spacing 60 to 40 deliberately -> positions -80/-40/0; finish shared waves and restore or document chosen spacing with rationale.
+5. **35-41 (6 min):** Each explains clone/local versus global, one test and school-only save/privacy boundary.
+6. **41-45 (4 min):** Save locally if permitted, stop scripts, close devices, keep evidence.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What changes at a call? How many clones? Which variable does each inherit?"
+Each has correct call/clone traces, observed execution turn, corrected test
+and purposeful visual feedback. 1 unsupported; 2 prompted; 3 independent;
+4 predicts another size/spacing; NE if not executed.
+
+## IF THINGS GO WRONG / SAFETY
+
+No line -> Pen extension/down; overlapping clones -> local variable/positions.
+No approved setups -> execute paper arrows/clone cards from same starters,
+record reasoning only and defer runtime evidence. No private input, public
+accounts, infinite clone creation, copied media or flashing effects.
+Stop/report unsafe device/data behavior.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: large block reference, one call/clone at a time, oral trace.
+Grade 6/challenge: predict `square(60)` perimeter 240 and a spacing tradeoff.
+Indoor seated lesson; no home coding or purchase requirement.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Teacher records actual versus paper operation and missing tests; return devices.
+**Explored:** functions/clones. **Did:** two sizes and three finite copies.
+**Learned:** parameters/local state matter. **Catholic connection:** honest,
+useful work. **Ask:** "Which test found the bug?" No routine homework.

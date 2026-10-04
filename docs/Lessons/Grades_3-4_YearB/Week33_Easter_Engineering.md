@@ -1,244 +1,73 @@
 ---
 title: "Week 33: Easter Engineering"
-description: "Grades 3-4 Year B resurrection celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - engineering
-  - life-science
-  - animals
-  - easter
-  - arts
----
-
-# 🌷 Week 33: Easter Engineering
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), S (Science), R (Religion), A (Arts) |
-
+description: "A rolling paper-stone mechanism and a tested Easter message"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-E1, CST-E2, CST-A3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Cardstock, Plain paper, Pencils, Markers, Masking tape, Metric ruler]
 ---
 
 # Week 33: Easter Engineering
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply engineering to Easter-themed challenges
-2. Explore spring science concepts
-3. Design with celebration in mind
-4. Connect new life in nature to engineering
-
-### Faith Integration Objectives
-Students will be able to:
-1. Celebrate the Resurrection of Jesus
-2. Connect spring new life to Easter hope
-3. Express faith through creation
-
----
-
-# Week 33: Easter Engineering
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**The Resurrection** — Easter is the most important celebration of the Christian year! Jesus rose from the dead, conquering death and bringing us hope of eternal life. All of nature echoes this theme in spring.
-
-### Scripture Connection
-> "I am the resurrection and the life. The one who believes in me will live, even though they die."
-> — John 11:25
-
-### Saint Connection
-**Mary Magdalene** — First witness to the Resurrection! She went to the tomb expecting death and found LIFE. She was the first to announce "He is risen!" — the greatest news ever.
-
----
-
-## 📚 Materials Needed
-
-- Engineering challenge materials (varies by challenge)
-
-- Spring nature items
-
-- Art supplies
-
-- Egg-related materials
-
-- Building supplies
-
-- Celebration items
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Risen Lord Jesus, You conquered death and brought us life! Fill us with Easter joy today. Help us see new life everywhere. Mary Magdalene, help us share the Good News! Alleluia! Amen."
-
-### Easter & New Life (8 min)
-**The greatest event:**
-
-**What happened:**
-
-- Jesus died on Good Friday
-
-- He was buried in a tomb
-
-- On the third day — Easter Sunday — He ROSE!
-
-- Death could not hold Him!
-
-**Mary Magdalene's story:**
-
-- She went to the tomb while it was still dark
-
-- Found the stone rolled away
-
-- Thought someone took Jesus' body
-
-- Jesus appeared to her — ALIVE!
-
-- "Go tell the others!"
-
-**New life everywhere:**
-
-- Spring bursting forth
-
-- Flowers blooming from dead-looking bulbs
-
-- Trees leafing from bare branches
-
-- Baby animals being born
-
-- "All of nature proclaims resurrection!"
-
-**Discussion:**
-
-- "How is spring like Easter?"
-
-- "Where do you see new life?"
-
-- "How does Easter give us hope?"
-
-### Easter Engineering Challenges (27 min)
-**Choose one challenge**; the four options are not a 27-minute rotation. Use 22 minutes for one plan/build/test and 5 for cleanup.
-
----
-
-**Challenge 1: Egg Drop Protection (10 min)**
-**Design a container that keeps a paper "egg" secure in a teacher-controlled 20 cm lowering test.** No raw egg or increasing-height drop.
-
-**Materials:** Cardboard, cotton, tape, straws, fabric scraps
-
-**Constraints:**
-
-- Must fit in a paper bag
-
-- No larger than 6 inches in any dimension
-
-- Egg must be retrievable
-
-**Connection:**
-"The tomb couldn't contain Jesus! But our container protects new life."
-
-**Test:** Teacher lowers the paper model into a tray from 20 cm; compare whether it stays inside packaging. No climbing or heavy drop.
-
----
-
-**Challenge 2: Resurrection Garden (10 min)**
-**Build a model Easter garden scene.**
-
-**Materials:** Clay, small stones, sticks, moss, small plants
-
-**Elements to include:**
-
-- Empty tomb (cave with rolled stone)
-
-- Garden setting
-
-- Cross on hill (optional)
-
-- Path to tomb
-
-**Connection:**
-"Create the scene Mary Magdalene saw that first Easter morning!"
-
----
-
-**Challenge 3: Spring Launcher (10 min)**
-**Optional rolling model:** Roll a paper ball along a low tabletop guide toward a cup target; no elastic/catapult launch.
-
-**Materials:** Popsicle sticks, rubber bands, spoon, tape, cup "nest"
-
-**Design:**
-
-- Create a low cardboard rolling guide, not a catapult or projectile launcher
-
-- Target: nest 3 feet away
-
-- Points for accuracy
-
-**Connection:**
-"New life springs forth! Baby birds launch into the world!"
-
----
-
-**Challenge 4: Butterfly Life Cycle Model (10 min)**
-**Create a 3D model showing metamorphosis stages.**
-
-**Materials:** Clay, paper, pipe cleaners, small containers
-
-**Stages to show:**
-1. Egg
-2. Caterpillar
-3. Chrysalis
-4. Butterfly
-
-**Connection:**
-"The same living animal develops from caterpillar through pupa to butterfly. A butterfly can symbolize hope, but metamorphosis is not death or Resurrection."
-
----
-
-### Gallery & Sharing (3 min)
-**Quick showcase:**
-
-- Show what you built
-
-- Explain the Easter connection
-
-- Celebrate creativity!
-
-**Closing Prayer:**
-"Alleluia! Christ is risen! Thank You, Lord, for the hope of Easter. Thank You for new life in spring and new life in You. Help us be like Mary Magdalene — running to share the Good News with everyone. May our projects remind us that NOTHING is impossible with God — not even rising from the dead! Christ is risen! He is risen indeed! Alleluia! Amen."
-
----
-
-## 📎 Home Connection
-> "We celebrated Easter with engineering today! Ask your child about their Easter project and its faith connection. Discuss: 'What is the Resurrection?' 'How is spring like Easter?' 'Who was Mary Magdalene?' Take a family spring walk to look for signs of new life. HE IS RISEN!"
-
----
-
-## ✅ Assessment
-
-- Completed engineering challenge
-
-- Connected project to Easter themes
-
-- Demonstrated understanding of Resurrection
-
-- Expressed joy in creation
-
----
-
-**Lesson Version:** 1.0 — Year B | **
-
-## SAFETY / accuracy / indoor alternative
-
-No raw eggs, food, loose natural specimens, elastic launchers or increasing drops. Teacher cuts/checks recycled materials; use dry paper/clean clay at desks. Photos/paper substitute for unavailable spring nature. Plants/pupae are living, not biological examples of rising from death. Each child names the model criterion and one actual test observation; celebration alone is not mastery. Safe fixed-model limits override the older option materials that would suggest springs/rubber bands.
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Easter design; **one 40-minute meeting**.
+**Objective:** make a paper scene whose movable stone reveals an Easter message,
+test twice, revise and distinguish model mechanics from religious belief.
+**Why:** a communication model can be purposeful without proving Resurrection.
+CST-C1 symbol/evidence distinction; CST-E1 reveal criterion/limits;
+CST-E2 actual retest; CST-A3 critique/message revision.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 10; cleanup 5. No raw eggs, drop devices or spring launchers.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): cardstock scene base, two ordinary paper sheets (stone/
+message), ruler, two markers, 40 cm tape. Per pupil: evidence paper/pencil.
+Teacher board/timer; draw empty-tomb illustration as religious retelling,
+fold a paper slider behind taped guide from issued kit. Adult pre-cuts any slot;
+no live specimens. Reuse tools, retain scene/records.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Bases; rulers (1/team each) | 4 | 5 | 7 | 9 |
+| Team paper; markers (2/team each) | 8 | 10 | 14 | 18 |
+| Tape (40 cm/team, cm total) | 160 | 200 | 280 | 360 |
+| Evidence paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Mechanism = moving parts doing a job; slider = guided movable piece; symbol =
+meaningful representation; retelling = adapted narrative.
+**Misconception:** model opening proves a miracle. **If asked "Is a butterfly
+the same as Jesus rising?"** No; metamorphosis develops while alive, Easter is
+belief about Resurrection. Scene is not an archaeological reconstruction.
+No stones, moss, eggs, springs, bands, flames or sharp cutting. Adult cuts,
+children move low desk paper. Stop/report torn guides; indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Easter hope/prayer optional; "What can our mechanism actually test?"
+2. **4-9:** Model slider/reveal; criterion full message visible, mechanism
+   operates two cycles without detached parts; limits supplied paper/tape.
+3. **9-21:** Each sketches purpose; team builds scene/reveal, rotating roles.
+4. **21-30:** Two open/close cycles, peer reads message; record, change guide/
+   letter layout, repeat two cycles/reader test.
+5. **30-35:** Each child explains criterion, actual before/after and message revision/
+   symbol distinction. "What caused sticking?"
+6. **35-40:** Count tools, flatten scraps, save dated scene/evidence.
+
+## Success/access/troubleshooting
+
+Meets: functional criterion/test record, critique-backed revision and honest
+faith/model boundary. Grade 3/support: prepared guide/large message/dictation.
+Grade 4/challenge: readability-versus-hidden-space tradeoff. Sticking slider:
+loosen one guide, record retest; no sharp tool workaround. No card: folded
+paper base, label material change. Early finish: new reader, same cycle test.
+Celebration/enthusiasm not mastery.
+
+**Family:** We retested an Easter communication model. Ask, "What did the
+mechanism show, and what was a faith symbol?" Optional: discuss hope.

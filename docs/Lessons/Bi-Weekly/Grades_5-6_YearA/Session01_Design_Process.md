@@ -1,215 +1,85 @@
 ---
 title: "Session 1: Design Process Mastery"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A introduction"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - robotics
-  - engineering
-  - service
-  - arts
----
-
-
-# Session 1: Design Process Mastery 📐
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 1 of 17
-
-Students deepen their understanding of design thinking with advanced problem-solving and human-centered design approaches.
-
+description: "A bounded user brief, criterion and tested label revision"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 1: Design Process Mastery
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Master the five stages of design thinking
-
-- Apply empathy in problem identification
-
-- Use iterative prototyping
-
-- Connect design thinking to Catholic service
-
----
-
-# Session 1: Design Process Mastery
-
-## Materials Needed
-
-- 📋 Design thinking worksheets
-
-- 📦 Prototyping materials
-
-- 📓 Engineering journals
-
-- 🖥️ Presentation technology
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Hildegard of Bingen** — A true polymath: composer, writer, philosopher, scientist, and mystic. She integrated multiple disciplines in service of God!
-
-### Scripture
-> *"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23
-
-### Opening Prayer
-*Dear God, you designed the universe with infinite wisdom. Help us become thoughtful designers who use our skills to serve others. May our work honor you. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (8 minutes)
-1. **Design Thinking Review:**
-   - "You've done design thinking before—now we go deeper!"
-   - The five stages (Stanford d.school model):
-     - 💗 EMPATHIZE — Understand users deeply
-     - 🎯 DEFINE — Frame the right problem
-     - 💡 IDEATE — Generate many solutions
-     - 🔧 PROTOTYPE — Build to think
-     - 🧪 TEST — Learn and iterate
-2. **St. Hildegard:**
-   - Medieval genius who integrated faith and learning
-   - Scientist, musician, writer, healer
-   - "Faith doesn't limit learning—it expands it!"
-3. **Human-Centered Design:**
-   - Design FOR people, not just problems
-   - Empathy is the foundation
-
-### Main Activity: Design Challenge Sprint (28 minutes)
-
-**Part 1: Empathy Deep Dive (8 minutes)**
-
-**Challenge:** Design something to help a specific person at school
-
-**Interview Process:**
-
-- Partner with classmate or imagine a specific person
-
-- Ask deeper questions:
-  - Walk me through your typical day
-  - What frustrates you most?
-  - When do you feel overwhelmed?
-  - What do you wish existed?
-
-- Listen for emotions, not just facts
-
-- Note unspoken needs
-
-**Part 2: Define the Problem (5 minutes)**
-
-- Write a "How Might We" statement:
-  - "How might we help [user] with [problem] so that [outcome]?"
-
-- Example: "How might we help younger students feel welcome so that they enjoy coming to school?"
-
-- This reframes problems as opportunities!
-
-**Part 3: Rapid Ideation (5 minutes)**
-
-- 10 ideas in 5 minutes—GO!
-
-- Quantity over quality
-
-- Wild ideas welcome
-
-- Build on others' ideas
-
-- No judgment yet!
-
-**Part 4: Prototype (8 minutes)**
-
-- Choose most promising idea
-
-- Build quick prototype:
-  - Sketch, model, or storyboard
-  - Just enough to show the concept
-  - "Fake it" if needed—it's about testing ideas!
-
-- Prepare to explain and get feedback
-
-**Part 5: Test & Iterate (2 minutes)**
-
-- Share prototype with partner
-
-- Get honest feedback
-
-- Note: What works? What needs refinement?
-
-### Engineering Journal (5 minutes)
-1. Write your "How Might We" statement
-2. Sketch your top 3 ideas
-3. Draw your prototype
-4. Write: "Feedback I received..."
-5. Write: "Human-centered design matters because..."
-
-### Closing Circle (4 minutes)
-1. **Design Principle Share** — "What's the most important design thinking insight?"
-2. **Service Connection** — "How is design thinking Catholic?"
-3. **Closing Prayer** — *"God, help us see others' needs and design solutions with love. May our creativity serve your kingdom. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-C2 - distinguish stated user needs from assumed feelings; CST-E1 - criterion and constraint in the problem statement; CST-E2 - one feedback-based revision. Use a fictional/consented school-task brief, never compelled private frustrations. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Conducted empathetic inquiry
-
-- [ ] Created clear problem statement
-
-- [ ] Generated multiple ideas
-
-- [ ] Built testable prototype
-
-- [ ] Incorporated feedback
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Structured interview questions
-
-- Partner work throughout
-
-- Template for "How Might We"
-
-### For Advanced Students
-
-- Design for more complex challenge
-
-- Multiple iteration cycles
-
-- Create design documentation
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Use design thinking at home! Interview family members about a challenge. Create a "How Might We" statement. Brainstorm solutions together and test one!
-
----
-
-## Teacher Notes
-
-- This framework is used throughout the year
-
-- Post design thinking stages permanently
-
-- Encourage genuine empathy in interviews
-
-- Prototypes should be rough—focus on learning
-
----
-
-**Next:** [Session 2 — Sphero Advanced](./Session02_Sphero_Advanced.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Foundations |
+| Time | 1 meeting of 45 minutes; practice, not mastery certification |
+| Objective / why / big idea | I can distinguish stated needs from assumed feelings, define a criterion/constraint and revise after a user test. Design starts with listening. |
+| Domains / Catholic connection | C, E; service respects dignity/choice; no private-frustration interview required. |
+| Local standards | CST-C2: need versus stereotype; CST-E1: criterion/constraint; CST-E2: test/revision. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; physical label task. |
+| Difficulty / entry | Introductory; no prior rotation; teach five stages here. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Design Entry. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; seat 4/5/7/9 teams. Copy fictional brief:
+"A newcomer needs to find RULER, PAPER and TAPE on a shared tray without
+asking a name or relying on color." No feelings assumed. Criterion: peer
+finds all three labels from 50 cm without coaching; constraint one sheet.
+Draw five stages: listen, define, ideas, model, test. Pilot labels.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil; journal | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardstock prototype; brief sheet; ruler; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.2 m/team | 0.8 m | 1 m | 1.4 m | 1.8 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/tape consumable; tools reusable; all supplied at school.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Empathy:** listen to stated experience. **Criterion/constraint:** success/
+limit. **Iteration:** tested change. **Common misconception:** designer knows
+user's feelings from identity. **If asked, "Is this every newcomer's need?"**
+No; fictional task, further real-user input needed.
+Key: three correctly located labels = 3/3; 2/3 is not complete success.
+Physical prototype demonstrates readability, not every accessibility need.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Read brief; ask "What was stated, what did we assume?" Connect dignity.
+2. **4-11 (7 min):** Model stages/criterion and safe 50 cm reader test.
+3. **11-25 (14 min):** Each records need/unknown and three ideas; team selects/builds labels, rotating designer/maker/reader.
+4. **25-35 (10 min):** Peer finds three words; record first count, revise one label and retest same distance without coaching.
+5. **35-41 (6 min):** Individual criterion/constraint, before/after counts, revision reason and stated-versus-assumed need.
+6. **41-45 (4 min):** Cap/count tools, save prototype/logs, sort scrap and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What was the limit? Did coaching change the test?"
+Each supplies criterion/constraint, two test counts and justified revision plus
+dignity decision. 1 unsupported; 2 prompted; 3 independent; 4 adds tradeoff;
+NE for missing. Participation alone isn't mastery.
+
+## IF THINGS GO WRONG / SAFETY
+
+All pass -> improve a second stated criterion, do not fake failure.
+No cardstock -> paper same count. No ruler -> adult-verified distance marks,
+document measurement change. No private interview, sharp cutting, medical
+device, public images or disclosure. Stop/report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: read brief aloud, word templates, scribing.
+Grade 6/challenge: defend label-size/space tradeoff and untested need.
+Indoor tabletop path; no weather/device dependency.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Retain each child's counts/decision, return tools, note missing checks.
+**Explored:** human-centered design. **Did:** tested and revised a label.
+**Learned:** listen/test rather than assume. **Catholic connection:** dignity.
+**Ask:** "What was actually requested?" No routine homework.
+
+**Next:** [Session 2 - Sphero Advanced](./Session02_Sphero_Advanced.md)

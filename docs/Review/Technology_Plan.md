@@ -82,9 +82,9 @@ account or privacy policy. No student data are uploaded as part of this review.
 
 The final October 4 integration of all four
 [band audits](./Materials_Plan.md#legacy-inventory-reconciliation-and-remaining-checks)
-classifies 251 document records as **149 None, 49 Optional, 15 Recommended,
-38 Required**. K has 0 Required; grades 1-2 have 10, grades 3-4 have 17 and
-grades 5-6 have 11. These are primary-path audit labels, not meeting counts,
+classifies 251 document records as **198 None, 12 Optional, 10 Recommended,
+31 Required**. K has 0 Required; grades 1-2 have 10, grades 3-4 have 15 and
+grades 5-6 have 6. These are primary-path audit labels, not meeting counts,
 ownership or readiness certifications. Protected AA circuit materials remain
 required even when the digital-technology label is None. Use the
 [generated lesson map](Lesson_Map.csv) for subsequent updates.
@@ -94,8 +94,9 @@ Keep objective-preserving and objective-changing fallback fields distinct.
 Recorded devices/kit names indicate procurement questions, not ownership,
 approval or safe equivalent substitution. Confirm Ozobot/EV3/other proprietary
 platforms separately rather than pricing them as the generic floor robot.
-App/device inventory, licenses and all-lesson readiness remain unverified;
-this workstream does not reread assigned band lessons or infer holdings from names.
+All 251 written packages are complete. Actual app/device inventory, licenses,
+compatibility, local release and observed outcomes remain unverified.
+No school holding is inferred from a name or an access resource.
 
 **OLP Snap follow-up:** the school confirmed eight individual activity kits,
 not classroom packs. The [classroom guide](../Resources/Snap_Circuits_Classroom_Guide.md)

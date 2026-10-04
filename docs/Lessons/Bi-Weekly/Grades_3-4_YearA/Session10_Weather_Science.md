@@ -1,199 +1,78 @@
 ---
 title: "Session 10: Weather Science"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A meteorology"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - engineering
-  - earth-science
-  - lent
-  - arts
----
-
-
-# Session 10: Weather Science 🌦️
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 10 of 17
-
-Students explore weather science, building simple weather instruments and understanding God's design in atmospheric systems.
-
+description: "A safe cup-depth tool, water-cycle model and labeled practice data"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-S1, CST-S3, CST-T1, CST-M1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Clear plastic cup, Team sorting tray, Metric ruler, Plain paper, Pencils, Water, Plastic graduated measuring cup, Paper towels]
 ---
 
 # Session 10: Weather Science
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Identify key weather measurements
-
-- Build a simple weather instrument
-
-- Understand the water cycle
-
-- Appreciate God's design in weather systems
-
----
-
-# Session 10: Weather Science
-
-## Materials Needed
-
-- 📦 Weather instrument materials
-
-- 🌡️ Thermometers (for reference)
-
-- 📊 Weather tracking sheets
-
-- 📓 Engineering journals
-
-- 📸 Water cycle diagrams
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Elijah the Prophet** — Prayed for rain and God answered. Weather reminds us of God's power and provision!
-
-### Scripture
-> *"He covers the sky with clouds; he supplies the earth with rain."* — Psalm 147:8
-
-### Opening Prayer
-*Dear God, you control the wind and rain. Thank you for the weather that waters the earth and sustains life. Help us understand your amazing design. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Weather Wonder:**
-   - "Weather affects everything we do!"
-   - Farmers, pilots, sailors, athletes—all watch weather
-2. **Weather Measurements:**
-   - 🌡️ Temperature — How hot or cold
-   - 💧 Precipitation — Rain, snow, hail
-   - 💨 Wind — Speed and direction
-   - ☁️ Clouds — Types predict weather
-3. **Water Cycle:**
-   - Evaporation → Condensation → Precipitation → Collection
-   - God designed a perfect recycling system!
-
-### Main Activity: Weather Station (26 minutes)
-
-**Part 1: Water Cycle Exploration (6 minutes)**
-
-- Review water cycle diagram
-
-- "Where is water RIGHT NOW in the cycle?"
-
-- This water-cycle model tracks movement and changes of state; it is not a universal claim about all chemical reactions involving water
-
-**Part 2: Build Weather Instruments (16 minutes)**
-
-**Choose ONE to build:**
-
-**Option A: Rain Gauge**
-
-- Straight-sided flat-bottomed clear plastic cup, uncut; mark zero at the inside bottom with a ruler
-
-- Mark measurements on side
-
-- Practice water depth in mm; only a properly placed straight-sided collector measures rainfall, not snow depth
-
-- Place outside to track rainfall
-
-**Option B: Airflow Indicator**
-
-- Tape a 20 cm tissue strip to a cardboard handle; no pins
-- Gently move a card to create air movement; note the strip's response
-- This is not a calibrated wind-direction/speed instrument
-
-**Option C: Teacher photo of an anemometer**
-
-- Discuss what a calibrated instrument measures; no pin assembly or claim that spin counts equal a wind speed
-
-**Option D: Teacher photo of a barometer**
-
-- Read a labeled sample scale; do not build a latex/glass model or use it to guarantee a storm
-
-**Part 3: Test & Record (4 minutes)**
-
-- Test instruments outside if possible
-
-- Record initial observations
-
-- Predict tomorrow's weather!
-
-### Engineering Journal (5 minutes)
-1. Draw your weather instrument (label parts)
-2. Draw and label the water cycle
-3. Today's weather observation
-4. Write: "God designed weather to..."
-
-### Closing Circle (3 minutes)
-1. **Instrument Share** — How does yours work?
-2. **Weather Appreciation** — "Why is weather important?"
-3. **Closing Prayer** — *"Thank you, God, for rain that grows food and sun that warms us. Help us appreciate your provision in all kinds of weather. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Named weather measurements
-
-- [ ] Understood water cycle
-
-- [ ] Built functional instrument
-
-- [ ] Connected weather to God's design
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler instrument (rain gauge)
-
-- Pre-made parts to assemble
-
-- Partner work
-
-### For Advanced Students
-
-- Build multiple instruments
-
-- Create weather forecast
-
-- Research extreme weather
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Track weather for a week using your instrument! Watch weather forecasts—what do meteorologists measure? Look at clouds and predict weather. Discuss how weather affects your family's activities.
-
----
-
-## Teacher Notes
-
-- Instruments work best with ongoing tracking
-
-- Connect to classroom weather calendar
-
-- Consider school weather station project
-
-- MN weather provides great variety!
-
----
-
-**Previous:** [Session 9 — Catholic Scientists](./Session09_Catholic_Scientists.md)  
-**Next:** [Session 11 — Lenten Engineering](./Session11_Lenten_Engineering.md)
-
-## SAFETY / winter / evidence
-
-Primary build is the safe cup or strip, indoors; teacher pours at most 20 mm water depth over a tray and dries spills. No cut bottles, pins, glass, latex, tasting or unsafe outdoor exposure. Use window observations or clearly labeled simulated data in winter. Each child reads a value/unit and identifies a model limit; forecasts remain uncertain. Home weather logs are optional, not required.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Weather; **one 40-minute meeting**.
+**Objective:** read two water depths with units, explain a water-cycle model
+and state a tool/forecast limit. **Why:** weather-aware care for neighbors needs
+accurate readings, not a guaranteed prediction.
+Catholic/CST-C2 accessible safety message; CST-S1 observed versus simulated;
+CST-S3 water-cycle model; CST-T1 ruler/tool troubleshooting; CST-M1 mm readings.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 15; cleanup 5 included.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): straight-sided flat-bottom **uncut** clear cup/tray/ruler.
+Each pupil two sheets/pencil. Teacher board/timer, one plastic pouring cup and
+**100 mL water/team maximum**, one towel roll for drying/spills. Check water-line zero at inside bottom; pretest
+two depths under **20 mm**, measure actual, not assumed from volume.
+Board simulated rain Mon 0/Tue 4/Wed 2 mm, labeled practice.
+Reuse/dry kit; save paper, no outside placement required.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Cups; trays; rulers (1/team each) | 4 | 5 | 7 | 9 |
+| Water maximum (100 mL/team, mL total) | 400 | 500 | 700 | 900 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+| Adult pouring cup (fixed) | 1 | 1 | 1 | 1 |
+| Towel roll (fixed) | 1 | 1 | 1 | 1 |
+
+## Vocabulary/background/SAFETY
+
+Precipitation = water falling from atmosphere; evaporation = liquid to gas;
+condensation = gas to liquid; gauge = measuring tool.
+**Misconception:** this cup reads snow depth or guarantees rain tomorrow.
+**If asked "Is today's practice rain real?"** No, unless a named actual source/
+time/location is recorded. A placed straight-sided collector is needed for
+rainfall measurement; our indoor cup tests depth only.
+No glass/cuts/pins/latex, tasting or outside exposure. Adult pours/empties,
+dry spills, stop/report damaged cup. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How can weather information help a neighbor?" Optional care prayer.
+2. **4-10:** Model eye-level ruler zero/depth and water-cycle arrows.
+3. **10-22:** Adult pours two successive depths; each reads/records both mm
+   values, rotating ruler turns. Compare readings and correct a zero error.
+4. **22-30:** Each draws evaporation/condensation/precipitation/collection and
+   compares practice data; create a clear weather-safety message for a peer.
+5. **30-35:** Individual readings/units, cycle relation, model limit and reader
+   interpretation; practice total 6 mm, not actual forecast.
+6. **35-40:** Adult empties, pupils dry/count/store, save dated evidence.
+
+## Success/access/troubleshooting
+
+Meets: two actual depths/units, accurate cycle model, tool limit and inclusive
+message. Grade 3/support: ruler zero marked/arrow stems/scribing.
+Grade 4/challenge: reading precision and observation versus forecast.
+Uneven cup: use a checked straight-sided replacement or diagram readings,
+physical measurement not observed. No water: supplied depth drawings/
+simulation labeled, not actual cup test. Early finish: compare two readings
+and explain why three practice days do not establish climate.
+
+**Family:** We practiced depth measurement and weather models. Ask, "Which
+data were simulated?" Optional: discuss an adult's safe-weather plan.

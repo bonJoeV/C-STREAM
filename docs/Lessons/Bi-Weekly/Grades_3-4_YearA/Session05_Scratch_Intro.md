@@ -1,222 +1,88 @@
 ---
 title: "Session 5: Scratch Intro"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A coding introduction"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - animals
-  - advent
-  - arts
----
-
-
-# Session 5: Scratch Intro 💻
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 5 of 17
-
-Students are introduced to Scratch programming, learning how block-based coding works and creating their first animated project.
-
+description: "A finite dance loop with prediction, execution and debugging"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T1, CST-T2, CST-M3]
+technology: Required
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Compatible computers, Plain paper, Pencils, Plastic counters]
 ---
 
 # Session 5: Scratch Intro
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Navigate the Scratch interface
-
-- Understand how code blocks connect to create programs
-
-- Create a simple animated character
-
-- Use sequences and loops in programming
-
----
-
-# Session 5: Scratch Intro
-
-## Materials Needed
-
-- 💻 Computers/Chromebooks with Scratch
-
-- 📋 Scratch quick reference cards
-
-- 📓 Engineering journals
-
-- 🖥️ Projector for demonstration
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Creativity and responsibility** — Programming is a human tool; "God as programmer" is only a metaphor, not a scientific description of creation or human freedom.
-
-### Scripture
-> *"In the beginning was the Word... Through him all things were made."* — John 1:1,3
-
-### Opening Prayer
-*Dear God, you created the universe with perfect order and logic. As we learn to program, help us appreciate your incredible design. Guide our creativity today! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **What is Scratch?**
-   - "A programming language where you connect blocks like puzzle pieces!"
-   - Created at MIT for learning to code
-   - Used by millions of kids worldwide
-2. **Programming = Giving Instructions**
-   - Computers do EXACTLY what we tell them
-   - We need to be precise and logical
-3. **Faith reflection** — Use our creativity responsibly; we are not discovering literal divine computer code
-
-### Main Activity: Scratch Exploration (27 minutes)
-
-**Part 1: Interface Tour (5 minutes)**
-
-- **Stage** — Where the action happens
-
-- **Sprites** — Characters and objects
-
-- **Code Blocks** — Instructions that snap together
-
-- **Categories:**
-  - 🎬 Motion — Move and turn
-  - 👀 Looks — Appearance and speech
-  - 🔊 Sound — Sounds and music
-  - 🎮 Events — Triggers (when clicked, etc.)
-  - 🔁 Control — Loops and waits
-
-**Part 2: Guided Activity: Make the Cat Dance! (12 minutes)**
-
-**Step 1: Basic Motion (3 min)**
-
-- Find "move 10 steps" block
-
-- Snap under "when green flag clicked"
-
-- Click green flag to test
-
-- Try different numbers!
-
-**Step 2: Add Turning (3 min)**
-
-- Add "turn 15 degrees"
-
-- See what happens
-
-- Create a spinning cat!
-
-**Step 3: Loops & Waiting (3 min)**
-
-- Find "forever" block (in Control)
-
-- Put motion blocks INSIDE the loop
-
-- Add "wait 0.5 seconds"
-
-- The cat dances forever!
-
-**Step 4: Add Speech (3 min)**
-
-- Find "say Hello for 2 seconds"
-
-- What should your cat say?
-
-- Add sound blocks if time
-
-**Part 3: Free Creation (8 minutes)**
-
-- Customize YOUR cat:
-  - Change costume (Looks: next costume)
-  - Add more movements
-  - Make it say something meaningful
-  - Add sounds
-
-- Explore other sprites if time
-
-**Part 4: Demo Showcase (2 minutes)**
-
-- Volunteers show their dancing cats
-
-- Celebrate creativity!
-
-### Engineering Journal (5 minutes)
-1. Draw the Scratch interface (Stage, Sprites, Blocks)
-2. List 3 block types you used
-3. Write: "Programming is like..."
-4. Write: "I want to create a program that..."
-
-### Closing Circle (3 minutes)
-1. **Share Discoveries** — "What cool thing did your cat do?"
-2. **Logic Appreciation** — "God's creation follows logic too!"
-3. **Closing Prayer** — *"Thank you, God, for minds that can create and problem-solve. Bless our coding adventures! Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Navigated Scratch interface
-
-- [ ] Connected code blocks successfully
-
-- [ ] Created working animation
-
-- [ ] Used at least one loop
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Paired with experienced peer
-
-- Step-by-step visual guide
-
-- Focus on basic motion only
-
-### For Advanced Students
-
-- Add multiple sprites
-
-- Create sprite interaction
-
-- Explore variables
-
----
-
-## Wonder at Home 🏠
-**Optional family activity:** Scratch is free at scratch.mit.edu; an account or home device is not required. Describe or draw the sequence for a family member. No homework.
-
----
-
-## Teacher Notes
-
-- Use guest/offline projects and private local saves; no shared pupil credentials or compulsory accounts
-
-- Pre-load Scratch on all devices
-
-- Bookmark Scratch website
-
-- Students will use Scratch again in Session 8
-
-- Consider Scratch offline if internet unreliable
-
----
-
-**Previous:** [Session 4 — Animal Habitats](./Session04_Animal_Habitats.md)  
-**Next:** [Session 6 — Gratitude Tech](./Session06_Gratitude_Tech.md)
-
-## Technology / individual evidence
-
-Primary **Required** for executable Scratch. Without devices, trace motion/turn/repeat cards with a token and identify a bug; record CT only, not Scratch operation. Every child predicts what the loop repeats and explains one edit; log who actually edits/runs code. Reserve 5 minutes of exploration for saving/stopping/device return.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Computing; **one 40-minute meeting**.
+**Objective:** edit/run a finite loop, predict four movements and explain a
+correction. **Why:** execution makes repeated instructions observable.
+Catholic/CST-C2 accessible turns/respectful message; CST-T1 actual edit/run/stop;
+CST-T2 loop/debug; CST-M3 four repeats/whole-number turn total.
+Official alignment **VERIFICATION REQUIRED**. Technology **Required**;
+novice. Prep 20 after Scratch 3 works, installation extra; cleanup 5.
+
+## Before class and exact supplies
+
+Guest/offline Scratch; build starter, run twice, Stop, local `.sb3` save/reopen.
+Leave sample/save location. Teams <=3 (4/5/7/9): computer/four counters.
+Per pupil paper/pencil; teacher board/timer, demo uses kit. No accounts/projector
+purchase. Failed preflight -> paper trace and missing operation report.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Computers (1/team) | 4 | 5 | 7 | 9 |
+| Counters (4/team) | 16 | 20 | 28 | 36 |
+| Paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Starter, vocabulary and background
+
+On one sprite:
+
+```text
+when green flag clicked
+go to x: (0) y: (0)
+point in direction (90)
+repeat (4)
+  move (20) steps
+  turn clockwise (90) degrees
+  wait (1) seconds
+end
+say [Welcome!] for (2) seconds
+```
+
+Stage = display; sprite = character; loop = repeated enclosed blocks; event =
+trigger. **Misconception:** a block below the loop repeats.
+**If asked "Why not forever?"** Finite repeat permits an exact prediction and
+clear end. Scratch steps are screen coordinates, not physical centimeters.
+
+## SAFETY/privacy
+
+Dry seated devices/counters; no public accounts/media, passwords or downloaded
+assets. Counters off bodies/away from mouthing pupils. Stop/report damaged gear.
+God-as-programmer is not a literal scientific model. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "Which action happens four times?" Optional inclusive-work prayer.
+2. **4-10:** Tour stage/sprite/Code; model starter and Stop.
+3. **10-21:** Every child edits/runs in a three-minute turn; peers trace with
+   four counters and record four moves/turns.
+4. **21-29:** Change repeat to 3, predict/run, then restore 4 and retest; locate
+   misplaced block or document correct operation.
+5. **29-35:** Each explains inside/outside loop and actual result; roster logs
+   individual edit/run/stop. Four 90-degree turns total 360, no ratios.
+6. **35-40:** Stop/save/reopen, count counters, return devices, file dated trace.
+
+## Success/access/troubleshooting
+
+Meets: four-repeat prediction, correction/retest and observed operation/
+fair turn. Grade 3/support: copied stack/token trace/scribing.
+Grade 4/challenge: compare 3/4 repeats and total turns. Sprite drifts: reset
+position/direction, check block enclosure, rerun. Half stations: two waves of
+three-minute turns within work blocks; fewer means reschedule operation.
+No device: same times token/block cards, CT/counting only, **Scratch operation
+not observed**. Early finish: new message, not unbounded program.
+
+**Family:** We executed and checked a finite dance loop. Ask, "What repeated?"
+Optional: trace four turns verbally; no home device.

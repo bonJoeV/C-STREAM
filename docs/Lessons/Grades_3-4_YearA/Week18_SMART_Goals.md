@@ -1,217 +1,74 @@
 ---
 title: "Week 18: New Year SMART Goals"
-description: "Grades 3-4 goal-setting using SMART framework"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-a
-  - life-science
-  - astronomy
-  - arts
----
-
-# 🎯 Week 18: New Year SMART Goals
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **STREAM Focus** | M (Math), R (Religion) |
-
+description: "One measurable goal, two in-class practice checks and a tracker"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-M2, CST-M3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Metric ruler]
 ---
 
 # Week 18: New Year SMART Goals
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply the SMART goal framework
-2. Set measurable, time-bound goals
-3. Create an action plan with steps
-4. Design a tracking system
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect goal-setting to growing in virtue
-2. Understand spiritual growth as a goal
-3. Trust God's help in achieving goals
-
----
-
-# Week 18: New Year SMART Goals
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Growth in Virtue** — The Christian life is a journey of growth. We're called to become more like Jesus — more loving, kind, patient, and holy. Setting goals helps us grow intentionally in virtue and use our God-given potential.
-
-### Scripture Connection
-> "Commit to the LORD whatever you do, and he will establish your plans."
-> — Proverbs 16:3
-
-### Saint Connection
-**St. Ignatius of Loyola** — He developed the spiritual exercises and was famous for setting clear goals for spiritual growth. He taught that we should reflect, plan, and act with God's help.
-
----
-
-## 📚 Materials Needed
-
-- SMART Goals poster/handout
-
-- Goal planning worksheets
-
-- Goal tracking templates
-
-- Calendars
-
-- Sticky notes
-
-- Markers/colored pencils
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**New Year Prayer:** "Lord, thank You for a fresh start! As we set goals, help us grow closer to You. Guide our plans and give us strength to follow through. We trust You with our year! Amen."
-
-**Discuss:**
-
-- "A new year is a fresh start!"
-
-- "Why do people set goals?"
-
-- "What happens to most New Year's resolutions?" (They fail!)
-
-- "Today, we'll learn to set goals that WORK."
-
-### SMART Goals Framework (10 min)
-**Introduce SMART goals:**
-
-**S — Specific**
-
-- "What exactly will you do?"
-
-- Vague: "Read more" → Specific: "Read one book per month"
-
-**M — Measurable**
-
-- "How will you track progress?"
-
-- "How will you know when you've achieved it?"
-
-**A — Achievable**
-
-- "Can you actually do this?"
-
-- Stretch yourself, but be realistic
-
-**R — Relevant**
-
-- "Does this matter to you?"
-
-- "Does it fit your values and priorities?"
-
-**T — Time-bound**
-
-- "When will you accomplish this?"
-
-- "What's your deadline?"
-
-**Examples:**
-
-- Vague: "Get better at math"
-
-- SMART: "Improve my multiplication speed by completing 100 flash cards with 90% accuracy by March 1st"
-
-
-- Vague: "Be nicer"
-
-- SMART: "Give one sincere compliment every day for the next month"
-
-### Goal Brainstorming (5 min)
-**Three categories of goals:**
-
-**1. Learning Goal (STREAM)**
-
-- What skill do you want to develop?
-
-- What do you want to know?
-
-**2. Character Goal (Virtue)**
-
-- What virtue do you want to grow in?
-
-- How do you want to treat others?
-
-**3. Faith Goal (Spiritual)**
-
-- How do you want to grow closer to God?
-
-- What spiritual practice do you want to develop?
-
-**Quick brainstorm:** Students list 2-3 ideas for each category.
-
-### SMART Goal Development (15 min)
-**Students develop one goal fully:**
-
-**Worksheet process:**
-1. Choose one goal to make SMART
-2. Write the specific goal
-3. Define how you'll measure it
-4. Check that it's achievable
-5. Explain why it's relevant to you
-6. Set a deadline
-7. List 3-5 action steps
-
-**Create tracking system:**
-
-- Calendar marks
-
-- Checklist
-
-- Visual tracker (color in progress)
-
-**Faith integration:**
-
-- Add "prayer support" — when will you pray about this goal?
-
-- Who will you ask to encourage you?
-
-### Sharing & Commitment (5 min)
-**Partner share:**
-
-- Share your SMART goal
-
-- Get feedback: "Is it truly SMART?"
-
-- Commit to checking in with each other
-
-**Faith Connection:** "St. Ignatius taught that we should make plans AND give them to God. Write your goals, work hard, AND pray for God's help. He wants us to grow!"
-
-**Closing Prayer:** "Lord, we commit our goals to You. Help us grow in knowledge, virtue, and faith this year. When we struggle, give us strength. When we succeed, let us give You glory. Guide our steps every day. Amen."
-
----
-
-## ✅ Assessment
-
-- Applied SMART framework to goal
-
-- Created measurable tracking system
-
-- Included action steps
-
-- Connected goals to faith/virtue
-
----
-
-## 📎 Home Connection
-> "We learned to set SMART goals! Ask your child to share their goals for learning, character, and faith. Help them track progress. Consider setting family SMART goals together! Remember Proverbs 16:3 — 'Commit to the LORD whatever you do, and he will establish your plans.'"
-
----
-
-**Lesson Version:** 1.0 | **
+## Lesson at a glance
+
+Grades 3-4; Weekly A; Reflection; **one 40-minute meeting**.
+**Objective:** write one achievable classroom goal, perform two practice checks
+and use counts to choose a next action. **Why/big idea:** a tracker informs
+practice, not promises success. Catholic/CST-C3: stewardship of effort/materials;
+CST-M2: two labeled trial records; CST-M3: count/compare achieved criteria.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 10 minutes; cleanup 5 included. No prayer/holiness score.
+
+## Before class and exact supplies
+
+Per pupil: two sheets/pencil. Teams <=3 (4/5/7/9) share ruler. Board SMART:
+Specific, Measurable, Achievable, Relevant, Time-bound. Draw a 2 cm line example.
+Practice goal: "By minute 30 I will label a drawing with a title, cm unit and
+measured line length: three checked features." Teacher board/timer, demo uses
+issued paper. Evidence requires no calendars/printed template.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+
+## Vocabulary/background/SAFETY
+
+Specific = clear action; measurable = observable count; achievable = realistic;
+tracker = dated evidence record. SMART is a planning tool, not a guarantee.
+**Misconception:** many goals ensure more growth. **If asked "Does missing a
+goal mean God is disappointed?"** A practice result tells us what support/
+next action to try; it does not measure a person's worth or faith.
+Desk paper/rulers; no speed pressure, private faith/family disclosure or
+compulsory daily tracking. Report broken tools; indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional prayer for patient growth. "How would we know 'get better'
+   happened?" Explain one practice goal, not three private goals.
+2. **4-10:** Model SMART and tracker `trial/time | features 0-3 | next action`.
+3. **10-20:** Each writes goal/reason/two actions; draws and labels first measured
+   line. Peer checks title/unit/value; pupil records actual 0-3 count.
+4. **20-30:** Choose action from missing feature, draw different length line,
+   check three features again and compare counts. Deadline is this window.
+5. **30-35:** Each child explains goal, two actual checks, count difference and next
+   action; "Which action responded to your evidence?"
+6. **35-40:** Date/file tracker, count rulers, clear desks; teacher notes who
+   needs reteaching. Optional next-class check uses tracker during opening,
+   not hidden additional required instruction.
+
+## Success/access/troubleshooting
+
+Meets: one SMART goal, two real 0-3 records and evidence-based next action with
+responsible work choice. Grade 3/support: copy goal, oral/dictated reason.
+Grade 4/challenge: explain why one successful attempt does not establish durable
+skill and propose a later check. Unrealistic goal: shorten to today's three
+features, not five projects. No change in counts: explain maintenance or missing
+support; do not invent improvement. Early finish: change line length, same rubric.
+
+**Family:** We practiced one measurable goal and compared checks. Ask, "What
+did your tracker change about your next step?" Optional conversation only.

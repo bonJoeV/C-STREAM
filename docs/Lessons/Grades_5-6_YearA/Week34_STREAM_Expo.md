@@ -1,313 +1,99 @@
 ---
-title: "Week 34: STREAM Expo & Graduation"
-description: "Grades 5-6 year-end celebration and transition"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - service
-  - arts
+title: "Week 34: STREAM Expo and Graduation"
+description: "A complete preparation lesson and separately gated 60-75-minute event"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎓 Week 34: STREAM Expo & Graduation
+# Week 34: STREAM Expo and Graduation
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes (plus Expo time) |
-| **STREAM Focus** | All Areas (Celebration) |
-
----
-
-# Week 34: STREAM Expo & Graduation
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Present STREAM learning to authentic audience
-2. Demonstrate technical and presentation skills
-3. Reflect on year-long growth
-4. Articulate future learning goals
-
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude for STREAM journey
-2. Recognize growth as gift from God
-3. Commit to continued faith-reason integration
-4. Celebrate as community
-
----
-
-# Week 34: STREAM Expo & Graduation
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Graduation and Sending Forth** — The Mass ends with "Go forth" — a sending into the world. Our STREAM graduation sends students forth equipped with skills, knowledge, and the integration of faith and reason to make a difference.
-
-### Scripture Connection
-> "I am confident of this, that the one who began a good work in you will continue to complete it until the day of Christ Jesus."
-> — Philippians 1:6
-
-### Saint Connection
-**St. John Paul II** — Called young people to be "not afraid" and to go into the world with faith and reason together. He championed both science and faith, showing they work in harmony.
-
----
-
-## 📚 Materials Needed
-
-- Expo display materials
-
-- Portfolio collections
-
-- Certificates
-
-- Photo documentation
-
-- Reflection journals
-
-- Celebration supplies
-
----
-
-## 📝 Lesson Procedure (45 minutes + Expo)
-
-### Part 1: Preparation & Reflection (45-minute class)
-
-### Opening Prayer (3 min)
-**Prayer of St. Ignatius (adapted):** "Lord, take and receive all my liberty, my memory, my understanding, and my entire will. You have given me all these gifts. To You, Lord, I return them. Everything is Yours. Use me for Your glory. Give me only Your love and Your grace — that is enough for me. Amen."
-
-**Celebration spirit:**
-
-- "This is a day of JOY!"
-
-- "You've learned SO much this year"
-
-- "Today we celebrate and look forward"
-
-### Portfolio Completion (10 min)
-**Final portfolio reflection:**
-
-**Write reflection on your STREAM year:**
-1. **Most proud accomplishment:** What work are you most proud of?
-2. **Biggest growth area:** Where did you improve most?
-3. **Favorite project/lesson:** What did you enjoy most?
-4. **Faith-reason integration:** How did faith and science connect for you?
-5. **Challenge overcome:** What was hard that you conquered?
-6. **Future goals:** How will you continue STREAM learning?
-
-**Select portfolio highlights:**
-
-- 3-5 best works from the year
-
-- Variety across STREAM areas
-
-- Include reflection notes
-
-### Expo Preparation (15 min)
-**Prepare presentation/display:**
-
-**Display options:**
-
-- Portfolio highlights
-
-- Key project demonstrations
-
-- Interactive elements
-
-- Before/after documentation
-
-**Presentation elements:**
-
-- What did you learn this year?
-
-- What's your best work?
-
-- How did faith and reason connect?
-
-- What advice for future students?
-
-**Practice:**
-
-- 2-3 minute presentation
-
-- Answer anticipated questions
-
-- Speak clearly and confidently
-
-### Graduation Reflection (12 min)
-**5th-6th grade reflection:**
-
-For 6th graders (or those leaving):
-
-- "What will you take with you?"
-
-- "How will you continue integrating faith and reason?"
-
-- "What's your mission going forward?"
-
-For 5th graders (returning):
-
-- "How will you be leaders next year?"
-
-- "What do you want to accomplish?"
-
-- "How can you help younger students?"
-
-**Letter to future self:**
-Write a letter to yourself 5 years from now:
-
-- What you learned in STREAM
-
-- Your hopes and goals
-
-- How faith and reason work together
-
-- What you commit to
-
-### Commissioning & Closing (5 min)
-**Commissioning for 6th graders:**
-
-- "You are being sent forth"
-
-- "You have skills and knowledge"
-
-- "You have faith and reason together"
-
-- "Go make a difference!"
-
-**Charge to all:**
-
-- "Keep asking questions"
-
-- "Keep making things"
-
-- "Keep connecting faith and learning"
-
-- "Keep serving others with your gifts"
-
-**Closing Prayer:** "Lord, thank You for this year of learning. Thank You for each student and their unique gifts. As they go forth, equip them to use STREAM for good. Help them never stop wondering, never stop creating, never stop believing. We send them forth in Your name. Amen."
-
----
-
-### Part 2: STREAM Expo (separate event time)
-
-### Expo Format
-**Stations/displays by students:**
-
-- Each student has space for portfolio/project display
-
-- Interactive demonstrations welcome
-
-- Students present to visitors
-
-**Visitors:**
-
-- Parents/families
-
-- Other classes
-
-- School leadership
-
-- Community guests
-
-### Expo Flow
-1. **Welcome & Prayer** (5 min)
-2. **Brief program overview** (5 min)
-3. **Open viewing/presentations** (30-45 min)
-4. **Recognition ceremony** (10 min)
-5. **Closing celebration** (10 min)
-
-### Recognition
-**Award categories:**
-
-- Growth awards
-
-- Innovation awards
-
-- Faith integration awards
-
-- Collaboration awards
-
-- Perseverance awards
-
-- Service awards
-
-**Every student recognized for something meaningful.**
-
-### Closing Celebration
-
-- Photos
-
-- Refreshments
-
-- Informal fellowship
-
-- Gratitude expressions
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-E3 - defend one tested design and its limit; CST-A3 - purposeful caption improved after reader feedback; CST-C3 - explain a resource/service choice. Keep each student's artifact and response. The 45 minutes covers preparation only; the listed Expo adds **60-75 minutes** and needs separate calendar/visitor/media approval. No routine homework or mandatory family attendance; no identifiable public photos without school consent.
-
-Official benchmarks and exact attributed prayer/Scripture wording:
-**VERIFICATION REQUIRED** before teaching; use approved sources.
-
-- Completed portfolio reflection
-
-- Prepared quality expo presentation
-
-- Demonstrated learning to visitors
-
-- Reflected on growth and future goals
-
----
-
-## 📎 Home Connection
-> "We celebrated our STREAM year with an Expo and graduation! Thank you for supporting your child's STREAM learning this year. Ask your child to share their portfolio and reflections. Discuss: 'What was your favorite part of STREAM?' 'How did faith and science connect?' 'How will you continue exploring?' Keep encouraging curiosity, creativity, and the integration of faith and reason. The journey continues!"
-
----
-
-## End-of-Year Message to Students
-
-**Dear STREAM Engineers, Scientists, and Innovators:**
-
-You did it! You spent this year wondering, building, coding, testing, failing, trying again, and succeeding. You've learned that:
-
-
-- **Faith and reason go together** — Science and faith aren't enemies; they're partners in understanding truth.
-
-- **Failure is part of learning** — Every engineer fails. The good ones learn from failure.
-
-- **Your gifts are for serving others** — The best STREAM work helps people.
-
-- **You are creative like God** — You're made in the image of the Creator, and you can CREATE!
-
-As you go forward:
-
-- Keep asking "Why?" and "How?" and "What if?"
-
-- Keep making things with your hands and mind
-
-- Keep connecting your learning to your faith
-
-- Keep using your gifts to serve others
-
-You're ready. Go make a difference!
-
-*"The one who began a good work in you will continue to complete it."* — Philippians 1:6
-
-**Congratulations, STREAM Graduate!**
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Communication |
+| Time | 1 instructional meeting of 45 minutes; optional Expo adds 60-75 minutes, not counted as instruction |
+| Objective / why / big idea | I can defend one tested decision, revise an evidence caption and explain responsible resource use. An exhibition communicates what was actually learned. |
+| Domains / Catholic connection | E, A, C; gratitude and sending forth encourage gifts in service, not certified mastery or ranked worth. |
+| Local standards | CST-E3: result/limit defense; CST-A3: caption revision; CST-C3: resource choice. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper exhibits. No live powered or hazardous demonstrations. |
+| Difficulty / entry | Developing; retrieve actual evidence, not assume attendance/achievement. |
+| Prep / cleanup | Moderate: first 20 min, repeat 10 min; event logistics additional adult work; cleanup 4 min included. |
+
+## BEFORE CLASS / MATERIALS
+
+Check school contact/accommodations; retrieve one or two individual artifacts
+with raw tests. Arrange paired seated exchanges, odd enrollment one trio.
+Copy caption frame and fictional practice record below. Extra event requires
+principal-approved date, room capacity/access/egress, adult hosts, visitor/media
+policy and invitations; none is assumed complete. School records actual
+stock/location; families need not attend, buy or donate.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Portfolio/practice record; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper display/caption sheets | 2/student | 20 | 30 | 40 | 50 |
+| Ruler; marker | 1 each/tool team of <=3 | 4 | 5 | 7 | 9 |
+| Board; clock; roster; event checklist | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Same displays reused for event; tables/chairs existing stock must be confirmed.
+Paper consumable; tools/portfolios reusable. No food/photos/awards essential.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Curate:** choose evidence for purpose. **Caption:** explanation beside work.
+**Tradeoff:** benefit/cost. **Limit:** untested claim.
+**Common misconception:** celebration proves growth for every pupil.
+**If asked, "Can I show a failed model?"** Yes, with honest test and next step.
+Practice record, clearly invented: "Label readable in 1/3 trials, larger text
+in 3/3; same 1 m distance." Difference 2 successful trials, not proof of universal
+access. Frame: purpose / choice / result / change / limit / resource decision.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Give thanks for opportunities; ask "What evidence can we share honestly?"
+2. **4-11 (7 min):** Model practice record/caption; distinguish invented versus actual and paper versus device.
+3. **11-24 (13 min):** Each curates artifact, assembles display hierarchy and caption with result/limit; use practice record if absent.
+4. **24-35 (11 min):** Paired 90-second defenses plus questions; trio fits. Revise caption after one specific reader question, rehearse accessible seated explanation.
+5. **35-41 (6 min):** Each submits old/new caption, supported decision and material reuse choice; future goal may be school-task only.
+6. **41-45 (4 min):** Store displays, cap/count tools, save evidence and clear room.
+
+### Optional separate Expo: executable event plan
+
+Adults release only after checklist approval; otherwise in-class rehearsal is
+the completed objective. Welcome/prayer 5 min; route/access orientation 5 min;
+two viewing rounds totaling 30-45 min (half present then swap, individual
+2-minute explanations repeated to small visitors); inclusive recognition 10 min;
+close/pack displays 10 min. Sum 60-75 min. Maintain seated option, adult-monitored
+traffic and egress. Visitors do not operate experiments. No identifiable media
+without school consent, no compulsory family attendance. Record actual event
+date/attendance/checks only after it occurs.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What was measured? Which claim is too large? Why reuse this display?"
+Each has tested-result defense/limit, specific caption revision and resource
+reason. 1 unsupported; 2 prompted; 3 independent; 4 defends a tradeoff;
+NE if absent. Awards/event participation are not technical evidence.
+
+## IF THINGS GO WRONG / SAFETY
+
+Missing work -> labeled practice record, not invented personal achievement.
+Missing event approval -> keep rehearsal; no unplanned visitors.
+Unreadable caption -> fewer words/larger title. Unsafe crowding -> adult stops
+rotation/reports. No live circuits, robots, clinical models on people,
+refreshments, sharps or private spiritual records.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: caption frame, oral/scribed defense.
+Grade 6/challenge: explain test precision and next validation step, no assumed
+two-year attendance. Indoor displays are primary; no outdoor event needed.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Save individual evidence, return exhibits safely, record deferred event/checks.
+**Explored:** communicating a year of work. **Did:** curated, questioned and
+revised. **Learned:** evidence and limits matter. **Catholic connection:** gifts
+for service. **Ask:** "Which result supports your choice?" Describe Expo as held
+only if it occurred. Optional conversation; no routine homework.

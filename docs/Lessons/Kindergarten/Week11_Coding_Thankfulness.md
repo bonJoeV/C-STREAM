@@ -18,7 +18,7 @@ materials: [Plain paper, Large command cards, Paper grid and token, Shared schoo
 |---|---|
 | Grade / unit / time | K / Algorithms / one 25-minute meeting |
 | Domains / big idea | C, T, A; ordered instructions can deliver a respectful message |
-| Objective / why | "I can predict two moves and fix a wrong step." Clear instructions help us communicate. |
+| Objective / why | "I can explain how people choose steps, predict two moves and fix a wrong step." Clear instructions help us communicate. |
 | Catholic connection | Gratitude and care for a recipient; no forced family disclosure or presumed need. |
 | Local standards | CST-C2: respectful recipient; CST-T2: prediction/correction; CST-A3: message. Official alignment: VERIFICATION REQUIRED. |
 | Technology / difficulty / prep / cleanup | Optional ScratchJr extension, paper primary / guided / 10 minutes / 4 included |
@@ -53,11 +53,13 @@ Desk grids, large parts, no body maze, small tokens or public student uploads.
 1. **0-4:** Choose a school helper or trusted recipient; draw/describe a thankful
    message without sharing private details. Original prayer optional.
 2. **4-8:** Model RIGHT, DOWN, STOP missing the target. Reset; replace DOWN
-   with UP and test again. STOP is not a movement.
+   with UP and test again. STOP is not a movement. Explain the human process:
+   name the delivery goal, break it into two moves, then put the moves in order.
 3. **8-17:** Partners predict RIGHT, UP, STOP, follow cards, reset and fix the
    intentionally wrong path. Rotate each planner/mover turn; begin checks.
 4. **17-21:** Each child predicts the endpoint, changes one wrong card and
-   explains/points to the message's meaning and recipient.
+   explains/points to the message's meaning and recipient. Ask who chose the
+   instructions and have the child show the goal, smaller moves and their order.
 5. **21-25:** Share two messages without personal information; store four-card
    kits, retain dated records and clear.
 

@@ -1,237 +1,87 @@
 ---
 title: "Week 33: Easter Hope"
-description: "Grades 5-6 Year B resurrection and transformation"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - engineering
-  - light
-  - life-science
-  - earth-science
-  - easter
-  - service
-  - arts
+description: "Accurate germination and metamorphosis panels with limited faith symbolism"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🌷 Week 33: Easter Hope
+# Week 33: Easter Hope
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Faith Integration) |
-
----
-
-# Week 33: Easter Hope
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply STREAM skills to Easter themes
-2. Create projects representing transformation
-3. Connect science to resurrection themes
-4. Use technology to share hope
-
-### Faith Integration Objectives
-Students will be able to:
-1. Understand resurrection as transformation
-2. See Easter hope in creation
-3. Share faith through creativity
-
----
-
-# Week 33: Easter Hope
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**The Resurrection** — Easter is the heart of our faith! Jesus conquered death, and all of creation echoes this triumph. Science reveals transformation everywhere — caterpillars to butterflies, seeds to plants, energy changing forms. All point to the ultimate transformation: resurrection!
-
-### Scripture Connection
-> "I am the resurrection and the life. The one who believes in me will live, even though they die."
-> — John 11:25
-
-### Saint Connection
-**Mary Magdalene** — First witness to the Resurrection. She came expecting death and found LIFE. She was commissioned to share the greatest news in history. We too are called to be Easter people who share hope!
-
----
-
-## 📚 Materials Needed
-
-- Transformation project materials
-
-- Technology tools
-
-- Art supplies
-
-- Science demonstration materials
-
-- Presentation supplies
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (3 min)
-"Risen Lord Jesus, You conquered death and brought us life! Fill us with Easter hope today. Help us see transformation everywhere in Your creation. Mary Magdalene, help us share the Good News with joy! Alleluia! Christ is risen! He is risen indeed! Amen."
-
-### Transformation in Science & Faith (12 min)
-**Scientific processes and a distinct faith claim:** Natural changes can be limited symbols; they neither cause nor prove Christ's Resurrection.
-
-**Scientific transformations:**
-
-- **Metamorphosis** - a living organism undergoes extensive development; it does not completely dissolve or die and resurrect.
-
-- **Germination** - a living seed embryo grows when conditions allow; the seed does not have to die.
-
-- 💧 **Phase changes** — Same substance, different forms
-
-- ⚡ **Energy conversion** — One form becomes another
-
-- 🧬 **Cellular renewal** — Your body constantly renews itself
-
-**Connection to Easter:**
-
-- "All these transformations echo the greatest transformation"
-
-- "Jesus didn't just resuscitate — He was TRANSFORMED"
-
-- "Resurrection body: same Jesus, glorified form"
-
-- "We too will be transformed!"
-
-**Mary Magdalene's transformation:**
-
-- Grieving → Rejoicing
-
-- Hopeless → Commissioned
-
-- Confused → Enlightened
-
-- "She didn't recognize Him at first — transformation!"
-
-**Discussion:**
-
-- "How does scientific transformation point to resurrection?"
-
-- "What transformations have you experienced?"
-
-- "How is Easter hope different from other hope?"
-
-### Transformation Project (25 min)
-**Create something that represents resurrection/transformation:**
-
-**Option A: Science Demonstration**
-Create a demonstration showing transformation:
-
-- Butterfly life cycle model with tech component
-
-- Dry labeled phase-change diagram; no chemical mixing
-
-- Energy transformation display
-
-- Plant growth time-lapse concept
-
-**Option B: Digital Hope Project**
-Use technology to share Easter hope:
-
-- Short video about resurrection
-
-- Digital art showing transformation
-
-- App concept for daily Easter reflection
-
-- Podcast episode on hope
-
-**Option C: Engineering Transformation**
-Design something that transforms:
-
-- Kinetic sculpture that changes form
-
-- Before/after display
-
-- Mechanical butterfly or flower
-
-- Light-activated transformation
-
-**Option D: Data-Driven Hope**
-Research and visualize:
-
-- Data on what brings people hope
-
-- Stories of transformation in community
-
-- Environmental renewal examples
-
-- Personal growth metrics
-
-**Project requirements:**
-
-- Clear transformation theme
-
-- Connection to Easter/resurrection
-
-- Quality creation
-
-- Shareable with others
-
-**Work time:**
-
-- Plan project (5 min)
-
-- Create (15 min)
-
-- Prepare to share (5 min)
-
-### Sharing & Celebration (5 min)
-**Share creations:**
-
-- Quick showcase of projects
-
-- Explain transformation connection
-
-- How does this represent Easter hope?
-
-**Easter commissioning:**
-Like Mary Magdalene, we are sent to share hope!
-
-- "Who needs Easter hope in your life?"
-
-- "How will you share it?"
-
-**Closing Prayer:**
-"Alleluia! Christ is risen! He is risen indeed! Lord Jesus, Your resurrection changes everything! Thank You for transforming death into life, sorrow into joy, despair into hope. Help us see transformation all around us — in nature, in science, in our own lives. Make us Easter people who radiate hope to a world that needs it. Commission us, like Mary Magdalene, to run and tell others the Good News: You are alive! Death is defeated! Love wins! Alleluia! Amen."
-
----
-
-## 📎 Home Connection
-> "We explored Easter themes through STREAM! Ask your child: 'What transformation project did you create?' 'How does science point to resurrection?' 'What Easter hope will you share?' Celebrate Easter as a family, looking for signs of transformation and new life all around you. Christ is risen — Alleluia!"
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-S3 - accurate individual germination/metamorphosis explanation; CST-A3 - purposeful before/after communication; CST-C1 - distinguish scientific process from faith symbol. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY
-
-No student-selected chemical reactions, fire, heating, bodily samples, or unknown substances. Use dry paper/cardboard models indoors. Optional electronics require the inspected protected-AA kit; no button cells. Private spiritual reflections need not be shared.
-
-- Created transformation-themed project
-
-- Connected science to resurrection
-
-- Demonstrated Easter hope understanding
-
-- Prepared to share faith with others
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Life Science |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can explain living germination/metamorphosis and revise a visual sequence without equating it with Resurrection. Accurate models can communicate change and hope. |
+| Domains / Catholic connection | S, A, C; Easter celebrates Christ's Resurrection, a distinct faith claim, not spring biology proof. |
+| Local standards | CST-S3: life models; CST-A3: sequence critique/revision; CST-C1: science/symbol distinction. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; dry diagrams primary. |
+| Difficulty / entry | Introductory; teach stages and organism continuity. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Life Change Panels. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; seat 4/5/7/9 tool teams. Draw supplied stage
+cards, not unknown specimens. Germination: living seed embryo -> root emerges
+-> shoot/leaves -> growing seedling, given suitable water/oxygen/temperature.
+Butterfly: egg -> larva/caterpillar -> pupa -> adult, living throughout normal
+development. Card sequence is generalized model, not live time-lapse.
+No growing requirement or claimed instant result within 45 minutes.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper panels/evidence | 2/student | 20 | 30 | 40 | 50 |
+| Pencil | 1/student | 10 | 15 | 20 | 25 |
+| Stage sheet; ruler; marker set | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools reusable; no seed/soil/animal purchases.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Embryo:** young organism in seed. **Germination:** beginning growth from seed.
+**Metamorphosis:** major developmental change. **Symbol:** meaning expressed
+through a representation.
+**Common misconception:** seed must die or caterpillar wholly dissolves.
+Both processes involve living organisms; tissues reorganize in metamorphosis.
+**If asked, "Does every seed grow?"** No; viability/conditions matter.
+Key: four ordered stages each; biological development is neither ice melting
+nor creation of new chemical substance alone; models omit time and internal detail.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Can a living thing change without dying?" Introduce Easter distinction.
+2. **4-11 (7 min):** Model both four-stage sequences and corrected misconceptions.
+3. **11-25 (14 min):** Each draws both sequences, arrows/labels and "living development"; choose a composition making order clear.
+4. **25-35 (10 min):** Partner reads sequence and asks one biology question; revise misleading "dead seed" or vague arrow, record old/new caption.
+5. **35-41 (6 min):** Individual accurate explanations of both processes, model limit and scientific-versus-Easter-symbol statement.
+6. **41-45 (4 min):** Save diagrams, cap/count tools, reuse scraps and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which organism remains living? What conditions matter? What does the drawing
+not show?" Each has both ordered models, corrected misconception, reader-led
+revision and faith-symbol limit. 1 unsupported; 2 prompted; 3 independent;
+4 explains exception/omission; NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+Stages confused -> reread supplied cards, use numbered arrows. No marker ->
+pencil patterns/words suffice. No live specimens -> intended core unchanged.
+No unknown water/soil, cultures, body samples, reactions, heating, electronic
+substitutions, forced spiritual disclosure or medical claims. Report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: predivided panels, stage-word bank, oral/scribed explanation.
+Grade 6/challenge: explain why one-day pictures cannot prove germination time
+or universal seed viability. Entire indoor model lesson.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep individual models and caption changes, return tools, note reteaching.
+**Explored:** living development. **Did:** modeled/revised life sequences.
+**Learned:** growth isn't death/resurrection. **Catholic connection:** accurate
+limited Easter symbolism. **Ask:** "What was alive at the start?"
+Optional conversation; no routine homework.

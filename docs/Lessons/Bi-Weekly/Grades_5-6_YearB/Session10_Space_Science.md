@@ -1,240 +1,93 @@
 ---
 title: "Session 10: Space Science"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B astronomy"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - engineering
-  - light
-  - astronomy
-  - lent
-  - arts
----
-
-
-# Session 10: Space Science 🌌
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 10 of 17
-
-Students explore astronomy and space science, connecting the vastness of the universe to the wonder of God's creation.
-
+description: "A verified Earth-Sun scale and constrained fictional probe mission"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 10: Space Science
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand scale of the universe
-
-- Explore current space science
-
-- Connect astronomy to faith
-
-- Design a space exploration concept
-
----
-
-# Session 10: Space Science
-
-## Materials Needed
-
-- 💻 Space simulation resources
-
-- 📸 NASA images
-
-- 📦 Design materials
-
-- 📓 Engineering journals
-
-- 🔭 Telescope (optional)
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Vatican Observatory** — The Catholic Church operates an active astronomical observatory! Br. Guy Consolmagno is a Jesuit astronomer studying the universe for God's glory.
-
-### Scripture
-> *"When I consider your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is mankind that you are mindful of them?"* — Psalm 8:3-4
-
-### Opening Prayer
-*Dear God, Creator of the universe, help us explore the wonders of space with awe and humility. The heavens declare your glory! Open our minds to the vastness of your creation. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (8 minutes)
-1. **Universe Scale:**
-   - Earth → Solar System → Galaxy → Universe
-   - Galaxy/star counts are uncertain estimates; galaxies vary greatly in size and stellar population. Do not claim every galaxy has the same range.
-2. **Vatican Observatory:**
-   - Church operates real observatory
-   - Jesuit astronomers study space
-   - Faith seeks understanding of all creation
-3. **Space Science Today:**
-   - James Webb Space Telescope discoveries
-   - Mars exploration
-   - Searching for life
-   - Understanding our place in creation
-
-### Main Activity: Space Exploration (28 minutes)
-
-**Part 1: Universe Exploration (10 minutes)**
-
-**Virtual Space Journey:**
-
-- Use NASA resources or simulations
-
-- Scale of universe visualization
-
-- Recent discoveries from James Webb
-
-- Mars rover findings
-
-**Key Concepts:**
-
-- Light years (distance, not time!)
-
-- Galaxy types and sizes
-
-- Life of stars
-
-- Planets beyond our solar system (exoplanets)
-
-**Wonder Questions:**
-
-- Why did God create such a vast universe?
-
-- What does our small Earth tell us about God's love?
-
-- How does space exploration honor God?
-
-**Part 2: Space Design Challenge (15 minutes)**
-
-**Choose ONE Challenge:**
-
-**Challenge A: Space Mission Design**
-
-- Design a mission to explore:
-  - Mars colony
-  - Europa (Jupiter's moon)
-  - Asteroid mining
-  - Exoplanet probe
-
-- Include: Objectives, vehicle design, timeline
-
-**Challenge B: Space Station Concept**
-
-- Design future space station:
-  - Purpose (research, tourism, manufacturing)
-  - Life support systems
-  - Transportation to/from Earth
-
-- Include: Layout, features, operations
-
-**Challenge C: Telescope/Observatory**
-
-- Design next-generation observatory:
-  - What will it study?
-  - Where will it be located?
-  - What technology needed?
-
-- Include: Capabilities, discoveries expected
-
-**Design Requirements:**
-
-- Scientific accuracy (realistic)
-
-- Engineering considerations
-
-- Benefit to humanity
-
-- Sketch with labels
-
-**Part 3: Presentation (3 minutes)**
-
-- Share designs
-
-- Explain scientific basis
-
-- Discuss potential discoveries
-
-### Engineering Journal (5 minutes)
-1. Most amazing space fact: ___
-2. Design concept sketch
-3. Mission/design purpose: ___
-4. Write: "The universe shows God's glory because..."
-5. Write: "Space exploration matters because..."
-
-### Closing Circle (4 minutes)
-1. **Wonder** — "What amazed you most about space?"
-2. **Faith Connection** — "How does the universe reveal God?"
-3. **Closing Prayer** — *"Creator God, the heavens declare your glory! Thank you for the wonder of space and minds to explore it. Help us always see your hand in creation. Amen."*
-
----
-
-## Assessment
-
-**Local standards (not official):** CST-S3 - individual scale/model limit; CST-E1 - mission purpose, criterion, constraint; CST-C1 - distinguish evidence from reflection. Official benchmarks **VERIFICATION REQUIRED**. Primary indoor path: printed/board Earth-Sun model (1 AU = 10 cm; about 150 million km) using [NASA Earth facts](https://science.nasa.gov/earth/facts/); current mission and astronomer-role claims **VERIFICATION REQUIRED**.
-
-## SAFETY
-
-No telescope or lens observations of the Sun; indoor targets only. Night observation is optional adult-supervised, never required homework. Printed images/model replace simulations without claiming actual telescope operation.
-**Observation Checklist:**
-
-- [ ] Understood universe scale
-
-- [ ] Engaged with space concepts
-
-- [ ] Created viable design
-
-- [ ] Connected to faith wonder
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one concept
-
-- Simplified design challenge
-
-- Partner work
-
-### For Advanced Students
-
-- Research current missions
-
-- Detailed engineering in design
-
-- Explore exoplanet possibilities
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Stargazing! Use phone apps to identify constellations. Research Vatican Observatory website. Watch space documentaries. Discuss: What does the vastness of space tell us about God?
-
----
-
-## Teacher Notes
-
-- NASA.gov has excellent free resources
-
-- Vatican Observatory has great educational content
-
-- James Webb images are spectacular
-
-- Consider planetarium field trip
-
----
-
-**Previous:** [Session 9 — Science & Faith](./Session09_Science_Faith.md)  
-**Next:** [Session 11 — Mercy Engineering](./Session11_Mercy_Engineering.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Earth and Space |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can explain a distance-only space model and define a mission criterion/constraint from supplied information. Space concepts need consistent scales and honest limits. |
+| Domains / Catholic connection | S, E, C; wonder/humility, not cosmic statistics as proof of God or unsourced observatory roles. |
+| Local standards | CST-S3: scale/model; CST-E1: mission criterion; CST-C1: fact/reflection. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper model/mission, no telescope or current-news dependency. |
+| Difficulty / entry | Developing; teach AU/scale, simple resource sums. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Space Mission Model. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations; seat 4/5/7/9 teams. Copy NASA fact card and
+fictional payload cards below. Prepare 30 cm strips and Sun/Earth/2AU labels,
+teacher verifies 0/10/20 cm positions. This isn't actual orbital mission design,
+rocket building or telescope operation.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper model/mission sheets | 2/student | 20 | 30 | 40 | 50 |
+| Pencil | 1/student | 10 | 15 | 20 | 25 |
+| Paper strip; cardstock payload sheet; ruler; marker; fact sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools reusable; no device/optical supply.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**AU:** Earth-Sun average-distance unit. **Scale:** consistent relationship.
+**Payload:** mission instrument/load. **Constraint:** limit.
+**Common misconception:** planet marker size shares distance scale.
+**If asked, "Is our probe feasible?"** It is a concept; propulsion, thermal
+control, communications and review omitted.
+Verified paraphrase [NASA Earth facts](https://science.nasa.gov/earth/facts/),
+checked October 4, 2026: Earth average Sun distance about 150 million km,
+about 1 AU; light travel about eight minutes. Scale 1AU=10cm -> 2AU=20cm;
+one model cm =15 million km, marker sizes not scaled.
+Fictional mission: observe a target at hypothetical 2AU, budget 6 credits.
+Camera card 4 credits gives pictures; temperature sensor 3 gives temperature;
+communications 2 required. Camera+comms=6 fits; both instruments+comms=9
+doesn't. Criterion: answer selected question with matching instrument and
+return information; no guaranteed discovery/current mission claim.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What would a probe need to answer your question?"
+2. **4-11 (7 min):** Model NASA facts versus fictional payload allowances and scale.
+3. **11-25 (14 min):** Each places Earth/2AU positions and drafts one mission question/criterion; teams select payload within 6 credits.
+4. **25-35 (10 min):** Peer checks scale/sum and asks about missing system; revise diagram or instrument choice, retain before/after.
+5. **35-41 (6 min):** Individual correct scale limit, mission criterion/constraint, checked cost and factual versus faith-reflection distinction.
+6. **41-45 (4 min):** Save models/plans, count tools/cards, reuse paper and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What is invented? What does camera measure? Can both fit the budget?"
+Each has correct distance scale, model limit, matched mission criterion/
+constraint and evidence/reflection distinction. 1 unsupported; 2 prompted;
+3 independent; 4 system/tradeoff explanation; NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+Too many payloads -> drop one, not invent budget. No ruler -> verified marks.
+No NASA internet -> supplied card, no fresh unverifiable discoveries.
+No Sun/lens/telescope viewing, rockets/projectiles, night/outdoor homework,
+private accounts or claims of real space hardware. Stop/report unsafe substitutions.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: labeled positions/cards, sum scaffold, scribing.
+Grade 6/challenge: justify communications/measurement tradeoff and unmodeled
+mission risk. Indoor tabletop model independent of Minnesota weather.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep individual facts/fictional labels, count tools and record open questions.
+**Explored:** space scale/missions. **Did:** planned a constrained concept.
+**Learned:** consistent units and limits. **Catholic connection:** honest wonder.
+**Ask:** "Which mission cost was invented?" No routine homework.
+
+**Previous:** [Science and Faith](./Session09_Science_Faith.md)
+**Next:** [Mercy Engineering](./Session11_Mercy_Engineering.md)

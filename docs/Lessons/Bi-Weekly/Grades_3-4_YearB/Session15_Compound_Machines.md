@@ -1,227 +1,77 @@
 ---
 title: "Session 15: Compound Machines"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B physics"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - arts
----
-
-
-# Session 15: Compound Machines ⚙️
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 15 of 17
-
-Students explore compound machines, discovering how combining simple machines creates complex and powerful tools.
-
+description: "A low lever-and-ramp model with a repeated transfer test"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-S3, CST-E1, CST-E2, CST-A1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Metric ruler, Wooden block, Cardboard, Paper cups, Plastic counters, Masking tape, Plain paper, Pencils, Team sorting tray]
 ---
 
 # Session 15: Compound Machines
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Review the six simple machines
-
-- Understand how simple machines combine
-
-- Identify compound machines in everyday life
-
-- Design a compound machine concept
-
----
-
-# Session 15: Compound Machines
-
-## Materials Needed
-
-- 📸 Pictures of compound machines
-
-- 📦 Building materials
-
-- 🔍 Real compound machines (scissors, can opener)
-
-- 📓 Engineering journals
-
-- 📋 Simple machine reference cards
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Joseph the Worker** — A model of dignified work. Specific historical tools such as planes/drills in his workshop are **VERIFICATION REQUIRED**, not known from this lesson.
-
-### Scripture
-> *"Whatever your hand finds to do, do it with all your might."* — Ecclesiastes 9:10
-
-### Opening Prayer
-*Dear God, thank you for tools that help us work. Like St. Joseph who worked with skill and dedication, help us appreciate the engineering of compound machines. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Simple Machine Review:**
-   - Lever, Inclined Plane, Wedge, Screw, Wheel & Axle, Pulley
-   - Each makes work easier in one way
-2. **Compound Machines:**
-   - "What if we combine them?"
-   - Two or more simple machines working together
-   - Useful changes in force, distance or direction, not free energy or guaranteed more power
-3. **Examples:**
-   - Scissors = 2 levers + 2 wedges
-   - Bicycle = wheel/axle and levers; its chain-and-sprocket drive is not simply a pulley
-   - Wheelbarrow = lever + wheel
-4. **St. Joseph** — Used compound tools in his workshop
-
-### Main Activity: Compound Machine Discovery (26 minutes)
-
-**Part 1: Machine Analysis (10 minutes)**
-
-**Examine Real Compound Machines:**
-
-- **Scissors**
-  - Find the levers (handles)
-  - Find the wedges (blades)
-  - How do they work together?
-
-
-- **Can Opener**
-  - Wheel & axle (turning knob)
-  - Wedge (cutting wheel)
-  - Lever (handles)
-
-
-- **Pencil Sharpener**
-  - Wheel & axle (handle)
-  - Wedge (blades)
-  - Screw (holds blade)
-
-
-- **Other examples to find:**
-  - Stapler
-  - Hole punch
-  - Bike (if available)
-  - Door knob
-
-**Record:**
-
-- Name of machine
-
-- Simple machines inside
-
-- How they work together
-
-**Part 2: Design Challenge (12 minutes)**
-
-**Challenge:** Design a NEW compound machine!
-
-**Requirements:**
-
-- Combines at least 2 simple machines
-
-- Serves a useful purpose
-
-- Sketch with labels
-
-- Explain how it works
-
-**Ideas:**
-
-- Helper for someone with a need
-
-- Tool for a specific job
-
-- Improvement on existing machine
-
-- Solve a classroom problem
-
-**Process:**
-1. Identify problem/need (2 min)
-2. Brainstorm solutions (2 min)
-3. Design compound machine (6 min)
-4. Label simple machines used (2 min)
-
-**Part 3: Design Share (4 minutes)**
-
-- Share designs with class
-
-- Explain: What simple machines? What does it do?
-
-### Engineering Journal (5 minutes)
-1. List the 6 simple machines
-2. Draw a compound machine you examined (label parts)
-3. Draw your design (label simple machines)
-4. Write: "Compound machines are powerful because..."
-
-### Closing Circle (3 minutes)
-1. **Machine Appreciation** — "Look at compound machines around you now!"
-2. **St. Joseph Connection** — "Workers need good tools!"
-3. **Closing Prayer** — *"God, thank you for the creativity to combine simple things into powerful tools. Help us work with skill and purpose. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified simple machines in compound machines
-
-- [ ] Analyzed real compound machines
-
-- [ ] Designed original compound machine
-
-- [ ] Explained how parts work together
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on scissors analysis
-
-- Partner design work
-
-- Design template provided
-
-### For Advanced Students
-
-- Build working prototype
-
-- Calculate mechanical advantage
-
-- Research complex machines
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Compound machine hunt at home! Find 10 compound machines and identify the simple machines inside each. Kitchen tools, garage tools, toys—they're everywhere! Try designing one together!
-
----
-
-## Teacher Notes
-
-- Bring real tools for examination
-
-- Safety with sharp objects (scissors, can opener)
-
-- Great for St. Joseph the Worker feast day (May 1)
-
-- Consider Rube Goldberg machine extension
-
----
-
-**Previous:** [Session 14 — Ozobot Challenge](./Session14_Ozobot_Challenge.md)  
-**Next:** [Session 16 — Makey Makey](./Session16_Makey_Makey.md)
-
-## SAFETY / evidence
-
-Teacher-only demonstration of can opener, sharpener, stapler and cutting tools; pupils use photographs or blunt classroom scissors under school rules. No disassembly, blades, sharp cans or pinch tests. A labeled design is a concept, not a tested machine. Each child identifies the relevant lever/wedge/wheel function and its tradeoff; a fastening screw need not be the mechanism doing the main task.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly B; Machines; **one 40-minute meeting**.
+**Objective:** label two machine functions, test a lever/ramp transfer model
+and revise a guide using repeated results. **Why:** combining tools changes
+work's route/force/distance, not creates free energy.
+Catholic/CST-C3 careful dignified work; CST-S3 interacting mechanisms;
+CST-E1 criterion/limit; CST-E2 retest; CST-A1 labeled model.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 15; cleanup 5. No unsupported Joseph-tool history or bicycle
+chain-as-pulley claim.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): 30 cm ruler/low broad block, smooth 20 cm cardboard ramp,
+paper cup, three identical plastic counters, tray, **30 cm tape**.
+Each pupil two sheets/pencil; teacher board/timer/demo from kit.
+Pretest low lever supporting cup: adult tapes cup to load end; pressing opposite
+end slowly raises cup **<=1 cm** to a low ramp entrance. Pupil **slides**, never
+flicks, counters down ramp into tray. Mechanism combines lever lifting platform
+and inclined-plane transfer, not automatic Rube Goldberg.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Rulers; blocks; ramps; cups; trays (1/team each) | 4 | 5 | 7 | 9 |
+| Counters (3/team) | 12 | 15 | 21 | 27 |
+| Tape (30 cm/team, cm total) | 120 | 150 | 210 | 270 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Compound = combined; lever = pivoted bar; inclined plane = ramp; tradeoff =
+gain with cost. Machines can change direction/distance/force; friction matters.
+**Misconception:** adding parts always improves. **If asked "Is a bicycle chain
+a pulley?"** Chain/sprocket drive is distinct; today's tested functions are
+lever/ramp only.
+Low trays/slow pressure, no launches, suspended loads, blades, disassembly or
+pinch tests. Stop/reset sliding block/report damaged kit. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "Why combine tools for useful work?" Optional careful-work prayer.
+2. **4-10:** Model load/effort/pivot/ramp and slow capped lift/slide.
+3. **10-22:** Each labels functions, team builds from pretested layout, rotates
+   operator/recorder/checker; criterion three counters reach tray twice.
+4. **22-30:** Record transfer counts 0-3, change cardboard side-guide only;
+   repeat two transfers with same load/ramp/lift cap.
+5. **30-35:** Each child draws interacting mechanisms, gives four counts and change/
+   tradeoff reason; "What did the guide help, and what did it add?"
+6. **35-40:** Remove/count counters, untape/store tools, collect dated diagrams.
+
+## Success/access/troubleshooting
+
+Meets: two correct functions, criterion/actual retest and labeled interaction/
+work-care choice. Grade 3/support: preassembled cup/arrow labels/scribing.
+Grade 4/challenge: manual-versus-automatic limitation, no mechanical ratio.
+Unstable pivot: stop/reset, repeat invalid trial. No safe block/ramp: teacher
+demonstration with pupil turns; absent hardware diagram only, physical transfer
+not observed. Early finish: same repeat, not longer/faster launcher.
+
+**Family:** We combined lever/ramp functions and retested a guide. Ask, "What
+job did each machine do?" Optional: identify a safe tool by sight.

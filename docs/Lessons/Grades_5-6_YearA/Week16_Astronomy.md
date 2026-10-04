@@ -1,231 +1,88 @@
 ---
-title: "Week 16: Astronomy & Space Science"
-description: "Grades 5-6 cosmic exploration and scale"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - light
-  - astronomy
-  - arts
+title: "Week 16: Astronomy and Space Science"
+description: "Earth-Sun scale, light travel and model limits"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🌌 Week 16: Astronomy & Space Science
+# Week 16: Astronomy and Space Science
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | S (Science), M (Math), R (Religion) |
-
----
-
-# Week 16: Astronomy & Space Science
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Describe scale of the solar system and universe
-2. Explain basic astronomical concepts
-3. Use mathematical reasoning for cosmic calculations
-4. Understand current space exploration
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect cosmic scale to God's infinite nature
-2. Appreciate Catholic astronomers' contributions
-3. Understand the Vatican Observatory's mission
-
----
-
-# Week 16: Astronomy & Space Science
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**The Vatican Observatory** — The Church operates one of the oldest astronomical research institutions in the world. This demonstrates that faith and scientific exploration of the cosmos go hand in hand. Understanding the universe helps us appreciate its Creator.
-
-### Scripture Connection
-> "The heavens declare the glory of God; the skies proclaim the work of his hands."
-> — Psalm 19:1
-
-### Saint Connection
-**Fr. Georges Lemaitre** - priest and physicist associated with expanding-universe cosmology. Detailed biography: **VERIFICATION REQUIRED**; the previously unsourced quotation is removed.
-
----
-
-## 📚 Materials Needed
-
-- Scale model materials
-
-- Calculators
-
-- Planet data cards
-
-- Images of cosmic objects
-
-- Computer for visualizations (optional)
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Lord of the universe, Your creation extends beyond our imagination. As we explore the cosmos today, fill us with wonder and humility. Help us see Your glory in the heavens. Amen."
-
-**Wonder statistics:**
-
-- Speed of light: 186,000 miles per second
-
-- Distance to nearest star: 4.24 light years
-
-- Stars in Milky Way: 200-400 billion
-
-- Observable universe: 93 billion light years diameter
-
-- Estimated galaxies: 200 billion+
-
-**Question:** "How do we even BEGIN to understand such enormous scales?"
-
-### Scale of the Solar System (12 min)
-**Scale model activity:**
-
-**Distance-only indoor scale: 1 AU = 10 cm.** Earth is 10 cm from the Sun marker; 1 AU is about 150 million km ([NASA Earth facts](https://science.nasa.gov/earth/facts/)). Thus 1 model cm represents about 15 million km. Planet marker sizes are **not** to this scale. Have each student place Earth and calculate a hypothetical 2 AU location (20 cm); do not mix planet-size objects with incompatible distances.
-
-Optional eight-planet extension: obtain current mean distances from [NASA's planetary fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/), record units, convert consistently, and teacher-check before use. **VERIFICATION REQUIRED** for that extension's values.
-
-**Key insight:** "Space is mostly EMPTY. The planets are tiny compared to the distances."
-
-**Speed of light demonstration:**
-
-- Light from Sun reaches Earth in 8 minutes
-
-- Light from Neptune: 4 hours
-
-- Light from nearest star: 4.24 YEARS
-
-**Calculate:**
-
-- If you could drive to the Sun at 60 mph, how long? (177 years!)
-
-- To nearest star? (48 million years!)
-
-### Beyond the Solar System (10 min)
-**Scale keeps expanding:**
-
-**Milky Way Galaxy:**
-
-- The Milky Way contains an estimated hundreds of billions of stars; stars and star systems are not interchangeable counts.
-
-- Takes 230 million years for Sun to orbit galaxy center
-
-- 100,000 light years across
-
-**Local Group:**
-
-- Milky Way is one of 80+ galaxies in our "neighborhood"
-
-- Andromeda Galaxy: 2.5 million light years away (and approaching!)
-
-**Observable Universe:**
-
-- Estimated 200 billion galaxies
-
-- Each with billions of stars
-
-- 93 billion light years diameter
-
-**The humbling math:**
-> Stars in observable universe: ~10²⁴ (1 septillion)
-> That's more stars than grains of sand on all Earth's beaches
-
-### Catholic Astronomy (8 min)
-**Vatican Observatory:**
-
-- Founded 1891 (but roots back to 1582)
-
-- Telescopes in Italy and Arizona
-
-- Jesuit astronomers conduct serious research
-
-- Why? "The Church has a long-standing commitment to understanding God's creation"
-
-**Fr. Georges Lemaître:**
-
-- Catholic priest AND physicist
-
-- Proposed expanding universe theory (1927)
-
-- Called it the "hypothesis of the primeval atom"
-
-- Later called "Big Bang" by others
-
-- Scientific models describe expansion and early cosmic conditions; they do not by themselves establish a theological creation event. The unsupported Einstein quotation is removed.
-
-**No conflict!**
-
-- "Big Bang describes HOW, faith addresses WHY"
-
-- "Science tells us the mechanism, faith tells us the meaning"
-
-- "The more we understand the universe, the more we can appreciate its Creator"
-
-**Faith reflection:** "Psalm 19 says 'the heavens declare the glory of God.' When we look at the scale, the complexity, the beauty of the cosmos — how can we NOT be in awe of the Creator?"
-
-### Personal Response Activity (8 min)
-**Creative response (choose one):**
-
-**Option A: Scale poem**
-Write a poem that expresses the scale of the universe and your response to it.
-
-**Option B: Calculation challenge**
-Calculate: If you sent a message to Proxima Centauri (nearest star) and got a reply, how long would the round trip take? (8.48 years)
-
-**Option C: Cosmic reflection**
-Write a response to this prompt: "What does the scale of the universe tell you about God? About yourself?"
-
-**Share responses briefly.**
-
-### Closing (2 min)
-**Summary:**
-
-- The universe is unimaginably vast
-
-- Catholic scientists have been at the forefront of understanding it
-
-- Scale humbles us but also shows the majesty of the Creator
-
-- Faith and astronomy work together
-
-**Closing Prayer:** "God of the universe, we are tiny before Your creation, yet You know us and love us. Thank You for giving us minds that can explore Your cosmos. Thank You for scientists who help us understand. May we always see Your glory in the heavens. Amen."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-S3 - distinguish distance and size scales; CST-M3 - individual 1 AU/2 AU conversion; CST-C1 - distinguish a scientific model from a theological claim. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY
-
-All scale work is indoors; do not require a 900 m outdoor course or nighttime exposure. Never observe the Sun through optical equipment. Home stargazing is optional and adult-supervised; no routine homework.
-
-- Demonstrated understanding of solar system scale
-
-- Performed cosmic calculations
-
-- Engaged with Catholic astronomy contributions
-
-- Reflected on faith-science connection
-
----
-
-## 📎 Home Connection
-> "We explored astronomy and the scale of the universe! Ask your child about the scale model of the solar system. Ask: 'Who was Fr. Georges Lemaître?' 'What is the Vatican Observatory?' 'How do you feel when you think about how big the universe is?' Look at the stars together tonight. Psalm 19 says they 'declare the glory of God.'"
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Earth and Space |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can convert a consistent distance scale and explain why marker size is not to that scale. Models help reason about distances we cannot directly visit. |
+| Domains / Catholic connection | S, M, C; wonder and humility coexist with evidence; cosmic measurements do not prove theological conclusions. |
+| Local standards | CST-S3: model limit; CST-M3: conversions; CST-C1: evidence/reflection distinction. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; optional projection adds no assessed objective. |
+| Difficulty / entry | Developing; multiplication/division modeled; no prior astronomy. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Distance Scale. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact. Seat 4/5/7/9 teams. Copy fact card below and mark
+Sun zero on a 40 cm paper strip. Teacher measures 10/20/30 cm pilot positions.
+No eight-planet/current-news/biography extension needed to teach the objective.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper strip; fact/reference sheet; ruler; calculator | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper markers | 4/team | 16 | 20 | 28 | 36 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable/reusable; tools reusable. Markers mean paper labels, not planets.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**AU:** distance unit, approximately Earth-Sun average separation.
+**Scale:** consistent model-to-real relationship. **Light-year:** distance light
+travels in a year, not time. **Model limit:** an omitted feature.
+Fact card, paraphrased from [NASA Earth facts](https://science.nasa.gov/earth/facts/)
+checked October 4, 2026: average Earth-Sun distance about 150 million km,
+about 1 AU; sunlight takes about eight minutes to Earth. Teaching scale
+1 AU = 10 cm, so 1 cm represents 15 million km; 2 AU -> 20 cm,
+3 AU -> 30 cm, 0.5 AU -> 5 cm. These last markers are hypothetical positions,
+not named-planet measurements.
+**Common misconception:** a 2 cm Earth marker also models Earth diameter.
+**If asked, "Why not show all sizes accurately?"** At this distance scale
+Earth would be too tiny for these labels; we explicitly use different size.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What does one centimeter stand for?" Brief wonder reflection without numerical theology.
+2. **4-11 (7 min):** Model NASA fact/source card and 150/10 = 15 million km/cm.
+3. **11-24 (13 min):** Rotate placer/measurer/checker; teams place Sun, Earth, hypothetical 2 AU/3 AU markers. Each copies positions and scale equation.
+4. **24-35 (11 min):** Partners deliberately place 2 AU at 12 cm; each diagnoses and corrects. Compare label size versus distance scale; grade-ready half-AU example.
+5. **35-41 (6 min):** Individual conversions 1/2 AU, size-limit sentence and one measured versus faith-reflection distinction.
+6. **41-45 (4 min):** Return rulers/calculators, save diagrams, reuse labels and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What real distance is 20 cm? Are these orbits? Does the label show diameter?"
+Each gets 10/20 cm correct, explains distance-only scale and a belief/evidence
+distinction. 1 unsupported; 2 prompted; 3 independent; 4 solves half AU and
+another limit; NE if missing, not mastery from enthusiasm.
+
+## IF THINGS GO WRONG / SAFETY
+
+No long strip -> two rulers end-to-end on desk; record scale positions.
+No calculators -> scaffold 150/10 and 2x10 by place value.
+No rulers -> teacher-verified marks, tool measurement deferred.
+No Sun observation through eyes/optics, outdoor courses, nighttime homework,
+glass or device accounts. Stop/report unsafe handling.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: marked zero/10, large labels and dictated answers.
+Grade 6/challenge: compute 0.5 AU and explain why circular orbit lines would
+misrepresent a one-dimensional distance model. Entire plan indoors.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count tools, keep individual model/exit, note retaught conversions.
+**Explored:** astronomical scale. **Did:** placed distance markers.
+**Learned:** size/distance scales differ. **Catholic connection:** humble,
+honest wonder. **Ask:** "What did one centimeter represent?" No routine homework.

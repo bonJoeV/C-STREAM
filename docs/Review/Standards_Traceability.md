@@ -9,7 +9,11 @@ description: "A reproducible local-standard to lesson and assessment index"
 - [Download local standards traceability](Standards_Traceability.csv).
 - [Download lesson-to-material terms and reconciliation status](Material_Usage.csv).
 - [Read source-verified K arts candidates](Kindergarten_External_Alignment.md).
+- [Read the all-grade external-candidate guide](External_Alignment.md).
 - [Download the source-specific material reconciliation queue](Material_Reconciliation_Backlog.csv).
+- [Download declared lesson/access resources](Lesson_Resources.csv).
+- [Download planned inventory/resource use by grade](Inventory_Usage_Summary.csv).
+- [Download frozen baseline keys](Lesson_Baseline.csv).
 - [Read the local standards](Local_Standards.md), [learning progression](Learning_Progression.md)
   and [authoritative-source register](Standards_Sources.md).
 
@@ -42,6 +46,11 @@ individual performance evidence specified in the local progression.
 Filter the material-usage CSV by `grade_band`, `schedule` and `rotation` to see
 what the selected lessons name. `item_id` connects an exact canonical/alias
 name to the normalized inventory. This is **text matching only**, not verified
+`reference_kind` separates physical inventory from executable-platform access,
+teacher-prepared documentation and reported holdings. `RESOURCE:*` and
+`STOCK:*` references have no invented purchase price or verified ownership.
+Local access and hardware preflight remain explicit. A manufacturer manual
+is not the circuit kit, and a paper portfolio is not observed student mastery. This is **text matching only**, not verified
 item specifications, quantity sufficiency, ownership or safety. Unmatched and
 ambiguous terms are retained visibly for reconciliation rather than assigned
 an invented substitute. The inventory's verified-use count remains separate
@@ -70,6 +79,12 @@ does not establish official alignment. This enrichment program does not
 replace the school's science, mathematics, arts, ELA, social studies or
 religion curricula.
 
+The separate [exact external matrix](External_Alignment.md) now contains
+29 source-specific candidates using sixteen identifiers. Its verified source
+scope and school/MDE-copy/national-framework boundaries are explicit.
+The general local-map field does not silently upgrade every other standard
+claim to official alignment.
+
 ## Updating and validating
 
 The four band-audit CSVs are the source of the combined maps. From the
@@ -78,7 +93,9 @@ repository root in PowerShell:
 ```powershell
 .\scripts\Build-CurriculumMaps.ps1
 .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
-mkdocs build
+.\scripts\Test-CurriculumMaps.ps1
+.\scripts\Test-LessonReferences.ps1
+mkdocs build --strict
 ```
 
 For the current K version-3.0 reference set, update lesson metadata and the
@@ -99,3 +116,9 @@ and produces a material-term index without guessing unresolved matches.
 after editing the source audits or inventory and include those maps in the change.
 It does not infer official alignment, substitute usability, safety,
 developmental appropriateness or classroom mastery from a passing schema.
+
+The all-grade reference validator compares frozen baseline keys, requires a
+complete package for every selected lesson, checks actual local-code presence,
+contiguous native meeting intervals, class-size coverage and relative links.
+The band reviews retain the separate material-arithmetic/content desk checks.
+Structural validation is not an observed classroom trial.

@@ -1,244 +1,83 @@
 ---
 title: "Week 11: Thanksgiving Data"
-description: "Grades 5-6 Year B data storytelling and gratitude"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - astronomy
-  - thanksgiving
-  - service
-  - arts
+description: "A complete fictional category dataset and honest bar graph"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 📊 Week 11: Thanksgiving Data
+# Week 11: Thanksgiving Data
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | M (Math - Data Science), T (Technology), R (Religion) |
-
----
-
-# Week 11: Thanksgiving Data
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Collect and analyze survey data
-2. Create data visualizations
-3. Tell stories with statistics
-4. Use technology for data presentation
-
-### Faith Integration Objectives
-Students will be able to:
-1. Practice gratitude as spiritual discipline
-2. See blessings through data lens
-3. Share thanksgiving with others
-
----
-
-# Week 11: Thanksgiving Data
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Gratitude and data** - A graph can describe fictional response categories; it does not measure God's generosity, grace, faith, or a person's worth.
-
-### Scripture Connection
-> "Rejoice always, pray continually, give thanks in all circumstances."
-> — 1 Thessalonians 5:16-18
-
-### Saint Connection
-**St. Ignatius of Loyola** — Created the Daily Examen, a practice of reviewing each day to find God's presence. This systematic reflection is like spiritual data collection — noticing patterns of grace!
-
----
-
-## 📚 Materials Needed
-
-- Survey tools (paper or Google Forms)
-
-- Computers/tablets for visualization
-
-- Graphing software or templates
-
-- Data analysis worksheets
-
-- Presentation materials
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-"Thank You, Lord, for more blessings than we can count! Help us use data to see Your generosity more clearly. St. Ignatius, teach us to notice God's presence in our daily lives. Amen."
-
-### The Examen & Data (8 min)
-**Spiritual data collection:**
-
-**St. Ignatius' Daily Examen:**
-1. Become aware of God's presence
-2. Review the day with gratitude
-3. Pay attention to emotions
-4. Choose one feature to pray about
-5. Look forward to tomorrow
-
-**Discussion:**
-
-- "How is this like data collection?"
-
-- "What patterns might you notice?"
-
-- "Why does Ignatius start with gratitude?"
-
-**Data thinking applied:**
-
-- Systematic observation
-
-- Looking for patterns
-
-- Recording findings
-
-- Making meaning from data
-
-- Informing future decisions
-
-### Gratitude Data Collection (12 min)
-**Use a fictional dataset, not a personal survey:** 20 fictional responses: nature 6, helpful actions 5, learning 4, creative play 3, quiet time 2. These are mutually exclusive practice categories, not real class beliefs. Grade 5 counts/graphs; Grade 6 may calculate percentages 30/25/20/15/10.
-
-**Survey topics:**
-1. What are you most thankful for? (categories)
-2. Who are you most thankful for?
-3. What moment this week brought joy?
-4. What blessing do you often take for granted?
-5. Do not collect personal gratitude ratings, names, family circumstances, prayer content, or spiritual rankings.
-
-**Survey process:**
-
-- Create quick survey (paper or digital)
-
-- Everyone completes it
-
-- Collect responses
-
-- Compile class data
-
-**Data categories to track:**
-
-- People (family, friends, teachers)
-
-- Things (home, food, possessions)
-
-- Experiences (events, memories)
-
-- Opportunities (school, activities)
-
-- Faith (God, church, sacraments)
-
-### Data Analysis (10 min)
-**Find patterns in gratitude:**
-
-**Calculate:**
-
-- Most common category of thanks
-
-- Category count/percentage, not a rating of gratitude or faith
-
-- Most mentioned specific blessing
-
-- Interesting outliers
-
-**Create visualizations:**
-
-- Pie chart of gratitude categories
-
-- Bar graph of top blessings
-
-- Word cloud of responses (if tech available)
-
-**Analysis questions:**
-
-- What does our class data reveal?
-
-- What patterns surprise you?
-
-- What do we take for granted?
-
-- How might data inform our prayer?
-
-### Data Storytelling (10 min)
-**Tell the story of gratitude:**
-
-**Create infographic or presentation:**
-
-- Class gratitude by the numbers
-
-- Visual representation of blessings
-
-- Key insights and patterns
-
-- Connection to faith
-
-**Include:**
-
-- At least 2 visualizations
-
-- Key statistics
-
-- One faith insight
-
-- Call to action
-
-**Sharing:**
-
-- Brief presentation to class
-
-- What does our data teach us?
-
-### Closing (3 min)
-**Personal application:**
-
-**St. Ignatius challenge:**
-"This week, try the Daily Examen. Before sleep, ask:
-1. What am I grateful for today?
-2. Where did I see God?
-3. What challenged me?
-4. What do I hope for tomorrow?"
-
-**Journal prompt:**
-
-- Create your own gratitude data tracker
-
-- No routine homework; any personal reflection stays optional and private.
-
-**Closing Prayer:**
-"Thank You, God, for more blessings than we can count! Help us notice Your gifts every day. St. Ignatius, teach us the practice of daily gratitude. May we see patterns of grace in our lives and respond with joy. Bless our families this Thanksgiving season! Amen."
-
----
-
-## 📎 Home Connection
-> "We graphed a fictional practice dataset and discussed gratitude. Ask: 'What can a category graph tell us, and what can it not measure?' No health outcome is promised and no personal spiritual survey was collected. Optional family conversation only; no routine homework."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-M2 - individual's labeled bar graph totaling 20 and one comparison; CST-T3 - identify why personal spiritual data is excluded; CST-C2 - explain a respectful opt-out. Official benchmarks **VERIFICATION REQUIRED**. Do not execute the retained survey prompts on real students; use the supplied fictional categories.
-
-- Designed and conducted survey
-
-- Analyzed data accurately
-
-- Created meaningful visualizations
-
-- Connected data to faith insights
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Data |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can graph five fictional counts totaling 20 and interpret a comparison without measuring anyone's faith. Graphs describe defined categories, not human worth. |
+| Domains / Catholic connection | M, T, C; gratitude may be private/voluntary; dignity means no spiritual ranking. |
+| Local standards | CST-M2: graph/comparison; CST-T3: private-data boundary; CST-C2: opt-out. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; graph paper primary; optional approved spreadsheet only if already working. |
+| Difficulty / entry | Introductory; teach axes/scale; percentages scaffolded for Grade 6. |
+| Prep / cleanup | Light: first 10 min, repeat 5 min; cleanup 4 min. Kit: Category Data. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations. Seat tool teams 4/5/7/9. Copy invented dataset:
+nature 6, helpful actions 5, learning 4, creative play 3, quiet time 2.
+Exactly one category per fictional response; these are not school/class beliefs.
+Do not execute any personal gratitude/faith survey. Draw blank axes 0-6,
+one square = one response, horizontal categories; pilot five bars.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Graph paper; paper exit; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Ruler; marker; dataset sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools reusable, no account/device required.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Category:** group defined for counting. **Frequency:** count.
+**Axis:** graph reference line. **Provenance:** where data came from.
+**Common misconception:** graph counts generosity/grace.
+**If asked, "May I share my thanks?"** Privately/voluntarily, but not this dataset.
+Key: 6+5+4+3+2 = 20; nature minus quiet = 4; nature 6/20 = 30%,
+then 25/20/15/10%, sum 100%. No pie chart required; five bars enable comparison.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What can these fictional counts tell us?" Brief thanksgiving reflection without disclosure.
+2. **4-11 (7 min):** Model axes/one-unit scale, total and honest "fictional" title.
+3. **11-25 (14 min):** Each makes all five bars, labels axes/count units and total; partners check heights without doing work for them.
+4. **25-35 (10 min):** Compare greatest/least/difference; diagnose deliberately missing category in teacher graph and fix. Grade 6 uses percentage scaffold.
+5. **35-41 (6 min):** Individual graph, total 20, difference 4, private-data exclusion and respectful opt-out explanation.
+6. **41-45 (4 min):** Cap/count tools, save graphs, reuse paper backs and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Where did data come from? Are categories overlapping? Can a bar show grace?"
+Each has five correct bars/labels/total, numerical comparison and privacy/
+choice reason. 1 unsupported; 2 prompted; 3 independent; 4 explains another
+representation limit; NE if missing, not handwriting/art grade.
+
+## IF THINGS GO WRONG / SAFETY
+
+Total wrong -> sum original counts; retain corrected work. Graph scale changed
+midway -> redraw consistent zero-based scale. No graph paper -> ruled axes.
+No personal survey, private names/prayers, health promise, public uploading
+or spiritual ranking. Stop/report accidental disclosure.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: labeled axes, one-square units, oral/scribed interpretation.
+Grade 6/challenge: verify percentages total 100 and explain sampling limits.
+Indoor paper path is complete without devices.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep individual graphs, note needed reteaching; count tools.
+**Explored:** category data. **Did:** graphed an invented dataset.
+**Learned:** honest interpretation/privacy. **Catholic connection:** voluntary
+gratitude and dignity. **Ask:** "What can your graph not tell us?"
+No routine homework or home spiritual tracker.

@@ -165,6 +165,35 @@ that the publication, research or credential does not exist.
 
 ## Parent integration: remaining verification requirements
 
+### Scientific-heritage source cards completed
+
+The [updated heritage guide](../Resources/Catholic_Scientists_Heritage.md)
+replaces unsourced quotations/priority claims with original, bounded cards:
+
+| Source | Directly inspected facts and limits |
+|---|---|
+| [Masaryk University Mendel Museum](https://mendelmuseum.muni.cz/en/about-the-museum/mendel-museum) | Augustinian membership/abbacy, pea experiments and original collection/work; not a personal-faith quotation or classroom inheritance protocol. |
+| [Pontifical Academy of Sciences, Lemaitre](https://www.pas.va/en/academicians/deceased/lemaitre.html) | Institutional priest/cosmology/university-role record and 1894-1966 dates; no unsupported sole-discovery or papal-conversation claim. |
+| [Benedict XVI, Albert, March 24, 2010](https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100324.html) | Dominican/natural-discipline history and observation/classification method, explicitly distinct from later scientific methods. |
+| [University of St Andrews, Agnesi](https://mathshistory.st-andrews.ac.uk/Biographies/Agnesi/) | Scholarly secondary history of a mathematical teaching text and Catholic charitable work; not primary personal testimony or a simplistic first-professor claim. |
+
+All were inspected October 4, 2026 and paraphrased. Blocked Observatory
+retrievals/search summaries were not used to upgrade unseen biographical claims.
+The classroom applications assess actual inquiry/communication, not biography
+recall as science mastery.
+
+**Completion-pass source checks, October 4:** normal MDE PDF, Excel
+(`PROD059198`) and annotated-document requests still returned browser
+verification HTML rather than readable benchmark tables; no challenge bypass
+or inferred identifier was used. The Perpich state-agency workbook's exact
+Grades 1-6 visual-arts creation/revision rows were inspected directly.
+The current CSTA publisher viewer's normal public index/detail request also
+returned exact 2026 identifiers and implementation boundaries, including
+grade-specific elementary codes and the Grade 6 middle-school band.
+Only task/evidence matches that meet the inspected scope are proposed;
+neither national publication nor a state-agency copy establishes local
+institutional approval or actual mastery.
+
 **Autonomous follow-up, October 4:** the state-agency 2018 workbook was
 downloaded and its K visual-arts/music rows inspected directly.
 [Twelve source-verified K candidates](Kindergarten_External_Alignment.md)

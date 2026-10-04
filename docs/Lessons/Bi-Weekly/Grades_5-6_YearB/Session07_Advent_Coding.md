@@ -1,258 +1,121 @@
 ---
 title: "Session 7: Advent Coding"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B interactive Advent project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - advent
-  - christmas
-  - arts
----
-
-
-# Session 7: Advent Coding 💫
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 7 of 17
-
-Students create interactive digital Advent experiences, using coding skills to share the Christmas story or Advent traditions.
-
+description: "An executable click/open/reset interaction with accurate Advent content"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 7: Advent Coding
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Computing |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can execute/trace a click event and reset, then revise its message for a reader. Interactive content needs predictable state and clear meaning. |
+| Domains / Catholic connection | T, A, C; Advent preparation for Christ, voluntary reflection and accessible silent controls. |
+| Local standards | CST-T2: event/reset trace; CST-A3: revised message; CST-C2: audience access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Required for actual Scratch programming; paper-event fallback explicitly defers execution. |
+| Difficulty / entry | Introductory; teach event/state/if-else; no advanced platform prerequisite. |
+| Prep / cleanup | Moderate: first 25 min/repeat 15; IT setup extra; cleanup 4 min. |
+
+## BEFORE CLASS / MATERIALS
+
+Check school contact/accommodations and approved Scratch/local save, no
+personal/shared password/publication. Religion teacher confirms seasonal timing.
+Original content: "Advent prepares us to welcome Christ; offer a kind turn today."
+Not a direct Scripture quote or official weekly theme. Seat 4/5/7/9 teams;
+pretest starter, rotate all pupils through an edit/run.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper trace/message sheets | 2/student | 20 | 30 | 40 | 50 |
+| Pencil | 1/student | 10 | 15 | 20 | 25 |
+| Computer with approved Scratch, simultaneous route | 1/team | 4 | 5 | 7 | 9 |
+| Computer with approved Scratch, shared route instead | 3/class alternative | 3 | 3 | 3 | 3 |
+| Paper event/content sheet | 1/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; devices reusable; no Sphero/stock music/images.
+
+### Shared-route kit and turn plan
+
+Select one computer row; no extra demo device or stock is assumed. With three
+approved setups, preload the exact Door starter below and make fresh turn
+copies. Keep 4/5/7/9 balanced groups <=3: two trios/two pairs, five trios,
+six trios/one pair, seven trios/two pairs. Teams 1-3 use **11-19**,
+4-6 **19-27**, 7-9 **27-35**; 10/15 use the last window for retests.
+Each pupil has up to two minutes to restore the missing `opened=0` reset on
+a bug copy, run flag/click/click/flag, record state/output and choose readable
+message wording; two minutes/team allow reset/checking. Waiting pupils trace
+the four states and prepare original/revised message panels.
+Pretest the access/turn workflow. Each pupil edits and runs; watching is not
+operation. Record assistance/NE and defer overlong accessibility checks.
+One/two setups serve that many teams per window; others keep paper evidence
+and book later execution, never form groups of four.
+Shared-route work edits a provided interaction, not a complete calendar.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Event:** trigger. **State:** current value. **Reset:** starting value.
+**Revision:** reasoned change. **Common misconception:** clicking always changes
+state. **If asked, "Is this the whole Advent calendar?"** No; one bounded
+interaction, not four complete weeks.
+One sprite named Door, variable `opened`, original rectangle costume:
+
+```text
+when green flag clicked
+set [opened] to (0)
+say [Click for an Advent invitation]
+
+when this sprite clicked
+if <(opened) = (0)> then
+  set [opened] to (1)
+  say [Advent prepares us to welcome Christ; offer a kind turn today.]
+else
+  say [Already opened; green flag starts again]
+```
+
+Key flag/click/click/flag -> 0/1/1/0; output invitation on first click,
+already opened on second. A single brief original sentence needs no quotation.
+No personal prayer tracking or mandatory spiritual action.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What should second click do?" Connect access/Advent purpose.
+2. **4-11 (7 min):** Model state, condition and starter/key.
+3. **11-25 (14 min):** Teams assemble/run, each pupil edits or executes event; record expected/actual state/output. Shared teams begin the stated waves; waiting pupils trace states.
+4. **25-35 (10 min):** Run four-event tests; intentional missing reset bug, fix/retest. Finish shared waves; peer reads message and asks a question, then revise wording/contrast keeping meaning.
+5. **35-41 (6 min):** Individual trace/reset explanation, before/after message and audience access choice.
+6. **41-45 (4 min):** Save school-only, stop/close devices, save traces and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What value is tested? Why is second click different? What helped the reader?"
+Each has 0/1/1/0 trace, corrected/reset test, purposeful message revision and
+access reason. 1 unsupported; 2 prompted; 3 independent; 4 alternate-sequence
+prediction; NE for unobserved runtime.
+
+## IF THINGS GO WRONG / SAFETY
+
+No approved device -> paper Door/state cards execute same rules, record algorithm
+only. Wrong repeated output -> inspect condition/reset. No public media,
+private prayers, accounts, copied art/music, flashing light or moving robots.
+Stop/report unsafe data/device use.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: large blocks/state cards, oral/scribed trace.
+Grade 6/challenge: explain already-open behavior and revision tradeoff.
+Indoor seated class; no family device/Advent event needed.
 
-- Create interactive narrative with code
+## CLEANUP / FAMILY NEWSLETTER
 
-- Apply programming to faith expression
+Record actual versus paper, save original/revised message and report missing turns.
+**Explored:** events/state. **Did:** tested click/open/reset.
+**Learned:** predictable interaction. **Catholic connection:** Advent and kindness.
+**Ask:** "What happened on second click?" No routine homework.
 
-- Design meaningful Advent experience
-
-- Combine creativity with technical skills
-
----
-
-# Session 7: Advent Coding
-
-## Materials Needed
-
-- 💻 Computers with Scratch
-
-- 📱 Sphero robots (optional)
-
-- 📓 Engineering journals
-
-- ⭐ Advent visual resources
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**The Prophets** — Isaiah, Micah, and others foretold Christ's coming. Advent is about joyful waiting and preparing for the Light of the World!
-
-### Scripture
-> *"The people walking in darkness have seen a great light."* — Isaiah 9:2
-
-### Opening Prayer
-*Dear God, during Advent we prepare our hearts for Jesus. Help us use our coding skills to share the hope and joy of Christmas. May our projects point others to the Light of the World. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Advent Meaning:**
-   - Four weeks of preparation
-   - Waiting in hope
-   - Light in darkness theme
-2. **Interactive Faith Experiences:**
-   - Technology can share faith stories
-   - Interactive > passive learning
-   - Our code can evangelize!
-3. **Project Options:**
-   - Interactive Nativity
-   - Advent calendar experience
-   - Christmas story animation
-   - Light in darkness visualization
-   - Sphero Star of Bethlehem
-
-### Main Activity: Advent Project Creation (31 minutes)
-
-**Part 1: Project Planning (6 minutes)**
-
-**Choose Your Platform:**
-
-- Scratch (interactive story/game)
-
-- Sphero (physical demonstration)
-
-- Combination approach
-
-**Choose Your Focus:**
-
-**Option A: Interactive Nativity**
-
-- Characters tell their perspectives
-
-- User clicks to hear: Mary, Joseph, shepherds, magi
-
-- Scene builds as story unfolds
-
-**Option B: Advent Calendar**
-
-- 4 "doors" (one per week of Advent)
-
-- Each opens to reveal:
-  - Scripture
-  - Advent practice
-  - Interactive element
-
-- Countdown to Christmas
-
-**Option C: Christmas Story Animation**
-
-- Animated retelling
-
-- Key scenes: Annunciation, Journey, Birth, Shepherds, Star
-
-- Narration and visuals
-
-**Option D: Light in Darkness**
-
-- Visual exploration of light/darkness theme
-
-- Interactive: Light grows, darkness recedes
-
-- Connection to Isaiah prophecy
-
-**Option E: Sphero Journey**
-
-- Sphero as Star of Bethlehem
-
-- Leads to Nativity scene
-
-- Programmed light display
-
-**Part 2: Development (22 minutes)**
-
-**For Scratch Projects:**
-
-- Create sprites (Nativity figures)
-
-- Program interactions
-
-- Add narrative elements
-
-- Include Scripture references
-
-- Design user experience
-
-**Key Coding Elements:**
-
-- Events (when clicked, key pressed)
-
-- Dialogue/speech
-
-- Scene changes
-
-- Sound/music
-
-- Variables (if tracking progress)
-
-**For Sphero Projects:**
-
-- Program light sequences
-
-- Create navigation path
-
-- Coordinate multiple Spheros
-
-- Design physical scene interaction
-
-**Part 3: Preview (3 minutes)**
-
-- Quick demonstrations
-
-- Peer feedback
-
-- Note improvements for completion
-
-### Engineering Journal (5 minutes)
-1. Project concept sketch
-2. Programming elements used: ___
-3. Advent message communicated: ___
-4. Write: "Advent is about..."
-5. Write: "Technology can share faith by..."
-
-### Closing Circle (3 minutes)
-1. **Advent Anticipation** — "What are you most waiting for?"
-2. **Light Theme** — "How does your project show light in darkness?"
-3. **Closing Prayer** — *"Lord Jesus, you are the Light of the World. Help us prepare our hearts for your coming and share your light with others. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-T2 - independently trace one event and reset; CST-A3 - communicate/revise one Advent message; CST-C2 - access/audience decision. Limit core to one click event and one response; other scenes are enrichment. Paper event/story cards are **not actual device programming** evidence. Approved Scripture content, image permissions, and public sharing **VERIFICATION REQUIRED**; no home account or routine homework.
-**Observation Checklist:**
-
-- [ ] Created interactive experience
-
-- [ ] Communicated Advent message
-
-- [ ] Applied coding concepts
-
-- [ ] Designed meaningful experience
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler project scope
-
-- Template to modify
-
-- Partner work
-
-### For Advanced Students
-
-- Complete Advent calendar (all 4 weeks)
-
-- Multi-platform integration
-
-- Shareable final product
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your Advent project with family! Practice Advent traditions: wreath, calendar, prayers. Discuss: How does your family prepare for Christmas? Create family digital Advent experience!
-
----
-
-## Teacher Notes
-
-- Projects can continue for sharing
-
-- Display at school Advent event
-
-- Connect to parish/school liturgies
-
-- Copyright-free Nativity images helpful
-
----
-
-**Previous:** [Session 6 — Gratitude Design](./Session06_Gratitude_Design.md)  
-**Next:** [Session 8 — App Design](./Session08_App_Design.md)
+**Previous:** [Gratitude Design](./Session06_Gratitude_Design.md)
+**Next:** [App Design](./Session08_App_Design.md)

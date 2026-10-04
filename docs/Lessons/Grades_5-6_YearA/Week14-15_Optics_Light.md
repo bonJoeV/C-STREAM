@@ -1,366 +1,103 @@
 ---
-title: "Weeks 14-15: Optics & Light Science"
-description: "Grades 5-6 advanced light physics and applications"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - engineering
-  - light
-  - astronomy
-  - service
-  - arts
+title: "Weeks 14-15: Optics and Light Science"
+description: "Reflection, refraction and a two-mirror periscope"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 💡 Weeks 14-15: Optics & Light Science
+# Weeks 14-15: Optics and Light Science
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 2 sessions (45 min each) |
-| **STREAM Focus** | S (Science), T (Technology), R (Religion) |
-
----
-
-# Weeks 14-15: Optics & Light Science
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Explain reflection and refraction with scientific accuracy
-2. Diagram light ray paths through different media
-3. Build and explain optical devices
-4. Apply understanding to real-world technologies
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect Jesus as "Light of the World" to scientific light properties
-2. Understand how light metaphors in Scripture relate to physical light
-3. Appreciate optical science in understanding creation
-
----
-
-# Weeks 14-15: Optics & Light Science
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Light as Theological Symbol** — Light appears throughout Scripture and Catholic tradition as a symbol of God, truth, and salvation. Understanding the physics of light deepens our appreciation of these theological truths.
-
-### Scripture Connection
-> "I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life."
-> — John 8:12
-
-### Saint Connection
-**Robert Grosseteste** - historical bishop associated with optics, not a canonized saint. Detailed biography and philosophical claims: **VERIFICATION REQUIRED**. Do not present medieval theories as current physics.
-
----
-
-## 📚 Materials Needed
-
-- Low-brightness flashlights only; no laser pointers
-
-- Mirrors (plane, concave, convex)
-
-- Lenses (convex, concave)
-
-- Prisms
-
-- Water containers for refraction
-
-- Ray tracing worksheets
-
-- Materials for optical device construction
-
----
-
-# Session 1: Reflection & Refraction
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "God of Light, You created light on the first day of creation. You sent Jesus as the Light of the World. Help us understand the physics of light and see Your truth illuminated through it. Amen."
-
-**Wonder moment:** "Light is the fastest thing in the universe — 186,000 miles per SECOND. Yet we can study it, predict it, and use it. Let's explore how light behaves."
-
-### Reflection Deep Dive (12 min)
-**Law of Reflection:**
-> Angle of incidence = Angle of reflection
-
-**Key terms:**
-
-- **Incident ray** — Light approaching the mirror
-
-- **Reflected ray** — Light bouncing off
-
-- **Normal line** — Perpendicular to surface
-
-- **Angle of incidence** — Angle between incident ray and normal
-
-- **Angle of reflection** — Angle between reflected ray and normal
-
-**Demonstration:**
-1. Shine light at mirror
-2. Measure angles
-3. Verify: always equal!
-
-**Types of mirrors:**
-
-- **Plane mirror:** Flat, virtual image, same size
-
-- **Concave mirror:** Curves inward, can magnify, real or virtual image
-
-- **Convex mirror:** Curves outward, always smaller virtual image, wider view
-
-**Real applications:**
-
-- Car mirrors (convex for wide view)
-
-- Makeup mirrors (concave for magnification)
-
-- Telescope mirrors (concave to gather light)
-
-**Activity:** Ray tracing with plane mirrors — predict and verify reflection angles.
-
-### Refraction Exploration (13 min)
-**What is refraction?**
-
-- Light bends when changing medium
-
-- Different media = different speeds
-
-- Speed change causes direction change
-
-**Snell's Law (conceptual):**
-
-- Light bends TOWARD normal when slowing down (air → water)
-
-- Light bends AWAY from normal when speeding up (water → air)
-
-**Demonstration:**
-1. Pencil in water appears bent
-2. Light through prism separates colors
-3. Light through different lenses
-
-**Lenses:**
-
-- **Convex (converging):** Thicker in middle, brings light together
-
-- **Concave (diverging):** Thinner in middle, spreads light apart
-
-**Real applications:**
-
-- Eyeglasses
-
-- Cameras
-
-- Microscopes
-
-- Telescopes
-
-**Activity:** Refraction observations — document light behavior through water and lenses.
-
-### Faith-Science Connection (5 min)
-**Light symbolism in Scripture:**
-
-- "Let there be light" — First act of creation
-
-- "Light of the World" — Jesus's identity
-
-- "Arise, shine, for your light has come" — Isaiah's prophecy
-
-**Connection:** "Light REVEALS. Physical light lets us see. Jesus, as Light of the World, reveals truth, exposes sin, guides our path. The physics of light helps us understand these metaphors more deeply!"
-
-**History note:** Grosseteste's historical ideas about light are not current physical theory. Use a verified historical source before presenting his views; **VERIFICATION REQUIRED**.
-
-### Preview (2 min)
-"Next session: We'll build optical devices and apply what we've learned!"
-
----
-
-# Session 2: Optical Engineering
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Review (4 min)
-**Prayer:** "Lord, help us apply our understanding of light to create useful things. May our engineering be an act of worship and service. Amen."
-
-**Quick review:**
-
-- What's the law of reflection?
-
-- What causes refraction?
-
-- Convex vs. concave lenses?
-
-### Optical Device Engineering (8 min)
-**Challenge introduction:**
-
-**Option A: Periscope**
-
-- Uses mirrors to see over/around obstacles
-
-- Two plane mirrors at 45° angles
-
-- Application: Submarines, parades, trenches
-
-**Option B: Simple Telescope**
-
-- Uses two convex lenses
-
-- Objective lens gathers light
-
-- Eyepiece lens magnifies
-
-- Application: Astronomy, nature observation
-
-**Option C: Camera Obscura**
-
-- Pinhole projects inverted image
-
-- Basis of all photography
-
-- Application: Understanding how cameras work
-
-**Option D: Kaleidoscope**
-
-- Multiple mirrors create patterns
-
-- Reflection creates symmetry
-
-- Application: Art, understanding reflection angles
-
-**Design requirements:**
-1. Understand the optics involved
-2. Diagram the light path
-3. Build functional device
-4. Explain how it works scientifically
-
-### Design & Diagram (8 min)
-**Planning:**
-
-- Choose your device
-
-- Research/review how it works
-
-- Draw ray diagram showing light path
-
-- Plan construction
-
-**Ray diagram requirements:**
-
-- Show incident and reflected/refracted rays
-
-- Label mirrors and/or lenses
-
-- Indicate angles where relevant
-
-- Show image formation
-
-### Construction (18 min)
-**Build time!**
-
-**Station materials available:**
-
-- Mirrors and mirror holders
-
-- Lenses
-
-- Cardboard tubes
-
-- Tape and glue
-
-- Cardboard for construction
-
-**Teacher circulates:**
-
-- "Explain the ray path in your device"
-
-- "What happens if you change this angle?"
-
-- "Where is the image formed?"
-
-**Troubleshooting guidance:**
-
-- Not working? Check alignment
-
-- Image blurry? Adjust lens position
-
-- Dim? Check for light leaks
-
-### Testing & Demonstration (5 min)
-**Test your device:**
-
-- Does it work as expected?
-
-- Can you explain the optics?
-
-- What would improve it?
-
-**Peer demonstrations:**
-
-- Show your device
-
-- Explain the science
-
-- Let others try it
-
-### Closing Reflection (2 min)
-**Optical engineering applications:**
-
-- Medical imaging
-
-- Communications (fiber optics)
-
-- Photography and film
-
-- Astronomy
-
-- Microscopy
-
-**Faith Connection:** Light is a meaningful theological symbol; reflection/refraction are physical descriptions, not proof of theological claims.
-
-**Closing Prayer:** "God of Light, thank You for the beauty and order in how light works. Thank You for scientists who helped us understand it and engineers who apply it. Help us be light to others, reflecting Your love and truth. Amen."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-S3 - individual reflection/refraction explanation; CST-T1 - safe optical-tool use; CST-A1 - labeled individual ray diagram. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY AND PACING
-
-No lasers or looking at the Sun through any lens, mirror, telescope, periscope, or pinhole device. Use indoor targets and low-brightness flashlights away from eyes; plastic mirrors/lenses preferred, adult handles damage. Keep water in trays away from power. Meeting 1 originally allocated only 37 minutes: use remaining 8 as 4-minute individual diagram/exit and 4-minute cleanup, for 45 total. In meeting 2 reserve the last 4 construction minutes for cleanup preparation and return equipment during closing; devices stay dry and indoors.
-
-### Session 1
-
-- Explained reflection with law of reflection
-
-- Described refraction and lens behavior
-
-- Completed ray tracing activities
-
-- Connected light physics to faith symbolism
-
-### Session 2
-
-- Designed optical device with ray diagram
-
-- Built functional device
-
-- Explained optics scientifically
-
-- Connected learning to applications
-
----
-
-## 📎 Home Connection
-> "We explored advanced light science and built optical devices! Ask your child: 'What's the law of reflection?' 'Why does light bend in water?' 'How does your optical device work?' We connected physical light to Jesus as Light of the World. Look for optics in daily life — glasses, mirrors, cameras. How does understanding light help us appreciate Scripture's light imagery?"
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Physical Science |
+| Time | 2 meetings of 45 minutes; 90 total |
+| Objective / why / big idea | I can distinguish reflection/refraction, draw a ray path and use two mirrors to see an indoor target over a barrier. Optical tools change light paths. |
+| Domains / Catholic connection | S, T, A; light is a meaningful faith symbol, not experimental proof of a theological claim. No historical biography required. |
+| Local standards | CST-S3: physical model; CST-T1: tool/repair; CST-A1: annotated rays. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; inspected physical optical materials still required. |
+| Difficulty / entry | Developing; teach perpendicular/45-degree fold and arrows; no optics prerequisite. |
+| Prep / cleanup | Moderate: first 30 min, repeat 15 min; cleanup 4 min/meeting. Kit: Indoor Optics. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations. Seat 4/5/7/9 teams. Inspect plastic mirrors,
+pre-cut two 45-degree cardboard supports/team using a folded square; no glass.
+Adult portions 100 mL tap water into each transparent plastic observation cup
+using the single graduated measuring cup; keep all cups in trays. The clear
+observation cups are not assumed to have calibrated volume marks.
+Pilot periscope: vertical 20 cm cardboard channel with bottom
+viewing port and top target port; parallel mirrors at 45 degrees, reflecting
+sides facing each other. Trace target -> upper mirror -> lower mirror -> eye.
+Make a 10 cm cardboard barrier and a large indoor target letter, never Sun.
+
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 2 sheets and 1 pencil/student | 20;10 | 30;15 | 40;20 | 50;25 |
+| Plastic mirrors; cardboard supports | 2 each/team | 8 | 10 | 14 | 18 |
+| Cardboard channel; barrier; ruler; cup; tray | 1 each/team | 4 | 5 | 7 | 9 |
+| Plastic graduated measuring cup, advance adult setup | 1/teacher | 1 | 1 | 1 | 1 |
+| Water, adult poured | 100 mL/team | 400 mL | 500 mL | 700 mL | 900 mL |
+| Masking tape | 1 m/team/unit | 4 m | 5 m | 7 m | 9 m |
+| Low-brightness flashlight; board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable or reused; other tools reusable. Flashlight
+is a dry adult tool; no batteries handled by pupils.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Reflection:** change of direction at a surface. **Refraction:** direction
+change at an angled boundary between media. **Ray:** model line for light.
+**Normal:** line perpendicular to surface; reflection angles measured from it.
+At normal incidence a medium change need not bend the ray.
+**Common misconception:** water bends the pencil itself.
+**If asked, "Does light always travel straight?"** In a uniform medium our
+ray model does; boundaries redirect it, and this model omits wave effects.
+45 + 45 = 90 degrees explains the right-angle turn in the ideal mirror model.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: compare light paths
+1. **0-4 (4 min):** Ask "Why does a pencil appear bent in water?" Introduce light-symbol distinction.
+2. **4-11 (7 min):** Demonstrate mirror reflection and cup refraction, dry flashlight away from eyes.
+3. **11-24 (13 min):** Each observes pencil above/below water line, sketches actual appearance and labels boundary. Teams observe an indoor letter reflected by one mirror; rotate holder/observer/recorder.
+4. **24-35 (11 min):** Draw incident/reflected rays and normal on paper; compare model angle pairs 30/30 and 45/45, not claimed measured flashlight angles. Revise a reversed arrow.
+5. **35-41 (6 min):** Each distinguishes reflection/refraction, labels two ray arrows and one model limit.
+6. **41-45 (4 min):** Adult empties cups; pupils dry trays, return mirrors, save diagrams.
+
+### Meeting 2: periscope application
+1. **0-4 (4 min):** Recall boundary versus surface using individual drawings.
+2. **4-11 (7 min):** Show channel/support arrangement, target path and criterion: identify target over 10 cm barrier, no direct view.
+3. **11-24 (13 min):** Teams assemble taped mirrors on pre-cut supports; each draws full three-segment path and takes an observer turn.
+4. **24-35 (11 min):** Test letter behind barrier; record seen/not yet, adjust mirror alignment only, retest. Each child diagnoses one alignment problem.
+5. **35-41 (6 min):** Individual path labels, observed test/repair and reflection-not-refraction explanation.
+6. **41-45 (4 min):** Remove mirrors carefully, save diagrams, count/dry/store kit.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Where is the boundary? Which mirror redirects first? Is the normal the surface?"
+Each has accurate two-process distinction, three-segment arrow path, physical
+turn and repair evidence. 1 unsupported; 2 prompted; 3 independent; 4 identifies
+a ray-model limit; NE for unobserved operation.
+
+## IF THINGS GO WRONG / SAFETY
+
+No image -> check parallel mirrors/ports/target height; no brighter source.
+Missing mirrors -> paper ray tracing only, operation deferred. Missing cup ->
+draw supplied bent-appearance diagram, observation explicitly model-only.
+No lasers, lenses concentrating sunlight, Sun viewing, glass, sharp cutting
+or wet power. Adult handles spills/damage, isolates and reports unsafe kit.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: preassembled channel, large tactile arrows, verbal/scribed
+diagram. Grade 6/challenge: predict effect of one mirror rotation and explain
+angle reference. Always indoors; no telescope or outdoor alternative.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count mirrors, dry cups/trays, cap flashlight, record missing evidence.
+**Explored:** light paths. **Did:** cup observation and periscope tests.
+**Learned:** surfaces/boundaries differ. **Catholic connection:** truthful use of
+light symbolism. **Ask:** "Where did light turn?" No routine homework.

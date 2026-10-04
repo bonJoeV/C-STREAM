@@ -1,255 +1,85 @@
 ---
 title: "Session 17: Year Exhibition"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A year-end celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - circuits
-  - earth-science
-  - service
-  - arts
----
-
-
-# Session 17: Year Exhibition 🎓
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 17 of 17
-
-Students present their portfolios and inventions, celebrating growth and achievement throughout the year.
-
+description: "Individual artifact explanation, revised caption and material stewardship"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 17: Year Exhibition
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Present portfolio of year's work
-
-- Demonstrate inventions and projects
-
-- Reflect on growth and learning
-
-- Celebrate achievements and set future goals
-
----
-
-# Session 17: Year Exhibition
-
-## Materials Needed
-
-- 📓 Engineering journals (full year)
-
-- 🖼️ Projects and inventions
-
-- 📸 Photos from sessions
-
-- 🏆 Certificates/awards
-
-- 🎈 Celebration supplies
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Saints and faith themes** - St. Hildegard, Saint Carlo Acutis, cathedral builders, Psalm 139, St. Thomas Aquinas, St. Katharine Drexel, St. Lucy, Pope Francis, St. Paul. Themes, builders, and living/current leaders are not all canonized saints.
-
-### Scripture
-> *"Well done, good and faithful servant!"* — Matthew 25:21
-
-### Opening Prayer
-*Dear God, thank you for an incredible year of learning and creating. Thank you for each student and their unique gifts. Bless these young engineers as they continue to grow. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Celebration Time!**
-   - "17 sessions of amazing work!"
-   - Review highlights with photos
-2. **Year Journey:**
-   - Design thinking mastery
-   - Advanced programming
-   - Engineering excellence
-   - Faith integration throughout
-3. **Saints We Met:**
-   - Quick review of saint connections
-   - "Their faith inspired our innovation!"
-
-### Main Activity: Exhibition (31 minutes)
-
-**Part 1: Portfolio Preparation (8 minutes)**
-
-- Review engineering journals
-
-- Select highlights:
-  - Best project
-  - Greatest growth moment
-  - Proudest achievement
-  - Most challenging success
-  - Faith-STREAM connection
-
-- Prepare exhibition display
-
-**Part 2: Exhibition Gallery (15 minutes)**
-
-- Set up displays
-
-- Students circulate to view all work
-
-- Presenters explain:
-  - What they created
-  - Skills demonstrated
-  - What they learned
-  - Faith connections
-
-- Visitors ask questions and appreciate
-
-**Part 3: Invention Presentations (5 minutes)**
-
-- Highlight Session 16 inventions
-
-- 1-minute pitches
-
-- Celebrate creativity!
-
-**Part 4: Awards & Recognition (3 minutes)**
-
-- Certificates for all:
-  - "Master Engineer"
-  - "Code Architect"
-  - "Science Explorer"
-  - "Faithful Innovator"
-  - "Design Thinker"
-  - "Perseverance Champion"
-  - Custom recognitions
-
-- Each student recognized for unique strengths!
-
-### Engineering Journal (5 minutes)
-**Final Entry:**
-1. "This year I became..."
-2. "My proudest achievement..."
-3. "Faith and STREAM connect because..."
-4. "Next year I want to..."
-5. "I will use my gifts to..."
-
-### Closing Circle (3 minutes)
-1. **Gratitude** — Each person shares thanks
-2. **Future Vision** — "What will you create next?"
-3. **Final Blessing:**
-
-*Dear God,*
-*Thank you for this year of discovery and growth.*
-*Thank you for brilliant minds and creative hearts.*
-*Thank you for showing us that faith and science work together.*
-*Bless these young engineers and scientists.*
-*May they use their gifts to serve you and others.*
-*May they never stop learning, questioning, and creating.*
-*We ask this through Christ our Lord.*
-*Amen.*
-
-🎓 **CONGRATULATIONS, GRADUATES!** 🎓
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-E3 - one supported technical explanation and limit; CST-A3 - artifact caption revision; CST-C3 - responsible-resource example. Replace enthusiasm/mastery labels with observed evidence. Use paired 60-second artifact exchanges at 25 students; no promise of 25 plenary pitches in five minutes. Acutis/Frassati are saints as of September 7, 2025; other listed themes/people are not all saints. Official benchmarks **VERIFICATION REQUIRED**.
-**Year-End Evaluation:**
-
-- [ ] Presented portfolio effectively
-
-- [ ] Demonstrated significant growth
-
-- [ ] Articulated faith-STREAM connection
-
-- [ ] Shows enthusiasm for continued learning
-
----
-
-## Year A Accomplishments
-
-**Skills encountered; mastery requires individual evidence:**
-
-- ✅ Advanced design thinking
-
-- ✅ Sphero BOLT programming
-
-- ✅ Structural engineering
-
-- ✅ Human body systems
-
-- ✅ Advanced Scratch
-
-- ✅ MIT App Inventor
-
-- ✅ Little Bits electronics
-
-- ✅ Environmental science
-
-- ✅ Newton's Laws
-
-- ✅ Original invention
-
-**Saints & Faith Connections:**
-St. Hildegard; Saint Carlo Acutis; cathedral builders; Psalm 139; St. Thomas Aquinas; St. Katharine Drexel; St. Lucy; Pope Francis; St. Paul; order and moral reasoning (not identical to physical laws).
-
-**Portfolio Includes:**
-
-- Design thinking projects
-
-- Programming projects
-
-- Engineering builds
-
-- Science investigations
-
-- Service projects
-
-- Original invention
-
-- Faith reflections
-
----
-
-## Wonder at Home 🏠
-**Summer C-STREAM Challenge:**
-
-- 🔧 Continue inventing
-
-- 💻 Advance coding skills
-
-- 🔬 Pursue science interests
-
-- 📚 Read about great inventors
-
-- Optional: dismantle only clean cardboard models with adult permission; never appliances, powered devices, batteries, or unknown equipment.
-
-- ❤️ Use skills to serve others
-
-- ✝️ See God in science and innovation
-
----
-
-**You are engineers, scientists, programmers, innovators, and children of God!**
-
-*The world needs what you will create.*
-
----
-
-**Previous:** [Session 16 — Advanced Invention](./Session16_Advanced_Invention.md)
-
----
-
-*End of Grades 5-6 Year A Bi-Weekly C-STREAM Curriculum*
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Communication |
+| Time | 1 meeting of 45 minutes; in-class gallery, not added public event |
+| Objective / why / big idea | I can explain a tested result/limit, revise a caption and justify resource use. Portfolios show evidence, not automatic mastery. |
+| Domains / Catholic connection | E, A, C; celebrate gifts with honest gratitude and care for shared resources. |
+| Local standards | CST-E3: evidence defense; CST-A3: caption revision; CST-C3: reuse reason. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; no live circuits/robot operation. |
+| Difficulty / entry | Developing; assess attended work only, no assumed 17 completed lessons. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Evidence Exhibition. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; retrieve one individual artifact/test/pupil.
+If absent, practice record "Invented card holder: first 1/3 holds, revised
+3/3 at 10 seconds; durability untested." Label practice, not personal growth.
+Seat pairs, odd enrollment trio, share tools in 4/5/7/9 groups. No mandatory
+certificates, celebration food/photos or invitations.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Portfolio/practice record; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper captions/display sheets | 2/student | 20 | 30 | 40 | 50 |
+| Ruler; marker | 1 each/tool team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable/reused; tools/portfolios reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Artifact:** saved work. **Caption:** brief explanation. **Evidence:** recorded
+support. **Limit:** untested question.
+**Common misconception:** "Master Engineer" certificate proves competency.
+**If asked, "Must I show a successful build?"** No; explain honest results/
+revision. Key practice improvement 3-1=2 successful trials, not long-term
+capacity. Frame title/decision/result/limit/resource choice.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Give thanks for opportunities; ask "What can this work actually show?"
+2. **4-11 (7 min):** Model practice caption, clear visual order and source/route labels.
+3. **11-24 (13 min):** Each selects artifact, builds paper display/caption and one future school-task question.
+4. **24-35 (11 min):** Paired two-minute explanations and reader questions; trio fits. Revise caption, preserve before/after; no 25 plenary speeches.
+5. **35-41 (6 min):** Individual supported result/limit, caption revision and reuse/durability reason.
+6. **41-45 (4 min):** Return portfolios, cap/count tools, reuse display backs and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Was it actually operated? Which question changed the caption?"
+Each supplies result/limit, reader-backed revision and resource choice.
+1 unsupported; 2 prompted; 3 independent; 4 tradeoff/next validation;
+NE for missing. Awards/confidence/enthusiasm are not technical assessment.
+
+## IF THINGS GO WRONG / SAFETY
+
+No work -> labeled practice, no invented mastery. No raw test -> mark untested.
+Anxiety -> seated teacher/scribed exchange. No powered demonstrations,
+private photos/health/prayer records, food/balloons or dismantling appliances.
+Stop/report unsafe handling/crowding.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: caption frame, oral/drawn explanation.
+Grade 6/challenge: critique evidence precision and defend resource tradeoff.
+Indoor seated gallery; public event would require separate adult approval/time.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Save each caption/result and actual/practice label; note unfinished checks.
+**Explored:** evidence sharing. **Did:** explained/revised an artifact display.
+**Learned:** limits and stewardship. **Catholic connection:** gifts with gratitude.
+**Ask:** "What did your test not prove?" Optional conversation; no routine homework.
+
+**Previous:** [Advanced Invention](./Session16_Advanced_Invention.md)

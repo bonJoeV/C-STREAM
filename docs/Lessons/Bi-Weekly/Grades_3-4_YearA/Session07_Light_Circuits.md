@@ -82,7 +82,7 @@ stop/report, adult isolates and marks OUT OF SERVICE.
 6. **23-35: Wave B / communicate.** Remaining teams get the identical hardware routine; finished teams peer-check and revise one message detail, record repair evidence and answer individual path/state questions. At smaller enrollment all teams use this window for retests/feedback. Ask: "Where is the gap? What showed the repair worked? What does your message mean?"
 7. **35-40: Cleanup.** Isolate/count/return parts and cells, store dry kits and collect sheets. Record any missing physical turns explicitly.
 
-## Success, support and alternatives
+## Success, support, troubleshooting and indoor fallback
 
 Each child traces a full path, predicts and operates both states twice,
 explains a repair using observed evidence and revises a respectful message.

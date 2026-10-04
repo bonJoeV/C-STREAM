@@ -164,6 +164,14 @@ $inventory = @(Import-Csv -LiteralPath $inventoryPath)
 if ($inventory.Count -eq 0) {
     throw "Empty materials inventory: $inventoryPath"
 }
+$inventoryHeader = @('item_id', 'normalized_name', 'aliases', 'unit', 'unit_cost_estimate_usd',
+    'estimate_date', 'tier', 'grades', 'purpose', 'quantity_10', 'quantity_15', 'quantity_20',
+    'quantity_25', 'quantity_basis', 'reuse', 'annual_replacement_estimate', 'storage', 'safety',
+    'battery_needs', 'verified_lesson_use_count', 'estimated_core_meeting_uses', 'use_count_basis',
+    'school_stock_status', 'supplier_status')
+if (($inventory[0].PSObject.Properties.Name -join ',') -cne ($inventoryHeader -join ',')) {
+    throw 'Invalid materials inventory schema; expected the complete 24-field catalog.'
+}
 $itemIds = [System.Collections.Generic.HashSet[string]]::new(
     [System.StringComparer]::OrdinalIgnoreCase
 )
@@ -171,6 +179,11 @@ $aliases = [System.Collections.Generic.Dictionary[string, object]]::new(
     [System.StringComparer]::OrdinalIgnoreCase
 )
 foreach ($item in $inventory) {
+    foreach ($field in $inventoryHeader) {
+        if ([string]::IsNullOrWhiteSpace($item.$field)) {
+            throw "Missing material field '$field' for $($item.item_id)"
+        }
+    }
     if ([string]::IsNullOrWhiteSpace($item.item_id) -or
         [string]::IsNullOrWhiteSpace($item.normalized_name) -or
         -not $itemIds.Add($item.item_id)) {
@@ -188,6 +201,12 @@ foreach ($item in $inventory) {
             throw "Invalid material quantity_$size for $($item.item_id)"
         }
     }
+    foreach ($field in @('verified_lesson_use_count', 'estimated_core_meeting_uses')) {
+        $count = 0
+        if (-not [int]::TryParse($item.$field, [ref]$count) -or $count -lt 0) {
+            throw "Invalid material evidence-count '$field' for $($item.item_id)"
+        }
+    }
     $names = @($item.normalized_name) + @($item.aliases.Split('|'))
     foreach ($name in $names) {
         $key = $name.Trim()
@@ -201,6 +220,52 @@ foreach ($item in $inventory) {
     }
 }
 $materialRows = [System.Collections.Generic.List[object]]::new()
+$resourcesPath = Join-Path $reviewRoot 'Lesson_Resources.csv'
+$resourceLookup = [System.Collections.Generic.Dictionary[string, object]]::new(
+    [System.StringComparer]::OrdinalIgnoreCase
+)
+if (Test-Path -LiteralPath $resourcesPath -PathType Leaf) {
+    $resourceIds = [System.Collections.Generic.HashSet[string]]::new(
+        [System.StringComparer]::OrdinalIgnoreCase
+    )
+    foreach ($resource in @(Import-Csv -LiteralPath $resourcesPath)) {
+        foreach ($field in @('resource_id', 'canonical_name', 'aliases', 'resource_kind',
+            'source_url', 'acquisition', 'required_checks', 'price_status')) {
+            if ([string]::IsNullOrWhiteSpace($resource.$field)) {
+                throw "Missing resource field '$field' for $($resource.resource_id)"
+            }
+        }
+        if (-not $resourceIds.Add($resource.resource_id)) {
+            throw "Duplicate lesson resource: $($resource.resource_id)"
+        }
+        foreach ($name in @($resource.canonical_name) + @($resource.aliases.Split('|'))) {
+            $name = $name.Trim()
+            if ([string]::IsNullOrWhiteSpace($name) -or $aliases.ContainsKey($name) -or
+                $resourceLookup.ContainsKey($name)) {
+                throw "Duplicate or ambiguous lesson resource name: '$name'"
+            }
+            $resourceLookup.Add($name, $resource)
+        }
+    }
+}
+$holdingsPath = Join-Path $reviewRoot 'Reported_Holdings.csv'
+$snapHolding = @()
+if (Test-Path -LiteralPath $holdingsPath -PathType Leaf) {
+    $snapHolding = @(Import-Csv -LiteralPath $holdingsPath | Where-Object item_id -eq 'OHM-135')
+    if ($snapHolding.Count -gt 1) { throw 'Duplicate reported OHM-135 holding.' }
+    if ($snapHolding.Count -eq 1) {
+        foreach ($field in @('description', 'reported_quantity', 'verification_status')) {
+            $property = $snapHolding[0].PSObject.Properties[$field]
+            if ($null -eq $property -or [string]::IsNullOrWhiteSpace($property.Value)) {
+                throw "Missing reported holding field '$field' for OHM-135."
+            }
+        }
+    }
+}
+$snapNames = @('Snap Circuits STEM Classroom Activity Kit', 'Reported OHM-135 Snap Circuits kit',
+    'Snap Circuits OHM-135', 'Snap Circuits STEM Classroom Activity Kit OHM-135')
+$resolvedStatuses = @('NAME MATCH ONLY - SPECIFICATION REQUIRED',
+    'DECLARED RESOURCE - LOCAL ACCESS REQUIRED', 'REPORTED HOLDING - PREFLIGHT REQUIRED')
 foreach ($row in $lessonRows) {
     $terms = @($row.materials.Split('|') | ForEach-Object { $_.Trim() } | Sort-Object -Unique)
     foreach ($term in $terms) {
@@ -209,6 +274,7 @@ foreach ($row in $lessonRows) {
         }
         $ids = @()
         $match = 'UNMATCHED - RECONCILIATION REQUIRED'
+        $referenceKind = 'unresolved'
         if ($aliases.ContainsKey($term)) {
             $ids = @($aliases[$term] | Sort-Object)
             $match = if ($ids.Count -eq 1) {
@@ -216,11 +282,25 @@ foreach ($row in $lessonRows) {
             } else {
                 'AMBIGUOUS - RECONCILIATION REQUIRED'
             }
+            $referenceKind = 'physical_inventory'
+        } elseif ($resourceLookup.ContainsKey($term)) {
+            $ids = @('RESOURCE:' + $resourceLookup[$term].resource_id)
+            $match = 'DECLARED RESOURCE - LOCAL ACCESS REQUIRED'
+            $referenceKind = $resourceLookup[$term].resource_kind
+        } elseif ($snapNames -contains $term -and $snapHolding.Count -eq 1) {
+            if ($snapHolding[0].reported_quantity -ne '8' -or
+                $snapHolding[0].verification_status -ne 'REPORTED NOT PHYSICALLY VERIFIED') {
+                throw 'Reported holding no longer matches the documented eight uninspected kits.'
+            }
+            $ids = @('STOCK:OHM-135')
+            $match = 'REPORTED HOLDING - PREFLIGHT REQUIRED'
+            $referenceKind = 'reported_stock'
         }
         $materialRows.Add([pscustomobject][ordered]@{
             material_term = $term
             item_id = $ids -join '|'
             match_status = $match
+            reference_kind = $referenceKind
             lesson_path = $row.lesson_path
             grade_band = $row.grade_band
             schedule = $row.schedule
@@ -232,7 +312,7 @@ foreach ($row in $lessonRows) {
 }
 
 $backlogRows = @(
-    $materialRows | Where-Object { $_.match_status -ne 'NAME MATCH ONLY - SPECIFICATION REQUIRED' } |
+    $materialRows | Where-Object { $resolvedStatuses -notcontains $_.match_status } |
     Group-Object material_term | ForEach-Object {
         $term = $_.Name
         $bucket = 'LESSON SPECIFICATION REQUIRED'
@@ -267,6 +347,62 @@ $backlogRows = @(
     } | Sort-Object occurrences -Descending
 )
 $backlogHeader = '"material_term","occurrences","grade_bands","triage_bucket","reason","lesson_paths"'
+$usageSummary = @(
+    $materialRows | Where-Object { $resolvedStatuses -contains $_.match_status } |
+    Group-Object item_id | ForEach-Object {
+        $first = $_.Group[0]
+        $name = $first.item_id
+        if ($first.reference_kind -eq 'physical_inventory') {
+            $matchedItem = @($inventory | Where-Object item_id -eq $first.item_id)
+            if ($matchedItem.Count -ne 1) { throw "Missing physical inventory summary item: $($first.item_id)" }
+            $name = $matchedItem[0].normalized_name
+        } elseif ($first.item_id -like 'RESOURCE:*') {
+            $matchedResource = $resourceLookup.Values | Where-Object {
+                ('RESOURCE:' + $_.resource_id) -eq $first.item_id
+            } | Select-Object -First 1
+            if ($null -eq $matchedResource) { throw "Missing declared resource summary item: $($first.item_id)" }
+            $name = $matchedResource.canonical_name
+        } elseif ($first.item_id -eq 'STOCK:OHM-135') {
+            $name = $snapHolding[0].description
+        }
+        [pscustomobject][ordered]@{
+            reference_id = $first.item_id
+            reference_kind = $first.reference_kind
+            canonical_name = $name
+            grade_bands = @($_.Group.grade_band | Sort-Object -Unique) -join '|'
+            planned_lesson_documents = @($_.Group.lesson_path | Sort-Object -Unique).Count
+            term_occurrences = $_.Count
+            lesson_paths = @($_.Group.lesson_path | Sort-Object -Unique) -join '|'
+            evidence_status = 'PLANNED DOCUMENT USE - NOT OBSERVED USE OR VERIFIED STOCK'
+        }
+    } | Sort-Object reference_kind, canonical_name
+)
+$programMetrics = [ordered]@{
+    lesson_documents = $lessonRows.Count
+    rebuilt_documents = @($lessonRows | Where-Object revision -eq 'rebuilt').Count
+    improved_documents = @($lessonRows | Where-Object revision -eq 'improved').Count
+    unchanged_documents = @($lessonRows | Where-Object revision -eq 'unchanged').Count
+    planned_meetings_all_alternative_tracks = [int](
+        $lessonRows | ForEach-Object { [int]$_.meetings } | Measure-Object -Sum
+    ).Sum
+    local_standard_evidence_links = $traceRows.Count
+    physical_catalog_identities = $inventory.Count
+    declared_resource_identities = @($resourceLookup.Values | ForEach-Object { $_.resource_id } |
+        Sort-Object -Unique).Count
+    material_resource_term_occurrences = $materialRows.Count
+    resolved_physical_name_occurrences = @($materialRows | Where-Object reference_kind -eq 'physical_inventory').Count
+    declared_resource_occurrences = @($materialRows | Where-Object { $_.item_id -like 'RESOURCE:*' }).Count
+    reported_stock_occurrences = @($materialRows | Where-Object reference_kind -eq 'reported_stock').Count
+    unresolved_distinct_terms = $backlogRows.Count
+    unresolved_term_occurrences = @($materialRows | Where-Object { $resolvedStatuses -notcontains $_.match_status }).Count
+}
+$summaryRows = foreach ($metric in $programMetrics.GetEnumerator()) {
+    [pscustomobject][ordered]@{
+        metric = $metric.Key
+        value = $metric.Value
+        evidence_type = 'DOCUMENT INVENTORY AND PLANNED USE; NOT PHYSICAL STOCK OR STUDENT MASTERY'
+    }
+}
 $maps = [ordered]@{
     'Lesson_Map.csv' = @($lessonRows | Sort-Object lesson_path)
     'Standards_Traceability.csv' = @(
@@ -274,6 +410,8 @@ $maps = [ordered]@{
     )
     'Material_Usage.csv' = @($materialRows | Sort-Object grade_band, material_term, lesson_path)
     'Material_Reconciliation_Backlog.csv' = $backlogRows
+    'Inventory_Usage_Summary.csv' = $usageSummary
+    'Program_Summary.csv' = @($summaryRows)
 }
 foreach ($map in $maps.GetEnumerator()) {
     $mapPath = Join-Path $reviewRoot $map.Key

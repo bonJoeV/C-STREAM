@@ -1,288 +1,87 @@
 ---
 title: "Week 1: Welcome Innovators"
-description: "Grades 5-6 Year B opening lesson"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - life-science
-  - astronomy
-  - service
-  - arts
+description: "Innovation norms, a verified scientist card and a measurable project goal"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 💡 Week 1: Welcome Innovators
+# Week 1: Welcome Innovators
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Introduction) |
-
----
-
-# Week 1: Welcome Innovators
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Understand innovation mindset
-2. Preview Year B curriculum themes
-3. Establish collaborative norms
-4. Connect innovation to problem-solving
-
-### Faith Integration Objectives
-Students will be able to:
-1. See innovation as using God-given creativity
-2. Understand Catholic contributions to science
-3. Commit to ethical innovation
-
----
-
-# Week 1: Welcome Innovators
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Innovation for Human Flourishing** — God calls us to use our gifts to serve others. Catholic innovators throughout history have created solutions that improve lives while respecting human dignity. Our creativity is meant to serve the common good.
-
-### Scripture Connection
-> "For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."
-> — Ephesians 2:10
-
-### Saint Connection
-**Catholic Innovators** — The Church has a rich history of innovation:
-
-- **Gregor Mendel** — Father of genetics
-
-- **Georges Lemaître** — Proposed Big Bang theory
-
-- **Sister Mary Kenneth Keller** — First American woman PhD in computer science
-
-- **St. Hildegard of Bingen** — Medieval scientist, herbalist, musician
-
----
-
-## 📚 Materials Needed
-
-- Innovation timeline/images
-
-- Year B curriculum preview
-
-- Design thinking posters
-
-- Innovation journals
-
-- Collaborative agreement materials
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, You gave us minds to think and hands to build! Thank You for the gift of creativity. Help us use our innovation skills to serve others and honor You. Bless all who use science and technology for good. Inspire us this year! Amen."
-
-### What is Innovation? (8 min)
-**Defining innovation:**
-
-**Discussion:**
-
-- What does "innovation" mean?
-
-- How is it different from "invention"?
-
-- Who are innovators you admire?
-
-**Key concepts:**
-
-- **Invention** = Creating something new
-
-- **Innovation** = Improving how we do things
-
-- **Both** = Solving problems creatively
-
-**Innovation mindset:**
-
-- See problems as opportunities
-
-- Learn from failure
-
-- Collaborate with others
-
-- Think about end users
-
-- Consider ethics and impact
-
-### Catholic Innovators (10 min)
-**Faith and innovation together:**
-
-**Gregor Mendel (1822-1884)**
-
-- Augustinian friar
-
-- "Father of Genetics"
-
-- Discovered heredity through pea plants
-
-- His monastery supported his research
-
-- Faith community enabled science!
-
-**Sr. Mary Kenneth Keller (1913-1985)**
-
-- Sisters of Charity nun
-
-- First American woman with CS PhD
-
-- Helped develop BASIC programming
-
-- Founded computer science department
-
-- Source-checked biographical discussion only; the previously unsupported quotation is removed.
-
-**Georges Lemaître (1894-1966)**
-
-- Catholic priest and physicist
-
-- Proposed Big Bang theory
-
-- Showed faith and science unite
-
-- The unsupported quotation is removed. Use [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) for the faith/reason connection. Detailed biographies, including the BASIC-development claim: **VERIFICATION REQUIRED**.
-
-**St. Hildegard of Bingen (1098-1179)**
-
-- Benedictine abbess
-
-- Wrote about medicine, nature, music
-
-- Created her own scientific encyclopedia
-
-- Doctor of the Church
-
-**Discussion:**
-
-- "Why did their faith support their science?"
-
-- "How can we follow their example?"
-
-### Year B Preview (10 min)
-**What's coming this year:**
-
-**Major units:**
-
-- 🧬 **Biotechnology** — DNA, cells, life science applications
-
-- ⚡ **Renewable Energy** — Solar, wind, sustainable power
-
-- 🦎 **Biomimicry** — Learning design from nature
-
-- 📱 **App Development** — Creating mobile applications
-
-- 💼 **Social Entrepreneurship** — Business that serves others
-
-- 🏥 **Health Technology** — Innovations that help people
-
-**Skills you'll develop:**
-
-- Advanced coding (App Inventor)
-
-- Engineering design
-
-- Data analysis
-
-- Entrepreneurial thinking
-
-- Faith integration
-
-- Presentation skills
-
-**Questions:**
-
-- What excites you most?
-
-- What do you want to learn?
-
-- How might you use these skills?
-
-### Innovation Norms (10 min)
-**Establishing our culture:**
-
-**Design thinking principles:**
-1. **Empathize** — Understand others' needs
-2. **Define** — Clarify the problem
-3. **Ideate** — Brainstorm solutions
-4. **Prototype** — Build quick versions
-5. **Test** — Get feedback, improve
-
-**Lab agreements:**
-
-- **Risk-taking** — It's okay to try and fail
-
-- **Respect** — All ideas deserve consideration
-
-- **Responsibility** — Use tools ethically
-
-- **Collaboration** — We're better together
-
-- **Faith lens** — Consider: Does this serve others?
-
-**Create class agreement:**
-
-- Students contribute key principles
-
-- Post in classroom
-
-- All sign commitment
-
-### Innovation Journal Setup (3 min)
-**Create Year B journal:**
-
-**First pages:**
-
-- Title: "Year B Innovation Journal"
-
-- Name and date
-
-- "My innovation goals for this year..."
-
-- "I want to learn..."
-
-- "I hope to create..."
-
-### Closing (2 min)
-**Challenge:**
-"This week, notice a problem in your daily life. Come back ready to share — it could become an innovation project!"
-
-**Closing Prayer:**
-"Lord, thank You for the gift of innovation! Help us be like the Catholic scientists and inventors who used their gifts for good. Give us courage to try new things, wisdom to serve others, and humility to learn from failure. Bless our Year B journey! Amen."
-
----
-
-## 📎 Home Connection
-> "We started Year B today, exploring innovation and Catholic scientists! Ask your child: 'What does innovation mean?' 'Which Catholic innovator was most interesting?' 'What do you want to create this year?' Discuss innovators your family admires and how they've helped others."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-C1 - distinguish a sourced fact from an unverified claim; CST-E1 - individual journal problem/goal with a criterion. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Articulated understanding of innovation
-
-- Engaged with Catholic innovator stories
-
-- Contributed to class agreements
-
-- Set up innovation journal
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Foundations |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can separate a source-supported fact from an overclaim and define a useful innovation criterion. Innovation improves a process for users, not just novelty. |
+| Domains / Catholic connection | C, E; truthful learning and service are compatible with faith. Avoid heroic unsupported histories. |
+| Local standards | CST-C1: fact/limit; CST-E1: user criterion. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; supplied source card and paper prototype. |
+| Difficulty / entry | Introductory; Year B can precede A; teach criteria here. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Innovation Foundations. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; seat 4/5/7/9 teams. Copy source and fictional
+school-task cards below; teacher checks a sample three-word label at 50 cm.
+Provide each pupil journal/record; rotate listener/designer/reader rather
+than assign "expert" partners permanent technical control.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper goal/evidence; pencil; journal | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardstock prototype; source/task sheet; ruler; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardstock consumable; tools/journals reusable, no family sourcing.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Innovation:** changed method/product serving a purpose. **Evidence:** support.
+**Criterion:** checkable success. **Constraint:** real limit.
+**Common misconception:** a famous person's faith proves their science.
+**If asked, "Did Mendel explain every trait?"** No; this source describes
+particular pea experiments; inheritance can be more complex.
+Verified card, paraphrase of [NHGRI Mendel's Peas](https://www.genome.gov/25520230/online-education-kit-1865-mendels-peas),
+checked October 4, 2026: Gregor Mendel was an Augustinian monk; he studied
+pea inheritance, carefully pollinating plants and comparing generations.
+Source does not establish "all traits blend" or a private quotation/belief.
+Fictional user: "I need a clear shared-tool label, not my name on a public
+display." Criterion: read RULER / TAPE / PAPER from 50 cm; constraint one card.
+Worked check: three correct words out of three, not assumed every-user access.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Welcome to B; ask "Who benefits from a new idea?" Brief service reflection.
+2. **4-11 (7 min):** Read verified card; contrast supported fact with "Mendel proved every trait behaves alike."
+3. **11-24 (13 min):** Each records fact/source/limit, writes school-task goal and two label sketches; teams create one prototype.
+4. **24-35 (11 min):** Reader checks three words at 50 cm without hints; revise confusing label; each helps with test. Establish norms: rotate tools, preserve failed results, avoid private data.
+5. **35-41 (6 min):** Individual supported versus unsupported claim, goal criterion/constraint and one listening action.
+6. **41-45 (4 min):** Save goals, cap markers, count tools and reuse paper.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which sentence did the source support? How would you check your goal?"
+Each supplies fact/source/limit and measurable user criterion/constraint.
+1 unsupported; 2 prompted; 3 independent; 4 identifies another needed source;
+NE for missing evidence, not universal leadership certification.
+
+## IF THINGS GO WRONG / SAFETY
+
+Vague goal -> use three-word label. No cardstock -> paper at same quantity.
+Source unavailable online -> supplied verified paraphrase teaches core; no
+unsupervised search or invented replacement biography. No private interviews,
+public photos, ranking faith, sharp tools or outside trip. Report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: source read aloud, criterion stems and scribing.
+Grade 6/challenge: distinguish source-supported history from inference about
+belief; justify a user tradeoff. Indoor plan independent of weather/devices.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Retain individual goals/source answers, count tools, record unfinished checks.
+**Explored:** useful innovation. **Did:** source check and label trial.
+**Learned:** purpose/evidence matter. **Catholic connection:** truth and service.
+**Ask:** "Who was your idea for?" Optional conversation; no routine homework.

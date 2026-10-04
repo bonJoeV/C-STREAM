@@ -26,7 +26,8 @@ keywords: Catholic STEM, STREAM education, Catholic schools curriculum, faith an
 !!! info "2026-27 curriculum review"
     Start with the [curriculum review](Review/README.md) for verified sources,
     local standards, grade progression, lesson audits, low-tech materials and
-    revised teaching plans. Not every legacy lesson is substitute-ready.
+    revised teaching plans. All 251 documents have complete written pathways;
+    actual kit, school approval and classroom-pilot checks remain conditional.
     Local program standards are not official Archdiocesan or Minnesota standards.
 
 C-STREAM represents **Catholic** STEM education that intentionally weaves together faith and reason throughout every aspect of the curriculum. Rather than treating religion as a standalone subject, this framework integrates Catholic identity like "yeast that causes everything to rise."

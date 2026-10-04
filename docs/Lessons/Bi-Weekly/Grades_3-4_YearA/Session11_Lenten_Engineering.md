@@ -1,224 +1,72 @@
 ---
 title: "Session 11: Lenten Engineering"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A Lent service"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - engineering
-  - life-science
-  - earth-science
-  - lent
-  - easter
-  - service
-  - arts
----
-
-
-# Session 11: Lenten Engineering 💜
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 11 of 17
-
-Students apply engineering skills to design service projects during Lent, using technology and design thinking to help others.
-
+description: "A classroom ruler-parking service, user tested and actually handed over"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-E3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Cardstock, Plain paper, Pencils, Metric ruler, Markers]
 ---
 
 # Session 11: Lenten Engineering
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Connect Lenten practices to action
-
-- Identify community needs
-
-- Design a service-oriented solution
-
-- Create prototype or plan for service
-
----
-
-# Session 11: Lenten Engineering
-
-## Materials Needed
-
-- 📦 Prototyping materials
-
-- 📋 Service design worksheets
-
-- 📓 Engineering journals
-
-- 💜 Lent theme decorations
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Vincent de Paul** — Organized charity and service in creative, systematic ways. He was an "engineer of charity"!
-
-### Scripture
-> *"Faith by itself, if it is not accompanied by action, is dead."* — James 2:17
-
-### Opening Prayer
-*Dear Jesus, during Lent we prepare our hearts for Easter. Help us turn our faith into action by serving others. Guide our designs to help those in need. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Lent Season:**
-   - Preparing for Easter
-   - Prayer, Fasting, Almsgiving
-   - 40 days of growing closer to God
-2. **St. Vincent de Paul:**
-   - Didn't just feel sorry for poor—he ORGANIZED help
-   - Created systems to serve more people
-   - "Engineering" charity!
-3. **Our Challenge:**
-   - Use our skills to SERVE
-   - Engineers solve problems—what problems can we solve?
-
-### Main Activity: Service Design Sprint (26 minutes)
-
-**Part 1: Identify Needs (5 minutes)**
-Discussion: Who needs help in our community?
-
-- Elderly neighbors (lonely, need help)
-
-- Homeless (need food, warmth, dignity)
-
-- Sick classmates (need encouragement)
-
-- Environment (needs care)
-
-- Hungry families (need food)
-
-- School community (what needs improvement?)
-
-Select ONE need to address.
-
-**Part 2: Design Sprint (17 minutes)**
-
-**EMPATHIZE (3 min):**
-
-- Who specifically needs help?
-
-- What's their experience like?
-
-- What would REALLY help them?
-
-**IDEATE (3 min):**
-
-- Brainstorm many ideas
-
-- Wild ideas welcome!
-
-- Combine ideas
-
-**PROTOTYPE (8 min):**
-Create a prototype or detailed plan:
-
-- Build model if physical solution
-
-- Write detailed plan if service action
-
-- Create presentation if digital solution
-
-Example Projects:
-
-- Blessing bags assembly system (organize supplies)
-
-- Encouragement card delivery system
-
-- School recycling station design
-
-- Senior visit planning system
-
-- Food drive collection optimizer
-
-**SHARE (3 min):**
-
-- Present to partner or group
-
-- Get feedback
-
-- Refine idea
-
-**Part 3: Action Planning (4 minutes)**
-
-- What can we ACTUALLY do?
-
-- What's our first step?
-
-- Who can help us implement this?
-
-### Engineering Journal (5 minutes)
-1. Describe the need you identified
-2. Draw your solution design
-3. Write: "My plan will help by..."
-4. Write: "My first step is..."
-
-### Closing Circle (3 minutes)
-1. **Commitment** — "What will you DO for Lent?"
-2. **Engineering for Good** — "How can design thinking help others?"
-3. **Closing Prayer** — *"Jesus, help us be like St. Vincent de Paul—turning compassion into action. Bless our Lenten service. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified real community need
-
-- [ ] Applied design process
-
-- [ ] Created viable solution/plan
-
-- [ ] Made service commitment
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-selected service project
-
-- Partner or group work
-
-- Simplified design template
-
-### For Advanced Students
-
-- Full implementation plan
-
-- Research best practices
-
-- Lead class project
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Plan family Lent service together! Rice Bowl, volunteering, visiting elderly, donating items. Use "design thinking" — what does your community really need? How can your family help?
-
----
-
-## Teacher Notes
-
-- Connect to school/parish Lenten initiatives
-
-- Follow up on service implementation
-
-- Consider class service project
-
-- Document for end-of-year portfolio
-
----
-
-**Previous:** [Session 10 — Weather Science](./Session10_Weather_Science.md)  
-**Next:** [Session 12 — Plants & Growth](./Session12_Plants_Growth.md)
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Service design; **one 40-minute meeting**.
+**Objective:** make a ruler-parking mat for the classroom, test retrieval/return
+with a peer, revise and hand over a usable mat to the teacher.
+**Why:** Lenten service can include an actual small useful action, not only a
+promised community project. Catholic/CST-C2 listen/serve respectfully;
+CST-E1 user criterion; CST-E2 real retest; CST-E3 recommendation/limit.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**; introductory.
+Prep 10; cleanup 5. Classroom usefulness tested, no claims of wider social impact.
+
+## Before class and exact supplies
+
+Teacher approves current classroom need: shared rulers get misplaced.
+Teams <=3 (4/5/7/9): one cardstock mat, real ruler, two markers.
+Each pupil evidence sheet/pencil. Teacher board/timer/demo from kit.
+If no actual need/approval, call it fictional prototype, record **service
+handover not completed**, not fabricated benefit. No external partner needed.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Mats; rulers (1/team each) | 4 | 5 | 7 | 9 |
+| Markers (2/team) | 8 | 10 | 14 | 18 |
+| Paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Need = stated difficulty; service = useful action; criterion = tested success;
+handover = actual transfer. **Misconception:** a plan is completed service.
+**If asked "Will this fix all lost tools?"** Two peer tests cannot prove that;
+teacher use over time would be further evidence. Lent's prayer/charity
+application is not a grade for sacrifices or family donations.
+Desk paper/ruler only, no medical/food/disability simulations/private hardships.
+Stop/report damaged tools. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Explain approved need; "What did the user actually request?"
+2. **4-9:** Criterion peer returns ruler to outline and identifies it twice
+   within ten seconds; limit one mat/word AND symbol.
+3. **9-21:** Each sketches feature; team outlines ruler/labels parking location.
+4. **21-30:** Neighbor retrieves/returns twice, record correct cycles 0-2;
+   revise confusing label/outline and repeat twice.
+5. **30-35:** Each child explains need, before/after and limit; teacher accepts
+   approved mats for actual classroom use, logging received/not yet.
+6. **35-40:** Use mats to return real rulers, cap/count/clear, file dated evidence.
+
+## Success/access/troubleshooting
+
+Meets: stated need, actual repeated user tests, justified revision and qualified
+recommendation; service completion separately requires teacher handover.
+Grade 3/support: traced outline/dictation. Grade 4/challenge: contrast/location
+tradeoff and longer-term effectiveness measure. Confusion: change label not
+coach user. No ruler: printed/drawn tool model, function/service shifted and
+physical retrieval not observed. Early finish: new tester, same criterion.
+
+**Family:** We tested and handed over a small classroom service tool. Ask,
+"What did the user test show?" Describe prototype only if handover was not made.

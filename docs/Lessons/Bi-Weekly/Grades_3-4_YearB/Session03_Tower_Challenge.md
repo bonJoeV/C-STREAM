@@ -1,204 +1,71 @@
 ---
 title: "Session 3: Tower Challenge"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B structural engineering"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - astronomy
-  - service
-  - arts
----
-
-
-# Session 3: Tower Challenge 🏗️
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 3 of 17
-
-Students explore structural engineering by building tall towers using KEVA planks, testing height and stability.
-
+description: "A capped KEVA tower, measured standing test and real base revision"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E1, CST-E2, CST-M1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [KEVA planks, Metric ruler, Plain paper, Pencils]
 ---
 
 # Session 3: Tower Challenge
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand principles of tall structure stability
-
-- Apply engineering concepts: base, center of gravity
-
-- Build and test tower structures
-
-- Iterate and improve designs
-
----
-
-# Session 3: Tower Challenge
-
-## Materials Needed
-
-- 📦 KEVA Planks (from CSCOE library)
-
-- 📏 Measuring tape
-
-- 📓 Engineering journals
-
-- 📸 Camera for documentation
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Tower of Babel Reflection** — The Bible story reminds us that our building should glorify God, not ourselves. We build to SERVE!
-
-### Scripture
-> *"Unless the Lord builds the house, the builders labor in vain."* — Psalm 127:1
-
-### Opening Prayer
-*Dear God, you are the master architect of creation. Help us build structures that serve others and give glory to you. Guide our engineering today. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Tall Structures:**
-   - "Why do people build tall?"
-   - Examples: Burj Khalifa, Empire State Building, church spires
-2. **Engineering Principles:**
-   - **Wide Base** — Distributes weight
-   - **Center of Gravity** — Keep it balanced
-   - **Symmetry** — Equal on all sides
-   - **Triangles** — Add strength
-3. **Tower of Babel:**
-   - Built for pride, not service
-   - Our towers serve people and honor God
-4. **Challenge** — "Build the tallest stable tower!"
-
-### Main Activity: Tower Engineering (26 minutes)
-
-**Part 1: The Challenge (3 minutes)**
-
-- Build the tallest FREESTANDING tower
-
-- Must stand for 10 seconds
-
-- Only KEVA planks—no tape, glue, etc.
-
-- Work in pairs
-
-**Part 2: Design & Build (18 minutes)**
-
-**Design Phase (3 min):**
-
-- Sketch tower design
-
-- Think: How will it be stable?
-
-- Plan base structure
-
-**Build Phase (12 min):**
-
-- Start building!
-
-- Remember: Wide base, balanced design
-
-- Test stability as you go
-
-- If it falls—learn and rebuild!
-
-**Measurement (3 min):**
-
-- Final measurement (must stand 10 seconds)
-
-- Record heights
-
-- Document what worked
-
-**Part 3: Analysis (5 minutes)**
-
-- Compare towers:
-  - What design features do the tallest share?
-  - What caused towers to fall?
-
-- Class discussion: Design principles discovered
-
-### Engineering Journal (5 minutes)
-1. Draw your tower design (before and after)
-2. Record: "My tower reached ___ inches/cm"
-3. Write: "The most important design principle is..."
-4. Write: "If I did this again, I would..."
-
-### Closing Circle (3 minutes)
-1. **Height Records** — Celebrate tallest and most creative!
-2. **Service Focus** — "How do tall buildings serve people?"
-3. **Closing Prayer** — *"God, may everything we build serve others and give glory to you. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Applied stability principles
-
-- [ ] Built freestanding structure
-
-- [ ] Iterated after failures
-
-- [ ] Analyzed successful designs
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Starter base structure
-
-- Partner with experienced builder
-
-- Lower height goal
-
-### For Advanced Students
-
-- Height + weight-bearing challenge
-
-- Limited plank count
-
-- Design constraints (specific base size)
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Build towers at home with playing cards, blocks, or other materials! Research the tallest buildings in the world. What makes them stable? Visit a tall building or church steeple!
-
----
-
-## Teacher Notes
-
-- Reserve KEVA planks from CSCOE
-
-- Clear large floor/table space
-
-- Document with photos
-
-- Consider class tower record board
-
-- Great for collaboration skills
-
----
-
-**Previous:** [Session 2 — Ozobot Coding](./Session02_Ozobot_Coding.md)  
-**Next:** [Session 4 — Ecosystems](./Session04_Ecosystems.md)
-
-## SAFETY / evidence limits
-
-Cap towers at 60 cm on low stable surfaces; no climbing, standing beneath structures or dropping planks. Teacher-selected counter loads only for an optional test, at most 10. A wide base/symmetry may help but do not guarantee stability. Each pupil compares a measured height and one test-driven change; plank quantities and cleanup kit remain P1 preparation.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly B; Structures; **one 40-minute meeting**.
+**Objective:** measure two tower versions after ten-second standing tests and
+justify a base revision. **Why:** structural evidence and responsible stock
+use matter more than winning tallest.
+Catholic/CST-C3 count-back/reuse; CST-E1 criteria/limits; CST-E2 retest;
+CST-M1 heights/comparison. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; developing. Prep 15 with stock/loan extra; cleanup 5.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): **30 inspected KEVA planks**, ruler.
+Each pupil two paper sheets/pencil. Teacher board/timer; mark 20 cm square
+desk base; **40 cm cap**, criterion >=15 cm/ten seconds hands-free.
+Demo from kit. Same rectangular blocks may replace all KEVA, label substitution.
+Reuse planks/tools, save records; no camera or weights needed.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Planks (30/team) | 120 | 150 | 210 | 270 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Base = contact footprint; balance = supported arrangement; criterion = success;
+constraint = limit. Wide/symmetric base may help but doesn't guarantee stable
+construction; loose triangles aren't rigid trusses.
+**Misconception:** exceeding cap is achievement. **If asked "Can we climb to
+measure?"** No; lower model only. Religious building stories aren't structural
+evidence. No climbing/throwing/heavy loads/people below structures.
+Stop/report splinters/sliding setup. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How does responsible building serve others?" State criteria/cap.
+2. **4-9:** Model base/hands-free timer/ruler zero.
+3. **9-21:** Each sketches; team builds with 30-plank allowance, rotates roles.
+4. **21-30:** Standing/height test, record; change base only, rebuild/retest
+   with same allowance/base area; record failed result honestly.
+5. **30-35:** Each child gives two heights/pass results, whole-number difference,
+   test-backed revision and reuse choice.
+6. **35-40:** Dismantle top-down/count 30, return rulers, file dated evidence.
+
+## Success/access/troubleshooting
+
+Meets: criterion/constraint, two tests, justified revision/quantity comparison
+and responsible return. Grade 3/support: starter base/tally/scribing.
+Grade 4/challenge: repeat same test, explain height/stability tradeoff, no ratios.
+Immediate fall: record zero, widen/shorten; never add loading challenge.
+Less stock: equal reduced allowance, explicitly adjust plan/criterion.
+Early finish: new repeat, not higher cap. All nine desks work simultaneously.
+
+**Family:** We redesigned stable towers and counted materials back. Ask,
+"Which base change came from evidence?" Optional: notice a building footprint.

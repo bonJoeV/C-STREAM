@@ -1,554 +1,137 @@
 ---
 title: "Weeks 25-28: Health Technology"
-description: "Grades 5-6 Year B medical innovation project"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - robotics
-  - engineering
-  - life-science
-  - astronomy
-  - service
-  - arts
+description: "A dry nonclinical information-interface mockup with consent and access tests"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🏥 Weeks 25-28: Health Technology
+# Weeks 25-28: Health Technology
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 4 sessions (45 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), T (Technology), E (Engineering), R (Religion) |
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Design |
+| Time | 4 meetings of 45 minutes; 180 total |
+| Objective / why / big idea | I can model a clear health-information interface, test navigation on paper and defend consent/access safeguards. Usability evidence is not clinical validation. |
+| Domains / Catholic connection | C, E, A; dignity independent of health/ability, freely given choice and fair access guide design. No compulsory biography, medical history or personal disclosure. |
+| Local standards | CST-C2: dignity/consent; CST-E1: criterion/constraint; CST-E2: test/retest; CST-A2: purposeful layout. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; deliberately nonfunctional paper/cardboard interface. No sensors or clinical measurements. |
+| Difficulty / entry | Developing; teach user need, interface event and test limit. |
+| Prep / cleanup | Moderate: first 25 min, repeat 10 min; cleanup 4 min/meeting. Kit: Health Information Mockup. |
+
+## BEFORE CLASS / MATERIALS
+
+Review school contact/accommodations. Explain no child is a patient or disability
+simulation subject. Seat 4/5/7/9 teams; each child has separate log and turns as
+designer/operator/observer. Copy brief/events/tests below; pilot dry navigation.
+No device account, biomedical sourcing or family interview required.
+
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper dated logs; pencil | 4 sheets and 1 pencil/student | 40;10 | 60;15 | 80;20 | 100;25 |
+| Cardboard screen base | 1/team | 4 | 5 | 7 | 9 |
+| Paper movable screens | 4/team | 16 | 20 | 28 | 36 |
+| Paper brief/event/test sheets | 3/team | 12 | 15 | 21 | 27 |
+| Cardstock button sheet; ruler; marker; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 1 m/team/unit | 4 m | 5 m | 7 m | 9 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable/reusable as practical; tools reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Interface:** controls/messages a user sees. **Consent:** informed choice.
+**Usability:** completing a defined interaction. **Clinical validation:**
+qualified evidence about medical safety/effectiveness, not this activity.
+**Common misconception:** classmates navigating a mockup prove it treats illness.
+**If asked, "May we test a pulse or diagnose?"** No. This task never measures
+health, recommends medicine, attaches to bodies or replaces clinicians.
+Health technology can support diagnosis/treatment/communication under qualified
+oversight; those categories are vocabulary, not claims about a named product.
+
+### Complete fictional brief, interface and key
+
+"A fictional clinic information kiosk user wants to find the general information
+desk, choose paper directions and leave without giving a name. The clinic user
+may decline the kiosk entirely." No real clinic layout or medical advice.
+Four screens: HOME ("Information only; no names; Directions / Paper / Exit");
+DIRECTIONS ("Fictional desk: room A; Back / Exit");
+PAPER ("Ask staff for a paper map; Back / Exit");
+CLOSED ("You may ask staff directly; Home").
+Paper events: Directions from HOME -> DIRECTIONS; Paper from HOME -> PAPER;
+Exit from any open screen -> CLOSED; Back from DIRECTIONS/PAPER -> HOME;
+Home from CLOSED -> HOME. Invalid event leaves screen unchanged with
+"Use a labeled control"; no hidden data.
+Criterion: locate Directions/Paper/Exit without coaching, complete six correct
+event transitions; constraints: four paper screens, no personal input,
+no medical content. Tests: HOME/Directions -> DIRECTIONS; Back -> HOME;
+Paper -> PAPER; Exit -> CLOSED; Home -> HOME; HOME/Back -> unchanged.
+Math: six transitions with one error = 5/6 correct, not a medical accuracy rate.
+Fictional resource comparison: 4 sheets at $0.10 = $0.40 versus 8 sheets
+$0.80; reuse same base, but fewer screens may need clearer navigation.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: understand ethics and requirements
+1. **0-4 (4 min):** Ask "What could a visitor choose not to share?" Establish nonclinical boundary.
+2. **4-11 (7 min):** Read brief; distinguish information, treatment and testing; model consent choice.
+3. **11-24 (13 min):** Each lists three stated needs, one unknown and criterion/constraint; teams sketch two HOME layouts.
+4. **24-35 (11 min):** Work six-transition rules on board; compare four/eight-sheet cost and ethical cases: mandatory name (reject), no paper option (revise).
+5. **35-41 (6 min):** Individual criterion, no-name/decline safeguard and statement of what cannot be tested.
+6. **41-45 (4 min):** Save proposals and return tools.
+
+### Meeting 2: purposeful design
+1. **0-4 (4 min):** Retrieve safeguards; never assume all visitors want a kiosk.
+2. **4-11 (7 min):** Model title/control/output hierarchy, word-plus-icon not color-only.
+3. **11-24 (13 min):** Build all four screens and labeled controls; each makes/explains one purposeful visual choice.
+4. **24-35 (11 min):** Peer finds Directions/Paper/Exit at comfortable seated distance; record location confusion, not vision/ability scores.
+5. **35-41 (6 min):** Individual layout reasoning and one planned improvement; keep original version.
+6. **41-45 (4 min):** Store screens flat, count tools, tidy.
+
+### Meeting 3: test and redesign
+1. **0-4 (4 min):** Name actual navigation issue and criterion.
+2. **4-11 (7 min):** Model expected versus actual on first two tests.
+3. **11-24 (13 min):** Teams run all six transitions with roles rotated; each operates/observes; record correct/incorrect and exact confusion.
+4. **24-35 (11 min):** Revise one label/layout or routing fault; repeat six tests same starting state, retain both records.
+5. **35-41 (6 min):** Individual before/after count, justified change and nonclinical limit.
+6. **41-45 (4 min):** Save logs, stack screens, return kit.
+
+### Meeting 4: defend and release boundaries
+1. **0-4 (4 min):** State mockup not medical device; no efficacy awards.
+2. **4-11 (7 min):** Model defense: need/criterion/layout/test/consent/limit.
+3. **11-24 (13 min):** Each prepares evidence panel and cost/resource choice; complete missing reasoning, no new sensors.
+4. **24-35 (11 min):** Paired-team exchanges; each 45-90 seconds plus question, trio fits. Audience asks what evidence supports usability.
+5. **35-41 (6 min):** Each explains consent/access, criterion, tested revision and professional/organization review still required for real use.
+6. **41-45 (4 min):** Save individual evidence, dismantle dry models, count tools.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Can a user leave? Which result was measured? Does six correct transitions
+show a health benefit?" Each has criterion/constraint, purposeful layout,
+six baseline/retest records, evidence-linked revision and consent/limit.
+1 unsupported; 2 prompted; 3 independent; 4 defends resource/access tradeoff;
+NE for unobserved work. No clinical/student health ratings.
 
----
+## IF THINGS GO WRONG / SAFETY
 
-# Weeks 25-28: Health Technology
+Operator invents behavior -> return to event key and record failed trial.
+Too many screens -> four-screen scope. Missing cardboard -> flat paper retains
+interface objective. No patient testing, body attachment, diagnosis, treatment,
+medicines, sharps, bodily samples, disability simulation, electronics, clinical
+claims or distribution. Stop/report privacy/safety incident; do not collect
+health disclosures even for "empathy".
 
-## 🎯 Learning Objectives
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
 
-### STEM Objectives
-Students will be able to:
-1. Understand how technology improves healthcare
-2. Identify health challenges suitable for innovation
-3. Design assistive or health technology
-4. Consider accessibility in design
+Grade 5/support: prewritten controls, large text, oral/scribed logs; accessible
+role without simulating impairment. Grade 6/challenge: defend invalid-event
+behavior and paper option versus material use. Entire plan indoors.
 
-### Faith Integration Objectives
-Students will be able to:
-1. See healthcare as service to human dignity
-2. Apply Catholic ethics to medical technology
-3. Design with compassion
+## CLEANUP / FAMILY NEWSLETTER
 
----
-
-# Weeks 25-28: Health Technology
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Human dignity in healthcare** - Medical technology should respect people, consent, and access. The unsupported national-size comparison is removed; specific institutional claims require verification.
-
-### Scripture Connection
-> "He heals the brokenhearted and binds up their wounds."
-> — Psalm 147:3
-
-### Saint Connection
-**St. Gianna Beretta Molla** — Modern saint (1922-1962) who was a pediatrician. She combined medical science with deep faith, treating the whole person. She sacrificed her life for her unborn child, showing the sanctity of all life.
-
----
-
-## 📚 Materials Needed
-
-### Week 25
-
-- Health technology examples
-
-- Medical innovation videos
-
-- Research materials
-
-- Ethics case studies
-
-### Week 26-27
-
-- Design materials
-
-- Prototyping supplies
-
-- 3D design software (optional)
-
-- Sensors and electronics (optional)
-
-### Week 28
-
-- Presentation materials
-
-- Testing supplies
-
-- Feedback forms
-
-- Display materials
-
----
-
-## 📝 Week 25 Procedure: Health Technology Overview (45 minutes)
-
-### Opening Prayer (2 min)
-"Healing Lord, You cared for the sick and suffering! Help us learn to use technology for healing. St. Gianna, doctor and saint, pray for us as we explore medicine and technology. Amen."
-
-### Health Technology Revolution (12 min)
-**How technology transforms healthcare:**
-
-**Categories of health tech:**
-
-- **Diagnostics** — Finding problems (imaging, tests)
-
-- **Treatment** — Fixing problems (surgery robots, medicines)
-
-- **Monitoring** — Tracking health (wearables, sensors)
-
-- **Assistive** — Helping function (prosthetics, wheelchairs)
-
-- **Communication** — Connecting people (telemedicine)
-
-**Amazing examples:**
-
-- 3D-printed models and some prosthetic components; research toward tissues/organs is not routine printing of transplantable human organs
-
-- Some evaluated AI tools assist clinicians in specific tasks; do not claim general autonomous diagnostic competence
-
-- Apps that track mental health
-
-- Exoskeletons that help people walk
-
-- Cochlear implants can provide access to sound for some people; outcomes vary and hearing is not restored identically to typical hearing
-
-**St. Gianna's approach:**
-
-- Treated whole person, not just symptoms
-
-- Combined science with compassion
-
-- Saw Christ in every patient
-
-- A verified biographical source is needed for attributed sayings; the unsupported quotation is removed.
-
-### Health Challenges (10 min)
-**Problems worth solving:**
-
-**Brainstorm health challenges:**
-
-- Diabetes management
-
-- Medication reminders
-
-- Physical rehabilitation
-
-- Mental health support
-
-- Accessibility barriers
-
-- Chronic pain management
-
-- Elder care
-
-- Vision/hearing impairment
-
-**For each challenge:**
-
-- Who is affected?
-
-- What makes it hard?
-
-- What technology exists?
-
-- What's still needed?
-
-### Catholic Healthcare Ethics (12 min)
-**Principles for health technology:**
-
-**Key principles:**
-
-- **Dignity of every person** — All life sacred
-
-- **Care for the whole person** — Body, mind, spirit
-
-- **Preferential option for vulnerable** — Serve those most in need
-
-- **Do no harm** — Technology shouldn't hurt
-
-- **Informed consent** — People choose their care
-
-- **Access for all** — Not just wealthy
-
-**Case study discussion:**
-
-**Case: AI Diagnosis**
-
-- Suppose a fictional AI assists one diagnostic task: what validation, human oversight, bias checks, and consent would be needed? No universal doctor-comparison claim is established.
-
-- Should AI replace doctors?
-
-- What's gained? What's lost?
-
-- Catholic perspective?
-
-**Case: Expensive Technology**
-
-- New treatments often cost millions
-
-- Who gets access?
-
-- How should limited resources be shared?
-
-- What does Catholic teaching say?
-
-### Challenge Introduction (8 min)
-**Design Challenge:**
-
-**Create health technology that:**
-
-- Addresses a real health challenge
-
-- Improves quality of life
-
-- Respects human dignity
-
-- Is accessible to those who need it
-
-**Process over next 3 weeks:**
-
-- Week 26: Research and design
-
-- Week 27: Build prototype
-
-- Week 28: Present and demonstrate
-
-**In-class research with fictional user briefs, not routine homework:**
-
-- Identify health challenge to address
-
-- Research existing solutions
-
-- Use a fictional user brief; do not solicit real personal medical histories.
-
-### Closing (1 min)
-**Closing Prayer:**
-"Healing Jesus, help us use technology to bring Your healing to others. St. Gianna, inspire us to see medicine as mission. Amen."
-
----
-
-## 📝 Week 26 Procedure: Research & Design (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, guide our research and design. Help us create technology that truly helps. Amen."
-
-### Research Sharing (8 min)
-**Share findings:**
-
-- What challenge did you choose?
-
-- Who is affected?
-
-- What solutions exist?
-
-- What gaps remain?
-
-### User-Centered Research (12 min)
-**Deep understanding of needs:**
-
-**User empathy map:**
-
-- What do they SAY about their challenge?
-
-- What do they THINK (worries, concerns)?
-
-- What do they FEEL (emotions)?
-
-- What do they DO (current behaviors)?
-
-- What do they NEED?
-
-**Discuss fictional user information only; do not interview or survey:**
-
-- Someone with the health challenge
-
-- Healthcare worker
-
-- Family member/caregiver
-
-**Key insight:**
-"Design WITH people, not FOR people. The user is the expert on their own life."
-
-### Design Phase (18 min)
-**Create your health technology design:**
-
-**Design document:**
-
-**1. Problem Statement**
-
-- Clear description of challenge
-
-- Who faces it
-
-- Current solutions and gaps
-
-**2. Our Solution**
-
-- What we're creating
-
-- How it helps
-
-- Why it's better/different
-
-**3. User Interaction**
-
-- How people use it
-
-- Step-by-step process
-
-- Accessibility considerations
-
-**4. Technical Design**
-
-- How it works
-
-- Materials/components
-
-- Technology involved
-
-**5. Catholic Ethics Check**
-
-- Respects dignity? ✓
-
-- Accessible? ✓
-
-- Does no harm? ✓
-
-- Serves vulnerable? ✓
-
-**Sketch multiple views:**
-
-- Overall appearance
-
-- User interaction points
-
-- Key components
-
-### Closing (5 min)
-**Design review:**
-
-- Partner feedback on designs
-
-- Refinements
-
-**Materials planning:**
-
-- What do you need to build?
-
-- What's available?
-
-- Bring any special items
-
-**Closing Prayer:**
-"Thank You for good ideas, Lord! Help us turn them into reality. Amen."
-
----
-
-## 📝 Week 27 Procedure: Prototype Building (45 minutes)
-
-### Opening Prayer (2 min)
-"Creative God, guide our hands as we build. Help us create something truly helpful. Amen."
-
-### Build Phase (35 min)
-**Create your prototype:**
-
-**Prototype options:**
-
-- Physical model (cardboard, 3D print, found materials)
-
-- Digital mockup (app screens, website)
-
-- Working prototype (with electronics if available)
-
-- Video demonstration concept
-
-**Building tips:**
-
-- Start with basic function
-
-- Add details as time allows
-
-- Test as you build
-
-- Get feedback early
-
-**Quality standards:**
-
-- Clearly shows how it works
-
-- Could be understood by users
-
-- Demonstrates key features
-
-- Reflects dignity and care
-
-**Teacher circulation:**
-
-- Help with technical challenges
-
-- Ask design questions
-
-- Connect back to user needs
-
-- Encourage iteration
-
-### Testing & Feedback (6 min)
-**Peer testing:**
-
-- Have partner use your prototype
-
-- Don't explain — watch them figure it out
-
-- Note confusion points
-
-- Get honest feedback
-
-**Feedback to collect:**
-
-- What's clear?
-
-- What's confusing?
-
-- What would help the user?
-
-- What would you improve?
-
-### Closing (2 min)
-**Final preparations:**
-
-- What needs finishing?
-
-- Prepare presentation
-
-- Practice demonstration
-
-**Closing Prayer:**
-"Thank You for progress! Help us finish well and present clearly. Amen."
-
----
-
-## 📝 Week 28 Procedure: Health Tech Showcase (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, bless our presentations. May our work honor You and serve those in need. St. Gianna, celebrate with us! Amen."
-
-### Final Polish (5 min)
-**Last preparations:**
-
-- Finish any details
-
-- Set up presentation
-
-- Prepare demonstration
-
-- Practice pitch
-
-### Health Technology Showcase (30 min)
-**Present your innovations:**
-
-**Presentation format (5-6 min each):**
-1. Health challenge addressed
-2. User needs and empathy
-3. Your solution
-4. Demo/show prototype
-5. Catholic ethics connection
-6. Impact and next steps
-7. Q&A
-
-**Audience:**
-
-- Ask questions
-
-- Consider: Would this help?
-
-- Note innovation and compassion
-
-- Provide constructive feedback
-
-### Evaluation & Awards (5 min)
-**Recognition:**
-
-- Most Innovative Solution
-
-- Best User Research
-
-- Greatest Accessibility
-
-- Strongest Ethics Integration
-
-- Most Feasible
-
-- Best Presentation
-
-**Discussion:**
-
-- "What did this unit teach you about healthcare?"
-
-- "How can technology serve human dignity?"
-
-- "What surprised you about health challenges?"
-
-### Reflection (3 min)
-**Looking forward:**
-
-- Could your design become real?
-
-- What further development needed?
-
-- How might you pursue this interest?
-
-**Connection to future:**
-
-- Healthcare careers
-
-- Biomedical engineering
-
-- Medical mission work
-
-- Health policy
-
-**Closing Prayer:**
-"Thank You, God, for the gift of medicine and technology! Thank You for teaching us to care for the sick and suffering. St. Gianna, inspire us to see healthcare as sacred service. Help us always use technology to serve human dignity. May our work bring healing and hope to those who need it most. Bless all who work in healthcare! Amen."
-
----
-
-## 📎 Home Connection
-> "We completed a Health Technology unit! Ask your child: 'What health challenge did you address?' 'What did you create?' 'How does Catholic ethics apply to healthcare?' Discuss healthcare in your family — what technologies have helped? How do faith and medicine connect?"
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-C2 - individual dignity/consent decision; CST-E1 - criterion and constraint; CST-E2 - test/revision; CST-A2 - purposeful accessible interface/model. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY AND CLINICAL BOUNDARIES
-
-Classroom nonfunctional cardboard models only; no diagnosis, treatment, medicine, sharps, body attachment, patient testing, disability simulation, or therapeutic claims. Never test prototypes on bodies or distribute assistive/safety devices. All comparisons use fictional users; additional saint biography and medical-history claims **VERIFICATION REQUIRED**. Any electronics must use an inspected protected-AA kit; no button cells or improvised power.
-
-- Researched health challenge thoroughly
-
-- Applied user-centered design
-
-- Created functional prototype
-
-- Demonstrated Catholic ethics integration
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+Save actual test counts and limits, recycle bases, cap/count tools, report gaps.
+**Explored:** information-interface design. **Did:** tested a fictional dry
+kiosk mockup. **Learned:** usability isn't medical effectiveness.
+**Catholic connection:** consent, dignity and access. **Ask:** "What did your
+test not prove?" No routine homework, personal health interview or therapeutic claim.

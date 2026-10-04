@@ -1,310 +1,85 @@
 ---
 title: "Week 34: Year B Exhibition"
-description: "Grades 5-6 Year B final showcase and celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - light
-  - earth-science
-  - astronomy
-  - service
-  - arts
+description: "A complete evidence gallery without universal mastery or event claims"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎉 Week 34: Year B Exhibition
+# Week 34: Year B Exhibition
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Celebration) |
-
----
-
-# Week 34: Year B Exhibition
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Curate portfolio of Year B work
-2. Present achievements professionally
-3. Reflect on growth and learning
-4. Demonstrate skills developed
-
-### Faith Integration Objectives
-Students will be able to:
-1. Give thanks for learning opportunities
-2. Recognize God's presence throughout year
-3. Celebrate as faith community
-
----
-
-# Week 34: Year B Exhibition
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Celebration & Gratitude** — We conclude Year B giving thanks to God for curious minds, dedicated teachers, and opportunities to explore His creation. We celebrate growth in both knowledge and faith!
-
-### Scripture Connection
-> "I thank my God every time I remember you... being confident of this, that he who began a good work in you will carry it on to completion."
-> — Philippians 1:3, 6
-
-### Saint Connection
-All Year B Saints! — St. Hildegard, St. Francis, St. Isidore of Seville, St. Gianna, St. Vincent de Paul, and many more showed us how faith and learning unite. We stand on the shoulders of giants!
-
----
-
-## 📚 Materials Needed
-
-- Student portfolios
-
-- Display materials
-
-- Certificates/awards
-
-- Celebration supplies
-
-- Reflection sheets
-
-- Photography equipment
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-"Thank You, God, for Year B! Thank You for biotechnology, renewable energy, biomimicry, apps, social enterprises, health technology, and environmental monitoring. Thank You for the saints who inspired us and the skills we developed. We are grateful! Amen."
-
-### Year B Journey (10 min)
-**Review our year:**
-
-**First Semester:**
-
-- 🧬 Biotechnology — "What did you learn about cells and DNA?"
-
-- ⚡ Renewable Energy — "How did Laudato Si' inspire you?"
-
-- 🦎 Biomimicry — "What nature design impressed you most?"
-
-- 📱 App Development — "What app did you create?"
-
-**Second Semester:**
-
-- 💼 Social Entrepreneurship — "What business did you design?"
-
-- 🏥 Health Technology — "What health challenge did you address?"
-
-- 🌍 Environmental Monitoring — "What data did you collect?"
-
-**Faith connections:**
-
-- Which saint inspired you most?
-
-- How did faith shape your projects?
-
-- How did STREAM deepen your faith?
-
-**Growth reflection:**
-
-- "What could you do now that you couldn't do in September?"
-
-- "How have you changed?"
-
-- "What are you most proud of?"
-
-### Portfolio Curation (12 min)
-**Select your best work:**
-
-**Choose 3-5 pieces representing:**
-
-- Your best project
-
-- Your greatest growth
-
-- Your favorite memory
-
-- Your faith integration
-
-- Something that challenged you
-
-**For each piece:**
-
-- Why did you choose it?
-
-- What does it show about your learning?
-
-- What would you do differently now?
-
-**Create exhibition display:**
-
-- Arrange work attractively
-
-- Add brief explanations
-
-- Include your reflection
-
-### Exhibition Showcase (15 min)
-**Gallery walk and presentations:**
-
-**Part 1: Gallery Walk (8 min)**
-
-- Set up displays
-
-- Walk around viewing others' work
-
-- Leave sticky note compliments/comments
-
-- Notice growth and creativity
-
-**Part 2: Spotlight Presentations (7 min)**
-
-- Select students share highlights
-
-- Brief presentations of key projects
-
-- Celebrate standout achievements
-
-### Awards & Recognition (4 min)
-**Celebrate everyone:**
-
-**Category awards:**
-
-- Innovation Excellence
-
-- Outstanding Faith Integration
-
-- Service & Impact Award
-
-- Perseverance Champion
-
-- Collaboration Star
-
-- Leadership Award
-
-- Creative Problem-Solver
-
-- Best Portfolio
-
-**Class achievements:**
-
-- Total apps created
-
-- Total social enterprises designed
-
-- Environmental data collected
-
-- Service hours contributed
-
-- Skills developed
-
-### Looking Forward (2 min)
-**What comes next:**
-
-**For rising 7th graders:**
-
-- Take these skills to middle school
-
-- Continue exploring interests
-
-- Remember faith-reason integration
-
-- Stay curious!
-
-**For returning 6th graders:**
-
-- Year A awaits with new challenges!
-
-- Different projects, same growth
-
-- Build on what you've learned
-
-**Summer challenge:**
-
-- Keep creating
-
-- Keep serving
-
-- Keep questioning
-
-- Keep praying
-
-**Closing Prayer:**
-"Thank You, God, for this amazing Year B! Thank You for every cell, every solar panel, every app, every business plan, every health innovation, and every data point. Thank You for teaching us that faith and science work together. Thank You for saints who inspire us and teachers who guide us. Thank You for classmates who learned alongside us.
-
-As we end this year, we're grateful for growth in knowledge and in faith. Help us use everything we've learned to serve You and serve others. Wherever we go next, may we always be people who wonder, create, and believe.
-
-St. Hildegard, St. Francis, St. Isidore, St. Gianna — all you holy men and women who showed us faith and reason unite — pray for us!
-
-We are STREAM students! We explore God's world with curious minds and faithful hearts!
-
-Amen!"
-
----
-
-## Year B Accomplishments Summary
-
-**Your child explored:**
-
-- 🧬 **Biotechnology:** Cells, DNA, biotech ethics
-
-- ⚡ **Renewable Energy:** Solar, wind, Laudato Si'
-
-- 🦎 **Biomimicry:** Nature-inspired design
-
-- 📱 **App Development:** MIT App Inventor
-
-- 💼 **Social Entrepreneurship:** Business for good
-
-- 🏥 **Health Technology:** Medical innovation
-
-- 🌍 **Environmental Monitoring:** Data for stewardship
-
-**STREAM skills encountered; mastery requires individual evidence:**
-
-- Advanced coding and app creation
-
-- Engineering design process
-
-- Data collection and analysis
-
-- Business model development
-
-- User-centered design
-
-- Ethical reasoning
-
-- Faith integration throughout
-
-**Congratulations on completing Year B!**
-
----
-
-## 📎 Home Connection
-> "We celebrated Year B today! What an incredible year of learning and growth! Ask your child to share their portfolio and tell you about their favorite projects. Thank you for supporting Catholic STREAM education. Keep exploring, keep creating, keep believing!"
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-E3 - explain one tested result and limit; CST-A3 - revise one artifact caption after a peer question; CST-C3 - explain responsible resource use. Each student supplies evidence; spotlight selection and awards do not establish mastery. Official benchmarks **VERIFICATION REQUIRED**. Photos/media remain school-controlled with required consent.
-
-- Curated quality portfolio
-
-- Reflected meaningfully on growth
-
-- Participated in celebration
-
-- Expressed gratitude
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Communication |
+| Time | 1 meeting of 45 minutes; in-class exhibition |
+| Objective / why / big idea | I can explain a recorded result/limit, revise a caption and defend a resource decision. Curating evidence makes learning visible without assuming mastery. |
+| Domains / Catholic connection | E, A, C; gratitude for gifts, responsible sharing and material care. |
+| Local standards | CST-E3: technical defense; CST-A3: caption revision; CST-C3: resource reason. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper portfolios, no live powered models. |
+| Difficulty / entry | Developing; no Year A prerequisite, assess attended work only. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Year B Evidence Gallery. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations. Retrieve one or two artifacts/raw records/pupil.
+Supply fallback practice card: "Fictional routing test first 4/6 correct,
+after clearer labels 6/6; no medical effectiveness tested." Label invented,
+not student's achievement. Pair for seated exchanges, odd enrollment trio;
+no obligatory guests/photos/awards or schoolwide event assumed.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Portfolio/practice card; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper captions/display | 2/student | 20 | 30 | 40 | 50 |
+| Ruler; marker | 1 each/tool team of <=3 | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools/portfolios reusable. Reuse display backs.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Curate:** select for purpose. **Caption:** evidence explanation.
+**Tradeoff:** choice with costs. **Limit:** what was not tested.
+**Common misconception:** polished display or award equals technical mastery.
+**If asked, "Can I compare to Year A?"** Only actual saved work from attendance;
+no presumed two-year journey. Key practice difference 6-4=2 more correct
+transitions; that is not a clinical improvement.
+Frame: user/question, decision, recorded result, limit, material choice.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Give thanks; ask "Which result supports your strongest claim?"
+2. **4-11 (7 min):** Model practice caption with count/limit and purposeful title hierarchy.
+3. **11-24 (13 min):** Each selects evidence and makes one display, original caption and next learning question.
+4. **24-35 (11 min):** Two-minute paired defenses with reader question; trios fit. Revise caption to clarify data/limit; teacher samples while all retain records.
+5. **35-41 (6 min):** Each submits old/new caption, technical explanation and resource reuse reason.
+6. **41-45 (4 min):** Return artifacts, cap/count tools, save records and clear tables.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Was it simulated or physical? What did it not prove? Why keep raw results?"
+Each shows result/limit, specific revision and stewardship reason. 1 unsupported;
+2 prompted; 3 independent; 4 compares evidence/tradeoff; NE if absent.
+Spotlight selection never substitutes for each child's evidence.
+
+## IF THINGS GO WRONG / SAFETY
+
+No portfolio -> practice card, not fictional personal growth. No test record
+-> label untested, explain next test. Anxiety -> seated/scribed explanation.
+No private health/faith displays, identifiable photos, refreshments, live
+electrical demonstrations or unsafe crowding. Stop/report unsafe condition;
+visitors require separate school approval.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: caption frame/large text and oral evidence.
+Grade 6/challenge: defend uncertainty and next validation priority.
+Indoor seated exhibition is complete without devices/outdoor access.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Store captions/results, record actual/practice route and missing checks.
+**Explored:** communicating evidence. **Did:** curated/shared/revised.
+**Learned:** celebrations need honest claims. **Catholic connection:** gratitude
+and stewardship. **Ask:** "What did your model not show?" No routine homework.

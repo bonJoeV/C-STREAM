@@ -1,237 +1,95 @@
 ---
 title: "Week 1: Welcome to C-STREAM"
-description: "Grades 5-6 introduction with leadership focus"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - service
-  - arts
+description: "Faith, evidence, school-task goals and collaborative leadership"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🚀 Week 1: Welcome to C-STREAM
+# Week 1: Welcome to C-STREAM
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | Introduction to all STREAM areas with leadership emphasis |
-
----
-
-# Week 1: Welcome to C-STREAM
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Explain the C-STREAM philosophy and approach
-2. Set advanced learning goals for the year
-3. Understand the expectations for upper-grade STREAM students
-4. Begin developing leadership mindset
-
-### Faith Integration Objectives
-Students will be able to:
-1. Articulate the Catholic understanding of faith and reason
-2. Commit to being faith-leaders in STREAM
-3. Recognize their role as role models for younger students
-
----
-
-# Week 1: Welcome to C-STREAM
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Faith and Reason as Wings** — Pope St. John Paul II wrote in "Fides et Ratio" that faith and reason are "like two wings on which the human spirit rises to the contemplation of truth." As upper-grade students, you become witnesses to this harmony.
-
-### Scripture Connection
-> "Do not conform to the pattern of this world, but be transformed by the renewing of your mind."
-> — Romans 12:2
-
-### Saint Connection
-**St. Thomas Aquinas** - Catholic philosopher and theologian associated with reasoning about faith. Detailed biography and historical claims: **VERIFICATION REQUIRED** before using a source card. Do not claim a classroom activity proves God's existence.
-
----
-
-## 📚 Materials Needed
-
-- C-STREAM vision poster
-
-- Goal-setting worksheets
-
-- Leadership reflection journals
-
-- Fides et Ratio excerpt (simplified)
-
-- Student interest surveys
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (6 min)
-**Prayer:** "Lord, You gave us minds to seek truth and hearts to seek You. As we begin this year of C-STREAM, unite our learning and our faith. Make us leaders who show others that knowing You and knowing Your creation go together. Transform our minds. Amen."
-
-**Upper-Grade Welcome:**
-
-- "You're the senior STREAM students in our school"
-
-- "This year, you'll lead, create, and mentor"
-
-- "Let's make this year extraordinary!"
-
-### Faith and Reason Deep Dive (12 min)
-**Explore the relationship:**
-
-**Key teaching:** Faith and reason are NOT enemies!
-
-- Some people think you have to choose — that's FALSE
-
-- Catholics affirm the compatibility of faith and reason; historical episodes require careful, sourced discussion
-
-- Many great scientists were (and are) people of faith
-
-**Pope St. John Paul II's insight:**
-> "Faith and reason are like two wings on which the human spirit rises to the contemplation of truth."
-
-**Discussion:**
-
-- "What does this mean?"
-
-- "How can faith HELP science?"
-
-- "How can science DEEPEN faith?"
-
-**Examples:**
-
-- Science asks HOW — Faith asks WHY
-
-- Science reveals CREATION — Faith reveals CREATOR
-
-- Truth cannot contradict truth!
-
-**St. Thomas Aquinas:**
-
-- Combined the best of ancient philosophy with Christian faith
-
-- Showed that reason leads to God
-
-- His work is still studied 800 years later!
-
-**Challenge:** "This year, YOU will live this harmony. You'll show younger students that faith and learning belong together."
-
-### Advanced Goal Setting (15 min)
-**Goal areas:**
-
-**1. STREAM Skills**
-
-- What technical skill do you want to master?
-
-- What project do you want to create?
-
-- What area do you want to explore deeply?
-
-**2. Leadership**
-
-- How will you help younger students?
-
-- What example will you set?
-
-- How will you contribute to our community?
-
-**3. Faith Integration**
-
-- How will you grow spiritually through STREAM?
-
-- How will you help others see faith in learning?
-
-- What Catholic scientist or saint inspires you?
-
-**SMART goal development:**
-Students write one detailed goal for each area using SMART framework.
-
-**Partner share:** Discuss goals and commit to accountability.
-
-### Community Expectations (8 min)
-**Upper-grade expectations:**
-
-**Excellence:**
-
-- Highest quality work
-
-- Going beyond minimum requirements
-
-- Pursuing mastery, not just completion
-
-**Leadership:**
-
-- Modeling positive behavior
-
-- Helping classmates and younger students
-
-- Taking initiative
-
-**Faith Integration:**
-
-- Leading prayer with understanding
-
-- Making explicit faith connections
-
-- Being witnesses to faith-reason harmony
-
-**Collaboration:**
-
-- Working effectively in teams
-
-- Giving and receiving constructive feedback
-
-- Building others up
-
-**Create class covenant:** Students contribute to commitments.
-
-### Closing & Vision Casting (4 min)
-**Preview exciting year:**
-
-- Advanced coding and robotics
-
-- micro:bit physical computing
-
-- Independent projects
-
-- Leadership opportunities
-
-- Capstone showcase
-
-**Faith Connection:** Honest inquiry and careful reasoning matter in our Catholic classroom. Do not use an attributed quotation without checking its original source. The verified faith/reason source is [Fides et Ratio, opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html).
-
-**Closing Prayer:** "Lord, we commit this year to You. Transform our minds through learning. Strengthen our faith through discovery. Make us leaders who show the world that faith and reason are wings that lift us to You. Amen."
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-C1 - distinguish a sourced fact from an unverified historical claim; CST-E1 - one project-goal criterion and constraint. Each student supplies these with the SMART goal; prayer participation is not a mastery measure. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Articulated faith-reason relationship
-
-- Set SMART goals for skills, leadership, and faith
-
-- Contributed to community expectations
-
-- Demonstrated leadership mindset
-
----
-
-## 📎 Home Connection
-> "Your child is beginning their year as a senior C-STREAM student! We discussed how faith and reason work together. Ask your child: 'What did you learn about faith and reason?' 'What are your goals this year?' 'How will you be a leader?' As upper-grade students, they'll model excellence and faith integration. Thank you for your partnership!"
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Foundations |
+| Time | 1 meeting of 45 minutes, cleanup included |
+| Objective / big idea | I can distinguish a supported claim from an assumption and define a measurable school-project goal. Good leaders listen and check evidence. |
+| Why / domains | Everyday decisions need honest reasons; C, E, with measurement entry practice. |
+| Catholic connection | Faith and reason seek truth together; leadership serves rather than ranks people. Paraphrase of [Fides et Ratio, opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html), checked October 4, 2026. No biography or quotation required. |
+| Local standards | CST-C1: supported/unsupported distinction; CST-E1: criterion and constraint. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; hands-on inspection and goal planning suffice. |
+| Difficulty / entry | Introductory; teach cm measurement and criterion versus constraint here. No Year B prerequisite. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min included. Kit: Foundations; school records actual location/contact. |
+
+## BEFORE CLASS
+
+1. Review accommodations, school emergency procedures and contact. Seat teams of at most three: 4/5/7/9 for 10/15/20/25 pupils; rotate measurer, reader, checker.
+2. Draw a 10 cm line on each team sheet; verify with a ruler. Copy the claim cards below onto the same sheet.
+3. Put materials at seats. Draw headings Observation / Prediction / Faith reflection / Needs a source. Do not request private spiritual goals.
+
+## MATERIALS
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper: goal and exit | 2/student | 20 | 30 | 40 | 50 |
+| Pencil; journal | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper: line and claim cards | 1/team | 4 | 5 | 7 | 9 |
+| Ruler; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; evidence roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper is consumable; tools/journals reusable. No family sourcing.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Evidence:** information supporting a claim. **Criterion:** what success must do.
+**Constraint:** a limit. **Leadership:** enabling others to contribute.
+The important concept is that a goal needs a check, not a mastery label.
+**Common misconception:** an appealing statement is already verified.
+**If asked, "Does measuring prove faith?"** No; measurement answers a physical
+question. Faith reflection and evidence have distinct roles, not an exclusive
+science-HOW/faith-WHY division.
+
+**Complete cards/key:** A: "Our line measures 10 cm" (inspect and measure;
+observation if confirmed). B: "Every cathedral took exactly 100 years to build"
+(unsupported historical absolute; omit). C: "Our next model will hold a card"
+(prediction until tested). D: "We should use gifts to serve neighbors" (Catholic
+ethical reflection, not a length measurement).
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Welcome; optional brief prayer for truth and service. Ask "What would make a claim trustworthy?"
+2. **4-11 (7 min):** Model ruler zero/end alignment; compare A/B cards. Explain criterion/constraint using "hold one card for 10 seconds using one sheet."
+3. **11-24 (13 min):** Each pupil measures the line, sorts all four cards with reasons, then writes/draws one school-project goal. Teams check without replacing individual responses.
+4. **24-35 (11 min):** Partners ask "How will you test that?" Revise vague goals. Example: "Make a readable label" -> "Peer reads its three words from 1 m; one sheet, no color-only clues." Agree two norms: rotate tools; report unexpected results.
+5. **35-41 (6 min):** Individual exit: classify A/B with reasons; state goal, criterion, constraint and a listening action. Collect papers simultaneously; teacher notes prompted/not yet evidence.
+6. **41-45 (4 min):** Return/count rulers, cap markers, save goals, reuse clean paper and tidy seats.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which information did you inspect? What would verify B? Who gets a tool turn?"
+Each pupil correctly distinguishes A/B and supplies one testable criterion and
+one real constraint. Roster: 1 unsupported; 2 prompted; 3 independent; 4 adds a
+limit and fair leadership choice; NE means not yet evidenced, not mastery.
+
+## IF THINGS GO WRONG / SAFETY
+
+If line is not 10 cm, retain the actual value and correct the card. If goals
+are too broad, use the label example. No rulers: compare a teacher-verified
+paper length, record measurement-tool practice deferred. No ranking faith,
+forced disclosure, sharp tools or outside trips. Stop unsafe handling and
+notify the school's responsible adult.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: read cards aloud, large ruler markings, sentence stems and
+dictation. Grade 6/challenge: identify an additional source needed and revise
+a criterion that excludes a user. All work indoors; oral sorting preserves
+reasoning if writing is inaccessible.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Teacher saves each child's goal and evidence; reports shortages and unfinished
+checks. **Explored:** evidence and leadership. **Did:** measured, sorted claims,
+revised a goal. **Learned:** tests and listening matter. **Catholic connection:**
+truth and service. **Ask:** "How will you know your goal worked?" Optional
+conversation only; no routine homework.

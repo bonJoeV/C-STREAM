@@ -1,185 +1,84 @@
 ---
 title: "Week 11: Coding Gratitude"
-description: "Grades 3-4 Scratch programming for thankfulness"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-a
-  - coding
-  - engineering
-  - astronomy
-  - arts
----
-
-# 🙏 Week 11: Coding Gratitude
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **STREAM Focus** | T (Technology), R (Religion), A (Art) |
-
+description: "An executable two-message Scratch sequence"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T1, CST-T2, CST-A3]
+technology: Required
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Compatible computers, Plain paper, Pencils]
 ---
 
 # Week 11: Coding Gratitude
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Create a Scratch project with multiple sprites
-2. Use broadcast messages between sprites
-3. Incorporate sounds and visual effects
-4. Plan and execute a multi-element project
-
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude through digital creation
-2. Connect thankfulness to prayer
-3. Identify blessings in their lives
-
----
-
-# Week 11: Coding Gratitude
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Gratitude as Prayer** — St. Ignatius taught that gratitude is the foundation of our relationship with God. When we notice and name our blessings, we open our hearts to recognize God's presence in every part of life.
-
-### Scripture Connection
-> "Give thanks in all circumstances; for this is God's will for you in Christ Jesus."
-> — 1 Thessalonians 5:18
-
-### Saint Connection
-**St. Ignatius of Loyola** — Founder of the Jesuits, he developed the Daily Examen — a prayer practice that includes reviewing the day for moments of gratitude. He believed finding God in all things starts with thankfulness.
-
----
-
-## 📚 Materials Needed
-
-- Computers/tablets with Scratch access
-
-- Gratitude planning worksheet
-
-- Scratch tutorial cards (optional)
-
-- Speaker for sharing projects
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Gratitude Prayer:** "Generous God, You give us so many gifts! Help us notice Your blessings today. As we create, may our thankful hearts shine through. Thank You for life, for love, for this moment. Amen."
-
-**Gratitude reflection:**
-
-- "What are you thankful for today?"
-
-- Quick sharing: Each student names one blessing
-
-**St. Ignatius connection:**
-
-- "St. Ignatius taught that gratitude opens our eyes to see God everywhere"
-
-- "Today, we'll express our gratitude through code!"
-
-### Project Introduction (5 min)
-**Today's project:** Create a "Gratitude Animation" in Scratch
-
-**Prerequisite check and primary project:** Scratch is formally taught later in this weekly track. During this five-minute introduction, show a sprite and `when green flag clicked -> say [Thank you] for 2 seconds`. Novices create one sprite/message; three sprites, broadcasts and sound below are **optional extensions**, not universal requirements. Allow paper storyboard work if devices fail; it demonstrates communication/sequence planning, not executed Scratch code.
-
-**Extension requirements:**
-
-- At least 3 things you're thankful for
-
-- Multiple sprites (characters or objects)
-
-- At least one broadcast message (sprites communicate)
-
-- Sound or music
-
-- Creative presentation
-
-**Show example:** Teacher demonstrates a simple gratitude animation.
-
-### Planning Phase (5 min)
-**Students plan on paper:**
-1. List 3+ things you're thankful for
-2. What sprites will represent each?
-3. How will they appear/animate?
-4. What will the message say?
-5. What sounds will you include?
-
-### Scratch Creation (20 min)
-**Building time!**
-
-**Scratch skills focus:**
-
-- **Broadcasts:** "When I receive" and "broadcast" blocks allow sprites to communicate
-
-- **Timing:** "Wait" blocks sequence events
-
-- **Effects:** "Change effect" blocks add visual interest
-
-- **Sound:** "Play sound" and "play note" blocks
-
-**Teacher supports:**
-
-- Help students troubleshoot
-
-- Encourage creativity
-
-- Keep students on task
-
-**Checkpoints:**
-
-- 5 min: "Have you created your sprites?"
-
-- 10 min: "Are your sprites communicating?"
-
-- 15 min: "How's your timing and effects?"
-
-### Sharing & Reflection (5 min)
-**Quick share:** 2-3 students share projects with class.
-
-**Reflection questions:**
-
-- "How did coding help you express gratitude?"
-
-- "What was challenging?"
-
-- "What blessing is most meaningful to you?"
-
-**Faith Connection:** Express gratitude in words, prayer or artwork. The earlier joy saying attributed to St. Ignatius has been removed as unverified; details about the Examen require a sourced teacher card, **VERIFICATION REQUIRED**.
-
-**Closing Prayer:** "Thank You, God, for the blessings we named today. Thank You for [students call out blessings]. Help us be thankful every day, in all circumstances. Amen."
-
----
-
-## ✅ Assessment
-
-- Created a gratitude message and explained its sequence; record actual Scratch operation separately from paper planning
-
-- Used multiple sprites/broadcasts only if ready for the extension
-
-- Included sound elements
-
-- Explained a specific respectful message; do not score a child's feelings or disclosure of private blessings
-
-## Privacy and cleanup
-
-Use guest/offline files, not public uploads or shared credentials. Keep names/photos/voices private unless school-approved. Reserve the final 3 minutes of creation for local saving, stop programs and return devices. Home exploration is optional, never expected access to a device.
-
----
-
-## 📎 Home Connection
-> "We coded gratitude animations! Ask your child to share their Scratch project (at scratch.mit.edu). Discuss what they're thankful for. Try St. Ignatius's Daily Examen as a family: At dinner, share one thing you're grateful for from the day and one place you saw God's presence."
-
----
-
-**Lesson Version:** 1.0 | **
+## Lesson at a glance
+
+Grades 3-4; Weekly A; Gratitude; **one 40-minute meeting**.
+**Objective:** edit/run two ordered Scratch messages and revise for a reader.
+**Why:** actual execution exposes order/timing errors. Catholic/CST-C2:
+respectful thanks without private disclosure; CST-T1 actual edit/run/stop;
+CST-T2 sequence/debug; CST-A3 critique/revised message. Official alignment
+**VERIFICATION REQUIRED**. Technology **Required** for executed code;
+introductory, no Scratch prerequisite. Prep 20 minutes after software works;
+installation extra. Cleanup 5 included.
+
+## Before class and exact supplies
+
+Scratch 3 guest/offline, no accounts. Preflight blank project: assemble below,
+run twice, Stop, save local `.sb3`, reopen. Leave working sample/save location
+with substitute. Failed preflight means paper path/report missing operation.
+Balanced teams <=3 (4/5/7/9), computer/team; paper/pencil per pupil. Teacher
+board/timer, demo from issued device; devices reusable, paper retained.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Computers (1/team) | 4 | 5 | 7 | 9 |
+| Paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Starter, vocabulary and background
+
+One sprite, Code tab; connect blocks:
+
+```text
+when green flag clicked
+say [Thank you, classroom helpers.] for (2) seconds
+say [You keep our space ready.] for (2) seconds
+```
+
+Event = trigger; sequence = ordered actions; sprite = programmed character;
+debug = fix mismatch. **Misconception:** timed message remains after Stop.
+**If asked “Need broadcasts?”** Not for one sprite's sequence; learn a small
+working program first. Human moral judgment is not an automatic coded rule.
+
+## SAFETY / privacy
+
+Dry seated devices; no names/photos/voices, passwords, downloads or public
+delivery. Stop/report damaged leads or access failures. Fictional/classroom
+thanks allowed; feelings/prayer not graded. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** “How can thanks name a helpful action?” Optional original prayer
+   for respectful communication.
+2. **4-10:** Demo starter/flag/Stop. “Which message appears first?”
+3. **10-21:** Each pupil has three-minute edit/run turn: replace message, predict
+   order, run/record. Peers plan/read for clarity.
+4. **21-29:** Peer reads messages, gives specific feedback; change text/duration
+   and rerun. “Was there enough reading time?”
+5. **29-35:** Individual two-step trace and critique-backed change; roster logs
+   actual edit/run/stop separately.
+6. **35-40:** Stop/save/reopen check, return devices, collect dated paper.
+
+## Success/access/troubleshooting
+
+Meets: correct trigger/trace, observed operation and specific message revision.
+Grade 3/support: copy starter/dictation/motor assistance. Grade 4/challenge: add
+one-second wait and predict timing. Not running: correct sprite, hat and block
+attachment; rerun. Fewer devices: two waves of three-minute turns within work
+windows; below half required stations use paper/reschedule, not rushed turns.
+No device/internet: paper event/two-message cards at same times; CT/art only,
+**Scratch operation not observed**. No home completion.
+
+**Family:** We executed and revised gratitude messages. Ask, “What triggered
+the sequence?” Optional: say a thanks, no home coding.

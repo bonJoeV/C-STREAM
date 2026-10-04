@@ -1,237 +1,72 @@
 ---
 title: "Session 17: Year Celebration"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B year-end celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - light
-  - circuits
-  - life-science
-  - astronomy
-  - advent
-  - arts
----
-
-
-# Session 17: Year Celebration 🎓
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 17 of 17
-
-Students celebrate their year of C-STREAM learning through reflection, sharing, and looking forward to future exploration.
-
+description: "Evidence-based sharing, fresh model reading and honest growth claims"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E3, CST-A3, CST-M2]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Student portfolios, Plain paper, Pencils]
 ---
 
 # Session 17: Year Celebration
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Reflect on growth throughout the year
-
-- Present favorite projects and learnings
-
-- Celebrate achievements with classmates
-
-- Set goals for continued learning
-
----
-
-# Session 17: Year Celebration
-
-## Materials Needed
-
-- 📓 Engineering journals (entire year)
-
-- 📸 Photos from C-STREAM sessions
-
-- 🏆 Certificates (optional)
-
-- 🖼️ Display materials
-
-- 🎈 Celebration supplies
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Saints and scientists** — St. Isidore, St. Carlo Acutis, St. Kateri, St. Joseph and St. Thomas Aquinas inspired reflection; Fr. Lemaitre is a scientist/priest, not labeled a canonized saint.
-
-### Scripture
-> *"I am confident of this, that he who began a good work in you will carry it on to completion."* — Philippians 1:6
-
-### Opening Prayer
-*Dear God, thank you for an amazing year of discovery! Thank you for the saints who inspired us and the skills you helped us develop. Continue the good work you started in us! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Year in Review:**
-   - "17 sessions of amazing exploration!"
-   - Show photos from throughout the year
-2. **Memory Highlights:**
-   - Design thinking
-   - Ozobot coding
-   - Tower building
-   - Scratch games
-   - Life cycles
-   - Makey Makey inventions
-3. **Saints Journey:**
-   - Review saint connections
-   - "Faith inspired our work!"
-
-### Main Activity: Exhibition & Celebration (26 minutes)
-
-**Part 1: Portfolio Review (8 minutes)**
-
-- Look through engineering journals
-
-- Mark:
-  - Best project
-  - Biggest growth moment
-  - Favorite learning
-  - Most challenging success
-
-- Prepare to share
-
-**Part 2: Gallery & Presentations (12 minutes)**
-
-- Set up display areas
-
-- Students circulate and share
-
-- Each person explains:
-  - Favorite project
-  - What they learned
-  - How faith connected
-
-- Celebrate each presentation!
-
-**Part 3: Year Awards (4 minutes)**
-
-- Certificates for all:
-  - "Design Thinker"
-  - "Code Creator"
-  - "Science Explorer"
-  - "Faithful Innovator"
-  - "Perseverance Champion"
-  - Custom recognitions
-
-- Each child recognized for unique strengths!
-
-**Part 4: Looking Forward (2 minutes)**
-
-- "Next year, even more adventures!"
-
-- "Keep exploring and creating!"
-
-- Goal setting
-
-### Engineering Journal (5 minutes)
-**Final Entry:**
-1. "This year I learned..."
-2. "My favorite project was..."
-3. "Faith and science connect because..."
-4. "Next year I want to learn..."
-5. "I am an engineer who..."
-
-### Closing Circle (3 minutes)
-1. **Gratitude Round** — Each person shares one thanks
-2. **Summer Challenge** — "Keep designing, creating, and exploring!"
-3. **Final Blessing:**
-
-*Dear God,*
-*Thank you for this year of discovery and growth.*
-*Thank you for towers and Ozobots, circuits and code.*
-*Thank you for showing us that faith and science walk together.*
-*Bless these engineers as they continue their journey.*
-*May they always use their gifts to serve you and others.*
-*We ask this through Christ our Lord.*
-*Amen.*
-
-🎉 **CONGRATULATIONS!** 🎉
-
----
-
-## Assessment
-**Year-End Reflection:**
-
-- [ ] Can articulate year's growth
-
-- [ ] Demonstrates design thinking
-
-- [ ] Connects faith to STREAM
-
-- [ ] Shows enthusiasm for continued learning
-
----
-
-## Year B Accomplishments
-
-**This year you:**
-
-- Practiced design thinking; mastery requires individual evidence
-
-- Planned/traced routes; claim actual Ozobot programming only with observed verified command testing
-
-- ✅ Built towers to the sky
-
-- ✅ Explored ecosystems
-
-- ✅ Created Scratch games
-
-- ✅ Learned about rocks and geology
-
-- ✅ Discovered life cycles
-
-- ✅ Invented with Makey Makey
-
-- ✅ Connected faith to every project!
-
-**Saints You Met:**
-St. Isidore • St. Carlo Acutis • St. Kateri Tekakwitha • St. Paul • Fr. Lemaître (scientist, not saint) • St. Joseph • St. Thomas Aquinas • Mary Magdalene
-
-**Skills You Developed:**
-Design Thinking • Coding • Scientific Exploration • Engineering • Problem-Solving • Collaboration • Perseverance • Faith Integration
-
----
-
-## Wonder at Home 🏠
-**Summer C-STREAM Challenge:**
-
-- 🔧 Keep building and inventing
-
-- 💻 Practice coding on Scratch
-
-- 🔬 Do science experiments
-
-- 🌿 Observe ecosystems
-
-- 🪨 Collect and identify rocks
-
-- 📚 Research scientists and inventors
-
-- ❤️ Use your skills to serve others
-
----
-
-**You are engineers, scientists, programmers, and children of God!**
-
-*Keep creating. Keep questioning. Keep growing in faith and knowledge.*
-
----
-
-**Previous:** [Session 16 — Makey Makey](./Session16_Makey_Makey.md)
-
----
-
-*End of Grades 3-4 Year B Bi-Weekly C-STREAM Curriculum*
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly B; Portfolio; **one 40-minute meeting**.
+**Objective:** support a learning claim with dated work, read a data/model
+record individually and revise a caption from peer feedback.
+**Why:** celebrating growth should accurately describe practice/operation/
+mastery. Catholic/CST-C3 responsible gifts/work; CST-E3 evidence/limit;
+CST-A3 critique/revision; CST-M2 record reading.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+developing. Prep 15; cleanup 5. No compulsory summer activity or mastery award.
+
+## Before class and exact supplies
+
+Each pupil portfolio/two sheets/pencil. Teacher board/timer; choose genuine
+dated data or model records. Backup **simulated test counts 4 then 7** for new
+two-bar reading, labeled practice, not pupil history.
+Teams <=3 (4/5/7/9), parallel desk sharing, no live Ozobot/circuit/Makey Makey.
+Reuse portfolios, retain dated caption; no printed certificate/photo purchase.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Portfolios; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+
+## Vocabulary/background/SAFETY
+
+Artifact = saved work; evidence = real record; growth = supported change;
+caption = display explanation. **Misconception:** a group device photo proves
+each child operated it. **If asked "Can I say expert?"** Only individual
+evidence supports particular skills. Local mastery needs two dated separate
+occasions and changed-context explanation, not today's reflection alone.
+No live devices, private photos, food/balloons or claims that all pupils completed
+all domains. Stop/report missing artifacts. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional gratitude prayer; "Which record shows a changed decision?"
+2. **4-9:** Model date/source/result/limit, paper versus actual operation.
+3. **9-20:** Choose two genuine artifacts, prepare caption, independently read
+   graph/model and explain change. Missing work: backup bars 4/7, difference
+   3/total 11, labeled today's simulated practice only.
+4. **20-29:** Parallel two-minute pupil turns, demonstrate reasoning and answer
+   peer question; receive specific caption critique.
+5. **29-35:** Each revises caption, gives supported skill/data explanation/
+   stewardship choice, marks historical evidence gaps honestly.
+6. **35-40:** Date/file captions, return portfolios/pencils, clear.
+
+## Success/access/troubleshooting
+
+Meets: attributable evidence explanation/data reading and deliberate caption
+revision. Growth requires actual dated records, not invented improvement.
+Grade 3/support: two stems/pointing/scribing. Grade 4/challenge: transfer test
+needed or sample limitation. Missing work: assess today's reasoning, record
+growth not evidenced. Long speech: task-result-limit within two minutes.
+Early finish: answer changed-context question. Enthusiasm/prayer not graded.
+
+**Family:** We celebrated with honest evidence. Ask, "What does your record
+show and leave uncertain?" Optional: listen to the explanation.

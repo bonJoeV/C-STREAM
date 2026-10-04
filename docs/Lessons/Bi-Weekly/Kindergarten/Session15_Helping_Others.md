@@ -53,11 +53,13 @@ physical-contact promises, food, sequins or ribbon.
 
 1. **0-4:** Name the agreed/fictional recipient and a welcoming message.
 2. **4-8:** Model a clear picture choice and RIGHT, DOWN, STOP; reset and change
-   DOWN to UP to reach the target.
+   DOWN to UP to reach the target. Explain that a person names the goal,
+   breaks delivery into two moves and puts those moves in order.
 3. **8-17:** Children create a simple message, predict/test RIGHT, UP, STOP,
    and correct the wrong path in full individual turns. Begin checks.
 4. **17-21:** Child explains intended design meaning, predicts an endpoint and
-   identifies the tested correction. Trio's third child gets a planner turn.
+   identifies the tested correction. Each child shows the human-chosen goal,
+   smaller steps and their order; the paper model does not decide for a person. Trio's third child gets a planner turn.
 5. **21-25:** Save evidence, arrange only approved delivery, return four-card
    kits, collect crayons and clear.
 

@@ -1,214 +1,76 @@
 ---
 title: "Session 8: Digital Stories"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B digital storytelling"
-version: "1.3"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - coding
-  - engineering
-  - circuits
-  - christmas
-  - arts
----
-
-
-# Session 8: Digital Stories 📱
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 8 of 17
-
-Students create digital stories about Gospel values or saints, combining narrative skills with technology.
-
+description: "A complete three-slide fictional Gospel-value story"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T1, CST-T3, CST-A3]
+technology: Required
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Compatible computers, Plain paper, Pencils]
 ---
 
 # Session 8: Digital Stories
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Plan a structured story with beginning, middle, end
-
-- Use digital tools to create narrative
-
-- Include faith-based themes and messages
-
-- Present completed digital story
-
----
-
-# Session 8: Digital Stories
-
-## Materials Needed
-
-- 💻 Computers/tablets with Scratch, slides, or video tools
-
-- 📋 Story planning templates
-
-- 📓 Engineering journals
-
-- 🖥️ Projector for sharing
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**The Gospel Writers** — Matthew, Mark, Luke, and John told Jesus' story so others could believe!
-
-### Scripture
-> *"Go into all the world and preach the gospel to all creation."* — Mark 16:15
-
-### Opening Prayer
-*Dear God, you gave us the story of Jesus to share with the world. Help us tell stories that inspire faith and share your love. Guide our creativity today! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Power of Stories:**
-   - Stories change hearts and minds
-   - Jesus taught through parables (stories!)
-   - Gospel writers preserved Jesus' story forever
-2. **Digital Storytelling:**
-   - Modern way to share stories
-   - Reaches many people
-   - Combines words, images, sound
-3. **Our Mission:**
-   - Create digital story that shares faith
-   - Topics: Saint's life, parable, Gospel value
-
-### Main Activity: Digital Story Creation (27 minutes)
-
-**Part 1: Story Planning (7 minutes)**
-
-**Choose Your Topic:**
-
-- A saint's story (Francis, Kateri, Patrick, etc.)
-
-- A parable of Jesus (Good Samaritan, Prodigal Son)
-
-- A Gospel value (kindness, forgiveness, love)
-
-**Story Structure:**
-1. **BEGINNING:**
-   - Who is the main character?
-   - What's the situation?
-   - Hook the viewer!
-
-2. **MIDDLE:**
-   - What happens?
-   - What challenge or lesson?
-   - Key events
-
-3. **END:**
-   - How does it resolve?
-   - What's the message?
-   - Call to action?
-
-**Part 2: Create Digital Story (16 minutes)**
-
-**Option A: Scratch Animation**
-
-- Animate scenes with sprites
-
-- Add narration and dialogue
-
-- Create movement and transitions
-
-**Option B: Digital Slideshow with Audio**
-
-- Create slides with images
-
-- Add recorded narration
-
-- Include music/transitions
-
-**Option C: Digital Comic**
-
-- Draw scenes digitally or on paper (photograph)
-
-- Add speech bubbles and captions
-
-- Sequence to tell story
-
-**Part 3: Preview & Polish (4 minutes)**
-
-- Watch your story
-
-- Fix any issues
-
-- Add finishing touches
-
-### Engineering Journal (5 minutes)
-1. Write your story outline (beginning, middle, end)
-2. Sketch one scene
-3. Write: "My story teaches..."
-4. Write: "Digital storytelling helps share faith because..."
-
-### Closing Circle (3 minutes)
-1. **Story Premieres** — Share stories (time permitting)
-2. **Gospel Mission** — "How can we share Jesus' story?"
-3. **Closing Prayer** — *"Thank you, God, for stories that teach us about you. Help us share your Good News with everyone. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Created structured story
-
-- [ ] Used digital tools effectively
-
-- [ ] Included faith-based message
-
-- [ ] Completed shareable product
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Story template provided
-
-- Simple slide format
-
-- Partner work
-
-### For Advanced Students
-
-- Multiple scenes/chapters
-
-- Original music/sound design
-
-- Complex animation
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your digital story with family! Tell stories about your family's faith. Research how storytelling spreads the Gospel today. Create family faith stories together!
-
----
-
-## Teacher Notes
-
-- Allow flexibility in format
-
-- Finish a small paper storyboard in class if needed; no homework or home-device dependence
-
-- Consider sharing at school assembly
-
-- Save stories for portfolio
-
----
-
-**Previous:** [Session 7 — Christmas Circuits](./Session07_Christmas_Circuits.md)  
-**Next:** [Session 9 — Faith & Science](./Session09_Faith_Science.md)
-
-## Privacy / fallback
-
-Use teacher-approved source stories; invented dialogue is labeled as retelling. No public pupil voices/photos/names or uploads without school consent. If devices fail, use a three-panel paper comic and a peer-tested message; this demonstrates narrative/art, **not** digital-tool operation or computer programming. Collect each child's beginning/middle/end and one revision. Complete multimedia workflow remains P1 work.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly B; Communication art; **one 40-minute meeting**.
+**Objective:** create/present beginning/middle/end, revise from a reader's
+feedback and explain a safe sharing choice. **Why:** digital stories allow
+editable visual communication, not just consuming media.
+Catholic/CST-C2 respectful helping theme; CST-T1 actual editing/presenting;
+CST-T3 privacy/credit; CST-A3 narrative critique/revision.
+Official alignment **VERIFICATION REQUIRED**. Technology **Required**;
+novice workflow. Prep 20 after software works; installation extra; cleanup 5.
+
+## Before class and exact supplies
+
+Approved offline LibreOffice Impress: blank, `Slide > New Slide` twice,
+`Insert > Text Box`, `Slide Show > Start from First Slide`, Escape, local
+`File > Save As` `.odp`, reopen. Pretest/leave three-slide sample and save path.
+Equivalent app only with teacher-tested exact commands; otherwise paper.
+Teams <=3 (4/5/7/9): computer/team; each pupil two paper sheets/pencil.
+Teacher board/timer/demo from issued device. Fictional sample:
+"A visitor cannot find the book tray / A classmate listens and points /
+They thank each other and return the book." Gospel-value application,
+not invented Scripture quotation or saint biography.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Computers (1/team) | 4 | 5 | 7 | 9 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Narrative = ordered story; scene = story part; audience = reader; revision =
+meaning-preserving change. **Misconception:** more slides make better story.
+**If asked "Can we say this really happened to a saint?"** No; label this original
+fiction. Historical retellings need verified source evidence not provided here.
+Dry devices, no pupil photos/voices/names, passwords, music downloads, public
+uploads or QR links. Stop/report damaged gear. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How can a story show respect rather than stereotype someone?"
+2. **4-10:** Demo three slides/text/present/Escape and fiction label.
+3. **10-21:** Every child edits/presents a three-minute turn; peers storyboard
+   and record actual beginning/middle/end.
+4. **21-29:** Peer names problem/action/resolution without coaching; record
+   confusion, revise wording/layout, present again.
+5. **29-35:** Each explains structure/feedback revision and private sharing;
+   operation roster separate from paper storyboard.
+6. **35-40:** Save/reopen, exit/return, collect dated evidence.
+
+## Success/access/troubleshooting
+
+Meets: coherent three-part story, actual operation, critique-backed revision and
+privacy choice. Grade 3/support: three sentence/picture frames, scribing/motor
+assistance. Grade 4/challenge: pacing/clarity tradeoff. Missing ending: reduce
+extra scenes, finish three-part core. No software/device: same times paper comic,
+art/narrative only, **digital operation not observed**. Half computers allow
+two work-window turn waves; fewer requires later real operation.
+Early finish: new reader, not audio/video expansion or homework finishing.
+
+**Family:** We revised a fictional helping story. Ask, "How did the ending
+resolve the problem?" Optional: tell a short story without a device.

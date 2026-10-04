@@ -1,211 +1,134 @@
 ---
-title: "Week 11: Gratitude & Coding"
-description: "Grades 5-6 digital gratitude expressions"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - coding
-  - astronomy
-  - thanksgiving
-  - arts
+title: "Week 11: Gratitude and Coding"
+description: "An executable Scratch list with fictional entries and privacy guards"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🙏 Week 11: Gratitude & Coding
+# Week 11: Gratitude and Coding
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | T (Technology), R (Religion), A (Arts) |
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Computing |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can execute an add/retrieve/reset list program, trace its values and exclude private data. Lists organize information; gratitude is not a health treatment or spiritual score. |
+| Domains / Catholic connection | T, C; thanksgiving may be voluntary/private; respect another person's choice not to disclose. |
+| Local standards | CST-T2: list trace/debug; CST-T3: data boundary; CST-C2: respectful opt-out. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Required for actual Scratch programming; paper fallback records a changed algorithm-only objective. |
+| Difficulty / entry | Developing; teach event, list and index here; no prior lists assumed. |
+| Prep / cleanup | Moderate: first 25 min, repeat 15 min; approved-device setup extra before class; cleanup 4 min. |
 
----
+## BEFORE CLASS / MATERIALS
 
-# Week 11: Gratitude & Coding
+Teacher/IT checks school-approved Scratch editor, age/privacy policy, local
+save and working setups; never shared/personal passwords. Pretest starter
+below. Seat balanced teams of at most three: 4/5/7/9 teams at 10/15/20/25;
+rotate operator every five minutes in the simultaneous route or by the
+individual shared-route turns below.
+Copy fictional allowed entries: "sunny walk" and "helpful action". No real
+prayer, names, family or health entries. Check school contact/accommodations.
 
-## 🎯 Learning Objectives
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper trace; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Computer with tested Scratch editor, simultaneous route | 1/team | 4 | 5 | 7 | 9 |
+| Computer with tested Scratch editor, shared route instead | 3/class alternative | 3 | 3 | 3 | 3 |
+| Paper list/event reference | 2/team | 8 | 10 | 14 | 18 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
 
-### STEM Objectives
-Students will be able to:
-1. Use Scratch lists and data structures
-2. Create interactive programs that store and display information
-3. Implement user input and dynamic content
-4. Design engaging user interfaces
+Paper consumable; equipment reusable. Scratch is an access resource, not a
+physical supply. Choose one computer row, not both; these are required
+allocations for the selected route, not reported school holdings. The teacher
+demonstrates with an issued setup, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Practice the spiritual discipline of gratitude
-2. Understand thanksgiving as central to Catholic prayer life
-3. Create technology that helps others grow spiritually
+### Shared-route kit and turn plan
 
----
+With three approved working setups, preload the exact starter below; on each
+turn's copy set View's item index to 2 as the intentional bug. Preserve balanced
+groups: 10 = two trios/two pairs; 15 = five trios; 20 = six trios/one pair;
+25 = seven trios/two pairs. Do not form groups of four.
+Use **11-19**, **19-27**, **27-35** for teams 1-3, 4-6, 7-9 respectively;
+10/15 pupils need only two waves, with the last window for retests/checks.
+Each pupil has up to two minutes to predict the wrong retrieval, personally
+change index 2 to 1, run the six keyed tests and record actual output; the
+remaining two minutes/team allow reset and teacher checking. Waiting pupils
+trace the same list states and prepare privacy/access explanations.
+Pretest this exact turn/account workflow before class. Record actual edit/run,
+assisted action and NE separately; watching is not operation evidence.
+With one/two working setups, keep the three windows with that many active
+teams, book remaining operation checks later and record their paper-only
+reasoning honestly. Never compress accommodations or reset safety to claim
+all turns. Shared work modifies a provided starter, not a from-scratch build.
 
-# Week 11: Gratitude & Coding
+## VOCABULARY / TEACHER BACKGROUND
 
-## 🙏 Faith-Reason Integration
+**List:** ordered items. **Index:** position, starting at 1 in Scratch.
+**Event:** trigger. **Reset:** clear previous values.
+**Common misconception:** a list automatically stays saved safely forever.
+No persistence/publication objective. **If asked, "May I add my prayer?"**
+Keep it private; only the two fictional strings are classroom inputs.
 
-### Catholic Teaching Connection
-**Eucharist and Thanksgiving** — The word "Eucharist" comes from the Greek word for "thanksgiving." The Mass itself is our great act of thanksgiving. Gratitude transforms our hearts and helps us recognize God's gifts in our lives.
+Create list `Thanks` for all sprites; hide list monitor if desired.
+Complete starter in one sprite:
 
-### Scripture Connection
-> "Give thanks in all circumstances; for this is God's will for you in Christ Jesus."
-> — 1 Thessalonians 5:18
+```text
+when green flag clicked
+delete all of [Thanks]
+say [Ready: use a or v]
 
-### Saint Connection
-**St. Ignatius of Loyola** — Founder of the Jesuits, he developed the Examen prayer, a daily practice of reviewing the day to find God's presence and express gratitude. He believed finding God in all things leads to grateful hearts.
+when [a] key pressed
+ask [Type sunny walk or helpful action] and wait
+if <<(answer) = [sunny walk]> or <(answer) = [helpful action]>> then
+  add (answer) to [Thanks]
+  say [Added]
+else
+  say [Use a fictional example]
 
----
-
-## 📚 Materials Needed
-
-- Computers with Scratch
-
-- Gratitude journal examples
-
-- Examen prayer guide
-
-- Project planning sheets
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (6 min)
-**Prayer:** Use the Daily Examen (simplified):
-
-- "Become still. God is with you."
-
-- "Look back on today. What are you grateful for?"
-
-- "Where did you see God working?"
-
-- "What do you want to say to God?"
-
-- "Look ahead with hope."
-
-**Gratitude science:**
-
-- Gratitude is a meaningful spiritual practice. Do not promise health outcomes or call them scientifically proven without a specific, evaluated study.
-
-- "But we knew this — the Mass is literally THANKSGIVING!"
-
-**Today's challenge:** "Create an interactive Gratitude Journal in Scratch that helps people practice daily thanksgiving."
-
-### Advanced Scratch Concepts (10 min)
-**New concepts for today:**
-
-**Lists in Scratch:**
-
-- Create a list: "Gratitude_List"
-
-- Add to list: `add [item] to [Gratitude_List]`
-
-- Display list on screen
-
-- Retrieve items: `item [1] of [Gratitude_List]`
-
-**User Input:**
-
-- `ask [What are you grateful for?] and wait`
-
-- Store answer: `answer`
-
-- Add answer to list
-
-**Random selection:**
-
-- `item (pick random 1 to (length of [Gratitude_List])) of [Gratitude_List]`
-
-**Demonstration code:**
-```
-When green flag clicked
-Say "Welcome to the Gratitude Journal!" for 2 seconds
-Ask "What's something you're grateful for today?" and wait
-Add (answer) to [Gratitude_List]
-Say (join "Thank you for sharing: " (answer)) for 2 seconds
+when [v] key pressed
+if <(length of [Thanks]) > (0)> then
+  say (item (1) of [Thanks])
+else
+  say [No entries]
 ```
 
-### Project Development (22 min)
-**Required features:**
-1. Welcome message
-2. Prompt for gratitude entry
-3. Store entries in a list
-4. Ability to view past entries
-5. At least one creative addition
+Key: reset/v -> No entries; a/sunny walk -> length 1; a/helpful action ->
+length 2; v -> sunny walk; a/name -> unchanged length 2; reset -> length 0.
+Messages remain until next event; no racing animations.
 
-**Stretch features:**
+## EXACT LESSON SEQUENCE
 
-- Categorize gratitude (people, nature, experiences, gifts)
+1. **0-4 (4 min):** Introduce fictional gratitude list and opt-out; ask "Why not collect private prayers?"
+2. **4-11 (7 min):** Model creation of list/events and empty-list guard; trace key.
+3. **11-25 (14 min):** Simultaneous teams assemble starter and run reset/add/view; every child edits or executes an event and records actual result. Shared teams begin the stated waves; waiting pupils complete their traces.
+4. **25-35 (10 min):** Run all six keyed tests; deliberately replace item 1 with item 2 on a copy, predict wrong retrieval, fix and retest. Finish shared waves with every pupil's own edit/run; keep failed output.
+5. **35-41 (6 min):** Each independently traces 0/1/2/2/0 lengths, gives first item and explains excluded private input/opt-out.
+6. **41-45 (4 min):** Local school save if approved, close editor, delete fictional entries via reset, return paper/tools.
 
-- Include inspiring quotes or Scripture
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
 
-- "Random gratitude" reminder from past entries
+"What is item 1 after two adds? What happens to empty view? Which test finds
+the index bug?" Each supplies correct five-length trace, retrieval, corrected
+test and privacy decision; teacher records individual device turn separately.
+1 unsupported; 2 prompted; 3 independent; 4 explains a new boundary; NE if unrun.
 
-- Animation or music
+## IF THINGS GO WRONG / SAFETY
 
-- Date/time stamps (advanced)
+No output -> check event/key/list name, not random code changes. Approval/device
+fails -> move paper entries by same rules; record algorithm simulation, real
+execution deferred. No public uploads, private inputs, health benefit claims
+or personal account demand. Stop/report unsafe device/data use.
 
-**Sample flow:**
-```
-START → Welcome → Menu: Add Entry / View Entries / Random Gratitude
-|
-+-- Add Entry → Prompt → Store → Confirmation → Menu
-+-- View Entries → Display List → Menu
-+-- Random Gratitude → Pull Random Entry → Display → Menu
-```
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
 
-**Teacher circulates:**
+Grade 5/support: large block reference, scribed trace, one event at a time.
+Grade 6/challenge: predict a third add and explain why first item stays first;
+do not add cloud storage. All work seated indoors.
 
-- "How are you storing the entries?"
+## CLEANUP / FAMILY NEWSLETTER
 
-- "How does the user navigate?"
-
-- "What makes this spiritually meaningful?"
-
-### Testing & Sharing (5 min)
-**Peer testing:**
-
-- Try a neighbor's gratitude journal
-
-- Add at least one entry
-
-- Give feedback: What works? What could improve?
-
-### Closing Reflection (2 min)
-**Share creative additions:**
-
-- What unique features did you add?
-
-- How does your project help people practice gratitude?
-
-**Faith Connection:** "St. Ignatius taught that finding God in ALL things leads to gratitude. Even in hard times, we can find something to thank God for. Your programs can help people build this habit!"
-
-**Closing Prayer:** "Thank You, God, for EVERYTHING — for this class, for each other, for our creativity, for technology that we can use for good. Help us be people of gratitude who see Your gifts everywhere. Amen."
-
----
-
-## ✅ Assessment
-
-**Privacy and local evidence:** Use only fictional entries such as "a sunny walk," never names, private prayer, family circumstances, or ratings of faith. Do not publish lists; school-approved local save only. CST-T2 - each student traces add/retrieve; CST-T3 - explains why private entries should not be collected; CST-C2 - offers a respectful opt-out. These are local standards; official benchmarks **VERIFICATION REQUIRED**.
-
-- Used lists to store data
-
-- Implemented user input
-
-- Created functional gratitude journal
-
-- Included creative/spiritual features
-
-- Tested and iterated
-
----
-
-## 📎 Home Connection
-> "We created digital Gratitude Journals in Scratch! Ask your child to show you their project. Add a gratitude entry! We learned about St. Ignatius's Examen prayer. Try this as a family: At dinner, share one thing from today you're grateful for. Make thanksgiving a daily habit!"
-
----
-
-**Lesson Version:** 1.0 | **
+Save evidence, log executed versus paper, report missing tests.
+**Explored:** lists/privacy. **Did:** add/retrieve/reset using fictional entries.
+**Learned:** guards and indices matter. **Catholic connection:** voluntary
+thanksgiving and dignity. **Ask:** "What did reset do?" No routine homework.

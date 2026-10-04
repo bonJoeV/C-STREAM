@@ -61,6 +61,9 @@ Teacher changes supports; keep hands away from the contained descending object.
 ## Success, access, troubleshooting and family copy
 
 Check actual outcome, fair comparison, low-ramp constraint and a service reason.
+Record each child's motion report, changed-condition explanation and comparison
+separately on the roster while peers continue the seated test; a team's result
+does not establish every child's understanding.
 Ask "Was it rolling, sliding or staying? What changed?"
 Support: adult releases under child's direction; two pictured outcomes first.
 Challenge: repeat to check agreement, never change several variables at once.

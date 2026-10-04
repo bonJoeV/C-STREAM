@@ -1,230 +1,92 @@
 ---
 title: "Session 15: Energy Science"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B energy and machines"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - light
-  - circuits
-  - astronomy
-  - arts
----
-
-
-# Session 15: Energy Science ⚡
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 15 of 17
-
-Students explore energy transformation and simple machines, applying physics concepts to engineering challenges.
-
+description: "A nonlaunching lever lift with measured heights and honest energy limits"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 15: Energy Science
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand energy types and transformations
-
-- Apply simple machine principles
-
-- Design machines that transform energy
-
-- See God's design in physics
-
----
-
-# Session 15: Energy Science
-
-## Materials Needed
-
-- 🔧 Simple machine materials
-
-- 🧱 KEVA Planks/construction materials
-
-- 📏 Measuring tools
-
-- 📓 Engineering journals
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Leonardo da Vinci** — Catholic artist and inventor who saw no conflict between faith and science! Designed amazing machines centuries ahead of his time.
-
-### Scripture
-Ecclesiastes 3:14 is a religious reflection, not a physics statement or proof of energy conservation. Read from the school's approved Bible if desired; no scientific law is inferred from the verse.
-
-### Opening Prayer
-*Dear God, you created a universe of amazing order where energy transforms but is never lost. Help us understand these principles and use them to engineer solutions. Your design is perfect! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (8 minutes)
-1. **Energy Fundamentals:**
-   - Energy cannot be created or destroyed—only transformed!
-   - Types of energy:
-     - **Kinetic** — Energy of motion
-     - **Potential** — Stored energy (height, elastic, chemical)
-     - **Thermal** — Heat energy
-     - **Electrical** — Moving electrons
-     - **Sound** — Vibration energy
-     - **Light** — Radiant energy
-2. **Simple Machines:**
-   - Tools that make work easier
-   - Six types:
-     - **Lever** — Lifts/moves with fulcrum
-     - **Wheel & Axle** — Rotates to reduce friction
-     - **Pulley** — Changes direction of force
-     - **Inclined Plane** — Ramp reduces force needed
-     - **Wedge** — Splits or separates
-     - **Screw** — Inclined plane wrapped around cylinder
-3. **Conservation:**
-   - God's design: Energy conserved
-   - Nothing is lost, only transformed
-   - Physics describes conservation within specified systems; religious reflection is distinct evidence.
-
-### Main Activity: Energy Engineering (28 minutes)
-
-**Part 1: Energy Transformation Investigation (10 minutes)**
-
-**Build Energy Chain:**
-
-- Create system showing energy transformations:
-  - Start: Potential energy (height)
-  - Transform to: Kinetic energy (motion)
-  - Transform to: Kinetic (hit something)
-  - Transform to: Sound (noise)
-  
-**Simple Example: Rube Goldberg Starter**
-
-- Ball on ramp (potential → kinetic)
-
-- Ball hits lever (kinetic → kinetic)
-
-- Lever lifts something (kinetic → potential)
-
-- Continue the chain!
-
-**Part 2: Simple Machine Challenge (15 minutes)**
-
-**Engineering Challenge:**
-Design and build a system that:
-
-- Uses at least 2 different simple machines
-
-- Accomplishes a task (lift, move, separate, etc.)
-
-- Shows clear energy transformations
-
-- Is as efficient as possible
-
-**Design Ideas:**
-
-- Lifting system (lever + pulley)
-
-- Vehicle (wheel & axle + inclined plane)
-
-- Nonlaunching lever that raises a light paper load; no catapult or projectile
-
-- Ball run with multiple energy transformations
-
-**Build & Test:**
-
-- Construct your machine
-
-- Test multiple times
-
-- Measure/observe energy transformations
-
-- Improve efficiency
-
-**Part 3: Demonstration (3 minutes)**
-
-- Show machines working
-
-- Explain energy transformations
-
-- Identify simple machines used
-
-### Engineering Journal (5 minutes)
-1. Draw and label your machine
-2. Simple machines used: ___
-3. Energy transformations (chain):
-4. Write: "Energy conservation shows God's design because..."
-5. Write: "Simple machines help by..."
-
-### Closing Circle (4 minutes)
-1. **Physics Wonder** — "What amazed you about energy?"
-2. **Order in Creation** — "How does energy conservation reflect God's design?"
-3. **Closing Prayer** — *"Creator God, thank you for the order and consistency in your creation. Help us use these principles to build things that serve others. Amen."*
-
----
-
-## Assessment
-
-**Local standards (not official):** CST-S3 - individual energy-transfer chain including thermal/sound pathways; CST-E2 - measured before/after task test; CST-C1 - distinguish physical law from religious reflection. Official benchmarks **VERIFICATION REQUIRED**. Do not claim quantitative efficiency without measured input/output energy.
-
-## SAFETY
-
-Adult inspects low ramps/lever supports; use large soft balls inside a catching tray, at most 15 cm height and 100 g paper/packet loads. No catapults, projectiles, finger pinch traps, electrical improvisation, or body-weight testing. Classroom model stays indoors; specific historical claims about Leonardo's beliefs **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Identified energy types
-
-- [ ] Built working machine
-
-- [ ] Explained transformations
-
-- [ ] Connected to simple machines
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler machine focus
-
-- Partner construction
-
-- Guided design
-
-### For Advanced Students
-
-- Complex Rube Goldberg
-
-- Efficiency calculations
-
-- Multiple simple machine types
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Find simple machines at home (scissors = lever, screwdriver = wheel & axle, etc.)! Track energy transformations in your day. Build a simple Rube Goldberg machine together. Research Leonardo da Vinci's inventions!
-
----
-
-## Teacher Notes
-
-- Simple materials work great
-
-- Safety with moving parts
-
-- Energy vocabulary important
-
-- Great outdoor activity option
-
----
-
-**Previous:** [Session 14 — Robot Olympics](./Session14_Robot_Olympics.md)  
-**Next:** [Session 16 — Innovation Lab](./Session16_Innovation_Lab.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Physical Science |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can explain an energy-transfer chain and compare a lever task before/after moving its support. Simple machines trade motion/force, not create energy. |
+| Domains / Catholic connection | S, E, C; careful use of tools/resources; physical conservation isn't proven by Scripture or unsourced inventor beliefs. |
+| Local standards | CST-S3: energy chain; CST-E2: measured retest; CST-C1: physical/reflection distinction. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; inspected lever/tray required for actual task. |
+| Difficulty / entry | Developing; teach fulcrum, height and thermal pathway. |
+| Prep / cleanup | Moderate: first 20 min/repeat 10; cleanup 4 min. Kit: Safe Lever. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations. Seat 4/5/7/9 teams. Use 30 cm wide cardboard
+lever on a low folded-cardboard support in tray, support initial 15 cm from
+load end then 10 cm; taped shallow paper pocket holds one 10 g sealed packet.
+Adult checks ends/travel stops so load rises at most 3 cm without slipping/
+launching and fingers cannot enter pivot. No ball hitting lever, catapult,
+chain reaction, bare batteries or heavy mass. Pilot slow hand-down action.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardboard lever; low support; tray; ruler; paper pocket | 1 each/team | 4 | 5 | 7 | 9 |
+| Sealed 10 g packet, adult placed | 1/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable/reusable; packets/tools reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Lever:** bar pivoting on support. **Fulcrum:** pivot.
+**Potential energy:** stored due to configuration/height. **Thermal:** energy
+associated with particle motion. **Common misconception:** machine creates energy.
+**If asked, "Did we measure efficiency?"** No; height/trial success only, not
+input/output energy or force. Hand/body chemical-energy processes supply motion;
+lever transfers motion to raising load, plus thermal/sound pathways.
+Fictional example heights 1/2/1 cm then 2/2/3 cm, all under cap; compare ranges,
+not claimed expected result. 15 versus 10 cm support distances differ 5 cm.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Where does lifting energy come from?" Introduce honest tool use.
+2. **4-11 (7 min):** Model slow press/travel stops, finger boundary and energy arrows.
+3. **11-25 (14 min):** Rotate operator/measurer/recorder, adult approves each kit; run three slow lifts at initial fulcrum, record height/cm.
+4. **25-35 (10 min):** Adult approves moved support, repeat three lifts with same packet/press limit; compare actual outcomes and draw thermal/sound branches.
+5. **35-41 (6 min):** Individual baseline/retest heights, justified support change, energy chain/limit and science-versus-faith reflection.
+6. **41-45 (4 min):** Adult retrieves packets, stop/disassemble lever, return tools and save records.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What input supplied energy? What stayed the same? Did we measure force?"
+Each has six heights/units, supported revision, energy chain including non-useful
+pathways and limit. 1 unsupported; 2 prompted; 3 independent;
+4 motion/force tradeoff reasoning; NE for untested physical operation.
+
+## IF THINGS GO WRONG / SAFETY
+
+Slipping/fast motion -> stop; adult resets stops/pocket, never flick.
+No safe lever -> draw chain and analyze explicitly fictional example, physical
+lift deferred. No launches, pinch traps, body weight, sharp sticks, loads above
+10 g per kit, high travel, electrical substitutions or theology-as-physics.
+Isolate/report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: preassembled kit, arrow cards, height ruler and scribing.
+Grade 6/challenge: explain why qualitative force/motion tradeoff is not a
+quantitative efficiency finding. Indoor tray task only.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count packets/tools, save actual/fictional labels, report damaged supports.
+**Explored:** energy/simple machines. **Did:** measured safe lever lifts.
+**Learned:** transfer/tradeoffs/limits. **Catholic connection:** truthful
+resource care. **Ask:** "Where did energy go besides the raised load?"
+No routine homework or home machine/launch.
+
+**Previous:** [Robot Olympics](./Session14_Robot_Olympics.md)
+**Next:** [Innovation Lab](./Session16_Innovation_Lab.md)

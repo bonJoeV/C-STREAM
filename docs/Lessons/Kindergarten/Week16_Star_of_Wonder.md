@@ -71,6 +71,7 @@ same five dots drawn differently, explaining that lines are our drawing choice.
 No Sun/night observations or dark room. Child draws pointed stars: accept the
 symbol, then explicitly distinguish shape from the real object.
 No dark paper: ordinary paper works; no supply purchase is necessary.
+The entire model pathway is indoors and independent of weather or nighttime access.
 
 **Family:** We counted a star-pattern model and explained what it cannot show.
 Ask, "Does your picture make light like a star?" No required evening outing.

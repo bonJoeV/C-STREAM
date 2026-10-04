@@ -1,218 +1,86 @@
 ---
 title: "Week 13: Fall Showcase"
-description: "Grades 5-6 STREAM celebration and demonstration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - astronomy
-  - thanksgiving
-  - service
-  - arts
+description: "Individual evidence-based portfolio sharing and caption revision"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎉 Week 13: Fall Showcase
+# Week 13: Fall Showcase
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | All Areas |
-
----
-
-# Week 13: Fall Showcase
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Present technical work to an audience
-2. Demonstrate learning through portfolio review
-3. Explain engineering decisions and problem-solving processes
-4. Mentor younger students or teach peers
-
-### Faith Integration Objectives
-Students will be able to:
-1. Reflect on growth in faith-reason integration
-2. Share how Catholic teaching connected to STREAM learning
-3. Celebrate community and collaboration
-
----
-
-# Week 13: Fall Showcase
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Celebration in Community** — The Church celebrates together. Our liturgies, feasts, and seasons remind us that joy is meant to be shared. Academic and creative achievements are gifts from God worthy of celebration.
-
-### Scripture Connection
-> "Let us consider how we may spur one another on toward love and good deeds, not giving up meeting together."
-> — Hebrews 10:24-25
-
-### Saint Connection
-**St. John Bosco** — Known for his joyful approach to education. He believed in celebrating young people's achievements and using celebration as a tool for formation.
-
----
-
-## 📚 Materials Needed
-
-- Student portfolios
-
-- Project displays
-
-- Presentation materials
-
-- Certificates
-
-- Reflection journals
-
-- Celebration supplies
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Celebration (5 min)
-**Prayer of Thanksgiving:**
-"Thank You, Lord, for the gift of learning. Thank You for creativity, curiosity, and community. Thank You for each student and the growth we've seen this semester. As we celebrate today, may we recognize that all our abilities come from You. Bless our sharing and help us encourage one another. Amen."
-
-**Celebration context:**
-
-- "Today we celebrate YOUR learning!"
-
-- "You've grown as engineers, scientists, programmers, and people of faith"
-
-- "Let's share and encourage each other"
-
-### Portfolio Review (10 min)
-**Self-assessment:**
-
-Students review their work from the semester:
-1. **Favorite project** — Which work are you most proud of?
-2. **Biggest growth** — Where did you improve most?
-3. **Challenge overcome** — What was hard that you conquered?
-4. **Faith connection** — How did faith and STREAM connect for you?
-5. **Leadership** — How did you help others?
-
-**Written reflection:** Complete portfolio reflection sheet.
-
-### Station Rotation / Demonstrations (20 min)
-**Station options (based on semester work):**
-
-**Station 1: Design Thinking Showcase**
-
-- Display social innovation projects
-
-- Explain user research and prototypes
-
-- Share Catholic Social Teaching connections
-
-**Station 2: Coding Corner**
-
-- Demonstrate Scratch projects
-
-- Show Sphero programs
-
-- Explain programming concepts
-
-**Station 3: Engineering Gallery**
-
-- Display bridge/structure projects
-
-- Share efficiency data
-
-- Explain structural principles
-
-**Station 4: Faith-STREAM Integration**
-
-- Present connections made between faith and learning
-
-- Share favorite saint or Scripture connections
-
-- Discuss how faith changes approach to science/technology
-
-**Rotation format:**
-
-- Students can present at their strong station
-
-- Also visit other stations to appreciate peers
-
-- Ask questions, give encouragement
-
-### Leadership Activity (5 min)
-**Option A: Mentoring Reflection**
-If presenting to younger grades:
-
-- "What would you tell a younger student about STREAM?"
-
-- "What do you wish someone told YOU at the start?"
-
-- "How can you encourage them?"
-
-**Option B: Peer Teaching**
-If staying within grade:
-
-- Quick teach: Explain ONE concept to a partner in 60 seconds
-
-- Switch roles
-
-- What makes a good explanation?
-
-### Awards & Recognition (3 min)
-**Celebrate achievements:**
-
-- Growth awards
-
-- Collaboration awards
-
-- Innovation awards
-
-- Faith integration awards
-
-- Perseverance awards
-
-"Everyone has grown. Everyone has contributed. Everyone is celebrated!"
-
-### Closing (2 min)
-**Looking ahead:**
-
-- "Second semester: even more challenges!"
-
-- "You're ready — you've proven you can learn hard things"
-
-- "Keep connecting faith and reason"
-
-**Closing Prayer:** "Lord, thank You for this semester. Thank You for each person here — for their unique gifts, their hard work, their faith. As we rest over the break, help us stay curious and grateful. Bring us back ready to learn and grow. We're grateful for this community and for You. Amen."
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-E3 - explain one decision using a test result and limitation; CST-A3 - revise an artifact caption after one reader question; CST-C2 - name how presenting/mentoring respected another learner. Each student supplies one artifact and these three responses; participation/awards alone do not demonstrate mastery. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Completed portfolio reflection
-
-- Participated in demonstrations
-
-- Supported and encouraged peers
-
-- Reflected on faith-STREAM integration
-
-- Celebrated learning with gratitude
-
----
-
-## 📎 Home Connection
-> "We celebrated our fall semester STREAM learning! Ask your child: 'What project are you most proud of?' 'What was your biggest growth?' 'How did faith connect to your STREAM work?' Celebrate their hard work and encourage them to keep exploring over the break!"
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Communication |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can explain a design decision with a recorded result/limit and revise a caption after a reader question. Communication makes evidence usable. |
+| Domains / Catholic connection | E, A, C; celebrate gifts without ranking human worth or requiring confident public performance. |
+| Local standards | CST-E3: evidence-supported explanation; CST-A3: caption critique/revision; CST-C2: accessible sharing. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; stored paper artifacts suffice; no live electrical/robot demonstrations. |
+| Difficulty / entry | Developing; teach result versus participation, do not assume attended earlier units. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min included. Kit: Portfolio Sharing. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; retrieve each pupil's own artifact and test
+record. If absent, supply complete fictional example below and label it practice,
+not their achievement. Pair pupils; odd enrollment forms one trio. Arrange
+seated exchanges so no crowded gallery traffic; public visitors not required.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Portfolio or practice sheet; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper display/caption sheets | 2/student | 20 | 30 | 40 | 50 |
+| Ruler; marker | 1 each/tool team of <=3 | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools/portfolios reusable. No certificates/food/photos needed.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Artifact:** saved work. **Evidence:** recorded test information.
+**Caption:** short explanatory text. **Limitation:** what the result cannot show.
+**Common misconception:** awards or "I worked hard" prove technical mastery.
+**If asked, "What if mine failed?"** A failure with an honest record supports
+learning; explain the change you would test.
+Practice card: "Flat beam stopped at 20 g; folded beam held 40 g over 15 cm.
+Same paper count. We did not measure breaking strength." Caption key includes
+shape decision, numerical result and cap. 40 - 20 = 20 g more demonstrated
+load, not a promise of doubled maximum strength.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Celebrate work, not claimed universal growth; ask "What can an artifact actually show?"
+2. **4-11 (7 min):** Model practice caption and respectful question; show large text/quiet oral option.
+3. **11-24 (13 min):** Each selects one artifact, writes title/decision/result/limit; arrange visual order so result is easy to locate.
+4. **24-35 (11 min):** Pair exchange: two minutes each plus question; trios two minutes each fit. Record reader question, revise caption, reread. Teacher samples explanations while all keep evidence.
+5. **35-41 (6 min):** Each submits old/new caption and explains one supported decision and access choice, orally/drawn/scribed as needed.
+6. **41-45 (4 min):** Return portfolios, cap/count tools, save evidence, clear displays.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which number supports the decision? What wasn't tested? How could a quiet
+presenter be included?" Success: identifiable result/limit, specific reader
+question, meaningful caption revision and inclusion decision. 1 unsupported;
+2 prompted; 3 independent; 4 compares another choice/tradeoff; NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+No artifact -> use labeled practice card. Missing data -> say "not recorded";
+do not invent evidence. Anxiety -> seated partner/teacher explanation.
+Time short -> retain one artifact, exit and cleanup; omit extra galleries.
+No live powered equipment, private photos, food, balloons or compelled spiritual
+disclosure. Stop/report unsafe crowding; no public media without school consent.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: caption frame "I chose / test showed / cannot show", scribing.
+Grade 6/challenge: defend evidence quality and revised hierarchy. Indoor seated
+sharing preserves objectives; invited event would need separate approval/time.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep individual captions/results, report unassessed pupils; reuse display backs.
+**Explored:** evidence communication. **Did:** shared an artifact and revised
+a caption. **Learned:** results need limits. **Catholic connection:** encouragement
+and inclusion. **Ask:** "Which question improved your caption?" No routine homework.

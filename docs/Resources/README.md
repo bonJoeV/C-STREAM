@@ -5,6 +5,15 @@ description: "Teacher, materials, assessment, family and substitute entry points
 
 # C-STREAM resources
 
+## Complete-reference handoff
+
+Use [K routines](Kindergarten_Reference_Routines.md) or
+[Grades 1-6 routines](Grade_Band_Reference_Routines.md) with the actual
+lesson, not in place of it. The [school release checklist](../Review/School_Release_Checklist.md)
+separates counted kits, safety, access and pilot evidence from document completion.
+The [scientific heritage cards](Catholic_Scientists_Heritage.md) now contain
+bounded, directly sourced facts rather than unverified attributed quotations.
+
 October 2026 operations use one set of templates and source-of-truth plans.
 C = Catholic identity; R = religion/faith integration; A = arts including music;
 M = mathematics. Native periods: K 25, 1-2 30, 3-4 40, 5-6 45 minutes.

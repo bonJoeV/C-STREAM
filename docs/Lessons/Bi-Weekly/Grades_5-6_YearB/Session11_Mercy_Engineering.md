@@ -1,249 +1,91 @@
 ---
 title: "Session 11: Mercy Engineering"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B Works of Mercy project"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - engineering
-  - life-science
-  - astronomy
-  - lent
-  - service
-  - arts
----
-
-
-# Session 11: Mercy Engineering 💜
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 11 of 17
-
-Students design engineering solutions that address the Corporal and Spiritual Works of Mercy during Lent.
-
+description: "A tested measurement-help card implemented through respectful peer instruction"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 11: Mercy Engineering
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand the Works of Mercy
-
-- Connect engineering to service
-
-- Design solutions that serve others
-
-- Plan implementation of mercy project
-
----
-
-# Session 11: Mercy Engineering
-
-## Materials Needed
-
-- 📋 Works of Mercy guides
-
-- 📦 Prototype materials
-
-- 📓 Engineering journals
-
-- 💻 Research resources
-
----
-
-## Catholic Integration
-
-### Theme
-**Works of Mercy** — Traditional Catholic ways of living mercy in the world, both physical (corporal) and spiritual needs.
-
-### Scripture
-> *"For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in."* — Matthew 25:35
-
-### Opening Prayer
-*Dear Jesus, you call us to see your face in those who suffer. During Lent, help us practice mercy in action. Guide our designs to truly serve "the least of these." Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (8 minutes)
-1. **Lenten Call:**
-   - Season of preparation
-   - Prayer, fasting, almsgiving
-   - Growing in mercy and love
-2. **Works of Mercy:**
-
-**Corporal (Physical Needs):**
-| Work | What It Means |
-|------|---------------|
-| Feed the hungry | Provide food for those without |
-| Give drink to the thirsty | Provide clean water access |
-| Clothe the naked | Provide clothing for those in need |
-| Shelter the homeless | Provide housing/shelter |
-| Visit the sick | Care for ill and suffering |
-| Visit the imprisoned | Support those in prison |
-| Bury the dead | Honor those who have died |
-
-**Spiritual (Soul Needs):**
-| Work | What It Means |
-|------|---------------|
-| Counsel the doubtful | Help those struggling with decisions |
-| Instruct the ignorant | Teach and educate |
-| Admonish sinners | Lovingly correct wrongs |
-| Comfort the sorrowful | Be present for those grieving |
-| Forgive offenses | Practice forgiveness |
-| Bear wrongs patiently | Endure difficulties with grace |
-| Pray for living and dead | Intercede in prayer |
-
-3. **Engineering for Mercy:**
-   - How can design address these needs?
-   - Technology serving human dignity
-   - Our skills for God's kingdom
-
-### Main Activity: Mercy Project Design (28 minutes)
-
-**Part 1: Mercy Focus Selection (6 minutes)**
-
-**Choose a Work of Mercy to Address:**
-
-- Which work resonates with you?
-
-- Where do you see this need?
-
-- How might engineering help?
-
-**Research the Need:**
-
-- Local examples of this need
-
-- Who specifically is affected?
-
-- What solutions exist?
-
-- What gaps remain?
-
-**Part 2: Solution Design (18 minutes)**
-
-**Design Thinking for Mercy:**
-
-**EMPATHIZE (3 min):**
-
-- Put yourself in the position of someone experiencing this need
-
-- What would truly help?
-
-- What preserves dignity?
-
-**DEFINE (2 min):**
-
-- "How might we [address work of mercy] for [specific group]?"
-
-**IDEATE (4 min):**
-
-- Many possible solutions
-
-- Technology-enabled options
-
-- Low-tech options
-
-- Service design options
-
-**PROTOTYPE (7 min):**
-
-- Choose best solution
-
-- Create detailed design or prototype:
-  - Physical invention
-  - App/digital solution
-  - Service system
-  - Awareness campaign
-
-- Document how it works
-
-**PLAN (2 min):**
-
-- How could this be implemented?
-
-- What resources needed?
-
-- Who would help?
-
-**Part 3: Presentation (4 minutes)**
-
-- Share mercy project designs
-
-- Explain work of mercy addressed
-
-- Discuss implementation possibilities
-
-### Engineering Journal (5 minutes)
-1. Work of Mercy chosen: ___
-2. Need addressed: ___
-3. Solution design (sketch and explain):
-4. Write: "Mercy means..."
-5. Write: "Engineering serves mercy by..."
-
-### Closing Circle (4 minutes)
-1. **Commitment** — "How will you practice mercy this Lent?"
-2. **Jesus' Challenge** — "Whatever you did for the least of these..."
-3. **Closing Prayer** — *"Merciful Jesus, you showed perfect mercy. Help us practice mercy in action. Bless our designs and those they will serve. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-C2 - consent/dignity safeguard; CST-E1 - specific criterion/constraint; CST-E3 - plan with evidence and limit. Classroom dry model only; no patient, food-contact, safety, or clinical device. Real service implementation requires an approved adult partner and separate time; family service is optional. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Understood Works of Mercy
-
-- [ ] Connected engineering to service
-
-- [ ] Created viable mercy solution
-
-- [ ] Made personal commitment
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one specific work
-
-- Partner design
-
-- Template for planning
-
-### For Advanced Students
-
-- Address multiple works
-
-- Detailed implementation plan
-
-- Lead class project
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Family Works of Mercy challenge! Choose one work to practice as a family this Lent. Research how your parish serves the community. Discuss: How does your family show mercy?
-
----
-
-## Teacher Notes
-
-- Connect to school/parish Lenten programs
-
-- Consider implementing class project
-
-- Rice Bowl connects to feeding hungry
-
-- Document service for portfolios
-
----
-
-**Previous:** [Session 10 — Space Science](./Session10_Space_Science.md)  
-**Next:** [Session 12 — Ecosystems](./Session12_Ecosystems.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Service |
+| Time | 1 meeting of 45 minutes; outside mercy work separate adult-approved time |
+| Objective / why / big idea | I can define a helpful instruction criterion, implement peer teaching and explain its evidence/limit. Mercy through teaching respects the learner's agency. |
+| Domains / Catholic connection | C, E; spiritual work of instructing expressed patiently, never labelling peers inferior or requiring donation/fasting. |
+| Local standards | CST-C2: dignity/consent; CST-E1: criterion/constraint; CST-E3: supported explanation/limit. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; safe classroom learning service, no clinical/water/food device. |
+| Difficulty / entry | Introductory; teach cm/ruler alignment, not assume learning deficit. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Measurement Help. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations. Teacher consents to in-class help-card task;
+students can choose teacher/scribed demonstration instead of peer performance.
+Seat 4/5/7/9 teams; each pupil creates a card and learns/teaches.
+Adult draws two verified lines 8/10 cm/team and pilots steps. Brief:
+"A learner needs clear measurement instructions without being judged."
+Criterion: peer correctly reads both lines after card, no prompting;
+constraint one card with at most four visual steps. Real outside partner
+needs consent, safety review, follow-up booking and no assumed impact.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Cardstock help card; paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Ruler; line/reference sheet; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardstock consumable; tools reusable; school supplies all.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Mercy:** caring response. **Consent:** free choice. **Criterion:** check.
+**Implementation:** doing approved action, not planning only.
+**Common misconception:** learners needing help have less dignity.
+**If asked, "Did we solve someone's learning difficulty?"** No; we checked
+two readings in this context, not overall achievement.
+Complete card steps: place ruler zero at line start; align along line;
+read end in cm; write value/unit. Key 8/10 cm, difference 2 cm.
+Correct two readings is 2/2 task success, not proof of lasting learning.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "How can help respect someone's choice?" Connect mercy.
+2. **4-11 (7 min):** Model card/criterion and patient invitation "Would you like to try?"
+3. **11-25 (14 min):** Each makes visual card and criterion/constraint; teams check directions/line marks.
+4. **25-35 (10 min):** Implement paired/trio peer instruction, two readings each; record actual responses. Revise one instruction, retry; pupils may choose teacher instead. Offer finished cards to teacher for future use, record accepted/deferred.
+5. **35-41 (6 min):** Individual test evidence, dignity safeguard, implementation status and honest learning/impact limit.
+6. **41-45 (4 min):** Store accepted cards, return rulers, save logs and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Did the learner read independently? Could they decline? Was it done or planned?"
+Each has criterion/constraint, two actual/labeled deferred checks and supported
+consent/limit explanation. 1 unsupported; 2 prompted; 3 independent;
+4 follow-up validation plan; NE for unobserved implementation.
+
+## IF THINGS GO WRONG / SAFETY
+
+Marks wrong -> adult verifies/replaces, preserve actual values. No rulers ->
+paper sequence model only, measurement teaching deferred. No acceptance ->
+keep prototype, no delivered-use claim. No compelled service/donation/fast,
+private health/faith data, medical/food-contact gifts or unsupervised visits.
+Stop/report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: pictorial steps, large cm scale, scribing.
+Grade 6/challenge: adapt instructions for ruler with physical end before zero
+and explain precision. In-class indoor service, no winter travel.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Save each learner check/actual status, count tools, report missing evidence.
+**Explored:** mercy through instruction. **Did:** made/tested and used help cards.
+**Learned:** patience and evidence. **Catholic connection:** dignity in service.
+**Ask:** "What showed your instructions were clear?" No routine homework.
+
+**Previous:** [Space Science](./Session10_Space_Science.md)
+**Next:** [Ecosystems](./Session12_Ecosystems.md)

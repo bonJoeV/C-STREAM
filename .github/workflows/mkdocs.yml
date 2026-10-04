@@ -43,6 +43,22 @@ jobs:
         shell: pwsh
         run: .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
 
+      - name: Test curriculum map rejection cases
+        shell: pwsh
+        run: .\scripts\Test-CurriculumMaps.ps1
+
+      - name: Validate complete lesson references
+        shell: pwsh
+        run: .\scripts\Test-LessonReferences.ps1
+
+      - name: Validate external candidate maps
+        shell: pwsh
+        run: .\scripts\Build-ExternalAlignment.ps1 -ValidateOnly
+
+      - name: Validate materials budgets
+        shell: pwsh
+        run: .\scripts\Test-MaterialsBudget.ps1
+
       - name: Validate Kindergarten references
         shell: pwsh
         run: .\scripts\Test-KindergartenReferences.ps1
@@ -51,5 +67,9 @@ jobs:
         shell: pwsh
         run: .\scripts\Test-SnapCircuitsReferences.ps1
 
-      - name: Build and deploy MkDocs
+      - name: Build documentation
+        run: mkdocs build --strict
+
+      - name: Deploy MkDocs
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
         run: mkdocs gh-deploy --force

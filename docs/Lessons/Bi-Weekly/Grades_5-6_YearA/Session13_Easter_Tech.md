@@ -1,231 +1,91 @@
 ---
 title: "Session 13: Easter Technology"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A Easter celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - life-science
-  - easter
-  - arts
----
-
-
-# Session 13: Easter Technology 🌅
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 13 of 17
-
-Students use technology to create meaningful Easter projects that celebrate and share the resurrection message.
-
+description: "A two-scene Easter message with source/privacy and reader revision"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 13: Easter Technology
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Apply technology skills to faith expression
-
-- Create a digital Easter project
-
-- Share the resurrection message creatively
-
-- Reflect on Easter's meaning
-
----
-
-# Session 13: Easter Technology
-
-## Materials Needed
-
-- 💻 Computers with various software
-
-- 📱 Digital creation tools
-
-- 📓 Engineering journals
-
-- 🎨 Additional supplies as needed
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**The Apostles** — After experiencing the risen Christ, they used every available means to share the Good News!
-
-### Scripture
-> *"He is not here; he has risen! Remember how he told you..."* — Luke 24:6
-
-### Opening Prayer
-*Alleluia! Christ is risen! Thank you, God, for the gift of Easter and the promise of eternal life. Help us use our skills to share this Good News with joy! Alleluia! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **ALLELUIA!** — "The greatest celebration of our faith!"
-2. **Easter Truth:**
-   - Jesus really died
-   - Jesus really rose
-   - We really have hope of eternal life
-3. **Technology for Evangelization:**
-   - Early Christians used scrolls, art, architecture
-   - We can use digital tools!
-   - Share Good News in modern ways
-
-### Main Activity: Easter Project Creation (31 minutes)
-
-**Part 1: Project Selection (5 minutes)**
-
-**Choose Your Technology Platform:**
-
-**Option A: App Inventor Easter App**
-
-- Interactive Easter story app
-
-- Prayer/devotional app
-
-- Easter quiz or game
-
-**Option B: Advanced Scratch Animation**
-
-- Animated Easter story
-
-- Interactive resurrection narrative
-
-- Easter message game
-
-**Option C: Digital Video/Presentation**
-
-- Easter documentary short
-
-- Animated presentation
-
-- Photo story with narration
-
-**Option D: Website/Digital Portfolio**
-
-- Easter web page
-
-- Interactive Easter exploration
-
-- Digital Easter garden
-
-**Option E: Other Technology**
-
-- Podcast episode
-
-- Interactive infographic
-
-- Digital art series
-
-**Part 2: Create (22 minutes)**
-
-**Project Requirements:**
-
-- Must communicate Easter message
-
-- Must use technology skills effectively
-
-- Must be shareable with others
-
-- Must include Scripture reference
-
-**Work Time:**
-
-- Focus on quality content
-
-- Apply skills learned this year
-
-- Debug and refine
-
-- Prepare for presentation
-
-**Part 3: Presentation (4 minutes)**
-
-- Quick showcase of work
-
-- (Extended presentations can continue)
-
-### Engineering Journal (5 minutes)
-1. Project description
-2. Technology skills used
-3. Easter message communicated: ___
-4. Write: "The resurrection means to me..."
-5. Write: "I want to share this because..."
-
-### Closing Circle (3 minutes)
-1. **Easter Joy** — "What does resurrection mean for your life?"
-2. **Sharing Good News** — "How will you share the Easter message?"
-3. **Closing Prayer:**
-
-*Alleluia! Alleluia!*
-*Christ has risen from the dead!*
-*Death has no power over him—or over us!*
-*Thank you, Jesus, for the gift of eternal life!*
-*Help us share this Good News with everyone!*
-*Alleluia! Amen!*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-A3 - purposeful message revised after feedback; CST-T3 - safe school-only media/source use; CST-C2 - respectful audience/access decision. Paper storyboard is available, explicitly **not digital production/programming** evidence. No public posting, personal accounts, identifiable images, or unlicensed music. Approved Scripture translation and historical claims **VERIFICATION REQUIRED**; no routine homework.
-**Observation Checklist:**
-
-- [ ] Applied appropriate technology
-
-- [ ] Communicated Easter message effectively
-
-- [ ] Demonstrated skill application
-
-- [ ] Created shareable product
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler technology option
-
-- Template provided
-
-- Partner work
-
-### For Advanced Students
-
-- Complex multi-media project
-
-- Original creative approach
-
-- Plan for distribution
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your Easter project with family! Attend Easter liturgies together. Discuss: What does resurrection mean for our family? How can we share Easter hope with others?
-
----
-
-## Teacher Notes
-
-- Time near Easter break
-
-- Projects can be shared at school celebration
-
-- Consider posting on school website
-
-- Continue work if needed after Easter
-
----
-
-**Previous:** [Session 12 — Life Science](./Session12_Life_Science.md)  
-**Next:** [Session 14 — Sphero Challenge](./Session14_Sphero_Challenge.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Communication |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can communicate an Easter message clearly, revise after feedback and justify safe media choices. The audience needs accurate content and access. |
+| Domains / Catholic connection | A, T, C; Resurrection and hopeful service, distinct from seasonal growth; no compelled spiritual reflection. |
+| Local standards | CST-A3: message revision; CST-T3: source/media choice; CST-C2: audience/access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Optional; paper storyboard primary, approved Scratch/slide production optional and recorded separately. |
+| Difficulty / entry | Introductory; supplied two-scene scope, no app/website expertise assumed. |
+| Prep / cleanup | Light paper first 15 min/repeat 10; device preflight extra; cleanup 4 min. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations; tool teams 4/5/7/9. Religion teacher confirms
+seasonal use. Supplied original paraphrase content: scene 1 "Catholics celebrate
+Christ's Resurrection at Easter"; scene 2 "We can share hope through kind,
+respectful service." Reference John 20:1-18, not an invented direct quotation.
+Use original abstract sunrise/helping-hands drawings, not photographs of pupils.
+Optional IT-pretested editor/save school-only; no public accounts/publication.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper storyboard/evidence | 2/student | 20 | 30 | 40 | 50 |
+| Pencil | 1/student | 10 | 15 | 20 | 25 |
+| Ruler; marker; content sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Computer with approved editor, optional | 1/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools reusable. Software is access, no downloaded media.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Storyboard:** ordered visual plan. **Caption:** message text.
+**Source:** content origin. **Audience:** intended readers.
+**Common misconception:** spring growth proves Resurrection.
+**If asked, "May I add music/photos?"** Not needed; use original silent visuals
+and no identifiable media. Paper does not demonstrate digital production.
+Digital starter: two slides with supplied texts and original drawings, advance/
+back; or Scratch one sprite: green flag say scene 1; space key say scene 2.
+Each digital pupil edits/runs if chosen. Two scenes, not a full narrative/game.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "How can a message be hopeful without exaggerating?" State faith claim/source.
+2. **4-11 (7 min):** Model two scenes, contrast/readable caption and original-media rule.
+3. **11-25 (14 min):** Each sketches two-scene composition; optional teams create actual slides/Scratch starter with rotating editor/operator.
+4. **25-35 (10 min):** Peer reads message at seated distance and asks one question; record/revise caption or visual order; retest.
+5. **35-41 (6 min):** Individual old/new message, source/paraphrase status, audience access choice and actual paper/digital route.
+6. **41-45 (4 min):** Save school-only if digital, close devices, cap/count tools and save evidence.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which words are paraphrase? What will a reader notice first? Why no photos?"
+Each has coherent two scenes, specific feedback/revision and safe media/
+access reason. 1 unsupported; 2 prompted; 3 independent; 4 explains visual
+tradeoff; NE for missing. Do not score personal piety.
+
+## IF THINGS GO WRONG / SAFETY
+
+No devices -> complete paper communication objective, digital production
+deferred. Content unclear -> supplied two sentences, no fabricated quote.
+Too much animation -> static panels. No public sharing, personal accounts,
+private prayer/health data, unlicensed media, flashing effects or real-user claims.
+Stop/report unsafe content/data use.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: predivided panels, large words, oral/scribed caption.
+Grade 6/challenge: defend accessible visual sequence and faith-symbol limit.
+Indoor seated production; no outdoor/Easter-event prerequisite.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Record actual route, keep caption changes and report incomplete checks.
+**Explored:** Easter communication. **Did:** revised a two-scene message.
+**Learned:** accuracy/access/media care. **Catholic connection:** Resurrection
+and service. **Ask:** "What question improved your message?" No routine homework.
+
+**Previous:** [Life Science](./Session12_Life_Science.md)
+**Next:** [Sphero Challenge](./Session14_Sphero_Challenge.md)

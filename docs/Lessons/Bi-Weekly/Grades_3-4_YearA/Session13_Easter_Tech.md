@@ -1,203 +1,75 @@
 ---
 title: "Session 13: Easter Tech"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A Easter celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - life-science
-  - easter
-  - service
-  - arts
----
-
-
-# Session 13: Easter Tech 🐣
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 13 of 17
-
-Students use technology to celebrate Easter, creating digital projects that share the resurrection message.
-
+description: "A private two-slide Easter message with a tested audience revision"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-T1, CST-T3, CST-A3]
+technology: Required
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Compatible computers, Plain paper, Pencils]
 ---
 
 # Session 13: Easter Tech
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand the Easter story and its meaning
-
-- Use technology to express faith
-
-- Create a digital Easter project
-
-- Share the Good News creatively
-
----
-
-# Session 13: Easter Tech
-
-## Materials Needed
-
-- 💻 Computers with Scratch or presentation software
-
-- 🎨 Digital creation tools
-
-- 📓 Engineering journals
-
-- 📸 Easter symbol reference images
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Mary Magdalene** — First to see the risen Jesus and tell others! She was the first "evangelist" of Easter!
-
-### Scripture
-> *"He is not here; he has risen, just as he said."* — Matthew 28:6
-
-### Opening Prayer
-*Alleluia! Jesus is risen! Thank you, God, for the gift of Easter and eternal life. Help us share this Good News with everyone. Alleluia! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **ALLELUIA!** — "We can say it again! Jesus is RISEN!"
-2. **Easter Story Review:**
-   - Jesus died on Good Friday
-   - He was buried in a tomb
-   - On Sunday morning—THE TOMB WAS EMPTY!
-   - Jesus rose from the dead!
-3. **Mary Magdalene:**
-   - First to see Jesus risen
-   - Ran to tell others: "I have seen the Lord!"
-4. **Our Mission** — "Use technology to share the Easter message!"
-
-### Main Activity: Easter Digital Creation (27 minutes)
-
-**Part 1: Planning (5 minutes)**
-
-- What Easter message will you share?
-
-- Who is your audience?
-
-- What format will you use?
-
-**Part 2: Create (18 minutes)**
-
-**Option A: Scratch Easter Animation**
-
-- Animate the Easter story
-
-- Empty tomb, angel, risen Jesus
-
-- Add narration and message
-
-**Option B: Easter Digital Slideshow**
-
-- Create presentation of Easter story
-
-- Include images, Scripture, message
-
-- Design for sharing
-
-**Option C: Easter Video Script**
-
-- Plan a video about Easter
-
-- Write script
-
-- Create storyboard
-
-- Record if time (or plan for later)
-
-**Option D: Digital Easter Art**
-
-- Create digital artwork
-
-- Include symbols: tomb, cross, sunrise, butterfly
-
-- Add Easter Scripture
-
-**Part 3: Sharing Celebration (4 minutes)**
-
-- Share creations
-
-- Celebrate together!
-
-- "ALLELUIA!"
-
-### Engineering Journal (5 minutes)
-1. Describe your Easter project
-2. Write: "Easter means to me..."
-3. Write: "I shared the message by..."
-4. Draw your favorite Easter symbol
-
-### Closing Circle (3 minutes)
-1. **Greatest News** — "What makes Easter so special?"
-2. **Be Like Mary** — "How can we tell others?"
-3. **Closing Prayer** — *"Alleluia! Jesus, you conquered death! Help us share your victory with everyone we meet. Alleluia! Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Understood Easter story
-
-- [ ] Created meaningful digital project
-
-- [ ] Included Easter message
-
-- [ ] Shared with enthusiasm
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Template provided
-
-- Partner work
-
-- Simpler project scope
-
-### For Advanced Students
-
-- Complex animation
-
-- Original music/narration
-
-- Multiple format project
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your Easter project with family! Attend Easter Mass together. Look for Easter symbols at church. Talk about what Easter means to your family. Send Easter messages to loved ones!
-
----
-
-## Teacher Notes
-
-- Time near Easter break
-
-- Projects can be shared at school celebration
-
-- Consider projecting for school community
-
-- Save for portfolio
-
----
-
-**Previous:** [Session 12 — Plants & Growth](./Session12_Plants_Growth.md)  
-**Next:** [Session 14 — Dash Challenge](./Session14_Dash_Challenge.md)
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Faith communication; **one 40-minute meeting**.
+**Objective:** edit/present a two-slide Easter message, revise for a peer and
+explain private sharing. **Why:** digital revision/display can clarify a
+religious message without treating it as scientific proof.
+CST-C1 belief/symbol/evidence distinction; CST-T1 actual digital operation;
+CST-T3 privacy/credit; CST-A3 audience critique.
+Official alignment **VERIFICATION REQUIRED**. Technology **Required**;
+novice workflow. Prep 20 after software works; installation extra; cleanup 5.
+
+## Before class and exact supplies
+
+Approved offline LibreOffice Impress: blank presentation, `Slide > New Slide`,
+`Insert > Text Box`, `Slide Show > Start from First Slide`, Escape, local
+`File > Save As` `.odp`, reopen. Pretest two-slide sample, leave save location.
+Equivalent school app only after teacher leaves tested exact commands;
+otherwise paper pathway. Teams <=3 (4/5/7/9): computer/team; two paper sheets/
+pencil per pupil; teacher board/timer/demo from device.
+Teacher paraphrase on board: Christians celebrate Jesus' Resurrection at Easter;
+empty-tomb image communicates hope. No inherited Scripture quotation needed.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Computers (1/team) | 4 | 5 | 7 | 9 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Slide = display page; audience = reader; symbol = meaningful image; revision =
+deliberate improvement. Slide 1 states Easter belief, slide 2 original hopeful
+message with simple drawn shape. **Misconception:** butterfly proves Resurrection.
+**If asked "Is metamorphosis death?"** No; organism develops through living stages.
+Dry devices, no names/photos/voices, accounts, external art downloads/public
+uploads or automatic delivery. Stop/report damaged gear; indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional Easter prayer; "What message can our design communicate?"
+2. **4-10:** Demo two slides/text/present/Escape; clarify belief versus model.
+3. **10-21:** Every pupil edits/presents three-minute turn; peers storyboard and
+   record actual software action.
+4. **21-29:** Peer states message without coaching; record feedback, revise
+   word/layout, present again.
+5. **29-35:** Each child explains religious meaning, actual edit/test revision and
+   safe sharing choice; roster marks operation independently.
+6. **35-40:** Save/reopen, exit/return, collect dated storyboards.
+
+## Success/access/troubleshooting
+
+Meets: accurate message distinction, observed operation, critique-backed
+revision/private plan. Grade 3/support: two text stems/dictation/motor assistance.
+Grade 4/challenge: space/readability tradeoff, no invented quotation.
+Text missing: check selected slide/box. No device/app: same times two paper
+slides/peer test; art/faith reasoning only, **digital operation not observed**.
+Half stations permit two work-window waves; fewer requires later operation.
+Early finish: new reader, not multimedia expansion.
+
+**Family:** We revised private Easter messages. Ask, "Which symbol conveyed
+hope?" Optional conversation, no home device or public sharing.

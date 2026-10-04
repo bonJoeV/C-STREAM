@@ -64,11 +64,22 @@ safety/source approvals or classroom certification.
 The pass adds dated weather comparisons, requested book criteria/tradeoffs,
 hypothetical privacy/adult-help checks, implemented individual evidence and
 single non-conflicting procedures. It also expands the material catalog from
-48 to 68 rows, resolves every K primary term and supplies twelve source-verified
-arts candidates without inventing unavailable science/math identifiers.
+its original stock model to named physical/resource/component identities,
+preserving selected purchase totals rather than buying the entire catalogue.
+K now has sixteen external candidates spanning verified arts/national-CS codes.
 
-The band reviews document exact revised lessons, rationale, remaining
-concerns and original-versus-revised quality:
+**All-grade completion pass:** the remaining **61 early-grade, 60 middle-grade
+and 58 upper-grade packages** are now complete. All **251 documents** are
+rebuilt references with zero improved-only or unchanged outline backlog.
+The shared validator passes **345 native meetings, 2,002 intervals and 266
+relative links**, while preserving original baseline keys and Snap routes.
+Twenty-nine source-specific external candidates are checked against a
+twenty-four-record benchmark register; unsupported official numbers remain
+withheld. Material identities, software access, prepared records, kit components
+and reported stock are tracked separately.
+
+The band reviews document exact revised lessons, rationale, baseline history
+and remaining local/source checks:
 
 - [Kindergarten changes](Kindergarten_Review.md)
 - [Grades 1-2 changes](Grades_1-2_Review.md)
@@ -103,5 +114,7 @@ Local safety, accommodation, consent and account policies still apply.
 
 Do not label the entire program "substitute-proof" until every **scheduled**
 core lesson has passed the document/kit walkthrough and classroom pilot.
+The written package queues are closed; this gate refers to real local release
+evidence, not another unimplemented lesson-outline backlog.
 The [seven simulations](Validation.md) are necessary desk checks; actual
 student learning and classroom timings need observed evidence.

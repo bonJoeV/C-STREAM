@@ -1,181 +1,86 @@
 ---
 title: "Week 1: Welcome to C-STREAM"
-description: "Grades 3-4 introduction to C-STREAM program"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - life-science
-  - service
-  - arts
----
-
-# 🎉 Week 1: Welcome to C-STREAM
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **STREAM Focus** | Introduction to all STREAM areas |
-
+description: "Notice, question and cooperate in a first investigation"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-C2, CST-S1]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Metric ruler, Cardstock]
 ---
 
 # Week 1: Welcome to C-STREAM
 
-## 🎯 Learning Objectives
+## Lesson at a glance
 
-### STEM Objectives
-Students will be able to:
-1. Explain what C-STREAM stands for and represents
-2. Identify the connections between different STREAM areas
-3. Begin developing a growth mindset for challenges
-4. Establish community expectations for collaboration
+Grades 3-4; Weekly A; Foundations; **one 40-minute meeting**.
+**Objective:** I can record two observations, ask one testable question and
+demonstrate a fair turn. **Why:** curious questions and respectful cooperation
+make shared investigations possible. C-STREAM joins Catholic identity, science,
+tools, religion, engineering, arts and mathematics; this introduction assesses
+observation and dignity, not mastery of every domain. Catholic connection:
+honest reporting and including another learner put faith into action.
+CST-C1 truthful observation versus prediction; CST-C2 fair access; CST-S1 detail
+and question. Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory, no prior course assumed. Prep 10 minutes; cleanup 5 included.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Understand why "Religion" is central to C-STREAM
-2. Recognize that faith and science work together
-3. Commit to respectful, collaborative community
+## Before class and exact supplies
 
----
+Balanced teams <=3: 4/5/7/9. Fold one demonstration paper tent. Board:
+`I see / I predict / I wonder`, objective and acronym chart; no bought handout
+or historical cards. Per team: two paper sheets, ruler, cardstock card.
+Per pupil: evidence sheet/pencil. Teacher board/timer; demo from issued supplies.
 
-# Week 1: Welcome to C-STREAM
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Teams; rulers; cardstock cards (1/team each) | 4 | 5 | 7 | 9 |
+| Team paper (2/team) | 8 | 10 | 14 | 18 |
+| Evidence paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
 
-## 🙏 Faith-Reason Integration
+Rulers/cards reusable; save paper in portfolios.
 
-### Catholic Teaching Connection
-**Faith and Reason** — Pope St. John Paul II wrote that "faith and reason are like two wings on which the human spirit rises." In C-STREAM, we don't choose between faith and science — we use both to understand God's creation and serve others.
+## Vocabulary and background
 
-### Scripture Connection
-> "The heavens declare the glory of God; the skies proclaim the work of his hands."
-> — Psalm 19:1
+Observation = noticed evidence; prediction = expected result; question =
+something to investigate; collaboration = working with fair access.
+Science can revisit questions, not follow one compulsory recipe.
+**Misconception:** a guess about strength is an observation; point to what was
+actually seen. **If asked “Can faith answer how far this bends?”** We measure
+the model; faith guides truthful, respectful work. Faith/reason paraphrase:
+[Fides et Ratio opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html).
+No inherited biography recital or unattributed quotation.
 
-### Saint Connection
-**St. John Paul II** — This pope was a philosopher, theologian, and champion of the harmony between faith and reason. He encouraged Catholics to embrace science as a way to know God better.
+## SAFETY
 
----
+Desk paper only; no loads, launches, food or sharp tools. Rulers stay flat.
+Stop damaged-material work and notify the teacher. Indoor primary, no weather
+requirement.
 
-## 📚 Materials Needed
+## Meeting 1: exactly 40 minutes
 
-- C-STREAM poster/visual
+1. **0-5:** Optional original prayer: “God, help us notice carefully and include
+   one another.” Explain acronym with a tool, question and drawing example.
+2. **5-10:** Show tent. “What can you see? What needs a test?” Model `two folds`
+   as observation and `it will stand` as prediction.
+3. **10-20:** Teams fold standing paper/card forms. Every child folds and measures
+   whole-centimeter height; rotate roles.
+4. **20-28:** Compare forms. Each records two visible details and one testable
+   question. “What would stay the same?” This does not prove all card stronger.
+5. **28-35:** Each child shows observation/question/fair-turn action. Partners
+   propose one lab norm; teacher records individual evidence.
+6. **35-40:** Return rulers, flatten/save models, collect dated sheets, clear
+   tables. Agree to report failures honestly and share tools.
 
-- "What is STREAM?" handout
+## Success, access and troubleshooting
 
-- Community expectations chart
+Meets: two verifiable details, investigable question and observed fair turn
+(C1/C2/S1). Partial = developing; missing = not yet evidenced; excitement not
+assessed. Grade 3/support: stems, scribing, large folds. Grade 4/challenge:
+identify a confounded comparison and propose two controls. No card: compare
+paper shapes, labeling the change. Falling model: record rather than erase.
+Early finish: refine question, no loads. All nine desks work simultaneously.
 
-- Sticky notes
-
-- Growth mindset video or story (optional)
-
-- Sample project pictures from each STREAM area
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Introduction (6 min)
-**Prayer:** "Creator God, thank You for the gift of curious minds. As we begin our C-STREAM journey, help us see Your wonder in all we learn. Unite us as a community of learners who support and encourage one another. Amen."
-
-**Icebreaker:** "What's something you've wondered about or wanted to build/create?"
-
-### What is C-STREAM? (10 min)
-**Unpack the acronym:**
-
-- **C** — Catholic (our identity; faith guides everything)
-
-- **S** — Science (exploring God's creation)
-
-- **T** — Technology (tools we use and create)
-
-- **R** — Religion (the heart of who we are)
-
-- **E** — Engineering (solving problems with design)
-
-- **A** — Art (creative expression and beauty)
-
-- **M** — Math (patterns and logic in creation)
-
-**Discussion:**
-
-- "Why do you think Religion is in the middle?"
-
-- "How might science and faith work together?"
-
-- "Have you heard of any scientists who were also people of faith?"
-
-**Show examples** of projects that combine multiple STREAM areas.
-
-### Faith + Science: Partners, Not Enemies (8 min)
-**Key teaching:**
-
-- Some people think you have to choose between faith and science — NOT TRUE!
-
-- The Catholic Church has supported science for centuries
-
-- Many great scientists were Catholic (Galileo, Mendel, Lemaître)
-
-**Mini-stories:**
-1. **Gregor Mendel** — A monk who discovered genetics by studying pea plants
-2. **Fr. Georges Lemaître** — A priest who proposed the Big Bang theory
-3. **Sister Mary Kenneth Keller** — First American woman to earn a PhD in computer science
-
-**Reflection:** "Science tells us HOW things work. Faith tells us WHY they matter. We need both!"
-
-### Community Expectations (10 min)
-**Establish our C-STREAM community values:**
-
-**Brainstorm together:** "What do we need from each other to learn well?"
-
-**Core expectations:**
-1. **Respect** — Ideas, materials, and each other
-2. **Collaboration** — We learn better together
-3. **Perseverance** — We don't give up when it's hard
-4. **Wonder** — We stay curious and ask questions
-5. **Faith** — We see God in all our learning
-
-**Create visual:** Students sign or add to community covenant.
-
-### Growth Mindset Introduction (4 min)
-**Key message:** In C-STREAM, mistakes are learning opportunities!
-
-**"Not Yet" mindset:**
-
-- "I can't do this" → "I can't do this YET"
-
-- "This is too hard" → "This is challenging my brain to grow"
-
-- "I failed" → "I learned what doesn't work"
-
-**Faith connection:** "God made us to grow and learn. Every challenge is an opportunity!"
-
-### Closing & Preview (2 min)
-**Preview:** "Next week, we'll dive into coding with Sphero!"
-
-**Exit ticket:** On sticky note: "One thing I'm excited about in C-STREAM this year."
-
-**Closing Prayer:** "Lord, bless our C-STREAM community. Help us learn with open minds and hearts. May everything we discover and create give glory to You. Amen."
-
----
-
-## ✅ Assessment
-
-- Participated in C-STREAM discussion
-
-- Contributed to community expectations
-
-- Completed exit ticket with genuine excitement
-
----
-
-## 📎 Home Connection
-> "Welcome to C-STREAM! Today we explored how Catholic education combines faith and science. Ask your child: 'What does C-STREAM stand for?' 'Why is faith important in science?' This year, we'll learn that faith and reason work together — just like Pope St. John Paul II taught!"
-
----
-
-**Lesson Version:** 1.0 | **
+**Family:** We noticed details, asked questions and shared tools. Ask, “What was
+an observation rather than a guess?” Optional: notice an everyday tool. No
+homework, purchase or device needed.

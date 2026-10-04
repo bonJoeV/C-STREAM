@@ -1,213 +1,83 @@
 ---
 title: "Session 16: Little Bits"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A electronic circuits"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - light
-  - circuits
-  - astronomy
-  - arts
----
-
-
-# Session 16: Little Bits 💡
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 16 of 17
-
-Students explore electronic circuits using Little Bits, creating inventions that combine inputs and outputs.
-
+description: "A manufacturer-approved button/light input-output invention"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T1, CST-E1, CST-E2]
+technology: None
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [LittleBits power module, LittleBits button module, LittleBits light module, Manufacturer project diagram, Team sorting tray, Cardstock, Plain paper, Pencils, Markers]
 ---
 
 # Session 16: Little Bits
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand basic circuit concepts
-
-- Identify inputs, outputs, and power in circuits
-
-- Build working Little Bits creations
-
-- Design inventions that solve problems or create joy
-
----
-
-# Session 16: Little Bits
-
-## Materials Needed
-
-- 🔌 Little Bits kits (from CSCOE library)
-
-- 📋 Little Bits component reference cards
-
-- 📦 Craft materials for mounting
-
-- 📓 Engineering journals
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Carlo Acutis** — Canonized September 7, 2025; an example of service with skills, not a claim about which classroom kit he would have liked.
-
-### Scripture
-> *"Each of you should use whatever gift you have received to serve others."* — 1 Peter 4:10
-
-### Opening Prayer
-*Dear God, you sparked the gift of creativity in us. Help us use electronics and inventions to bring joy and help others. Guide our designs today. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Meet Little Bits:**
-   - "Electronic building blocks that snap together!"
-   - Color-coded for easy understanding
-2. **Circuit Parts:**
-   - 🔵 **Blue** = Power (batteries)
-   - 🟢 **Green** = Outputs (lights, sounds, motors)
-   - 🩷 **Pink** = Inputs (buttons, sensors)
-   - 🟠 **Orange** = Wires (connect pieces)
-3. **Signal chain:** Power -> inputs -> outputs within the manufacturer's modular system
-4. **St. Carlo Acutis** — Use skills for good
-
-### Main Activity: Little Bits Exploration (27 minutes)
-
-**Part 1: Basic Circuits (7 minutes)**
-
-- Build: Power + Output
-  - Connect power to LED
-  - See it light up!
-
-- Add: Power + Input + Output
-  - Add button between power and LED
-  - Now it's controlled!
-
-- Experiment with different outputs:
-  - Buzzer
-  - Motor
-  - LED
-
-**Part 2: Sensor Exploration (8 minutes)**
-
-- Try different inputs:
-  - Light sensor
-  - Sound sensor
-  - Dimmer
-
-- Create "if-then" circuits:
-  - IF dark, THEN light on
-  - IF sound, THEN motor spins
-
-- How could these help people?
-
-**Part 3: Invention Challenge (10 minutes)**
-
-**Challenge:** Design something useful or joyful!
-
-Ideas:
-
-- Night light (light sensor + LED)
-
-- Doorbell (button + buzzer)
-
-- Greeting card with sound
-
-- Spinning display
-
-- Alarm system
-
-Steps:
-1. Choose your purpose
-2. Select components
-3. Build and test
-4. Improve!
-5. Mount on craft material if desired
-
-**Part 4: Invention Fair (2 minutes)**
-
-- Quick share: "My invention is... It does..."
-
-- Celebrate creativity!
-
-### Engineering Journal (5 minutes)
-1. Draw your circuit (label Power, Input, Output)
-2. Write: "My invention..."
-3. Write: "It helps/creates joy by..."
-4. Write: "I could improve it by..."
-
-### Closing Circle (3 minutes)
-1. **Invention Appreciation** — "What creative ideas did you see?"
-2. **Technology for Good** — "How can inventions serve others?"
-3. **Closing Prayer** — *"Thank you, God, for the gift of invention. Help us use technology to make the world better and bring joy to others. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Built working circuits
-
-- [ ] Understood input/output concept
-
-- [ ] Created purposeful invention
-
-- [ ] Explained how invention works
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Start with simple circuits
-
-- Partner assistance
-
-- Step-by-step guidance
-
-### For Advanced Students
-
-- Complex multi-component circuits
-
-- Solve specific problem
-
-- Design for particular user
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Tell your family about your invention! Look for electronics in your home—what are the inputs and outputs? Brainstorm inventions that would help your family. Research young inventors!
-
----
-
-## Teacher Notes
-
-- Reserve Little Bits 2+ weeks ahead
-
-- Review components before class
-
-- Ensure batteries are charged
-
-- Allow creativity in designs
-
-- Document inventions for portfolio
-
----
-
-**Previous:** [Session 15 — Simple Machines](./Session15_Simple_Machines.md)  
-**Next:** [Session 17 — Year Exhibition](./Session17_Exhibition.md)
-
-## SAFETY / compatibility gate
-
-Teacher inventories manufacturer-approved modules and closed battery holders; no wall power, loose magnets/batteries, exposed spinning blades or improvised connections. Off before edits; warm/leaking/damaged parts mean stop/off/report and adult isolation. **VERIFICATION REQUIRED:** actual light-sensor dark mode and available sound/dimmer modules; use the button/LED path if unsupported. No automatic dark-light claim without testing. Primary electronics Required; paper input/output diagrams are models, not working devices. Hardware stays at school; reserve 5 minutes of invention for cleanup. Each child predicts input/output and explains an observed test.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Circuits; **one 40-minute meeting**.
+**Objective:** assemble/test a documented button-light chain and revise its
+readable classroom signal label. **Why:** input-output tools require actual
+operation, not guessed sensor behavior.
+Catholic/CST-C2 real turns/access label; CST-T1 input/output/troubleshooting;
+CST-E1 criterion/limits; CST-E2 physical/label retest.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**: no
+software, but approved physical modules/power are mandatory. Developing.
+Prep 20 after matching instructions/inspection; approval/loan extra; cleanup 5.
+
+## Before class and exact supplies
+
+Select the **actual model's documented power/button/enclosed-light project**.
+Record manufacturer/model/manual page, module IDs, age guidance, approved supply
+and **b = fitted cells per station** (or documented enclosed rechargeable supply).
+Adult checks protection/holder/access, assembles/test release/press twice and
+leaves diagram/setup card. No assumed battery type/count, sensors or motors.
+Failure -> paper pathway/report, not invented wiring. Do not mix with Snap/AA
+parts. Existing Snap routes remain unchanged in
+[classroom guide](../../../Resources/Snap_Circuits_Classroom_Guide.md).
+
+Teams <=3 (4/5/7/9), one complete station/team: **one each** approved power,
+button and light module, tray/diagram/cardstock label/marker.
+Per pupil paper/pencil. Teacher board/timer/demo from kit. Fitted cells = station
+count x b, adult-only; record exact local allocation before teaching.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Stations; each module; trays; diagrams; labels; markers (1/team each) | 4 | 5 | 7 | 9 |
+| Paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Power = energy source; input = button action; output = light; signal chain =
+documented module order. **Misconception:** any magnetic chain is safe.
+**If asked "Can it turn on in the dark?"** Only a matching verified sensor
+project could do that; not today's button path.
+Adult isolates supply before module changes/checks before power. No mains,
+bare cells, free wiring, loose magnets, blades or take-home hardware.
+Warm/smelly/leaking/damaged -> stop, adult isolate, OUT OF SERVICE/report.
+Dry indoor stations, no water or battery access by pupils.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "Who needs a clear classroom signal?" Optional inclusion prayer.
+2. **4-10:** Show approved diagram, isolation, button states and stop rules.
+3. **10-22:** Each contributes a connection while isolated; adult checks/powers.
+   Every pupil operates release/press twice, predicts/records actual outputs.
+4. **22-30:** Design word/symbol label; peer reads at 1 m, revise/retest.
+   Adult manages one documented disconnected-path fault/repair while isolated;
+   retest, never make a live short.
+5. **30-35:** Each explains input/output, physical repair observation and
+   before/after readability; log individual operation separately.
+6. **35-40:** Adult isolates/counts modules/cells, stores dry; save paper only.
+
+## Success/access/troubleshooting
+
+Meets: real contribution/two-cycle test, input-output explanation and tested
+label revision. Grade 3/support: traced diagram/oral evidence/motor assistance.
+Grade 4/challenge: justify access tradeoff, no undocumented modules.
+Missing/fewer kits: two waves with half stations inside work windows only after
+teacher verifies inspection/turn capacity; otherwise paper and missing operation
+record. Paper at same times uses button/light cards: reasoning/design only,
+**electrical operation not observed**. No screen label waives electrical gates.
+
+**Family:** We tested a documented input-output tool and its label. Ask,
+"What did the button change?" Describe paper model if hardware was not released.

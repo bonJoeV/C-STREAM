@@ -9,15 +9,22 @@ description: "Evidence, improvements and implementation controls for K-6 C-STREA
 review, not an Archdiocesan approval or certification of official standards
 coverage.
 
+[Current generated program totals](Program_Summary.csv) are regenerated with
+the lesson/material maps rather than inferred from filenames or old report
+snapshots. They describe documents and planned evidence/use—not observed
+student outcomes or physical school holdings.
+
 Start with the [executive review](Executive_Review.md), then choose the relevant
 grade review and read the actual lesson before teaching. The audits distinguish
-baseline concerns from revised lessons; they do not certify all legacy lessons
-as substitute-ready.
+baseline concerns from revised lessons; complete written instructions do not
+replace a counted kit, local safety/access checks or an actual classroom trial.
 
-**Autonomous follow-up:** all 37 K documents now have complete conditional
-reference pathways. See the [K closeout](Kindergarten_Review.md) and
+**Completed reference library:** all **251 K-6 documents** now have complete
+conditional written pathways. See the [K closeout](Kindergarten_Review.md) and
 [source-verified external candidates](Kindergarten_External_Alignment.md).
-Remaining physical/source/pilot gates and other-band queues are explicit.
+The other three band reviews likewise document closure of their written
+package queues. Remaining physical/source/pilot gates are explicit in the
+[school release checklist](School_Release_Checklist.md).
 
 ## Program decisions and evidence
 
@@ -39,6 +46,7 @@ Remaining physical/source/pilot gates and other-band queues are explicit.
 | Gaps | [Gap analysis](Gap_Analysis.md) |
 | Priorities and substantive changes | [Implementation plan](Implementation_Plan.md) |
 | Final seven simulations | [Validation record](Validation.md) |
+| Remaining school-only checks | [Release checklist](School_Release_Checklist.md) |
 | Baseline inventory | [Repository inventory](Repository_Inventory.md) |
 
 ## Before scheduling

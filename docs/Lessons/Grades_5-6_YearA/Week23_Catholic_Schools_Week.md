@@ -1,265 +1,91 @@
 ---
 title: "Week 23: Catholic Schools Week Engineering"
-description: "Grades 5-6 community showcase and leadership"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - catholic-schools-week
-  - service
+description: "A complete paper-strength teaching station and peer rehearsal"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🏫 Week 23: Catholic Schools Week Engineering
+# Week 23: Catholic Schools Week Engineering
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | All Areas (Leadership Focus) |
-
----
-
-# Week 23: Catholic Schools Week Engineering
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Design and lead STREAM activities for younger students
-2. Explain concepts at appropriate levels
-3. Manage group activities effectively
-4. Demonstrate STREAM leadership
-
-### Faith Integration Objectives
-Students will be able to:
-1. Model servant leadership
-2. Share what makes Catholic STREAM education distinctive
-3. Demonstrate the integration of faith and reason
-
----
-
-# Week 23: Catholic Schools Week Engineering
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Servant Leadership** — Jesus modeled servant leadership: "Whoever wants to be great must be servant of all." Leading younger students in STREAM activities is an act of service that develops leadership while helping others.
-
-### Scripture Connection
-> "Let no one despise you for your youth, but set the believers an example in speech, in conduct, in love, in faith, in purity."
-> — 1 Timothy 4:12
-
-### Saint Connection
-**St. John Bosco** — Patron of youth who pioneered engaging educational methods. He met young people where they were and used play, activity, and hands-on learning to teach both academics and faith.
-
----
-
-## 📚 Materials Needed
-
-- Materials for teaching stations (varies)
-
-- Simple activity supplies
-
-- Teaching instruction cards
-
-- Assessment rubrics
-
-- Reflection journals
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Mission (5 min)
-**Prayer:** "Lord Jesus, You showed us servant leadership. Help us lead younger students today with patience, kindness, and joy. May we share the gift of STREAM learning and our Catholic faith. Amen."
-
-**Catholic Schools Week context:**
-
-- "This week we celebrate what makes Catholic schools special"
-
-- "Today YOU are the teachers"
-
-- "This is servant leadership in action"
-
-**Mission:**
-
-- Design and lead a 10-15 minute STREAM activity for younger students
-
-- Activity must include faith connection
-
-- Must be hands-on and engaging
-
-- You'll present to K-2 or 3-4 classes (or parents/guests)
-
-### Activity Design (15 min)
-**Choose or assign station topics:**
-
-**Station A: Building Challenge**
-
-- Simple structure challenge
-
-- Clear instructions
-
-- Faith connection: building together
-
-**Station B: Robot Demo**
-
-- Demonstrate Sphero or Dash
-
-- Let visitors try simple commands
-
-- Faith connection: humans as creative like God
-
-**Station C: Code Introduction**
-
-- Simple coding concept
-
-- Unplugged or device-based
-
-- Faith connection: order and logic in creation
-
-**Station D: Science Investigation**
-
-- Simple experiment
-
-- Clear scientific question
-
-- Faith connection: discovering God's creation
-
-**Station E: Engineering Design**
-
-- Simple design challenge
-
-- Engineering process
-
-- Faith connection: problem-solving to help others
-
-**Design requirements:**
-1. Opening (1 min): Welcome, faith connection, instructions
-2. Activity (8-12 min): Hands-on engagement
-3. Closing (2 min): What they learned, closing thought
-
-**Develop:**
-
-- Script/outline for your station
-
-- Materials list
-
-- Practice explanation
-
-- Backup plan if something doesn't work
-
-### Practice & Feedback (15 min)
-**Peer practice:**
-
-- Run through your station with classmates
-
-- Time it
-
-- Get feedback
-
-**Feedback focus:**
-
-- Is the explanation clear?
-
-- Is the activity engaging?
-
-- Is the faith connection natural?
-
-- What could be improved?
-
-**Refine based on feedback.**
-
-### Teaching Preparation (8 min)
-**Teaching tips:**
-
-- Get down to their level (physically)
-
-- Speak slowly and clearly
-
-- Check for understanding: "Show me..."
-
-- Encourage, encourage, encourage
-
-- If something goes wrong, stay calm
-
-- Remember: relationship first
-
-**Servant leadership reminder:**
-
-- "This isn't about showing off — it's about SERVING"
-
-- "Success = THEY learn and have fun"
-
-- "Your patience and kindness matter more than perfection"
-
-**Logistics:**
-
-- Rotation schedule
-
-- Station locations
-
-- Materials placement
-
-- Transition signals
-
-### Closing & Sending (2 min)
-**Commissioning:**
-
-- "You represent STREAM and Catholic education"
-
-- "Be patient, kind, and joyful"
-
-- "You can do this!"
-
-**Closing Prayer:** "Lord, bless our teaching today. Help us be patient and kind. May the younger students learn and have fun. May they see Your love through us. Give us confidence and joy. Amen."
-
----
-
-## After Teaching: Reflection (follow-up)
-
-**Reflection questions:**
-1. What went well?
-2. What was challenging?
-3. How did you see growth in the students you taught?
-4. What did YOU learn about teaching?
-5. How did you integrate faith?
-
-**Leadership reflection:**
-
-- What does it mean to be a servant leader?
-
-- How did teaching younger students change your understanding of the material?
-
-- How might God be calling you to use leadership skills?
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-C2 - explain a respectful access/servant-leadership decision; CST-E3 - teach one concept and check a peer's explanation during rehearsal. This 45-minute lesson plans/rehearses only. Actual buddy-class teaching requires separately booked time and adult supervision; no completed-teaching claim without that evidence. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Designed appropriate activity
-
-- Led station effectively
-
-- Demonstrated patience and encouragement
-
-- Integrated faith naturally
-
-- Reflected on experience
-
----
-
-## 📎 Home Connection
-> "During Catholic Schools Week, your 5th/6th grader led STREAM activities for younger students! Ask them: 'What did you teach?' 'How did it go?' 'What was challenging?' 'What did you learn about teaching?' We discussed servant leadership — leading by serving others. How does your child show leadership at home?"
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Service |
+| Time | 1 meeting of 45 minutes; actual buddy event separately approved/scheduled |
+| Objective / why / big idea | I can teach a shape-comparison task and check another learner's explanation. Teaching needs evidence of the learner's thinking, not a polished speech. |
+| Domains / Catholic connection | C, E; servant leadership includes patience, access and letting others handle tools. |
+| Local standards | CST-C2: access/servant leadership; CST-E3: supported explanation/check. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; no robot or electrical demo. |
+| Difficulty / entry | Introductory; teach folded-paper comparison here. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min included. Kit: Peer Teaching. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; seat 4/5/7/9 teams. Copy station script below.
+Teacher pre-cuts two 10 x 25 cm strips/team; low books 15 cm apart, no added
+weight. Pilot folded and flat paper with a single flat cardstock square centered.
+Every pupil rehearses as teacher and learner; adult remains responsible for
+safety. No unbooked younger-class visit or confirmed current CSW theme assumed.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper record; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper strips | 2/team | 8 | 10 | 14 | 18 |
+| Books | 2/team | 8 | 10 | 14 | 18 |
+| Cardstock square; ruler; script sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; books/tools reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Model:** simplified representation. **Span:** gap. **Check question:**
+elicits learner's reasoning. **Access:** meaningful participation.
+Shape can affect stiffness; folded paper success does not certify a real bridge.
+**Common misconception:** asking "Do you understand?" supplies evidence.
+**If asked, "May we teach Kindergarten now?"** Only after adult review,
+age-appropriate materials, accommodations and separate supervised booking.
+
+**Complete six-minute station script:** 1 min welcome/show strips; 1 min
+"Predict which bends less"; 2 min learner places each strip across 15 cm
+gap and centers same cardstock square; 1 min "What changed/stayed same?";
+1 min learner explains shape and limit, teacher records words.
+Offer seated pointing/scribing; no compulsory prayer response.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "How will we know someone learned?" Connect to service.
+2. **4-11 (7 min):** Model full script, safe supports and a real learner check.
+3. **11-24 (13 min):** Teams practice teacher/learner/observer roles in short sections; each drafts instructions and access choice.
+4. **24-35 (11 min):** Each teaches two-minute test/explanation segment; observer records actual learner response. Revise one unclear instruction and retry.
+5. **35-41 (6 min):** Individual submits concept/result/limit, learner-check response and inclusion decision; teacher notes not-yet checks.
+6. **41-45 (4 min):** Stack books, save scripts/records, sort paper and return tools.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Did the learner explain or echo you? Which instruction changed?"
+Each accurately explains shape comparison, elicits a learner explanation,
+revises an instruction and names an access decision. 1 unsupported;
+2 prompted; 3 independent; 4 compares two teaching approaches; NE if unobserved.
+
+## IF THINGS GO WRONG / SAFETY
+
+Both bend -> record it, compare folds/joints; never add dangerous loads.
+No books -> tabletop paper shape demonstration; span test deferred.
+No buddy approval -> peer rehearsal is the complete class objective, not real
+buddy teaching. No sharps, powered stations, photos or crowding.
+Stop/report unsafe condition; adults, not children, supervise any later event.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: scripted phrases, oral/scribed records, large paper.
+Grade 6/challenge: adapt wording for a younger audience without removing
+science/limits. Entire rehearsal indoors.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count tools, retain each child's learner check, record event as unbooked if so.
+**Explored:** teaching with evidence. **Did:** rehearsed a paper-shape station.
+**Learned:** clear checks and access. **Catholic connection:** servant leadership.
+**Ask:** "What did your learner say?" No routine homework or real-event claim.

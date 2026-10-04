@@ -1,219 +1,77 @@
 ---
 title: "Session 14: Dash Challenge"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A advanced robotics"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - easter
-  - service
-  - arts
----
-
-
-# Session 14: Dash Challenge 🤖
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 14 of 17
-
-Students apply their coding skills to complete advanced Dash robot challenges, demonstrating growth since Session 2.
-
+description: "One precision route, individual operation and a measured correction"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T1, CST-T2, CST-M1]
+technology: Required
+prep_minutes: 20
+cleanup_minutes: 5
+materials: [Dash robots, Compatible tablets, Plain paper, Pencils, Metric ruler, Floor-safe tape, Cardboard]
 ---
 
 # Session 14: Dash Challenge
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Program complex sequences for Dash
-
-- Use loops and conditionals effectively
-
-- Solve multi-step challenges
-
-- Demonstrate growth in coding skills
-
----
-
-# Session 14: Dash Challenge
-
-## Materials Needed
-
-- 🤖 Dash Robots (from CSCOE library)
-
-- 📱 Tablets with Wonder app
-
-- 🚧 Challenge course materials
-
-- 📋 Challenge cards
-
-- 📓 Engineering journals
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Thomas Aquinas** — Used logical thinking to solve complex problems. Programming requires similar logical reasoning!
-
-### Scripture
-> *"Perseverance must finish its work so that you may be mature and complete."* — James 1:4
-
-### Opening Prayer
-*Dear God, you gave us minds that can solve complex problems. Help us persevere through challenges today. When things are hard, give us patience and creativity. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Growth Celebration:**
-   - "Remember Session 2 when we met Dash?"
-   - "Look how much you've learned!"
-2. **Today's Challenge:**
-   - More complex missions
-   - Require planning and problem-solving
-3. **St. Thomas Aquinas:**
-   - Brilliant thinker
-   - Didn't give up on hard questions
-   - "Perseverance leads to success!"
-
-### Main Activity: Challenge Course (27 minutes)
-
-**Part 1: Quick Review & Connect (3 minutes)**
-
-- Connect to Dash
-
-- Quick test movements
-
-- Review block programming
-
-**Part 2: Challenge Missions (20 minutes)**
-
-**Mission 1: Precision Navigation (4 min)**
-
-- Navigate exact path marked on floor
-
-- Use tape only as a visual reference; Dash does not automatically sense/follow it
-
-- Use precise measurements
-
-**Mission 2: Sensor Challenge (5 min)**
-
-- Program Dash to react to obstacles
-
-- Stop before hitting
-
-- Back up and go around
-
-- Requires sensor blocks
-
-**Mission 3: Sound & Light Show (4 min)**
-
-- Create programmed performance
-
-- Combine movement, lights, sounds
-
-- Time duration: 30 seconds exactly
-
-**Mission 4: Obstacle Course (5 min)**
-
-- Complete course with multiple obstacles
-
-- Cups to go around
-
-- Lines to follow
-
-- Target to reach
-
-- Safe, low-speed accuracy matters; no races or intentional collisions
-
-**Mission 5: Creative Challenge (2 min)**
-
-- Open-ended: Program something amazing!
-
-- Show off your best skills
-
-**Part 3: Showcase (4 minutes)**
-
-- Volunteers demonstrate best solutions
-
-- Celebrate creativity and problem-solving
-
-### Engineering Journal (5 minutes)
-1. Draw the hardest challenge you completed
-2. Write: "My approach was..."
-3. Compare: "In Session 2 I could... Now I can..."
-4. Write: "When my code didn't work, I..."
-
-### Closing Circle (3 minutes)
-1. **Growth Reflection** — "How have your coding skills improved?"
-2. **Perseverance** — "What did you do when stuck?"
-3. **Closing Prayer** — *"Thank you, God, for helping us grow. Thank you for the gift of perseverance. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Completed multiple challenges
-
-- [ ] Used advanced programming features
-
-- [ ] Demonstrated problem-solving
-
-- [ ] Showed growth from Session 2
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler challenge versions
-
-- Partner with experienced peer
-
-- Extra guidance available
-
-### For Advanced Students
-
-- Create challenges for others
-
-- Use advanced Blockly features
-
-- Lead team missions
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Tell your family about the challenges you conquered! What was hardest? How did you solve it? Talk about times your family persevered through difficulties. Try coding challenges on Scratch at home!
-
----
-
-## Teacher Notes
-
-- Reserve Dash robots 2 weeks in advance
-
-- Set up courses before class
-
-- Compare to Session 2 growth
-
-- Document for portfolio
-
-- Celebrate perseverance!
-
----
-
-**Previous:** [Session 13 — Easter Tech](./Session13_Easter_Tech.md)  
-**Next:** [Session 15 — Simple Machines](./Session15_Simple_Machines.md)
-
-## Implementation limits
-
-Use pretested Blockly and safe lanes from [Session 2](./Session02_Dash_Code.md); do not assume Wonder has identical block behavior. Choose one precision mission plus retest; five missions are optional choices, not required in twenty minutes. Sensor blocks require actual-model verification before use. If devices fail, trace/debug a paper route at the same work times; record CT, not robot or sensor mastery. Collect a comparable individual trace and actual-operation log, not only group success.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Computing; **one 40-minute meeting**.
+**Objective:** edit/run/stop one L-route, measure endpoint error and retest a
+deliberate correction. **Why:** real robotics reveals traction/start errors
+that paper cannot. Catholic/CST-C2 meaningful individual turns; CST-T1 operation/
+troubleshooting; CST-T2 sequence/debug; CST-M1 cm comparison.
+Official alignment **VERIFICATION REQUIRED**. Technology **Required**;
+developing with novice rehearsal. Prep 20 after charging/pairing, installation/
+loan extra; cleanup 5. No five missions or imaginary tape sensing.
+
+## Before class and exact supplies
+
+Follow model/Blockly verification in [Session 2](Session02_Dash_Code.md), unchanged.
+Two charged Dash/tablet pairs; teacher handles chargers. Verify exact labels for
+`forward 20 cm; right 90 degrees; forward 20 cm`, low speed, start/stop twice.
+Two clear 1 m square areas with soft cardboard boundaries, no doors/stairs.
+Class **400 cm floor-safe tape** marks starts/targets, not full perimeter.
+Teams <=3 (4/5/7/9) each ruler/two route sheets; each pupil evidence sheet/pencil.
+Demo uses station kit. Post two-minute slots, five rounds maximum/two stations.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Route sheets (2/team) | 8 | 10 | 14 | 18 |
+| Evidence sheets; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Robots; tablets; chargers; boundary sets (fixed each) | 2 | 2 | 2 | 2 |
+| Class floor tape (fixed cm) | 400 | 400 | 400 | 400 |
+
+## Vocabulary/background/SAFETY
+
+Relative turn = from current facing; input = command; output = movement;
+endpoint error = distance from intended endpoint.
+**Misconception:** Dash senses floor tape. **If asked "Why miss?"** Check start/
+facing, units and surface before one distance change. No sensor claims.
+Low speed, dry lanes; hands off moving robot, stop before retrieval; teacher
+controls power/charging. Stop/report unsafe lane or pairing failure. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "What could cause a correct paper route to miss physically?"
+2. **4-10:** Demo verified L/start/stop; each rehearses three paper commands.
+3. **10-22:** Two stations/five two-minute rounds. Every pupil edits one setting,
+   runs/stops, peers measure error; restore agreed baseline between turns.
+   Waiting teams trace/debug an incorrect left turn on paper.
+4. **22-32:** Same slots for chosen one-setting correction/retest. Record actual
+   baseline/revised error and fixed start/surface; individual explanation.
+5. **32-35:** Each trace, cm results and correction reason; roster logs actual
+   edit/run/stop, not only team success.
+6. **35-40:** Stop/off/store by adult, return rulers/cards, restore lanes/collect.
+
+## Success/access/troubleshooting
+
+Meets: correct route/debug reasoning and observed operation/measurement.
+Grade 3/support: three cards/ruler help/scribing. Grade 4/challenge: repeated
+whole-cm errors and traction limitation, no ratios. Pairing fails after two
+minutes: paper path/report. One robot cannot cover all turns in these windows:
+record actual completed turns and schedule missing operations, don't claim all.
+No devices: same windows token route, wrong turn/change/retest; CT only,
+**robot operation/measurement not observed**. Early finish: repeat same safe route.
+
+**Family:** We tested a precision route. Ask, "What caused the mismatch?"
+Say paper debugging if hardware pathway was unavailable.

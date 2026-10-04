@@ -1,315 +1,533 @@
-# Grades 3-4 C-STREAM review
+# Grades 3-4 C-STREAM review: repository completion
 
-**Review date:** October 4, 2026. **Original band-review scope:** the four Grades 3-4 lesson directories, their READMEs, this review and [the lesson audit](Grades_3-4_Audit.csv). The subsequent bounded OLP Snap Circuits integration updates three lessons in this band, one Grades 5-6 lesson and directly related shared records; it does not certify other lessons, school equipment or official standards. No commits.
+**Review date: October 4, 2026.** This follow-up owns only the four Grades 3-4
+lesson directories, their four indexes, [the band audit](Grades_3-4_Audit.csv)
+and this review. The parent-authorized arts follow-up also adds
+[the band's external alignment CSV](Grades_3-4_External_Alignment.csv).
+Shared resources, materials/standards databases, maps,
+navigation and other grade bands were read where needed, not edited.
+No commits, nested agents, purchases, classroom trials or school certification.
 
-## 1. Evidence, baseline and limits
+## 1. Closure and frozen baseline
 
-All **71 lessons and 4 READMEs** were read in full, after reading the bounded requirements in the review request. Before significant lesson edits, all 75 original files were copied into this session's persistent baseline folder and a **71-row baseline CSV** was created, checked and separately frozen there. The published CSV retains each original **status and priority**; `revision`, rationale, evidence, supplies and technology describe the subsequent work. A baseline P0 row therefore does **not** mean its original blocker is still active.
+The request, current review, audit and **all 60 remaining lesson texts** were
+read before lesson edits. All 71 lesson files, the audit, review and request
+were copied to scoped session artifacts; immutable audit keys were separately
+frozen. The four indexes were copied before their updates. The shared Snap guide
+was also copied for a read-only hash check.
 
-Baseline judgments: **59 KEEP + IMPROVE, 12 REBUILD**, no KEEP/REPLACE/REMOVE. Priorities: **34 P0, 21 P1, 16 P2**, no P3. Existing objectives and activities usually have value, but no lesson met every requested usability/evidence condition as originally written. The 12 REBUILD judgments include Choice Labs and bi-weekly Scratch Games, which received containment/targeted fixes, **not** full rebuilds.
+| Measure | Before this follow-up | Current repository result |
+|---|---:|---:|
+| Lesson packages | 71 | 71 |
+| Rebuilt | 11 | **71** |
+| Improved but incomplete | 48 | **0** |
+| Byte-unchanged incomplete packages | 12 | **0** |
+| Newly completed packages | 0 | **60** |
+| Meetings in those 60 packages | 80 | **80 explicit 40-minute sequences** |
+| Existing rebuilt references preserved | 11 | **11 teaching payloads preserved; 9 byte-identical and 2 section-heading clarifications** |
+| Represented meetings, all alternatives | 99 | **99 / 3,960 minutes** |
+| Repository-resolvable lesson packages left | 60 | **0** |
 
-### Integration contract
+**Baseline judgments remain unchanged:** 59 KEEP + IMPROVE and 12 REBUILD;
+34 P0, 21 P1 and 16 P2. They describe the frozen first-pass condition, not a
+current readiness finding. Path, band, schedule, rotation, unit, title,
+meeting count, status, priority and scope are preserved. Every `minutes`
+value remains the integer **40 per meeting**, never a unit-total string.
+The exact CSV contract remains:
 
-The [standards traceability guide](Standards_Traceability.md) documents combined-map generation and validation; the repository-root PowerShell command is `.\scripts\Build-CurriculumMaps.ps1 -ValidateOnly` (parent integration only, not executed by this band review). Its contract declares **19 named CSV fields**, matching the exact published header and the clarified integration contract. No extra column was added. Every declared field is nonblank. `meetings` is a positive integer; **`minutes` is the integer native period per meeting: 40 on every Grades 3-4 row**. Compute represented contact time as `meetings * minutes`, not by summing `minutes` alone. The 15 multi-meeting rows were reconciled from their former total-minute representation; the frozen historical baseline is unchanged. Status/priority remain baseline judgments; `revision` tracks lesson-text changes, not CSV schema reconciliation.
+```text
+lesson_path,grade_band,schedule,rotation,unit,title,meetings,minutes,status,priority,rationale,local_standards,evidence,materials,technology,prep,cleanup,scope,revision
+```
 
-Original result: 10 rebuilt, 49 improved and 12 byte-unchanged lessons. After the bounded Snap Circuits follow-up, the current audit records **11 rebuilt, 48 improved, 12 byte-unchanged lessons**, plus four corrected READMEs. Rebuilds represent **19 complete 40-minute meeting sequences** across four alternative tracks. The unchanged files retain useful work but are **not substitute-certified**. The audit explicitly records their missing quantities, thresholds or pacing. Prep/cleanup values are estimates, not measured times; first kit inspection, missing manufacturer instructions/approval, software installation, loan acquisition and charging are additional advance work.
+Revision changed to `rebuilt` only after the full new bodies passed package,
+timeline and quantity checks. The audit's task codes, evidence thresholds,
+atomic pipe-separated materials and current technology describe the delivered
+references. Metadata synchronization is mechanical bookkeeping, not a lesson
+generator; the 60 lesson bodies were manually rebuilt.
 
-The document check detected no additional unmitigated P0 instruction in the permitted pathways after corrections/exclusions; **this is not formal closure of the 34 baseline P0 rows**. There are **27 remaining P1 lesson packages** listed below, including continuing preparation/evidence needs in some baseline P0 rows. Counts overlap and must not be added as separate sets of lessons. Unverified historical/standards claims remain **VERIFICATION REQUIRED** and withheld from fact-card use; incompatible or unverified equipment triggers the named model/fallback, with missing operation evidence recorded. No safety certification, field validation or classroom outcome is claimed.
+The previous **27-package P1 follow-up list is closed for repository work**.
+It overlapped baseline priorities and included Snap physical preflight, which
+cannot be performed by editing prose. Its 26 incomplete lesson bodies now have
+complete kits/workflows/individual checks; the already-rebuilt Snap package
+retains its local physical gate. The other 34 incomplete packages, including
+all 12 formerly unchanged lessons, were completed too. Counts are not added as
+independent sets.
 
-### Explicit unchanged-lesson and operational holds
+## 2. Actual scope and calendar
 
-The following **12 lesson files are byte-unchanged**, all originally KEEP + IMPROVE/P2. Their audit entries are not approvals:
+| Alternative track | Files | Meetings | Minutes | New packages / preserved references |
+|---|---:|---:|---:|---:|
+| [Weekly A](../Lessons/Grades_3-4_YearA/README.md) | 20 | 32 | 1,280 | 17 / 3 |
+| [Weekly B](../Lessons/Grades_3-4_YearB/README.md) | 17 | 33 | 1,320 | 14 / 3 |
+| [Bi-Weekly A](../Lessons/Bi-Weekly/Grades_3-4_YearA/README.md) | 17 | 17 | 680 | 14 / 3 |
+| [Bi-Weekly B](../Lessons/Bi-Weekly/Grades_3-4_YearB/README.md) | 17 | 17 | 680 | 15 / 2 |
+| Audit total, not one pupil's annual schedule | **71** | **99** | **3,960** | **60 / 11** |
 
-| Track / exact lesson reference | Remaining hold |
+Weekly A retains Week 17 winter break and Week 32 spring/Easter break.
+Weekly B includes Week 17 within Marine Science, with Week 32 absent.
+Original meeting counts were not compressed or inflated to nominal Week 34.
+The principal still reconciles actual closures/liturgical dates. A/B means
+different contexts in a combined Grade 3/4 rotation, not Grade 3=A, Grade 4=B.
+Either rotation can be a novice's first year.
+
+All new packages are self-contained references: measurable purpose/objective,
+Catholic action, 2-5 unique local codes, technology and preflight, scalable
+supplies, vocabulary/background/misconception/answer, numbered native meetings,
+actual questions, individual evidence and cleanup, troubleshooting, visible
+safety, Grade 3 support/Grade 4 challenge, indoor path and optional family copy.
+Supplied safe directions replace obsolete unsafe menus; old options were not
+left executable beneath a generic override or appendix.
+
+## 3. Preserved references and Snap integration
+
+The following eleven references retain their original teaching directions,
+objectives, quantities, native intervals and model/kit gates. Nine are byte-
+identical to the starting snapshot. Light & Circuits and Plants have only a
+section-heading clarification for the parent's final reference-validator contract;
+their full payloads match the snapshot when those two headings are restored:
+
+- Weekly A: [Sphero](../Lessons/Grades_3-4_YearA/Week02-03_Sphero_Advanced.md),
+  [Bridge](../Lessons/Grades_3-4_YearA/Week10_Bridge_Engineering.md),
+  [Snap Circuits](../Lessons/Grades_3-4_YearA/Week26-27_Little_Bits_Circuits.md).
+- Weekly B: [Flight](../Lessons/Grades_3-4_YearB/Week02-03_Flight_Fundamentals.md),
+  [Game Design](../Lessons/Grades_3-4_YearB/Week19-22_Game_Design.md),
+  [Weather](../Lessons/Grades_3-4_YearB/Week29-31_Weather_Station.md).
+- Bi-Weekly A: [Dash](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session02_Dash_Code.md),
+  [Light & Circuits](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session07_Light_Circuits.md),
+  [Plants](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session12_Plants_Growth.md).
+- Bi-Weekly B: [Ozobot](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session02_Ozobot_Coding.md),
+  [Christmas Circuits](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session07_Christmas_Circuits.md).
+
+The [Snap classroom guide](../Resources/Snap_Circuits_Classroom_Guide.md) is also
+hash-unchanged. Preserve the **eight reported individual kits**, not eight
+six-kit packs; matching in-box manual/model/age/power conditions; station
+counts **4/5/7/5**, teams **4/5/7/9**, and two waves at 25 pupils.
+Battery allocation remains `stations * b`, with `b` from the actual approved
+project, not guessed AA stock. The separate protected-AA route is not a Snap
+conversion; parts/supplies are never mixed. Paper work does not release physical
+circuit objectives. Shared holdings/prices and another band's circuit edits
+were not changed.
+
+The new bi-weekly LittleBits package specifies one matching power/button/light
+module per issued station, with its own manufacturer and supply gates.
+It does not replace Snap safety with an invented circuit. New Easter art needs
+no illuminated circuit; older battery-option menus were removed.
+
+## 4. Substantive completion, not relabeling
+
+| Area | Completed teaching/evidence change |
 |---|---|
-| Weekly A [Welcome](../Lessons/Grades_3-4_YearA/Week01_Welcome_to_CSTREAM.md) | Exit measures excitement; source cards and individual competency check missing |
-| Weekly A [Giving Through Making](../Lessons/Grades_3-4_YearA/Week12_Giving_Through_Making.md) | Five gift options without scalable kits or a specific function test |
-| Weekly A [Fall Celebration](../Lessons/Grades_3-4_YearA/Week13_Fall_Celebration.md) | Four unspecified stations; device/transition/cleanup plan not complete |
-| Weekly A [SMART Goals](../Lessons/Grades_3-4_YearA/Week18_SMART_Goals.md) | Tracking plan without scheduled in-class follow-up evidence |
-| Weekly A [Expo](../Lessons/Grades_3-4_YearA/Week34_STREAM_Expo.md) | Twenty-five two-minute serial presentations cannot fit; certificate is not mastery evidence |
-| Weekly B [Welcome Scientists](../Lessons/Grades_3-4_YearB/Week01_Welcome_Scientists.md) | Novice prerequisite check and individual assessment threshold missing |
-| Weekly B [Architectural Marvels](../Lessons/Grades_3-4_YearB/Week07-09_Architectural_Marvels.md) | Vague stability test, subjective beauty criterion, scalable kit/cleanup still needed |
-| Weekly B [New Year Goals](../Lessons/Grades_3-4_YearB/Week18_New_Year_Goals.md) | Four goals overfilled; five-project target and follow-through need revision |
-| Bi-Weekly A [Engineering Design](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session01_Engineering_Design.md) | Cleanup and individual test/revision threshold missing |
-| Bi-Weekly A [Lenten Engineering](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session11_Lenten_Engineering.md) | Plan/prototype is not completed service or evidence of effectiveness |
-| Bi-Weekly A [Easter Tech](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session13_Easter_Tech.md) | Digital workflow/privacy and individual evidence not fully specified |
-| Bi-Weekly B [Thanksgiving Design](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session06_Thanksgiving_Design.md) | Functional criteria, exact supplies and repeated user test missing |
+| Inquiry and structures | Repeated ramp readings; affordable 20/30-plank KEVA kits; fixed load/height caps; actual same-condition redesigns and individual count/length comparisons |
+| Community helpers and gifts | Specified user brief, readable word/symbol criteria, repeated peer tests, actual feedback and qualified recommendations; no untested water-filter/body-aid claims |
+| SMART goals, A and B | One achievable goal, two **in-class** checked attempts and count-based next action; no four-goal overload, five-project promise or hidden required home follow-up |
+| Choice Labs | Four full meetings; common shadow investigation then prepared shadow-story or four-beat rhythm choice; passports, repeated tests, material stewardship and individual demonstrations |
+| Scratch | Complete novice event/loop/condition stacks, distinct inputs, fourth-input/reset tests, source/operation logs; no continuous-contact scoring bug or four-game novice menu |
+| Digital gratitude/stories/Easter | Concrete private offline two/three-slide workflow, real edit/present/save preflight and turns; purposeful reader revision; no unprepared podcast/QR/video menu |
+| Light and astronomy | Actual optical comparison and purposeful transmitting composition; not-to-scale views and measured model limits; spiritual light/Magi interpretation separated from science |
+| Life/Earth science | Living seed/pupa and generation links; explicit frog/insect contrast; source-limited habitats, stipulated feeding models, blunt-sample geological observation and uncertain classification |
+| Marine/environment/cities | Retrieved NOAA zones; honest hypothetical food relationships; controlled debris model; ten-card sorting retests; full twenty-token budget, five-destination route/width retest and individual tradeoff |
+| Machines and music | Measured lever arms/qualitative effort, low lever/ramp model with transfer retest; deliberate four-beat composition and dry Makey Makey input/key/note evidence |
+| Verified heritage and source learning | Agnesi connected to an individually explained twelve-object grouping diagram; Mendel/Albert connected to model-plant observation/classification and a three/three tally; Lemaitre's limited PAS facts connected to actual scale-drawing measurements |
+| Lent | Small teacher-approved classroom service with actual tested handover/use; prototype-only explicitly recorded if local need/approval is absent |
+| Expo/celebrations/portfolios | Parallel two-minute pupil explanations, fresh attributable reasoning/data demonstrations, dated evidence and revised captions; no 25 serial speeches or all-domain mastery certificates |
 
-There are **7 None-labeled rebuilt references**: four ordinary low-tech lessons (Bridge, Flight, Weather and Plants) and three circuit lessons with a Snap primary route and separate protected-AA alternative. "None" means **no digital/programmable device**, not no electrical materials. There are **4 Required-primary rebuilds** (Sphero, Game Design, Dash and Ozobot). Those four plus the three circuits retain **7 operational holds** until actual equipment/software/model/chart or electrical kit preflight is verified. Paper/model directions do not release real-device or real-circuit objectives. The four ordinary low-tech references still need local supply/space checks and classroom trials. **0 lessons are classroom-certified by this review.** External official alignment remains VERIFICATION REQUIRED for **all 71 rows**, independently of the local task-code mapping.
+Useful themes and rotation differences remain; this is not sixty paper bridges.
+New narrow pathways deliberately remove overfilled options while preserving
+the useful objectives of inquiry, service, visual/musical communication,
+physical/life/Earth models and software execution.
 
-## 2. Actual scope, not nominal calendar labels
+## 5. Local standards and Grade 3/4 progression
 
-| Alternative track | Lesson files | Represented meetings | Minutes | Calendar issue | Revision counts: rebuilt / improved / unchanged |
-|---|---:|---:|---:|---|---:|
-| [Weekly A](../Lessons/Grades_3-4_YearA/README.md) | 20 | **32** | **1,280** | Week 17 winter break; Week 32 spring/Easter break; nominal labels reach 34 | 3 / 12 / 5 |
-| [Weekly B](../Lessons/Grades_3-4_YearB/README.md) | 17 | **33** | **1,320** | Marine Science includes Week 17; Week 32 absent | 3 / 11 / 3 |
-| [Bi-Weekly A](../Lessons/Bi-Weekly/Grades_3-4_YearA/README.md) | 17 | **17** | **680** | One meeting per session, not every weekly objective compressed | 3 / 11 / 3 |
-| [Bi-Weekly B](../Lessons/Bi-Weekly/Grades_3-4_YearB/README.md) | 17 | **17** | **680** | One meeting per session; no assumed Year A attendance | 2 / 14 / 1 |
+Use the fixed [local eighteen-code catalog](Local_Standards.md).
+Codes are **local program competencies**, not MDE, OMCE, CSTA or Church numbers.
+Every audit row has **2-5 unique `CST-[CSTEAM][1-3]` codes**.
+The lesson's scheduled action/individual prompt, not a tag or prayer alone,
+justifies each selected code.
 
-The audit spans **99 represented meetings / 3,960 minutes**, but those are alternatives, **not one pupil's annual schedule**. Two weekly rotations total 65 represented meetings; two bi-weekly rotations total 34. The principal must reconcile actual school closures and movable liturgical dates. Neither weekly list guarantees 34 instructional periods.
+| Competency | Grade 3 core/support | Grade 4 challenge |
+|---|---|---|
+| Inquiry | Observe, predict, name changed/kept-same conditions, record whole-number results | Repeat/compare variation, explain confounding or sample limits |
+| Systems | Label parts, living stages, arrows, inputs/outputs | Explain model omissions, alternate paths or tradeoffs |
+| Computing | Trace sequence/repeat/condition; actually edit/run when equipment works | Boundary/reset/debug explanation and model-versus-operation limits |
+| Design | State criterion/constraint, test and change a feature | Defend revision against equal conditions and access/resource tradeoffs |
+| Art/music | Labeled observation/model, purposeful layout or four-beat choice | Specific critique, revised composition and meaning/readability tradeoff |
+| Math | Whole counts, cm/mm, totals/differences, labeled tables/bars | Repeated ranges, budget alternatives, measurement precision, not forced ratios |
+| Catholic action | Honest reporting, fair turns, requested service, stock care | Explain inclusion/privacy/stewardship decisions and supported claim limits |
 
-Scope selections in the CSV: **38 CORE, 29 RECOMMENDED, 4 OPTIONAL** lesson files across the alternatives. Optional celebrations are first to shorten if meetings are lost; protect fair investigations, repeat tests, circuits, explicit coding prerequisites and individual evidence. Do not call missing meetings new lessons or count home tracking as delivered instruction.
+Neither grade's core requires decimal division, percentages, means or efficiency
+ratios. Challenge is deeper reasoning, not unsupported secondary-school algebra.
+Oral/pointing/dictated/motor-assisted evidence is valid where it preserves the
+concept; neatness, speed, excitement, private faith and prayer intensity are not
+competency proxies.
 
-## 3. Philosophy and standards situation
+Participation/group products are not individual mastery. At local expected-
+mastery checkpoints, two dated observations on separate occasions, including
+individual demonstration and changed-context explanation, are required.
+These documents plan opportunities; they do not report actual pupil outcomes.
 
-For this band, hands-on C-STREAM means reason and faith supporting honest inquiry; tools used responsibly; designs serving people; resources stewarded; purposeful sketches/art communicating ideas; and age-appropriate measurement reasoning. Prayer alone is not a demonstrated Catholic competency. Failure is information about a design, not a failure of a child or evidence of weak faith.
+### Heritage cards tied to the child's work
 
-### Source register: what was and was not verified
+The parent-rebuilt
+[Catholic scientific heritage resource](../Resources/Catholic_Scientists_Heritage.md)
+is reused without editing that shared file. Its original teacher read-aloud text
+is identified as classroom paraphrase, not a quotation from a historical person.
+Direct source content was also checked for the facts used in these follow-ups.
 
-| Source / category | Retrieval finding and classroom consequence |
+- [Weekly A Catholic Schools Week](../Lessons/Grades_3-4_YearA/Week23_Catholic_Schools_Week.md)
+  uses Agnesi's mathematical teaching and charitable-work card. Every child
+  explains four groups of three, obtains twelve, then revises a visual/worked
+  explanation using a peer's actual feedback. The classroom example is not
+  falsely attributed to Agnesi's book; scholarly secondary history is labeled.
+- [Bi-Weekly A Catholic Scientists](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session09_Catholic_Scientists.md)
+  uses Mendel and Albert cards. Each child supports a fact with its source,
+  records visible model-plant details, classifies six records into three/three
+  groups and corrects a deliberate wrong placement from evidence. The six
+  drawings are **invented classroom models, not Mendel's data or actual plant
+  growth**. Classification alone does not establish a causal inheritance claim
+  or equate medieval observation with every modern scientific method.
+- [Bi-Weekly B Faith & Science](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session09_Faith_Science.md)
+  reuses the limited Lemaitre roles card while preserving its individual four
+  cm readings, annotated model and model-versus-belief distinction. No Big Bang
+  priority, personal-motivation or Einstein quotation is added.
+
+All three remain **one native 40-minute meeting**, including individual evidence
+and five-minute cleanup. First preparation is estimated at 15 minutes, ten with
+ready cards; read-aloud/board fallback avoids a printing/device prerequisite.
+Card preparation is explicitly one ordinary sheet per team, reused as two
+half-sheet cards. Heritage recall alone does not meet the revised thresholds.
+Only local task codes/evidence and preparation metadata were updated where the
+new inquiry/math actions require them; frozen audit identities/dispositions,
+meeting counts and the four narrow external arts rows remain unchanged.
+
+### Narrow 2018 visual-arts matches: parent source inspection
+
+The parent directly inspected the Perpich state-agency copy of the
+[2018 arts workbook](https://perpich.mn.gov/wp-content/uploads/2020/11/Minnesota-2018-K-12-Academic-Standards-in-the-Arts.xlsx),
+source **MN-05**, sheet **MN2018ArtsEdStandardsVisualArts**. The shared
+benchmark register records the same codes and row locations. The owned external
+CSV uses the **exact fourteen-field Kindergarten external-alignment header**,
+with separate grades **3** and **4**, not a combined-band grade.
+
+| Grade / benchmark / workbook row | Existing lesson, actual task and individual evidence |
 |---|---|
-| [MDE science](https://education.mn.gov/MDE/dse/stds/sci/) / official state standards | Direct retrieval returned browser verification, not standards text. Candidate 2019 edition and its implementation status for the school's 2026-27 year are **VERIFICATION REQUIRED** against the actual current MDE document. No benchmark numbers claimed. |
-| [MDE mathematics](https://education.mn.gov/MDE/dse/stds/Math/) / official state standards | Direct retrieval here was blocked. The parent integration's documented source record subsequently confirmed **2022 mathematics full implementation in 2027-28**. School adoption and lesson-to-benchmark alignment remain **VERIFICATION REQUIRED**; that confirmation does not certify this band's crosswalk. Do not confuse adoption with implementation. This review deliberately avoids decimals/ratios/means as Grade 3 core expectations. |
-| [MDE arts](https://education.mn.gov/MDE/dse/stds/arts/) / official state standards | Retrieval blocked. Candidate 2018 edition/current implementation is **VERIFICATION REQUIRED**. Purposeful observation, critique and revision are mapped locally, not to invented state numbers. |
-| [MDE standards entry point](https://education.mn.gov/MDE/dse/stds/) and [CS reference page](https://education.mn.gov/MDE/dse/stds/comsci/) | Content retrieval not available. Treat CS as algorithms, data, debugging and impacts across subjects, not merely device use. **VERIFICATION REQUIRED:** current integration guidance. A search-generated assertion of standalone 2024 CS standards was **not accepted or cited as fact**. Confirm ELA/social-studies versions too before any official crosswalk. |
-| [Archdiocesan Office for the Mission of Catholic Education](https://www.archspm.org/offices/mission-of-catholic-education/) / official guidance | Retrieved fragment concerned parent education, not detailed C-STREAM benchmarks. No complete publicly verified C-STREAM standard set or current Roadmap requirements were established. **VERIFICATION REQUIRED** with school/OMCE; lack of retrieval is not proof that guidance does not exist. |
-| [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) / Church teaching | Verified opening on faith/reason; used as a paraphrased teaching connection. It does not establish a scientific result or erase historical conflicts. |
-| [Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) / Church teaching | Creation-care opening verified. Approximate marine quotations and mismatched paragraph attribution removed; no new source numbers invented. Exact excerpt selection beyond retrieved material remains **VERIFICATION REQUIRED**. |
-| [Vatican canonization homily, September 7, 2025](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html) | Verified proclamation of Carlo Acutis/Frassati as saints; updated obsolete Blessed titles. No pupil biography or invented quotation inferred from this. |
-| [NASA Glenn: Incorrect Airfoil Theory](https://www1.grc.nasa.gov/beginners-guide-to-aeronautics/foilw1/) | Verified flat/symmetric wings can generate lift and equal-transit explanation is false. Glider lessons separate hand launch from forces after release; distance alone does not measure lift. |
-| [Monarch Joint Venture life cycle](https://www.monarchjointventure.org/monarch-biology/life-cycle) / specialist science | Retrieved living immature/adult stages. Pupae are living; frogs do not have the insect pupa pattern. Species-specific timing/cards remain **VERIFICATION REQUIRED**, not a guarantee of classroom growth. |
-| [Wonder Workshop Blockly](https://www.makewonder.com/en/apps/blockly/), [Ozobot color-code resources](https://ozobot.com/create/color-codes/), [Makey Makey instructions](https://www.makeymakey.com/pages/how-to) / manufacturer | Blockly's concepts verified. Ozobot page did not expose a usable code chart; no replacement colors invented. Makey Makey landing text is not a model safety manual. **VERIFICATION REQUIRED:** actual model/app labels, chart, calibration, connection method and kit contents before teaching the device path. |
-| [USCCB corporal works of mercy](https://www.usccb.org/beliefs-and-teachings/how-we-teach/new-evangelization/jubilee-of-mercy/the-corporal-works-of-mercy) / catechetical source | Retrieval returned 403. Missing drink-for-thirsty item corrected; exact wording/source quotation remains **VERIFICATION REQUIRED**. No invented CCC paragraph supplied. |
-| CSTA / NGSS / ISTE / national frameworks | The parent integration's documented source record subsequently confirmed **CSTA 2026, published July 2026**. Full-document review and exact Grades 3-4 alignment were not completed here; they remain **VERIFICATION REQUIRED**. NGSS/ISTE editions were not verified here. No official standard IDs or compliance assertions inferred from local codes. |
-| Other retained biography, Scripture, liturgical, statistical and price claims | **VERIFICATION REQUIRED:** exact Bible translation/verse numbering, historical firsts, source-card authors/pages, patronage, current CSW theme, scientist faith/motivation, vendor prices and equipment availability. Readme gates apply even to byte-unchanged lessons. |
+| 3 / 5.3.2.3.1 / 48 | [Architectural Marvels](../Lessons/Grades_3-4_YearB/Week07-09_Architectural_Marvels.md): original three-view gathering-place representation using modeled line/shape and purposeful form; the child's labeled views and window/form explanation, not a mechanical stability score |
+| 3 / 5.3.2.4.1 / 50 | [Community Helpers](../Lessons/Grades_3-4_YearA/Week07-09_Community_Helpers.md): discuss actual peer comments about a purposeful sign feature; individual comment and explanation of symbol/lettering/placement choices, not generic compliments |
+| 3 / 5.3.2.4.1 / 50 | [Easter Creation](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session13_Easter_Creation.md): discuss a reader's comment about the child's original panel composition; individual explanation relating feedback to the visual choice |
+| 4 / 5.4.2.4.1 / 63 | [Easter Creation](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session13_Easter_Creation.md): actual in-process artistic revision after peer discussion; child-attributable before/after panel and explanation linking the comment to revised placement/emphasis |
 
-Search summaries were discovery aids, not evidence. Several suggested URLs failed or redirected; only retrieved content above is described as verified. Do not manufacture an Archdiocesan requirement, current source number or direct quote to fill the gap.
+These **four planned task/evidence matches span three lesson paths and three
+benchmark IDs**. Their status is **SOURCE VERIFIED - SCHOOL AND MDE-COPY REVIEW
+REQUIRED**: state-agency workbook inspection does not establish MDE-copy
+corroboration, school adoption, external approval or actual pupil attainment.
+The CSV locates the existing meeting/step evidence; it does not add activities,
+objectives, meetings or local codes.
 
-### Local standards contract
+Grade 4 **5.4.2.3.1**, row **61**, is deliberately **not mapped**. Its full
+creation requirement includes **both representational and nonrepresentational
+art** using artistic foundations. A representational architectural sketch alone,
+an optional choice, or a hypothetical abstract-art extension is insufficient.
+No unrelated project was added merely to manufacture coverage. No science,
+mathematics or additional official benchmark was invented.
 
-These are the user's **local program standards, not official Minnesota, Archdiocesan, CSTA or Church standard numbers**:
+For every match, the named artistic action and individual evidence must actually
+occur. Watching a peer, a group product without child attribution, intended but
+unmade revisions, message recognition alone and generic engineering changes do
+not establish the external arts benchmark.
 
-| Domain | Local codes |
-|---|---|
-| Catholic | **CST-C1:** faith/reason and honest evidence; **CST-C2:** dignity/service/inclusive ethics; **CST-C3:** stewardship of resources/work |
-| Science | **CST-S1:** observations/questions/evidence; **CST-S2:** investigations/testing/variables; **CST-S3:** physical/life/Earth systems/models |
-| Technology | **CST-T1:** tools/input-output/troubleshooting; **CST-T2:** algorithms/loops/conditions/debugging; **CST-T3:** data/citizenship/technology impacts |
-| Engineering | **CST-E1:** problems/criteria/constraints; **CST-E2:** build/test/redesign; **CST-E3:** tradeoffs/communicate solutions |
-| Art | **CST-A1:** observational sketches/models; **CST-A2:** purposeful pattern/form/design; **CST-A3:** artistic communication/critique/revise |
-| Math | **CST-M1:** count/compare/measure; **CST-M2:** data/pattern representation; **CST-M3:** grade-appropriate quantities/operations/reasoning |
+### CSTA 2026 national candidates: scope check, not a new coverage claim
 
-The CSV assigns **2-5 actual task-demonstrated codes per lesson**, not all domains. This is an activity/evidence crosswalk, not a claim that every child masters each code. For unchanged lessons it describes the existing task opportunity; the evidence field identifies missing individual thresholds. Device-dependent T1 evidence is unavailable when only a paper fallback runs.
+The parent verified the current publisher's
+[CSTA 2026 viewer](https://csteachers.org/pk12standards/view/), including
+**E3-ALG-PS-01** (Grade 3, detail record **350270**) and **E4-ALG-PS-01**
+(Grade 4, detail record **350271**). The former requires sequence, events,
+iteration and selection; these may span multiple algorithms. The latter requires
+written everyday-language representations covering all four structures across
+multiple algorithms; formal pseudocode/flowcharts are not required.
+These are **national framework** codes, not evidence of Minnesota adoption.
 
-## 4. Grade 3 and Grade 4 progression
+No national CS row was added to the external CSV in this follow-up:
 
-Year A/B rotates **contexts**, not grade levels or ability. New Grade 3 and new-to-school Grade 4 pupils may start in B; Grade 4 may revisit A. Incoming skills below are checks, not assumptions about unreviewed Grades 1-2. Outgoing expectations are proposed handoff goals, not a review of Grades 5-6.
+- [Scratch Programming](../Lessons/Grades_3-4_YearA/Week24-25_Scratch_Programming.md)
+  and [Game Design](../Lessons/Grades_3-4_YearB/Week19-22_Game_Design.md) provide
+  sequence, events and selection, but their required scoring algorithms have
+  no iteration structure. Repeating four inputs during a test is not itself
+  student creation of an iterative algorithm.
+- [Sphero](../Lessons/Grades_3-4_YearA/Week02-03_Sphero_Advanced.md) provides
+  sequence/repeat representations, but its required route does not require
+  selection. Its Grade 4 representation evidence alone does not cover all four.
+- Multiple algorithms may legitimately provide combined coverage, but a full
+  candidate needs a documented, individually attributable evidence set joining
+  all required structures and, for Grade 4, the written everyday-language
+  representations. The inspected unit records do not establish that combined
+  set for each learner; generic local T2 labels cannot substitute for it.
 
-| Competency | Grade 3 supported expectation | Grade 4 extension within either rotation | Next handoff, not certified |
-|---|---|---|---|
-| Evidence / C1, S1 | Separate observation, prediction and supplied practice data | Explain uncertainty/model limits and cite a source for a factual claim | Justify conclusions with multiple evidence sources |
-| Fair investigation / S2 | Change one feature; name two kept-same conditions | Repeat trials; explain variation/confounded comparisons | Design comparative tests with documented controls |
-| Systems / S3 | Label living stages, a return circuit path, flight forces or weather tool | Compare two models and explain where each is limited | Use models without treating metaphor as a mechanism |
-| Tools / T1 | Start/stop safely; identify an input/output if actually operated | Diagnose one fault, test a correction and report missing evidence | Independent model-specific troubleshooting |
-| Algorithms / T2 | Trace a sequence, a small repeat and counts 0-3 | Explain condition boundaries/reset/broadcast and a debug strategy | Decompose larger problems; no premature syntax burden |
-| Ethics/data / C2, T3 | Choose a respectful message and avoid private identifying media | Explain an accessibility/privacy tradeoff and source limits | Defend technology decisions affecting others |
-| Design / E1-E3 | State a simple criterion, test and change a model | Compare outcomes under equal constraints; communicate a tradeoff | Defend a design using performance, resources and user evidence |
-| Art / A1-A3 | Labeled observation sketch or readable purposeful design | Peer-critique/revise message, form or model | Visual communication that supports a defensible explanation |
-| Math / M1-M3 | Whole-number counts/lengths, addition/subtraction within task range | Trial ranges, labeled data graphs and whole-number changes | Ratios/percentages only after classroom prerequisites, not forced early |
-| Stewardship / C3 | Count reusable supplies back, distinguish model from real service | Compare material/cleanup needs and propose a sustainable routine | Document tradeoffs without invented savings |
+The four visual-arts rows remain the only external matches currently declared.
+This is a conservative omission, not a claim that the band lacks useful CS
+practice or cannot later document combined evidence. Completed lessons,
+priorities, objectives and timings were not altered merely to add standards
+labels. No full CS subject coverage, state adoption or pupil attainment is claimed.
 
-### Rotation prerequisites and gaps
+## 6. Current meaningful-domain balance
 
-- **Weekly A:** welcome -> explicit Sphero sequence/loop introduction -> fair-test practice -> constrained structures -> community design -> bridge retest. Gratitude coding formerly demanded broadcasts before formal Scratch; novice path added, complete starter still P1. Later Scratch variables/conditions should follow a skills check, not attendance. Choice Labs needs two safe, prepared choices rather than six unspecified disciplines.
-- **Weekly B:** welcome -> flight trials -> plane redesign -> architecture -> marine systems -> novice game rules/code -> sustainable systems -> weather evidence. Game Design no longer assumes a completed Year A. Sustainable City still promises resource calculations without a complete budget; marine source cards remain a gap.
-- **Bi-Weekly A:** paper design -> Dash L-route -> bridges/habitats -> Scratch intro -> animation. Do not assess advanced broadcasts before intro mastery. Light circuit and plant evidence fit one meeting; real plant growth is optional adult-managed follow-up, not concealed extra instruction.
-- **Bi-Weekly B:** user interview -> verified Ozobot command -> stable towers/food webs -> short Scratch starter. No Year A prerequisite for circuits. Rocks/life cycles/machines add physical and biological models; Makey Makey needs a verified dry input path. The bi-weekly mini-game remains too ambitious for novices without prepared starter files.
+One file credit per domain when a mapped individual task occurs; multiple codes
+in one domain still count once. This is **opportunity**, not contact-time share,
+mastery or equal coverage. Choice Labs credits common tasks, not all hypothetical
+stations. Discount unavailable physical/software evidence for the delivered path.
 
-**Duplicates worth keeping:** A/B goals, gifts, circles and portfolios can revisit skills with new evidence. **Duplicates to constrain:** weekly A bridges after KEVA bridge work must specifically compare equal-paper redesigns; five-mission robotics and repeated celebration stations consume scarce meetings without deeper evidence. Marine/land care is not automatically new learning just because tags differ.
-
-**Remaining gaps:** longitudinal **observed** life/weather data in the bi-weekly schedule; Grade 4 quantitative tradeoffs in cities; enough mathematics in bi-weekly B; ready-to-use sourced history/diet/zone cards; consistent individual evidence in retained lessons. Indoor simulated datasets fix access and immediate reasoning, **not** the longitudinal observation gap. No assertion of a complete K-6 progression is made.
-
-## 5. Meaningful domain balance
-
-**Counting method:** one lesson-file credit for a domain only when pupils have a scheduled task/evidence aligned to at least one local code in that domain. Count once even if multiple codes in the same domain. Use the CSV's task-derived mapping, not frontmatter tags, acronym descriptions, teacher talk, prayer alone, craft decoration, or the word "All." A deliberately partial crosswalk does not capture every incidental activity.
-
-Counts are **mapped meaningful opportunities**, not assessed pupil proficiency or equal contact time. Multi-meeting files still count once; dividing them into all-domain meeting credits would falsely inflate exposure. Elective Choice Labs contributes only its common stewardship/communication evidence, not every station. Where a hardware prerequisite is absent, discount the device-specific credit for the delivered pathway.
-
-| Track | C | S | T | E | A | M | Denominator |
+| Track | C | S | T | E | A | M | Files |
 |---|---:|---:|---:|---:|---:|---:|---:|
-| Weekly A | 15 | 6 | 5 | 9 | 6 | 7 | 20 lesson files |
-| Weekly B | 11 | 6 | 3 | 8 | 10 | 8 | 17 lesson files |
-| Bi-Weekly A | 10 | 5 | 10 | 5 | 8 | 5 | 17 lesson files |
-| Bi-Weekly B | 11 | 5 | 7 | 7 | 11 | **2** | 17 lesson files |
-| Audit total, not one year's timetable | 47 | 22 | 25 | 29 | 35 | 22 | 71 |
+| Weekly A | 20 | 8 | 5 | 9 | 10 | 11 | 20 |
+| Weekly B | 17 | 6 | 3 | 8 | 11 | 12 | 17 |
+| Bi-Weekly A | 17 | 6 | 10 | 5 | 8 | 9 | 17 |
+| Bi-Weekly B | 17 | 6 | 7 | 8 | 12 | 8 | 17 |
+| Audit total, alternatives | **71** | **26** | **25** | **30** | **41** | **40** | **71** |
 
-Weekly A leans engineering; bi-weekly A has technology/source/media work in 10/17 files, not necessarily ten robotics meetings. Bi-weekly B's mathematics is genuinely weak in the selected demonstrated mapping (**2/17**), despite many generic Math tags. Add explicit length/data comparisons inside future tower, rock and robot revisions rather than buying more screens. Art credits require a labeled model or purposeful communication, not attractive decoration. Science credits are too sparse to treat C-STREAM as replacing the classroom science curriculum.
+Bi-weekly B math grows from the former mapped 2/17 to **8/17**, through explicit
+counts, model data and length comparisons rather than generic Math tags.
+Art has genuine composition/critique, including rhythm/music. Technology includes
+source/data responsibility and ordinary tools, not just screen exposure.
+Science spans physical, life, Earth/weather and marine systems; still not a
+replacement for the school's primary science curriculum or full K-6 crosswalk.
+Longitudinal actual growth/weather observation remains a local extension requiring
+an adult/source/time plan; supplied simulations are not actual longitudinal data.
 
-## 6. Eleven complete targeted rebuilds
+## 7. Current technology and material planning
 
-| Track / lesson | Highest-value change |
+Audit primary labels: **56 None, 15 Required, 0 Optional, 0 Recommended**.
+The 15 Required files represent **20 of 99 meetings** across alternatives.
+Required means the named real programmable/digital outcome needs its equipment,
+including Ozobot without a tablet. It is not a home-device requirement.
+
+"None" means no digital/programmable device, **not no equipment**.
+Four screen-free packages require approved electrical hardware for actual
+operation: the three preserved Snap references and new LittleBits.
+Flashlights, rulers, safe supports, observation samples and tools remain
+physical requirements in other None lessons.
+
+The new supply tables generally use balanced teams up to three:
+**4/5/7/9 at 10/15/20/25**. The eleven preserved references keep their own exact
+pair/trio budgets or Snap wave rules; do not silently substitute the new
+grouping arithmetic into them.
+
+The four owned indexes now link the optional
+[Grades 1-6 reference routines](../Resources/Grade_Band_Reference_Routines.md)
+for preparation, balanced groups and teacher checking. This is not a replacement
+for any lesson's complete supplies, specific sequence or individual threshold.
+Actual named shared-test/device slots and Snap waves still govern fewer-kit
+delivery; no four-person group or watching-as-operation shortcut is introduced.
+Public/prepared resources and reported Snap holdings remain distinct from
+priced physical inventory; the shared routines and catalogues were not edited.
+
+Canonical audit terms are atomic pipe-separated names, with no quantity
+decorations. **Physical hardware is distinct from `Access:` software/manuals and
+`Prepared resource:` cards/records**, following the read-only
+[resource catalogue](Lesson_Resources.csv). For example a Sphero robot, compatible
+host and matching charging accessories are physical items; **Access: matching
+Sphero controls** is not another robot or a priced app purchase.
+Source cards, official charts, diagrams and software are access/preparation
+resources, **not invented physical purchase prices**. Paper/card used to prepare
+them and adult time are still real costs.
+Shared procurement quantities/prices belong to the parent
+[materials inventory](Materials_Inventory.csv) and [materials plan](Materials_Plan.md);
+this follow-up makes no new program-total price or stock claim.
+
+The parent-authorized material-only normalization includes the eleven preserved
+references: named floor-safe robot/flight tape versus masking assembly tape,
+school glue sticks where actually used, primary hardware/chargers, rulers,
+safe cups/counters and teacher tools. No generic `tape`/`glue` atom remains.
+Dry bridge-counter cups are indexed as paper cups; weather ruler attachment is
+indexed as masking tape. These are selected audit preparation specifications,
+not claims that unspecified school stock already has that material/type.
+Dimensions, quantities and physical compatibility still come from each lesson.
+Non-glass thermometer, clear straight-sided collector requirements and Snap's
+manufacturer-selected cell type/count are not inferred from a name match.
+
+During the arts/material phase, only `materials` changed in the audit; **all other
+18 audit field values and all 71 lesson bodies remained unchanged**. Thus the eleven
+teaching references, baseline keys, objectives, native meeting counts and Snap
+routes remain intact. The audit now explicitly indexes existing source/software
+requirements rather than silently treating compatible hardware as sufficient.
+
+The parent resource catalogue already separates Scratch, matching robot controls
+and Snap manuals from hardware. Four more explicit access names used here need
+parent catalogue integration, not a guessed physical price: **Access: LibreOffice
+Impress**, **Access: Scratch Music extension**, **Access: matching Makey Makey
+instructions**, and **Access: matching LittleBits instructions**.
+They are named by existing lesson workflows; local approved access is still
+required. No shared catalogue or pricing file was edited.
+
+Examples at 25 pupils in the **new** packages:
+
+- KEVA A: 9 kits, 270 planks, 18 low books, 90 counters and 50 pupil sheets.
+- Marine: 9 trays/spoons, 180 paper squares, **1,800 mL total clean water**
+  for two fresh 100 mL tests/team, not one 900 mL allocation reused after absorption.
+- Sustainable City: 9 bases, 27 cardstock sheets, 180 budget tokens,
+  900 cm tape, 100 individual unit sheets; hypothetical budget 20, remainder 0.
+- New Scratch/slide work: 9 computer stations for up-to-three teams; individual
+  three-minute turns plus retest. Fewer stations require explicitly checked
+  waves or deferred operation, not a claim that watching equals programming.
+- Robot challenges: 2 stations, at most five two-minute team rounds per work
+  block; start/stop/measurement and actual individual turns recorded.
+
+No required donations, home printing, new accounts or routine homework.
+Adult source/physical/software setup is advance work, not a substitute's
+twenty-minute installation miracle.
+
+## 8. Sources and remaining gates
+
+### Retrieved sources used in the new references
+
+| Source | Verified content used / limitation |
 |---|---|
-| Weekly A [Sphero, Weeks 2-3](../Lessons/Grades_3-4_YearA/Week02-03_Sphero_Advanced.md) | Two explicit meetings; absolute headings, repeat semantics, measured drift, safe slots and honest CT fallback |
-| Weekly A [Bridge, Week 10](../Lessons/Grades_3-4_YearA/Week10_Bridge_Engineering.md) | Native 40 minutes; equal one-sheet designs, 15 cm span, 20-counter cap, Grade 3 subtraction not efficiency ratios |
-| Weekly A [Snap Circuits, Weeks 26-27](../Lessons/Grades_3-4_YearA/Week26-27_Little_Bits_Circuits.md) | Two switched-light/design meetings; eight reported individual kits, manufacturer/power gates, two-wave access and individual test/revision evidence |
-| Weekly B [Flight, Weeks 2-3](../Lessons/Grades_3-4_YearB/Week02-03_Flight_Fundamentals.md) | Correct released-glider forces, blunt paper folds, six trials, no false Blessed title/mean requirement |
-| Weekly B [Game Design, Weeks 19-22](../Lessons/Grades_3-4_YearB/Week19-22_Game_Design.md) | Four novice meetings, complete bounded-score starter, discrete events, keyboard access, boundary/reset tests |
-| Weekly B [Weather, Weeks 29-31](../Lessons/Grades_3-4_YearB/Week29-31_Weather_Station.md) | Three indoor meetings; safe cup/strip tools, source labels, supplied simulated table, no glass/pins/latex or daily homework |
-| Bi-Weekly A [Dash, Session 2](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session02_Dash_Code.md) | One Blockly L-route, low-speed measured test, no false line sensing, operation log |
-| Bi-Weekly A [Light & Circuits, Session 7](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session07_Light_Circuits.md) | Approved Snap switched-light project, individual two-cycle test/repair and Advent message; separate protected-AA alternative; paper gift only |
-| Bi-Weekly A [Plants, Session 12](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session12_Plants_Growth.md) | Living embryo, one-variable plan, within-meeting evidence; dry setup when no adult caretaker |
-| Bi-Weekly B [Ozobot, Session 2](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session02_Ozobot_Coding.md) | No invented color table; model-matched chart/pretest gate and paper CT path |
-| Bi-Weekly B [Christmas Circuits, Session 7](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session07_Christmas_Circuits.md) | One switched light/repair and Nativity message; resistor-only blinking myth and unsupported topology removed |
+| [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html), opening | Faith/reason truth-seeking, paraphrased; not scientific proof or conflict-free history |
+| [Pontifical Academy of Sciences, Georges Lemaitre](https://www.pas.va/en/academicians/deceased/lemaitre.html) | Rev. Msgr., Cosmology, academic title; no inference of motivation or sole discovery priority |
+| [Masaryk University Mendel Museum](https://mendelmuseum.muni.cz/en/about-the-museum/mendel-museum) | Augustinian membership/abbacy, pea experiments and preserved work; classroom model data are not historical results or a claim about personal motivation |
+| [Benedict XVI, March 24, 2010](https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100324.html) | Albert's Dominican/natural-study roles and observation/classification; explicit limits of historical methods |
+| [St Andrews MacTutor, Agnesi](https://mathshistory.st-andrews.ac.uk/Biographies/Agnesi/) | Mathematical teaching text and charitable work; scholarly secondary history, no first-professor claim or inherited faith quote |
+| [NOAA ocean light](https://oceanservice.noaa.gov/facts/light_travel.html) | Three light zones/five depth subdivisions; not equal physical layers or verified species diets |
+| [Monarch Joint Venture life cycle](https://www.monarchjointventure.org/monarch-biology/life-cycle) | Living development, milkweed larval relationship/new generation; no universal classroom timing promise |
+| [Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html) | Creation-care theme paraphrased; no inherited approximate quote/paragraph pairing |
+| [Makey Makey landing instructions](https://www.makeymakey.com/pages/how-to) | Discovery/access entry only; **not sufficient matching-model safety/connection manual** |
 
-All eleven include at-a-glance fields, before-class tasks, per-pupil/team/class/adult supplies at 10/15/20/25, vocabulary/background/misconception/answer, numbered timed meetings, actual questions, individual evidence, troubleshooting, visible safety, lower/upper grade support/challenge, indoor path, cleanup and optional family snippet. Snap battery type/count is explicitly a matching-project preflight field, not an invented numeric allocation. No boilerplate quick card was added to all 71.
+Failed/blocked biography/geology searches were not converted into citations or
+facts. Unneeded inherited quotes, firsts, personal-faith claims, current titles,
+voyage legends and dated CSW themes were omitted. Original teaching text and
+clearly labeled hypothetical/simulated models do not masquerade as biographies,
+school measurements or official standards.
 
-The other **48 improvements** retain existing lesson bodies. Main correction families: living metamorphosis versus death; finite pi; false saint/quote/sole-discovery claims; drinking-water/model limits; current versus energy; sensor compatibility; safe load/drop/tool/weather boundaries; privacy and optional home work. See `revision=improved` in the CSV for the complete changed-lesson inventory and honest remaining needs.
+### Only remaining source/local delivery gates
 
-## 7. Signature projects and scored examples
+1. **Official external alignment:** all 71 rows remain **VERIFICATION REQUIRED**
+   against applicable MDE, Archdiocesan and national documents plus school adoption.
+   The four narrow arts matches above have inspected state-agency source evidence,
+   but retain MDE-copy corroboration and school-review holds; they are not blanket
+   official alignment or pupil-outcome claims.
+   The shared [standards source register](Standards_Sources.md) owns current-source
+   research. Its documented 2022 math implementation in 2027-28 and CSTA 2026
+   publication do not themselves certify these lesson-to-benchmark mappings.
+   No invented Archdiocesan C-STREAM standard or official benchmark is claimed.
+2. **Physical stock/condition/space:** ordinary kits, safe flight lanes,
+   source-labeled blunt rock samples, allergy/hygiene access, loan counts,
+   manufacturer age/model/manual/power approvals and exact fitted-cell counts.
+   Eight reported Snap kits are not physically inspected by this review.
+3. **Local software/device preflight:** compatible approved app/host,
+   charge/pair/calibration, working private local save/reopen, Music extension,
+   accessibility and observed real turns. A landing-page link or document
+   simulation is not hardware/software execution.
+4. **Local use/consent:** approve small classroom service need/handover and
+   any external display/delivery; protect private media. A rejected handover is
+   recorded as prototype only, not completed service.
+5. **Actual delivery evidence:** teacher records elapsed setup/class time,
+   unfinished turns and individual demonstrations. No classroom outcome,
+   school/pilot certification or measured cost/savings is inferred.
 
-**Grade 3 signature: Neighbor Access Bridge.** In Weekly A use rebuilt Week 10 after structural practice; in B use the repeated-flight investigation as that rotation's signature, retaining the same predict/test/change/explain evidence philosophy. Bi-weekly A's bridge is a useful context but still needs its P1 kit; do not substitute its current sheet for the rebuilt lesson silently. Every child records two results and a kept-same condition. Display failed and improved designs, not only winners.
+There is **no remaining repository lesson-outline/starter/quantity/timing task**
+in this owned scope. Parent integration into shared maps/materials/navigation
+remains outside this follow-up, not a reason to edit shared files here.
 
-**Grade 4 signature: Weather Evidence for Neighbors.** Weekly B's three-meeting weather unit ends with labeled data/graph and an accessible severe-weather message. Simulated practice is labeled; an actual-weather extension needs named source/time/location. In A, the bridge/robot projects extend to repeated measurements and model limits. In bi-weekly B, Christmas Circuits offers a safe repair-and-message signature without assuming prior circuits. These are rotation-specific alternatives, not extra compulsory meetings.
+## 9. Verification and reviewer judgment
 
-### Document-quality scoring, not classroom certification
+Session artifacts retain baseline hashes/keys, a PowerShell validator,
+per-package results and machine-readable summary.
+Automated checks passed:
 
-Six dimensions, each 0-3: **accuracy/development; meaningful Catholic ethics; standards-to-individual evidence; timed substitute clarity; practical cost/scalability; safety/error handling**. 0 absent/unusable, 1 substantial gap, 2 usable with teacher repair, 3 explicit and coherent. Total /18 locates priorities; a high document score does not verify kit availability or classroom timing.
+- 71 unique rows, exact nineteen-field header, required values, native integer
+  minutes, enums and 2-5 valid unique codes.
+- All frozen identity/status/priority/meeting/scope fields unchanged.
+- **60 new package bodies / 80 new timelines; all 99 timelines contiguous
+  from 0 to 40**, with numbered evidence and cleanup windows.
+- **956 class-size arithmetic cells** across 239 declared allocation rows,
+  checked at 10/15/20/25. These are scalar allocation checks, not 944 observed
+  classroom supply issues or a full parent procurement bill.
+- Nine original rebuilt-reference hashes and the shared Snap-guide hash
+  unchanged; two reference payloads are unchanged apart from the exact section
+  headings described above. **187 local links** resolve (20 lesson links plus 167 review/index
+  links, including the arts/resource follow-up).
+- Current revision/technology/domain counts reconcile with this report.
+- **35 document-model assertions** pass for score boundaries/reset, counts,
+  budgets, lever arms, repeated water allocation, robot-slot capacity and the
+  new heritage grouping/tally examples.
+- Scoped `git diff --check` passes. Editor diagnostics reported no errors for
+  the audit/review; that is not a Markdown pedagogical or classroom certification.
 
-| Lesson / version | Scores in dimension order | Total | Interpretation |
-|---|---|---:|---|
-| Bridge baseline | 1 / 2 / 1 / 1 / 1 / 1 | 7 | Ratio expectation, little redesign, no capped load/cleanup |
-| Bridge rebuilt | 3 / 3 / 3 / 3 / 2 / 3 | 17 | Complete desk-ready plan; retrieving 26 books/counters still depends on stocked room |
-| Weather baseline | 1 / 2 / 1 / 1 / 1 / 0 | 6 | Pins/glass/latex, four tools and assumed daily observations |
-| Weather rebuilt | 3 / 3 / 3 / 3 / 2 / 3 | 17 | Safe explicit unit; cup suitability and actual instrument access still checked locally |
-| Choice Labs after containment | 2 / 2 / 1 / 1 / 1 / 2 | 9 | Dangerous unspecified paths disabled, but still needs full station kits/objectives |
-| Bi-weekly Scratch Games after improvement | 2 / 2 / 2 / 1 / 1 / 2 | 10 | Correct bounded starter reference; full novice pacing/supplies still needed |
+The arts/material follow-up additionally verified four external rows against the
+read-only benchmark register, exact Kindergarten external header, individual
+grade/source/edition/sheet/row locators, three existing lesson paths and explicit
+school/MDE-copy holds. All 71 material fields were normalized; the other
+**18 fields per row**, all local codes/evidence/objectives and **all 71 lesson
+hashes** were unchanged in that phase from the completed-package snapshot. There are
+**9 distinct `Access:` terms and 3 distinct `Prepared resource:` terms**, separate
+from physical hardware. Editor diagnostics also reported no errors for the new
+external CSV. This verifies document consistency, not external adoption or
+classroom attainment.
 
-### Illustrative pupil evidence, not fabricated observations
+### Parent final reference-validator contract
 
-- **Grade 3 bridge, score 1/4:** "Mine is best because it is blue." No load evidence, arithmetic or fair-test condition.
-- **Grade 3 bridge, score 3/4:** "We held 6, then 11 counters: 5 more. We folded the paper differently and kept the gap and counter placement the same." Meets the objective even if another team's load is larger.
-- **Grade 4 bridge, score 4/4:** "Both held all 20, so we cannot know their maximum or say one is stronger. Repeat the same capped test or redesign the criterion safely." Recognizes a censored result.
-- **Grade 4 weather, score 4/4:** "Practice rain sums to 12 mm; Thursday is 6 mm. These are simulated values, not our town's observations. Five days cannot establish climate or guarantee tomorrow." Correct scope/source.
-- **Robot paper route, CT score 3/4:** correct trace and debug reason; **real device operation = not observed** if the child only traced/watched. Never convert this into a robotics mastery certificate.
+The unchanged reference validator (see the
+[standards traceability guide](Standards_Traceability.md); repository-root command:
+`.\scripts\Test-LessonReferences.ps1`) passes this band's **71 complete documents, 99 contiguous native meetings,
+615 numbered intervals and 20 relative lesson links**. It checks every audit
+code in the lesson text as well as overview/preparation/supplies/background/
+vocabulary/safety/support/challenge/individual evidence/troubleshooting/family/
+indoor markers, all four class-size allocations and frozen baseline keys.
 
-## 8. Materials, reusable kits and planning costs
+Thirty-four new references now say **each child** explicitly in the already
+scheduled individual check (35 intervals, because KEVA has two meetings).
+The two existing references mentioned above use consistent troubleshooting/
+indoor-fallback section names for their already-written contingency directions.
+These wording clarifications add no task, objective, time, supply or circuit
+instruction. All eleven original reference teaching payloads, especially
+Snap's manual/stock/quantity/timing/wave plan, remain preserved.
 
-### Quantity convention
+The shared `Lesson_Map.csv` still held first-pass Grades 3-4 revisions when the
+validator was run. It was **not regenerated or edited** here. The same validator
+therefore used its `RepositoryRoot` interface with a local session fixture:
+current owned audit copied as the input map, the band's 71 rows selected from
+the shared frozen baseline, and read-only junctions to the **live** lesson/resource
+files. No validator checks were bypassed or changed. Refreshing the stale shared
+derived map remains parent integration work, not an unfinished owned lesson.
+The audit itself remained byte-identical during those wording fixes. The later
+heritage follow-up updates only its scheduled local-code/evidence/preparation
+fields for the three source-learning lessons, as described above.
 
-Non-circuit rebuilds retain **ceil(N/2) team kits: 5/8/10/13** for 10/15/20/25 pupils. The default odd-enrollment trio means **5/7/10/12 active teams**, leaving an unused team kit at 15/25. The three selected circuit lessons instead use balanced teams up to three: **4/5/7/9 teams**, with **4/5/7/5 hardware stations** and two waves at 25 pupils. This is an explicit grouping/timing change, not permission to change other lessons' issue lists.
+Review judgment also checked objective -> code -> scheduled action -> individual
+prompt/threshold, grade expectations, actual questions, model/source labels,
+retests, cleanup and removal of unsafe inherited options. Keyword checks alone
+do not prove pedagogical quality. The small code/math traces below are
+**document-model tests, not actual Scratch/device bench execution**:
 
-**Exact 25-pupil examples:** Bridge: 26 books, 28 full paper sheets including two reserves, 5.2 m tape, 260 identical plastic counters, 13 cups/trays/rulers plus spare ruler, 25 half-sheet slips/pencils. Weather: 13 cups/trays/rulers/strips/handles, 39 team paper sheets, 2.6 m tape, 75 evidence half-sheets, one room thermometer and at most 500 mL water. Plants: 52 seeds, 26 cups/towels/labels, 13 rulers, 26 recording sheets, 25 half-slips; at most 65 mL water for budgeted moist cups only if care assigned.
-
-The selected circuit lessons share the **eight reported individual Snap kits**:
-five stations/two waves at 25, with three unissued kits available for checked
-reserves. See the [classroom guide](../Resources/Snap_Circuits_Classroom_Guide.md)
-for matching-manual, age, holder/protection and battery preflight; no assumed
-two-AA or LED allocation. The separate protected-AA route uses its own specified
-holders/modules/leads and wave allocation; never attach Snap parts to that supply.
-The original fourteen-kit pricing allowance below is a historical protected-AA
-planning estimate, not a required additional purchase for the new Snap route.
-
-### Starter stock for up to 25 pupils
-
-**Planning allowances in USD, not researched vendor quotes; tax/shipping excluded. VERIFICATION REQUIRED before purchase.** Stock supports the ten rebuilds' ordinary supplies, not a claim that every retained lesson is fully costed. Counts can be reduced using existing school stock; family donations are never required.
-
-| Item | Quantity | Unit allowance | Total | Reuse/storage/safety and plausible lesson use |
-|---|---:|---:|---:|---|
-| Letter paper | 2 reams, 1,000 sheets | $6/ream | $12.00 | Consumable; dry shelf; ten rebuilds plus retained planning tasks |
-| Masking/floor-safe tape | 2 rolls, at least 50 m each | $4 | $8.00 | Consumable; check surface permission; structures/routes/models |
-| Rulers | 14 | $1 | $14.00 | Reusable bin; blunt edges; eight or more measurement/model tasks |
-| Identical plastic counters | 300 | $0.05 | $15.00 | Reusable counted tubs; small parts away from younger children; bridge/score/load tasks |
-| Shallow trays | 14 | $1.50 | $21.00 | Reusable stack; dry/water/robot tests; seven rebuilds |
-| Straight-sided plastic cups | 30 | $0.12 | $3.60 | Reusable when clean; no glass/cut edges; bridge/plant/weather |
-| Markers | 52 | $0.30 | $15.60 | Reusable if capped; four colors for budgeted Ozobot teams; many communication tasks |
-| Pencils | 25 | $0.20 | $5.00 | Reusable; all individual evidence |
-| Centimeter measuring tapes | 2 | $4 | $8.00 | Reusable; flight/structures |
-| Classroom thermometer | 1 | $8 | $8.00 | Reusable, non-glass/non-mercury; weather tool practice; not automatically outdoor data |
-| Paper towels | 1 roll | $2 | $2.00 | Consumable; plant setup/spills |
-| Untreated bean seeds | 60 | $0.05 | $3.00 | Consumable; allergy check; plant inquiry only |
-| Labels | 100 | $0.03 | $3.00 | Consumable; kits/plant conditions |
-| Teacher scissors | 2 | $2 | $4.00 | Reusable adult tool storage; cutting tape/strips |
-| Storage bins | 3 | $5 | $15.00 | Reusable; labeled dry general/circuit/observation kits |
-| Tissue paper | 1 pack | $2 | $2.00 | Consumable; strip/light art |
-| Cardstock | 100 sheets | $0.08 | $8.00 | Consumable; messages/scene models |
-| Glue sticks | 10 | $0.75 | $7.50 | Reusable until consumed; paper models, no hot glue |
-| Acrylic mirrors | 3 | $2 | $6.00 | Reusable; optional retained light stations, no glass |
-| Flashlights | 3 | $3 | $9.00 | Reusable; teacher replaces batteries, no eye beams; light/reflection models |
-| **Starter subtotal** | | | **$169.70** | Plus stock books/blocks, cardboard, water, board/timer |
-
-Books/blocks: 26 existing stable classroom books or equivalent low supports, **$0 only if already available**. Clean cardboard comes from school stock; if unavailable the teacher supplies paper alternatives, not a compulsory family collection. The ten rebuilds budget approximately **431 full ordinary team/demo sheets + 475 individual half-sheets**, about **669 full sheets** after rounding, plus 13 cardstock sheets; the 1,000-sheet stock covers that documented set, not every worksheet in all 71 lessons.
-
-Circuit allowance per kit: holder **$2**, two AA cells **$1 total**, module **$2.50**, switch **$1**, three leads **$1.50 total** = **$8**. Fourteen shared kits = **$112**, giving **$281.70 starter plus circuit stock**, before contingency. Hardware reusable except cell replacement; store off, dry, counted and closed. First assembly/testing is advance work, not a twenty-minute surprise substitute task.
-
-### Budget tiers, not compulsory spending
-
-- **About $250:** $169.70 general stock + 20% contingency = **$203.64**, using school books/board/timer. Excellent low-tech work is possible; electrical/robot operation remains missing without kits/loans.
-- **About $500:** starter + fourteen shared circuits = $281.70; +20% = **$338.04**. Funds remain for verified observation/source cards and replenishment; not automatically enough for commercial modular kits.
-- **About $1,000:** above stock + one robot family, two units budgeted at **$200 each** = $681.70; +20% = **$818.04**, **assuming existing compatible tablets**. Choose verified loan/purchase, not every brand.
-- **About $2,500:** general/circuit stock + two each of Sphero/Dash/Ozobot at an allowance of $200/unit = **$1,481.70**; +20% = **$1,778.04**, with existing compatible devices. Unspent money can support verified science kits. Thirteen new computers at an illustrative $220 each would add **$2,860**, so do not advertise the enhanced tier as including a new computer lab.
-
-Loan availability, actual prices, device models and stock condition remain unverified. Little Bits, Makey Makey, KEVA quantities and every retained station kit require school inventory/quotation; no false complete-program total supplied.
-
-Suggested bins: **Structures/measurement** (rulers, counters, low supports, cups, trays); **Observation/weather/plant** (cup/ruler tools, thermometer, seeds/labels, dry source cards); **Circuits** (numbered verified kits, inventory sheet, screwdriver adult-only). Keep robot/device pairs labeled by model outside wet-material storage.
-
-## 9. Technology plan and substitute readiness
-
-CSV primary digital/programmable-technology labels: **45 None, 9 Optional, 17 Required**, no Recommended. "None" means no digital/programmable device; it does not waive actual material requirements. The three rebuilt circuit lessons require preflight-approved Snap kits or the separate verified protected-AA equipment for real assembly/testing. Required digital/programmable technology does not imply mandatory home access. Circuit technology is not computer science automatically; an on/off paper model does not demonstrate conductivity or circuit mastery. Paper narrative art is not programming just because it has a sequence.
-
-- **Unnecessary devices removed:** Pi comparison, ordinary observation, gift/structure design, safe weather/plant planning. Purposeful art need not be digital.
-- **Devices add distinct evidence:** executing Scratch events/conditions; Bluetooth/app block edits; physical robot calibration; optical code sensing; Makey Makey keyboard input.
-- **Fallback labels:** sequence/loop/condition/debug traces may show CT. Only observed edit/run/stop/measurement shows the relevant real-device outcome. Paper electrical paths show system reasoning, not actual current or circuit mastery. Missing/inoperative digital equipment **or mandatory electrical materials** leaves the corresponding operational objective **not observed**, regardless of the technology label; report this explicitly to the regular teacher.
-- **Routine preflight:** loan/model/source chart secured, charged, paired, manufacturer instructions tested, no pupil account/private-data exposure, dry safe area, kit inventory and stop method. A substitute without this preflight chooses the explicit low-tech path; no twenty-minute charger/software miracle assumed.
-
-### Documented desk simulations, not field trials
-
-| Simulation | Conditions, procedure and result |
+| Test | Expected verified document result |
 |---|---|
-| **Grade 3 substitute arrives 20 minutes before Bridge** | Stocked room assumed: 26 low books, counted counters, paper/rulers/tape/trays. Budget 4 min read plan, 4 gather, 5 count trays, 3 position/check gaps, 2 rehearse load/exit, 2 board/timer = **20 min**. No printing, login, ratios or unseen worksheet. Run the numbered 0-40 schedule; example 6 then 11 yields **5 more**. **Desk result: coherent**, with a fail gate if supports/counters absent; use ten-counter cap consistently or shared trays, not improvised heavy loads. Not a measured classroom prep time. |
-| **No digital devices** | Bridge/flight/weather/plants retain primary reasoning objectives; all three rebuilt circuits need no screens/software, **but approved electrical kits remain mandatory for operation**. Sphero/Dash/Ozobot and Scratch use timed paper routes/traces; expected square repeat = **8 rolls**, L route turns once, score fourth input stays **3** then restart **0**. **Desk result: CT evidence retained, actual programmable-device operation not observed.** If electrical kits are missing, circuit paper models show reasoning only, not circuit mastery. Other retained workflows remain incomplete; consult the 27 P1 list. |
-| **Minnesota January, -10 degrees F** | No outdoor period required. Weather uses window observations and **simulated** 6/8/7/10/9 C, 0/4/0/6/2 mm data; total rain **12 mm**, warmest Thursday, temperature range **4 C**. Plants uses dry seed observation/plan and labeled 0/4/9 mm practice values, not promised sprouting. Flight uses approved indoor lane or 1 m short model. **Desk result: core tasks work indoors; no actual outdoor/weather/growth data falsely credited.** |
-| **25 pupils** | Non-circuit issue lists retain their pair/trio budget: Bridge needs 26 books/260 counters; weather 13 trays. The selected Snap circuits use **nine teams, five stations, two 12-minute hardware waves** and three possible reserve kits. Two robot areas with at most seven one-minute rounds retain their original bounds. **Desk result: document timing/quantity arithmetic fits**, contingent on actual space, approved stock, adult checks and observed pupil-turn completion; no classroom throughput trial. |
-| **Limited budget** | $203.64 general stock allowance plus contingency supports low-tech/model reasoning. Real electrical work needs the additional approved circuits; real robotics/coding requires functioning equipment or loans. **Desk result: no necessity to buy all robot brands; no claim of operational mastery without them.** |
-| **Parent asks what is learned** | "Your child predicts, tests one change, compares honest data and explains a revision; Grade 4 adds repeated-test/model-limit reasoning. Faith guides service, stewardship and truthfulness. Models and real device evidence are distinguished." Refer to a child's slip rather than a fun-project photograph. |
-| **Kindergarten non-reader** | **Out of scope.** No review or readiness claim for Kindergarten; Grade 3 oral/motor support cannot be treated as a Kindergarten audit. |
+| Bounded score | Initial 0; four distinct inputs 1/2/3/3; restart 0; `<=3` would wrongly permit 4 |
+| Loop/animation | Four 90-degree turns total 360; four repeated moves; A dialogue -> B reply -> A thanks under broadcast-and-wait |
+| City budget | 4+3+3+3+2+2+3 = 20; remainder 0; extra 2 requires an explicit tradeoff |
+| Ecosystem model | Five stipulated links; removing Q deletes three, leaves two; not a certain real population cascade |
+| Practice charts | Gratitude 4+3+5=12, difference 2; school 6+4+3=13, difference 2; showcases 3/5 and 4/7 remain labeled simulated |
+| Lever arms | Pivot 10 cm gives 10/20 cm arms; pivot 5 cm gives 5/25 cm; felt effort not calibrated force |
+| Marine water | Nine teams x two fresh 100 mL tests = 1,800 mL |
+| Heritage mathematics/data | Four groups of three total 12; model records A/C/E have two leaves and B/D/F three, so three records/group, six records and 15 shown leaves; not real growth or historical experimental data |
 
-The local check verifies **all 17 rebuilt timing chains reach exactly 40 minutes**, CSV coverage/metadata, four-track representation, scales and original external URL retention. Arithmetic/trace simulations are document/model checks, **not Scratch runtime, robot or electrical bench tests**. No physical kit or live classroom was available in this session.
+### Final desk simulations
 
-**Recorded local check outcome:** PASS: 75 owned Markdown files; exactly 71 unique CSV rows with the required header/enums and 2-5 codes; frozen baseline status/priority preservation; 59 changed versus 12 byte-unchanged lessons; ten rebuilds across all four tracks; 17 contiguous 40-minute sequences; **40 supply-scale arithmetic checks**; original external URL retention; all owned/review local links resolve; 27 pending P1 packages agree with the report; score/weather/bridge/plant/repeat and budget desk models agree. Owned-directory `git diff --check` passed. Editor diagnostics reported no errors for the review/CSV, not a Markdown pedagogical certification. Validator and machine-readable results are retained in session artifacts; unrelated worktree changes were excluded from checks and not reverted.
+- **Substitute, twenty minutes:** an ordinary prepared kit/reference can be
+  read/gathered/rehearsed; unprepared electronics/software must use explicit
+  fallback and report missing real-operation evidence. Prep estimates aren't
+  measured classroom times.
+- **No devices:** 56 None packages retain their primary digital-free route,
+  subject to physical materials. Required packages keep timed paper reasoning/
+  communication, explicitly not actual programming/sensing/conductivity.
+- **Minnesota January:** all core paths are indoor; no unsafe cold outing,
+  spring specimens or winter daylight is necessary.
+- **25 pupils:** nine balanced teams in new low-tech kits, parallel sharing and
+  fixed slots/waves instead of serial speeches or races; protected evidence/
+  cleanup windows.
+- **Budget:** low-tech consumables/reusable stock do substantial work; actual
+  software/electrical outcomes still require approved equipment/loans.
+- **Parent:** cite a child's actual record/operation log; each package has a
+  copy-ready optional family snippet, not "we proved mastery" from a photograph.
+- **Kindergarten non-reader:** outside this band's scope; Grade 3 access supports
+  do not certify Kindergarten readiness or change another band's lessons.
 
-## 10. Copy-ready unit newsletter snippets
-
-Use only snippets for work actually delivered. If a device path was replaced, say "paper model," not "we programmed robots." Each row names the audit units covered; repeated names across tracks share a snippet, but evidence remains rotation-specific. **No routine homework. All optional home suggestions require no purchase, device, private disclosure or assessment.**
-
-| Unit(s) covered | What we explored/did/learned and Catholic connection | Ask your child | Optional home |
-|---|---|---|---|
-| Foundations | We practiced observations or user questions and agreed on safe, respectful collaboration. Catholic learning includes honest inquiry and dignity. | What makes a helpful question? | Notice one everyday tool. |
-| Computing; Computing art | We traced/programmed sequences, repeats or conditions and tested a correction; purposeful messages need clear timing. Responsible tool use includes everyone. | What repeated, and how did you debug it? | Trace three paper directions. |
-| Inquiry | We changed one feature, kept others the same and recorded trials. Honest evidence matters more than a correct prediction. | What stayed the same? | Discuss a question without experimenting. |
-| Structures | We tested a span/standing model, measured or counted, and changed a design. Engineering can improve people's access and use resources carefully. | Which test informed a change? | Notice a structure in a picture. |
-| Service design | We considered a user's stated need and made a model or plan. Respecting dignity means not assuming what others need; actual delivery needs adult approval. | Who is the design for, and what evidence supports it? | Thank a helper if comfortable. |
-| Gratitude; Gratitude data; Gratitude communication; Gratitude design | We made a respectful thank-you message or graphed voluntary/practice categories. Gratitude is not ranked by counts; thoughtful communication can serve others. | What does your message or graph show? | Share an optional thanks. |
-| Portfolio | We chose evidence of a skill, not only a favorite decoration, and explained growth. Stewardship includes using our gifts well. | Which artifact shows a change in your thinking? | Tell someone about that artifact. |
-| Light | We compared transmitted/reflected light and purposeful art. Advent light imagery is a religious symbol, not a science result about Jesus. | What did light do in your test? | Notice a safe light source. |
-| Astronomy | We compared a desk model and a religious narrative, labeling what each can support. Faith and reason need truthful claims. | Which claim could the model test? | Look at a sky picture. |
-| Reflection | We planned a measurable classroom goal and a tracker. Growth and stewardship concern effort and choices, not a promise of perfect outcomes. | How will you notice progress? | Talk about a small goal. |
-| Choice inquiry | We selected prepared safe work and documented a question or design. Caring for time/materials and communicating evidence matter more than doing every station. | What evidence did you keep? | Explain one design choice. |
-| Faith and evidence | We used approved sources or a verified teaching text to distinguish fact, reflection and uncertainty. Faith and reason do not license invented biography. | What source supports your claim? | Discuss why sources matter. |
-| Circuits | We traced/tested an open and closed path or used a clearly labeled paper model, then made a message. Our Catholic connection was hopeful, respectful communication. | Where was the gap, and what did the test show? | Notice a switch without opening anything. |
-| Mathematics | We compared around/across circle lengths and purposeful patterns. Pi is finite; accurate mathematics can inspire wonder without proving theology. | How did three diameters compare with around? | Notice a circle. |
-| Stewardship; Stewardship design | We observed clean samples or designed labeled resource-system models. Creation care means honest limits, user needs and wise resource use, not invented savings. | What is a model, and what would need a real test? | Discuss one resource-saving habit. |
-| Life science; Life inquiry; Life systems | We observed/planned growth or labeled living stages and food relationships. Care for life includes distinguishing biology from Easter metaphor. | Which stages are alive? | Notice a plant or animal in a picture. |
-| Flight | We modeled forces and compared repeated whole-length trials after one change. Truthful tests and patient teamwork put our gifts to good use. | What changed between trials? | Explain force arrows with hands. |
-| Applied design; Easter design | We chose one safe paper-model challenge and explained its criterion/test. Faith celebration and design can coexist without unsafe drops or claims that metamorphosis is death. | What counted as success in your model? | Describe the model, no building required. |
-| Weather; Weather data | We read a tool, labeled observed versus simulated data and compared a graph. Caring for weather-affected neighbors includes safe, accessible messages. | Where did your data come from? | Discuss an adult's safe-weather plan. |
-| Community data | We graphed one voluntary class survey with clear units/categories. Appreciation and privacy both respect our community. | What do two bars tell you? | Explain a graph verbally. |
-| Communication art; Faith communication | We planned a three-part story/message and revised it for an audience. Sharing hope requires care, truthfulness and privacy. | What revision made it clearer? | Tell a short story if comfortable. |
-| Earth systems | We observed blunt rock samples/images and used tentative, supported classifications. Wonder at creation includes admitting uncertainty. | Which property did you actually observe? | Notice a rock image, no collecting required. |
-| Machines | We identified load/effort or mechanisms in a model/picture. Tools change force/distance/direction, not create energy; dignified work uses them safely. | What tradeoff does the tool make? | Identify a safe household tool by sight. |
-| Interactive tools | We traced input -> keyboard event -> output using a verified dry tool or paper model. Technology should include people and protect privacy. | Did you operate the tool or model its rules? | Sketch an input/output idea. |
-
-## 11. Remaining priorities and stop point
-
-**P0:** corrected or explicitly disabled/gated the detected unsafe/inaccurate required paths. Continue to obey all gates; missing a verified chart/module/source means do not teach that unsupported claim or hardware outcome. No blanket readiness certification.
-
-**P1: 27 lesson packages**, counted once each, even if several issues remain:
-
-| Track | Remaining packages and next bounded task |
-|---|---|
-| Weekly A: **7** | [KEVA](../Lessons/Grades_3-4_YearA/Week05-06_KEVA_Challenges.md): affordable quantity/pacing kit; [Community Helpers](../Lessons/Grades_3-4_YearA/Week07-09_Community_Helpers.md): one specified scenario/test kit; [Coding Gratitude](../Lessons/Grades_3-4_YearA/Week11_Coding_Gratitude.md): complete novice starter; [Choice Labs](../Lessons/Grades_3-4_YearA/Week19-22_Choice_Labs.md): full two-station rebuild; [Catholic Schools Week](../Lessons/Grades_3-4_YearA/Week23_Catholic_Schools_Week.md): verified profile cards; [Scratch](../Lessons/Grades_3-4_YearA/Week24-25_Scratch_Programming.md): executable novice starter and boundary tests; [Snap Circuits](../Lessons/Grades_3-4_YearA/Week26-27_Little_Bits_Circuits.md): physical kit/manual/power approval and classroom timing trial; scaling and individual document checks now supplied |
-| Weekly B: **5** | [Paper Airplane](../Lessons/Grades_3-4_YearB/Week04-06_Paper_Airplane.md): one-category finals quantity/pacing; [Gratitude](../Lessons/Grades_3-4_YearB/Week11_Thanksgiving_Gratitude.md): realistic aggregation/individual graph check; [Marine](../Lessons/Grades_3-4_YearB/Week14-17_Marine_Science.md): source-checked cards/safe cleanup kit; [Catholic Schools](../Lessons/Grades_3-4_YearB/Week23_Catholic_Schools.md): survey kit/current facts; [Sustainable City](../Lessons/Grades_3-4_YearB/Week24-27_Sustainable_City.md): whole-number resource budget/individual tradeoff evidence |
-| Bi-Weekly A: **7** | [Bridge](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session03_Bridge_Engineering.md): affordable kit/retest timing; [Scratch Intro](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session05_Scratch_Intro.md): local starter/scaling; [Animation](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session08_Scratch_Animation.md): minimal working starter; [Scientists](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session09_Catholic_Scientists.md): verified cards; [Dash Challenge](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session14_Dash_Challenge.md): one model-verified mission kit; [Little Bits](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session16_Little_Bits.md): exact modules/quantities; [Exhibition](../Lessons/Bi-Weekly/Grades_3-4_YearA/Session17_Exhibition.md): individual artifact rubric |
-| Bi-Weekly B: **8** | [Tower](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session03_Tower_Challenge.md): capped kit/pacing; [Scratch Games](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session05_Scratch_Games.md): full novice forty-minute rebuild; [Digital Stories](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session08_Digital_Stories.md): one attainable private workflow; [Faith/Science](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session09_Faith_Science.md): verified cards; [Geology](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session10_Geology_Rocks.md): safe source/quantity kit; [Ozobot Challenge](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session14_Ozobot_Challenge.md): one verified mission; [Makey Makey](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session16_Makey_Makey.md): documented dry connection/quantities; [Celebration](../Lessons/Bi-Weekly/Grades_3-4_YearB/Session17_Celebration.md): individual artifact rubric |
-
-P2: finish scalable kits/individual thresholds in retained introductory, gift, light and celebration plans; strengthen observed longitudinal data and math in bi-weekly B; set in-class goal follow-up. P3: optional guest experts/digital publishing only after privacy, compatibility and core delivery are secure.
-
-**Original band-review stop point:** full audit, ten substantive rebuilds and explicit remaining lists. The bounded Snap follow-up adds one rebuild and updates two existing circuit rebuilds plus their related shared records. No commits, equipment purchases or classroom certification; unrelated lesson work remains untouched.
+**Closure:** all 60 requested packages are complete and persistent; all 11
+existing references and recent Snap routes are preserved. Remaining constraints
+are only the source/local delivery gates above. No substantial partial handoff.

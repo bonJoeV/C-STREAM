@@ -1,225 +1,87 @@
 ---
 title: "Week 33: Easter Engineering"
-description: "Grades 5-6 resurrection and transformation themes"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - life-science
-  - easter
-  - arts
+description: "Observed melting, accurate change models and a revised visual message"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# ✝️ Week 33: Easter Engineering
+# Week 33: Easter Engineering
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | E (Engineering), S (Science), R (Religion) |
-
----
-
-# Week 33: Easter Engineering
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Explore transformation in science (chemical, physical, biological)
-2. Engineer devices that demonstrate transformation
-3. Apply scientific principles to create meaningful projects
-4. Connect scientific transformation to theological concepts
-
-### Faith Integration Objectives
-Students will be able to:
-1. Understand Resurrection as the ultimate transformation
-2. Connect scientific transformation to spiritual transformation
-3. Reflect on how Christ transforms our lives
-
----
-
-# Week 33: Easter Engineering
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Resurrection and New Creation** — The Resurrection is the central event of Christianity. Jesus transformed death into life, despair into hope, sin into redemption. We too are called to transformation — becoming new creations in Christ.
-
-### Scripture Connection
-> "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
-> — 2 Corinthians 5:17
-
-### Saint Connection
-**St. Paul** — The ultimate transformation story. From Saul the persecutor to Paul the apostle. Encountered Christ on the road to Damascus and was completely transformed. His letters share this message of transformation.
-
----
-
-## 📚 Materials Needed
-
-- Materials for transformation demonstrations
-
-- Engineering supplies for projects
-
-- No chemical-reaction station; use teacher-prepared sealed ice demonstration or dry mechanical/paper model only
-
-- Electronics for programming light sequences (optional)
-
-- Art supplies
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Risen Lord, You transformed death into life. Transform us today — our minds through learning, our hearts through faith. Help us see resurrection and new life in Your creation. Amen."
-
-**Easter context:**
-
-- "Easter celebrates TRANSFORMATION — the greatest transformation ever"
-
-- "Death → Life, Despair → Hope, Sin → Redemption"
-
-- "Today we explore transformation in science and connect it to our faith"
-
-### Transformation in Science (10 min)
-**Types of transformation:**
-
-**Physical Transformation:**
-
-- State changes: solid ↔ liquid ↔ gas
-
-- Same substance, different form
-
-- Example: Ice → Water → Steam
-
-**Chemical Transformation:**
-
-- New substances created
-
-- Atoms rearrange
-
-- Example: Rust, burning, digestion
-
-**Biological Transformation:**
-
-- Growth and development
-
-- Metamorphosis
-
-- Example: Caterpillar → Butterfly
-
-**Energy Transformation:**
-
-- Energy changes form
-
-- Always conserved
-
-- Example: Chemical → kinetic → heat
-
-**Demonstration examples:**
-
-- Describe chemical change using a labeled diagram only; no reaction mixing in this lesson
-
-- Ice melting (state change)
-
-- Butterfly lifecycle images (metamorphosis)
-
-**Resurrection connection:** Metamorphosis is a living biological process, not death/resurrection and not proof of Easter. Use change as an explicitly limited symbol; Christ's Resurrection is a distinct claim of faith.
-
-### Engineering Challenge (25 min)
-**Choose a transformation project:**
-
-**Option A: Light Sequence Programming**
-Create a Scratch or Sphero program that demonstrates transformation:
-
-- Darkness → Dawn → Full Light
-
-- Winter → Spring imagery
-
-- "Death" colors → "Life" colors
-
-- Requires: Variables, timing, gradual change
-
-**Option B: Transformation Mechanism**
-Build a mechanical device that transforms:
-
-- Input → different output
-
-- Could be: darkness/light, closed/open, down/up
-
-- Requires: Engineering design, moving parts
-
-**Option C: Transformation Diagram**
-Draw a labeled before/after state-change model. Explain what stays the same and what changes; no chemicals, heating, tasting, or pressure vessels.
-
-**Option D: Artistic/Musical Transformation**
-Create art or music that shows transformation:
-
-- Digital art showing progression
-
-- Musical piece from minor to major
-
-- Visual narrative of transformation
-
-- Requires: Artistic skill, technical medium
-
-**All projects must:**
-1. Demonstrate clear transformation
-2. Include written reflection on Easter connection
-3. Be prepared to present and explain
-
-**Work time with teacher support.**
-
-### Presentation & Reflection (5 min)
-**Share projects:**
-
-- What transformation did you create?
-
-- How does it connect to Easter?
-
-- What did you learn?
-
-**Final reflection questions:**
-
-- "Where have YOU experienced transformation in your life?"
-
-- "Where do you want Christ to transform you?"
-
-- "How does transformation give you hope?"
-
-**Closing Prayer:** "Lord Jesus, You are the God of transformation. You transform death to life, darkness to light, sin to redemption. Transform US. Make us new creations. Help us see Your resurrection power at work in our lives and in Your creation. He is risen! Amen."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-S3 - individual physical/chemical/biological distinction; CST-A3 - purposeful before/after communication; CST-C1 - explicitly distinguish scientific process from faith symbol. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY
-
-No student-selected reactions, fire, hot water/steam, button cells, or unreviewed electronics. If ice is shown, adult uses a sealed tray and wipes spills; all other work is dry and indoors. Spiritual reflection may remain private.
-
-- Identified types of transformation in science
-
-- Created project demonstrating transformation
-
-- Connected scientific transformation to Easter themes
-
-- Reflected on personal transformation
-
----
-
-## 📎 Home Connection
-> "We explored transformation in science connected to Easter! Ask your child: 'What types of transformation did you learn about?' 'What did you create?' 'How does your project connect to resurrection?' Discuss as a family: Where have you seen transformation in your lives? How does Christ transform us? He is risen indeed!"
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Physical Science |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can describe a physical change, compare it with chemical/biological change and create an accurate before/after panel. A model communicates both change and what remains. |
+| Domains / Catholic connection | S, A, C; Easter's Resurrection is a distinct faith claim. Melting or growth may symbolize change, never prove Resurrection. |
+| Local standards | CST-S3: changes/model; CST-A3: visual revision; CST-C1: faith/evidence distinction. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; no circuit or light-sequence option. |
+| Difficulty / entry | Introductory; teach categories with complete cards. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Change Panels. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; seat 4/5/7/9 teams. Adult seals a small ice
+piece in clear bag/tray and seals a second bag of liquid water as endpoint
+reference. Pilot visibility; actual melting within the period not guaranteed.
+Copy cards: ice -> water (same water, physical); iron -> rust (new substances,
+chemical, diagram only); caterpillar -> butterfly (living development,
+biological, not death/resurrection). No chemical demonstration or body data.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper panel/evidence sheets | 2/student | 20 | 30 | 40 | 50 |
+| Pencil | 1/student | 10 | 15 | 20 | 25 |
+| Marker set; ruler; card sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Sealed clear bags | 2/teacher | 2 | 2 | 2 | 2 |
+| Ice piece; water endpoint; tray; board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/bags consumable; tools/tray reusable. Teacher controls water.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Physical change:** form/state changes without new substance.
+**Chemical change:** new substances form. **Biological development:** living
+organism changes through growth. **Symbol:** represents meaning, not mechanism.
+**Common misconception:** every change creates a new substance.
+**If asked, "Is ice dead?"** No; water is not an organism; Resurrection is not
+a phase change. Melting absorbs thermal energy from surroundings; no heating
+required. Two panels must show same substance plus changed state/shape.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Introduce Easter/change distinction; ask "What changed, what remained?"
+2. **4-11 (7 min):** Adult shows sealed bags; pupils record actual ice appearance and endpoint-reference status.
+3. **11-24 (13 min):** Each sorts three cards with reasons, makes ice/water two-panel diagram with labels/arrows and caption.
+4. **24-35 (11 min):** Inspect actual bag again; record observed/not yet melted. Partners ask a science question; revise caption/arrow to avoid claiming unobserved change.
+5. **35-41 (6 min):** Each correctly identifies three categories, explains same-water limit and distinguishes chosen faith symbol from scientific evidence.
+6. **41-45 (4 min):** Adult removes bags/wipes tray, pupils cap markers, save panels and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which panel is an observation versus reference? Is a butterfly a new substance?"
+Each has three correct category reasons, labeled physical-change panel,
+reader-driven revision and faith-symbol limit. 1 unsupported; 2 prompted;
+3 independent; 4 adds energy/model limit; NE for unobserved change.
+
+## IF THINGS GO WRONG / SAFETY
+
+No melting -> record honestly; use labeled prepared endpoint, not claim live
+result. No ice -> dry card model, physical observation deferred. No leaks
+near power; adult isolates spill and reports. No tasting, steam, fire, reactions,
+pressure containers, circuits or forced spiritual disclosure.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: large category cards, predivided panels, oral/scribed caption.
+Grade 6/challenge: explain heat transfer versus chemical composition and
+why symbolic similarity is not scientific proof. Indoor lesson only.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Save actual/reference labels and individual exits; count tools, dry surfaces.
+**Explored:** changes in matter/life. **Did:** observed or modeled melting and
+revised a panel. **Learned:** categories and limits. **Catholic connection:**
+Easter distinct from natural mechanisms. **Ask:** "What stayed the same?"
+No routine homework.

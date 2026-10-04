@@ -1,243 +1,87 @@
 ---
 title: "Week 24: Catholic Schools Week"
-description: "Grades 5-6 Year B celebration of Catholic education"
-version: "1.3"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - light
-  - catholic-schools-week
-  - service
-  - arts
+description: "A source-labeled school-story graph and peer teaching check"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🏫 Week 24: Catholic Schools Week
+# Week 24: Catholic Schools Week
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Celebration & Service) |
-
----
-
-# Week 24: Catholic Schools Week
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply STREAM skills to celebrate community
-2. Create data-driven presentations
-3. Lead activities for younger students
-4. Document and share school achievements
-
-### Faith Integration Objectives
-Students will be able to:
-1. Articulate value of Catholic education
-2. Serve as role models
-3. Celebrate faith and learning together
-
----
-
-# Week 24: Catholic Schools Week
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Catholic Education** — Catholic schools form the whole person — mind, body, and spirit. We don't just learn facts; we learn wisdom. We don't just gain skills; we grow in virtue. Faith and reason dance together!
-
-### Scripture Connection
-> "Train up a child in the way he should go; even when he is old he will not depart from it."
-> — Proverbs 22:6
-
-### Theme Connection
-**CSW Theme:** "Catholic Schools: United in Faith and Community"
-(Adjust based on current year's theme)
-
----
-
-## 📚 Materials Needed
-
-- Service activity supplies
-
-- Presentation materials
-
-- Data collection tools
-
-- Celebration items
-
-- Mentoring activity supplies
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-"Thank You, Lord, for Catholic education! Thank You for schools where faith and learning unite. Bless our community this week. Help us be grateful and generous. Amen."
-
-### Catholic Schools Week Introduction (5 min)
-**Celebrating our school:**
-
-**Why Catholic Schools Week?**
-
-- Celebrate Catholic education nationwide
-
-- Recognize students, teachers, families
-
-- Share our mission with community
-
-- Give thanks for this gift
-
-**This year's theme:**
-
-- Discuss meaning
-
-- How does our school show this?
-
-- How can we celebrate?
-
-**5th-6th grade role:**
-
-- Leaders in our school
-
-- Examples for younger students
-
-- STREAM ambassadors
-
-- Community builders
-
-### Data Project: Our School Story (15 min)
-**Tell our school's story with data:**
-
-**Collect and compile:**
-
-- Years school has been open
-
-- Students served over time
-
-- Alumni achievements
-
-- Service hours per year
-
-- Faith activities
-
-**Create presentation:**
-
-- Infographic about school
-
-- Key statistics
-
-- Powerful stories
-
-- Future vision
-
-**Skills application:**
-
-- Data visualization (from Week 11)
-
-- Presentation design (from App unit)
-
-- Storytelling (throughout Year B)
-
-### Service to Younger Students (18 min)
-**Lead a STREAM activity for lower grades:**
-
-**Options:**
-
-**Option A: Science Demo**
-
-- Prepare exciting demonstration
-
-- Explain in kid-friendly language
-
-- Connect to God's creation
-
-**Option B: Coding Buddies**
-
-- Help younger students with ScratchJr
-
-- Patient teaching
-
-- Celebrate their creations
-
-**Option C: Engineering Challenge**
-
-- Lead building challenge
-
-- Provide guidance
-
-- Encourage problem-solving
-
-**Option D: Faith-Science Connection**
-
-- Share a story of Catholic scientist
-
-- Simple activity related to their work
-
-- Show faith and science unite
-
-**Preparation:**
-
-- Plan activity
-
-- Gather materials
-
-- Practice explaining
-
-- Prepare for questions
-
-**If time permits, execute activity with buddy class**
-
-### Reflection & Appreciation (5 min)
-**Express gratitude:**
-
-**Write appreciation notes:**
-
-- To a teacher who's helped you
-
-- To a staff member (custodian, secretary, etc.)
-
-- To a younger student you've mentored
-
-- To your family for choosing Catholic education
-
-**Share gratitude:**
-
-- What are you thankful for about our school?
-
-- How has Catholic education shaped you?
-
-- What will you remember?
-
-**Closing Prayer:**
-"Thank You, God, for the gift of Catholic education! Thank You for teachers who form our minds and hearts. Thank You for friends who journey with us. Thank You for faith that gives us purpose. Bless all Catholic schools! Help us be lights in our communities. May we always learn and love in Your name. Amen."
-
----
-
-## 📎 Home Connection
-> "We celebrated Catholic Schools Week today! Ask your child: 'What data story did you help create about our school?' 'How did you serve younger students?' 'What are you thankful for about Catholic education?' Thank YOU for choosing Catholic education for your family!"
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-M2 - interpret one verified school datum with source/date; CST-E3 - explain a teaching concept and check a peer in rehearsal; CST-C2 - name respectful mentoring behavior. Without school-approved data, use clearly labeled fictional practice data. This meeting does not guarantee an actual buddy visit; adults separately schedule/supervise it. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Created data presentation about school
-
-- Led or prepared service activity
-
-- Demonstrated leadership and gratitude
-
-- Articulated value of Catholic education
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Service |
+| Time | 1 meeting of 45 minutes; any buddy-class visit separately booked |
+| Objective / why / big idea | I can explain a source-labeled data display and check a peer's reading of it. A school story needs truthful evidence, not publicity overclaims. |
+| Domains / Catholic connection | M, E, C; gratitude for Catholic education expressed through patient, inclusive teaching. |
+| Local standards | CST-M2: graph/source; CST-E3: explanation/check; CST-C2: respectful mentoring. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; no required school database or media. |
+| Difficulty / entry | Introductory; teach graph units and invented/verified distinction. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: School Story Practice. |
+
+## BEFORE CLASS / MATERIALS
+
+Check accommodations/contact; tool teams 4/5/7/9. Default complete practice data:
+fictional library open-table sessions Mon 2 / Tue 3 / Wed 1 / Thu 4 / Fri 2,
+source "invented practice card, October 4, 2026", not school achievements.
+If office provides approved anonymous counts/source/date, substitute explicitly
+and recheck math; no individual service/faith records. Use generic Catholic
+Schools Week celebration, not unverified current official theme.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Graph paper; paper check; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Ruler; dataset sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools reusable; no visitor/photo supplies.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Source:** record origin. **Frequency:** count. **Mentoring:** patient support.
+**Evidence check:** learner explains rather than nods.
+**Common misconception:** a practice graph is the school's history.
+**If asked, "Can we publish it?"** Only after school approval and accurate
+labels; no public student data. Key total 2+3+1+4+2 = 12 sessions; Thu-Wed
+difference 3. Counts do not measure faith or school quality.
+Teaching script: "This graph is invented. One square is one session.
+Show the busiest day. How many more than Wednesday? What can't it show?"
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What makes a school story honest?" Brief gratitude reflection.
+2. **4-11 (7 min):** Model axes 0-4, source/date and teaching script.
+3. **11-24 (13 min):** Each plots five bars, total/source/date and one comparison; tools shared, work individual.
+4. **24-35 (11 min):** Paired two-minute teaching segments; odd trio fits. Listener answers busiest day/difference; record actual words and revise unclear explanation.
+5. **35-41 (6 min):** Individual graph, correct comparison, source status, learner check and inclusion decision.
+6. **41-45 (4 min):** Save evidence, return rulers, sort paper and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Is your source invented or office-approved? Did the listener explain?"
+Each supplies five accurate bars/total 12, source/date, learner response and
+patient access choice. 1 unsupported; 2 prompted; 3 independent; 4 identifies
+another valid comparison/limit; NE if unobserved.
+
+## IF THINGS GO WRONG / SAFETY
+
+No school data -> supplied practice card, not fabricated achievement.
+No buddy booking -> peer rehearsal is the completed objective.
+Graph errors -> recheck source counts, preserve correction. No private records,
+photos, forced faith disclosures, public posting or unsupervised visitors.
+Stop/report unsafe privacy or crowding.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: labeled axes, scripted prompts and scribing.
+Grade 6/challenge: distinguish counts from causal/quality judgments and adapt
+explanation to a younger reader. Indoor seated plan.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Keep individual graph/check; record actual versus practice and event not held.
+**Explored:** data storytelling. **Did:** graphed and rehearsed teaching.
+**Learned:** sources/learner checks. **Catholic connection:** gratitude and
+servant leadership. **Ask:** "What was your graph's source?"
+No routine homework or claimed buddy event.

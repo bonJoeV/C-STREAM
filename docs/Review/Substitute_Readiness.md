@@ -17,6 +17,12 @@ observed teacher-prep timing or actual kit-capacity trial was performed.
 Future READY status requires the named local checks; it is not an outcome
 already established by this review.
 
+**Written-package closeout:** all 251 current lesson documents are complete
+conditional references. The remaining release gate concerns actual kits,
+permissions, accommodations and trials, not a queue of missing outlines.
+See [full verification](Validation.md) and the
+[school checklist](School_Release_Checklist.md).
+
 ## What changed in shared operations
 
 Baseline problems: the old substitute guide assumed nonexistent quick-reference
@@ -87,8 +93,8 @@ school-wide READY status.
   band owner has documented the rebuilt bridge reference and conservative
   13-kit supply budget; verify the actual local kit rather than using the
   earlier as-read snapshot. The audit is not classroom certification.
-  Do not infer
-  that all 251 legacy documents are ready because the template exists.
+  All 251 packages passed the actual written-reference checks; do not infer
+  physical classroom release merely because those document checks passed.
 - Check [Local Standards](./Local_Standards.md) definitions, faith sources and
   official alignment; unverified Church or supplier claims are
   **VERIFICATION REQUIRED**.

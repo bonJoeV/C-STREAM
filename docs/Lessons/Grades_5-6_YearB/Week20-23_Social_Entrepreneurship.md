@@ -1,560 +1,139 @@
 ---
 title: "Weeks 20-23: Social Entrepreneurship"
-description: "Grades 5-6 Year B business for social good"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - engineering
-  - earth-science
-  - service
-  - arts
+description: "A fictional enterprise with complete costs, capacity tests and ethical tradeoffs"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 💼 Weeks 20-23: Social Entrepreneurship
+# Weeks 20-23: Social Entrepreneurship
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 4 sessions (45 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), T (Tech), M (Math), R (Religion) |
-
----
-
-# Weeks 20-23: Social Entrepreneurship
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Identify social problems suitable for business solutions
-2. Develop a social enterprise concept
-3. Create business plans with social impact
-4. Present and pitch social ventures
-
-### Faith Integration Objectives
-Students will be able to:
-1. Apply Catholic Social Teaching to business
-2. See entrepreneurship as service
-3. Balance profit and purpose
-
----
-
-# Weeks 20-23: Social Entrepreneurship
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Catholic Social Teaching** — Business should serve the common good, not just profit. Key principles include human dignity, solidarity, subsidiarity, and the preferential option for the poor. Social entrepreneurs use business to advance these values.
-
-### Scripture Connection
-> "What good is it, my brothers and sisters, if someone claims to have faith but has no deeds?"
-> — James 2:14
-
-### Saint Connection
-**Saint Pier Giorgio Frassati** - canonized September 7, 2025; joyful service is described in the [canonization homily](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). The previously unsupported quotation is removed; further biography **VERIFICATION REQUIRED**.
-
----
-
-## 📚 Materials Needed
-
-- Social problem cards
-
-- Business model canvas templates
-
-- Financial planning worksheets
-
-- Pitch presentation templates
-
-- Catholic Social Teaching summaries
-
-- Research materials
-
----
-
-## 📝 Week 20 Procedure: Social Problems & CST (45 minutes)
-
-### Opening Prayer (2 min)
-Lord, help us see problems as opportunities to serve. Give us creative minds and compassionate hearts. Saint Pier Giorgio, inspire us to use our gifts for others. Amen.
-
-### What is Social Entrepreneurship? (10 min)
-**Business for good:**
-
-**Definition:**
-Social entrepreneurship = Using business strategies to solve social problems
-
-**Traditional business:** Maximize profit
-**Social enterprise:** Maximize impact (sustainable profit enables mission)
-
-**Examples:**
-
-- **TOMS Shoes** — Buy one, give one model
-
-- **Warby Parker** — Affordable glasses, vision care for poor
-
-- **Grameen Bank** — Microloans for the poor
-
-- **Newman's Own** — 100% profits to charity
-
-**Saint Pier Giorgio connection (additional biography: VERIFICATION REQUIRED):**
-
-- Gave away bus fare, walked home
-
-- Organized groups to serve poor
-
-- Believed in structural change, not just charity
-
-- Use a sourced paraphrase about generous service rather than an unsupported quotation.
-
-### Catholic Social Teaching (12 min)
-**Principles for business:**
-
-**1. Human Dignity**
-
-- Every person has inherent worth
-
-- Business should respect ALL stakeholders
-
-- Not just customers — workers, communities, environment
-
-**2. Common Good**
-
-- Actions should benefit everyone
-
-- Not just shareholders
-
-- Consider society broadly
-
-**3. Solidarity**
-
-- We are one human family
-
-- Rich and poor connected
-
-- Business bridges divides
-
-**4. Subsidiarity**
-
-- Decisions made at lowest appropriate level
-
-- Empower local solutions
-
-- Support communities to solve own problems
-
-**5. Preferential Option for the Poor**
-
-- Prioritize the vulnerable
-
-- Who is left out? Include them
-
-- Judge success by impact on poorest
-
-**Discussion:**
-
-- "How do traditional businesses sometimes violate these?"
-
-- "How could business BE the solution?"
-
-### Social Problem Identification (18 min)
-**Finding problems worth solving:**
-
-**Problem areas:**
-
-- Poverty and hunger
-
-- Education access
-
-- Health disparities
-
-- Environmental degradation
-
-- Social isolation
-
-- Housing insecurity
-
-**Problem analysis worksheet:**
-
-- What is the problem?
-
-- Who is affected?
-
-- What causes it?
-
-- What solutions exist?
-
-- What's missing?
-
-- Could business help?
-
-**Groups research:**
-
-- Choose problem area
-
-- Understand scope
-
-- Identify affected population
-
-- Brainstorm business approaches
-
-### Closing (3 min)
-**In-class continuation, not routine homework:**
-
-- Research your problem more deeply
-
-- Find examples of social enterprises addressing it
-
-- Come with ideas for solutions
-
-**Closing Prayer:**
-Lord, open our eyes to see those in need. Give us wisdom to find solutions and courage to act. Saint Pier Giorgio, pray for generous hearts. Amen.
-
----
-
-## 📝 Week 21 Procedure: Business Model Development (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us design businesses that serve Your people. Guide our creativity today. Amen."
-
-### Share Problem Research (8 min)
-**Quick updates:**
-
-- What did you learn about your problem?
-
-- What social enterprises address it?
-
-- What approaches seem promising?
-
-### Business Model Canvas (25 min)
-**Designing your social enterprise:**
-
-**Business Model Canvas adapted for social enterprise:**
-
-**1. Value Proposition**
-
-- What problem do you solve?
-
-- What value do you create?
-
-- Social impact AND customer benefit
-
-**2. Customer Segments**
-
-- Who pays for your product/service?
-
-- Who benefits from your impact?
-
-- (Sometimes different!)
-
-**3. Channels**
-
-- How do you reach customers?
-
-- How do you deliver impact?
-
-**4. Customer Relationships**
-
-- How do you connect with customers?
-
-- How do you build community?
-
-**5. Revenue Streams**
-
-- How do you make money?
-
-- Sustainable model for continued impact
-
-**6. Key Resources**
-
-- What do you need to operate?
-
-- Skills, materials, partners
-
-**7. Key Activities**
-
-- What must you do well?
-
-- Core operations
-
-**8. Key Partners**
-
-- Who helps you succeed?
-
-- Suppliers, nonprofits, government
-
-**9. Cost Structure**
-
-- What does it cost to operate?
-
-- Keep costs low for more impact
-
-**10. Social Impact**
-
-- What change do you create?
-
-- How do you measure it?
-
-**Teams complete canvas:**
-
-- Fill in each section
-
-- Be specific
-
-- Consider feasibility
-
-### Financial Basics (8 min)
-**Simple economics:**
-
-**Key concepts:**
-
-- **Revenue** — Money coming in
-
-- **Costs** — Money going out
-
-- **Profit** — Revenue minus costs
-
-- **Break-even** — Costs equal revenue
-
-- **Reinvestment** — Profit used for mission
-
-**Simple projections:**
-
-- How much can you charge?
-
-- How many customers?
-
-- What are costs?
-
-- What's left for impact?
-
-### Closing (2 min)
-**Next steps:**
-
-- Refine business model
-
-- Research costs and pricing
-
-- Prepare to build prototype/presentation
-
-**Closing Prayer:**
-"Thank You for creative ideas, Lord! Help us develop them into real solutions. Amen."
-
----
-
-## 📝 Week 22 Procedure: Prototype & Impact Plan (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us make our ideas real. Guide our hands and hearts. Amen."
-
-### Prototype Development (25 min)
-**Make it tangible:**
-
-**Options:**
-
-- Product sample/mockup
-
-- Website/app mockup
-
-- Marketing materials
-
-- Service demonstration
-
-- Video pitch concept
-
-**Requirements:**
-
-- Show what customer receives
-
-- Demonstrate how impact happens
-
-- Be professional quality
-
-- Reflect your values
-
-**Create:**
-
-- Build your prototype
-
-- Test with partners
-
-- Refine based on feedback
-
-### Impact Measurement (10 min)
-**How do you know you're making a difference?**
-
-**Theory of change:**
-
-- If we do X → then Y happens → leading to Z impact
-
-**Metrics to track:**
-
-- **Output** — What you produce (meals served, items sold)
-
-- **Outcome** — Changes caused (hunger reduced, jobs created)
-
-- **Impact** — Long-term difference (community thriving)
-
-**Create impact plan:**
-
-- What will you measure?
-
-- How will you collect data?
-
-- What's your goal for Year 1?
-
-- How will you report to stakeholders?
-
-### Pitch Preparation (6 min)
-**Getting ready to present:**
-
-**Pitch structure:**
-1. Problem (30 sec) — What's broken?
-2. Solution (30 sec) — Your approach
-3. Business model (1 min) — How it works
-4. Impact (30 sec) — Difference you make
-5. Ask (30 sec) — What you need
-
-**Practice elements:**
-
-- Clear, passionate delivery
-
-- Visual aids
-
-- Know your numbers
-
-- Answer questions
-
-### Closing (2 min)
-**In-class practice, not routine homework:**
-
-- Perfect your pitch
-
-- Practice presenting
-
-- Prepare for questions
-
-**Closing Prayer:**
-"Thank You for progress! Help us share our vision effectively. Amen."
-
----
-
-## 📝 Week 23 Procedure: Pitch Day (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, bless our presentations! Help us communicate our vision clearly. May our ideas inspire others to serve. Amen."
-
-### Final Preparation (5 min)
-**Last minute polish:**
-
-- Review pitch
-
-- Check materials
-
-- Calm nerves
-
-- Support each other
-
-### Pitch Presentations (30 min)
-**Each team presents (5-6 min):**
-
-**Pitch format:**
-1. Hook/Problem (30 sec)
-2. Solution overview (30 sec)
-3. How it works (1 min)
-4. Business model (1 min)
-5. Impact/CST connection (1 min)
-6. Ask/Next steps (30 sec)
-7. Q&A (1 min)
-
-**Audience role:**
-
-- Listen actively
-
-- Note strengths
-
-- Ask thoughtful questions
-
-- Consider: Would you support this?
-
-**Evaluation criteria:**
-
-- Problem clarity
-
-- Solution viability
-
-- Business sustainability
-
-- Social impact
-
-- Faith integration
-
-- Presentation quality
-
-### Feedback & Awards (6 min)
-**Recognition:**
-
-- Most Innovative Solution
-
-- Greatest Social Impact
-
-- Best Business Model
-
-- Best Presentation
-
-- Most Aligned with CST
-
-- People's Choice
-
-**Constructive feedback:**
-
-- Each team receives written feedback
-
-- Strengths to build on
-
-- Areas for improvement
-
-### Reflection (2 min)
-**Discussion:**
-
-- "What did you learn about social entrepreneurship?"
-
-- "How does CST inform business?"
-
-- "Could your venture become real?"
-
-**Next steps:**
-
-- Some ventures could enter competitions
-
-- Some could launch at school
-
-- All are learning experiences
-
-**Closing Prayer:**
-Thank You, Lord, for creativity for service. Saint Pier Giorgio, inspire us to use resources for others. Help our work respect justice, dignity, and hope. Amen.
-
----
-
-## 📎 Home Connection
-> "We completed a Social Entrepreneurship unit! Ask your child: 'What social enterprise did you create?' 'What problem does it solve?' 'How does it make money AND make impact?' 'What Catholic Social Teaching does it reflect?' Discuss businesses your family supports — do they align with your values?"
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-M3 - each student's revenue minus costs example; CST-E3 - individual supported pitch/limitation; CST-C2 - fair-access decision. Official benchmarks **VERIFICATION REQUIRED**. Use fictional enterprises, not unverified current claims about named brands; no real sales, fundraising, purchases, customer data, or promised social impact without school approval. Current company practices **VERIFICATION REQUIRED**.
-
-- Identified genuine social problem
-
-- Developed viable business model
-
-- Created prototype/presentation materials
-
-- Connected venture to Catholic Social Teaching
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Service |
+| Time | 4 meetings of 45 minutes; 180 total |
+| Objective / why / big idea | I can check revenue/cost assumptions, prototype a service workflow and defend a fair-access plan with limits. Sustainable enterprise needs purpose, resources and evidence. |
+| Domains / Catholic connection | M, E, C; dignity, common good and solidarity include workers, users and nonpaying participants. Neither all businesses nor all customers fit a simple stereotype. |
+| Local standards | CST-M3: budget arithmetic; CST-E3: supported pitch; CST-C2: fair access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper enterprise simulation. No real sales/fundraising/accounts. |
+| Difficulty / entry | Developing; teach decimals/revenue/cost; calculator permitted. |
+| Prep / cleanup | Moderate: first 25 min, repeat 10 min; cleanup 4 min/meeting. Kit: Enterprise Simulation. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations. Seat 4/5/7/9 teams; rotate accountant/designer/
+operator. Copy complete brief/cost card, twelve numbered order tokens and
+blank budget table/team. No unverified current company examples, private
+income research, quotations or named brand claims needed.
+Adult pilots six-order layout test and counts supplies; school sources all.
+
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper dated logs; pencil | 4 sheets and 1 pencil/student | 40;10 | 60;15 | 80;20 | 100;25 |
+| Cardstock token sheet; cardboard counter base | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper cost/canvas/test sheets | 3/team | 12 | 15 | 21 | 27 |
+| Paper prototype cards | 4/team | 16 | 20 | 28 | 36 |
+| Calculator; ruler; marker; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.5 m/team/unit | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable; tools reusable. Fictional money stays written,
+not coins or collection boxes.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Revenue:** money received. **Cost:** money spent. **Surplus:** revenue minus
+cost, not guaranteed impact. **Capacity:** work possible within limits.
+**Outcome:** change in people's circumstances, not merely items produced.
+**Common misconception:** every sale automatically helps someone.
+**If asked, "Can we launch?"** No; school/partner approval, accounting,
+fairness and real-user review would be separate.
+
+### Complete fictional enterprise packet
+
+"A community reading table offers original bookmark cards. Some visitors
+pay, others choose a free card; no one records names or asks income. The
+organizer has $10 starting funds and 30 production minutes."
+Goal: clear pickup system and affordable offer, not a promised reduction in
+poverty. Canvas fields: user, offered value, payer, free-access policy,
+resources, cost, workflow, output check, untested outcome.
+
+Planning allowances, not retailer quotes: paper $0.20/card, printing
+$0.30/card, setup $2.00/batch; price $1.50 paid card. Scenario A produces 10
+cards, 8 paid/2 free: variable cost 10x$0.50=$5, total $7; revenue
+8x$1.50=$12; surplus $5. Free cards cost resources despite no revenue.
+Scenario B same batch, 4 paid/6 free: revenue $6, surplus -$1.
+Five paid sales cover $7 (5x$1.50=$7.50), but demand is not guaranteed.
+Fictional production time 2 min/card: 10x2+5 setup = 25 min, leaving 5 min
+buffer. Twelve cards -> 29 min. These are assumptions to test, not observed
+school production rates.
+
+Workflow test uses six order tokens in sequence: PAID BOOK, FREE ART,
+PAID ART, FREE BOOK, PAID BOOK, PASS. Paper stations: order -> choose ->
+pickup, with no identifiable records. Criterion: route 5 requests correctly
+plus PASS without confusion; peer locates free choice without asking permission.
+Record actual routing successes/time, not profit or social improvement.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: purpose and business model
+1. **0-4 (4 min):** Ask "Who benefits, and who might be excluded?" Explain dignity.
+2. **4-11 (7 min):** Read brief/canvas; model payer versus beneficiary and no-name policy.
+3. **11-24 (13 min):** Each drafts user/value/access choice; teams complete canvas, distinguish stated facts from guesses.
+4. **24-35 (11 min):** Work Scenario A with calculator/check; compare starting funds and production limits.
+5. **35-41 (6 min):** Individual revenue $12/cost $7/surplus $5 and a fairness concern.
+6. **41-45 (4 min):** Save dated logs/canvas and count tools.
+
+### Meeting 2: capacity and prototype
+1. **0-4 (4 min):** Recall assumptions versus observed evidence.
+2. **4-11 (7 min):** Model Scenario B and 25-minute capacity calculation.
+3. **11-24 (13 min):** Build three-station counter labels and four sample bookmark cards; each chooses visual feature serving reader, not extra costly materials.
+4. **24-35 (11 min):** Run six-token workflow; rotate all pupils; record correct routes/PASS and actual elapsed time.
+5. **35-41 (6 min):** Individual budget comparison, capacity check and one observed confusion/limit.
+6. **41-45 (4 min):** Save tokens/prototype and raw results, return tools.
+
+### Meeting 3: revise and evidence-limited impact
+1. **0-4 (4 min):** Identify one test issue.
+2. **4-11 (7 min):** Explain output (cards/routed requests) versus untested outcome.
+3. **11-24 (13 min):** Revise labels/order; recalculate chosen fictional paid/free scenario; do not collect real customer data.
+4. **24-35 (11 min):** Repeat six-token test unchanged otherwise; compare success/time, not fabricated benefit.
+5. **35-41 (6 min):** Each submits before/after recommendation, fair-access choice and required real-user evidence.
+6. **41-45 (4 min):** Save both versions, count kit, tidy.
+
+### Meeting 4: pitch and tradeoff defense
+1. **0-4 (4 min):** Name what is modelled, not launched.
+2. **4-11 (7 min):** Model 90-second pitch: user, offer, numbers, test, ethics, limit.
+3. **11-24 (13 min):** Each prepares budget/result evidence and caption; teams rehearse.
+4. **24-35 (11 min):** Paired exchanges, each pupil speaks 45-90 seconds and answers one evidence question; trio fits, no nine six-minute plenary talks.
+5. **35-41 (6 min):** Individual corrected budget, supported decision, tradeoff and next approval need.
+6. **41-45 (4 min):** Reuse prototypes, return tools, save logs, recognize specific work.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Are free cards costless? Does routing prove social impact? What if only four
+people pay?" Each has correct A/B budgets, capacity sum, baseline/retest
+results and evidence-limited fair-access pitch. 1 unsupported; 2 prompted;
+3 independent; 4 tests a changed assumption; NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+Numbers inconsistent -> recompute quantities from source card, retain correction.
+Workflow slow -> remove feature/revise labels, not invent capacity.
+No cardboard -> paper stations retain workflow. No sales, real currency,
+fundraising, donations, customer names, brand promotion, private-income
+surveys, unsafe gifts or outside contacts. Stop/report unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: budget columns, money-decimal model, scribed/oral pitch.
+Grade 6/challenge: defend five-paid break-even limit and free-access tradeoff;
+forecast is not confirmed demand. Indoor simulation requires no community event.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count tokens/tools, save individual logs/actual tests, reuse cardboard.
+**Explored:** enterprise for common good. **Did:** checked fictional finances
+and tested workflow. **Learned:** access has costs and outputs aren't outcomes.
+**Catholic connection:** dignity/solidarity. **Ask:** "Why did the free cards
+still cost money?" No routine homework or real enterprise claim.

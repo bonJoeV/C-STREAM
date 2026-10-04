@@ -12,17 +12,23 @@ description: "Year-long C-STREAM curriculum for Grades 3-4"
 | **Grade Level** | 3rd and 4th Grade |
 | **Session Length** | 40 minutes |
 | **Sessions per Year** | **32 represented meetings / 1,280 minutes** in 20 lesson files; nominal calendar labels run through Week 34 |
-| **Technology Focus** | Sphero (advanced), Scratch, Little Bits, iPad apps |
+| **Technology Focus** | Sphero sequence/debugging and Scratch; approved Snap hardware for screen-free circuits |
 
 ## Audit status and planning
 
 See the [Grades 3-4 review](../../Review/Grades_3-4_Review.md) and [71-lesson audit](../../Review/Grades_3-4_Audit.csv) before selecting equipment or assigning a substitute. Week 17 is winter break and Week 32 is spring/Easter break in this track; neither is an instructional meeting. Weekly Year B represents 33 meetings, not an identical calendar.
 
-This is a Grades 3/4 **combined-band rotation, not a Grade 3 Year A / Grade 4 Year B ladder**. Use Grade 3 supported counting/measurement and Grade 4 evidence/tradeoff expectations whichever rotation is taught. Sphero and Bridge Engineering have fully rebuilt directions; other lessons have varied readiness and some require teacher kits/source verification. No whole-track substitute certification is claimed.
+This is a Grades 3/4 **combined-band rotation, not a Grade 3 Year A / Grade 4 Year B ladder**. All 20 packages now have complete native meeting directions, scalable supplies and individual checks. Seventeen were completed in the all-60 follow-up; Sphero, Bridge and the updated Snap reference remain unchanged. Use Grade 3 supported whole-number work and Grade 4 evidence/tradeoff expectations in either rotation. Document completion is not classroom or substitute certification.
 
 Devices/CSCOE loans are **not guaranteed available**. Confirm model, loan dates, software, charging, batteries and school privacy permissions in advance. The Sphero paper fallback demonstrates CT, not real device operation. Pi Day now has a no-device primary comparison; Scratch and modular electronics require working equipment for their primary outcomes. Photos, paper designs and fictional data must be labeled honestly.
 
-Biographies, direct quotations, scripture translation/verse numbering and specific liturgical/historical claims in unrevised portions are **VERIFICATION REQUIRED** before using them as student fact cards; consult the review's source register. Home extensions are optional, not homework or required supplies.
+Unneeded inherited quotations/biographies were omitted rather than taught behind an override. The scientist lesson supplies a retrieved-source profile; Choice Labs supplies shadow inquiry and rhythm/story choices. External official alignment and local physical/software preflight remain separate gates. Home extensions are optional, not homework or required supplies.
+
+Optional preparation aid: [Grades 1-6 reference routines](../../Resources/Grade_Band_Reference_Routines.md).
+Keep each lesson's complete supplies and native sequence authoritative: Sphero
+and Bridge retain their pair/trio budgets, and Snap retains its reported stock
+and manufacturer-gated station/wave plan. Fewer kits use the actual shared-test or fallback
+path, never groups of four or operation credit for watching.
 
 ---
 
@@ -39,7 +45,7 @@ Biographies, direct quotations, scripture translation/verse numbering and specif
 | 10 | [Bridge Engineering](Week10_Bridge_Engineering.md) | E, M |
 | 11 | [Coding Gratitude](Week11_Coding_Gratitude.md) | T, R, A |
 | 12 | [Giving Through Making](Week12_Giving_Through_Making.md) | E, A, R |
-| 13 | [Fall STREAM Celebration](Week13_Fall_Celebration.md) | All |
+| 13 | [Fall STREAM Celebration](Week13_Fall_Celebration.md) | Evidence portfolio and fresh demonstration |
 
 ### Quarter 2: Light, Space & Wonder
 | Week | Lesson | Focus |
@@ -48,15 +54,15 @@ Biographies, direct quotations, scripture translation/verse numbering and specif
 | 16 | [Astronomy & the Star](Week16_Astronomy_Star.md) | S, R, M |
 | 17 | *Winter Break* | — |
 | 18 | [New Year SMART Goals](Week18_SMART_Goals.md) | M, R |
-| 19-22 | [STREAM Choice Labs](Week19-22_Choice_Labs.md) | All |
-| 23 | [Catholic Schools Week STREAM](Week23_Catholic_Schools_Week.md) | R + All |
+| 19-22 | [STREAM Choice Labs](Week19-22_Choice_Labs.md) | Shadow inquiry, visual story and rhythm revision |
+| 23 | [Catholic Schools Week STREAM](Week23_Catholic_Schools_Week.md) | Sourced profile and faith/reason distinction |
 
 ### Quarter 3: Circuits, Coding & Creation Care
 | Week | Lesson | Focus |
 |------|--------|-------|
 | 24-25 | [Scratch Programming](Week24-25_Scratch_Programming.md) | T |
 | 26-27 | [Snap Circuits: Build, Test & Design](Week26-27_Little_Bits_Circuits.md) | C, S, T, E |
-| 28 | [Pi Day: Circles & Circumference](Week28_Pi_Day_Circles.md) | M, T |
+| 28 | [Pi Day: Circles & Circumference](Week28_Pi_Day_Circles.md) | M, honest approximation |
 | 29-31 | [Environmental STREAM](Week29-31_Environmental_STREAM.md) | S, R, E |
 
 ### Quarter 4: Innovation & Celebration
@@ -64,7 +70,7 @@ Biographies, direct quotations, scripture translation/verse numbering and specif
 |------|--------|-------|
 | 32 | *Easter/Spring Break* | — |
 | 33 | [Resurrection & New Life Science](Week33_Resurrection_Science.md) | S, R |
-| 34 | [Year-End STREAM Expo](Week34_STREAM_Expo.md) | All |
+| 34 | [Year-End STREAM Expo](Week34_STREAM_Expo.md) | Parallel evidence sharing; no all-domain certificate |
 
 ---
 
@@ -151,13 +157,13 @@ By the end of the year, students will:
 
 ### Primary Technology
 
-- **Sphero BOLT** — Advanced coding with sensors, matrix display
+- **Sphero** — Verified sequence/loop route and measured debugging; sensors are not assumed
 
 - **Scratch** — Block-based programming (online or desktop)
 
-- **Little Bits** — Modular electronics for circuits
+- **Snap Circuits** — Updated manufacturer-gated physical route; eight reported individual kits, not eight classroom packs
 
-- **Chromebooks/iPads** — For coding and research
+- **Compatible computers/tablets** — Actual coding where specified; research uses supplied source cards
 
 ### Recurring Materials
 

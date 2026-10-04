@@ -1,238 +1,72 @@
 ---
 title: "Week 11: Thanksgiving Gratitude"
-description: "Grades 3-4 Year B gratitude and data"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - astronomy
-  - thanksgiving
-  - arts
----
-
-# 🦃 Week 11: Thanksgiving Gratitude
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | M (Math - Data), R (Religion), A (Arts) |
-
+description: "An anonymous one-choice class tally and honest bar chart"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-M2, CST-M3, CST-A3]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Markers, Metric ruler]
 ---
 
 # Week 11: Thanksgiving Gratitude
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Collect and organize gratitude data
-2. Create data visualizations (graphs/charts)
-3. Analyze and interpret data
-4. Present findings clearly
-
-### Faith Integration Objectives
-Students will be able to:
-1. Practice gratitude as spiritual discipline
-2. Recognize God's blessings
-3. Share thanksgiving with others
-
----
-
-# Week 11: Thanksgiving Gratitude
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Gratitude as Prayer** — Thanksgiving is more than a holiday — it's a way of life! The Catechism teaches that every blessing calls for gratitude. When we count our blessings, we recognize God's goodness.
-
-### Scripture Connection
-> "Give thanks in all circumstances; for this is God's will for you in Christ Jesus."
-> — 1 Thessalonians 5:18
-
-### Saint Connection
-**St. Mary Faustina Kowalska** — Known for Divine Mercy, St. Faustina also practiced deep gratitude. She wrote in her diary about thanking God for everything — even difficulties. Gratitude transforms our hearts!
-
----
-
-## 📚 Materials Needed
-
-- Gratitude survey sheets
-
-- Graph paper or graphing templates
-
-- Colored pencils/markers
-
-- Poster paper for class data
-
-- Calculator (optional)
-
-- Chart examples
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Thank You, Lord, for everything! Help us see all the blessings in our lives, big and small. Open our eyes to Your goodness. St. Mary Faustina, pray for grateful hearts! Amen."
-
-### The Science of Gratitude (5 min)
-**Did you know?**
-
-We can practice gratitude and represent a voluntary list with data. This classroom count **does not measure happiness, health, sleep or faith**. Medical/research claims are **VERIFICATION REQUIRED** with an actual study and appropriate limits; the previous causal claims are removed.
-
-**St. Faustina connection:**
-
-- Wrote a gratitude diary
-
-- Thanked God daily
-
-- Found joy even in hard times
-
-- Do not use an unverified diary quotation; the exact diary passage is **VERIFICATION REQUIRED**
-
-### Gratitude Data Collection (10 min)
-**Personal survey:**
-
-**Count your blessings — literally!**
-
-**Categories:**
-1. **People** — How many people are you thankful for?
-2. **Places** — How many places are you grateful for?
-3. **Things** — How many things are you thankful for?
-4. **Experiences** — How many experiences are you grateful for?
-5. **Faith** — How many faith-related blessings?
-
-**Instructions:**
-
-- Use 1 minute per category, then 5 minutes to count/check; no fifteen-minute listing inside a ten-minute block
-
-- Count totals
-
-- Keep names/private experiences private; pupils may use fictional sample categories or decline personal disclosure
-
-**Data recording:**
-| Category | Items Listed | Total Count |
-|----------|-------------|-------------|
-| People   |             |             |
-| Places   |             |             |
-| Things   |             |             |
-| Experiences |          |             |
-| Faith    |             |             |
-
-### Class Data Compilation (5 min)
-**Combine everyone's data:**
-
-**Share totals:**
-
-- Go around room, share category totals
-
-- Record on class chart
-
-- Calculate class totals
-
-**Create class statistics:**
-
-- Total blessings counted by whole class
-
-- Compare category totals; no mean required for Grade 3
-
-- Which category had most?
-
-- Which had least?
-
-### Data Visualization (12 min)
-**Create gratitude graphs:**
-
-**Option A: Personal Bar Graph**
-
-- X-axis: Categories
-
-- Y-axis: Number of items
-
-- Color each bar differently
-
-**Option B: Class Bar Chart** — Compare whole-number counts with title, labels and scale. Percentages/pie charts are not core Grade 3-4 expectations.
-
-**Option C: Pictograph**
-
-- Use symbols (hearts, stars)
-
-- Each symbol = certain number
-
-- Include key
-
-**While creating:**
-
-- Accurate scale
-
-- Clear labels
-
-- Title your graph
-
-- Make it neat!
-
-### Reflection & Sharing (4 min)
-**Analyze your data:**
-
-- What category had the most?
-
-- What category surprised you?
-
-- What did you forget to include?
-
-- How did counting change your feelings?
-
-**Share discoveries:**
-
-- "What did you learn about yourself?"
-
-- "Did counting blessings change anything?"
-
-**Faith connection:**
-
-- "When we count blessings, we see God's generosity"
-
-- "Gratitude is a habit we can practice"
-
-- "The more we look, the more we find!"
-
-### Closing (2 min)
-**Challenge:**
-"An optional private gratitude list may be enjoyable; no homework or daily family tracking is required."
-
-**Journal entry:**
-
-- Tape or draw your graph
-
-- Write: "I am most thankful for..."
-
-- Write: "Counting blessings made me feel..."
-
-**Closing Prayer:**
-"Thank You, God, for [class total] blessings in our room today! Thank You for showing us how rich we are in Your love. Help us be grateful people every day, not just at Thanksgiving. We praise You for Your endless goodness! Amen."
-
----
-
-## 📎 Home Connection
-> We practiced representing a voluntary list with a labeled graph. Ask: "What does a bar show?" Optional at home: share a thanks if comfortable. Counts are not a ranking of gratitude, health or faith.
-
----
-
-## ✅ Assessment
-
-- Collected accurate gratitude data
-
-- Created clear data visualization
-
-- Participated in class data compilation
-
-- Reflected on gratitude practice
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Gratitude data; **one 40-minute meeting**.
+**Objective:** tally one voluntary/practice choice, graph three category counts
+and explain a whole-number comparison without ranking gratitude.
+**Why:** displays communicate what data actually measure.
+Catholic/CST-C2: privacy/no judgment of feelings; CST-M2: tally/bar chart;
+CST-M3: total/difference; CST-A3: critique/revision of chart message.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 10; cleanup 5 included.
+
+## Before class and exact supplies
+
+Per pupil: ballot scrap, graph sheet, pencil. Teams <=3 (4/5/7/9) share ruler/
+two markers. Teacher board/timer; three category headings: people/places/
+experiences. Ask "Which fictional thank-you card topic would you choose?"
+One answer, no names; abstention allowed. If no actual survey consent, use
+clearly labeled **practice counts 4/3/5**. Board tallies, no five serial lists
+or medical claims. Retain charts, reuse tools.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Ballots; graph sheets; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Markers (2/team) | 8 | 10 | 14 | 18 |
+
+## Vocabulary/background/SAFETY
+
+Category = grouping; tally = count marks; scale = value per unit; anonymous =
+not named. **Misconception:** larger bar means more grateful/healthier.
+**If asked "Who chose people?"** Anonymous tally does not tell us who; counts
+are not faith/happiness measurements. Catholic thanks is a practice, not scored
+personal emotion. Paper work indoors; no food, private blessings or public
+names. Report damaged tools; ballots handled by adult.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional prayer of thanks. Explain choice/privacy/abstention.
+2. **4-10:** Model one ballot/one tally, zero baseline, one square = one response.
+3. **10-20:** Collect all anonymous ballots simultaneously; teacher/volunteer
+   count each category, class checks total equals valid responses.
+4. **20-29:** Each draws three bars/title/labels/scale; peer checks counts and
+   misleading caption, pupil revises.
+5. **29-35:** Each child reads two bars, gives total/difference and a limitation.
+   Practice key: total 12, experiences exceed places by 2.
+6. **35-40:** Collect dated charts, adult disposes ballots, count/cap tools.
+
+## Success/access/troubleshooting
+
+Meets: accurate counts/labels, correct comparison and privacy/interpretation
+limit with visible revision. Grade 3/support: 0-25 pre-drawn axis/scribing.
+Grade 4/challenge: explain abstention/sample limitations, not percentages.
+Total mismatch: recount ballots, mark invalid double answers; do not silently
+adjust numbers. No participation: use labeled practice dataset. Early finish:
+ask which question these counts cannot answer.
+
+**Family:** We graphed anonymous choices, not gratitude levels. Ask, "What does
+a bar actually count?" Optional: share a thanks if comfortable.

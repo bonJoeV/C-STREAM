@@ -1,266 +1,85 @@
 ---
 title: "Week 19: New Year Vision"
-description: "Grades 5-6 Year B goal setting and planning"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - earth-science
-  - service
-  - arts
+description: "Evidence-based goals, a milestone chart and a contingency budget"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎯 Week 19: New Year Vision
+# Week 19: New Year Vision
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Reflection & Planning) |
-
----
-
-# Week 19: New Year Vision
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Analyze first semester learning
-2. Set strategic goals for second semester
-3. Create measurable action plans
-4. Apply project management thinking
-
-### Faith Integration Objectives
-Students will be able to:
-1. Discern God's call in setting goals
-2. Connect goals to purpose
-3. Commit to growth with faith
-
----
-
-# Week 19: New Year Vision
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Vocation & Purpose** — God has a plan for each of us. Setting goals isn't just about achievement — it's about discerning and pursuing God's call in our lives. We use our gifts to serve His purposes.
-
-### Scripture Connection
-> "For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future."
-> — Jeremiah 29:11
-
-### Saint Connection
-**St. Ignatius of Loyola** — Master of discernment, Ignatius created spiritual exercises to help people understand God's will. His approach combined prayer, reflection, and practical planning — faith and reason together!
-
----
-
-## 📚 Materials Needed
-
-- First semester portfolios
-
-- Goal setting worksheets
-
-- Vision board materials (optional)
-
-- Planning templates
-
-- Journals
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, You know the plans You have for us! Help us set goals that align with Your will. St. Ignatius, teach us to discern wisely. May our second semester bring growth that honors You. Amen."
-
-### First Semester Review (10 min)
-**Reflect on Year B so far:**
-
-**Major units completed:**
-
-- 🧬 Biotechnology — cells, DNA, ethics
-
-- ⚡ Renewable Energy — sustainability, Laudato Si'
-
-- 🦎 Biomimicry — nature-inspired design
-
-- 📱 App Development — creating for others
-
-**Personal reflection:**
-
-- What am I proudest of?
-
-- Where did I struggle?
-
-- What surprised me?
-
-- How did I grow?
-
-**Skills inventory:**
-Rate yourself 1-5:
-
-- Coding/programming
-
-- Engineering design
-
-- Data analysis
-
-- Presentation
-
-- Collaboration
-
-- Faith integration
-
-### Strategic Goal Setting (15 min)
-**Set SMART goals for second semester:**
-
-**Ignatian discernment questions:**
-
-- What brings me energy and joy?
-
-- Where do I sense God calling me?
-
-- What would serve others?
-
-- What would help me grow?
-
-**Goal categories:**
-
-**1. Academic/Skills Goal**
-
-- What STREAM skill do I want to develop?
-
-- How will I measure progress?
-
-- What steps will I take?
-
-**2. Character/Virtue Goal**
-
-- What virtue do I want to strengthen?
-
-- How does this connect to my learning?
-
-- What practices will help?
-
-**3. Service/Impact Goal**
-
-- How will I use my skills for others?
-
-- Who can I help?
-
-- What difference can I make?
-
-**For each goal:**
-
-- Specific: What exactly?
-
-- Measurable: How will I know?
-
-- Achievable: Is this realistic?
-
-- Relevant: Why does it matter?
-
-- Time-bound: By when?
-
-### Vision Board/Plan (12 min)
-**Visualize your semester:**
-
-**Option A: Vision Board**
-
-- Images representing goals
-
-- Words/phrases of motivation
-
-- Scripture or saint inspiration
-
-- Visual reminder of purpose
-
-**Option B: Action Plan**
-
-- Break each goal into steps
-
-- Set milestones
-
-- Identify resources needed
-
-- Plan for obstacles
-
-**Include:**
-
-- First semester achievements (foundation)
-
-- Second semester goals (target)
-
-- Steps to get there (path)
-
-- Faith anchors (why it matters)
-
-### Accountability Partnership (4 min)
-**Share and commit:**
-
-**Partner up:**
-
-- Share one goal
-
-- Explain why it matters
-
-- Ask for accountability
-
-- Commit to check-ins
-
-**Partner role:**
-
-- Encourage
-
-- Ask about progress
-
-- Celebrate wins
-
-- Support through struggles
-
-### Closing (2 min)
-**Second semester preview:**
-
-- Social Entrepreneurship
-
-- Health Technology
-
-- Environmental Monitoring
-
-- Final Exhibition
-
-**Commitment:**
-"I will pursue my goals with God's help and my community's support."
-
-**Closing Prayer:**
-"Lord, thank You for plans and purposes! Help us pursue goals that align with Your will. Give us perseverance when it's hard and humility when we succeed. St. Ignatius, help us discern wisely and act boldly. Bless our second semester! Amen."
-
----
-
-## 📎 Home Connection
-> "We set goals for second semester today! Ask your child: 'What goals did you set?' 'Why do those matter to you?' 'How can I support you?' Consider setting family goals together. St. Ignatius taught that good planning and prayer go together!"
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-E1 - one project criterion/constraint; CST-M2 - three milestones anchored to a prior measured result, not just self-ratings; CST-C3 - explain one time/material tradeoff. Spiritual goals may stay private. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Reflected meaningfully on first semester
-
-- Set SMART goals in multiple areas
-
-- Created visual/action plan
-
-- Connected goals to faith purpose
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Planning |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can use prior evidence to plan three milestones and justify a time/material tradeoff. A vision needs checkable progress, not self-ratings alone. |
+| Domains / Catholic connection | E, M, C; stewardship of talents/time; vocation and spiritual reflection need not be disclosed or graded. |
+| Local standards | CST-E1: criterion/constraint; CST-M2: milestone chart; CST-C3: tradeoff. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper evidence/chart. |
+| Difficulty / entry | Introductory; Year B first-entry allowed; teach addition/dependency. |
+| Prep / cleanup | Light: first 10 min, repeat 5 min; cleanup 4 min. Kit: Evidence Planning. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; retrieve one pupil artifact/test record each.
+If absent, supplied invented record: "App label found correctly 1/3 trials;
+need 3/3 at seated reading distance." Label practice, not personal achievement.
+Draw timeline 0-30 work minutes: design 6, make 10, test 9, buffer 5.
+Pairs critique; odd enrollment one trio. No health/faith goal survey.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Portfolio/practice card; pencil; journal | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper goal/chart | 2/student | 20 | 30 | 40 | 50 |
+| Ruler; reference sheet | 1 each/tool team of <=3 | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; tools/portfolio reusable; school supplies all.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Baseline:** earlier recorded result. **Milestone:** checkable step.
+**Dependency:** must happen first. **Buffer:** time for problems.
+**Common misconception:** confidence score is a test result.
+**If asked, "What if I missed last semester?"** Use labeled practice record
+and learn planning now; never assume A/B attendance.
+Key: 6+10+9+5 = 30 min; three milestones: selected layout, draft, three
+reader checks. If making takes 15 instead of 10, buffer covers extra 5;
+more delay requires feature reduction or rescheduling.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Which saved result suggests a next goal?" Brief stewardship reflection.
+2. **4-11 (7 min):** Model criterion 3/3 reader checks, one-sheet constraint and budget.
+3. **11-24 (13 min):** Each selects actual/practice evidence, writes goal and three milestone intervals with expected evidence.
+4. **24-35 (11 min):** Partner checks sum/order and five-minute delay; revise budget or scope, explain material reuse.
+5. **35-41 (6 min):** Individual baseline/criterion, three milestones, dependency and resource/time tradeoff; no private disclosure.
+6. **41-45 (4 min):** Save plan beside record, count rulers, reuse scraps and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Is your baseline observed? What checks the milestone? What can be deferred?"
+Each links goal to actual/labeled practice data, has three checkable milestones,
+30-minute sum and justified constraint/tradeoff. 1 unsupported; 2 prompted;
+3 independent; 4 explains contingency beyond buffer; NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+No artifacts -> practice card. Dates unbooked -> relative meetings/minutes,
+no invented calendar promise. Chart totals wrong -> add intervals visibly,
+retain correction. No compulsory spiritual/health goal, personal grades,
+public rankings, sharp tools or device use. Report unsafe privacy behavior.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: preprinted boxes, addition model, oral/scribed chart explanation.
+Grade 6/challenge: compare two plans' delay tolerance and material cost.
+Indoor seated lesson unchanged in winter.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Teacher retains plans and actual/practice labels, records needed checks.
+**Explored:** evidence-based planning. **Did:** charted milestones/buffer.
+**Learned:** plans need contingencies. **Catholic connection:** stewardship.
+**Ask:** "What result started your plan?" Optional conversation; no routine homework.

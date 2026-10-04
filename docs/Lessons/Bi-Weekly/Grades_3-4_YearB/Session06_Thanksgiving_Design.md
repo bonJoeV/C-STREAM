@@ -1,211 +1,72 @@
 ---
 title: "Session 6: Thanksgiving Design"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B gratitude project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - coding
-  - engineering
-  - circuits
-  - astronomy
-  - thanksgiving
-  - christmas
-  - service
-  - arts
----
-
-
-# Session 6: Thanksgiving Design 🦃
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 6 of 17
-
-Students design and create projects that express gratitude, combining engineering skills with thankfulness.
-
+description: "A pull-tab thank-you mechanism, repeated user tests and visual revision"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-A2]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Cardstock, Plain paper, Pencils, Markers, Masking tape, Metric ruler]
 ---
 
 # Session 6: Thanksgiving Design
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Reflect on gratitude and blessings
-
-- Apply design thinking to express thanks
-
-- Create a gratitude-focused project
-
-- Share appreciation with others
-
----
-
-# Session 6: Thanksgiving Design
-
-## Materials Needed
-
-- 📦 Various making materials
-
-- 📝 Gratitude planning sheets
-
-- 📓 Engineering journals
-
-- 🎨 Art supplies
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Paul** — His letters overflow with thanksgiving! "I thank my God every time I remember you." (Philippians 1:3)
-
-### Scripture
-> *"Give thanks to the Lord, for he is good; his love endures forever."* — Psalm 107:1
-
-### Opening Prayer
-*Dear God, you have given us so many blessings! Help us have grateful hearts and creative minds to express our thanks to you and to others. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Thanksgiving Season:**
-   - Time to pause and give thanks
-   - Not just food—gratitude for everything!
-2. **St. Paul's Example:**
-   - Started letters with THANKS
-   - Gratitude even in prison!
-3. **Design Challenge:**
-   - Use creativity to EXPRESS gratitude
-   - Create something that shows thanks
-
-### Main Activity: Gratitude Design Sprint (26 minutes)
-
-**Part 1: Gratitude Reflection (5 minutes)**
-
-- List 10 things you're grateful for
-
-- Circle the 3 most important
-
-- Who do you want to thank?
-
-- What would make them feel appreciated?
-
-**Part 2: Design & Create (17 minutes)**
-
-**Choose a Project:**
-
-**Option A: Gratitude Machine**
-
-- Build a mechanical card
-
-- Pull tab reveals message
-
-- Moving parts express thanks
-
-**Option B: Thank You Engineering**
-
-- Design something useful for recipient
-
-- Phone holder, pencil organizer, bookmark
-
-- Personalized for them!
-
-**Option C: Gratitude Display**
-
-- Create 3D representation of blessings
-
-- Show what you're thankful for
-
-- Interactive elements
-
-**Option D: Appreciation Invention**
-
-- Design something NEW to help someone
-
-- Show gratitude through service
-
-- Prototype your idea
-
-**Build Process:**
-1. Sketch design (3 min)
-2. Gather materials (2 min)
-3. Build/create (10 min)
-4. Add personal touches (2 min)
-
-**Part 3: Sharing Circle (4 minutes)**
-
-- Share creations
-
-- Explain: Who is this for? What does it express?
-
-- Receive appreciation!
-
-### Engineering Journal (5 minutes)
-1. Draw your gratitude project
-2. Write: "I made this for... because..."
-3. List 5 things you're thankful for
-4. Write: "Gratitude is important because..."
-
-### Closing Circle (3 minutes)
-1. **Delivery Plan** — "How will you give your project?"
-2. **Gratitude as Practice** — "How can we be grateful every day?"
-3. **Closing Prayer** — *"Thank you, God, for every blessing! Help us always have grateful hearts. Bless our families this Thanksgiving. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Reflected on blessings
-
-- [ ] Applied design process
-
-- [ ] Created meaningful project
-
-- [ ] Plans to share with recipient
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focused project options
-
-- Partner support
-
-- Template provided
-
-### For Advanced Students
-
-- Complex mechanisms
-
-- Multiple recipients
-
-- Written gratitude letter included
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your project with the recipient! Create a family gratitude list. Write thank you notes together. Start a gratitude practice: each day, name something new you're thankful for!
-
----
-
-## Teacher Notes
-
-- Time before Thanksgiving break
-
-- Help ensure projects reach recipients
-
-- Gratitude journaling builds positive mindset
-
-- Connect to school Thanksgiving activities
-
----
-
-**Previous:** [Session 5 — Scratch Games](./Session05_Scratch_Games.md)  
-**Next:** [Session 7 — Christmas Circuits](./Session07_Christmas_Circuits.md)
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly B; Gratitude design; **one 40-minute meeting**.
+**Objective:** design a pull-tab thank-you card, test two cycles, revise and
+explain one purposeful visual choice. **Why:** making can express specific
+appreciation with useful communication, not required private emotion.
+Catholic/CST-C2 respectful audience; CST-E1 reveal criterion; CST-E2 retest;
+CST-A2 purposeful form. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; introductory. Prep 10; cleanup 5.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): cardstock base, two paper sheets (slider/message),
+ruler/two markers, **40 cm tape**. Per pupil evidence paper/pencil.
+Adult precuts any slot or uses two taped folded-paper guides.
+Teacher board/timer/demo from kit. Sample "Thank you, classroom helpers /
+You prepare our shared tools." Fictional recipient allowed.
+Criterion message fully reveals twice without detached parts and peer names
+helpful action. Paper gift only, adult consent for delivery.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Bases; rulers (1/team each) | 4 | 5 | 7 | 9 |
+| Team sheets; markers (2/team each) | 8 | 10 | 14 | 18 |
+| Tape (40 cm/team, cm total) | 160 | 200 | 280 | 360 |
+| Evidence paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Slider = guided moving paper; mechanism = parts doing a job; audience = reader;
+contrast = visible difference. **Misconception:** decoration proves function.
+**If asked "Must I list my blessings?"** No; assess communication/design, not
+feelings or private life. Catholic gratitude is application, no unverified
+Paul/saint quotation needed.
+No blades, springs, bands, food or personal media; adult cuts only.
+Stop/report torn guides. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How can thanks name an actual helpful action?" Optional prayer.
+2. **4-9:** Demo slider/reveal/two-cycle criterion and stock limit.
+3. **9-21:** Each sketches; team builds card, every pupil authors visual feature.
+4. **21-30:** Two pull/return tests and reader response; revise guide/layout,
+   repeat twice under same conditions.
+5. **30-35:** Each child records before/after, explains criterion/user need and
+   purposeful visual change. "What did sticking tell you?"
+6. **35-40:** Count/cap tools, save dated evidence/card, clear scraps.
+
+## Success/access/troubleshooting
+
+Meets: function/reader results and deliberate form revision, not emotional
+enthusiasm. Grade 3/support: prepared guide/large message/scribing.
+Grade 4/challenge: hidden-area/readability tradeoff. Jam: widen guide one change,
+retest; no sharp-tool shortcut. No cardstock: folded paper base, label limit.
+Early finish: different reader, same cycles.
+
+**Family:** We tested moving thank-you cards. Ask, "What changed after the
+user test?" Optional: thank a helper if comfortable.

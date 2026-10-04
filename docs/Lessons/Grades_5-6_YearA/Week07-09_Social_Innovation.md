@@ -1,376 +1,116 @@
 ---
 title: "Weeks 7-9: Design Thinking: Social Innovation"
-description: "Grades 5-6 human-centered design for community challenges"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - engineering
-  - earth-science
-  - lent
-  - service
+description: "A complete fictional community-service design brief and tested prototype"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🌍 Weeks 7-9: Design Thinking: Social Innovation
+# Weeks 7-9: Design Thinking: Social Innovation
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 3 sessions (45 min each) |
-| **STREAM Focus** | E (Engineering), R (Religion) |
-
----
-
-# Weeks 7-9: Design Thinking: Social Innovation
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply human-centered design thinking process
-2. Identify real community needs through empathy research
-3. Ideate, prototype, test, and iterate solutions
-4. Present and defend design decisions
-
-### Faith Integration Objectives
-Students will be able to:
-1. Apply Catholic Social Teaching to design challenges
-2. Understand the dignity of every person as central to design
-3. Practice "preferential option for the poor" in design thinking
-
----
-
-# Weeks 7-9: Design Thinking: Social Innovation
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Catholic Social Teaching** — The Church's social teaching provides a framework for addressing human needs. Key principles include human dignity, preferential option for the poor, solidarity, and subsidiarity. Design thinking for social innovation puts these principles into action.
-
-### Scripture Connection
-> "Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress."
-> — James 1:27
-
-### Saint Connection
-**Service connection:** Small, thoughtful actions can serve the common good. The quotation previously attributed to Romero is removed because its attribution was unreliable. Specific Romero biography: **VERIFICATION REQUIRED** before using a historical source card.
-
----
-
-## 📚 Materials Needed
-
-- Design thinking process posters
-
-- Empathy research tools (interview guides)
-
-- Prototyping materials (cardboard, craft supplies, electronics)
-
-- Testing supplies
-
-- Presentation materials
-
-- Catholic Social Teaching summary cards
-
----
-
-# Session 1: Empathize & Define
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (6 min)
-**Prayer:** "Lord Jesus, You saw the needs of people around You and responded with compassion and action. Open our eyes to see the needs in our community. Give us creativity to design solutions and courage to act. Amen."
-
-**Catholic Social Teaching Introduction:**
-
-**Key Principles:**
-1. **Human Dignity** — Every person is precious, made in God's image
-2. **Preferential Option for the Poor** — Special attention to those who struggle most
-3. **Solidarity** — We're all one human family
-4. **Common Good** — Working together for everyone's benefit
-
-**Challenge:** "Design something that addresses a real human need, guided by these principles."
-
-### Community Challenge Introduction (8 min)
-**Real challenges to address (teams choose):**
-
-**Challenge A: Food Insecurity**
-
-- Problem: Some families don't have enough food
-
-- Design: Something that helps food access, reduces food waste, or supports feeding programs
-
-**Challenge B: Elderly Isolation**
-
-- Problem: Older adults often feel lonely and disconnected
-
-- Design: Something that connects generations, reduces isolation, or supports elderly independence
-
-**Challenge C: Environmental Justice**
-
-- Problem: Poor communities often face more pollution and environmental harm
-
-- Design: Something that addresses environmental challenges in underserved areas
-
-**Challenge D: Learning Barriers**
-
-- Problem: Some students lack resources for learning
-
-- Design: Something that makes education more accessible
-
-**Challenge E: Student Proposal**
-
-- Identify your own community need
-
-- Must connect to Catholic Social Teaching
-
-### Empathy Research (18 min)
-**Empathy process:**
-
-**Step 1: What do we know? (5 min)**
-
-- Brainstorm current knowledge about the challenge
-
-- Identify assumptions
-
-- Note questions
-
-**Step 2: Research (8 min)**
-
-- Use provided research materials
-
-- Interview simulation (cards with "user stories")
-
-- Internet research if available
-
-**Step 3: Empathy Map (5 min)**
-
-- Who are we designing for?
-
-- What do they SAY?
-
-- What do they DO?
-
-- What do they THINK?
-
-- What do they FEEL?
-
-### Problem Definition (10 min)
-**Point of View Statement:**
-"[User] needs [need] because [insight]."
-
-**Example:**
-"Elderly community members need ways to share their skills because isolation makes them feel purposeless, but they have valuable knowledge to offer."
-
-**Refine problem statement:**
-
-- Is it specific enough?
-
-- Does it focus on human need, not solution?
-
-- Is it connected to Catholic Social Teaching?
-
-### Closing & Preparation (3 min)
-**Faith Connection:** "When we truly UNDERSTAND others' needs, we can design better solutions. Jesus always saw people — really saw them. He knew their needs. That's what empathy is about."
-
-**No routine homework:** Record remaining questions in class; the school supplies research and materials.
-
----
-
-# Session 2: Ideate & Prototype
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Review (4 min)
-**Prayer:** "Creative God, spark our imagination today. Help us dream big and think creatively about how to help others. Guide our designs to truly serve human dignity. Amen."
-
-**Review:** "What is your team's Point of View statement?"
-
-### Ideation Phase (12 min)
-**Brainstorming Rules:**
-1. Quantity over quality (at first!)
-2. No criticism during brainstorming
-3. Build on others' ideas
-4. Wild ideas welcome
-5. Stay focused on the problem
-
-**Individual Brainstorm (4 min):**
-
-- Each person generates 5-10 ideas (sketch or write)
-
-- Don't evaluate — just generate
-
-**Team Sharing (4 min):**
-
-- Share all ideas
-
-- Group similar ideas
-
-- Build on each other
-
-**Selection (4 min):**
-
-- Which idea best addresses the need?
-
-- Is it feasible to prototype?
-
-- Does it align with Catholic Social Teaching?
-
-### Prototype Planning (6 min)
-**Plan your prototype:**
-
-- What will it look like?
-
-- What materials do you need?
-
-- What will you test?
-
-- What questions will the prototype answer?
-
-**Remember:** "A prototype doesn't need to be perfect. It needs to help us LEARN."
-
-### Prototype Building (18 min)
-**Build time!**
-
-**Prototype options:**
-
-- Physical model (cardboard, craft materials)
-
-- Storyboard (drawings showing how it works)
-
-- Role-play script (act out the solution)
-
-- Digital mockup (if tools available)
-
-**Teacher circulates:**
-
-- "How does this address the user's need?"
-
-- "What's the most important thing to test?"
-
-- "How does this reflect Catholic Social Teaching?"
-
-### Testing Preview (5 min)
-**Plan for testing:**
-
-- What feedback will you seek?
-
-- What questions will you ask?
-
-- How will you measure success?
-
-**Faith Connection:** "Jesus didn't just feel sorry for people — He acted. He healed, fed, taught, and served. Your prototypes are beginning of action. Small solutions can make real differences!"
-
-**Preview:** "Next session: testing, iteration, and presentation!"
-
----
-
-# Session 3: Test, Iterate & Present
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (3 min)
-**Prayer:** "Lord, help us receive feedback with humility and improve our designs with wisdom. May our final solutions truly serve others and honor You. Amen."
-
-### Testing Phase (10 min)
-**Peer testing:**
-
-- Present prototype to another team
-
-- Get feedback using provided questions
-
-- Record specific feedback
-
-**Test questions:**
-
-- Does this address the user's need?
-
-- What works well?
-
-- What could be improved?
-
-- What questions do you have?
-
-**User perspective:**
-
-- Would the user understand this?
-
-- Would they use it?
-
-- Does it respect their dignity?
-
-### Iteration Phase (10 min)
-**Improve based on feedback:**
-
-- What one improvement will have the most impact?
-
-- What feedback will you incorporate?
-
-- What will you change?
-
-**Make improvements to prototype.**
-
-**Document changes:**
-
-- Original → New
-
-- Why the change?
-
-### Presentation Preparation (5 min)
-**Prepare 3-minute presentation:**
-1. The Challenge (What need are you addressing?)
-2. The User (Who are you designing for?)
-3. Catholic Social Teaching Connection (Which principles guide you?)
-4. Your Solution (What did you design?)
-5. Evidence (Why do you believe it will work?)
-6. Next Steps (What would you do with more time/resources?)
-
-### Presentations (15 min)
-**Teams present (3 min each):**
-
-- Clear, organized presentation
-
-- Demonstrate or show prototype
-
-- Answer questions
-
-**Audience response:**
-
-- One strength of this design
-
-- One question
-
-### Closing Celebration (2 min)
-**Celebrate the work!**
-
-**Final Faith Connection:** Keep using creativity to serve others, while honestly distinguishing a classroom prototype from a proven community solution.
-
-**Closing Prayer:** "Thank you, God, for the creativity to design solutions. Thank You for Catholic Social Teaching that guides us. Help us always see the dignity in every person and use our talents to serve the common good. Amen."
-
----
-
-## ✅ Assessment
-
-**Local standards (not official):** CST-C2 - individual dignity/access choice; CST-E1 - specific user, criterion, and constraint; CST-E3 - each student's evidence and limitation in the presentation. Official benchmarks: **VERIFICATION REQUIRED**. Use fictional/consented briefs; no compelled family-income or health disclosures. At 25 students use nine paired-team 90-second exchanges instead of nine three-minute plenary talks.
-
-- Completed empathy research and defined problem
-
-- Generated multiple creative ideas
-
-- Built prototype that addresses need
-
-- Iterated based on feedback
-
-- Connected design to Catholic Social Teaching
-
-- Presented clearly and persuasively
-
----
-
-## 📎 Home Connection
-> "We completed a social innovation design project! Ask your child: 'What challenge did your team address?' 'Who were you designing for?' 'How did Catholic Social Teaching guide you?' 'What solution did you create?' Discuss how your family can apply design thinking to help others in your community."
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Service |
+| Time | 3 meetings of 45 minutes; 135 total |
+| Objective / big idea | I can separate stated needs from assumptions, test a service-system mockup, and defend a dignity/access decision with evidence. |
+| Why / domains | Community design needs listening, criteria and humility; C, E, M. |
+| Catholic connection | Human dignity and solidarity guide choice and access; users may decline help. No stereotype, private interview or unsourced saint story. |
+| Local standards | CST-C2: dignity; CST-E1: criteria/constraints; CST-E3: limited pitch; CST-M3: resource arithmetic. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; physical paper routing model preserves service-system objective. |
+| Difficulty / entry | Developing; short text and counting; no previous design unit assumed. |
+| Prep / cleanup | Moderate: first 20 min, repeat 10 min; cleanup 4 min/meeting. Kit: Service Routing. |
+
+## BEFORE CLASS
+
+1. Confirm accommodations/contact. Seat 4/5/7/9 teams, rotate planner/operator/observer.
+2. Copy complete fictional brief and token tests below onto team sheets. No real names, income or medical information.
+3. Cut six large cards/team: two each BOOK / ART / PUZZLE. Prepare cardboard counter base; tape allowance covers all three meetings.
+4. Teacher pilots a deliberately unclear layout; "user" chooses by written preference, not acting a disability. Prepare roster for each child's evidence.
+
+## MATERIALS
+
+| Item | Allocation for unit | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 3 sheets and 1 pencil/student | 30;10 | 45;15 | 60;20 | 75;25 |
+| Paper brief/test sheet | 2/team | 8 | 10 | 14 | 18 |
+| Cardstock token sheet; cardboard base | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper label sheets | 2/team | 8 | 10 | 14 | 18 |
+| Ruler; marker; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 1 m/team/unit | 4 m | 5 m | 7 m | 9 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Consumables: paper/cardboard/tape; other tools reusable. School supplies all.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Empathy:** listen without assuming. **Prototype:** model for learning.
+**Criterion/constraint:** success requirement/limit. **Tradeoff:** benefit with
+a cost. Service is not proof of impact; a classroom routing trial is narrower.
+**Common misconception:** we can infer feelings from age/income.
+**If asked, "Can we distribute this?"** Not as a real service system without
+adult partner approval and recipient input.
+
+**Fictional brief:** "A community reading table offers book, art and puzzle
+cards. Visitors want clear choices, no name collection and permission to pass.
+The organizer has six tokens and one table." Criteria: peer locates chosen
+category without coaching in 10 seconds, PASS is visible, no identifiers.
+Constraint: one base, six tokens, 1 m tape. Test requests: ART, BOOK, PUZZLE,
+PASS. Record success/time, not imagined emotional benefits.
+**Math key:** 3 categories x 2 tokens = 6; fictional cost 6 cards x $0.20
++ $0.80 base = $2.00. Adding two cards costs $0.40, not free.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: understand and define
+1. **0-4 (4 min):** Read brief and dignity purpose; ask "Which need was actually stated?"
+2. **4-11 (7 min):** Model need versus assumed feeling and criterion versus constraint.
+3. **11-24 (13 min):** Each annotates three stated needs, one unanswered question and two layout ideas; teams compare without stereotypes.
+4. **24-35 (11 min):** Draft routing sketch and four tests. Work six-token/cost example; each checks cost independently.
+5. **35-41 (6 min):** Individual criterion, constraint, PASS/privacy safeguard and arithmetic exit.
+6. **41-45 (4 min):** Save proposals and count materials.
+
+### Meeting 2: prototype and first tests
+1. **0-4 (4 min):** Retrieve criteria; remind users may pass.
+2. **4-11 (7 min):** Teacher demonstrates timed ART test without hints.
+3. **11-24 (13 min):** Build counter layout; each child makes one readable word/symbol label, including PASS.
+4. **24-35 (11 min):** Neighbor teams test four requests, rotate roles; record times/pass and confusion. Each child observes one trial.
+5. **35-41 (6 min):** Individually cite a result and propose one justified change; no real impact claim.
+6. **41-45 (4 min):** Store prototype, count tokens and save raw results.
+
+### Meeting 3: revise and defend
+1. **0-4 (4 min):** Identify one failed or ambiguous test.
+2. **4-11 (7 min):** Compare label size/order choices and material cost.
+3. **11-24 (13 min):** Revise one feature, repeat all four requests under same conditions; keep both records.
+4. **24-35 (11 min):** Paired-team pitches: each child speaks 45 seconds about a decision/result/limit. Odd team exchanges with teacher; no nine plenary talks.
+5. **35-41 (6 min):** Individual supported recommendation, dignity safeguard and remaining user-validation need.
+6. **41-45 (4 min):** Reuse cardboard, return tools, save individual logs.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Could someone decline? Did you coach the user? What does a faster test not prove?"
+Each supplies criterion/constraint, correct $2.00 example, four test results,
+one supported recommendation and dignity/limit explanation. 1 unsupported;
+2 prompted; 3 independent; 4 explains resource/access tradeoff; NE if missing.
+
+## IF THINGS GO WRONG / SAFETY
+
+Unclear layout -> simplify labels; all pass -> challenge with a shuffled
+starting token position, label changed test. Missing cardboard -> paper tabletop
+layout retains routing. No clinical/food-contact devices, recipient profiling,
+personal data, donations or unsupervised community contact. Blunt tools only;
+stop/report unsafe conditions.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: read brief aloud, large tokens, sentence stems and scribing.
+Grade 6/challenge: defend an added $0.40 option versus reuse, and explain why
+simulation cannot prove community benefit. Indoor table model unchanged in winter.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count six tokens/team and tools, cap markers, save tests, report shortages.
+**Explored:** inclusive service design. **Did:** tested/revised a fictional
+choice table. **Learned:** consent and evidence matter. **Catholic connection:**
+dignity/solidarity. **Ask:** "What did your users actually show?" Optional
+conversation; no routine homework or promised community implementation.

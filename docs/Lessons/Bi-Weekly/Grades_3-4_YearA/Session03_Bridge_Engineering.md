@@ -1,208 +1,72 @@
 ---
 title: "Session 3: Bridge Engineering"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A bridge building"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - astronomy
-  - animals
-  - service
-  - arts
----
-
-
-# Session 3: Bridge Engineering 🌉
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 3 of 17
-
-Students explore bridge engineering principles and build bridges using KEVA planks, testing their structures for strength.
-
+description: "A capped KEVA overlap test and real measured redesign"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-M1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [KEVA planks, Books, Plastic counters, Team sorting tray, Metric ruler, Plain paper, Pencils]
 ---
 
 # Session 3: Bridge Engineering
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Identify different bridge types and their features
-
-- Understand how triangles add strength
-
-- Build and test a bridge structure
-
-- Apply the engineering design process
-
----
-
-# Session 3: Bridge Engineering
-
-## Materials Needed
-
-- 📦 KEVA Planks (from CSCOE library)
-
-- 📸 Bridge type pictures
-
-- 🪙 Weights for testing (coins, washers)
-
-- 📏 Rulers for measuring span
-
-- 📓 Engineering journals
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Patrick** — Built "bridges" between people and faith in Ireland. He connected communities!
-
-### Scripture
-> *"How beautiful are the feet of those who bring good news!"* — Romans 10:15 (Bridges help spread good news!)
-
-### Opening Prayer
-*Dear God, you connect heaven and earth. Like St. Patrick who built bridges of faith, help us build structures that connect and serve others. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Bridge Purpose** — "Bridges connect people and places!"
-2. **Bridge Types:**
-   - **Beam** — Simple, flat across supports
-   - **Arch** — Curved, pushes weight outward
-   - **Truss** — Uses triangles for strength
-   - **Suspension** — Hangs from cables
-3. **Support and joints** — A joined triangle can resist changing shape; loose KEVA planks need stable overlap/support, not a promise that any triangle is strong
-4. **St. Patrick** — Connected communities through faith
-
-### Main Activity: Bridge Building Challenge (26 minutes)
-
-**Part 1: The Challenge (3 minutes)**
-
-- Build a bridge that:
-  - Spans at least 8 inches (between two books)
-  - Can hold weight
-  - Uses only KEVA planks
-
-- Test up to 10 identical plastic counters; record last held count or "at least 10." No unlimited loading.
-
-**Part 2: Design & Build (18 minutes)**
-
-**IMAGINE (3 min):**
-
-- Sketch your bridge design
-
-- Label: supports, deck, special features
-
-- Which bridge type will you use?
-
-**PLAN (2 min):**
-
-- Estimate planks needed
-
-- Decide where to start building
-
-**CREATE (11 min):**
-
-- Build your bridge!
-
-- Check the deck's support and stable overlapping contact; unjoined planks are not a rigid truss
-
-- Test balance before adding weight
-
-**TEST (2 min):**
-
-- Add weights one at a time
-
-- Count held counters and stop at 10; never load with heavy weights
-
-- Record your results
-
-**Part 3: Analysis (5 minutes)**
-
-- Which bridges held the most weight?
-
-- What designs worked best? Why?
-
-- How could you improve?
-
-- Class discussion of findings
-
-### Engineering Journal (5 minutes)
-1. Sketch your bridge design (before and after building)
-2. Record: "My bridge held ___ weights"
-3. Write: "Our support arrangement helped by..."
-4. Write: "Next time I would..."
-
-### Closing Circle (3 minutes)
-1. **Celebrate Successes** — Recognize strong bridges
-2. **Real Bridges** — Where do you see bridges in our community?
-3. **Closing Prayer** — *"God, help us be bridge builders—connecting people with love and service. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified bridge types
-
-- [ ] Created design before building
-
-- [ ] Built stable bridge structure
-
-- [ ] Tested and recorded results
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Provide starter bridge base
-
-- Work with partner
-
-- Simplified span requirement
-
-### For Advanced Students
-
-- Longer span requirement
-
-- Design constraints (limited planks)
-
-- Research famous bridges
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Find bridges in your community! What type are they? Why were they designed that way? Build a bridge at home using blocks, straws, or popsicle sticks. Test with toy cars!
-
----
-
-## Teacher Notes
-
-- Reserve KEVA planks from CSCOE library
-
-- Clear large floor/table space
-
-- Use books for stable supports
-
-- Take photos for portfolio
-
-- Connect to local bridge examples
-
----
-
-**Previous:** [Session 2 — Dash & Code](./Session02_Dash_Code.md)  
-**Next:** [Session 4 — Animal Habitats](./Session04_Animal_Habitats.md)
-
-## SAFETY
-
-Use low fixed books and a tray, no metal weights, load above 10 counters, climbing or hands beneath a loaded deck. Do not require all teams to collapse their bridge. Have each child state one kept-same test condition; supplied planks and scalable quantities still require teacher kit preparation.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Structures; **one 40-minute meeting**.
+**Objective:** build an 8 cm span, compare two capped loads and justify an overlap
+change. **Why:** access structures need fair tests, not unlimited loading.
+Catholic/CST-C2 access/user; CST-E1 criteria/limits; CST-E2 actual retest;
+CST-M1 span/count comparison. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; developing. Prep 15 with stock, loans extra; cleanup 5.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9). Each kit: 20 inspected KEVA planks, two flat closed books,
+ten identical plastic counters, tray, ruler. Each pupil paper/pencil.
+Teacher board/timer/demo from kit; pretest stable low supports with **8 cm gap**.
+Books don't move during tests; save record, dismantle. Rectangular blocks may
+replace KEVA for all; label substitution, do not mix material claims.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Trays; rulers (1/team each) | 4 | 5 | 7 | 9 |
+| Planks (20/team) | 80 | 100 | 140 | 180 |
+| Books (2/team) | 8 | 10 | 14 | 18 |
+| Counters (10/team) | 40 | 50 | 70 | 90 |
+| Paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Span = gap; deck = crossing surface; overlap = shared contact; load = objects.
+Loose unjoined planks aren't rigid triangular trusses; demonstrate stable
+overlap rather than promise all triangles strong.
+**Misconception:** ten held proves maximum ten. **If asked "More weights?"**
+No; record "at least ten." Bridge is a model, never for people/pets.
+Low trays only, no heavy loads/throwing/hands underneath. Stop/reset sliding
+books and report damaged planks. Indoor primary.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "Who benefits from safe access?" Optional service prayer; criteria.
+2. **4-9:** Demo center loading, one counter/three-second hold; last successful
+   count (fails at 7 -> record 6).
+3. **9-21:** Each sketches; build version 1, check 8 cm gap, rotate roles.
+4. **21-30:** Test/cap at ten, record; change overlap only, same gap/stock/counters,
+   retest. All nine desks test simultaneously.
+5. **30-35:** Each child records both counts, whole-number difference, one control/
+   change reason and access need.
+6. **35-40:** Remove loads, count 20 planks/ten counters, return books/tools.
+
+## Success/access/troubleshooting
+
+Meets: measured span, two actual counts, criterion/control and evidence-based
+revision. Grade 3/support: overlap starter/tally/dictation. Grade 4/challenge:
+repeat at cap, explain lower bound. Collapse: record zero, improve support
+contact. All hold ten: compare design limits, not unsupported strength ranking.
+Missing supports: neighboring shared tray, alternate within test block; record
+missing physical turns. Early finish: new equal test, no longer unsafe span.
+
+**Family:** We tested plank bridges fairly. Ask, "What does 'at least ten'
+mean?" Optional: discuss who a bridge serves.

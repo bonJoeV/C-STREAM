@@ -1,208 +1,89 @@
 ---
 title: "Session 16: Advanced Invention"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A original design"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - circuits
-  - service
-  - arts
----
-
-
-# Session 16: Advanced Invention 🔧
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 16 of 17
-
-Students create original inventions, applying all the skills learned throughout the year to solve real problems.
-
+description: "One bounded original card-holder function with three-cycle test/retest"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 16: Advanced Invention
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
 
-- Apply integrated skills to original invention
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Capstone |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can invent a card holder within limits, test/revise one function and explain its user access. Originality means a reasoned choice, not claiming patent novelty. |
+| Domains / Catholic connection | E, C; creativity used to support classmates without ranking abilities. |
+| Local standards | CST-E1: criterion/constraint; CST-E2: test/retest; CST-C2: dignity/access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; dry tabletop model, not electronics/medical device. |
+| Difficulty / entry | Developing; teach folding/test cycle here, no full-year mastery assumed. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Single-Function Invention. |
 
-- Follow complete design process
+## BEFORE CLASS / MATERIALS
 
-- Create working prototype
+Review contact/accommodations; seat 4/5/7/9 teams. Brief: "A classmate needs
+an instruction card upright at desk, with words readable and card removable."
+Criterion: hold standard 10x15 cm cardstock for 10 seconds, three trials;
+constraint one 20x30 cm base and 0.5 m tape. Teacher pre-cuts/card pilot.
+Starter choices: folded triangular stand with slot-free leaning card or folded
+U-base with taped paper pocket. Pupils select/modify width/angle, no sharp
+slots/student knife, no claim of validated assistive device.
 
-- Present invention with rationale
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardstock card; cardboard base; brief/test sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Ruler; marker | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
 
----
+Cardboard/paper/tape consumable/reused; tools reusable.
 
-# Session 16: Advanced Invention
+## VOCABULARY / TEACHER BACKGROUND
 
-## Materials Needed
+**Prototype:** model for testing. **Criterion/constraint:** success/limit.
+**Iteration:** justified change. **Common misconception:** appearance proves function.
+**If asked, "Is it a completely new invention?"** We cannot establish novelty;
+we can explain our design choices. Wider base may improve stability but uses
+more desk space. Three 10-second tests = 30 seconds of observation, not proof
+of long-term durability. No body-use or commercial claim.
 
-- 📦 Various making materials
+## EXACT LESSON SEQUENCE
 
-- 💻 Digital tools as needed
+1. **0-4 (4 min):** Ask "What one function can we test today?" Connect helpful creativity.
+2. **4-11 (7 min):** Model two starter forms, criteria/tape limit and three-cycle test.
+3. **11-25 (14 min):** Each sketches two ideas; teams choose/build one, rotate folder/label maker/checker.
+4. **25-35 (10 min):** Each performs one 10-second trial, record hold/fall; revise base/angle, repeat three trials same card/desk.
+5. **35-41 (6 min):** Individual criterion/constraint, before/after count, justified revision and accessible removal/reading choice.
+6. **41-45 (4 min):** Save prototype/logs for exhibition, count tools, sort scrap and tidy.
 
-- 📓 Engineering journals
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
 
-- 🏆 Invention showcase materials
+"Did you change two features? Could a user remove the card? What isn't proven?"
+Each has measurable criterion/constraint, three baseline/retest records and
+dignity/access reason. 1 unsupported; 2 prompted; 3 independent;
+4 defends desk-space tradeoff; NE if untested.
 
----
+## IF THINGS GO WRONG / SAFETY
 
-## Catholic Integration
+Falls immediately -> lower lean angle/widen base within same allowance.
+No cardboard -> folded cardstock base, record material change. No tape ->
+folded triangular stand, same test. No medical/bodily/chemical/launching/mains/
+battery builds or sharp tools. Stop/report unsafe condition.
 
-### Saint Connection
-**God the Creator** — We are made in the image of the Creator! Our creativity reflects His nature.
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
 
-### Scripture
-> *"For we are God's handiwork, created in Christ Jesus to do good works, which God prepared in advance for us to do."* — Ephesians 2:10
+Grade 5/support: precreased base, criteria frame, oral/scribed record.
+Grade 6/challenge: justify stability versus space tradeoff with measured width.
+Indoor tabletop function; no outdoor or device prerequisite.
 
-### Opening Prayer
-*Dear God, you created us in your image as creative beings. Help us use all we've learned to invent something that serves others. May our work honor you. Amen.*
+## CLEANUP / FAMILY NEWSLETTER
 
----
+Save original/retest logs, count tools, report missing turns.
+**Explored:** bounded invention. **Did:** built/tested/revised a holder.
+**Learned:** one function can yield strong evidence. **Catholic connection:**
+helpful gifts. **Ask:** "What did your redesign change?" No routine homework.
 
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Capstone Project:**
-   - "Apply EVERYTHING you've learned!"
-   - Design thinking + technology + engineering + faith
-2. **Year Skills Review:**
-   - Design thinking process
-   - Programming (Scratch, Sphero, App Inventor)
-   - Electronics (Little Bits, circuits)
-   - Engineering (structures, physics)
-   - Research and presentation
-3. **Invention Requirements:**
-   - Solve a real problem
-   - Use skills from this year
-   - Be original and creative
-   - Be prepared to present
-
-### Main Activity: Invention Lab (31 minutes)
-
-**Part 1: Problem Identification (5 minutes)**
-
-- What problem will you solve?
-
-- Who will benefit?
-
-- Why does this matter?
-
-- Must be:
-  - Real problem
-  - Solvable with available skills/materials
-  - Meaningful to someone
-
-**Part 2: Design & Prototype (22 minutes)**
-
-**Full Design Thinking Cycle:**
-
-1. **EMPATHIZE (2 min):**
-   - Who has this problem?
-   - What's their experience?
-
-2. **DEFINE (2 min):**
-   - "How might we..." statement
-   - Clear problem frame
-
-3. **IDEATE (3 min):**
-   - Multiple solution concepts
-   - Choose best approach
-
-4. **PROTOTYPE (12 min):**
-   - Build working model
-   - Options:
-     - Physical construction
-     - Programmed solution (Scratch/App)
-     - Electronic circuit
-     - Combination
-   - Focus on demonstrating concept
-
-5. **TEST (3 min):**
-   - Does it work?
-   - Get peer feedback
-   - Note improvements needed
-
-**Part 3: Presentation Prep (4 minutes)**
-
-- Prepare 1-minute pitch:
-  - Problem you solved
-  - Your solution
-  - How it works
-  - Why it matters
-
-### Engineering Journal (5 minutes)
-1. Invention name: ___
-2. Problem solved: ___
-3. Solution description:
-4. Sketch/diagram:
-5. Write: "I'm proud of this invention because..."
-
-### Closing Circle (3 minutes)
-1. **Preview Showcase** — Quick share or preview for next session
-2. **Creativity Celebration** — "You are inventors!"
-3. **Closing Prayer** — *"Thank you, God, for the gift of creativity. Bless these inventions and the people they will help. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-E1 - specific criterion/constraint; CST-E2 - original test and one revised test; CST-C2 - dignity/access choice. Restrict to dry paper/cardboard classroom prototypes; powered work only with separately inspected protected-AA kits. No medical, bodily, chemical, launching, or mains projects. A concept model is not a validated working device. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Identified real problem
-
-- [ ] Applied design process
-
-- [ ] Created working prototype
-
-- [ ] Prepared presentation
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler problem focus
-
-- Guided prototyping
-
-- Partner work
-
-### For Advanced Students
-
-- Complex multi-component invention
-
-- User testing included
-
-- Business model thinking
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Practice your presentation for family! Get feedback to improve. Research young inventors. Discuss: What problems in our community could be solved with invention?
-
----
-
-## Teacher Notes
-
-- This is second-to-last session
-
-- Inventions should be ready for exhibition
-
-- Encourage originality
-
-- Document for portfolios
-
----
-
-**Previous:** [Session 15 — Physics & Motion](./Session15_Physics_Motion.md)  
-**Next:** [Session 17 — Year Exhibition](./Session17_Exhibition.md)
+**Previous:** [Physics and Motion](./Session15_Physics_Motion.md)
+**Next:** [Year Exhibition](./Session17_Exhibition.md)

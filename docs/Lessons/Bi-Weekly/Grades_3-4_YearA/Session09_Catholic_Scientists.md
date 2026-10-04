@@ -1,195 +1,108 @@
 ---
 title: "Session 9: Catholic Scientists"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A Catholic Schools Week"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - earth-science
-  - catholic-schools-week
-  - arts
----
-
-
-# Session 9: Catholic Scientists 🔬
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 9 of 17
-
-Students research sourced examples of scientists and discuss faith and reason without claiming that history has been free of conflict.
-
+description: "Sourced Mendel and Albert cards connected to an individual model-data inquiry"
+version: "3.1"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-T3, CST-A3, CST-M2]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Markers]
+resources: ["Prepared resource: approved source text", "Prepared resource: lesson-specific cards"]
 ---
 
 # Session 9: Catholic Scientists
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Identify multiple Catholic scientists
-
-- Research a scientist's life and contributions
-
-- Present findings to classmates
-
-- Articulate how faith and reason complement each other
-
----
-
-# Session 9: Catholic Scientists
-
-## Materials Needed
-
-- 📚 Research materials (books, approved websites)
-
-- 📋 Scientist profile sheets
-
-- 🖼️ Poster materials or digital presentation tools
-
-- 📓 Engineering journals
-
----
-
-## Catholic Integration
-
-### Theme
-**Faith and Reason** — Catholic teaching values both; history includes disagreements and wrongdoing. Source: [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html), paraphrased.
-
-### Scripture
-> *"The heavens declare the glory of God; the skies proclaim the work of his hands."* — Psalm 19:1
-
-### Opening Prayer
-*Dear God, you gave us minds to explore your creation. Thank you for the many faithful scientists who sought to understand your world. Inspire us to use reason and faith together. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Catholic Schools Week:**
-   - "We celebrate our Catholic education!"
-   - Faith AND learning go together
-2. **Science & Faith Partners:**
-   - Do not erase historical conflict with an "always supported" claim
-   - Many scientists were Catholic priests, nuns, laypeople
-   - "Studying creation helps us know the Creator!"
-3. **Famous Examples:**
-   - Fr. Georges Lemaître — Big Bang Theory
-   - Gregor Mendel — Genetics
-   - Galileo — Despite the conflict, he remained Catholic!
-
-### Main Activity: Scientist Research (27 minutes)
-
-**Part 1: Choose Your Scientist (2 minutes)**
-
-- Select from list:
-  - **Fr. Georges Lemaître** — Big Bang Theory
-  - **Gregor Mendel** — Genetics & heredity
-  - **Louis Pasteur** — Vaccines, germ theory
-  - **Bl. Nicolas Steno** — Geology founder
-  - **Maria Gaetana Agnesi** — Mathematics
-  - **Jérôme Lejeune** — Down syndrome research
-  - **Sister Mary Kenneth Keller** — Computer science pioneer
-  - **Br. Guy Consolmagno** — Vatican astronomer (alive today!)
-
-**Part 2: Research (12 minutes)**
-Use the scientist profile sheet:
-
-- Name and life dates
-
-- What did they study/discover?
-
-- How did their faith influence their work?
-
-- Interesting fact
-
-- Why does their work matter today?
-
-**Part 3: Create Presentation (10 minutes)**
-
-- Create poster OR digital slide OR oral presentation
-
-- Include:
-  - Scientist name and image
-  - Key discovery
-  - Faith connection
-  - Impact today
-
-**Part 4: Gallery Walk/Presentations (3 minutes)**
-
-- Quick share: "My scientist is... They discovered..."
-
-- Full presentations can continue next session or be displayed
-
-### Engineering Journal (5 minutes)
-1. Write about your scientist
-2. Write: "Faith and science go together because..."
-3. Draw your scientist or their discovery
-4. Write: "I was surprised that..."
-
-### Closing Circle (3 minutes)
-1. **Key Learning** — "What surprised you about Catholic scientists?"
-2. **Inspiration** — "Does this inspire you to be a scientist?"
-3. **Closing Prayer** — *"God, thank you for scientists who used their faith to explore your creation. Help us follow their example. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Researched assigned scientist
-
-- [ ] Identified key contributions
-
-- [ ] Connected faith to scientific work
-
-- [ ] Created presentation element
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-filled research sheets
-
-- Partner research
-
-- Focus on 2-3 key facts
-
-### For Advanced Students
-
-- Compare two scientists
-
-- Research deeper questions
-
-- Create timeline of Catholic scientists
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share what you learned about Catholic scientists! Look up more information together. Discuss: Why do some people think faith and science are enemies? How does our family use both?
-
----
-
-## Teacher Notes
-
-- See Resources/Catholic_Scientists_Heritage.md for detailed profiles
-
-- Display presentations for Catholic Schools Week
-
-- Consider inviting a scientist parishioner to speak
-
-- Connect to diocesan Catholic Schools Week themes
-
----
-
-**Previous:** [Session 8 — Scratch Animation](./Session08_Scratch_Animation.md)  
-**Next:** [Session 10 — Weather Science](./Session10_Weather_Science.md)
-
-## Source gate / evidence
-
-**VERIFICATION REQUIRED:** approved profile cards with title/institution/URL/page for each discovery and claim about personal faith. Pasteur's religious practice, Lejeune's contribution relative to collaborators, and current roles such as Consolmagno's must not be guessed. If verified cards are unavailable, use the verified Fides et Ratio opening to distinguish a scientific observation and faith reflection; do not recite unsourced biographies. Each child identifies one source and one claim it supports. No public pupil research accounts or required family research.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly A; Faith and evidence; **one 40-minute meeting**.
+**Objective:** cite a verified heritage fact, use visible plant-model details
+to classify/tally six records and revise the explanation after peer checking.
+**Why:** inquiry uses observations and honest records, not biographical praise
+alone. Catholic/CST-C1 distinguish history/model/faith; CST-S1 observed detail/
+question; CST-T3 source responsibility; CST-A3 visual explanation/revision;
+CST-M2 labeled tally/table. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; introductory. Prep 15 minutes first use, 10 with ready cards;
+cleanup 5 included.
+
+## Before class and exact supplies
+
+Use the Mendel and Albert cards in
+[verified Catholic scientific heritage](../../../Resources/Catholic_Scientists_Heritage.md).
+Teams <=3 (4/5/7/9): two markers/two prepared half-sheet cards, made from one
+ordinary sheet. Per pupil: two sheets/pencil; teacher board/timer.
+
+1. **Mendel card, original teacher read-aloud:** "Mendel belonged to a Catholic
+   religious community. He also studied pea plants. His museum preserves
+   evidence of that scientific work. A person can have a religious vocation
+   and also investigate nature."
+   [Masaryk University Mendel Museum](https://mendelmuseum.muni.cz/en/about-the-museum/mendel-museum)
+   verifies Augustinian membership/abbacy and pea experiments.
+2. **Albert card, original teacher read-aloud:** "Albert was a Dominican who
+   studied many subjects, including living things and the natural world. He
+   described and grouped what he studied. Science methods have developed since
+   his time; we should not call a medieval practice the same as every modern
+   experiment."
+   [Benedict XVI, March 24, 2010](https://www.vatican.va/content/benedict-xvi/en/audiences/2010/documents/hf_ben-xvi_aud_20100324.html)
+   explicitly describes observation/classification and historical method limits.
+
+These are original classroom paraphrases, not quotations from the historical
+people. Both sources were directly checked October 4, 2026.
+On the cards' backs or board draw six **MODEL PLANTS, NOT MENDEL'S DATA**:
+**A:2 leaves; B:3; C:2; D:3; E:2; F:3**. Show that number of leaf shapes on each.
+Demonstrate classification into two/three-leaf groups using one item only.
+Reuse cards; if no copies, read the supplied text and draw the six models once
+on the board. No hidden source preparation, live plants or home research.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Cards; markers (2/team each) | 8 | 10 | 14 | 18 |
+| Card preparation paper (1/team) | 4 | 5 | 7 | 9 |
+| Pupil paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Observe = notice a shown detail; classify = group by a stated rule; tally =
+count record; source = origin of historical information.
+The model has three items per group, six total; this does not establish
+inheritance, a plant-growth result or Mendel's experimental outcomes.
+**Misconception:** matching categories proves why traits occur.
+**If asked "Did faith cause Mendel's discovery?"** Religious membership and
+scientific work are supported facts; this lesson cannot establish his personal
+motivation. No unverified Pasteur/Jesuit quotation or genetics priority claim.
+Paper indoors; no seeds/allergy handling, animal/human trait tests, personal
+family data or public accounts. Report damaged tools.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "What records help people compare plants honestly?" Read short source
+   cards; optional original prayer for honest inquiry.
+2. **4-10:** Identify publishers and historical limits; model the visible
+   grouping rule. Mark the six drawings as classroom models, not living plants.
+3. **10-22:** Each child cites one supported heritage fact, records two visible
+   details, sorts A-F on paper and creates a labeled two-row tally/table.
+   Ask a question needing actual plant observations rather than pretend growth.
+4. **22-30:** Peer checks the rule against every model; test the deliberate
+   error "B belongs with two leaves." Correct B using observed evidence.
+   Revise one confusing label/arrangement in the child's own explanation.
+5. **30-35:** Each child gives the sourced fact, supporting visible detail,
+   correct three/three counts and six total, actual correction and model limit.
+   Ask, "Which observation supports your grouping, and what have we not tested?"
+6. **35-40:** Count/cap/store cards/tools, retain dated tables, clear desks.
+
+## Success/access/troubleshooting
+
+Meets: supported fact/citation, visible-detail explanation, correct labeled
+three/three tally and six total, peer-backed correction/revision and honest
+model limit. Biography recall alone is insufficient. Grade 3/support:
+two pictured group headings/read-aloud/scribing. Grade 4/challenge: total all
+shown leaves (**15**) and explain why classification is not a controlled causal
+or inheritance investigation. Missing cards: use the complete board version.
+Miscount: touch each leaf/item once, correct the record visibly. Unsupported
+history: omit it rather than invent a quote. Early finish: identify evidence
+needed for the unanswered real-plant question; no genotype or ratio exercise.
+
+**Family:** We credited heritage sources, then classified model observations
+and checked our records. Ask, "What did you observe yourself, and what was a
+source fact?" Optional conversation only.

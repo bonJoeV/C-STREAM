@@ -1,195 +1,88 @@
 ---
 title: "Session 9: Faith & Science"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B Catholic Schools Week"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - engineering
-  - catholic-schools-week
-  - arts
----
-
-
-# Session 9: Faith & Science 🔬✝️
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 9 of 17
-
-Students explore the harmony between faith and science during Catholic Schools Week, discovering that both seek truth.
-
+description: "A sourced cosmology profile and a clearly limited expansion model"
+version: "3.1"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S3, CST-T3, CST-A1, CST-M1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Plain paper, Pencils, Metric ruler]
+resources: ["Prepared resource: approved source text", "Prepared resource: lesson-specific cards"]
 ---
 
 # Session 9: Faith & Science
 
-## Learning Objectives
-By the end of this session, students will:
+## Lesson at a glance
 
-- Understand that faith and science complement each other
+Grades 3-4; Bi-Weekly B; Faith and evidence; **one 40-minute meeting**.
+**Objective:** cite a supported priest/scientist fact, measure two scale drawings
+and distinguish model, history and religious reflection.
+**Why:** faith/reason value truthful claims rather than an invented cosmology
+"proof" of Genesis. CST-C1 distinction; CST-S3 limited model; CST-T3 source
+credit; CST-A1 annotated drawings; CST-M1 whole-cm comparison.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**; introductory.
+Prep 15 minutes first use, 10 with ready cards; cleanup 5.
+No Einstein quotation or sole-discovery chronology.
 
-- Learn about Fr. Georges Lemaître and the Big Bang
+## Before class and exact supplies
 
-- Explore how Catholic scientists made major discoveries
+Teams <=3 (4/5/7/9): ruler/two source cards. Each pupil two sheets/pencil.
+Teacher board/timer; make two half-sheet cards from one ordinary sheet per team.
+Reuse the Lemaitre card from
+[verified Catholic scientific heritage](../../../Resources/Catholic_Scientists_Heritage.md#georges-lemaitre-religious-and-scientific-roles):
+"Lemaitre was a Catholic priest and a university scholar whose field included
+studying the universe. We can learn about a person's scientific and religious
+roles without pretending that a classroom model proves a belief."
+This is original teacher text, not an attributed Lemaitre quotation.
+Copy ready cards:
+1. [Pontifical Academy of Sciences: Georges Lemaitre](https://www.pas.va/en/academicians/deceased/lemaitre.html)
+   lists Rev. Msgr., Cosmology, professor of Mechanics and Mathematical
+   Methodology, Louvain Catholic university (retrieved October 4, 2026).
+2. [Fides et Ratio opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html),
+   John Paul II: paraphrase, faith/reason support seeking truth.
+Demo from issued paper: **simulated scale drawing** A/B/C at 0/2/4 cm then
+0/4/8 cm. It represents increasing separations, not actual universe data,
+an explosion into surrounding space or a model of the entire Big Bang.
 
-- Express the relationship between faith and reason
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Cards (2/team) | 8 | 10 | 14 | 18 |
+| Card preparation paper (1/team) | 4 | 5 | 7 | 9 |
+| Paper (2/pupil) | 20 | 30 | 40 | 50 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
 
----
+## Vocabulary/background/SAFETY
 
-# Session 9: Faith & Science
+Cosmology = study of universe; scale drawing = representation; source = claim's
+origin; reflection = application. **Misconception:** drawing expansion proves
+creation from nothing. **If asked "Did faith cause his scientific work?"**
+Affiliation/field alone don't prove motivation; this source doesn't establish it.
+Paper/ruler desk work, no balloons, exploding demos, Sun observation/private
+research accounts. Stop/report damaged supplies. Indoor primary.
 
-## Materials Needed
+## Meeting 1: exactly 40 minutes
 
-- 📸 Pictures of Catholic scientists
+1. **0-4:** "What kinds of evidence support history, models and reflection?"
+2. **4-10:** Read cards, model cited fact versus faith application.
+3. **10-22:** Each makes/measures two drawings; record A-B 2/4 cm and A-C
+   4/8 cm, label simulation/not-to-universe-scale.
+4. **22-30:** Peer checks annotations; revise a misleading "proof" caption;
+   link sourced field/role to a question, not unsupported discovery priority.
+5. **30-35:** Each child cites one fact, explains measured separation/model limit and
+   separate faith reflection. "What would real cosmology need beyond paper?"
+6. **35-40:** Count cards/rulers, file dated drawings, clear.
 
-- 📊 Timeline materials
+## Success/access/troubleshooting
 
-- 📓 Engineering journals
+Meets: accurate source/claim, four readings/annotations and explicit model/
+belief distinction. Grade 3/support: marked positions/read-aloud/scribing.
+Grade 4/challenge: compare whole-number changes and explain projection limits,
+no forced ratios. Wrong measurement: zero/spacing check, record correction.
+Missing cards: copy the complete facts and teacher model above to the board,
+then read aloud; no guessed biography. Early finish: formulate
+an evidence question without unsupported theological/scientific conclusions.
 
-- 📋 Research guides
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Fr. Georges Lemaître** — Catholic priest who proposed the Big Bang Theory! Faith led him to explore God's creation.
-
-### Scripture
-> *"The heavens declare the glory of God."* — Psalm 19:1
-
-### Opening Prayer
-*Dear God, you created the universe with wisdom beyond our understanding. Thank you for scientists who explore your creation. Help us see that faith and science both lead to you. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Catholic Schools Week:**
-   - Celebrating Catholic education
-   - Faith AND learning together
-2. **The Big Question:**
-   - "Are faith and science enemies?"
-   - NO! They're partners seeking truth!
-3. **Fr. Georges Lemaître:**
-   - Catholic priest AND physicist
-   - Proposed the Big Bang Theory
-   - Paraphrase the expanding-universe model; exact historical chronology is VERIFICATION REQUIRED
-   - Do not use an unsourced Einstein reaction or quotation
-4. **Truth Leads to God:**
-   - Science asks "How?"
-   - Faith asks "Why?"
-   - Both lead to truth!
-
-### Main Activity: Faith & Science Discovery (26 minutes)
-
-**Part 1: Fr. Lemaître's Story (8 minutes)**
-
-- Read/watch about Fr. Lemaître:
-  - Belgian priest (1894-1966)
-  - Studied math and physics
-  - Also studied theology
-  - Proposed an early expanding-universe/primeval-atom model; exact priority claims require verification
-  - Called it "primeval atom" or "cosmic egg"
-  - No attributed quotation unless an actual source is supplied
-
-- Discussion:
-  - Why would a priest study the universe?
-  - How do a scientific model and a religious account ask different questions? The Big Bang is not proof of Genesis or a scientific test of creation from nothing.
-
-**Part 2: Catholic Scientists Gallery (8 minutes)**
-
-- Explore other Catholic scientists:
-  - **Gregor Mendel** — Monk who discovered genetics
-  - **Louis Pasteur** — Vaccines, germ theory
-  - **Maria Agnesi** — Mathematician
-  - **Galileo** — Yes, remained Catholic his whole life!
-  - **Br. Guy Consolmagno** — Astronomer; any current title/role is VERIFICATION REQUIRED
-
-- Create gallery card for one scientist
-
-**Part 3: Create "Faith + Science" Poster (8 minutes)**
-
-- Design poster or infographic showing:
-  - Faith and science as partners
-  - A sourced fact or clearly labeled pupil reflection; no invented scientist quotation
-  - Image or diagram
-  - Your own reflection on how they connect
-
-**Part 4: Share & Discuss (2 minutes)**
-
-- Quick share of posters
-
-- "What surprised you?"
-
-### Engineering Journal (5 minutes)
-1. Write about Fr. Lemaître or another Catholic scientist
-2. Draw the Big Bang (universe expanding)
-3. Write: "Faith and science work together because..."
-4. Write: "I want to explore..."
-
-### Closing Circle (3 minutes)
-1. **New Understanding** — "How has your thinking changed?"
-2. **Catholic Schools Week** — "Why is Catholic education special?"
-3. **Closing Prayer** — *"God, thank you for truth found in faith AND science. Help us never stop learning about your amazing creation. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Understood faith-science harmony
-
-- [ ] Learned about Catholic scientists
-
-- [ ] Created poster/presentation
-
-- [ ] Articulated connection
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one scientist's story
-
-- Partner work
-
-- Template provided
-
-### For Advanced Students
-
-- Research multiple scientists
-
-- Create presentation for younger students
-
-- Explore current Vatican science work
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Research Fr. Lemaître together! Watch videos about the Big Bang. Discuss: How do faith and science work together in your family? Visit a science museum and find Catholic connections!
-
----
-
-## Teacher Notes
-
-- See Resources/Catholic_Scientists_Heritage.md
-
-- Great for Catholic Schools Week
-
-- Address misconceptions about faith vs. science
-
-- Vatican Observatory website has great resources
-
----
-
-**Previous:** [Session 8 — Digital Stories](./Session08_Digital_Stories.md)  
-**Next:** [Session 10 — Geology Rocks](./Session10_Geology_Rocks.md)
-
-## Source gate
-
-Use verified cards with institution/title/URL/page; personal faith or its influence cannot be inferred from affiliation. Pasteur's religious practice and other biographical claims remain **VERIFICATION REQUIRED**. Without cards, use the verified [Fides et Ratio opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) to distinguish an observation/model from faith reflection. Each pupil cites one supported claim and one limitation. A poster alone is not scientific or historical mastery.
+**Family:** We joined sourced history and limited models. Ask, "Which claim
+did paper measurements NOT prove?" Optional discussion only.

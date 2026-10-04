@@ -1,209 +1,89 @@
 ---
 title: "Session 1: Engineering Thinking"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B design process"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - astronomy
-  - arts
----
-
-
-# Session 1: Engineering Thinking 🧠
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 1 of 17
-
-Students explore design thinking methodology, learning to approach problems with creativity, empathy, and systematic innovation.
-
+description: "A user-centered desk organizer with measured criteria and iteration"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 1: Engineering Thinking
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand all five design thinking stages
-
-- Apply human-centered design principles
-
-- Practice rapid ideation techniques
-
-- Begin their Year B engineering journals
-
----
-
-# Session 1: Engineering Thinking
-
-## Materials Needed
-
-- 📓 Engineering journals
-
-- 📋 Design thinking guides
-
-- 🖍️ Colored markers
-
-- 📦 Prototype materials
-
-- ⏱️ Timer
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Service connection:** Notice a specific need and respond with care. The unsourced attributed saying is removed; detailed saint biography **VERIFICATION REQUIRED**.
-
-### Scripture
-> *"Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace."* — 1 Peter 4:10
-
-### Opening Prayer
-*Dear God, you gave us creative minds to solve problems and serve others. Help us see needs with compassionate eyes and design solutions with loving hearts. Guide our thinking this year. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (7 minutes)
-1. **Welcome to Year B!**
-   - New year, new challenges, new growth!
-   - Building on past learning
-2. **Design Thinking Introduction:**
-   - Used by world's best innovators
-   - Human-centered approach
-   - Not just problem-solving—problem FINDING first!
-3. **The Five Stages:**
-   - **Empathize** — Understand people's needs
-   - **Define** — Frame the real problem
-   - **Ideate** — Generate many ideas
-   - **Prototype** — Build to learn
-   - **Test** — Get feedback, improve
-
-### Main Activity: Design Thinking Deep Dive (30 minutes)
-
-**Part 1: Empathize Practice (7 minutes)**
-
-- Pair interview activity:
-  - "Tell me about a frustration in your school day"
-  - "How does that make you feel?"
-  - "What have you tried?"
-  - "What would be ideal?"
-
-- LISTEN deeply, don't solve yet!
-
-- Take notes on partner's experience
-
-**Part 2: Define Practice (5 minutes)**
-
-- Analyze interview findings
-
-- Write a "Point of View" statement:
-  - "[Name] needs [need] because [insight]"
-
-- Turn into "How Might We" question:
-  - "How might we help [name] to [need]?"
-
-**Part 3: Ideate Practice (7 minutes)**
-
-- Rules for ideation:
-  - Defer judgment
-  - Go for quantity
-  - Build on others' ideas
-  - Encourage wild ideas!
-
-- Rapid brainstorm: Generate 20+ ideas in 5 minutes!
-
-- Star top 3 concepts
-
-**Part 4: Quick Prototype (8 minutes)**
-
-- Choose one idea
-
-- Build with available materials
-
-- Low-fidelity is fine—build to LEARN
-
-- Focus on concept, not perfection
-
-**Part 5: Test & Feedback (3 minutes)**
-
-- Share prototype with partner
-
-- Get honest feedback
-
-- What works? What's confusing?
-
-- Note improvements
-
-### Engineering Journal (5 minutes)
-**Year B Journal Setup:**
-1. Design name page
-2. Write: "A design thinker..."
-3. Draw the 5 stages with your own icons
-4. Reflection: "My strength is ___, I want to grow in ___"
-
-### Closing Circle (3 minutes)
-1. **Insights** — "What surprised you about design thinking?"
-2. **Year Preview** — "This method will guide all our work!"
-3. **Closing Prayer** — *"God, thank you for minds that can create. Help us design with empathy and love. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-C2 - distinguish user statement from stereotype; CST-E1 - criterion/constraint; CST-E2 - test-linked revision. Three justified ideas are sufficient; no 20-idea speed requirement. Private frustration interviews optional, fictional school-task brief permitted. Attributed saint quotation/biography **VERIFICATION REQUIRED** and not to be taught until sourced. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Practiced empathetic listening
-
-- [ ] Created clear problem statement
-
-- [ ] Generated multiple ideas
-
-- [ ] Built and tested prototype
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Guided interview questions
-
-- Partner for all activities
-
-- Simplified prototype focus
-
-### For Advanced Students
-
-- Multiple prototype iterations
-
-- Deeper empathy research
-
-- Lead team activities
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Practice design thinking at home! Interview a family member about a daily frustration. Brainstorm solutions together. Build a quick prototype. Design thinking works everywhere!
-
----
-
-## Teacher Notes
-
-- This establishes Year B methodology
-
-- Journal setup is important for year
-
-- Emphasize empathy as foundation
-
-- Return to these stages all year
-
----
-
-**Next:** [Session 2 — Sphero Sensors](./Session02_Sphero_Sensors.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Foundations |
+| Time | 1 meeting of 45 minutes; design practice, not mastery certification |
+| Objective / why / big idea | I can identify a stated user need, set a criterion/constraint and revise a tested organizer. Useful design begins with people and limits. |
+| Domains / Catholic connection | C, E; dignity in shared tools, no private-frustration interview or stereotype. |
+| Local standards | CST-C2: stated need; CST-E1: criterion/constraint; CST-E2: test/retest. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper/cardboard organizer primary. |
+| Difficulty / entry | Introductory; Year B can come first; teach five stages. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Organizer Design. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; seat 4/5/7/9 teams. Brief: "A classroom user
+needs three shared pencils laid flat, easy to retrieve and return, without
+sharp points exposed in a standing cup." Criterion: three flat pencils
+stay in a 20x15 cm base when one is removed/replaced three times.
+Constraint one cardboard base/two paper strips/0.5 m tape. Teacher pilot
+folded paper dividers; adult pre-cuts bases. Rotate designer/builder/tester.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper evidence; pupil pencil; journal | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardboard base; ruler; brief sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper divider strips | 2/team | 8 | 10 | 14 | 18 |
+| Blunt demonstration pencils | 3/team | 12 | 15 | 21 | 27 |
+| Masking tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Demo pencils are additional to pupil pencils; paper/tape consumable, tools reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Empathy:** listen to stated needs. **Criterion:** success check.
+**Constraint:** limit. **Iteration:** evidence-based change.
+**Common misconception:** 20 quick ideas proves better thinking.
+**If asked, "Is my idea original?"** Explain choices; no patent novelty claim.
+Three justified ideas suffice. Key: 3 pencils x 9 teams = 27 demo pencils at 25;
+three retrieval cycles test one function, not lifetime durability.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Which need is stated?" Connect care of shared resources.
+2. **4-11 (7 min):** Model five stages, base constraint and three-cycle test.
+3. **11-25 (14 min):** Each sketches three ideas and criterion; team builds one with rotating roles.
+4. **25-35 (10 min):** Each tests one retrieval/replacement, record escapes; revise divider spacing, repeat three cycles.
+5. **35-41 (6 min):** Individual criterion/constraint, original/retest count and stated-versus-assumed/access explanation.
+6. **41-45 (4 min):** Count pencils, store prototypes/logs, return rulers and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Did you measure the base? What changed? Could everyone take a turn?"
+Each has criterion/constraint, two three-cycle records and evidence-backed
+revision/dignity reason. 1 unsupported; 2 prompted; 3 independent;
+4 measured space tradeoff; NE for untested work.
+
+## IF THINGS GO WRONG / SAFETY
+
+Pencils roll -> raise folded divider, not tape pencils permanently.
+No cardboard -> cardstock base, record constraint change. No demo pencils ->
+three paper pencil models, physical-tool retrieval deferred. No standing sharp
+points, private interviews, medical/electrical projects or public media.
+Stop/report unsafe handling.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: pre-folded dividers, criterion stems, scribing.
+Grade 6/challenge: compare two divider widths and quantify desk-space tradeoff.
+Indoor desk plan independent of Year A/devices.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count pupil/demo pencils separately, save each test and report shortages.
+**Explored:** user-centered engineering. **Did:** tested/revised flat organizer.
+**Learned:** criteria/limits. **Catholic connection:** dignity/shared care.
+**Ask:** "What was actually requested?" No routine homework.
+
+**Next:** [Sphero Sensors](./Session02_Sphero_Sensors.md)

@@ -1,341 +1,97 @@
 ---
 title: "Weeks 7-9: Engineering Design: Community Helpers"
-description: "Grades 3-4 full engineering design cycle for community needs"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-a
-  - engineering
-  - light
-  - circuits
-  - earth-science
-  - lent
-  - service
-  - arts
----
-
-# 🤝 Weeks 7-9: Engineering Design: Community Helpers
-
-## Unit Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 3 sessions (40 min each) |
-| **STREAM Focus** | E (Engineering), R (Religion), S (Science) |
-
+description: "A visitor direction sign tested and improved for access"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-E3, CST-A3]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Cardstock, Plain paper, Pencils, Markers, Masking tape, Metric ruler]
 ---
 
 # Weeks 7-9: Engineering Design: Community Helpers
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Complete a full engineering design cycle
-2. Identify community needs and design solutions
-3. Build, test, and iterate on prototypes
-4. Present design solutions with evidence
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect engineering to Catholic Social Teaching
-2. Apply preferential option for the poor to design
-3. Understand service through skills and talents
-
----
-
-# Weeks 7-9: Engineering Design: Community Helpers
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Catholic Social Teaching: Preferential Option for the Poor** — Jesus calls us to care especially for the vulnerable. Engineers and inventors can use their skills to help people in need. When we design with others' needs in mind, we live out our faith.
-
-### Scripture Connection
-> "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."
-> — Matthew 25:40
-
-### Saint Connection
-**St. Damien of Molokai** — He lived among people with leprosy, serving their needs when no one else would. He built houses, roads, and a water system for the colony. He used practical skills to serve Christ in the poor.
-
----
-
-## 📚 Materials Needed
-
-- Design scenario cards
-
-- Engineering design process poster
-
-- Building materials: cardboard, craft sticks, tape, scissors, recycled materials
-
-- Testing supplies (varies by challenge)
-
-- Design journals
-
-- Presentation materials
-
----
-
-# Session 1: Empathize & Define
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Loving God, open our eyes to see the needs around us. Give us creative minds to design solutions and generous hearts to serve others. Help us see Your face in everyone we help. Amen."
-
-**Read Matthew 25:40:** "Whatever you did for one of the least of these... you did for me."
-
-**Discuss:**
-
-- "Who are 'the least of these' in our community?"
-
-- "What needs do people have?"
-
-- "How can engineers help?"
-
-### Design Challenges Introduction (10 min)
-**Present community design challenges (choose one for class or let teams choose):**
-
-**Challenge A: Clean Water Helper**
-
-- Problem: Some communities don't have access to clean water
-
-- Design: Create a simple water filter using available materials
-
-- Test: Compare clarity of teacher-prepared water containing clean soil, in a tray. **Clearer does not mean safe to drink.** This model cannot remove all microbes or dissolved contaminants.
-
-**Challenge B: Shelter Solution**
-
-- Problem: Homeless people need protection from weather
-
-- Design: Create a portable shelter model that is waterproof and insulated
-
-- Test: Test for water resistance and stability
-
-**Challenge C: Accessibility Aid**
-
-- Problem: People with mobility challenges face barriers
-
-- Design: Create a device that helps with daily tasks
-
-- Test: Based on specific device function
-
-**Challenge D: Emergency Light**
-
-- Problem: After disasters, people need light without electricity
-
-- Design: Make a paper/foil reflector for a supplied, teacher-controlled battery flashlight.
-- Test: Compare illumination at the same target distance. It redirects an existing light; it does not create energy or provide a battery-free emergency lamp.
-
-### Empathy Research (10 min)
-**Research phase:**
-
-- What do we know about this problem?
-
-- Who experiences this need?
-
-- What solutions already exist?
-
-- What are the requirements for a good solution?
-
-**Create empathy map:**
-
-- Who are we designing for?
-
-- What do they need?
-
-- What challenges do they face?
-
-- What would help them most?
-
-### Define the Problem (10 min)
-**Problem statement:**
-Teams write a clear problem statement:
-"We are designing _____________ for _____________ because _____________."
-
-**Design requirements:**
-
-- What MUST your design do? (constraints)
-
-- What would be NICE if it could do? (criteria)
-
-- What materials are available?
-
-**Share problem statements** with class.
-
-### Closing & Preparation (5 min)
-**Faith Connection:** "St. Damien didn't just feel sorry for people with leprosy — he DID something. He built and created and served. That's what we're doing: using our skills to serve others."
-
-**In-class continuation:** Save the plan; begin the next meeting with a two-minute recall. No required homework.
-
----
-
-# Session 2: Ideate & Build
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer & Review (4 min)
-**Prayer:** "Creator God, You gave us imagination and creativity. Help us use these gifts today to design solutions that help others. Guide our hands and minds. Amen."
-
-**Review:** "What problem is your team solving? Who are you helping?"
-
-### Brainstorm Solutions (8 min)
-**Individual brainstorm (3 min):**
-
-- Each team member sketches 2-3 possible solutions
-
-- No ideas are bad ideas!
-
-- Think creatively
-
-**Team brainstorm (5 min):**
-
-- Share individual ideas
-
-- Combine ideas
-
-- Select one design to prototype
-
-- Why did you choose this design?
-
-### Design Planning (5 min)
-**Detailed design sketch:**
-
-- Draw your design with labels
-
-- List materials needed
-
-- Identify potential challenges
-
-- Plan for testing
-
-### Build Prototype (18 min)
-**Building time!**
-
-**Teacher circulates:**
-
-- "How does this address the need?"
-
-- "What's working?"
-
-- "What challenges are you facing?"
-
-**Encourage iteration:**
-
-- It's okay to change your design!
-
-- Learn from what doesn't work
-
-- Ask for help when stuck
-
-**Checkpoint questions:**
-
-- "Does this meet your requirements?"
-
-- "How will you test it?"
-
-### Closing & Preview (5 min)
-**Quick share:** Each team shows prototype progress.
-
-**Faith Connection:** "Even if our prototypes aren't perfect, we're practicing something important: caring about others' needs and trying to help. That's at the heart of being Catholic!"
-
-**Preview:** "Next session, we'll test, improve, and present our designs!"
-
----
-
-# Session 3: Test, Iterate & Present
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (3 min)
-**Prayer:** "Lord, help us test with honesty, improve with perseverance, and present with clarity. May our work honor You and serve others. Amen."
-
-### Testing Phase (10 min)
-**Test designs** based on criteria:
-
-- Water filter: Does it trap visible particles? How does clarity change? Never test by drinking.
-
-- Shelter: Is it waterproof? Stable?
-
-- Accessibility aid: Does it work as intended?
-
-- Reflector: Does it redirect the supplied light toward the same target? Do not claim a new energy source.
-
-**Record results:**
-
-- What worked well?
-
-- What didn't work as planned?
-
-- What could be improved?
-
-### Iteration Phase (10 min)
-**Improve designs based on testing:**
-
-- Make modifications
-
-- Test again if possible
-
-- Document changes and improvements
-
-**Questions to consider:**
-
-- "What one change would most improve your design?"
-
-- "How does this change address the problem better?"
-
-### Presentation Preparation (5 min)
-**Prepare brief presentation:**
-1. The problem we're solving (who we're helping)
-2. Our design solution (how it works)
-3. Testing results (evidence it works)
-4. What we learned (improvements)
-
-### Presentations (10 min)
-**Teams present to a neighboring team, then switch (5 min each direction):** This fits up to 25 pupils without assuming only five teams.
-
-- Demonstrate design
-
-- Share testing results
-
-- Explain faith connection
-
-**Audience response:**
-
-- One thing you like about this design
-
-- One question about the design
-
-### Closing Celebration (2 min)
-**Faith Connection:** "Whether or not our designs are perfect, we practiced something essential today: thinking about others' needs before our own wants. Jesus calls us to serve 'the least of these' — and you've begun learning how to use your God-given skills to do exactly that!"
-
-**Closing Prayer:** "Thank You, God, for creative minds and caring hearts. Help us always use our talents to serve others. May we see Your face in everyone who needs help. Amen."
-
----
-
-## ✅ Assessment
-
-- Completed engineering design cycle (define, ideate, build, test, iterate)
-
-- Created prototype that addresses community need
-
-- Tested and improved design based on evidence
-
-- Presented solution with clear reasoning
-
-- Connected project to Catholic Social Teaching
-
----
-
-## 📎 Home Connection
-> "We completed an engineering design project for community helpers! Ask your child: 'What problem did you try to solve?' 'Who were you trying to help?' 'What did you learn?' Discuss Catholic Social Teaching at home: How can your family use your talents to help 'the least of these' in your community?"
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
-
-## SAFETY and dignity
-
-Models only: no drinking filtered water, constructing real shelters, lifting people, testing aids on a person's body, disability simulations, flames or homemade generators. Teacher controls clean water/flashlights, checks recycled materials for sharp edges, and dries spills. Use fictional user needs or consented school information, never expose a child's poverty/disability. Criteria describe performance; constraints limit materials/time. These are classroom prototypes, not certified community solutions.
+## Lesson at a glance
+
+Grades 3-4; Weekly A; Service design; **three 40-minute meetings**.
+**Objective:** define a visitor's need, test two sign versions and recommend a
+revision using evidence. **Why:** community helpers seek feedback rather than
+assume another person's needs. Catholic/CST-C2: dignity/access decision;
+CST-E1: criteria/limits; CST-E2: actual retest; CST-E3: qualified recommendation;
+CST-A3: critique/revised communication. Official alignment **VERIFICATION
+REQUIRED**. Technology **None**; developing. Prep 15 minutes; cleanup 5 per
+meeting. Classroom prototype, not certified emergency signage or proven benefit.
+
+## Before class and exact supplies
+
+Board brief: “A visitor needs to find the book-return tray from **1 m** away.
+Use word AND symbol, not color alone.” Select a non-emergency desk destination.
+Balanced teams <=3: 4/5/7/9; neighboring peer users, three-team exchange when odd.
+Per team: two cardstock sheets, ruler, two markers, **40 cm tape/unit**.
+Per pupil: three evidence sheets/pencil. Teacher board/timer; demo from issued
+card, mark 1 m using ruler lengths. No hallway tour/printing.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Teams; rulers (1/team) | 4 | 5 | 7 | 9 |
+| Cardstock; markers (2/team each) | 8 | 10 | 14 | 18 |
+| Tape (40 cm/team, cm total) | 160 | 200 | 280 | 360 |
+| Evidence sheets (3/pupil) | 30 | 45 | 60 | 75 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+Save cards/records; reuse tools.
+
+## Vocabulary/background/SAFETY
+
+User = person using design; prototype = trial version; feedback = actual
+response; criterion = tested success. **Misconception:** designer liking proves
+usefulness. **If asked “Will everyone read it?”** Peer sample cannot prove
+universal access; more users are needed before installation.
+No filters, body-tested aids, shelters or improvised lights. Paper/tape only;
+no skin tape or private hardship/disability disclosures. Stop/report damaged
+tools. Indoor primary works in winter.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-5:** Brief/prayer for service optional. “What do we know, not assume?”
+2. **5-10:** Criterion: identify destination/direction at 1 m within five
+   seconds; constraint: two cards/40 cm tape.
+3. **10-22:** Each asks peer “Which word/symbol helps?” Record response, sketch
+   two alternatives; agree on one.
+4. **22-30:** Paper mock-up; exchange and record destination/direction correct
+   or not yet, not “looks nice.”
+5. **30-35:** Each states need, criterion, constraint, actual comment.
+6. **35-40:** Cap/count/store; save dated plans.
+
+## Meeting 2: exactly 40 minutes
+
+1. **0-4:** Retrieve feedback without assuming mastery.
+2. **4-9:** Model large word/symbol; equal distance/time in tests.
+3. **9-21:** Card version 1; every child contributes a purposeful feature.
+4. **21-30:** Peer tests twice; record results/confusion and plan one change.
+5. **30-35:** Individual feature-purpose diagram and two test results.
+6. **35-40:** Save sign/plans, count tools; no real installation.
+
+## Meeting 3: exactly 40 minutes
+
+1. **0-4:** “Which recorded confusion will our revision address?”
+2. **4-9:** Critique example: “Arrow unclear at 1 m,” not “bad artist.”
+3. **9-20:** Revise on card 2; repeat two equal tests with a neighboring team.
+4. **20-29:** Parallel paired presentations; each explains results/tradeoff;
+   three-team exchange rotates listeners within this window.
+5. **29-35:** Individual before/after comparison, actual comment and sample
+   limitation; teacher gathers all slips.
+6. **35-40:** Count tools/remove test tape/archive. Adult decides display approval.
+
+## Success/access/troubleshooting
+
+Meets: user need/limits, real results, critique-backed revision and qualified
+recommendation. Grade 3/support: pictorial arrow starter/scribing. Grade
+4/challenge: readability versus space tradeoff. Unclear sign: simplify one
+feature/retest. No external partner: label peers as classroom test users.
+Late: stop decoration, preserve retest/evidence/cleanup. No community outcomes
+claimed from the model.
+
+**Family:** We designed a visitor sign and retested it. Ask, “What did a user
+actually misunderstand?” Optional: discuss a public sign.

@@ -1,227 +1,120 @@
 ---
 title: "Session 5: Scratch Games"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B game design"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - coding
-  - engineering
-  - advent
-  - service
-  - arts
----
-
-
-# Session 5: Scratch Games 🎮
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 5 of 17
-
-Students design and program original games in Scratch, applying advanced programming concepts with intentional design.
-
+description: "An executable two-round quiz with reset, score, feedback and ethical play"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 5: Scratch Games
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Computing |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can run a two-round game, trace score/condition/reset and revise welcoming feedback. Good game rules are understandable and fair. |
+| Domains / Catholic connection | T, A, C; play respects users, no shame, purchases, coercive loops or public leaderboards. |
+| Local standards | CST-T2: trace/debug; CST-A2: purposeful feedback; CST-C2: ethical play. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Required for actual Scratch execution; paper rules fallback is algorithm/game simulation only. |
+| Difficulty / entry | Introductory; teach variable, repeat, condition and event here. |
+| Prep / cleanup | Moderate: first 25 min/repeat 15; IT setup extra before class; cleanup 4 min. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations and school-approved Scratch editor/local save;
+no personal/shared passwords/public publication. Seat 4/5/7/9 teams, rotate
+operator/tracer/tester every five minutes in the simultaneous route or by
+the shared turns below. Pretest exact starter with numeric
+answers; no names/prayer/health inputs. Complete tests provided below.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper trace; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Computer with approved Scratch, simultaneous route | 1/team | 4 | 5 | 7 | 9 |
+| Computer with approved Scratch, shared route instead | 3/class alternative | 3 | 3 | 3 | 3 |
+| Paper rule/test sheets | 2/team | 8 | 10 | 14 | 18 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; devices reusable; software is access.
+
+### Shared-route kit and turn plan
+
+Choose one computer row, not both; demo uses an issued setup. With three
+approved working setups, preload the exact starter below on fresh turn copies.
+Keep 4/5/7/9 balanced groups <=3: two trios/two pairs; five trios; six trios/one pair;
+seven trios/two pairs. Teams 1-3 use **11-19**, 4-6 **19-27**, 7-9 **27-35**;
+10/15 use two waves, then retest. Each pupil gets up to two minutes to remove
+and restore score reset on a copy, run 4/4 then 4/3 and 3/3, and record
+actual outputs; two minutes/team cover reset/checking. Waiting pupils trace
+all cases and prepare a welcoming feedback revision.
+Pretest exact turn/access timing. Each pupil edits and runs; a partner's
+execution is not their operation evidence. Record assistance/NE separately.
+One/two setups serve that many teams per window; remaining pupils use paper
+and book later execution, not larger groups or rushed accessibility.
+Shared-route work modifies a provided game, not a from-scratch full game.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Variable:** stored changing value. **Condition:** true/false test.
+**Loop:** repeat instructions. **Feedback:** response helping player.
+**Common misconception:** score proves intelligence or personal worth.
+**If asked, "Can we store best players?"** No personal leaderboard/storage.
+One sprite, variable `score`, complete starter:
+
+```text
+when green flag clicked
+set [score] to (0)
+say [Two practice rounds; type 4; restart with green flag] for (2) seconds
+repeat (2)
+  ask [How many quarter-note beats in one four-beat bar?] and wait
+  if <(answer) = (4)> then
+    change [score] by (1)
+    say [Yes: four beats] for (1) seconds
+  else
+    say [Practice answer is 4; try next round or restart] for (1) seconds
+say (join [Correct practice rounds: ] (score))
+```
+
+Key runs 4/4 -> score 0/1/2; 4/3 -> 0/1/1; 3/3 -> 0/0/0;
+green flag resets. Four beats is musical meter context, not all music.
+Intentional bug remove reset -> repeated runs accumulate; restore/retest.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What makes a practice game welcoming?"
+2. **4-11 (7 min):** Model variable/reset/repeat2/condition and test key.
+3. **11-25 (14 min):** Teams assemble/run starter; each edits/runs one test and records actual outputs. Shared teams begin the stated waves; waiting pupils trace score cases.
+4. **25-35 (10 min):** Run three input cases/reset, diagnose reset bug in copy, fix; finish shared waves and have peers test instructions/feedback and revise purposeful wording/contrast.
+5. **35-41 (6 min):** Individual correct trace/debug/retest, feedback choice and ethical play reason.
+6. **41-45 (4 min):** Save school-only if approved, stop/close devices, save traces and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"How many asks? What happens after wrong answer? Why reset?"
+Each has correct two-round traces, bug/retest, observed device turn and
+welcoming feedback reason. 1 unsupported; 2 prompted; 3 independent;
+4 predicts mixed-input boundary; NE for unrun device evidence.
+
+## IF THINGS GO WRONG / SAFETY
+
+No response -> inspect event/ask/condition, not random sprites. Device/access
+fails -> operator follows paper rules, label programming deferred.
+No public accounts, private input, chat, ranking users, payment prompts,
+flashing effects or copied media. Stop/report unsafe data/device use.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: block checklist, two-row trace, oral/scribed response.
+Grade 6/challenge: justify feedback and bounded play versus endless loop.
+Seated indoor lesson; no family account/continuation required.
 
-- Design game mechanics intentionally
+## CLEANUP / FAMILY NEWSLETTER
 
-- Program using variables, conditionals, and loops
+Record actual/paper route and missing execution, return devices.
+**Explored:** game rules. **Did:** tested two-round score/reset.
+**Learned:** fair feedback/debugging. **Catholic connection:** respectful play.
+**Ask:** "Which test found reset bug?" No routine homework.
 
-- Create engaging player experience
-
-- Consider game design ethics
-
----
-
-# Session 5: Scratch Games
-
-## Materials Needed
-
-- 💻 Computers with Scratch access
-
-- 📝 Game design documents
-
-- 📓 Engineering journals
-
-- 🎮 Game examples
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Recreation and Leisure** — Catholic tradition values healthy recreation! St. John Bosco used games and play to reach young people. Good games can build community and skills!
-
-### Scripture
-> *"A cheerful heart is good medicine."* — Proverbs 17:22
-
-### Opening Prayer
-*Dear God, thank you for the gift of play and creativity. Help us design games that bring joy, build skills, and respect the player. May our creativity honor you. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Game Design Philosophy:**
-   - Good games are intentionally designed
-   - Balance challenge and fun
-   - Consider the player experience
-2. **Ethics in Gaming:**
-   - Games can be positive or harmful
-   - Our responsibility as creators
-   - Design for good: skill-building, connection, joy
-3. **Programming Concepts:**
-   - Variables — Track score, lives, progress
-   - Conditionals — If-then decisions
-   - Loops — Repeated actions
-   - Events — Respond to player input
-
-### Main Activity: Game Development (31 minutes)
-
-**Part 1: Game Design Document (7 minutes)**
-
-**Answer These Questions:**
-1. **Game Concept:**
-   - What type of game? (Maze, catch, quiz, adventure, platform)
-   - What's the goal?
-   - What makes it fun?
-
-2. **Game Mechanics:**
-   - How does the player control?
-   - What are the rules?
-   - How does the player win/lose?
-
-3. **Player Experience:**
-   - Is difficulty balanced?
-   - Is it appropriate for all ages?
-   - Does it build positive skills?
-
-4. **Technical Plan:**
-   - What sprites needed?
-   - What variables needed?
-   - What events trigger actions?
-
-**Part 2: Programming (20 minutes)**
-
-**Build Your Game:**
-
-**Step 1: Set Up (3 min)**
-
-- Create sprites
-
-- Set up backdrop
-
-- Initialize variables (score, lives)
-
-**Step 2: Player Control (5 min)**
-
-- Arrow key movement
-
-- Click interactions
-
-- Responsive controls
-
-**Step 3: Game Logic (7 min)**
-
-- Scoring system
-
-- Win/lose conditions
-
-- Obstacle/enemy behavior
-
-- Level progression (if time)
-
-**Step 4: Polish (5 min)**
-
-- Sound effects
-
-- Visual feedback
-
-- Instructions
-
-- Game over screen
-
-**Part 3: Playtesting (4 minutes)**
-
-- Test each other's games
-
-- Give constructive feedback:
-  - What's fun?
-  - What's confusing?
-  - What could improve?
-
-### Engineering Journal (5 minutes)
-1. Game concept sketch
-2. Variables used: ___
-3. Conditionals used: ___
-4. Player feedback: ___
-5. Write: "Good game design includes..."
-
-### Closing Circle (3 minutes)
-1. **Showcase** — Brief game demos!
-2. **Design Ethics** — "How can games be positive?"
-3. **Closing Prayer** — *"God, thank you for the joy of creativity and play. Help us use these skills to bring happiness to others. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-T2 - one variable/condition trace and corrected bug; CST-A2 - purposeful control/feedback choice tested by peer; CST-C2 - welcoming non-exploitative play decision. If no devices, execute score/rule cards and label **algorithm/game simulation, not actual Scratch programming**. No public accounts, private input, chat, or uploads. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Created functional game
-
-- [ ] Used variables and conditionals
-
-- [ ] Considered player experience
-
-- [ ] Incorporated feedback
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Game templates to modify
-
-- Simpler mechanics
-
-- Partner programming
-
-### For Advanced Students
-
-- Multiple levels
-
-- High score system
-
-- Complex game mechanics
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your game with family! Discuss game design together. Analyze favorite family games—what makes them fun? Design a board game together using similar principles!
-
----
-
-## Teacher Notes
-
-- scratch.mit.edu for platform
-
-- Preview student games for appropriateness
-
-- Encourage positive themes
-
-- Can extend over multiple sessions
-
----
-
-**Previous:** [Session 4 — Forensic Science](./Session04_Forensic_Science.md)  
-**Next:** [Session 6 — Gratitude Design](./Session06_Gratitude_Design.md)
+**Previous:** [Forensic Science](./Session04_Forensic_Science.md)
+**Next:** [Gratitude Design](./Session06_Gratitude_Design.md)

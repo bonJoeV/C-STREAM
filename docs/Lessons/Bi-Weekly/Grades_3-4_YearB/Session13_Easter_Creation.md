@@ -1,238 +1,74 @@
 ---
 title: "Session 13: Easter Creation"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year B Easter celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - bi-weekly
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - life-science
-  - easter
-  - arts
----
-
-
-# Session 13: Easter Creation 🌷
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 13 of 17
-
-Students celebrate Easter through creative making, expressing the resurrection message through their engineering and art skills.
-
+description: "A purposeful hope display with a peer-tested visual revision"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-A2, CST-A3, CST-E1]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Cardstock, Plain paper, Pencils, Markers, Masking tape]
 ---
 
 # Session 13: Easter Creation
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Express understanding of Easter's meaning
-
-- Create a meaningful Easter project
-
-- Combine engineering and faith expression
-
-- Share the resurrection message
-
----
-
-# Session 13: Easter Creation
-
-## Materials Needed
-
-- 📦 Various making materials
-
-- 💻 Digital tools (optional)
-
-- 🎨 Art supplies
-
-- 📓 Engineering journals
-
-- 📸 Easter symbol references
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Mary Magdalene & the Women** — First to discover the empty tomb and spread the Good News of resurrection!
-
-### Scripture
-> *"He is not here; he has risen, just as he said!"* — Matthew 28:6
-
-### Opening Prayer
-*Alleluia! Jesus is risen! Thank you, God, for the gift of Easter and the promise of eternal life. Help us celebrate and share this Good News with joy! Alleluia! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **ALLELUIA!** — "The greatest celebration of our faith!"
-2. **Easter Story:**
-   - Jesus died for us on Good Friday
-   - He was buried in a tomb
-   - On Sunday—THE TOMB WAS EMPTY!
-   - Jesus conquered death!
-3. **The First Evangelists:**
-   - Mary Magdalene and the women
-   - Ran to tell: "He is risen!"
-4. **Our Mission:**
-   - Create something that shares Easter joy!
-
-### Main Activity: Easter Creation (27 minutes)
-
-**Part 1: Choose Your Creation (5 minutes)**
-
-**Option A: Easter Engineering**
-
-- Build something that shows Easter story
-
-- Empty tomb diorama
-
-- Rolling stone mechanism
-
-- Cross with flowers
-
-**Option B: Digital Easter**
-
-- Scratch animation of Easter story
-
-- Digital card with message
-
-- Slideshow presentation
-
-**Option C: Easter Art Engineering**
-
-- Create illuminated cross
-
-- Build butterfly mobile (transformation)
-
-- Design Easter garden
-
-**Option D: Easter Message Project**
-
-- Design something to SHARE the message
-
-- Card for someone who needs hope
-
-- Display for school or church
-
-**Part 2: Create (18 minutes)**
-
-**Design Phase (3 min):**
-
-- Sketch your idea
-
-- What message will it share?
-
-- What materials do you need?
-
-**Build Phase (13 min):**
-
-- Create your Easter project
-
-- Include Easter symbols:
-  - Empty tomb
-  - Cross
-  - Sunrise
-  - Butterfly
-  - Flowers/new life
-  - Alleluia!
-
-**Personal Touch (2 min):**
-
-- Add Scripture or message
-
-- Sign your work
-
-- Prepare to share
-
-**Part 3: Celebration & Sharing (4 minutes)**
-
-- Display all creations
-
-- Say together: "ALLELUIA! HE IS RISEN!"
-
-- Celebrate with joy!
-
-### Engineering Journal (5 minutes)
-1. Draw your Easter creation
-2. Write: "Easter means to me..."
-3. Write: "I want to share this message because..."
-4. Write: "Because Jesus rose, I have hope for..."
-
-### Closing Circle (3 minutes)
-1. **Easter Joy** — "What makes Easter so important?"
-2. **Sharing Hope** — "Who will you share the Good News with?"
-3. **Closing Prayer:** 
-
-*Alleluia! Alleluia!*
-*Jesus, you conquered death!*
-*You are risen, you are alive!*
-*Fill us with Easter joy!*
-*Help us share your victory with everyone!*
-*Alleluia! Amen!*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Created meaningful Easter project
-
-- [ ] Included Easter symbolism
-
-- [ ] Connected to resurrection message
-
-- [ ] Showed enthusiasm for sharing
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler project option
-
-- Template provided
-
-- Partner work
-
-### For Advanced Students
-
-- Complex creation
-
-- Multiple formats
-
-- Plan for sharing with others
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your Easter creation with family! Attend Easter Mass together. Look for Easter symbols everywhere. Share Easter hope with neighbors. Celebrate that Jesus is alive!
-
----
-
-## Teacher Notes
-
-- Time near Easter break
-
-- Display creations prominently
-
-- Consider Easter celebration assembly
-
-- Send projects home as gifts
-
----
-
-**Previous:** [Session 12 — Life Cycles](./Session12_Life_Cycles.md)  
-**Next:** [Session 14 — Ozobot Challenge](./Session14_Ozobot_Challenge.md)
-
-## SAFETY / symbolism
-
-Paper/cardboard primary. Any illuminated option uses only the adult-approved kit from [Christmas Circuits](./Session07_Christmas_Circuits.md); no loose coin-cell gift, mains electricity or homemade wiring. A butterfly is an image of hope, not a dead creature returning to life. Indoor paper/photos replace spring nature; optional home celebration is not homework.
+## Lesson at a glance
+
+Grades 3-4; Bi-Weekly B; Faith communication; **one 40-minute meeting**.
+**Objective:** compose a three-part Easter hope display, test reader
+interpretation and revise one visual feature. **Why:** art communicates belief
+purposefully without pretending an image proves a scientific result.
+CST-C1 symbol/evidence distinction; CST-A2 composition purpose; CST-A3
+critique/revision; CST-E1 audience criterion/limit.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 10; cleanup 5. No illuminated circuits/digital options needed;
+existing [Christmas Circuits](Session07_Christmas_Circuits.md) remains unchanged.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9): two cardstock sheets, two markers, **20 cm tape**.
+Each pupil paper/pencil; teacher board/timer/demo from kit. Fold one card into
+three standing panels; spare for revision. Board teacher paraphrase:
+"Easter celebrates Jesus' Resurrection; an empty-tomb image, sunrise and
+hopeful message can communicate belief." Original retelling/convention, not
+archaeological reconstruction or borrowed quotation. Criterion reader identifies
+hope/Resurrection message at 1 m within ten seconds.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Cardstock; markers (2/team each) | 8 | 10 | 14 | 18 |
+| Tape (20 cm/team, cm total) | 80 | 100 | 140 | 180 |
+| Paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Composition = arrangement; emphasis = directing attention; symbol = image
+with meaning; critique = specific helpful response.
+**Misconception:** butterfly is a dead animal resurrecting.
+**If asked "Does the display prove Easter?"** No; it expresses Christian belief,
+not an experiment. Living development differs from Resurrection.
+Dry paper only, no real stones/moss, batteries, flames or private names/photos.
+Stop/report damaged markers. Indoor primary, no spring materials required.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** Optional Easter prayer; "What should a reader understand?"
+2. **4-9:** Model three panels/visual emphasis and 1 m test/stock limits.
+3. **9-21:** Each sketches/creates one purposeful panel, team joins composition.
+4. **21-30:** Peer names message; record correct/not yet/comment, revise a
+   word/shape placement and retest at same distance/time.
+5. **30-35:** Each child explains intended symbol/form, actual feedback/revision,
+   criterion and faith/science distinction.
+6. **35-40:** Cap/count, save dated designs/evidence, clear; approved paper only
+   may go home, no hardware.
+
+## Success/access/troubleshooting
+
+Meets: purposeful composition, explicit criterion/test record and critique-
+backed revision, not enthusiasm. Grade 3/support: three-panel frame/picture
+stems/scribing. Grade 4/challenge: explain clarity-versus-detail tradeoff.
+Misread symbol: add a brief original word, do not coach test. Missing card:
+fold paper, note form constraint change. Early finish: new reader, equal test.
+
+**Family:** We revised an Easter hope display for an audience. Ask, "What did
+your reader understand?" Optional: discuss a hope symbol without buying materials.

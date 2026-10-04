@@ -1,236 +1,110 @@
 ---
 title: "Session 2: Sphero Advanced"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A robotics"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - arts
----
-
-
-# Session 2: Sphero Advanced 🤖
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 2 of 17
-
-Students explore advanced Sphero BOLT programming using block-based coding with sensors, variables, and conditionals.
-
+description: "Finite loop and brightness condition with a stationary robot option"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 2: Sphero Advanced
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Program Sphero BOLT using block programming
-
-- Use sensors (light, compass) in programs
-
-- Implement conditionals and loops
-
-- Create autonomous robot behaviors
-
----
-
-# Session 2: Sphero Advanced
-
-## Materials Needed
-
-- 🤖 Sphero BOLT robots (from CSCOE library)
-
-- 📱 Tablets with Sphero Edu app
-
-- 📋 Programming challenge cards
-
-- 📓 Engineering journals
-
-- 🚧 Course materials
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Saint Carlo Acutis** - canonized September 7, 2025; [verified canonization source](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). Additional technology biography **VERIFICATION REQUIRED**.
-
-### Scripture
-> *"For I know the plans I have for you... plans to prosper you and not to harm you."* — Jeremiah 29:11 (Planning in coding!)
-
-### Opening Prayer
-*Dear God, you gave us minds that can create and program. Help us use technology wisely, like Saint Carlo Acutis. Guide our coding today! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (7 minutes)
-1. **Sphero BOLT Features:**
-   - LED matrix display
-   - Light sensor
-   - Compass/gyroscope
-   - More precise movement
-2. **Block Programming:**
-   - Visual coding like Scratch
-   - Blocks snap together
-   - More complex than drive mode
-3. **Saint Carlo Acutis:**
-   - Teen programmer and web developer
-   - Used skills to share faith
-   - Attributed sayings require original sources; the unsupported quotation is removed.
-4. **Today's Goal:** Create autonomous Sphero behaviors!
-
-### Main Activity: Block Programming (30 minutes)
-
-**Part 1: Block Programming Intro (8 minutes)**
-
-- Open Sphero Edu app → Blocks mode
-
-- Key block types:
-  - **Motion:** Roll, stop, spin
-  - **Lights:** LED matrix, main LED
-  - **Sounds:** Play sounds
-  - **Sensors:** Read light, compass
-  - **Controls:** If/then, loops, wait
-  - **Variables:** Store values
-
-**Basic Program Demo:**
-```
-When program starts:
-  Set main LED to blue
-  Roll at aimed heading 45 degrees, speed at most 20, duration at most 1 second
-  Stop
-  Set main LED to green
-```
-
-**Part 2: Guided Challenges (12 minutes)**
-
-**Challenge 1: Square with Lights (3 min)**
-
-- Roll in a square
-
-- Change LED color at each corner
-
-- Use repeat loop
-
-**Challenge 2: Sensor Response (4 min)**
-
-- Use light sensor
-
-- If dark: Turn on LED matrix (like flashlight!)
-
-- If bright: LED off
-
-- Use conditional (if/else)
-
-**Challenge 3: Compass Navigation (5 min)**
-
-- Roll North for 2 seconds
-
-- Roll East for 2 seconds
-
-- Roll South for 2 seconds
-
-- Roll West for 2 seconds
-
-- Uses heading/compass!
-
-**Part 3: Creative Challenge (8 minutes)**
-
-**Design an Autonomous Behavior:**
-
-- Sphero must make "decisions"
-
-- Use at least one sensor
-
-- Include loops and conditionals
-
-- Ideas:
-  - Light-seeking robot
-  - Dance that responds to environment
-  - Message display sequence
-
-**Part 4: Showcase (2 minutes)**
-
-- Share programs
-
-- Celebrate creativity!
-
-### Engineering Journal (5 minutes)
-1. Draw/write your most complex program
-2. Explain what each part does
-3. Write: "Conditionals help robots..."
-4. Write: "I could use this to..."
-
-### Closing Circle (3 minutes)
-1. **Discovery Share** — "What was most challenging?"
-2. **Carlo's Example** — "How can we use tech for good?"
-3. **Closing Prayer** — *"Thank you, God, for the gift of programming. Help us use technology to make the world better. Amen."*
-
----
-
-## Assessment
-
-**Local standards (not official):** CST-T2 - individual's condition/loop trace; CST-T1 - identify input and output; CST-C2 - explain an equitable role or safe-space decision. Official benchmarks **VERIFICATION REQUIRED**.
-
-## SAFETY AND NAVIGATION LIMITS
-
-Adult checks charged robots and a clear 1 m floor lane per active robot, 50 cm observer boundary. Stop before retrieval; no races, shaking, or deliberate collisions. Heading zero is the aimed frame, not automatically north; replace North/East labels with aimed 0/90/180/270. Brightness response alone is not directional light seeking. If devices fail, trace square commands and four fictional readings (12/48/45/18; threshold 30) on paper; explicitly assess algorithm reasoning, **not actual robot operation**.
-**Observation Checklist:**
-
-- [ ] Created block programs
-
-- [ ] Used loops and conditionals
-
-- [ ] Implemented sensor reading
-
-- [ ] Demonstrated logical thinking
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Start with simpler programs
-
-- Pair with experienced peer
-
-- Use step-by-step guides
-
-### For Advanced Students
-
-- Multiple sensor programs
-
-- Create mini-games with Sphero
-
-- Teach concepts to others
-
----
-
-## Wonder at Home 🏠
-**Optional family conversation:** Discuss Saint Carlo Acutis and service through technology. No home platform/account or routine homework required.
-
----
-
-## Teacher Notes
-
-- Reserve Sphero BOLT 2+ weeks ahead
-
-- Sphero BOLT has more features than Sphero Mini
-
-- Ensure full battery charge
-
-- Students will use Sphero again in Session 14
-
----
-
-**Previous:** [Session 1 — Design Process](./Session01_Design_Process.md)  
-**Next:** [Session 3 — Structural Engineering](./Session03_Structural_Engineering.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / A / Computing |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can trace a four-reading conditional loop and explain input/output. A brightness sensor supports a threshold decision, not directional navigation. |
+| Domains / Catholic connection | T, C; equitable operator turns and honest limits in technology used for good. |
+| Local standards | CST-T2: loop/condition trace; CST-T1: input/output/troubleshooting; CST-C2: roles/access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Recommended; paper primary teaches rule reasoning; approved stationary BOLT option gives actual execution/measurement, separately recorded. |
+| Difficulty / entry | Developing; teach if/else and finite repeat; no autonomy mastery claim. |
+| Prep / cleanup | Light paper first 15 min/repeat 10; device preflight 20 min extra; cleanup 4 min. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; seat 4/5/7/9 teams. Copy reading cards
+12/48/30/18 and two word-output labels NEEDS LIGHT / ENOUGH LIGHT.
+Rule: reading <30 -> NEEDS LIGHT; else ENOUGH LIGHT; repeat for four cards.
+IT/adult optional route: approved Sphero Edu, compatible charged BOLT, stationary
+tray, pretest live sensor units/range and available conditional blocks. Use
+actual observed readings, not card values labelled measured. Do not promise
+north headings, moving navigation, compatible app/version or loan.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper trace; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper reading/output/rule sheets | 2/team | 8 | 10 | 14 | 18 |
+| BOLT; tablet; dry tray, optional simultaneous route | 1 each/team | 4 | 5 | 7 | 9 |
+| BOLT; tablet; dry tray, optional shared route instead | 3/class alternative | 3 | 3 | 3 | 3 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable; equipment reusable; software/access not physical material.
+Optional quantities assume all teams, not the eight Snap kits or guaranteed stock.
+
+### Optional shared-kit turn plan
+
+Choose one hardware row, not both. With three approved working BOLT/tablet/tray
+setups, teacher preloads the exact finite program below with the documented
+actual threshold/units. Keep 4/5/7/9 balanced groups <=3: two trios/two pairs,
+five trios, six trios/one pair, seven trios/two pairs. Teams 1-3 use **11-19**,
+4-6 **19-27**, 7-9 **27-35**; 10/15 use two waves, then retest.
+Each pupil has up to two minutes to change one approved LED-output block,
+personally run the four-read cycle and record actual input/output; two
+minutes/team allow reset/checking. Waiting pupils trace 12/48/30/18 and the
+strict 30 boundary. Pretest this access/turn plan and record the actual child,
+assistance or NE; watching is not operation. One/two setups serve that many
+teams per window, with later hardware checks for the remainder. Never rush
+access or form groups of four. Invented card values remain separate from live
+readings, and a uniform live output is recorded honestly.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Sensor:** input-reading tool. **Threshold:** dividing value.
+**Conditional:** rule with alternatives. **Loop:** repeated instructions.
+**Common misconception:** sensor knows where light is.
+**If asked, "Will it seek a light?"** No; one brightness value gives no direction.
+Key: 12 -> NEEDS, 48 -> ENOUGH, 30 -> ENOUGH, 18 -> NEEDS; four checks,
+two each. Strict `<` versus `<=` matters at 30.
+Optional finite BOLT program: repeat 4 {read ambient light; if reading<30 set
+main LED blue, else green; wait 2 seconds}; stop. Pair display colors with
+spoken/written words; preflight detects if actual ambient range requires
+teacher-documented different threshold. No motion blocks.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What can one reading tell us?" Introduce fairness/limits.
+2. **4-11 (7 min):** Model threshold and exact-boundary 30; show paper versus optional real run.
+3. **11-25 (14 min):** Rotate operator/reader/checker; execute four paper cards; optional teams assemble/run finite program, each edits/runs or reads actual sensor once. Shared hardware teams begin their stated waves.
+4. **25-35 (10 min):** Deliberate paper bug `<=30`, compare boundary, fix/retest. Finish shared waves; each device operator records four actual readings/outputs separately from card traces.
+5. **35-41 (6 min):** Each student independently gives four correct outputs, loop count, input/output and an equitable role/measurement limit.
+6. **41-45 (4 min):** Stop optional program, return inspected devices, save traces and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Which branch at 30? Were readings invented or measured?"
+Each has four correct card outputs, debug boundary and input/output/access
+reason. 1 unsupported; 2 prompted; 3 independent; 4 uncertainty near threshold;
+NE for unobserved device operation, separate from paper reasoning.
+
+## IF THINGS GO WRONG / SAFETY
+
+No compatible/approved robot -> complete paper core, defer hardware evidence.
+Live output never changes -> inspect actual range/threshold with adult, no
+shaking or chasing light. No motion, collisions, battery access, public accounts,
+bright lights in eyes or private data. Stop/isolate/report warm/damaged equipment.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: branch arrows, large words, scribed trace.
+Grade 6/challenge: explain strict boundary and repeated-reading uncertainty.
+All work stationary indoors.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Record paper versus real tests, return equipment/tools and report gaps.
+**Explored:** sensor decisions. **Did:** traced/tested a threshold loop.
+**Learned:** boundaries/limits. **Catholic connection:** fair technology roles.
+**Ask:** "What happens at exactly 30?" No routine homework.
+
+**Previous:** [Design Process](./Session01_Design_Process.md)
+**Next:** [Structural Engineering](./Session03_Structural_Engineering.md)

@@ -1,234 +1,89 @@
 ---
 title: "Session 3: Architecture Engineering"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B building design"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - light
-  - astronomy
-  - service
-  - arts
----
-
-
-# Session 3: Architecture Engineering 🏛️
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 3 of 17
-
-Students explore architectural engineering principles, designing and building model structures that serve human needs.
-
+description: "A measured community-room plan balancing form, access and function"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 3: Architecture Engineering
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand architectural engineering principles
-
-- Design buildings for specific purposes
-
-- Apply structural concepts to architecture
-
-- Balance aesthetics and function
-
----
-
-# Session 3: Architecture Engineering
-
-## Materials Needed
-
-- 🧱 KEVA Planks (from CSCOE library)
-
-- 📐 Grid paper for blueprints
-
-- 📓 Engineering journals
-
-- 📸 Architecture examples
-
-- 📏 Measuring tools
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**Medieval Cathedral Architects** — Anonymous builders spent lifetimes constructing churches they'd never see completed. Their buildings still inspire awe 800 years later!
-
-### Scripture
-> *"Unless the Lord builds the house, the builders labor in vain."* — Psalm 127:1
-
-### Opening Prayer
-*Dear God, you are the master architect of creation. Help us design buildings that serve people well and bring beauty to the world. May our work honor you. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (7 minutes)
-1. **Architecture = Art + Engineering:**
-   - Buildings must be beautiful AND functional
-   - Serve human needs
-   - Last for generations
-2. **Cathedral Builders:**
-   - Built for God's glory
-   - Flying buttresses = engineering innovation
-   - Light, height, beauty for worship
-3. **Architecture Principles:**
-   - **Form follows function** — Shape serves purpose
-   - **Load distribution** — How weight transfers
-   - **Space design** — How people move through
-
-### Main Activity: Architectural Design Challenge (30 minutes)
-
-**Part 1: Blueprint Phase (8 minutes)**
-
-**Design Brief:**
-Create a building for ONE purpose:
-
-- School classroom of the future
-
-- Community center
-
-- Church or chapel
-
-- Hospital/clinic
-
-- Library/learning space
-
-**Requirements:**
-
-- Must serve the intended users
-
-- Entrance and exit visible
-
-- Multiple functional areas
-
-- Structural stability
-
-**Blueprint:**
-
-- Draw floor plan (top view)
-
-- Draw front elevation (side view)
-
-- Label key features
-
-- Note structural solutions
-
-**Part 2: Construction Phase (17 minutes)**
-
-**Build with KEVA Planks:**
-
-**Structural Considerations:**
-
-- Foundation stability
-
-- Wall strength
-
-- Roof support
-
-- Opening reinforcement (doors/windows)
-
-**Architectural Features:**
-
-- Different areas for different functions
-
-- Aesthetic elements
-
-- Human-scale proportions
-
-**Tips:**
-
-- Start with strong foundation
-
-- Interlock corners for stability
-
-- Plan roof support before building too high
-
-- Add details that serve function
-
-**Part 3: Architecture Review (5 minutes)**
-
-- Present designs
-
-- Explain purpose and features
-
-- Discuss structural solutions
-
-- Peer feedback on form and function
-
-### Engineering Journal (5 minutes)
-1. Attach or sketch blueprint
-2. Building purpose: ___
-3. Key structural features: ___
-4. Write: "Good architecture serves people by..."
-5. Write: "My design honors God because..."
-
-### Closing Circle (3 minutes)
-1. **Appreciation** — "What building design impressed you?"
-2. **Cathedral Connection** — "How did faith inspire great architecture?"
-3. **Closing Prayer** — *"Lord, bless the buildings where we live, learn, and worship. Help us create spaces that serve your people well. Amen."*
-
----
-
-## Assessment
-
-**Individual local check (not official):** CST-A2 - purposeful layout choice revised after critique; CST-E1 - user need/criterion; CST-M1 - measure model doorway and path; CST-C2 - access decision without disability simulation. Use one classroom model, no real-building safety claims. Historical cathedral dates/construction stories **VERIFICATION REQUIRED**. No heavy loads or body-weight tests. Official benchmarks **VERIFICATION REQUIRED**.
-**Observation Checklist:**
-
-- [ ] Created functional blueprint
-
-- [ ] Built stable structure
-
-- [ ] Balanced form and function
-
-- [ ] Explained design choices
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler building type
-
-- Partner construction
-
-- Template blueprints
-
-### For Advanced Students
-
-- Multiple-story building
-
-- Complex roof design
-
-- Include scale considerations
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Architecture tour! Notice buildings in your community. Which are well-designed? Visit a church and observe architectural features. Research famous architects or cathedrals. Draw your dream building!
-
----
-
-## Teacher Notes
-
-- Reserve KEVA planks from CSCOE
-
-- Show architecture examples before activity
-
-- Notre Dame, Sagrada Familia are great examples
-
-- Discuss local church architecture
-
----
-
-**Previous:** [Session 2 — Sphero Sensors](./Session02_Sphero_Sensors.md)  
-**Next:** [Session 4 — Forensic Science](./Session04_Forensic_Science.md)
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Structures |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can design and revise a purposeful room layout with measured paths/doorways and an access decision. Architecture combines form and human function. |
+| Domains / Catholic connection | A, E, M, C; welcoming communal space and dignity, no disability simulation or cathedral history overclaim. |
+| Local standards | CST-A2: purposeful form; CST-E1: user criterion; CST-M1: dimensions; CST-C2: access. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; cardboard floor model, no KEVA stock assumption. |
+| Difficulty / entry | Developing; teach plan view and model scale. |
+| Prep / cleanup | Moderate: first 20 min, repeat 10 min; cleanup 4 min. Kit: Community Room Model. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; seat 4/5/7/9 teams. Brief: "A community reading/
+art room needs two activity zones, visible entrance/exit and clear movement
+path." Base 20x20 cm, teaching scale 1 cm = 1 m; not actual building code.
+Criterion: 2 cm-wide paper token moves entrance -> both zones -> exit without
+obstacle; openings/path at least 3 cm. Teacher pre-cuts wall strips and pilots
+layout; model walls below 10 cm, no roof loads.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Grid paper plan; paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Cardboard base; cardstock furniture/token sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Cardboard wall strips | 4/team | 16 | 20 | 28 | 36 |
+| Ruler; marker; brief sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Masking tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper/cardboard/tape consumable/reused; tools reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Plan:** top view. **Elevation:** side/front view. **Scale:** model relationship.
+**Function:** intended use. **Common misconception:** beautiful layout is accessible.
+**If asked, "Does 3 cm mean legal doorway?"** No; teaching criterion only, real
+architecture needs qualified code review. 20 cm represents 20 m at this scale;
+token is a clearance test shape, not a person/disability portrayal.
+Light/color/pattern choices direct attention; art isn't decoration alone.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "Who could use this room easily?" Introduce welcoming purpose.
+2. **4-11 (7 min):** Model plan/elevation/scale and token criterion.
+3. **11-25 (14 min):** Each sketches plan with dimensions and form choice; team builds selected low floor model with two zones/entrance/exit.
+4. **25-35 (10 min):** Rotate token operator/observer/checker; measure path/openings, record obstructions, revise furniture placement and retest.
+5. **35-41 (6 min):** Individual measured doorway/path, criterion, purposeful layout revision and access/model-limit reason.
+6. **41-45 (4 min):** Remove/store walls, return tools, save plans and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Where does the path narrow? Why that visual focal point? What isn't certified?"
+Each has dimensions with cm, stated criterion, tested visual/form revision and
+dignity decision. 1 unsupported; 2 prompted; 3 independent; 4 tradeoff;
+NE if missing, not real-building approval.
+
+## IF THINGS GO WRONG / SAFETY
+
+Walls fall -> lower height/tape base, not loads. Missing cardboard -> paper
+floor plan retains layout/path objective, physical construction deferred.
+No body-weight tests, climbing, heavy roofs, real access claims, sharp cutting
+or impairment simulation. Stop/report unstable kit.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: grid/zone starters, large token, oral/scribed explanations.
+Grade 6/challenge: quantify activity area lost to wider path and defend tradeoff.
+Indoor tabletop plan; no building tour prerequisite.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Save measured plans and test notes, count strips/tools.
+**Explored:** architecture. **Did:** modeled/tested a community room.
+**Learned:** form/function/access. **Catholic connection:** welcoming dignity.
+**Ask:** "What moved after your path test?" No routine homework.
+
+**Previous:** [Sphero Sensors](./Session02_Sphero_Sensors.md)
+**Next:** [Forensic Science](./Session04_Forensic_Science.md)

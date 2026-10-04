@@ -1,279 +1,85 @@
 ---
 title: "Session 17: Celebration Exhibition"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B year-end showcase"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - service
-  - arts
----
-
-
-# Session 17: Celebration Exhibition 🎉
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 17 of 17
-
-Students present their portfolios and inventions, celebrating two years of growth and achievement in C-STREAM.
-
+description: "An honest attended-work portfolio defense and revised caption"
+version: "3.0"
+date: 2026-10-04
 ---
 
 # Session 17: Celebration Exhibition
 
-## Learning Objectives
-By the end of this session, students will:
-
-- Present portfolio of year's work
-
-- Demonstrate inventions and projects
-
-- Reflect on growth across Year A and B
-
-- Celebrate achievements and set future goals
-
----
-
-# Session 17: Celebration Exhibition
-
-## Materials Needed
-
-- 📓 Engineering journals (Year B + Year A if available)
-
-- 🖼️ Projects and inventions
-
-- 📸 Photos from sessions
-
-- 🏆 Certificates/awards
-
-- 🎈 Celebration supplies
-
----
-
-## Catholic Integration
-
-### Theme
-**Celebrating Gifts** — Each person has unique gifts from God. Celebrating achievements recognizes God's generosity in us!
-
-### Scripture
-> *"Well done, good and faithful servant! You have been faithful with a few things; I will put you in charge of many things. Come and share your master's happiness!"* — Matthew 25:23
-
-### Opening Prayer
-*Dear God, thank you for two amazing years of learning and creating. Thank you for the unique gifts in each student. As we celebrate, help us give you glory for all we've accomplished. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (6 minutes)
-1. **Year B Complete!**
-   - "17 sessions of incredible work!"
-   - Review Year B highlights with photos
-2. **Two-Year Journey:**
-   - Year A accomplishments
-   - Year B growth
-   - Total transformation!
-3. **Faith Throughout:**
-   - Saints who inspired us
-   - Scripture that guided us
-   - Service that grounded us
-
-### Main Activity: Exhibition (31 minutes)
-
-**Part 1: Portfolio Curation (8 minutes)**
-
-**Select Your Best:**
-
-- Review Year B engineering journal
-
-- Choose highlights:
-  - Design thinking masterpiece
-  - Best programmed project
-  - Favorite engineering build
-  - Proudest service moment
-  - Original invention
-
-- Prepare exhibition display
-
-**Reflection Questions:**
-
-- What was your biggest growth?
-
-- What surprised you?
-
-- What will you remember most?
-
-- How did faith connect?
-
-**Part 2: Exhibition Gallery (15 minutes)**
-
-**Gallery Walk:**
-
-- Set up displays
-
-- Rotate as exhibitors and visitors
-
-- Present your work:
-  - What you created
-  - Skills demonstrated
-  - What you learned
-  - Faith connections
-
-- Ask thoughtful questions
-
-- Appreciate peers' work
-
-**Part 3: Invention Showcase (5 minutes)**
-
-- Innovation Lab inventions
-
-- 1-2 minute pitches
-
-- Celebrate creativity and service focus!
-
-**Part 4: Awards & Recognition (3 minutes)**
-
-**Year B Certificates:**
-
-- "Design Thinker"
-
-- "Code Master"
-
-- "Engineering Architect"
-
-- "Science Investigator"
-
-- "Innovation Champion"
-
-- "Faithful Creator"
-
-- "Service Designer"
-
-- Custom recognitions
-
-**Every student recognized for unique strengths!**
-
-### Engineering Journal (5 minutes)
-**Final Year B Entry:**
-1. "This year I became..."
-2. "My proudest achievement..."
-3. "Faith and STREAM connect because..."
-4. "I will use my gifts to..."
-5. "My future innovation will be..."
-
-### Closing Circle (3 minutes)
-1. **Gratitude Circle** — Each person shares one thanks
-2. **Future Vision** — "What will you create/become?"
-3. **Final Blessing:**
-
-*Dear God,*
-*Thank you for this Year B journey of growth and discovery.*
-*Thank you for creative minds and compassionate hearts.*
-*Thank you for showing us that faith and innovation belong together.*
-*Bless these young engineers, scientists, and designers.*
-*May they continue to grow in wisdom and skill.*
-*May they use their gifts to serve you and love others.*
-*May they never stop wondering, creating, and believing.*
-*We ask this through Christ our Lord.*
-*Amen.*
-
-🎓 **CONGRATULATIONS, GRADUATES!** 🎓
-
----
-
-## Year B Accomplishments
-
-## Individual assessment
-
-**Local standards (not official):** CST-E3 - tested technical result and limit; CST-A3 - caption revision; CST-C3 - resource example. Year B may precede A; assess actual attended lessons. Use paired artifact exchanges, not 25 plenary talks. Official benchmarks **VERIFICATION REQUIRED**; participation/awards never certify mastery.
-
-**Skills encountered; mastery requires individual evidence:**
-
-- ✅ Design thinking (deep empathy)
-
-- ✅ Sphero sensor programming
-
-- ✅ Architectural engineering
-
-- ✅ Scientific investigation
-
-- ✅ Game design in Scratch
-
-- ✅ User-centered app design
-
-- ✅ Space science exploration
-
-- ✅ Ecosystem understanding
-
-- ✅ Energy and simple machines
-
-- ✅ Original invention
-
-**Faith Connections:**
-St. Teresa of Calcutta; St. Faustina; cathedral architecture; St. Thomas More; St. John Bosco; St. Ignatius; Saint Carlo Acutis; Vatican Observatory; St. Francis of Assisi; Works of Mercy; historical design examples. Not every theme/example is a canonized saint.
-
----
-
-## Two-Year Celebration (Years A + B)
-
-**Complete C-STREAM Journey:**
-
-- Year A: Foundation skills, core technologies
-
-- Year B: Advanced applications, deeper integration
-
-- Combined: Comprehensive STREAM education
-
-**Skills Across Both Years:**
-
-- Design process mastery
-
-- Multiple programming platforms
-
-- Engineering principles
-
-- Scientific method
-
-- Service-oriented design
-
-- Faith-reason integration
-
----
-
-## Wonder Forward 🚀
-**Continue Your Journey:**
-
-- 🔧 Keep inventing at home
-
-- 💻 Explore new programming languages
-
-- 🔬 Pursue science interests
-
-- 📚 Read about innovators
-
-- 🛠️ Build and create regularly
-
-- ❤️ Use skills to serve others
-
-- ✝️ See God in all discovery
-
-**You are engineers, scientists, designers, and children of God!**
-
-*The world needs your gifts. Go make a difference!*
-
----
-
-**Previous:** [Session 16 — Innovation Lab](./Session16_Innovation_Lab.md)
-
----
-
-*End of Grades 5-6 Year B Bi-Weekly C-STREAM Curriculum*
-
-*Year A/B may be taken in either order. Coverage is supplemental and does not certify a comprehensive subject curriculum or individual mastery.*
+## LESSON AT A GLANCE
+
+| Field | Reference |
+|---|---|
+| Grade / schedule / rotation / unit | 5-6 / Bi-Weekly / B / Communication |
+| Time | 1 meeting of 45 minutes; in-class exhibition |
+| Objective / why / big idea | I can defend a tested result/limit, revise a caption and justify material stewardship. Celebration shares actual evidence, not assumed two-year mastery. |
+| Domains / Catholic connection | E, A, C; gratitude for gifts and responsible future service. |
+| Local standards | CST-E3: technical explanation; CST-A3: caption revision; CST-C3: resource reason. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper artifacts, no live powered demonstrations. |
+| Difficulty / entry | Developing; B may precede A, use actual attended evidence only. |
+| Prep / cleanup | Light: first 15 min/repeat 10; cleanup 4 min. Kit: Celebration Evidence. |
+
+## BEFORE CLASS / MATERIALS
+
+Check contact/accommodations; retrieve one pupil artifact/test record each.
+Fallback practice card: "Invented routing prototype first 2/3 correct,
+after clearer PASS label 3/3; real-user benefit not tested." Not personal
+achievement. Pair seated exchanges, odd enrollment trio; tool teams 4/5/7/9.
+No invitations, medals, photos, food or two-year attendance assumption.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Portfolio/practice record; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Paper display/caption sheets | 2/student | 20 | 30 | 40 | 50 |
+| Ruler; marker | 1 each/tool team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Paper consumable/reused; tools/portfolios reusable.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Artifact:** saved work. **Evidence:** recorded support. **Caption:** brief
+explanation. **Limit:** what wasn't checked.
+**Common misconception:** "Code Master" certificate proves platform mastery.
+**If asked, "What if I never took A?"** Explain B work only; no missing-year
+penalty. Practice difference 3-2=1 additional correct request; not universal
+user benefit. Frame purpose/decision/result/change/limit/resource choice.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Give thanks; ask "What can this artifact actually show?"
+2. **4-11 (7 min):** Model practice caption, accessible visual hierarchy and actual/simulated labels.
+3. **11-24 (13 min):** Each chooses artifact and makes display/caption with one future school-task question.
+4. **24-35 (11 min):** Paired two-minute defenses and reader questions; trio fits. Revise caption from specific feedback; teacher samples while all submit records.
+5. **35-41 (6 min):** Individual result/limit explanation, old/new caption and material reuse tradeoff.
+6. **41-45 (4 min):** Return portfolios, cap/count tools, save evidence and clear tables.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Did the device really run? What changed in caption? What remains uncertain?"
+Each supplies supported result/limit, meaningful reader-driven revision and
+resource explanation. 1 unsupported; 2 prompted; 3 independent;
+4 compares evidence/tradeoff; NE for missing, not mastery from participation.
+
+## IF THINGS GO WRONG / SAFETY
+
+No artifact -> labeled practice card. Missing raw result -> mark untested.
+Anxiety -> seated teacher/scribed exchange. No private health/prayer displays,
+identifiable photos, live electrical/robot demos, food, balloons or unsafe
+dismantling. Stop/report unsafe crowding; public event needs separate approval.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: caption stems, large text, oral/drawn explanation.
+Grade 6/challenge: defend next validation priority and evidence reliability.
+Indoor seated exhibition unchanged in winter.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Save individual result/revision and actual/practice route; record missing checks.
+**Explored:** evidence communication. **Did:** curated/shared/revised.
+**Learned:** limits and stewardship. **Catholic connection:** gifts with gratitude.
+**Ask:** "Which result supports your choice?" Optional conversation; no routine homework.
+
+**Previous:** [Innovation Lab](./Session16_Innovation_Lab.md)

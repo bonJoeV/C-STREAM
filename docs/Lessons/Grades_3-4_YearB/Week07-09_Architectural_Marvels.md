@@ -1,416 +1,95 @@
 ---
 title: "Weeks 7-9: Architectural Marvels"
-description: "Grades 3-4 Year B architecture and structural design"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - engineering
-  - light
-  - astronomy
-  - lent
-  - arts
----
-
-# 🏛️ Weeks 7-9: Architectural Marvels
-
-## Unit Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 3 sessions (40 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), A (Arts), R (Religion) |
-
+description: "Three-view sacred-space model with stability and access tests"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-A1, CST-A2]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 5
+materials: [Cardstock, Cardboard, Plain paper, Pencils, Metric ruler, Masking tape, Blunt scissors]
 ---
 
 # Weeks 7-9: Architectural Marvels
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Identify basic architectural elements
-2. Understand structural principles (load, support, stability)
-3. Design and build architectural models
-4. Analyze famous structures for engineering principles
-
-### Faith Integration Objectives
-Students will be able to:
-1. Appreciate cathedral architecture as prayer
-2. Learn about medieval builders' faith
-3. Connect architecture to worship
-
----
-
-# Weeks 7-9: Architectural Marvels
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Sacred Architecture** — Catholic cathedrals were designed to lift hearts and minds to God. Every element had meaning: height pointing to heaven, light representing God's presence, and intricate details showing the glory of creation.
-
-### Scripture Connection
-> "Unless the LORD builds the house, the builders labor in vain."
-> — Psalm 127:1
-
-### Saint Connection
-**The Cathedral Builders** — Medieval cathedral builders often worked their entire lives on a single building they'd never see completed. They built for God's glory, not their own, showing incredible faith and craftsmanship.
-
----
-
-## 📚 Materials Needed
-
-### Week 7
-
-- Images of famous architecture
-
-- Cathedral photos and diagrams
-
-- Architectural vocabulary cards
-
-- Drawing supplies
-
-- Building blocks for demos
-
-### Week 8 & 9
-
-- KEVA planks or similar blocks
-
-- Cardboard, cardstock
-
-- Tape, glue
-
-- Rulers, scissors
-
-- Challenge specification sheets
-
-- Assessment rubrics
-
----
-
-## 📝 Week 7 Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, You are the master architect of the universe! Help us learn from the builders who created beautiful spaces for Your worship. Inspire our creativity. Amen."
-
-### Architectural Tour (10 min)
-**Virtual tour of famous structures:**
-
-**Show and discuss:**
-1. **Notre-Dame Cathedral** — Gothic arches, flying buttresses, rose windows
-2. **St. Peter's Basilica** — Dome, columns, grandeur
-3. **Sagrada Familia** — Nature-inspired, still being built!
-4. **Local cathedral or church** — What elements do you recognize?
-
-**Key questions:**
-
-- "How do these buildings make you feel?"
-
-- "Why did builders make them so beautiful?"
-
-- "What draws your eye upward?"
-
-**Cathedral builders' story:**
-
-- Worked for generations
-
-- Most never saw completion
-
-- Built for God, not fame
-
-- Faith fueled their work
-
-### Architectural Elements (12 min)
-**Vocabulary and principles:**
-
-**Structural elements:**
-
-- **Arch** — Curved structure that transfers weight
-
-- **Column** — Vertical support
-
-- **Beam** — Horizontal support
-
-- **Buttress** — External support for walls
-
-- **Dome** — Rounded roof structure
-
-- **Foundation** — Base that holds everything up
-
-**Why these work:**
-
-- Demonstrate arch strength (paper arch vs flat paper)
-
-- Show how columns support weight
-
-- Explain how flying buttresses push outward forces down
-
-**Symmetry and balance:**
-
-- Most sacred architecture is symmetrical
-
-- Balance creates beauty and stability
-
-- "Why might symmetry feel 'right'?"
-
-### Design Analysis (10 min)
-**Analyze a cathedral:**
-
-**In journals, sketch and label:**
-
-- Draw a simple cathedral front
-
-- Label: arches, columns, windows, door, spire
-
-- Identify: What holds it up? What's decorative?
-
-**Discuss:**
-
-- "What structural elements do you see?"
-
-- "What elements are for beauty?"
-
-- "How do structure and beauty work together?"
-
-### Preview Challenge (4 min)
-**Announce the Architectural Challenge:**
-
-**Your task:**
-
-- Design and build a structure inspired by sacred architecture
-
-- Must include at least 3 architectural elements
-
-- Must be at least 12 inches tall
-
-- Must be stable (withstand gentle breeze)
-
-**Categories:**
-
-- Most beautiful
-
-- Best use of architectural elements
-
-- Most innovative design
-
-- Most stable structure
-
-### Closing (2 min)
-**Reflection:**
-"The cathedral builders worked for something bigger than themselves. What can we build that points others to God?"
-
-**Closing Prayer:**
-"Thank You, God, for the builders who created beautiful churches. Help us use our talents to create beauty that glorifies You. Amen."
-
----
-
-## 📝 Week 8 Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, bless our hands as we build. Help us work together like the cathedral builders. Amen."
-
-### Design Phase (12 min)
-**Planning your structure:**
-
-**Design worksheet:**
-
-- Sketch front view
-
-- Sketch side view
-
-- Sketch top view (floor plan)
-
-- List architectural elements you'll include
-
-- Label materials needed
-
-**Requirements review:**
-
-- At least 12 inches tall
-
-- At least 3 architectural elements
-
-- Must be stable
-
-- Must be beautiful!
-
-**Faith element:**
-
-- Include one element that points to God
-
-- Could be: height, light, cross, symmetry
-
-**Teacher approval:**
-
-- Review designs before building
-
-- Check for structural feasibility
-
-- Suggest improvements
-
-### Building Phase (24 min)
-**Construction time:**
-
-**Teams work on structures:**
-
-- Follow your design
-
-- Adjust as needed
-
-- Problem-solve together
-
-**Teacher circulation:**
-
-- "What architectural element is this?"
-
-- "How is this providing support?"
-
-- "What challenges are you facing?"
-
-**Building tips:**
-
-- Start with strong foundation
-
-- Build symmetrically for balance
-
-- Test stability as you go
-
-- Height needs wide base
-
-**Faith connection during work:**
-
-- "Cathedral builders prayed while they worked"
-
-- "Each stone was placed with intention"
-
-- "Work can be a form of prayer"
-
-### Progress Check (2 min)
-**Status update:**
-
-- Where are you in building?
-
-- What's working well?
-
-- What challenges remain?
-
-**Closing Prayer:**
-"Thank You, God, for progress today! Help us continue building with care and creativity. Amen."
-
----
-
-## 📝 Week 9 Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us complete our structures with excellence. May our buildings reflect Your beauty! Amen."
-
-### Final Building (15 min)
-**Complete structures:**
-
-- Finish construction
-
-- Add final details
-
-- Test stability
-
-- Prepare for presentation
-
-**Quality check:**
-
-- Is it at least 12 inches tall?
-
-- Can you identify 3+ architectural elements?
-
-- Is it stable?
-
-- Is it beautiful?
-
-### Presentations (18 min)
-**Each team presents:**
-
-**Presentation format (2 min each):**
-1. Show structure
-2. Identify architectural elements used
-3. Explain what points to God
-4. Share biggest challenge and how you solved it
-
-**Audience task:**
-
-- Identify elements in each structure
-
-- Notice what makes each unique
-
-- Think of compliments and questions
-
-**Assessment during presentations:**
-
-- Architectural element identification
-
-- Structural understanding
-
-- Faith integration
-
-- Presentation clarity
-
-### Gallery Walk & Voting (3 min)
-**View all structures:**
-
-- Walk around and appreciate
-
-- Notice details
-
-- Silent reflection
-
-**Vote (if desired):**
-
-- Most beautiful
-
-- Best use of elements
-
-- Most innovative
-
-- Most stable
-
-### Closing Reflection (2 min)
-**Discussion:**
-
-- "What did you learn about architecture?"
-
-- "How did the cathedral builders show faith?"
-
-- "How can we build things that point to God?"
-
-**Connection:**
-
-- "We are called to build the Kingdom of God"
-
-- "Not just buildings — communities, kindness, love"
-
-- "Everything we create can glorify God"
-
-**Closing Prayer:**
-"Thank You, God, for teaching us through architecture. Thank You for the faithful builders throughout history. Help us build lives and communities that point others to You. May everything we create bring You glory. Amen."
-
----
-
-## 📎 Home Connection
-> "We studied architecture and built structures inspired by cathedrals! Ask your child: 'What architectural elements did you learn?' 'What did you include in your design?' 'How did medieval cathedral builders show their faith?' Visit a local church together and identify architectural elements!"
-
----
-
-## ✅ Assessment
-
-- Identified architectural elements correctly
-
-- Built structure meeting requirements
-
-- Demonstrated understanding of structural principles
-
-- Integrated faith element into design
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Structures; **three 40-minute meetings**.
+**Objective:** draw three labeled views, build a sacred gathering-space model
+and revise stability/access using two tests. **Why:** architecture combines
+purposeful form with support and users' needs. Catholic/CST-C2: welcoming
+gathering space; CST-E1 criteria/limits; CST-E2 retest; CST-A1 three-view model;
+CST-A2 purposeful light/shape. Official alignment **VERIFICATION REQUIRED**.
+Technology **None**; developing. Prep 15; cleanup 5 each. No claims about every
+cathedral builder's motives or current famous-building completion dates.
+
+## Before class and exact supplies
+
+Teams <=3 (4/5/7/9). Per unit kit: 20 x 20 cm cardboard base, three cardstock
+sheets, ruler, blunt scissors, **80 cm tape**. Per pupil: three paper sheets/
+pencil. Teacher board/timer; draw simple plan/front/side of a gathering room
+with columns, beam and window. Demo rolled card column under folded card roof;
+no stock-photo purchase needed. Teacher checks recycled edges; stored on bases.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Bases; rulers; scissors (1/team each) | 4 | 5 | 7 | 9 |
+| Cardstock (3/team) | 12 | 15 | 21 | 27 |
+| Tape (80 cm/team, cm total) | 320 | 400 | 560 | 720 |
+| Paper (3/pupil) | 30 | 45 | 60 | 75 |
+| Pencils (1/pupil) | 10 | 15 | 20 | 25 |
+
+## Vocabulary/background/SAFETY
+
+Column = upright support; beam = crossing support; plan = top view; arch =
+curved structural form needing supports. Paper arch is not automatically a
+stone arch. **Misconception:** symmetry guarantees stability/beauty.
+**If asked "Must every church look this way?"** No; our model applies a welcoming
+purpose, not a universal sacred-building rule.
+Desk model **30 cm height cap**; no heavy loads, shaking tables, fans, sharp
+tools or real shelter use. Scissors seated; report loose/damaged model.
+Indoor primary, stored dry.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How can a gathering space welcome people?" Optional original prayer.
+2. **4-10:** Model plan/front/side, label column/beam/window; distinguish support
+   from visual purpose.
+3. **10-22:** Each draws three views; include entrance >=4 cm wide, two supports
+   and purposeful window; team agrees design.
+4. **22-30:** Fold/roll sample column/roof, ten-second free-standing test;
+   revise one confusing view from peer comments.
+5. **30-35:** Each labels three views/criterion/limit and welcome choice.
+6. **35-40:** Save views/samples, count tools, clear.
+
+## Meeting 2: exactly 40 minutes
+
+1. **0-4:** Retrieve plan/30 cm cap, stock limit.
+2. **4-9:** Model same flat base and hands-off ten-second stability test.
+3. **9-21:** Build card model, each contributes support/window/entrance.
+4. **21-30:** Test standing twice and entrance width; record pass/not yet/cm,
+   propose one support revision.
+5. **30-35:** Each annotates actual model against views and test result.
+6. **35-40:** Store bases safely, count scissors/rulers, clear scraps.
+
+## Meeting 3: exactly 40 minutes
+
+1. **0-4:** "Which recorded test suggests the change?"
+2. **4-9:** Model support change without adding unbudgeted stock.
+3. **9-21:** Revise/retest twice ten seconds, same base; check >=4 cm entrance.
+4. **21-30:** Neighbor interprets model views; every pupil explains one
+   purposeful light/form decision, not a beauty contest.
+5. **30-35:** Individual before/after results, updated views and access limit:
+   model entrance is not a building-code certification.
+6. **35-40:** Count/store or flatten models; archive dated views.
+
+## Success/access/troubleshooting
+
+Meets: three understandable views, criteria/limits, actual retest and purposeful
+welcome/form explanation. Grade 3/support: view frames/precut parts/dictation.
+Grade 4/challenge: structural-versus-visual tradeoff. Collapse: record failure,
+widen supports/retest, no hidden extra tape. No cardboard: folded cardstock
+base, state changed material. Early finish: compare views to actual built model.
+
+**Family:** We joined sacred-space design, support tests and visual purpose.
+Ask, "Which feature welcomes a visitor?" Optional: notice a window in a picture.
