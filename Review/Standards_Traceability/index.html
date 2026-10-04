@@ -673,6 +673,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -1254,6 +1258,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../External_Alignment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    External Alignment Candidates
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../Gap_Analysis/" class="md-nav__link">
         
   
@@ -1318,6 +1350,34 @@
     
   
     Validation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../School_Release_Checklist/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    School Release Checklist
   
 
     
@@ -2032,7 +2092,11 @@
 <li><a href="../Standards_Traceability.csv">Download local standards traceability</a>.</li>
 <li><a href="../Material_Usage.csv">Download lesson-to-material terms and reconciliation status</a>.</li>
 <li><a href="../Kindergarten_External_Alignment/">Read source-verified K arts candidates</a>.</li>
+<li><a href="../External_Alignment/">Read the all-grade external-candidate guide</a>.</li>
 <li><a href="../Material_Reconciliation_Backlog.csv">Download the source-specific material reconciliation queue</a>.</li>
+<li><a href="../Lesson_Resources.csv">Download declared lesson/access resources</a>.</li>
+<li><a href="../Inventory_Usage_Summary.csv">Download planned inventory/resource use by grade</a>.</li>
+<li><a href="../Lesson_Baseline.csv">Download frozen baseline keys</a>.</li>
 <li><a href="../Local_Standards/">Read the local standards</a>, <a href="../Learning_Progression/">learning progression</a>
   and <a href="../Standards_Sources/">authoritative-source register</a>.</li>
 </ul>
@@ -2059,6 +2123,11 @@ individual performance evidence specified in the local progression.</p>
 <p>Filter the material-usage CSV by <code>grade_band</code>, <code>schedule</code> and <code>rotation</code> to see
 what the selected lessons name. <code>item_id</code> connects an exact canonical/alias
 name to the normalized inventory. This is <strong>text matching only</strong>, not verified
+<code>reference_kind</code> separates physical inventory from executable-platform access,
+teacher-prepared documentation and reported holdings. <code>RESOURCE:*</code> and
+<code>STOCK:*</code> references have no invented purchase price or verified ownership.
+Local access and hardware preflight remain explicit. A manufacturer manual
+is not the circuit kit, and a paper portfolio is not observed student mastery. This is <strong>text matching only</strong>, not verified
 item specifications, quantity sufficiency, ownership or safety. Unmatched and
 ambiguous terms are retained visibly for reconciliation rather than assigned
 an invented substitute. The inventory's verified-use count remains separate
@@ -2083,12 +2152,19 @@ claim needs all of the following:</p>
 does not establish official alignment. This enrichment program does not
 replace the school's science, mathematics, arts, ELA, social studies or
 religion curricula.</p>
+<p>The separate <a href="../External_Alignment/">exact external matrix</a> now contains
+29 source-specific candidates using sixteen identifiers. Its verified source
+scope and school/MDE-copy/national-framework boundaries are explicit.
+The general local-map field does not silently upgrade every other standard
+claim to official alignment.</p>
 <h2 id="updating-and-validating">Updating and validating<a class="headerlink" href="#updating-and-validating" title="Permanent link">&para;</a></h2>
 <p>The four band-audit CSVs are the source of the combined maps. From the
 repository root in PowerShell:</p>
 <div class="language-powershell highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="p">.\</span><span class="n">scripts</span><span class="p">\</span><span class="n">Build-CurriculumMaps</span><span class="p">.</span><span class="n">ps1</span>
 </span><span id="__span-0-2"><a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="p">.\</span><span class="n">scripts</span><span class="p">\</span><span class="n">Build-CurriculumMaps</span><span class="p">.</span><span class="n">ps1</span> <span class="n">-ValidateOnly</span>
-</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="n">mkdocs</span> <span class="n">build</span>
+</span><span id="__span-0-3"><a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="p">.\</span><span class="n">scripts</span><span class="p">\</span><span class="nb">Test-CurriculumMaps</span><span class="p">.</span><span class="n">ps1</span>
+</span><span id="__span-0-4"><a id="__codelineno-0-4" name="__codelineno-0-4" href="#__codelineno-0-4"></a><span class="p">.\</span><span class="n">scripts</span><span class="p">\</span><span class="nb">Test-LessonReferences</span><span class="p">.</span><span class="n">ps1</span>
+</span><span id="__span-0-5"><a id="__codelineno-0-5" name="__codelineno-0-5" href="#__codelineno-0-5"></a><span class="n">mkdocs</span> <span class="n">build</span> <span class="p">-</span><span class="n">-strict</span>
 </span></code></pre></div>
 <p>For the current K version-3.0 reference set, update lesson metadata and the
 individual-evidence definitions together, then run
@@ -2107,6 +2183,11 @@ and produces a material-term index without guessing unresolved matches.
 after editing the source audits or inventory and include those maps in the change.
 It does not infer official alignment, substitute usability, safety,
 developmental appropriateness or classroom mastery from a passing schema.</p>
+<p>The all-grade reference validator compares frozen baseline keys, requires a
+complete package for every selected lesson, checks actual local-code presence,
+contiguous native meeting intervals, class-size coverage and relative links.
+The band reviews retain the separate material-arithmetic/content desk checks.
+Structural validation is not an observed classroom trial.</p>
 
 
 

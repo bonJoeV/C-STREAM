@@ -673,6 +673,10 @@
       
         
       
+        
+      
+        
+      
     
     
     
@@ -1382,6 +1386,34 @@
   
   
     <li class="md-nav__item">
+      <a href="../External_Alignment/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    External Alignment Candidates
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../Gap_Analysis/" class="md-nav__link">
         
   
@@ -1446,6 +1478,34 @@
     
   
     Validation
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../School_Release_Checklist/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    School Release Checklist
   
 
     
@@ -2298,6 +2358,11 @@ robots. Different schedules or heavier consumable use need a revised annual
 allocation. None of these packages claims coverage of <strong>all 251 legacy lesson
 documents</strong>, specialty kits, every commercial curriculum or a full replacement
 of primary science/math/arts instruction.</p>
+<p><a href="../Inventory_Usage_Summary.csv">Planned inventory/resource use</a> groups exact
+references by canonical identity, grades and distinct lesson documents.
+These counts answer where an item/resource is planned without relabeling a
+catalogue occurrence as physically verified use. Select a schedule/rotation
+before annual costing; alternative tracks are not additive demand.</p>
 <p><strong>Existing inventory assumptions, not verified holdings:</strong> school provides
 25 pencils, 25 blunt scissors, shared crayons/markers, board/chalk or whiteboard,
 18 stable books/support blocks for bridge stations, a teacher timer, access to
@@ -2420,8 +2485,8 @@ arrow cards, reuse dry cups/sticks and keep models in school.</p>
 </tr>
 </tbody>
 </table>
-<p>Nine complete team kits give 27 places at 25 enrollment (eight teams of three,
-one of one). Rotate builder/tester/reporter and individual turns. K may use
+<p>Nine complete team kits provide capacity for 27. At 25 enrollment use seven
+trios and two pairs, not eight trios and a lone child. Rotate builder/tester/reporter and individual turns. K may use
 pairs for non-electrical tasks; buy/issue 13 trays or share nine trays with
 separate work areas. No K child handles the electrical parts. A teacher demo is
 not a replacement for the individual hands-on core in other domains.
@@ -2432,7 +2497,7 @@ buying "popsicle sticks" again as "wooden sticks." Per-unit costs use the stated
 unit: paper sheets, tape rolls of 10 m, block packs of 20, seeds packets of 50.
 Round supplier packs upward and re-cost. Stock status is NOT VERIFIED, not zero.</p>
 <h2 id="csv-integration-contract">CSV integration contract<a class="headerlink" href="#csv-integration-contract" title="Permanent link">&para;</a></h2>
-<p>The current inventory has <strong>74 item rows and 24 columns</strong>, in this exact order:</p>
+<p>The current inventory has <strong>114 named catalog rows and 24 columns</strong>, in this exact order:</p>
 <div class="language-text highlight"><pre><span></span><code><span id="__span-0-1"><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a>item_id,normalized_name,aliases,unit,unit_cost_estimate_usd,estimate_date,tier,grades,purpose,quantity_10,quantity_15,quantity_20,quantity_25,quantity_basis,reuse,annual_replacement_estimate,storage,safety,battery_needs,verified_lesson_use_count,estimated_core_meeting_uses,use_count_basis,school_stock_status,supplier_status
 </span></code></pre></div>
 <ul>
@@ -2461,8 +2526,10 @@ Round supplier packs upward and re-cost. Stock status is NOT VERIFIED, not zero.
   Rows labeled <code>Tier 1 assumed school stock</code> are conditional existing-stock
   assumptions, not purchases included in the bills below.</li>
 </ul>
-<p>The autonomous pass added twenty named physical/prepared resources and
-unambiguous aliases. The original 37-row purchase configurations are unchanged;
+<p>The completion passes added named physical, prepared and teacher-tool
+identities, plus unambiguous aliases. Separate
+<a href="../Lesson_Resources.csv">access/prepared/component resources</a> contain 32 identities
+without invented standalone hardware prices. The original 37-row purchase configurations are unchanged;
 do not sum all catalog rows as a purchase order. A prepared paper resource's zero
 <strong>additional item-purchase</strong> price excludes the separately priced paper/cards
 and teacher preparation. Water/ice entries retain facility/preparation checks,
@@ -2485,6 +2552,10 @@ A longer selected schedule, additional classes, simultaneous equipment use or
 heavier consumption must be costed separately. Do not multiply reusable kits
 by meetings; do multiply consumable allocations when the cohort/use basis grows.</p>
 <h2 id="four-bills-of-materials">Four bills of materials<a class="headerlink" href="#four-bills-of-materials" title="Permanent link">&para;</a></h2>
+<p><a href="../Budget_Configurations.csv">Download the selected purchase configurations</a>.
+<code>.\scripts\Test-MaterialsBudget.ps1</code> joins these 37 rows to catalog unit prices
+and checks the four ceilings and year-two arithmetic. Catalog additions and
+reported holdings are not silently added to these purchase bills.</p>
 <p>All quantities below are <strong>purchased totals</strong>, not incremental quantities to
 add to the previous column. Each cell costs quantity x CSV unit estimate.
 Existing inventory above is not included as a fictitious purchase.</p>
@@ -3094,51 +3165,56 @@ Name matching does not verify specifications, quantities, ownership or safety:</
 <tr>
 <td><a href="../Grades_1-2_Audit.csv">Grades 1-2</a></td>
 <td style="text-align: right;">74</td>
-<td style="text-align: right;">54</td>
-<td style="text-align: right;">5</td>
-<td style="text-align: right;">5</td>
+<td style="text-align: right;">63</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">1</td>
 <td style="text-align: right;">10</td>
-<td>Confirm real robots/hosts and optional magnifier stock; audited bridge/light quantities and power must be checked against core kit specifications.</td>
+<td>Exact grade-specific tools, quantities and operation turns are written; actual robot/host access and physical setup still need checking.</td>
 </tr>
 <tr>
 <td><a href="../Grades_3-4_Audit.csv">Grades 3-4</a></td>
 <td style="text-align: right;">71</td>
-<td style="text-align: right;">45</td>
-<td style="text-align: right;">9</td>
+<td style="text-align: right;">56</td>
 <td style="text-align: right;">0</td>
-<td style="text-align: right;">17</td>
-<td>Rebuilt bridge quantities remain separate. Three Snap circuit pathways require checked electrical kits but no digital devices; 25 pupils use five stations in two waves. Other proprietary/device lessons are not included in starter equipment.</td>
+<td style="text-align: right;">0</td>
+<td style="text-align: right;">15</td>
+<td>Pair-based bridge counts remain separate. Approved Snap and matching modular/USB routes are distinct; actual parts, manuals, power and station pretests remain required.</td>
 </tr>
 <tr>
 <td><a href="../Grades_5-6_Audit.csv">Grades 5-6</a></td>
 <td style="text-align: right;">69</td>
-<td style="text-align: right;">22</td>
-<td style="text-align: right;">26</td>
-<td style="text-align: right;">10</td>
-<td style="text-align: right;">11</td>
-<td>Protected AA circuits need physical materials, not digital devices. Verify programmable equipment and specialty supplies; inert paper replaces the forensic powder/identity activity.</td>
+<td style="text-align: right;">51</td>
+<td style="text-align: right;">3</td>
+<td style="text-align: right;">9</td>
+<td style="text-align: right;">6</td>
+<td>Exact mass packets, optics volumes, lids, rotors and tool roles are stated; compatibility, measured mass and real stock are not inferred from names.</td>
 </tr>
 <tr>
 <td><strong>Integrated total</strong></td>
 <td style="text-align: right;"><strong>251</strong></td>
-<td style="text-align: right;"><strong>149</strong></td>
-<td style="text-align: right;"><strong>49</strong></td>
-<td style="text-align: right;"><strong>15</strong></td>
-<td style="text-align: right;"><strong>38</strong></td>
-<td>Document records, not meetings, holdings or classroom certification.</td>
+<td style="text-align: right;"><strong>198</strong></td>
+<td style="text-align: right;"><strong>12</strong></td>
+<td style="text-align: right;"><strong>10</strong></td>
+<td style="text-align: right;"><strong>31</strong></td>
+<td>Complete document records, not meetings, holdings or classroom certification.</td>
 </tr>
 </tbody>
 </table>
 <p>The audit's bare technology enum supplies the primary-path label. These are
 current record classifications, not independent classroom certification.
-All 37 K primary-material term lists now match catalog names. Other bands
-retain documented readiness/term/specification work. The index currently has
-1,203 term occurrences: 727 exact name matches and 476 unresolved occurrences.
-Names and code labels do not establish specifications or observed holdings.
-The <a href="../Material_Reconciliation_Backlog.csv">237-term reconciliation queue</a>
-groups those 476 occurrences by source lesson and reason. It is not a purchase
-list; record formats, software/access, ambiguous adhesives and safety-critical
-parts remain distinct.
+Every listed identity in all four current audit term sets is now reconciled.
+The index has <strong>2,158 occurrences</strong>: <strong>1,965 physical-catalog names, 189 declared
+resource/component references and four reported-stock references</strong>. The
+<a href="../Material_Reconciliation_Backlog.csv">unresolved-term queue</a> is empty.
+This closes naming/type reconciliation, not vendor specifications, real
+holdings, observed use or safe equivalence. Required dimensions, load caps,
+capacity, model, enclosure, age, ingredients and compatibility come from the
+actual reference and its school preflight, not an alias.</p>
+<p>Examples of boundaries retained: floor-marking tape is not automatically
+masking tape; ten-gram packets are not counter loads; clear cups are not
+calibrated measures; plastic scoops are not five-milliliter spoons; book/support,
+wood/plank, mirror, lid and flexible-ruler roles remain distinct. Kit modules
+and model-matched USB cables do not silently add standalone purchases.
 The audits document recurring paper/tape/wood/ruler/observation needs across
 grades and real-device requirements beyond the low-tech core. They do not prove
 per-unit quantities, safe compatibility, available loans or actual stock.</p>
@@ -3146,8 +3222,10 @@ per-unit quantities, safe compatibility, available loans or actual stock.</p>
 and validate lesson-level quantities/safety before changing a verified use count.
 Do not count alternate weekly/bi-weekly versions as extra meetings or purchase
 both sets of annual consumables automatically.</p>
-<p><strong>Current CSV use counts:</strong> verified lesson-use counts are 0 (not verified, NOT
-a claim of no use) pending validated path-to-item/specification reconciliation;
+<p><strong>Current CSV use counts:</strong> verified actual/specification-use counts remain 0
+(not physically verified, NOT a claim of no use). The
+<a href="../Inventory_Usage_Summary.csv">planned-use summary</a> supplies distinct written
+lesson counts and source paths without relabeling those as observed usage;
 nonzero counts are explicitly ESTIMATED core
 meeting uses. They are not measurements or claims that all grade-band lessons
 were read by this workstream. Optional HOST/DASH/SPHERO/MODULAR/INPUT rows
@@ -3171,10 +3249,13 @@ example shapes passed. Edited-file whitespace checks passed.</p>
 <p>These are document/arithmetic checks, not supplier quotes, measured battery
 endurance, actual stock counts, classroom trials or full legacy coverage.
 The <a href="../Substitute_Readiness/">seven desk simulations</a> retain those limits.</p>
-<p>The autonomous follow-up expands the catalog to 68 rows, preserves all four
-original purchase totals, and resolves K primary-term names without assigning
-actual school stock or verified specification-use counts. The reported
-eight-kit holding remains a separate, uninspected record.</p>
+<p>The final catalogue has 114 named rows plus the separate 32-identity resource
+register. All four original purchase totals pass against the expanded catalogue.
+All named audit terms resolve with explicit physical/resource/component/holding
+classification; no actual stock or classroom-use count was fabricated.
+The eight-kit holding remains separate and uninspected. The complete references'
+10/15/20/25 quantity tables remain the exact issue lists; catalogue quantities
+are conservative planning stock, not simultaneous or cumulative annual demand.</p>
 
 
 
