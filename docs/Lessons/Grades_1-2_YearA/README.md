@@ -1,15 +1,24 @@
 ---
 title: "Grades 1-2 C-STREAM Lessons"
-description: "Complete year of C-STREAM lessons for Grades 1-2 (30-minute sessions)"
+description: "Year A Grades 1-2 lesson collection with audited pacing and readiness limits"
 ---
 
 # 📚 Grades 1-2 C-STREAM Lessons
 
 **Session Length:** 30 minutes  
-**Total Sessions:** 34 lessons  
+**Teaching Meetings:** 32 meetings in 20 lesson files; 34 calendar labels include two breaks
+
 **Grade Level:** Grades 1-2 (ages 6-8)
 
 ---
+
+## Audit, prerequisites and outcomes
+
+See the [Grades 1-2 review and downloadable audit](../../Review/Grades_1-2_Review.md). Thirteen priority lessons across the four tracks were fully rebuilt; remaining lessons have targeted corrections, **not universal substitute-ready certification**.
+
+Year A is a rotation, not Grade 1 only, and is not required before Year B. Reintroduce observation, safe tool use and picture sequences each fall. Grade 1 may point, tell or draw without independent reading; Grade 2 should explain choices, compare same-unit measurements and revise from evidence. Use each rebuilt lesson's individual checks; participation does not establish mastery.
+
+At 30 minutes, this collection supplies **960 minutes**, not 1,020. Weeks 17 and 32 are breaks. If the school requires 34 actual teaching meetings, schedule two evidence/reteach opportunities locally; they are not additional existing lesson files. Liturgical events follow the actual school calendar, not guaranteed numbered dates. The biweekly option is 17 meetings/510 minutes and does not promise equal depth.
 
 ## 📋 Grades 1-2 Pacing Notes
 
@@ -71,7 +80,7 @@ description: "Complete year of C-STREAM lessons for Grades 1-2 (30-minute sessio
 
 ## 📚 Materials Overview
 
-### School-Owned (Always Available)
+### Verify School Inventory (Availability Is Not Guaranteed)
 
 - iPads with ScratchJr, Sphero Edu apps
 
@@ -85,13 +94,15 @@ description: "Complete year of C-STREAM lessons for Grades 1-2 (30-minute sessio
 
 - Student STREAM journals
 
-### CSCOE Checkout Required
+### Possible Loans / Alternatives (Confirm Availability and Terms)
 
 - Dash Robots (Weeks 24-25)
 
-- Little Bits or Snap Circuits (Weeks 14-15)
+- Weeks 14-15 use flashlights and plastic safety mirrors; circuit kits are not required by that lesson.
 
-- Engineering is Elementary Kits (Weeks 7-9)
+- Weeks 7-9 can use screened cardboard/paper models; specialty kits are optional.
+
+Device lessons identify a **Required primary path** when actual robot/app execution is assessed. No-device cards/token alternatives assess algorithms, not real robot operation/programming. Verify app/model compatibility and charging before booking; do not rely on a promised loan. Reuse blocks, paper, rulers, flashlights and trays before buying a class set of robots.
 
 ---
 
@@ -141,7 +152,7 @@ By the end of the year, students in grades 1-2 will be able to:
 
 ## 📝 Lesson Format
 
-Each lesson includes:
+Legacy lessons generally contain:
 
 - **Lesson Overview** with objectives and STREAM focus
 
@@ -158,6 +169,8 @@ Each lesson includes:
 - **Substitute Teacher Notes**
 
 - **Home Connection** suggestions
+
+The fully rebuilt lessons add 30-minute numbered sequences including cleanup, class-size quantities for 10/15/20/25, visible safety, indoor/device fallbacks and measurable individual Grade 1/Grade 2 evidence. Source gates marked **VERIFICATION REQUIRED** must be resolved before teaching historical/doctrinal details; official benchmarks are not claimed. Home extensions are optional and equitable, with no routine homework.
 
 ---
 

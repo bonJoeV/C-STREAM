@@ -54,7 +54,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Natural Law** — The consistent laws of physics reflect God's orderly creation. Newton himself saw his discoveries as revealing God's design!
+**Order and reasoning** - Catholics may reflect on order in creation. Physical laws describe nature; Catholic moral "natural law" is not Newton's laws. Historical claims about Newton's beliefs **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"The heavens declare the glory of God; the skies proclaim the work of his hands."* — Psalm 19:1
@@ -70,7 +70,7 @@ By the end of this session, students will:
 1. **Physics = God's Order:**
    - Universe follows consistent laws
    - We can discover and use them!
-   - Isaac Newton: "This most beautiful system could only proceed from the dominion of an intelligent Being."
+   - The previously unsupported quotation is removed; historical biography needs an original source.
 2. **Newton's Three Laws:**
    - **1st Law (Inertia):** Objects stay at rest or in motion unless acted upon by a force
    - **2nd Law (F=ma):** Force = Mass × Acceleration
@@ -107,9 +107,9 @@ By the end of this session, students will:
 
 - Same ball, different ramps (angles)
 
-- More force (gravity) = more acceleration
+- Gravity's magnitude on the same ball does not increase with ramp angle; the component along the slope increases.
 
-- Different masses, same ramp
+- Keep the same ball and release method; changing mass and shape together is not a fair isolated test.
 
 **Observations:**
 
@@ -125,11 +125,7 @@ By the end of this session, students will:
 
 **Experiment: Balloon Rocket**
 
-- Inflate balloon on string track
-
-- Release: Air goes back, balloon goes forward!
-
-- Equal and opposite!
+- Draw a rocket/exhaust diagram and identify opposite forces on **different objects**. No balloons inflated by students, shared mouthpieces, latex, or launch activity in this lesson.
 
 **Other Examples:**
 
@@ -165,6 +161,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-S3 - individual's accurate force-pair explanation; CST-M1 - measured ramp outcome with units; CST-C1 - distinguish physical explanation from theological reflection. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+Primary tests use a large soft ball, ramp below 15 cm, and catching tray; adult checks supports. No brittle-object tablecloth stunt, projectiles, car-crash viewing, shared balloons, or students in rolling paths. Use a paper/card/large token demonstration in a tray for inertia. All work indoors; diagrams model rocket behavior, not a live launch.
 **Observation Checklist:**
 
 - [ ] Explained all three laws

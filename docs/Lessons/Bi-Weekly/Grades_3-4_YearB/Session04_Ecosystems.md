@@ -61,7 +61,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**St. Kateri Tekakwitha** — Lily of the Mohawks, lived in harmony with nature and saw God in all creation.
+**St. Kateri Tekakwitha** — Study her faith with a verified biography; do not infer ecological beliefs/practices from Indigenous ancestry. Specific biography claims are **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"For in him all things hold together."* — Colossians 1:17
@@ -96,21 +96,20 @@ By the end of this session, students will:
   - Sun → grass → deer → wolf → bacteria
   - Sun → algae → minnow → bass → eagle
 
-- Energy flows from sun through all living things!
+- These examples begin with sunlight; some ecosystems have producers using chemical energy. Arrows show food/source -> eater, not the reverse.
 
 **Part 2: Food Web Game (10 minutes)**
 
 - Students receive organism cards (plants, animals, decomposers)
 
-- Stand in circle
+- Place organism cards on desks or the floor while seated; lay short yarn pieces between cards
 
 - Pass yarn to show connections:
   - "I am a plant, I'm eaten by..." → pass yarn
   - Continue building web
 
-- Everyone holds yarn—see the connections!
-
-- What happens if one organism is removed? (Pull yarn—see effects!)
+- Observe connections without winding yarn around bodies or pulling it.
+- Remove one card; identify links no longer represented. This model does not prove the size or certainty of a real ecological cascade.
 
 **Part 3: Create Food Web Poster (8 minutes)**
 
@@ -187,7 +186,7 @@ By the end of this session, students will:
 
 - Food web yarn activity is powerful visual
 
-- Pull yarn to show cascade effects
+- Remove a card/link to discuss possible effects; no pulling on pupils
 
 - Connect to environmental stewardship
 
@@ -197,3 +196,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 3 — Tower Challenge](./Session03_Tower_Challenge.md)  
 **Next:** [Session 5 — Scratch Games](./Session05_Scratch_Games.md)
+
+## SAFETY / scale / individual evidence
+
+No body yarn webs, knots around fingers/necks, tugging, live animal contact or unknown natural specimens. Indoor photos/cards replace outdoor work in unsafe weather. Start with one producer, two consumers and a decomposer, using **source-checked diet cards**; nine organisms in eight minutes is optional extension, not minimum. Each pupil draws a correctly directed food-to-eater arrow and states one evidence-supported relationship. Species diets remain VERIFICATION REQUIRED until cards are prepared.

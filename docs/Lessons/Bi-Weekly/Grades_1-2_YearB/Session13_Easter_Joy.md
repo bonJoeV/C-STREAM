@@ -58,11 +58,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Catholic connection - VERIFICATION REQUIRED before teaching doctrinal details
 **The Risen Jesus** — The greatest moment in history: Jesus rose from the dead on Easter Sunday!
 
-### Scripture
-> *"He is not here; he has risen!"* — Luke 24:6
+### Scripture reference
+Luke 24:6; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Alleluia! Alleluia! Jesus is risen! Dear God, thank you for the gift of Easter and new life. Fill our hearts with joy today and always. Alleluia! Amen.*
@@ -188,7 +188,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / meaningful art / evidence
+Default paper collage/card; no real eggs/eggshells, glass, unknown plants or heavy stones. Indoor pictures require no spring-weather access. Grade 1 orally explains a chosen symbol; Grade 2 revises a visual detail after a partner explains what they understood. This assesses faith/art communication, not tested engineering or scientific resurrection evidence. **Technology: None primary path.** Last 3 creation minutes are cleanup; no routine homework or required supplies.
+
+## Wonder at Home 🏠 (optional; indoor picture discussion equally valid)
 **Family Activity:** Attend Easter Mass together! Look for Easter symbols at church. Create an Easter garden at home. Take an Easter nature walk and find signs of new life. Share Easter hope with neighbors!
 
 ---

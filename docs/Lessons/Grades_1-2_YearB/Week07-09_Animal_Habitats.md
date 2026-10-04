@@ -51,14 +51,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Stewardship of Creation** — God gave humans responsibility to care for animals and the earth. Designing habitats helps us understand what animals need so we can protect them.
 
-### Scripture Connection
-> "The Lord God took the man and put him in the Garden of Eden to work it and take care of it."
-> — Genesis 2:15
+### Scripture reference
+Genesis 2:15; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Francis of Assisi** — Patron of animals who called creatures his brothers and sisters. He teaches us to respect and care for all living things.
 
 ---
@@ -124,7 +123,7 @@ Students will be able to:
 
 - Insect (butterfly, bee, ladybug)
 
-- Reptile (turtle, frog)
+- Reptile (turtle); amphibian (frog)
 
 **Research questions:**
 1. What does your animal EAT?
@@ -245,7 +244,7 @@ Students will be able to:
 - Prepare to present
 
 ### Habitat Presentations (15 min)
-**Each student shares:**
+**Each student shares with a partner or a table group; teacher samples every individual's needs explanation at tables.** At 25 students, do not promise 25 full-class presentations in 15 minutes.
 1. "My animal is ___________."
 2. "Here is where it gets FOOD: ___________."
 3. "Here is where it gets WATER: ___________."
@@ -291,7 +290,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / habitat accuracy / evidence
+Models only: no live animal housing, wildlife collecting, nest disturbance or unapproved bird-feeder deployment. Teacher provides vetted species pictures/books; generic food examples are not care instructions for every species. Screen natural/recycled items; no sharp staples/glass. Grade 1 points to three species-specific needs orally; Grade 2 explains a condition/space choice and a model limitation. Use final 4 making minutes each meeting for cleanup. **Technology: None primary path**; printed/teacher-read species sources replace independent internet research.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We designed animal habitats! Ask your child: 'What animal did you research?' 'What four things do animals need?' 'How did you include them in your habitat?' We learned about St. Francis and caring for creation. Consider putting up a bird feeder or planting flowers for bees as a family stewardship project!"
 
 ---

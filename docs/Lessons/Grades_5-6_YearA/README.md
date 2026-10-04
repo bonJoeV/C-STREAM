@@ -7,12 +7,48 @@ description: "Year-long C-STREAM curriculum for Grades 5-6"
 
 ## Grade Band Overview
 
+## October 2026 review and teaching conditions
+
+This directory contains **20 lesson documents covering 32 planned 45-minute
+meetings (1,440 minutes)**, not 34 lesson files. Weeks 17 and 32 are breaks.
+The Expo adds a separately scheduled 60-75-minute event; buddy-class teaching
+also needs separate adult-supervised time. Calendar dates, Easter, Catholic
+Schools Week, and Pi Day must be fitted to the actual school year.
+
+Read the [Grades 5-6 review](../../Review/Grades_5-6_Review.md) and
+[69-lesson audit](../../Review/Grades_5-6_Audit.csv) before selecting lessons.
+Three documents here are fully rebuilt: Sphero Mastery, Little Bits &
+Electronics, and Environmental Science. Other documents have targeted fixes and
+individual local checks, **not full substitute-readiness certification**.
+Local codes are not Minnesota/Archdiocesan benchmarks; official alignment is
+**VERIFICATION REQUIRED**.
+
+Prerequisites are checked, not inferred from age or Year B attendance: centimeter
+measurement, sequence/loops, short written/oral explanations, and comparison of
+trial data. Grade 5 receives templates and worked arithmetic; Grade 6 adds
+means, uncertainty, tradeoffs, and defensible redesign. No trigonometry assumed.
+Year A/B may be taken in either order; provide a short entry check and teach
+missing skills. They revisit design, coding, service, and environment; they are
+not wholly unique or proven equivalent in standards coverage.
+
+Loan stock, compatible apps, approved accounts, protected circuit holders, and
+school devices are **not confirmed available**. Paper paths assess reasoning,
+not actual robot/app operation. Circuits need inspected protected AA holders,
+not button cells. The indoor environment dataset is fictional and sufficient
+in winter; no unsafe fieldwork or home collection required.
+
+For retained content, all unsourced exact Scripture translations, saint sayings,
+biographical/current-role details, historical superlatives, and scientific
+statistics are **VERIFICATION REQUIRED before teaching**. Use verified paraphrase
+instead of unchecked quotation. No routine homework, required family purchasing,
+or public student media.
+
 | | |
 |---|---|
 | **Grade Level** | 5th and 6th Grade |
 | **Session Length** | 45 minutes |
-| **Sessions per Year** | 32-34 sessions |
-| **Technology Focus** | Sphero (mastery), Scratch (advanced), micro:bit, robotics |
+| **Sessions per Year** | 32 planned meetings plus separately approved events |
+| **Technology Focus** | Algorithms, optional Sphero/Scratch, protected-AA circuits |
 
 ---
 
@@ -45,7 +81,7 @@ description: "Year-long C-STREAM curriculum for Grades 5-6"
 | Week | Lesson | Focus |
 |------|--------|-------|
 | 24-25 | [Advanced Scratch](Week24-25_Advanced_Scratch.md) | T |
-| 26-27 | [Little Bits](Week26-27_Little_Bits.md) | T, E |
+| 26-27 | [Snap Circuits: Accessible Indicators](Week26-27_Little_Bits.md) | C, S, T, E |
 | 28 | [Pi Day](Week28_Pi_Day.md) | M, T |
 | 29-31 | [Environmental Science](Week29-31_Environmental_Science.md) | S, E, R |
 
@@ -76,7 +112,7 @@ By the end of the year, students will:
 
 - Master Scratch programming (functions, clones, advanced logic)
 
-- Program micro:bit for physical computing
+- Model input/output and operate protected-AA circuits when safe kits are available; micro:bit has no dedicated lesson in this sequence.
 
 - Use technology for data collection and analysis
 
@@ -141,7 +177,7 @@ By the end of the year, students will:
 13. [Weeks 19-22: Passion Projects](Week19-22_Passion_Projects.md)
 14. [Week 23: Catholic Schools Week: Faith & Science](Week23_Catholic_Schools_Week.md)
 15. [Weeks 24-25: Advanced Scratch](Week24-25_Advanced_Scratch.md)
-16. [Weeks 26-27: Little Bits](Week26-27_Little_Bits.md)
+16. [Weeks 26-27: Snap Circuits - Accessible Indicators](Week26-27_Little_Bits.md)
 17. [Week 28: Pi Day](Week28_Pi_Day.md)
 18. [Weeks 29-31: Environmental Science](Week29-31_Environmental_Science.md)
 19. [Week 33: Easter Engineering](Week33_Easter_Engineering.md)
@@ -157,7 +193,7 @@ By the end of the year, students will:
 
 - **Scratch 3.0** — Advanced game and simulation design
 
-- **micro:bit** — Physical computing and wearables
+- **micro:bit** - optional future extension, not promised coverage or a prerequisite
 
 - **Chromebooks/computers** — Coding, research, presentation
 

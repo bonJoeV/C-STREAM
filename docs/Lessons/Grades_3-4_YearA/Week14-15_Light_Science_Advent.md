@@ -106,9 +106,9 @@ Students will be able to:
 
 **1. Light travels in straight lines**
 
-- Demonstrate with flashlight and dust particles
+- Demonstrate with aligned holes in three paper cards; do not add airborne dust
 
-- "That's why shadows have sharp edges"
+- "Objects block light; shadows can have sharp or blurred edges depending on the source and distances"
 
 **2. Light can be reflected**
 
@@ -289,3 +289,7 @@ Students will be able to:
 ---
 
 **Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+
+## SAFETY
+
+Use plastic cups and acrylic mirrors/prisms, low-power flashlights, and pictures of candles or sealed battery lights only. No flames, loose coin cells, laser pointers, sun-viewing or beams aimed at eyes. Keep enough room light for safe movement, no fully dark station rotation; wipe spills before moving. Indoor work does not depend on winter daylight. Treat spiritual light as symbolism, not a property measured by the experiment. Specific liturgical wording/orientation and St. Lucy imagery are **VERIFICATION REQUIRED** with school/parish guidance.

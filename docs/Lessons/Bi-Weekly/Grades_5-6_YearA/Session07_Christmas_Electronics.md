@@ -1,213 +1,108 @@
 ---
 title: "Session 7: Christmas Electronics"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A circuits"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - engineering
-  - light
-  - circuits
-  - astronomy
-  - advent
-  - thanksgiving
-  - christmas
-  - arts
----
-
-
-# Session 7: Christmas Electronics 🎄
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 7 of 17
-
-Students use Little Bits to create interactive Christmas/Advent electronic projects.
-
+description: "A safe push-to-light Advent model with individual circuit evidence"
+version: "2.0"
+date: 2026-10-04
 ---
 
 # Session 7: Christmas Electronics
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
 
-- Apply electronic circuit concepts
+| Field | Teacher reference |
+|---|---|
+| Grade / unit / title | Grades 5-6 / Physical Computing A / Christmas Electronics |
+| Time | One 45-minute meeting |
+| Domains | C, S, T, A |
+| Big idea | Physical light needs a closed powered circuit; Advent light is a theological symbol, not an electrical claim. |
+| Student objective | I can explain push/release behavior and design a clear light-symbol display. |
+| Why | Switches and accessible visual signals are useful everyday technologies. |
+| Catholic connection | Reflect on Christ as light using the school's approved Advent teaching; daylight in Minnesota generally **decreases until the winter solstice**, not throughout Advent. Stewardship/dignity: [sources](../../../Review/Grades_5-6_Review.md#verified-sources). |
+| Local standards / evidence | CST-S3: individual complete-path diagram; CST-T1: input/output state predictions; CST-A2: purposeful label/symbol tested by peer; CST-C3: individual reuse/safe-resource decision. |
+| Official benchmarks | VERIFICATION REQUIRED; four local codes only. |
+| Technology | **None:** no digital or programmable device is needed. Protected AA kits remain required materials for physical circuit operation. Optional Little Bits uses its manufacturer supply. Paper fallback demonstrates reasoning/symbol design, not actual circuit operation. |
+| Difficulty / prerequisites | Moderate; open/closed circuit introduced here. No previous electronics assumed. |
+| Prep / cleanup | First kit 30 minutes, repeat adult inspection 15 minutes; cleanup 4 included. |
 
-- Design interactive electronic projects
+## BEFORE CLASS
 
-- Use inputs, outputs, and logic in circuits
+1. Make 4/5/7/9 teams of at most three and rotate connector, observer, recorder.
+2. Adult prepares one enclosed-contact **protected two-AA holder with built-in current/short-circuit protection**, matching cells, a push switch, and a red LED with a 220-ohm 1/4-watt series resistor and sleeved joints. A plain holder is not adequate.
+3. Pre-test path: `holder + -> push switch -> resistor -> LED anode (+) -> LED cathode (-) -> holder -`, using three insulated clip leads. Connections change only with holder OFF; adult checks each before ON.
+4. Put kits on dry trays and display paper symbols. All circuits remain at school; no real candles or wearable electronics.
 
-- Create meaningful Advent/Christmas creations
+## MATERIALS
 
----
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Individual diagram/state sheet | 1/student | 10 | 15 | 20 | 25 |
+| Protected enclosed 2-AA holder; push switch; sleeved red LED/resistor assembly | 1 each/team | 4 | 5 | 7 | 9 |
+| Matching AA cells | 2/team | 8 | 10 | 14 | 18 |
+| Insulated clip leads | 3/team | 12 | 15 | 21 | 27 |
+| Clean recycled 20 x 20 cm cardboard base; cardstock label | 1 each/team | 4 | 5 | 7 | 9 |
+| Marker; ruler; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Tape | 0.5 m/team | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Timer; spare protected kit | 1 each/teacher | 1 | 1 | 1 | 1 |
 
-# Session 7: Christmas Electronics
+Optional Little Bits: one tested power/button/light kit/team using only its specified supply. No loan availability promised. Do not combine supplies or treat the colored signal chain as the physical return-path diagram.
 
-## Materials Needed
+## VOCABULARY
 
-- 💡 Little Bits kits (from CSCOE library)
+**Input:** push action. **Output:** light response. **Closed path:** conducting route including return to source. **Resistor:** limits current. **Symbol:** image conveying meaning, not scientific evidence.
 
-- 📦 Craft materials for mounting
+## TEACHER BACKGROUND
 
-- 📓 Engineering journals
+A single push switch closes the path while pressed; releasing opens it. The resistor and holder protection have different purposes. The LED transfers energy into light and thermal energy; current is not "used up." A paper Advent star/wreath label can be purposeful communication without building four powered candles.
 
-- 🎄 Christmas/Advent theme supplies
+**Common misconception:** brighter light proves stronger faith.
 
----
+**If asked, "Does the circuit explain Jesus?"** Answer: No. It explains an electrical system; light can be a meaningful faith symbol without treating Christ or people as circuit components.
 
-## Catholic Integration
+Teacher key: holder OFF/released -> off; OFF/pressed -> off; ON/released -> off; ON/pressed -> light.
 
-### Saint Connection
-**St. Lucy** — Her name means "light." She brought hope during dark times. Celebrated during Advent!
+## EXACT LESSON SEQUENCE
 
-### Scripture
-> *"The people walking in darkness have seen a great light."* — Isaiah 9:2
+1. **0-5 (5 min):** Introduce Advent light symbolism and stewardship; explicitly correct daylight misconception.
+2. **5-12 (7 min):** Adult demonstrates OFF assembly, inspection, and four-state test.
+3. **12-20 (8 min):** Each student sketches complete path; team connects OFF and waits for adult approval. Other members prepare purposeful symbol/large label while circuits are inspected.
+4. **20-30 (10 min):** Adult-approved teams run four states, rotate operator, record expected/actual. Mount circuit without covering holder/protection.
+5. **30-38 (8 min):** Another team interprets symbol/label without coaching. Revise one unclear label; retest push/release twice, adult reinspects after wiring changes.
+6. **38-41 (3 min):** Individual exit: explain path interruption, one visual choice, and one responsible material decision.
+7. **41-45 (4 min):** Turn OFF; adult controls battery removal and storage.
 
-### Opening Prayer
-*Dear Jesus, you are the Light of the World. As we prepare for Christmas, help us create projects that spread your light and love. Come, Lord Jesus! Amen.*
+## QUESTIONS TO ASK STUDENTS
 
----
+Why does release turn the LED off? Where is the return path? What does your label communicate? Why aren't seasonal daylight and an Advent symbol the same kind of claim?
 
-## Lesson Procedure
+## WHAT SUCCESS LOOKS LIKE
 
-### Opening Circle (7 minutes)
-1. **Advent & Light:**
-   - Shortest days, longest nights
-   - Light grows as Christmas approaches
-   - Jesus = Light breaking into darkness
-2. **St. Lucy:**
-   - Name means "light"
-   - Brought food to hiding Christians wearing candle crown
-   - Celebrated December 13
-3. **Little Bits Review:**
-   - Blue = Power
-   - Pink = Inputs (buttons, sensors)
-   - Green = Outputs (lights, sounds, motors)
-   - Orange = Wires
-4. **Today:** Create interactive Advent/Christmas electronics!
+Each student labels five path components, predicts all four states, and explains a peer-tested visual choice. Grade 5 uses open/closed explanation; Grade 6 additionally explains why bypassing resistor/protection is not a valid brightness improvement. Record actual operation separately from paper reasoning.
 
-### Main Activity: Christmas Electronics (30 minutes)
+## IF THINGS GO WRONG
 
-**Part 1: Circuit Planning (5 minutes)**
+No light: OFF first; adult checks polarity, assembly, cells. Hot kit: stop/remove from use. No safe kits: draw state model and label; mark **circuit reasoning only, no operation evidence**. Too slow: omit enclosure complexity, keep one LED and label.
 
-**Choose a Project:**
+## SAFETY
 
-**Option A: Interactive Nativity**
+Protected AA holders, **no button/coin cells, bare terminals, shorting, mains experiments, or supply substitutions**. Adult inspects before every energizing. Never connect battery leads directly, bypass resistor/protection, mix cells, recharge disposable cells, or use water near circuits. No candles, soldering, wearable electronics, or take-home powered gifts.
 
-- Light sensor triggers star light
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-- Sound activated Angel "Gloria!"
+Grade 5: preprinted path, tactile switch label, oral exit. Challenge: identify interruption in a diagram. Grade 6: same core path; challenge compare diagram versus optional module signal chain. Use high-contrast symbols, not color alone; allow observer/recorder roles for fine-motor needs.
 
-- Motion-triggered stable lights
+## INDOOR FALLBACK
 
-**Option B: Advent Wreath**
+Dry indoor primary path; paper reasoning fallback is complete for shifted objectives in any season.
 
-- Buttons for each candle
+## CLEANUP
 
-- Progressive lighting (week 1, 2, 3, 4)
+OFF before handling. Adult counts cells and holders, isolates damaged components, separates leads from battery terminals, stores kits at school, and saves individual diagrams.
 
-- Light sensor for "darkness to light"
+## FAMILY NEWSLETTER
 
-**Option C: Christmas Card/Gift**
+**Explored:** switches and light symbolism. **Did:** tested push/release and revised a clear display. **Learned:** circuits need a complete path. **Catholic connection:** meaningful Advent symbols and stewardship. **Ask:** "How is a circuit explanation different from a faith symbol?" No routine homework or home battery project.
 
-- Touch-activated music
+**Previous:** [Session 6 - Thanksgiving Innovation](./Session06_Thanksgiving_Innovation.md)
 
-- Light-up elements
-
-- Personalized message display
-
-**Option D: Light of the World Display**
-
-- Darkness sensor activates light
-
-- "Light in darkness" demonstration
-
-- Interactive elements
-
-**Part 2: Build & Test (20 minutes)**
-
-**Circuit Building:**
-1. Plan circuit on paper (2 min)
-2. Gather Little Bits components (2 min)
-3. Build circuit in stages:
-   - Power first
-   - Add input
-   - Add output
-   - Test each stage
-4. Mount on project base (5 min)
-5. Refine and debug (3 min)
-
-**Part 3: Demonstration & Gallery (5 minutes)**
-
-- Share creations
-
-- Explain circuit and meaning
-
-- Celebrate the light!
-
-### Engineering Journal (5 minutes)
-1. Draw your circuit (label components)
-2. Explain what each part does
-3. Write: "Light is important at Advent because..."
-4. Write: "My creation represents..."
-
-### Closing Circle (3 minutes)
-1. **Light Celebration** — All circuits light up!
-2. **Advent Hope** — "What does Jesus' light mean to you?"
-3. **Closing Prayer** — *"Jesus, Light of the World, shine in our hearts. Help us bring your light to everyone we meet. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Built working circuit
-
-- [ ] Used inputs and outputs
-
-- [ ] Created meaningful project
-
-- [ ] Connected to faith theme
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler single-input circuit
-
-- Partner work
-
-- Template circuit design
-
-### For Advanced Students
-
-- Multiple inputs/outputs
-
-- Logic modules
-
-- Interactive sequence
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your creation with family! Discuss light symbolism in Advent. Notice how light increases as Christmas approaches. Create more light-themed projects together!
-
----
-
-## Teacher Notes
-
-- Reserve Little Bits from CSCOE
-
-- Test all components before class
-
-- Projects make great gifts
-
-- Display at Christmas concert
-
----
-
-**Previous:** [Session 6 — Thanksgiving Innovation](./Session06_Thanksgiving_Innovation.md)  
-**Next:** [Session 8 — App Inventor](./Session08_App_Inventor.md)
+**Next:** [Session 8 - App Inventor](./Session08_App_Inventor.md)

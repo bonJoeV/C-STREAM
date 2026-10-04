@@ -58,11 +58,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies/traditions
 **St. Cecilia** — Patron saint of music! She sang to God even in difficult times.
 
-### Scripture
-> *"Praise him with the sounding of the trumpet, praise him with the harp and lyre... praise him with strings and pipe."* — Psalm 150:3-4
+### Scripture reference
+Psalm 150:3-4; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for the gift of sound and music. Help us use music to praise you! Like St. Cecilia, may our songs bring joy to heaven. Amen.*
@@ -88,7 +88,7 @@ By the end of this session, students will:
 - Try different sound makers:
   - Pluck rubber bands of different sizes
   - Shake containers with different contents
-  - Blow across bottle tops
+  - Observe a teacher plucking a short secured rubber band; no shared mouth instruments.
 
 - "What do you notice?"
 
@@ -113,20 +113,10 @@ By the end of this session, students will:
 - Decorate!
 
 **Option C: Drum**
+Use a closed cardboard box and fingertip tapping, not balloons, cans or rigid striking sticks.
 
-- Stretch balloon over cup/can
-
-- Tap with pencil/straw
-
-- Try different sizes
-
-**Option D: Kazoo**
-
-- Paper tube + wax paper
-
-- Secure wax paper on end with rubber band
-
-- Hum into open end
+**Option D: Rhythmic card**
+Tap a drawn two-beat/four-beat pattern on the desk with fingertips. This explores rhythm; it does not replace vibration/pitch evidence unless separately demonstrated.
 
 
 - All students: Test and improve your instrument
@@ -185,7 +175,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / sound evidence / cleanup
+No latex balloons, shared mouthpieces, glass bottles, sharp cans or open rice/beans. Teacher permanently seals/counts shakers; if leakage occurs remove and use claps. Short secured bands only, away from faces; omit bands if latex clearance fails. Keep volume comfortable; quiet/visual vibration alternative by choice. Grade 1 points to vibration and contrasts soft/loud; Grade 2 changes one safe vibration feature and describes result. Pre-made decoration alone is not sound mastery. **Technology: None primary path.** Last 3 building minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; gentle clapping needs no materials)
 **Family Activity:** Make instruments at home using household items! Experiment with pots and pans, rubber bands and boxes, containers with different fillings. Have a family praise concert!
 
 ---

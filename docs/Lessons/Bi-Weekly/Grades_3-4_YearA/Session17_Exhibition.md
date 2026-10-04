@@ -61,7 +61,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**All Our Saints** — This year we met: St. Juan Diego, Blessed Carlo Acutis, St. Patrick, St. Francis, St. Vincent de Paul, St. Lucy, St. Joseph, St. Thomas Aquinas, and more!
+**Saints discussed** — St. Juan Diego, St. Carlo Acutis, St. Patrick, St. Francis, St. Vincent de Paul, St. Lucy, St. Joseph and St. Thomas Aquinas; current saint titles matter.
 
 ### Scripture
 > *"Well done, good and faithful servant!"* — Matthew 25:21
@@ -212,9 +212,9 @@ By the end of this session, students will:
 
 **This year you:**
 
-- ✅ Mastered the engineering design process
+- Practiced the engineering design process; mastery requires individual evidence
 
-- ✅ Programmed Dash robots
+- Planned routes; claim real Dash programming only for pupils whose operation was observed
 
 - ✅ Built bridges and tested strength
 
@@ -229,7 +229,7 @@ By the end of this session, students will:
 - ✅ Connected faith to every project!
 
 **Saints You Met:**
-St. Juan Diego • Bl. Carlo Acutis • St. Patrick • St. Francis • St. Lucy • St. Vincent de Paul • St. Joseph • St. Thomas Aquinas • Mary Magdalene
+St. Juan Diego • St. Carlo Acutis • St. Patrick • St. Francis • St. Lucy • St. Vincent de Paul • St. Joseph • St. Thomas Aquinas • Mary Magdalene
 
 **Skills You Developed:**
 Engineering • Coding • Scientific Thinking • Design • Problem-Solving • Collaboration • Perseverance • Faith Integration

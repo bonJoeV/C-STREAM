@@ -48,14 +48,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
-**Building for Good** — The Tower of Babel story teaches that building for pride fails, but building for God's purpose succeeds. Engineers can use their skills to serve others and glorify God.
+### Catholic Teaching Connection - VERIFICATION REQUIRED
+Genesis 11 is a theological story to read from an approved source, not a guarantee that a faithful engineer's structure succeeds. Good engineers learn from failed models and can serve others without a winning tower.
 
-### Scripture Connection
-> "Unless the Lord builds the house, the builders labor in vain."
-> — Psalm 127:1
+### Scripture reference
+Psalm 127:1; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Joseph the Worker** — Patron of workers and craftsmen. He built things with his hands to provide for his family and serve others, not for pride.
 
 ---
@@ -253,7 +252,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / evidence / cleanup
+Tabletop tower height **maximum 30 cm**, soft eraser load only, never a ball/book/heavy weight. Clear hands/faces for 10-second tests; no climbing or catching a collapse. Replace "even taller" goal with same-height stability comparison. Grade 1 points to base and compares two tests; Grade 2 records height in the same units before/after one redesign. Last 4 building minutes each meeting are tool count/storage/cleanup. **Technology: None primary path.**
+
+## 📎 Home Connection (optional; no routine homework)
 > "We engineered towers this week! Ask your child: 'What makes a tower stable?' 'What was your tallest tower?' 'What did you learn when it fell?' We discussed building for service vs. pride (Tower of Babel). Try building towers at home with blocks, cards, or household items!"
 
 ---

@@ -1,165 +1,70 @@
 ---
 title: "Session 05: Simple Machines"
-description: "Kindergarten Bi-Weekly C-STREAM exploring ramps and rolling"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - light
-  - astronomy
-  - animals
-  - thanksgiving
-  - service
-  - arts
+description: "A low contained ramp with roll, slide and stay outcomes"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-S2, CST-E1, CST-M1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 4
+materials: [Clean corrugated cardboard, Stable school support book or block, Team sorting tray, Large classroom ball, Large wooden building blocks, Metric ruler, Plain paper, Shared school crayon set]
 ---
 
 # Session 05: Simple Machines
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 5 of 17
+## Lesson at a glance
 
-Students discover how ramps (inclined planes) make work easier, exploring how things roll and slide.
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Ramps / one 25-minute meeting |
+| Domains / big idea | C, S, E, M; shape and ramp slope affect observed movement |
+| Objective / why | "I can compare the same object on two low ramps and report roll, slide or stay." Fair tests help us understand useful tools. |
+| Catholic connection | Accessible routes serve people; a toy ramp is not approved for a person. |
+| Local standards | CST-C2: access need; CST-S2: fair comparison; CST-E1: contained low-ramp criterion; CST-M1: compare rise. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 15 minutes / 4 included |
 
----
+## Before class and materials
 
-# Session 05: Simple Machines
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Adult pretests a smooth 30 cm ramp into a catch tray at rises **5 and 10 cm**.
+Stabilize supports; mark the same release point. Budget 5/8/10/13 kits;
+active teams 5/7/10/12. Ball is >=5 cm, blocks have no loose parts.
 
-## Learning Objectives
-By the end of this session, students will:
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: ramp; tray; ball; large test block; ruler | 5 each | 8 each | 10 each | 13 each |
+| Kit: two stable low supports | 10 | 16 | 20 | 26 |
+| Student: half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
 
-- Understand that ramps help move things
+Teacher timer/roster, adult-only setup scissors, one budgeted demo kit.
 
-- Predict and test which objects roll
+## Vocabulary, background and SAFETY
 
-- Compare steep vs. gentle ramps
+Ramp = inclined surface; roll = turn while moving; slide = move without rolling;
+stay = no visible movement. Gravity does not become stronger at the taller
+classroom ramp. Do not infer speed from travel distance or guarantee every
+block stays. If asked which is a wheelchair ramp, explain our desk model does
+not meet real construction/accessibility standards.
+No launches, races, marbles, body ramps, heights above 10 cm or floor traffic.
+Teacher changes supports; keep hands away from the contained descending object.
 
-- See how simple machines help people
+## Exact sequence: 25 minutes
 
----
+1. **0-4:** Explain accessible-route purpose and contained tabletop criterion.
+2. **4-8:** Compare marked rises; model release without pushing and three outcome words.
+3. **8-17:** Children predict/test ball and block; teacher resets rise, children
+   repeat the **same object** from the same point. Swap turns; begin checks.
+4. **17-21:** Child names actual motion, indicates changed rise/kept-same object
+   and uses ruler/reference to compare gentle versus steeper.
+5. **21-25:** Save records, remove elevated boards safely, count pieces and clear.
 
-## Materials Needed
+## Success, access, troubleshooting and family copy
 
-- 📦 Ramp boards (cardboard, books, or boards)
-
-- 🎾 Rolling objects (balls, toy cars, cylinders)
-
-- 📦 Non-rolling objects (blocks, crayons, toy animals)
-
-- 📏 Masking tape (for starting lines)
-
-- 🖍️ Wonder Journals and crayons
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Isidore the Farmer** — He used simple tools and machines to help grow food for others!
-
-### Scripture
-> *"Whatever you do, work at it with all your heart, as working for the Lord."* — Colossians 3:23
-
-### Opening Prayer
-*Dear God, thank you for giving people ideas to make work easier. Help us use our minds to solve problems and help others. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (4 minutes)
-1. **Wonder Question** — "How do we get heavy things to move?"
-2. **Show Ramp** — "This is called a RAMP or an inclined plane"
-3. **Real-World Examples** — Wheelchair ramps, slides, driveways
-4. **Prediction** — Hold up a ball: "What will happen if I put this on the ramp?"
-
-### Main Activity: Ramp Exploration (15 minutes)
-
-**Part 1: Roll or Not? (5 minutes)**
-
-- Set up ramps around the room
-
-- Students predict: Will it roll? 🎾 or stay? 📦
-
-- Test various objects
-
-- Sort into "Rollers" and "Stayers"
-
-**Part 2: Steep vs. Gentle (7 minutes)**
-
-- Make ramps at different heights
-
-- **Challenge Questions:**
-  - Which ramp makes things go faster?
-  - Which ramp makes things go farther?
-  - Which ramp would be easier to push a heavy box up?
-
-- Students test and observe
-
-**Part 3: Race Time! (3 minutes)**
-
-- Partner races: Which object rolls fastest?
-
-- Celebrate discoveries!
-
-### Wonder Journal (3 minutes)
-1. Draw a ramp with something rolling
-2. Draw what happened!
-
-### Closing Circle (3 minutes)
-1. **Discovery Share** — "What did you learn about ramps?"
-2. **Helping Others** — "How do ramps help people?" (wheelchairs, strollers, carts)
-3. **Closing Prayer** — *"Thank you, God, for simple machines that help us. Help us always think of ways to help others. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Made predictions before testing
-
-- [ ] Identified which objects roll
-
-- [ ] Noticed differences between steep/gentle ramps
-
-- [ ] Connected ramps to helping people
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on two clear comparisons (ball vs. block)
-
-- Work one-on-one during exploration
-
-- Use hand-over-hand to place objects
-
-### For Advanced Students
-
-- Measure how far objects travel
-
-- Create a ramp from classroom materials
-
-- Predict and test multiple variables
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Find ramps in your neighborhood! Look for wheelchair ramps, slides, driveways, parking garage ramps. Make a ramp at home with a book and test what rolls. What goes fastest?
-
----
-
-## Teacher Notes
-
-- Simple machines kit available from CSCOE library
-
-- Heavy books make good ramp supports
-
-- This connects to future physics concepts (gravity, friction)
-
----
-
-**Previous:** [Session 04 — Colors & Light](./Session04_Colors_Light.md)  
-**Next:** [Session 06 — Thanksgiving Wonder](./Session06_Thanksgiving.md)
+Check actual outcome, fair comparison, low-ramp constraint and a service reason.
+Ask "Was it rolling, sliding or staying? What changed?"
+Support: adult releases under child's direction; two pictured outcomes first.
+Challenge: repeat to check agreement, never change several variables at once.
+Object escapes tray: stop, contain/stabilize before resuming. No safe ramp:
+teach a labeled drawing and defer movement evidence. Indoors; no home test needed.
+**Family:** We compared the same object at two low ramp rises.
+Ask, "Did it roll, slide or stay?" No purchases or routine homework.

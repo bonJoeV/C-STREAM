@@ -9,7 +9,38 @@ description: "17-session STREAM curriculum for alternate years"
 ## Overview
 **Sessions:** 17 (bi-weekly) | **Duration:** 45 minutes each | **Year B Rotation**
 
-Advanced C-STREAM experiences for upper elementary students, alternating with Year A to provide two years of unique content in combined-grade classrooms.
+Upper-elementary C-STREAM experiences, alternating with Year A in either order.
+Contexts differ but core design, programming, service, and exhibition topics recur;
+the rotation does not guarantee wholly unique content or comprehensive coverage.
+
+## October 2026 review and teaching conditions
+
+**17 documents, 17 planned 45-minute meetings (765 minutes)**. A bi-weekly
+introduction is not the same instructional dose as the weekly units. Use the
+[Grades 5-6 review](../../../Review/Grades_5-6_Review.md) and
+[69-lesson audit](../../../Review/Grades_5-6_Audit.csv).
+
+Sphero Sensors and Forensic Science are fully rebuilt; retained lessons have
+targeted safeguards/local individual checks, **not complete substitute readiness**.
+Forensic evidence is fictional inert paper only, not real fingerprints, powders,
+profiling, or accusations. Sensor core is stationary threshold reasoning, not
+direction-finding or autonomous navigation. Robot Olympics forbids collisions.
+
+Entry checks: count/compare, observation versus inference, sequence/if-else,
+diagram labels. Grade 5 uses supplied rules and evidence cards; Grade 6 adds
+source dependence, boundary uncertainty, and defended tradeoffs. Neither
+rotation requires prior completion of the other.
+
+Loans/devices, compatible software, approved accounts, and school inventory are
+unconfirmed. The complete paper sensor path has shifted objectives: it does not
+prove actual measurement/programming/robot operation. Retained game/app/research
+sessions need further prepared starters; no-drone/no-Python coverage is promised.
+
+Unsourced exact Scripture wording, saint quotations/biographies, first-university
+or discovery claims, current roles, and numerical statistics are **VERIFICATION
+REQUIRED before teaching**. Use verified paraphrase and admit historical
+complexity. Local CST codes are not official; official benchmarks **VERIFICATION
+REQUIRED**. No routine homework, required home devices/donations, or public media.
 
 ---
 
@@ -30,7 +61,7 @@ Year B covers the same core skills and concepts as Year A but with:
 
 ## Technology & Resources
 
-### From CSCOE Library
+### Optional Loans - Availability Must Be Confirmed
 
 - Sphero BOLT robots (advanced programming)
 
@@ -53,9 +84,9 @@ Year B covers the same core skills and concepts as Year A but with:
 | Session | Title | Theme | Technology |
 |---------|-------|-------|------------|
 | 1 | [Engineering Thinking](./Session01_Engineering_Thinking.md) | Design process mastery | Design journals |
-| 2 | [Sphero Sensors](./Session02_Sphero_Sensors.md) | Advanced sensor programming | Sphero BOLT |
+| 2 | [Sphero Sensors](./Session02_Sphero_Sensors.md) | Light-threshold model; stationary BOLT optional | Paper primary |
 | 3 | [Architecture Engineering](./Session03_Architecture.md) | Building design | KEVA Planks |
-| 4 | [Forensic Science](./Session04_Forensic_Science.md) | Scientific investigation | Lab materials |
+| 4 | [Forensic Science](./Session04_Forensic_Science.md) | Fictional evidence and uncertainty | Inert paper packet |
 | 5 | [Scratch Games](./Session05_Scratch_Games.md) | Game design programming | Scratch |
 | 6 | [Gratitude Design](./Session06_Gratitude_Design.md) | Thanksgiving service | Design materials |
 | 7 | [Advent Coding](./Session07_Advent_Coding.md) | Interactive Advent project | Scratch/Sphero |
@@ -77,7 +108,7 @@ Year B covers the same core skills and concepts as Year A but with:
 | Concept | Year A Focus | Year B Focus |
 |---------|--------------|--------------|
 | Design Process | Engineering design | Design thinking |
-| Robotics | Navigation & dance | Sensors & autonomy |
+| Robotics | Navigation/algorithm models | Stationary sensor thresholds; no autonomy claim |
 | Structures | Bridges & towers | Architecture & buildings |
 | Science Investigation | Human body | Forensic science |
 | Programming | Variables & conditions | Game design |
@@ -98,7 +129,7 @@ Year B covers the same core skills and concepts as Year A but with:
 
 ### Skills Development
 
-- **Design Thinking:** Mastery of full process
+- **Design Thinking:** Practice of the process; mastery requires individual evidence
 
 - **Programming:** Advanced game design, app development
 
@@ -151,4 +182,5 @@ Applying integrated skills to complex challenges, investigations, and capstone p
 
 ---
 
-*Year B completes the 5-6 bi-weekly rotation. Combined with Year A, students experience comprehensive C-STREAM curriculum across two years.*
+*Year B is one supplemental rotation option. Neither year certifies comprehensive
+subject coverage or mastery from attendance alone.*

@@ -59,11 +59,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Katherine Drexel** — She gave away her fortune to serve others, especially building schools for children who didn't have them.
 
-### Scripture
-> *"Whatever you did for one of the least of these brothers and sisters of mine, you did for me."* — Matthew 25:40
+### Scripture reference
+Matthew 25:40; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear Jesus, during Lent we remember your sacrifice for us. Help us give up something to help others. Show us how to use our hands and minds to serve. Amen.*
@@ -102,7 +102,7 @@ By the end of this session, students will:
 - Build a small box or folder
 
 - Fill with kindness coupons:
-  - "One free hug"
+  - "I can offer a kind word" (physical contact is never owed)
   - "I'll clean up"
   - "I'll share with you"
 
@@ -177,7 +177,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / Lent access / evidence
+Do not assign food fasting to young children; school-approved age-appropriate generosity can mean sharing time, not giving up needed food or spending family money. No forced hugs, glass coin jars, loose small coins or sharp recycled items. Default cardstock kindness folder holds three paper coupons without spilling; child tests and revises a fold. Grade 1 tells/draws how it helps; Grade 2 explains a test-based revision. Recipient delivery requires consent. **Technology: None primary path.** Last 3 making minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; no-cost kindness conversation equally valid)
 **Family Activity:** As a family, choose a Lenten service project! Ideas: donate to food shelf, visit someone lonely, do extra chores, save money to give away. Make a family Lent calendar.
 
 ---

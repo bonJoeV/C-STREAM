@@ -48,14 +48,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Faith and Reason** — In Catholic schools, we learn that faith and science work together. God gave us minds to explore His creation, and faith helps us understand the deeper meaning of what we discover.
 
-### Scripture Connection
-> "The fear of the LORD is the beginning of wisdom, and knowledge of the Holy One is understanding."
-> — Proverbs 9:10
+### Scripture reference
+Proverbs 9:10; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **Catholic Scientists:**
 
 - **St. Albert the Great** — Studied science and nature
@@ -64,7 +63,7 @@ Students will be able to:
 
 - **Gregor Mendel** — Father of genetics
 
-- **Sr. Mary Kenneth Keller** — First woman to earn PhD in computer science
+- **Sr. Mary Kenneth Keller** — Computer scientist and educator; degree chronology/institution **VERIFICATION REQUIRED** before teaching a "first" claim.
 
 ---
 
@@ -102,8 +101,8 @@ Students will be able to:
 
 **Share brief stories:**
 1. **Gregor Mendel** — A monk who studied pea plants and discovered how traits pass from parents to children
-2. **Sr. Mary Kenneth Keller** — A Catholic sister who helped create computer programming
-3. **Fr. Georges Lemaître** — A priest who figured out how the universe began
+2. **Sr. Mary Kenneth Keller** — A Catholic sister who worked in computing and education; exact contribution **VERIFICATION REQUIRED**.
+3. **Fr. Georges Lemaître** — Priest/cosmologist associated with expanding-universe models; exact contribution **VERIFICATION REQUIRED**. Do not say he fully explained the origin of everything.
 
 **Discussion:**
 
@@ -155,7 +154,10 @@ Students contribute to a class project showing:
 
 ---
 
-## 📎 Home Connection
+## Substitute source gate
+If vetted biographies are not supplied, omit the scientist-story block and spend those 8 minutes observing a classroom plant, drawing two details and honestly distinguishing observation from belief. This preserves the faith/reason purpose without teaching uncertain history. Grade 1 tells/draws; Grade 2 explains one distinction. No devices required; **Technology: None primary path**. Reserve 3 banner minutes for cleanup.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated Catholic Schools Week! Ask your child: 'What makes our Catholic school special?' 'What Catholic scientist did you learn about?' Thank you for choosing Catholic education. Together, we help your child grow in faith, knowledge, and love!"
 
 ---

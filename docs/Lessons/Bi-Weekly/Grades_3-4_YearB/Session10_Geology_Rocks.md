@@ -59,7 +59,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Jesus as the Rock** — Jesus used the image of rock as a foundation: "On this rock I will build my church."
+**Rock as a metaphor** — Psalm 18 uses rock/foundation imagery. In Matthew 16:18 Jesus addresses Peter; do not present that passage as Jesus calling Himself the rock.
 
 ### Scripture
 > *"The Lord is my rock, my fortress and my deliverer."* — Psalm 18:2
@@ -80,8 +80,7 @@ By the end of this session, students will:
    - 🏔️ **Sedimentary** — Layers pressed together over time
    - 💎 **Metamorphic** — Changed by heat and pressure
 3. **Rock Cycle:**
-   - Rocks constantly change from one type to another
-   - Takes millions of years!
+   - Rock processes occur over varied time scales and take multiple possible paths, not a fixed compulsory sequence
 4. **Jesus the Rock:**
    - Foundation—strong, reliable
    - "On this rock I will build my church"
@@ -90,7 +89,7 @@ By the end of this session, students will:
 
 **Part 1: Rock Cycle Learning (6 minutes)**
 
-- Trace the rock cycle:
+- Trace one possible path, then add alternatives (igneous -> metamorphic; any exposed rock -> sediment):
   1. Magma cools → Igneous rock
   2. Weather breaks it down → Sediment
   3. Layers press together → Sedimentary rock
@@ -124,7 +123,7 @@ Use magnifying glasses to observe:
 
 - Look for bands/stripes
 
-- Often very hard
+- Properties vary; not all are banded or exceptionally hard, and appearance alone may not establish origin
 
 - Changed from other rocks
 
@@ -216,3 +215,7 @@ Use magnifying glasses to observe:
 
 **Previous:** [Session 9 — Faith & Science](./Session09_Faith_Science.md)  
 **Next:** [Session 11 — Lenten Service](./Session11_Lenten_Service.md)
+
+## SAFETY / indoor alternative
+
+Use teacher-inspected blunt samples; obsidian/sharp fragments stay in photographs or adult-only sealed displays. No breaking, tasting, acids or collecting unknown rocks from unsafe places. Wash hands. Indoor sample/photos work in winter. Each child records visible properties and a tentative classification supported by a reference; mark uncertain samples uncertain rather than claiming proof from appearance.

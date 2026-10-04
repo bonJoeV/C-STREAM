@@ -42,7 +42,7 @@ By the end of this session, students will:
 
 ## Materials Needed
 
-- 📦 Lever materials (rulers, pencils as fulcrums, small weights)
+- Lever materials: ruler/board on a teacher-fixed broad pivot in a tray; soft eraser load only.
 
 - 📦 Ramp materials (books, boards, toy cars)
 
@@ -56,11 +56,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **St. Joseph the Worker** — As a carpenter, he used simple machines every day to build and create!
 
-### Scripture
-> *"Whatever you do, work at it with all your heart."* — Colossians 3:23
+### Scripture reference
+Colossians 3:23; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for simple machines that help us do hard work. Like St. Joseph, help us use tools wisely to serve others. Bless our learning today. Amen.*
@@ -83,9 +83,9 @@ By the end of this session, students will:
 **Part 1: Lever Investigation (8 minutes)**
 
 - Build a lever:
-  - Ruler balanced on a pencil (fulcrum)
+  - Teacher-secured ruler/board on a broad fixed pivot (fulcrum), within a tray.
   - Put a small object on one end
-  - Push down on the other end
+  - Press slowly, keeping a hand over the soft eraser load to limit rise to less than 2 cm; never flick/launch.
 
 - Experiments:
   - Move the fulcrum—what changes?
@@ -159,8 +159,11 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
-**Family Activity:** Find simple machines at home! Doorknobs, scissors, wheelbarrows, ramps for strollers. Build ramps for toy cars—test steep vs. gentle. Try making a lever to lift a book!
+## SAFETY / mechanics / evidence
+Teacher fixes a broad pivot and ruler/board to a tray; lift only a soft eraser less than 2 cm, pressing slowly with a hand over the load to prevent launching. No pencil-fulcrum catapults, book lifting, heavy loads or hands under falling objects. Ramps below 10 cm with catch box. Machines can trade less force for more distance; "easier" does not mean no energy/work. Grade 1 demonstrates one gentle lift and explains orally; Grade 2 compares two pivot positions with same load and qualitative effort, not measured-force claims. **Technology: None primary path.** Last 3 investigations minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional)
+**Optional family activity:** Point to a familiar ramp/tool or discuss a picture and tell how it helps. Do not build a lever to lift a book or launch a load. No purchase required.
 
 ---
 

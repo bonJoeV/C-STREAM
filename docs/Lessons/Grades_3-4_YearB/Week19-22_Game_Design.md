@@ -1,517 +1,168 @@
 ---
 title: "Weeks 19-22: Game Design Studio"
-description: "Grades 3-4 Year B Scratch game development"
-version: "1.0"
-date: 2025-12-05
+description: "A complete bounded-score Scratch game with paper testing and inclusive controls"
+version: "2.0"
+date: 2026-10-04
 tags:
   - grades-3-4
   - year-b
   - coding
-  - engineering
-  - astronomy
-  - lent
   - arts
 ---
 
-# 🎮 Weeks 19-22: Game Design Studio
+# Weeks 19-22: Game Design Studio
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher information |
 |---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 4 sessions (40 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | T (Technology), M (Math), A (Arts) |
-
----
-
-# Weeks 19-22: Game Design Studio
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Use Scratch to create interactive games
-2. Implement game mechanics (scoring, levels, win/lose)
-3. Apply math concepts in game design
-4. Debug and improve code
-
-### Faith Integration Objectives
-Students will be able to:
-1. Create games with positive values
-2. Use creativity as gift from God
-3. Design for others' enjoyment
-
----
-
-# Weeks 19-22: Game Design Studio
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Creativity & Joy** — God created us to experience joy! Designing games that bring fun to others is a way of sharing God's joy. Our creativity reflects God the Creator.
-
-### Scripture Connection
-> "A cheerful heart is good medicine."
-> — Proverbs 17:22
-
-### Saint Connection
-**St. John Bosco** — Patron of young people, Don Bosco believed in "faith, learning, and play." He used games and recreation as ways to connect with and educate youth. He showed that play has spiritual value!
-
----
-
-## 📚 Materials Needed
-
-- Computers with Scratch (scratch.mit.edu)
-
-- Game design worksheets
-
-- Storyboard templates
-
-- Project rubrics
-
-- Example games
-
-- Testing feedback forms
-
----
-
-## 📝 Week 19 Procedure: Game Design Basics (40 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, You gave us imagination and creativity! Help us design games that bring joy to others. St. John Bosco, inspire us to see play as valuable. Amen."
-
-### What Makes a Good Game? (8 min)
-**Analyze games:**
-
-**Discussion:**
-
-- What games do you like to play?
-
-- What makes them fun?
-
-- What makes them frustrating?
-
-**Key game elements:**
-
-- **Goal** — What are you trying to do?
-
-- **Rules** — What can/can't you do?
-
-- **Challenge** — What makes it hard?
-
-- **Feedback** — How do you know you're doing well?
-
-- **Reward** — What do you get for succeeding?
-
-**St. John Bosco connection:**
-
-- Used games to teach values
-
-- Made learning fun
-
-- Believed joy is from God
-
-- "Run, jump, make noise — just don't sin!"
-
-### Game Types in Scratch (10 min)
-**Explore possibilities:**
-
-**Common game types:**
-1. **Maze games** — Navigate through obstacles
-2. **Catch games** — Collect falling objects
-3. **Chase games** — Avoid or chase something
-4. **Clicker games** — Click on targets
-5. **Quiz games** — Answer questions
-
-**Show simple examples of each**
-
-**Math in games:**
-
-- Scoring (addition)
-
-- Lives (subtraction)
-
-- Levels (variables)
-
-- Positioning (coordinates)
-
-- Timing (seconds, counting)
-
-### Scratch Review (10 min)
-**Quick skills check:**
-
-**Essential blocks:**
-
-- Motion (movement)
-
-- Looks (appearance)
-
-- Sound (audio)
-
-- Events (triggers)
-
-- Control (loops, conditionals)
-
-- Sensing (detection)
-
-- Variables (score, lives)
-
-**Key concepts for games:**
-
-- "When green flag clicked" → game start
-
-- "Forever" loops → continuous checking
-
-- "If touching" → collision detection
-
-- Variables for score/lives
-
-- "Change score by 1" → scoring
-
-### Game Planning (8 min)
-**Design document:**
-
-**Game Concept Worksheet:**
-1. Game name:
-2. Game type:
-3. Goal — what does player try to do?
-4. Controls — how does player control it?
-5. Challenge — what makes it hard?
-6. Scoring — how do you earn points?
-7. Win/Lose — how does game end?
-
-**Faith element:**
-
-- What positive value does your game promote?
-
-- Options: helpfulness, care for creation, joy, courage, kindness
-
-### Closing (2 min)
-**Homework:**
-
-- Finalize game concept
-
-- Sketch main character/sprites
-
-**Closing Prayer:**
-"Thank You, God, for creativity and fun! Help us create games that bring joy. St. John Bosco, pray for us! Amen."
-
----
-
-## 📝 Week 20 Procedure: Building Core Mechanics (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord, help us be patient programmers today! When things don't work, help us persevere. Amen."
-
-### Sharing Game Concepts (5 min)
-**Quick shares:**
-
-- Game name and type
-
-- Main goal
-
-- Faith element included
-
-### Core Mechanics Tutorial (10 min)
-**Essential game code:**
-
-**Player movement (4 directions):**
-```
-When green flag clicked
-Forever
-  If key "up arrow" pressed then
-    Change y by 10
-  If key "down arrow" pressed then
-    Change y by 10
-  If key "left arrow" pressed then
-    Change x by -10
-  If key "right arrow" pressed then
-    Change x by 10
+| Grade / unit / title | Grades 3-4 / Computing / Game Design Studio |
+| Time | **Four meetings, 40 minutes each**, including cleanup |
+| Domains | Catholic dignity, computing, purposeful visual communication, whole-number reasoning |
+| Big idea | A game is a rule system whose code and instructions must be tested for the people using it. |
+| Student objective | "I can build or trace a three-point game, prevent extra scoring, and improve it from a user's test." |
+| Why | Software designers debug behavior and make tools usable by different people. |
+| Catholic connection | Respect players' dignity: clear controls, fair rules, no humiliating losing messages, privacy and accessible alternatives. St. John Bosco is a model of caring for young people; no invented quotation is needed. |
+| Local standards | **Local, not official:** CST-C2 (inclusive user testing); CST-T1 (device input/output); CST-T2 (events/conditions/debugging); CST-A3 (test and revise instructions); CST-M3 (score reasoning within 0-3). |
+| Technology | **Required for primary pathway:** Scratch 3 on one computer per pair, preferably offline. It enables executable event code and input/output testing. Paper trace evidence is computational thinking, **not** Scratch operation/programming. |
+| Difficulty / prerequisites | Moderate; novices welcome. Meeting 1 explicitly teaches sprite, event, score and condition. No Year A prerequisite, coordinates, clones or negative-number math required. |
+| Prep / cleanup | 20 minutes for first meeting once software works; 10 minutes for later meetings; initial installation is advance work. 5 minutes each meeting. |
+
+## Before class
+
+1. Open Scratch on compatible school computers; use guest/offline projects and local saves, not shared pupil logins. Test the two complete scripts below. No public posting, names/photos/voices or online studios without school approval.
+2. Make pairs; an odd trio rotates planner, operator and tester. Prepare labeled local save folders by team ID; confirm reopen works.
+3. Board: `input | score before | score after | message`. Display the scripts or read them aloud. Students copy three game-rule cards onto paper.
+4. If computers/software fail, announce the paper pathway before class. Keep the same four meeting times, but mark operating evidence absent.
+
+## Exact supplies
+
+Tables budget ceil(students / 2) kits/devices. A final trio gives **5/7/10/12 active teams** at 10/15/20/25 pupils; unused eighth/thirteenth device is spare. Thirteen-team showcase timing is a conservative capacity bound.
+
+- **Per student:** pencil, one evidence half-sheet each meeting (4 total).
+- **Per team:** 1 Scratch-capable computer, 1 paper sheet each meeting (4 total), 1 paper token; 3 small scoring squares cut/folded from the first team sheet.
+- **Whole class:** timer, board, local save storage already on computers; 1 teacher computer for demonstration (may share an available team computer).
+- **Teacher:** optional display/projector, not needed if demonstrating in a small group; no purchased game assets.
+
+| Students | Teams / team computers / tokens | Team paper across unit | Half-sheet slips across unit / pencils |
+|---:|---:|---:|---:|
+| 10 | 5 each | 20 sheets | 40 / 10 |
+| 15 | 8 each | 32 sheets | 60 / 15 |
+| 20 | 10 each | 40 sheets | 80 / 20 |
+| 25 | 13 each | 52 sheets | 100 / 25 |
+
+One device per pair is the primary plan. With fewer devices, paper-test while rotating; maintain a named operation log and schedule missed operation later. Existing devices are reused; paper is consumable.
+
+## Vocabulary, background, misconception and question/answer
+
+**Sprite:** programmable character/object. **Event:** trigger that starts code. **Variable:** named stored value, here Score. **Condition:** true/false check. **Broadcast:** message that starts matching receiver code. **Debug:** test and correct behavior.
+
+The game uses one sprite called Token and a variable **Score for all sprites**. The goal is three deliberate inputs. Continuous touching inside a forever loop is not used: it can add points every program cycle. A guard prevents input number 4 from making the score 4.
+
+**Misconception:** "A finished picture means the game works."
+**If asked:** "Why did the score jump?" Answer: "Check which event adds points. We want one deliberate input to add one point, not every instant two sprites touch."
+
+## Complete native Scratch starter
+
+Create variable `Score` for all sprites. Rename the default sprite `Token`. Set its costume/position by dragging it on stage. Place these stacks on **Token**, using actual Events/Variables/Control/Looks blocks:
+
+```text
+when green flag clicked
+set [Score] to (0)
+say [Click Token or press space. Collect 3 points!]
+
+when this sprite clicked
+if <(Score) < (3)> then
+  change [Score] by (1)
+  if <(Score) = (3)> then
+    say [Complete! Press the green flag to restart.]
+  else
+    say [One point collected. Keep going.]
+  end
+end
 ```
 
-**Collision detection:**
-```
-If touching "color" or "sprite" then
-  [action]
-```
+In meeting 3, add keyboard access without copying the scoring body:
 
-**Scoring:**
-```
-When green flag clicked
-Set score to 0
+```text
+when this sprite clicked
+broadcast [collect]
 
-[Later, when player succeeds]
-Change score by 1
-```
+when [space] key pressed
+broadcast [collect]
 
-**Game over:**
-```
-If [losing condition] then
-  Stop all
-```
-
-### Build Time (20 min)
-**Create your game:**
-
-**Minimum requirements:**
-
-- Player-controlled sprite
-
-- At least one other sprite/obstacle
-
-- Scoring system
-
-- Win or lose condition
-
-**Teacher circulation:**
-
-- Help debug
-
-- Suggest improvements
-
-- Ensure positive content
-
-- Connect to math concepts
-
-**Checkpoints:**
-
-- Does your player move?
-
-- Does something happen when sprites touch?
-
-- Does score change?
-
-### Progress Check (3 min)
-**Status update:**
-
-- What's working?
-
-- What's challenging?
-
-- What help do you need?
-
-**Closing Prayer:**
-"Thank You for progress, Lord! Help us keep improving. Amen."
-
----
-
-## 📝 Week 21 Procedure: Adding Features (40 minutes)
-
-### Opening Prayer (2 min)
-"Creative Spirit, inspire us to make our games even better! Help us use our gifts well. Amen."
-
-### Debugging Review (5 min)
-**Common problems:**
-
-- Sprite not moving → check if/forever blocks
-
-- Score not changing → check variable blocks
-
-- Game not ending → check conditions
-
-**Debugging strategy:**
-1. Test small sections
-2. Read code out loud
-3. Check for typos
-4. Ask for another pair of eyes
-
-### Advanced Features (10 min)
-**Level up your game:**
-
-**Option A: Multiple Levels**
-```
-When score > 10
-  Broadcast "Level 2"
-
-When I receive "Level 2"
-  Change speed by 2
-  Show new background
+when I receive [collect]
+if <(Score) < (3)> then
+  change [Score] by (1)
+  if <(Score) = (3)> then
+    say [Complete! Press the green flag to restart.]
+  else
+    say [One point collected. Keep going.]
+  end
+end
 ```
 
-**Option B: Lives System**
-```
-When green flag clicked
-Set lives to 3
+**Replace** the earlier clicked scoring stack with the broadcast stack; leaving both adds twice per click. Keep the green-flag reset stack. No imagined "when score > 10" event. Arrow-key enrichment, if later taught, uses up `change y by 10`, **down `change y by -10`**, left `change x by -10`, right `change x by 10`; not part of this core unit.
 
-When touching bad thing
-Change lives by -1
-If lives = 0 then
-  Stop all
-```
+## SAFETY and privacy
 
-**Option C: Timer**
-```
-When green flag clicked
-Set time to 60
-Forever
-  Wait 1 second
-  Change time by -1
-  If time = 0 then
-    Stop all
-```
+Stay at assigned desks; clean dry hands only, no liquids near devices. Teacher handles plugs/charging. Low sound, no flashing effects, no public uploads or identifying media. Save to school-controlled storage with team IDs. Paper tokens stay on desks; no student acts as a running target.
 
-**Option D: Sound Effects**
-```
-When [event]
-Play sound "pop"
-```
+## Meeting 1: rules and traces, exactly 40 minutes
 
-### Development Time (20 min)
-**Improve your game:**
+1. **0-5: User need.** Original prayer: "God, help us create fairly and include others." Ask: "What makes a game confusing or unkind?"
+2. **5-12: Demonstrate goal/input/feedback.** Open Scratch, identify sprite and green flag, show Score. Teacher runs three clicks then a fourth; expected values **0,1,2,3,3**. "Why shouldn't input 4 earn point 4?"
+3. **12-18: Paper model.** Partners write three rules: start at 0; input adds 1 only if below 3; at 3 show complete. Move a token on squares 0-3. Swap reader/executor.
+4. **18-28: Build first stack.** Students create Score and the green-flag reset, then the clicked stack above with help. Each child takes an operator turn; waiting partners trace.
+5. **28-32: Test boundary.** Try four clicks, then green flag. Record actual values, not assumed correctness.
+6. **32-35: Individual evidence.** Predict score after two inputs and after four; explain "below 3." Record which children actually edited and ran code.
+7. **35-40: Cleanup/save.** Save locally by team ID, reopen one file as a class check, stop projects, store slips/tokens, close computers as school practice requires.
 
-**Goals today:**
+## Meeting 2: debugging, exactly 40 minutes
 
-- Fix any bugs from last week
+1. **0-5: Retrieve/reset.** Reopen saved project; absent files are rebuilt using the short starter, not assigned as homework.
+2. **5-11: Demonstrate a bug.** Teacher temporarily removes the `if Score < 3` guard in a separate demo. Four clicks produce 4. "Which rule failed?"
+3. **11-17: Trace and propose fix.** Individually mark the first input where expected/actual differ; partners agree on guard location.
+4. **17-28: Edit and run.** Verify each team's complete starter; test zero inputs, one, three, four, then restart. Switch operator. Record expected/actual and the fix.
+5. **28-32: Explain.** "Why reset to 0? Can we keep changing decorations instead of fixing this bug?" One team demonstrates a corrected trace.
+6. **32-35: Individual evidence.** Write/dictate the guard and one passed boundary test; children with paper-only work report the trace, not an executed program.
+7. **35-40: Cleanup.** Save/reopen locally, stop, clear desks, collect bug records.
 
-- Add at least one new feature
+## Meeting 3: accessible controls and visual instructions, exactly 40 minutes
 
-- Test multiple times
+1. **0-5: Consider users.** "How could someone who finds mouse control difficult play?" Accept keyboard input and partner-assisted input as access choices.
+2. **5-12: Teach broadcasts.** Teacher replaces the clicked scoring body with `broadcast collect`, adds space-key sender and matching receiver as above. Show the **old scoring stack is removed**.
+3. **12-24: Implement/test.** Teams edit, swap operators halfway, test click-only and space-only runs. Holding a key may repeat inputs on some systems; demonstrate deliberate press/release and log observed behavior. No claim that all keyboards behave identically.
+4. **24-29: Purposeful art.** Design clear readable instructions, contrast and a symbol plus words; color alone cannot communicate success. One partner tests whether the message makes sense.
+5. **29-32: Debug double scoring.** "Did one click add 2? Which old stack remains?" Test again after removing it.
+6. **32-35: Individual evidence.** Each child identifies an input, output and access improvement, and traces which broadcast starts scoring.
+7. **35-40: Cleanup/save.** Save locally, stop, collect sketches and access-test notes.
 
-- Refine gameplay
+## Meeting 4: user testing and showcase, exactly 40 minutes
 
-**Quality checklist:**
+1. **0-5: Criteria.** Game starts at 0, deliberate inputs reach 3, extra inputs stay 3, restart resets, instructions readable and respectful.
+2. **5-12: Paired testing.** Neighboring teams exchange places only on teacher signal or exchange paper versions. Test all five criteria; record passed/not yet with a specific observation.
+3. **12-22: Revise one feature.** Fix code or instructions from feedback, then repeat the relevant test. "What evidence shows the change helped the user?"
+4. **22-29: Showcase in pairs.** Half the teams present at desks, then reverse after 3 minutes; each child explains their own contribution. No twenty-five sequential presentations.
+5. **29-32: Reflect on dignity.** "Whose needs did your improvement address? What should stay private?"
+6. **32-35: Individual evidence.** Trace 0,1,2,3,3 and reset to 0; explain one test-backed revision and one input/output relationship.
+7. **35-40: Cleanup/archive.** Save local final and bug record, stop, return tokens/paper, collect individual evidence. No accounts or uploads required.
 
-- [ ] Game starts when flag clicked
+## What success looks like
 
-- [ ] Player controls work smoothly
+Each child independently traces boundary behavior, identifies a condition and explains a test-based revision. **Device programming evidence additionally requires an observed edit/run by that child**; record it separately. Score **1** decoration only; **2** trace with prompts; **3** independent trace, correct condition and revision evidence; **4** level 3 plus identifies an accessibility or restart limitation and retests it.
 
-- [ ] Scoring works correctly
+## Unplugged, troubleshooting, differentiation and indoor alternative
 
-- [ ] Game ends appropriately
+**No devices:** in each meeting, replace on-screen building/testing minutes with paper script assembly, token execution, intentional bug and user-tested instruction card. Reuse the exact times. Meetings 1/2 trace score/guard; meeting 3 uses sender/receiver cards; meeting 4 tests/revises rules. Mark **CT observed; Scratch operation not observed**. A paper game is worthwhile but not an executed Scratch program.
 
-- [ ] At least one advanced feature
+- **Missing save:** rebuild the two short stacks; save to verified school folder. If permissions fail, report to teacher and keep paper evidence.
+- **Score jumps twice:** remove the obsolete clicked stack, then retest. **Score above 3:** confirm guard encloses addition.
+- **Support / Grade 3:** numbered paper blocks, oral reading, score counters 0-3; adult/partner assists typing but child predicts and explains.
+- **Challenge / Grade 4:** devise a boundary test not shown, compare expected/actual, then explain why one receiver avoids duplicate scoring logic.
+- **Indoor alternative:** all meetings already indoor, no winter/weather constraint.
+- **25 pupils:** thirteen pairs/trio, thirteen devices primary; desk-based pair showcase fits seven minutes. A shared-device rotation requires separate missing-operation records.
 
-- [ ] Positive content/values
+## Family snippet
 
-### Partner Testing (3 min)
-**Swap and play:**
-
-- Play partner's game
-
-- Note: What works well? What's confusing?
-
-- Give kind, helpful feedback
-
-**Closing Prayer:**
-"Thank You for partners who help us improve, Lord! Amen."
-
----
-
-## 📝 Week 22 Procedure: Game Showcase (40 minutes)
-
-### Opening Prayer (2 min)
-"Lord of joy, thank You for these weeks of creativity! Help us celebrate together and appreciate each other's work. St. John Bosco, pray for us! Amen."
-
-### Final Polish (10 min)
-**Last touches:**
-
-- Fix any remaining bugs
-
-- Add instructions (how to play)
-
-- Add credits (your name)
-
-- Test one more time
-
-**Instructions template:**
-```
-"How to Play:
-Use arrow keys to move.
-Collect [items] for points.
-Avoid [obstacles].
-Try to score [goal]!"
-```
-
-### Game Arcade (20 min)
-**Play everyone's games:**
-
-**Setup:**
-
-- All games open and ready
-
-- Students rotate through stations
-
-- 2-3 minutes per game
-
-**Feedback form for each game:**
-
-- Game name:
-
-- What I liked:
-
-- Favorite feature:
-
-- Score I got:
-
-**Teacher observation:**
-
-- Note creativity
-
-- Identify strong coders
-
-- Recognize perseverance
-
-- Appreciate faith integration
-
-### Showcase & Awards (6 min)
-**Celebrate achievements:**
-
-**Categories:**
-
-- Most Creative Concept
-
-- Best Gameplay
-
-- Most Challenging
-
-- Best Use of Faith Values
-
-- Most Improved Coder
-
-- Best Bug Fixer
-
-**Whole class:**
-
-- Everyone completed a game!
-
-- We learned coding, math, and design
-
-- We created joy for others!
-
-### Reflection & Closing (2 min)
-**Discussion:**
-
-- "What was hardest about game design?"
-
-- "What did you learn about yourself as a coder?"
-
-- "How did your game share positive values?"
-
-**St. John Bosco wisdom:**
-"Through play, we learn and grow. Fun is a gift from God!"
-
-**Closing Prayer:**
-"Thank You, Lord, for creativity and joy! Thank You for the gift of play and the ability to create. Help us always use our talents to bring happiness to others. St. John Bosco, continue to inspire us to see fun as something holy. Bless our games and those who play them! Amen."
-
----
-
-## 📎 Home Connection
-> "We completed a Game Design Studio unit! Your child created an original Scratch game. Ask them: 'Can I play your game?' 'What was hardest to program?' 'What positive value does your game include?' Visit scratch.mit.edu together to explore or continue creating!"
-
----
-
-## ✅ Assessment
-
-- Created functional Scratch game
-
-- Implemented scoring and win/lose conditions
-
-- Used at least one advanced feature
-
-- Included positive values in design
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+We designed a three-point game, tested its score boundary and restart, and revised instructions for a real user. Paper traces show computational thinking; children who used Scratch also practiced executable code. Our Catholic connection was fair, inclusive design and privacy. **Ask:** "What happens on input number four, and why?" **Optional at home:** play a three-point paper game and check its rules. The original resource **scratch.mit.edu** remains optional; offline classroom work needs no home account. No homework, devices or public sharing required.

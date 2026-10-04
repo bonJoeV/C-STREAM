@@ -59,11 +59,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
-**All the Saints We Met This Year** — St. Francis, Mother Teresa, Blessed Carlo Acutis, St. Joseph, and more showed us how faith and learning go together!
+### Saint Connection - VERIFICATION REQUIRED before recalling biographies
+Recall only vetted accounts actually taught. Carlo Acutis is Saint, canonized September 7, 2025: [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html).
 
-### Scripture
-> *"I thank my God every time I remember you."* — Philippians 1:3
+### Scripture reference
+Philippians 1:3; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for an amazing year of discovery and learning! Thank you for our teachers, classmates, and all the wonderful things we've explored. Bless us as we continue to grow. Amen.*
@@ -93,7 +93,7 @@ By the end of this session, students will:
 **Part 2: Partner Share (5 minutes)**
 
 - Share with a partner:
-  - Favorite project from the year
+  - Saved garden/tower design: its criterion, test result and one change, shown orally or with drawings
   - Something difficult you figured out
   - What you want to learn next
 
@@ -174,7 +174,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Technology / SAFETY / evidence limit
+**Optional primary path:** teacher photos under school permissions; paper journals suffice. No food/latex balloons, required family attendance or compulsory summer projects. Grade 1 orally shows one saved observation/test; Grade 2 explains a before/after revision. Awards reflect participation/growth, not automatic six-domain mastery. Last 3 gallery minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional)
 **Summer C-STREAM Challenge:**
 
 - 🔍 Be a Design Detective everywhere!
@@ -217,7 +220,7 @@ This year you:
 
 - ✅ Built towers and structures
 
-- ✅ Programmed Sphero robots
+- Explored Sphero input/output; claim actual stored-code programming only for children with individual device evidence.
 
 - ✅ Explored animal adaptations
 

@@ -48,15 +48,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **God Guides Through Creation** — God used a star to guide the Magi to Jesus. Throughout history, God has used the natural world to speak to people. Creation points us to the Creator.
 
-### Scripture Connection
-> "We saw his star when it rose and have come to worship him."
-> — Matthew 2:2
+### Scripture reference
+Matthew 2:2; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
-**The Magi (Wise Men)** — These ancient scientists studied the stars. When they saw a special star, they knew it meant something important. They followed it for months until they found Jesus!
+### Biblical connection
+Matthew 2 describes Magi following a star; it does not establish their number, modern scientific profession, precise travel duration or the star's physical identity. Omit those claims; approved retelling **VERIFICATION REQUIRED**.
 
 ---
 
@@ -112,7 +111,7 @@ Students will be able to:
 
 **Star patterns:** Show simple constellations (Big Dipper, Orion).
 
-**Faith Connection:** "The Magi were star scientists! They studied the sky carefully. When they saw a new, special star, they knew God was doing something amazing!"
+**Faith Connection:** The Magi story expresses seeking Jesus. It is not evidence identifying a modern astronomical event.
 
 ### Star Project (12 min)
 **Choose one activity:**
@@ -121,9 +120,9 @@ Students will be able to:
 
 - Black paper rolled into tube
 
-- Poke holes in one end in a pattern
+- Teacher uses a hole punch before class to make the pattern; no student pin/needle puncturing.
 
-- Look through tube toward light to see "stars"
+- Look only toward a diffuse classroom lamp, never the Sun, laser or bright focused beam.
 
 **Option B: Star of Bethlehem Craft**
 
@@ -148,7 +147,7 @@ Students will be able to:
 
 - "The Magi traveled a long way to find Jesus. What 'journey' can we take to get closer to Jesus?" (Prayer, Mass, being kind, reading the Bible)
 
-**Faith Connection:** "The Magi were scientists who found Jesus! Studying the world God made can help us know God better. This Christmas, let the star remind you that Jesus is worth seeking!"
+**Faith Connection:** The Magi story can remind us to seek Jesus; distinguish the faith account from our observations of star patterns.
 
 **Closing Prayer:** "Lord, like the Magi, help us follow the star to You. Guide our journey this Advent. We want to find You and worship You like the Wise Men did. Amen."
 
@@ -164,7 +163,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / evidence
+No sun viewing, sharp punctures or dark-room walking. Constellation pictures are flat models: stars may lie at different distances. Grade 1 points to/counts a pattern and tells a star fact; Grade 2 explains a model limitation. Use final 3 project minutes for cleanup. Outdoor night viewing is optional only; pictures indoors provide an equitable alternative.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We learned about the Star of Bethlehem! Go outside on a clear night and look at stars together. Talk about how the Magi followed a star to find Jesus. How can your family 'follow the star' to Jesus this Christmas?"
 
 ---

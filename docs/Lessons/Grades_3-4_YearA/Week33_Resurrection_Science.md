@@ -31,14 +31,14 @@ tags:
 ### STEM Objectives
 Students will be able to:
 1. Explain various life cycles in nature
-2. Identify patterns of death and new life in creation
+2. Identify growth, development and reproduction in living organisms
 3. Conduct observations of living things
 4. Connect scientific life cycles to broader patterns
 
 ### Faith Integration Objectives
 Students will be able to:
 1. Connect new life in nature to Jesus's Resurrection
-2. Understand death and resurrection as a pattern God built into creation
+2. Distinguish biological development from the Christian belief in Jesus' Resurrection
 3. Recognize Easter hope in everyday science
 
 ---
@@ -48,7 +48,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Resurrection and New Life** — Easter celebrates the greatest new life: Jesus rising from the dead. Creation is full of "mini-resurrections" — seeds dying to become plants, caterpillars transforming into butterflies, winter giving way to spring. God built hope into creation itself!
+**Resurrection and hope** — Easter celebrates Jesus' Resurrection. Seeds and butterflies can be artistic images of hope, **not biological resurrections**: viable seeds and pupae are alive. Dormancy and metamorphosis are not death. A dead embryo does not germinate.
 
 ### Scripture Connection
 > "Very truly I tell you, unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds."
@@ -95,7 +95,7 @@ Students will be able to:
 
 - Egg → Caterpillar → Chrysalis → Butterfly
 
-- The caterpillar's "death" in the chrysalis → beautiful new life
+- The living caterpillar becomes a living pupa, then an adult butterfly; the same animal develops
 
 - Complete transformation!
 
@@ -111,7 +111,7 @@ Students will be able to:
 
 - Seed → Sprout → Plant → Flower → Fruit → Seed
 
-- The seed "dies" to become something greater
+- A living embryo in a viable seed grows into a seedling
 
 - Jesus's teaching: "Unless a grain of wheat falls and dies..."
 
@@ -119,9 +119,8 @@ Students will be able to:
 
 - What do all these life cycles have in common?
 
-- Something "dies" or transforms → new life emerges
-
-- The new life is often greater than what came before!
+- Living organisms grow and change; reproduction begins a new generation.
+- Do not rank a larva's life as less valuable or teach a biological death/resurrection cycle.
 
 ### Faith Connection Deep Dive (8 min)
 **Jesus's teaching about seeds:**
@@ -138,13 +137,8 @@ Read John 12:24: "Unless a kernel of wheat falls to the ground and dies, it rema
 
 **Pattern in creation:**
 
-- God built this pattern of death→life into creation
-
-- Every spring "preaches" the Resurrection
-
-- Every butterfly is a sermon on new life
-
-- Creation points to the Creator's plan!
+- Spring and butterflies can be **metaphors of hope**, not experiments proving the Resurrection.
+- Ask: "Which stages are alive? How is a religious symbol different from a measured life-cycle observation?"
 
 **Personal application:**
 
@@ -188,7 +182,7 @@ Read John 12:24: "Unless a kernel of wheat falls to the ground and dies, it rema
 
 - "What does creation teach us about God?"
 
-**Faith Connection:** "Every butterfly that emerges, every seed that sprouts, every tadpole that becomes a frog is a reminder: God brings new life from death. If He can do that in nature, imagine what He can do in our lives! Easter isn't just history — it's the pattern of the universe!"
+**Faith Connection:** We may see images of Easter hope in growth, while keeping scientific and religious claims distinct. Butterflies and seedlings develop while alive; Jesus' Resurrection is a belief about rising from death, not metamorphosis.
 
 **Closing Prayer:** "Risen Lord, thank You for the gift of new life — in nature and in our souls. Help us trust You when things feel like endings, knowing You bring beautiful new beginnings. We believe in the resurrection of the body and life everlasting! Alleluia! Amen."
 
@@ -198,9 +192,9 @@ Read John 12:24: "Unless a kernel of wheat falls to the ground and dies, it rema
 
 - Explained multiple life cycles
 
-- Identified pattern of death → new life in nature
+- Correctly identified living stages and the new-generation link
 
-- Connected life cycles to Easter/Resurrection
+- Distinguished biological development from an Easter metaphor
 
 - Created life cycle project
 
@@ -212,3 +206,7 @@ Read John 12:24: "Unless a kernel of wheat falls to the ground and dies, it rema
 ---
 
 **Lesson Version:** 1.0 | **
+
+## Individual evidence / SAFETY / indoor alternative
+
+Each child labels a seedling or butterfly diagram, states that the embryo/pupa is alive, and identifies the faith connection as a metaphor. Grade 3 orders stages; Grade 4 compares two cycles and their reproduction links. No live specimen handling, required outdoor walk, tasting seeds or classroom release. Use photographs if spring items are absent; no growth result expected within this period. Source for monarch living stages: [Monarch Joint Venture life cycle](https://www.monarchjointventure.org/monarch-biology/life-cycle). John 12:24 is theological imagery, not germination instructions. Optional family observation is not homework.

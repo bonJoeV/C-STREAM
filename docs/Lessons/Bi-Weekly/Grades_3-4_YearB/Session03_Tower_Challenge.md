@@ -198,3 +198,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 2 — Ozobot Coding](./Session02_Ozobot_Coding.md)  
 **Next:** [Session 4 — Ecosystems](./Session04_Ecosystems.md)
+
+## SAFETY / evidence limits
+
+Cap towers at 60 cm on low stable surfaces; no climbing, standing beneath structures or dropping planks. Teacher-selected counter loads only for an optional test, at most 10. A wide base/symmetry may help but do not guarantee stability. Each pupil compares a measured height and one test-driven change; plank quantities and cleanup kit remain P1 preparation.

@@ -58,11 +58,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Teresa of Calcutta (Mother Teresa)** — She dedicated her life to serving the poorest of the poor with great love.
 
-### Scripture
-> *"Whatever you did for one of the least of these brothers and sisters of mine, you did for me."* — Matthew 25:40
+### Scripture reference
+Matthew 25:40; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear Jesus, during Lent we prepare our hearts for Easter. Help us find ways to love others as you loved us. Bless our hands as they work for others today. Amen.*
@@ -77,7 +77,7 @@ By the end of this session, students will:
    - 🙏 Prayer — Talking with God more
    - 🍞 Fasting — Giving something up
    - 💝 Almsgiving — Giving to those in need
-3. **Mother Teresa** — Served with love, said: "Do small things with great love"
+3. **Teresa of Calcutta** — A vetted biography may illustrate service; the attributed "small things with great love" quotation was not verified and is omitted.
 4. **Today's Mission** — "Design something loving for others!"
 
 ### Main Activity: Love in Action Project (19 minutes)
@@ -115,10 +115,10 @@ By the end of this session, students will:
 
 **Option C: Kindness Jar**
 
-- Decorate a jar
+- Decorate a paper/cardboard container, not a glass jar.
 
 - Fill with kindness ideas on paper strips:
-  - "Give a hug"
+  - "Offer a kind word" (physical contact is never owed)
   - "Help clean up"
   - "Share a toy"
 
@@ -183,7 +183,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / equitable Lent / evidence
+Do not assign food fasting to young children; use school-approved sharing of time and kind words, never required family money/donations. No forced hugs, glass jars, food gifts or student contact details. Teacher confirms recipient consent/organization delivery rules. Grade 1 dictates/draws a recipient-focused message; Grade 2 revises a communication feature after feedback. Decorated cards are art/service, not tested engineering. **Technology: None primary path.** Last 3 creation minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; no-cost kindness conversation equally valid)
 **Family Activity:** Plan a family Lent service project! Ideas: Donate to food shelf, visit someone lonely, do extra chores, give up something and give the money away. Create a Lenten calendar together.
 
 ---

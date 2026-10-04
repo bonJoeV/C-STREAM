@@ -58,7 +58,7 @@ Students will be able to:
 
 ## 📚 Materials Needed
 
-- Experiment materials (based on chosen experiment)
+- Primary Ramp & Roll kit per team of at most three: 1 stable cardboard ramp, 1 large soft foam ball, 1 tray to contain rolling, 1 ruler, 1 timer, 2 identical books, and 1 data sheet. For 10/15/20/25 students prepare 4/5/7/9 kits; each student needs a pencil and an individual exit sheet. No unspecified experiment supplies.
 
 - Lab notebooks or recording sheets
 
@@ -130,7 +130,7 @@ Students will be able to:
 **Faith connection:** "Honest scientists don't cherry-pick data or ignore results they don't like. Intellectual honesty is a virtue. St. Albert the Great said we must observe carefully and report truthfully."
 
 ### Experiment Design Phase (10 min)
-**Choose experiment (class vote or teacher assigns):**
+**Use Option A as the primary controlled experiment.** Options B/C are deferred and must not be substituted without a separate adult-approved safety/materials plan.
 
 **Option A: Ramp & Roll**
 
@@ -138,17 +138,7 @@ Students will be able to:
 
 - Materials: Ramp, ball, measuring tape, protractor
 
-**Option B: Paper Airplane Flight**
-
-- Question: How does wing size affect flight distance?
-
-- Materials: Paper, rulers, measuring tape
-
-**Option C: Dissolving Rates**
-
-- Question: How does water temperature affect dissolving time?
-
-- Materials: Sugar, water, thermometer, timer, cups
+Keep the ramp at one-book versus two-book height, at most 15 cm high; release without pushing. Measure distance from ramp end to stop inside the tray, not unrestricted flight. Keep ball, release point, ramp, and tray surface identical; run three trials per condition.
 
 **Design process:**
 1. State hypothesis (prediction with reasoning)
@@ -176,7 +166,8 @@ Students will be able to:
 
 - Encourage accurate recording
 
-### Analysis & Conclusion (5 min)
+### Analysis, Individual Exit & Cleanup (5 min)
+Use 2 minutes for each student's IV/DV/two-controls conclusion with one numerical comparison; 3 minutes to retrieve balls, stack books, wipe trays, and store kits. Do not add an unbudgeted graph.
 **Quick analysis:**
 
 - Calculate averages
@@ -206,6 +197,12 @@ Students will be able to:
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S2 - individual's IV/DV and two controls; CST-M2 - six trial values and a supported comparison; CST-C1 - retain a surprising result and state a limitation. Official benchmarks: **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+Adult inspects ramp and tray; roll only large soft balls below 15 cm height, away from faces and walkways. No hot water, tasting, airborne projectiles, or student-selected chemical experiments. The temperature/sugar example is discussion only, not a live lab.
 
 - Designed experiment with clear IV, DV, and controls
 

@@ -90,7 +90,7 @@ By the end of this session, students will:
 
 - "Where is water RIGHT NOW in the cycle?"
 
-- God's design: Water is never destroyed, just moved!
+- This water-cycle model tracks movement and changes of state; it is not a universal claim about all chemical reactions involving water
 
 **Part 2: Build Weather Instruments (16 minutes)**
 
@@ -98,39 +98,27 @@ By the end of this session, students will:
 
 **Option A: Rain Gauge**
 
-- Clear container (cup or bottle)
+- Straight-sided flat-bottomed clear plastic cup, uncut; mark zero at the inside bottom with a ruler
 
 - Mark measurements on side
 
-- Collect and measure precipitation
+- Practice water depth in mm; only a properly placed straight-sided collector measures rainfall, not snow depth
 
 - Place outside to track rainfall
 
-**Option B: Wind Vane**
+**Option B: Airflow Indicator**
 
-- Pencil with eraser, pin
+- Tape a 20 cm tissue strip to a cardboard handle; no pins
+- Gently move a card to create air movement; note the strip's response
+- This is not a calibrated wind-direction/speed instrument
 
-- Cardstock arrow shape
+**Option C: Teacher photo of an anemometer**
 
-- Pin through arrow into eraser
+- Discuss what a calibrated instrument measures; no pin assembly or claim that spin counts equal a wind speed
 
-- Arrow points where wind comes FROM
+**Option D: Teacher photo of a barometer**
 
-**Option C: Anemometer (Wind Speed)**
-
-- 4 small cups on straws
-
-- Attached to pencil center
-
-- Count spins to estimate wind speed
-
-**Option D: Barometer (Simple)**
-
-- Jar with balloon stretched over top
-
-- Straw attached pointing to scale
-
-- Rising/falling shows pressure changes
+- Read a labeled sample scale; do not build a latex/glass model or use it to guarantee a storm
 
 **Part 3: Test & Record (4 minutes)**
 
@@ -205,3 +193,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 9 — Catholic Scientists](./Session09_Catholic_Scientists.md)  
 **Next:** [Session 11 — Lenten Engineering](./Session11_Lenten_Engineering.md)
+
+## SAFETY / winter / evidence
+
+Primary build is the safe cup or strip, indoors; teacher pours at most 20 mm water depth over a tray and dries spills. No cut bottles, pins, glass, latex, tasting or unsafe outdoor exposure. Use window observations or clearly labeled simulated data in winter. Each child reads a value/unit and identifies a model limit; forecasts remain uncertain. Home weather logs are optional, not required.

@@ -1,11 +1,23 @@
 ---
 title: "Teacher Self-Evaluation"
-description: "NCEA alignment checklist for C-STEM program evaluation"
+description: "Local teacher reflection prompts; external attribution requires verification"
 ---
 
 # 📝 Teacher Self-Evaluation for C-STEM Excellence
 
-This self-evaluation tool helps teachers assess their C-STEM instruction alignment with the NCEA's characteristics of effective STREAM schools and the 12 success factors for Catholic STEM programs.
+This local self-evaluation tool helps teachers reflect on Catholic identity,
+hands-on learning, inclusion and instructional planning. It does not establish
+NCEA/Cognia certification, accreditation or compliance with official standards.
+
+**October 2026 status:** Treat the following as legacy/local reflection prompts,
+not a verified official NCEA, Minnesota or Archdiocesan instrument. Attribution,
+quoted wording and the numbered characteristics/factors are **VERIFICATION
+REQUIRED** against a primary source before claiming official alignment.
+Teacher reflection is separate from student achievement. Use
+[objective-linked evidence](../Templates/Assessment_Template.md) and
+[Local Standards](../Review/Local_Standards.md), including authentic arts/music
+(A) and mathematics (M). Do not grade students for apparent joy, participation,
+interior faith or family practice.
 
 ---
 
@@ -19,7 +31,10 @@ This self-evaluation tool helps teachers assess their C-STEM instruction alignme
 
 ---
 
-## 🎯 Part 1: NCEA's 10 Characteristics of STREAM Schools
+## 🎯 Part 1: Ten Local Reflection Themes
+
+Legacy attribution to NCEA and the italicized wording below:
+**VERIFICATION REQUIRED**. These prompts are not an official certification checklist.
 
 Rate your alignment with each characteristic:
 
@@ -246,7 +261,7 @@ Rate your implementation of each success factor:
 | Success Factor | Rating (1-4) | Evidence/Notes |
 |----------------|--------------|----------------|
 | **1. Faith-Reason Integration** - Faith and science as complementary | | |
-| **2. NCEA Characteristics** - Alignment with 10 characteristics (above) | | |
+| **2. Local Reflection Themes** - Review of the ten prompts above; legacy NCEA attribution VERIFICATION REQUIRED | | |
 | **3. Hands-On, Project-Based Learning** - Students actively engaged | | |
 | **4. Service-Oriented STEM** - Connection to Catholic Social Teaching | | |
 | **5. Cross-Curricular Integration** - Connections across subjects | | |
@@ -440,4 +455,6 @@ Consider gathering student feedback on these questions:
 
 **Evaluation Version:** 2.0  
 **Framework:** C-STREAM  
-**Based on:** NCEA STREAM Characteristics & Catholic STEM Success Factors
+**Source status:** Local reflection tool. Legacy NCEA/Catholic STEM factor
+attribution and quoted wording: **VERIFICATION REQUIRED**. No NCEA/Cognia
+certification or accreditation is asserted.

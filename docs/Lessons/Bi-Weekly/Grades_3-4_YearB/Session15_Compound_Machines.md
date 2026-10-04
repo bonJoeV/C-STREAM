@@ -56,7 +56,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**St. Joseph the Worker** — Patron of workers! His carpentry required compound machines like planes and drills.
+**St. Joseph the Worker** — A model of dignified work. Specific historical tools such as planes/drills in his workshop are **VERIFICATION REQUIRED**, not known from this lesson.
 
 ### Scripture
 > *"Whatever your hand finds to do, do it with all your might."* — Ecclesiastes 9:10
@@ -75,10 +75,10 @@ By the end of this session, students will:
 2. **Compound Machines:**
    - "What if we combine them?"
    - Two or more simple machines working together
-   - More power, more possibilities!
+   - Useful changes in force, distance or direction, not free energy or guaranteed more power
 3. **Examples:**
    - Scissors = 2 levers + 2 wedges
-   - Bicycle = wheels, levers, pulleys
+   - Bicycle = wheel/axle and levers; its chain-and-sprocket drive is not simply a pulley
    - Wheelbarrow = lever + wheel
 4. **St. Joseph** — Used compound tools in his workshop
 
@@ -221,3 +221,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 14 — Ozobot Challenge](./Session14_Ozobot_Challenge.md)  
 **Next:** [Session 16 — Makey Makey](./Session16_Makey_Makey.md)
+
+## SAFETY / evidence
+
+Teacher-only demonstration of can opener, sharpener, stapler and cutting tools; pupils use photographs or blunt classroom scissors under school rules. No disassembly, blades, sharp cans or pinch tests. A labeled design is a concept, not a tested machine. Each child identifies the relevant lever/wedge/wheel function and its tradeoff; a fastening screw need not be the mechanism doing the main task.

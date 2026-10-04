@@ -1,221 +1,74 @@
 ---
 title: "Session 17: Year Celebration"
-description: "Kindergarten Bi-Weekly C-STREAM year-end celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - light
-  - life-science
-  - earth-science
-  - service
-  - arts
+description: "Celebrate actual evidence and communicate a next step without certifying untested readiness"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-A3]
+technology: Optional
+prep_minutes: 10
+cleanup_minutes: 4
+materials: [Plain paper, Paper grid and token, Large command cards, Shared school crayon set]
 ---
 
 # Session 17: Year Celebration
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 17 of 17
-
-Students celebrate their year of discovery, sharing their favorite learning moments and looking forward to more exploration as they grow.
-
----
-
-# Session 17: Year Celebration
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Reflect on their year of C-STREAM learning
-
-- Share favorite discoveries with others
-
-- Celebrate growth and accomplishments
-
-- Express excitement for future learning
-
----
-
-## Materials Needed
-
-- 📓 Wonder Journals (from throughout the year)
-
-- 📸 Photos from C-STREAM sessions
-
-- 🎨 Celebration decorations
-
-- 🏆 Certificates (optional)
-
-- 🍪 Special snack (optional)
-
-- 📋 "My Favorite Discovery" cards
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**All the Saints We Met** — St. Francis, St. Hildegard, St. Joseph, St. Elizabeth Ann Seton, and more! These friends of God helped us learn.
-
-### Scripture
-> *"I thank my God every time I remember you."* — Philippians 1:3
-
-### Opening Prayer
-*Dear God, thank you for this wonderful year of discovery! Thank you for all we've learned about your amazing world. Thank you for our teachers, our classmates, and all the fun we've had. Help us keep wondering and exploring as we grow. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Celebration Atmosphere** — Decorations, maybe special music
-2. **Year Reflection** — "What a year we've had!"
-3. **Memory Lane** — Show photos from throughout the year
-4. **Count Our Sessions** — "We did 17 sessions of C-STREAM!"
-5. **Today's Celebration** — "We're celebrating all we've learned!"
-
-### Main Activity: Learning Celebration (14 minutes)
-
-**Part 1: Wonder Journal Gallery (4 minutes)**
-
-- Students look through their Wonder Journals
-
-- "Look how much you've done!"
-
-- Share with a partner: "My favorite page is..."
-
-**Part 2: What We Learned (5 minutes)**
-
-- Group remembering of topics:
-  - 🌟 Wonder and senses
-  - 🌍 God's creation
-  - 🏗️ Building and engineering
-  - 🌈 Light and colors
-  - 🎢 Ramps and rolling
-  - ❄️ Weather and seasons
-  - 🌱 Growing things
-  - 🦋 New life
-  - 🎵 Sound and music
-  - ❤️ Helping others
-  - 💧 Water exploration
-
-- Each child shares: "I learned about..."
-
-**Part 3: Looking Forward (5 minutes)**
-
-- "What do you want to learn next year?"
-
-- "What questions do you still have?"
-
-- "You're ready for FIRST GRADE C-STREAM!"
-
-- Optional: Award certificates
-
-### Closing Circle (6 minutes)
-1. **Gratitude Round** — Each child: "I'm thankful for..."
-2. **Blessing** — Teacher blesses the students
-3. **Wonder Challenge** — "Keep wondering all summer!"
-4. **Final Prayer:**
-
-*Dear God,*
-*Thank you for eyes that see your wonders,*
-*Ears that hear your world,*
-*Hands that build and create,*
-*And hearts that love to learn.*
-*Bless these children as they grow.*
-*Keep their wonder alive forever.*
-*In Jesus' name, Amen.*
-
-5. **Celebration!** — Special snack, music, play
-
----
-
-## Assessment
-**End-of-Year Reflection:**
-
-- [ ] Can identify favorite learning experience
-
-- [ ] Shows growth in observation skills
-
-- [ ] Demonstrates wonder and curiosity
-
-- [ ] Connects learning to faith
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-select their favorite journal page
-
-- Partner sharing with buddy
-
-- Focus on one or two key memories
-
-### For Advanced Students
-
-- Present a "teaching" to the class
-
-- Create a "What I Learned" book
-
-- Write about summer wonder plans
-
----
-
-## Wonder at Home 🏠
-**Summer Challenge:** Keep wondering all summer! Here are ideas:
-
-- Visit a nature center, zoo, or museum
-
-- Collect rocks, leaves, and shells
-
-- Watch clouds and name shapes
-
-- Build with boxes and recyclables
-
-- Look for bugs and birds
-
-- Ask "I wonder..." questions every day!
-
----
-
-## Teacher Notes
-
-- Prepare certificates in advance (optional)
-
-- Coordinate with parents for celebration items
-
-- Take lots of photos!
-
-- Consider sending Wonder Journals home as keepsakes
-
-- This closes the bi-weekly kindergarten curriculum
-
----
-
-## 🎊 Congratulations, Wonder Explorers! 🎊
-
-You've completed Kindergarten C-STREAM! You've discovered so much about God's amazing world and learned that:
-
-- God made everything wonderful
-
-- We can build and create
-
-- Science and faith go together
-
-- Helping others is important
-
-- WONDER never ends!
-
-**Keep wondering. Keep exploring. Keep praising God!**
-
----
-
-**Previous:** [Session 16 — Water Wonder](./Session16_Water_Wonder.md)
-
----
-
-*End of Kindergarten Bi-Weekly C-STREAM Curriculum*
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Evidence celebration / one 25-minute meeting |
+| Domains / big idea | C, A; a celebration honors every child without overstating learning |
+| Objective / why | "I can show one actual result and explain a next step." Dated evidence informs continued teaching. |
+| Catholic connection | Truth and dignity; neither a certificate nor prayer participation measures readiness. |
+| Local standards | CST-C1: honest claim/limit; CST-A3: communicate. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | Optional approved documentation camera; no device needed / guided / 10 minutes / 4 included |
+
+## Before class and exact materials
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Retrieve one dated result per child; two comparable dates are needed to claim
+growth/mastery at a local checkpoint. Missing work uses a fresh route:
+3-by-3 grid, START lower-left, target right/up, RIGHT/UP/DOWN/STOP.
+Budget 5/8/10/13 kits; active teams 5/7/10/12.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: grid; large token; four cards | 5 / 5 / 20 | 8 / 8 / 32 | 10 / 10 / 40 | 13 / 13 / 52 |
+| Student: reflection/record sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+
+Teacher timer/roster/envelope; no food, decorations, certificate, slideshow or
+summer work required. No assumption every child attended all 17 meetings.
+
+## Vocabulary, background and SAFETY
+
+Evidence = real dated work/result; demonstrate = show; next step = skill to
+practice. Misconception: attendance proves Grade 1 readiness.
+If asked whether a child is ready, report observed skills/supports only.
+Fresh paper correction is not proof of software execution or a year's growth.
+Large desk pieces, no public names/photos without consent or food celebration.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Invite gratitude and celebrate belonging; introduce the evidence target.
+2. **4-8:** Model a truthful explanation. For missing work, demonstrate the
+   right/up route and correction of a deliberately wrong DOWN.
+3. **8-17:** Each child explains a real record or performs a fresh dated
+   demonstration. Rotate full turns; teacher begins checks.
+4. **17-21:** Child points to evidence, explains support/independence honestly
+   and chooses one next practice action. Record unobserved skills as such.
+5. **21-25:** Pairs share concurrently; save handoff evidence, count materials,
+   return crayons and clear.
+
+## Success, questions, access and troubleshooting
+
+Assess actual claim/evidence, understandable communication and next step.
+Ask "What does this show? What does it not show yet?"
+Support: two explanation choices, pointing and scribing. Challenge: compare
+two dated records with the same criterion and note a limit.
+No portfolio: fresh evidence, not a fabricated memory. No successful test:
+record support needed and teach next time; don't issue a mastery-shaped claim.
+All work indoors; optional photography follows school rules.
+
+**Family:** We celebrated a demonstrated skill and named what to practice.
+Ask, "What can you show, and how will you check your next step?"
+No routine homework, purchases or compulsory summer activities.

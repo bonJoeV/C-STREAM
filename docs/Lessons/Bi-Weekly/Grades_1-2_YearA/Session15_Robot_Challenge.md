@@ -61,11 +61,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
-**St. Thomas Aquinas** — He believed in using reason and problem-solving to understand God's world. "Logic is God's gift!"
+### Saint Connection - VERIFICATION REQUIRED
+Thomas Aquinas biography requires a vetted source. The attributed "Logic is God's gift!" quotation is unverified and removed. Use children's own reasoning, not an invented saying.
 
-### Scripture
-> *"For I can do everything through Christ, who gives me strength."* — Philippians 4:13
+### Scripture reference
+Philippians 4:13; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced or guarantee of coding success.
 
 ### Opening Prayer
 *Dear God, thank you for giving us problem-solving minds. When things don't work, help us try again. Give us patience and creativity as we work with our robot friends today. Amen.*
@@ -75,7 +75,7 @@ By the end of this session, students will:
 ## Lesson Procedure
 
 ### Opening Circle (4 minutes)
-1. **Robot Review** — "Remember Dash? We're experts now!"
+1. **Robot Review** — "We are learning specific skills; show the short sequence you can run."
 2. **Challenge Day** — "Today you'll complete MISSIONS!"
 3. **Programming Review:**
    - Robots follow our instructions exactly
@@ -92,7 +92,7 @@ By the end of this session, students will:
 
 - Practice driving forward and turning
 
-- Try "Path" mode for programming sequences
+- Use preflighted Blockly for stored forward-distance/turn sequences, as in revised Session 04; app labels must match installed help.
 
 **Part 2: Mission Challenges (15 minutes)**
 
@@ -178,7 +178,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Technology / SAFETY / measurable limit
+**Required primary path:** Dash/tablet/Blockly for physical stored code, not just Go driving. Preflight compatibility/charge; low-speed dry marked bays, no chasing, teacher-only cords. Narrow to one forward-turn-return mission and a debug rerun within the same time block. Each Grade 1 child points to/orders and runs two actions; Grade 2 runs three and explains one changed distance/turn result. Driving-only support is practice, not programming mastery. No devices: arrow/token debug, not real robot programming/operation credit. Reserve final 4 mission minutes for cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; oral directions without devices)
 **Family Activity:** Talk about robots at home! Where do we see robots? (Vacuums, car factories, space exploration) If you have a tablet, try ScratchJr to practice programming. Give family members "robot" commands to follow!
 
 ---

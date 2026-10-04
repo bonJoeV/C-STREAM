@@ -44,7 +44,7 @@ By the end of this session, students will:
 
 - 📦 KEVA Planks (from CSCOE library)
 
-- 📦 Building materials (straws, toothpicks, marshmallows)
+- Dry straws and tape or planks; no toothpicks/food models
 
 - 🪙 Weights for testing
 
@@ -107,7 +107,7 @@ By the end of this session, students will:
 
 **Bridge Challenge Option:**
 
-- Span 12 inches (between two desks)
+- Span 20 cm on low stable supports with a catching tray; adult approves support arrangement
 
 - Use provided materials
 
@@ -117,7 +117,7 @@ By the end of this session, students will:
 
 **Tower Challenge Option:**
 
-- Build at least 12 inches tall
+- Build at most 20 cm tall; no standing on furniture or body-weight loading
 
 - Support weight on top
 
@@ -137,7 +137,7 @@ By the end of this session, students will:
    - Make adjustments
 
 3. **Test (4 min):**
-   - Add weights gradually
+   - Adult adds sealed 10 g packets, at most 100 g total; stop at instability, not intentional collapse
    - Record weight held
    - Observe failure point
 
@@ -166,6 +166,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-S3 - individual force labels; CST-E2 - redesign tied to test; CST-M1 - individual load recorded in g. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+Adult alone loads, within the 100 g cap, onto an inspected low structure over a tray. Keep hands away and no students underneath. Record maximum **safe demonstrated load**, not breaking strength. No sharp food-based construction or loose heavy weights. School must confirm stock, not assume loan availability.
 **Observation Checklist:**
 
 - [ ] Identified three types of forces

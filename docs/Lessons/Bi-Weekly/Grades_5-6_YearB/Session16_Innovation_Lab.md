@@ -190,6 +190,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-E1 - criterion and constraint; CST-E2 - test/revision evidence; CST-C2 - respectful user decision. Use one dry cardboard/paper function, not "everything" from the year; a mockup is not a validated working device. No bodily, clinical, launching, chemical, mains, or improvised battery projects. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Identified real problem

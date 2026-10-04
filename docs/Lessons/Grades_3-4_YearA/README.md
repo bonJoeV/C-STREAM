@@ -11,8 +11,18 @@ description: "Year-long C-STREAM curriculum for Grades 3-4"
 |---|---|
 | **Grade Level** | 3rd and 4th Grade |
 | **Session Length** | 40 minutes |
-| **Sessions per Year** | 32-34 sessions |
+| **Sessions per Year** | **32 represented meetings / 1,280 minutes** in 20 lesson files; nominal calendar labels run through Week 34 |
 | **Technology Focus** | Sphero (advanced), Scratch, Little Bits, iPad apps |
+
+## Audit status and planning
+
+See the [Grades 3-4 review](../../Review/Grades_3-4_Review.md) and [71-lesson audit](../../Review/Grades_3-4_Audit.csv) before selecting equipment or assigning a substitute. Week 17 is winter break and Week 32 is spring/Easter break in this track; neither is an instructional meeting. Weekly Year B represents 33 meetings, not an identical calendar.
+
+This is a Grades 3/4 **combined-band rotation, not a Grade 3 Year A / Grade 4 Year B ladder**. Use Grade 3 supported counting/measurement and Grade 4 evidence/tradeoff expectations whichever rotation is taught. Sphero and Bridge Engineering have fully rebuilt directions; other lessons have varied readiness and some require teacher kits/source verification. No whole-track substitute certification is claimed.
+
+Devices/CSCOE loans are **not guaranteed available**. Confirm model, loan dates, software, charging, batteries and school privacy permissions in advance. The Sphero paper fallback demonstrates CT, not real device operation. Pi Day now has a no-device primary comparison; Scratch and modular electronics require working equipment for their primary outcomes. Photos, paper designs and fictional data must be labeled honestly.
+
+Biographies, direct quotations, scripture translation/verse numbering and specific liturgical/historical claims in unrevised portions are **VERIFICATION REQUIRED** before using them as student fact cards; consult the review's source register. Home extensions are optional, not homework or required supplies.
 
 ---
 
@@ -45,7 +55,7 @@ description: "Year-long C-STREAM curriculum for Grades 3-4"
 | Week | Lesson | Focus |
 |------|--------|-------|
 | 24-25 | [Scratch Programming](Week24-25_Scratch_Programming.md) | T |
-| 26-27 | [Little Bits Circuits](Week26-27_Little_Bits_Circuits.md) | T, E |
+| 26-27 | [Snap Circuits: Build, Test & Design](Week26-27_Little_Bits_Circuits.md) | C, S, T, E |
 | 28 | [Pi Day: Circles & Circumference](Week28_Pi_Day_Circles.md) | M, T |
 | 29-31 | [Environmental STREAM](Week29-31_Environmental_STREAM.md) | S, R, E |
 
@@ -72,9 +82,9 @@ By the end of the year, students will:
 
 ### Technology (T)
 
-- Create programs in Scratch with variables and conditionals
+- Develop programs/traces with variables and conditionals; actual device operation is recorded separately
 
-- Use advanced Sphero features (sensors, events)
+- Build/test sequences and loops; model-specific sensors/events are optional verified enrichment
 
 - Understand basic circuits and electronic components
 
@@ -129,7 +139,7 @@ By the end of the year, students will:
 13. [Weeks 19-22: STREAM Choice Labs](Week19-22_Choice_Labs.md)
 14. [Week 23: Catholic Schools Week STREAM](Week23_Catholic_Schools_Week.md)
 15. [Weeks 24-25: Scratch Programming](Week24-25_Scratch_Programming.md)
-16. [Weeks 26-27: Little Bits Circuits](Week26-27_Little_Bits_Circuits.md)
+16. [Weeks 26-27: Snap Circuits - Build, Test & Design](Week26-27_Little_Bits_Circuits.md)
 17. [Week 28: Pi Day: Circles & Circumference](Week28_Pi_Day_Circles.md)
 18. [Weeks 29-31: Environmental STREAM](Week29-31_Environmental_STREAM.md)
 19. [Week 33: Resurrection & New Life Science](Week33_Resurrection_Science.md)
@@ -181,4 +191,4 @@ By the end of the year, students will:
 
 ---
 
-**Grade Band Version:** 1.0 | **
+**Grade Band Version:** 2.0 | Grades 3-4 targeted review, October 4, 2026

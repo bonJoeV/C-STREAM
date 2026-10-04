@@ -20,6 +20,26 @@ nav_order: 12
 
 STREAM Night is a celebration of student learning that brings families together to experience hands-on Science, Technology, Religion, Engineering, Art, and Math activities. This guide provides everything you need to plan a successful STREAM Night or family showcase event at Our Lady of the Prairie Catholic School.
 
+**October 2026 operating conditions:** C is Catholic identity, R is explicit
+religion/faith integration, A includes arts/music, and M is mathematics.
+This optional event celebrates in-school learning; no home-built project,
+purchased display board, family attendance or donation affects grades.
+Use the [family copy system](../Review/Family_Communication.md) and
+[objective-linked rubric](../Rubrics/Student_Project_Rubric.md).
+Event costs below are separate planning estimates, not vendor quotes or part
+of the core classroom budgets. Re-cost for actual attendance, tax and shipping.
+Confirm staffing, venue capacity, accommodations, safeguarding and photo/consent
+procedures with the school. Scripture quotations and Church attributions below
+are **VERIFICATION REQUIRED** before printing; devotional symbolism is not
+scientific evidence.
+
+**SAFETY:** No button cells, latex balloons or projectile stations; no neodymium
+magnets in K. Adults manage electrical power, small parts and safe bounded tests.
+Close unstaffed hazardous stations rather than assuming volunteers will arrive.
+Plan an indoor January version and accessible seated/silent routes.
+Suspected battery/magnet ingestion or other urgent danger triggers immediate
+school emergency escalation. Use [counted kits](../Review/Materials_Plan.md).
+
 ### Why Host a STREAM Night?
 
 | Benefit | Description |
@@ -72,9 +92,9 @@ STREAM Night is a celebration of student learning that brings families together 
 
 **Structure:**
 
-- Students complete projects at home
+- Students complete assessed work during school; optional home conversation only
 
-- Projects displayed with tri-fold boards
+- Projects displayed using school paper/models; purchased boards not required
 
 - Judges evaluate using rubrics
 
@@ -216,7 +236,7 @@ STREAM Night is a celebration of student learning that brings families together 
 
 | Item | Details |
 |------|---------|
-| Materials | KEVA planks, straws, marshmallows, spaghetti |
+| Materials | Large blocks, folded paper or dry cups; no food prerequisite |
 | Challenge | Build the tallest tower in 10 minutes |
 | Scripture | "Built on the rock" (Matthew 7:24-27) |
 | Volunteer Needed | Yes - 1 facilitator |
@@ -226,19 +246,19 @@ STREAM Night is a celebration of student learning that brings families together 
 
 | Item | Details |
 |------|---------|
-| Materials | Tablets with Scratch Jr., Sphero robots, Code.org printables |
+| Materials | Preapproved tested devices only if confirmed; large arrow cards and desk grids for a separate unplugged concept activity |
 | Challenge | Complete a coding puzzle or program a robot |
 | Scripture | "For we are God's handiwork" (Ephesians 2:10) |
 | Volunteer Needed | Yes - 1-2 helpers |
 
-### Station 3: Catapult Launch
-**Faith Connection:** Using our talents to aim for our goals
+### Station 3: Tabletop Simple Machines
+**Faith Connection:** Using knowledge responsibly to help others
 
 | Item | Details |
 |------|---------|
-| Materials | Craft stick catapults, pompoms, target |
-| Challenge | Engineer a catapult, hit the target |
-| Scripture | "I press on toward the goal" (Philippians 3:14) |
+| Materials | Enclosed classroom pulley, short cord, light teacher-controlled desk-level load |
+| Challenge | Compare how the pulley changes the direction of a gentle pull; no launching or overhead loads |
+| Source status | Faith-source wording VERIFICATION REQUIRED; no forced Scripture analogy |
 | Volunteer Needed | Yes - 1 facilitator |
 
 ### Station 4: Bridge Building
@@ -246,8 +266,8 @@ STREAM Night is a celebration of student learning that brings families together 
 
 | Item | Details |
 |------|---------|
-| Materials | Cardboard, tape, string, toy cars for testing |
-| Challenge | Build a bridge that holds the most weight |
+| Materials | Paper/cardboard, rulers, stable supports, ten index cards per team for controlled tests |
+| Challenge | Compare two bridge forms using the same gap and counted cards; no uncontrolled heavy weights |
 | Scripture | "Bear one another's burdens" (Galatians 6:2) |
 | Volunteer Needed | Yes - 1 facilitator |
 
@@ -276,7 +296,7 @@ STREAM Night is a celebration of student learning that brings families together 
 
 | Item | Details |
 |------|---------|
-| Materials | Snap circuits, batteries, LED lights |
+| Materials | Verified protected switched 2-AA packs, current-limited 3-V LED modules and insulated leads; adult-managed cells |
 | Challenge | Complete a circuit to light up an LED |
 | Scripture | "You are the light of the world" (Matthew 5:14) |
 | Volunteer Needed | Yes - 1 helper |
@@ -337,7 +357,7 @@ ___________________________________
 
 - Present to another classroom
 
-- Practice with parents at home
+- Optional conversation at home; all required rehearsal happens in class
 
 - Role-play with teacher
 
@@ -447,7 +467,7 @@ Print these signs for each station:
 |                                                         |
 |   +---------+                         +---------+       |
 |   |Station 3|                         |Station 4|       |
-|   |Catapult |                         | Bridge  |       |
+|   | Pulley  |                         | Bridge  |       |
 |   +---------+                         +---------+       |
 |                                                         |
 |   +---------+                         +---------+       |
@@ -495,7 +515,7 @@ For displaying student work in hallways/classrooms:
 "Thank you for helping with STREAM Night! Here are a few things to remember:
 
 1. **Be welcoming** - Smile and greet every family
-2. **Encourage participation** - Every family can do every activity
+2. **Encourage participation** - Offer accessible choices and confirmed station capacity; do not require every activity
 3. **Let kids lead** - Guide, don't take over
 4. **Keep it positive** - There's no wrong way to explore
 5. **Connect to faith** - Use the scripture signs as conversation starters
@@ -545,9 +565,9 @@ Questions? Find me (Event Coordinator) in the _____ area."
 
 - [ ] Straws (100+)
 
-- [ ] Marshmallows (large bag)
+- [ ] Large reusable blocks or paper cards (no food prerequisite)
 
-- [ ] Uncooked spaghetti (3 boxes)
+- [ ] Dry cups (counted for confirmed station capacity)
 
 - [ ] Tape
 
@@ -561,13 +581,13 @@ Questions? Find me (Event Coordinator) in the _____ area."
 
 - [ ] Pencils
 
-**Catapult Station:**
+**Simple Machines Station:**
 
-- [ ] Pre-made craft stick catapults (10+)
+- [ ] Enclosed pulleys (one per confirmed team space)
 
-- [ ] Pompoms or cotton balls
+- [ ] Short teacher-cut cords (no body/neck loops)
 
-- [ ] Targets (buckets/boxes)
+- [ ] Light desk-level teacher-controlled loads
 
 - [ ] Measuring tape
 
@@ -579,9 +599,9 @@ Questions? Find me (Event Coordinator) in the _____ area."
 
 - [ ] String
 
-- [ ] Toy cars for testing
+- [ ] Ten index cards per team for equal-load tests
 
-- [ ] Books for weight testing
+- [ ] Stable books as supports only; no uncontrolled heavy load piles
 
 **Art/Math Station:**
 
@@ -605,7 +625,7 @@ Questions? Find me (Event Coordinator) in the _____ area."
 
 **Circuit Station:**
 
-- [ ] Snap circuit kits (4-6)
+- [ ] Complete protected AA circuits (count confirmed simultaneous team capacity)
 
 - [ ] Extra batteries
 
@@ -738,7 +758,8 @@ In Christ,
 | Printing (signs, programs) | $10-20 |
 | **Total** | **$60-90** |
 
-*Tip: Use existing classroom materials, ask for parent donations*
+*Tip: Use verified existing classroom materials; donations are optional and
+school supplies cover all participation.*
 
 ### Medium-Budget Event ($150-300)
 
@@ -940,11 +961,11 @@ Send within one week:
 
 ### Printable Materials
 
-- [Station Signs (PDF)](#) - Print for each station
+- [Newsletter/label source fields](../Templates/Family_Newsletter_Template.md) - Verify Scripture wording before making station signs; no PDF supplied
 
-- [Event Map Template](#) - Customize for your space
+- [Room layout](#room-layout-suggestions) - Customize for actual venue capacity
 
-- [Student Display Cards](#) - For showcase format
+- [Student display copy](#student-showcase-format) - For showcase format; school-provided materials
 
 ### Related C-STREAM Resources
 

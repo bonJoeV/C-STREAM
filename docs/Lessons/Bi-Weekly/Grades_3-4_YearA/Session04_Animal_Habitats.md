@@ -64,7 +64,7 @@ By the end of this session, students will:
 > *"Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them."* — Matthew 6:26
 
 ### Opening Prayer
-*Dear God, you designed each creature perfectly for its home. Like St. Francis, help us appreciate and protect all living things. Thank you for the wonder of habitats! Amen.*
+*Dear God, help us appreciate living things and protect their habitats. Give us careful eyes and caring hands. Amen.*
 
 ---
 
@@ -78,7 +78,7 @@ By the end of this session, students will:
    - 💧 **Water** — How does it get water?
    - 🏠 **Shelter** — Where does it hide/sleep?
    - 🌡️ **Space** — Room to move and live
-3. **Perfect Design** — "God designed each animal for its habitat!"
+3. **Adaptations** — Features can help survival in particular conditions; no animal is guaranteed perfectly suited to every changing habitat
 4. **St. Francis** — Loved all creatures
 
 ### Main Activity: Habitat Design Challenge (26 minutes)
@@ -87,8 +87,8 @@ By the end of this session, students will:
 
 - Explore habitat types:
   - 🌲 **Forest** — Trees, seasons, varied animals
-  - 🏜️ **Desert** — Hot, dry, special adaptations
-  - 🌊 **Ocean** — Saltwater, pressure, water-breathing
+  - 🏜️ **Desert** — Dry; deserts can be hot or cold
+  - 🌊 **Ocean** — Saltwater; some animals breathe air, others obtain oxygen from water
   - 🧊 **Arctic** — Cold, ice, thick fur/blubber
   - 🌿 **Rainforest** — Wet, layers, biodiversity
 
@@ -139,7 +139,7 @@ By the end of this session, students will:
 ### Closing Circle (3 minutes)
 1. **Design Appreciation** — "What amazed you about animal adaptations?"
 2. **Stewardship** — "How can we protect habitats?"
-3. **Closing Prayer** — *"Thank you, God, for designing animals perfectly for their homes. Help us be good stewards of your creation. Amen."*
+3. **Closing Prayer** — *"Thank you, God, for living things. Help us protect habitats and be responsible stewards. Amen."*
 
 ---
 
@@ -195,3 +195,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 3 — Bridge Engineering](./Session03_Bridge_Engineering.md)  
 **Next:** [Session 5 — Scratch Intro](./Session05_Scratch_Intro.md)
+
+## Evidence / SAFETY
+
+Use verified animal food/water/shelter cards (**VERIFICATION REQUIRED** for species-specific claims), not invented diet relationships. Models are explanatory, not engineered homes for live animals. No handling wild animals, unknown plants, mold or sharp natural objects; window/photos replace outdoor work in unsafe weather. Each child labels needs and supports one adaptation explanation with the provided source card.

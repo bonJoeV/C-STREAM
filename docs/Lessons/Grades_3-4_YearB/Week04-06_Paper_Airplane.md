@@ -57,7 +57,7 @@ Students will be able to:
 > — Colossians 3:23
 
 ### Saint Connection
-**Wright Brothers** — Though not saints, Orville and Wilbur Wright were raised by their minister father with strong faith. Their persistence through thousands of failures before achieving powered flight at Kitty Hawk shows how faith-inspired perseverance leads to success.
+**Wright Brothers** — Aviation innovators, not saints. Exact trial counts and claims about religious motivation are **VERIFICATION REQUIRED**; avoid suggesting that faith guarantees successful inventions.
 
 ---
 
@@ -205,7 +205,7 @@ Teams choose ONE category to design for:
 ## 📝 Week 5 Procedure (40 minutes)
 
 ### Opening Prayer (2 min)
-"Lord, the Wright Brothers failed thousands of times before success. Help us have that same perseverance! Amen."
+"Lord, help us learn patiently from careful tests and encourage one another. Amen."
 
 ### Testing Round 1 (12 min)
 **Test your design:**
@@ -226,7 +226,7 @@ Teams choose ONE category to design for:
 
 - Record all data
 
-- Calculate average
+- Grade 3: compare shortest/longest and whole-number changes. Grade 4: compare trial ranges; a mean is optional teacher-led enrichment, not expected mastery.
 
 **Data table in journals:**
 | Test | Distance | Hang Time | Accuracy | Notes |
@@ -247,13 +247,7 @@ Teams choose ONE category to design for:
 
 **Connect to four forces:**
 
-- Not enough lift? → Wider wings
-
-- Too much drag? → Sleeker design
-
-- Not stable? → Add fins or adjust balance
-
-- Not enough thrust? → Optimize for throwing
+- A shorter flight alone does not identify a force. Choose one wing/balance feature to test, keep the launch method fixed and compare repeated results. After release a paper glider has no engine thrust.
 
 **Improvement plan:**
 
@@ -430,3 +424,7 @@ Teams choose ONE category to design for:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / time constraints
+
+Use the controlled indoor lanes and blunt paper noses from [Flight Fundamentals](Week02-03_Flight_Fundamentals.md). No clips, hard weights, overhead throws, people in lanes or retrieval during launches. Choose **one** finals performance category for the class; four full rounds are not realistic at 25 pupils. Reserve 5 minutes of build/finals time for cleanup. In winter or without an approved lane, use the teacher-led short-flight pathway there. Record each child's comparison/retest reason; team competition results alone are not mastery.

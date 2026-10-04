@@ -51,7 +51,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Human Dignity in Healthcare** — Every person deserves care and healing. Medical technology should serve human dignity, especially for the vulnerable. Catholic healthcare is the largest private health system in the US!
+**Human dignity in healthcare** - Medical technology should respect people, consent, and access. The unsupported national-size comparison is removed; specific institutional claims require verification.
 
 ### Scripture Connection
 > "He heals the brokenhearted and binds up their wounds."
@@ -118,15 +118,15 @@ Students will be able to:
 
 **Amazing examples:**
 
-- 3D printed organs and prosthetics
+- 3D-printed models and some prosthetic components; research toward tissues/organs is not routine printing of transplantable human organs
 
-- AI that diagnoses diseases
+- Some evaluated AI tools assist clinicians in specific tasks; do not claim general autonomous diagnostic competence
 
 - Apps that track mental health
 
 - Exoskeletons that help people walk
 
-- Cochlear implants that restore hearing
+- Cochlear implants can provide access to sound for some people; outcomes vary and hearing is not restored identically to typical hearing
 
 **St. Gianna's approach:**
 
@@ -136,7 +136,7 @@ Students will be able to:
 
 - Saw Christ in every patient
 
-- "Medicine is a mission, not just a profession"
+- A verified biographical source is needed for attributed sayings; the unsupported quotation is removed.
 
 ### Health Challenges (10 min)
 **Problems worth solving:**
@@ -190,7 +190,7 @@ Students will be able to:
 
 **Case: AI Diagnosis**
 
-- AI can diagnose some diseases better than doctors
+- Suppose a fictional AI assists one diagnostic task: what validation, human oversight, bias checks, and consent would be needed? No universal doctor-comparison claim is established.
 
 - Should AI replace doctors?
 
@@ -229,13 +229,13 @@ Students will be able to:
 
 - Week 28: Present and demonstrate
 
-**Homework:**
+**In-class research with fictional user briefs, not routine homework:**
 
 - Identify health challenge to address
 
 - Research existing solutions
 
-- Interview someone affected (if possible)
+- Use a fictional user brief; do not solicit real personal medical histories.
 
 ### Closing (1 min)
 **Closing Prayer:**
@@ -274,7 +274,7 @@ Students will be able to:
 
 - What do they NEED?
 
-**If possible, interview or survey:**
+**Discuss fictional user information only; do not interview or survey:**
 
 - Someone with the health challenge
 
@@ -534,6 +534,12 @@ Students will be able to:
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-C2 - individual dignity/consent decision; CST-E1 - criterion and constraint; CST-E2 - test/revision; CST-A2 - purposeful accessible interface/model. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND CLINICAL BOUNDARIES
+
+Classroom nonfunctional cardboard models only; no diagnosis, treatment, medicine, sharps, body attachment, patient testing, disability simulation, or therapeutic claims. Never test prototypes on bodies or distribute assistive/safety devices. All comparisons use fictional users; additional saint biography and medical-history claims **VERIFICATION REQUIRED**. Any electronics must use an inspected protected-AA kit; no button cells or improvised power.
 
 - Researched health challenge thoroughly
 

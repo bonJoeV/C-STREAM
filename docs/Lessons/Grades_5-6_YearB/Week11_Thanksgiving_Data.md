@@ -49,7 +49,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Counting Blessings** — When we quantify our blessings, we see God's generosity more clearly. Data science becomes a tool for gratitude, helping us recognize patterns of grace in our lives.
+**Gratitude and data** - A graph can describe fictional response categories; it does not measure God's generosity, grace, faith, or a person's worth.
 
 ### Scripture Connection
 > "Rejoice always, pray continually, give thanks in all circumstances."
@@ -110,14 +110,14 @@ Students will be able to:
 - Informing future decisions
 
 ### Gratitude Data Collection (12 min)
-**Design and conduct survey:**
+**Use a fictional dataset, not a personal survey:** 20 fictional responses: nature 6, helpful actions 5, learning 4, creative play 3, quiet time 2. These are mutually exclusive practice categories, not real class beliefs. Grade 5 counts/graphs; Grade 6 may calculate percentages 30/25/20/15/10.
 
 **Survey topics:**
 1. What are you most thankful for? (categories)
 2. Who are you most thankful for?
 3. What moment this week brought joy?
 4. What blessing do you often take for granted?
-5. Rate your overall gratitude today (1-10)
+5. Do not collect personal gratitude ratings, names, family circumstances, prayer content, or spiritual rankings.
 
 **Survey process:**
 
@@ -148,7 +148,7 @@ Students will be able to:
 
 - Most common category of thanks
 
-- Average gratitude rating
+- Category count/percentage, not a rating of gratitude or faith
 
 - Most mentioned specific blessing
 
@@ -215,7 +215,7 @@ Students will be able to:
 
 - Create your own gratitude data tracker
 
-- Commit to tracking for one week
+- No routine homework; any personal reflection stays optional and private.
 
 **Closing Prayer:**
 "Thank You, God, for more blessings than we can count! Help us notice Your gifts every day. St. Ignatius, teach us the practice of daily gratitude. May we see patterns of grace in our lives and respond with joy. Bless our families this Thanksgiving season! Amen."
@@ -223,11 +223,13 @@ Students will be able to:
 ---
 
 ## 📎 Home Connection
-> "We used data science to explore gratitude today! Ask your child to share the class data visualizations. Try a family gratitude survey or the Daily Examen together. Research shows gratitude improves happiness — the saints knew this long before science!"
+> "We graphed a fictional practice dataset and discussed gratitude. Ask: 'What can a category graph tell us, and what can it not measure?' No health outcome is promised and no personal spiritual survey was collected. Optional family conversation only; no routine homework."
 
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-M2 - individual's labeled bar graph totaling 20 and one comparison; CST-T3 - identify why personal spiritual data is excluded; CST-C2 - explain a respectful opt-out. Official benchmarks **VERIFICATION REQUIRED**. Do not execute the retained survey prompts on real students; use the supplied fictional categories.
 
 - Designed and conducted survey
 

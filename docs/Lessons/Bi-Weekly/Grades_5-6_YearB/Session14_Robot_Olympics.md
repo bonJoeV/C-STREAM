@@ -102,7 +102,7 @@ By the end of this session, students will:
 
 - First to finish line wins
 
-- Programming for maximum controlled speed
+- Controlled speed at most 20; score accuracy and debug explanation, not maximum speed
 
 - Scoring: Gold, Silver, Bronze + participation
 
@@ -126,15 +126,11 @@ By the end of this session, students will:
 
 - All participate, voted favorites
 
-**Event 4: Sumo (Team Event) (4 min)**
+**Event 4: Cooperative Target (4 min)**
 
-- Stay in ring while pushing opponents out
-
-- Teams program strategy
-
-- Sensor usage allowed
-
-- Tournament bracket
+- One robot at a time stops inside a marked target, no contact with others.
+- Teams predict, test, and correct duration at speed at most 20.
+- Score accuracy and explanation; no pushing, collisions, or tournament bracket.
 
 **Event 5: Obstacle Course (4 min)**
 
@@ -143,7 +139,7 @@ By the end of this session, students will:
   - Precision section
   - Problem-solving section
 
-- Fastest time wins
+- Most accurately explained and safely controlled route meets the criterion; no speed prize
 
 **Event 6: Innovation Freestyle (3 min)**
 
@@ -183,6 +179,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-T2 - individual program trace/debug; CST-E2 - evidence-based retest; CST-C2 - safe cooperative roles. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND ACCESS
+
+Adult checks robot/lane condition; 1 m lane per active robot plus 50 cm observer boundary. One robot/lane, short runs at most 1 second, Stop before retrieval, no collisions or shaking. At 25 students use three lanes in rounds; six events are optional, not guaranteed mastery. No-device paper grid route assesses **algorithm reasoning only**, not robot programming/operation.
 **Observation Checklist:**
 
 - [ ] Demonstrated programming skills

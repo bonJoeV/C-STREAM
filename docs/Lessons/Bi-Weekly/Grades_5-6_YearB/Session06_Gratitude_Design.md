@@ -57,7 +57,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**St. Ignatius of Loyola** — Creator of the Daily Examen, a practice of reflecting on blessings and gratitude each day. "Give thanks for all things."
+**Gratitude reflection:** Use the school's approved Examen resource. The unsourced attributed saying is removed; detailed Ignatius history **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"Give thanks in all circumstances; for this is God's will for you in Christ Jesus."* — 1 Thessalonians 5:18
@@ -182,6 +182,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-A3 - specific thank-you message revised after reader feedback; CST-C2 - recipient consent/respect decision. Personal gratitude lists may stay private; no compulsory disclosure, spiritual ranking, or promised emotional benefit. The short Ignatius saying is not verified; use a sourced paraphrase instead. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Identified meaningful recipients

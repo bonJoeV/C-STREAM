@@ -172,6 +172,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-T2 - one variable/condition trace and corrected bug; CST-A2 - purposeful control/feedback choice tested by peer; CST-C2 - welcoming non-exploitative play decision. If no devices, execute score/rule cards and label **algorithm/game simulation, not actual Scratch programming**. No public accounts, private input, chat, or uploads. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Created functional game

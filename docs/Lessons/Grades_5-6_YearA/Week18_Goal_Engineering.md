@@ -223,6 +223,8 @@ Transform: "I want to be healthier" → SMART version
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-E1 - name one criterion and dependency in a school-project goal; CST-M2 - represent three milestones on a timeline; CST-C3 - explain a time/resource constraint. Use project goals rather than compelled health/spiritual disclosures. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Created SMART goals in all four categories
 
 - Developed milestone plan for one goal

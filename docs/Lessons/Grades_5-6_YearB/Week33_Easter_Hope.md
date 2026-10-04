@@ -83,13 +83,13 @@ Students will be able to:
 "Risen Lord Jesus, You conquered death and brought us life! Fill us with Easter hope today. Help us see transformation everywhere in Your creation. Mary Magdalene, help us share the Good News with joy! Alleluia! Christ is risen! He is risen indeed! Amen."
 
 ### Transformation in Science & Faith (12 min)
-**Where science meets resurrection:**
+**Scientific processes and a distinct faith claim:** Natural changes can be limited symbols; they neither cause nor prove Christ's Resurrection.
 
 **Scientific transformations:**
 
-- 🦋 **Metamorphosis** — Caterpillar completely dissolves and reforms as butterfly
+- **Metamorphosis** - a living organism undergoes extensive development; it does not completely dissolve or die and resurrect.
 
-- 🌱 **Germination** — Seed "dies" to become plant
+- **Germination** - a living seed embryo grows when conditions allow; the seed does not have to die.
 
 - 💧 **Phase changes** — Same substance, different forms
 
@@ -133,7 +133,7 @@ Create a demonstration showing transformation:
 
 - Butterfly life cycle model with tech component
 
-- Chemical reaction showing change
+- Dry labeled phase-change diagram; no chemical mixing
 
 - Energy transformation display
 
@@ -217,6 +217,12 @@ Like Mary Magdalene, we are sent to share hope!
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S3 - accurate individual germination/metamorphosis explanation; CST-A3 - purposeful before/after communication; CST-C1 - distinguish scientific process from faith symbol. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+No student-selected chemical reactions, fire, heating, bodily samples, or unknown substances. Use dry paper/cardboard models indoors. Optional electronics require the inspected protected-AA kit; no button cells. Private spiritual reflections need not be shared.
 
 - Created transformation-themed project
 

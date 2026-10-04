@@ -71,7 +71,7 @@ By the end of this session, students will:
 
 ### Opening Circle (6 minutes)
 1. **What is Work?**
-   - Physics: Work = Force × Distance
+   - For a constant force along the motion, work is force times distance; no formal formula calculation required here
    - Moving something takes energy/effort
 2. **Simple Machines:**
    - Tools that make work EASIER
@@ -95,7 +95,7 @@ Set up 3 stations, rotate every 6 minutes:
 
 - Test: Where is it easiest to lift a weight?
 
-- Discover: Closer fulcrum = less effort needed
+- Test moving a lever's fulcrum closer to the **load**, leaving a longer effort arm; identify both arms. "Closer" without saying to what is misleading.
 
 - Identify lever classes (1st, 2nd, 3rd)
 
@@ -200,3 +200,7 @@ Set up 3 stations, rotate every 6 minutes:
 
 **Previous:** [Session 14 — Dash Challenge](./Session14_Dash_Challenge.md)  
 **Next:** [Session 16 — Little Bits](./Session16_Little_Bits.md)
+
+## SAFETY / evidence
+
+Use low tabletop levers/ramps and teacher-selected loads capped at 10 plastic counters. No knives, axes, exposed cutting wedges, crushing/pinch tests or suspended heavy loads. Pulleys stay low with short string kept off bodies. Machines trade force/distance/direction and do not create energy; friction may increase work input. Effort described by feeling is qualitative, not a measured force unless a calibrated spring scale is provided. Each child labels load/effort/fulcrum and compares one observed change.

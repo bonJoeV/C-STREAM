@@ -1,148 +1,80 @@
 ---
 title: "Week 4: Wonder Walk Scientists"
-description: "Grades 1-2 scientific observation of God's creation"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-a
-  - life-science
-  - animals
-  - arts
+description: "Evidence-based observation outdoors or at indoor specimen tables"
+version: "2.0"
+date: 2026-10-04
+tags: [grades-1-2, year-a, life-science, arts]
 ---
 
-# 🔬 Week 4: Wonder Walk Scientists
+# Week 4: Wonder Walk Scientists
 
-## Lesson Overview
-
-| | |
+## Lesson at a glance
+| Field | Teacher information |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **STREAM Focus** | S (Science), R (Religion), A (Art) |
+| Grade / unit / title | Grades 1-2 / Observation / Wonder Walk Scientists |
+| Time / domains | One 30-minute meeting / C, S, A |
+| Big idea | Observation describes evidence; a question is different from an answer. |
+| Student objective | "I can show two details, sort with a reason, and ask a question." |
+| Why | Careful observations help us understand and care for living things. |
+| Catholic connection | Observe without harming habitats; practical stewardship, CCC 2415-2418. |
+| Standards | Local CST-C3: choose a protective action; CST-S1: two observations/question; CST-S3: living/formerly living/never living reasoning; CST-A1: sketch visible details. Official benchmarks: VERIFICATION REQUIRED. |
+| Technology | **None primary path.** A teacher camera is optional documentation, never needed to meet the objective. |
+| Difficulty / prep / cleanup | Low; 10-15 minutes scouting/screening; 4 minutes cleanup included. |
 
----
+## Before class
+1. Choose **indoor by default** if weather, air quality, clothing, mobility access or staffing is unsuitable. Never require an outdoor walk at -10 F.
+2. Outdoor route: a short accessible loop wholly on school grounds with two nearby stops; follow school supervision policy and count students at departure, each stop and return. If 25 cannot be supervised, choose indoor.
+3. Indoor route: prepare a live classroom plant, fallen dry leaf and smooth washed stone for each table, or draw clear pictures showing their origins. Screen for allergy, sharp edges, mold and unknown plants.
+4. Fold each child's paper into two observation boxes and one question box. Draw three sorting icons: living now / once part of a living thing / never living. No worksheet reading.
+5. Model a plant sketch with two specific details, not a generic green scribble.
 
-# Week 4: Wonder Walk Scientists
+## Supplies
+- **Per student:** one paper, pencil/crayon; clipboard only outdoors.
+- **Per pair:** one plastic magnifier, optional; looking closely works without it.
+- **Class:** timer, three sorting icons, screened specimen/picture trays; one handwashing station.
+- **Teacher-only:** roster, route/weather decision, specimen screening. No collection bags: leave habitats undisturbed.
 
-## 🎯 Learning Objectives
+| Students | Pairs / optional magnifiers | Table trays (up to 5/table) | Papers |
+|---|---:|---:|---:|
+| 10 | 5 | 2 | 10 |
+| 15 | 8 | 3 | 15 |
+| 20 | 10 | 4 | 20 |
+| 25 | 13 | 5 | 25 |
 
-### STEM Objectives
-Students will be able to:
-1. Make detailed observations using multiple senses
-2. Record observations through drawing and writing
-3. Classify items as living or non-living
-4. Ask scientific wonder questions
+## Vocabulary / background
+Observe = notice using a safe available sense; detail = a particular feature; living = alive now; formerly living = once alive or part of something alive; evidence = what we noticed.
+Plants are living even when they do not move from place to place. A fallen leaf was part of a living plant; a rock was never alive. Some examples are uncertain: "need more evidence" is acceptable.
+**Misconception:** anything moving is alive. A toy car moves but is not alive.
+**If asked about a winter tree:** dormancy slows growth; a bare tree may still be living. Do not break branches to test it.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Express wonder and gratitude for God's creation
-2. Understand that scientists study God's world
-3. Practice stewardship by observing respectfully
+## Exact numbered sequence (30 minutes)
+1. **0-4:** Explain safe observation and stewardship. Optional original prayer: "God, help us notice carefully and protect your creation." Show what a detail sounds like: "three pointed edges."
+2. **4-7:** Model two details, one drawing and one genuine question: "Why are the edges different?" Student points to evidence rather than copying an answer.
+3. **7-17:** Outdoor: travel to two nearby stops, observe, then return within this block. Indoor: examine two tray examples at tables, with the same noticing prompts. Children draw two details and tell a partner; do not require four outdoor stops.
+4. **17-22:** Sort the plant/leaf/stone examples using three icons. Each child places or points to one example and gives a reason. Grade 2 discusses an uncertain example. At 25 pupils, collect the first five individual roster checks during observation/sorting, using their drawings for the two details.
+5. **22-26:** Complete individual checks at tables: two drawn details, one oral question and one care action. Up to 20 remaining children receive a brief check (five per minute); peers rehearse while waiting. Earlier checks plus this block cover 25, not 25 full speeches in four minutes.
+6. **26-30:** Cleanup and handwashing; headcount if outdoors.
 
----
+## Questions / success
+What did you actually see? Is that a guess or an observation? Was this once part of a living thing? How did leaving it in place protect it?
+- **Grade 1:** draw/point to two observable features and ask one oral question; sort one clear example with oral reason and choose "leave it" rather than disturb.
+- **Grade 2:** label or dictate two features, distinguish three categories and justify an uncertain classification using what further evidence is needed.
+- Record **not yet / with prompt / independently** for details, question, reasoning and stewardship. Do not score handwriting.
 
-# Week 4: Wonder Walk Scientists
+## If things go wrong / fallback
+Rain, ice, extreme cold, allergy or staffing concern: use the prepared indoor trays/pictures without reducing the objective. No live specimens: clearly mark pictures as evidence from pictures, not a firsthand field observation. No magnifiers: use unaided eyes. Student unsure: let them say "I need to find out," then name an observation that could help.
 
-## 🙏 Faith-Reason Integration
+## SAFETY
+No tasting, close sniffing, wildlife handling, unknown plant touching, sun viewing through magnifiers, climbing, roadside routes or collecting feathers/droppings. Outdoors keep group within boundaries and follow school weather limits; indoors use seated accessible trays. Students may observe visually without touching.
 
-### Catholic Teaching Connection
-**Wonder at Creation** — Scientists observe God's creation carefully. When we look closely at nature, we discover God's amazing design — the patterns in leaves, the way animals move, the cycle of seasons.
+## Support / challenge
+Support: teacher narration, tactile safe replica by choice, picture responses and scribing; Grade 1 never reads instructions alone. Challenge: Grade 2 compare two leaf shapes or explain why movement alone is insufficient.
 
-### Scripture Connection
-> "For since the creation of the world God's invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made."
-> — Romans 1:20
+## Cleanup
+Return magnifiers; teacher collects trays; wash hands; count students and equipment; keep sketches as evidence. Store dry materials, not mold-prone specimens.
 
-### Saint Connection
-**St. Hildegard of Bingen** — A Catholic nun who studied plants and nature. She wrote books about the natural world and saw God's beauty in creation.
+## Family snippet
+We observed two details and asked a scientific question, then practiced caring for habitats. Ask: "What did you notice that you had not noticed before?" Optional: observe a plant or a picture indoors and tell two details; no outdoor trip or supplies required. No routine homework.
 
----
-
-## 📚 Materials Needed
-
-- Clipboards with observation sheets (1 per student)
-
-- Pencils
-
-- Magnifying glasses (1 per 2 students)
-
-- Collection bags (optional)
-
-- Camera/iPad for photos (teacher)
-
----
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer & Introduction (4 min)
-**Prayer:** "Creator God, open our eyes to see the wonders of Your creation. Help us observe like scientists and worship like believers. Amen."
-
-**Introduce the task:** "Scientists observe — they look very carefully and write down what they notice. Today, we're going to be scientist-explorers in God's creation!"
-
-### Observation Sheet Explanation (3 min)
-Explain the observation sheet sections:
-
-- Draw what you see
-
-- Write describing words
-
-- Living or non-living?
-
-- Wonder question
-
-### Wonder Walk (18 min)
-**Walk outdoors** with stops for observation:
-
-- Stop 1: Find something LIVING (plant, insect, etc.)
-
-- Stop 2: Find something NON-LIVING (rock, water, etc.)
-
-- Stop 3: Find something BEAUTIFUL
-
-- Stop 4: Find something INTERESTING
-
-At each stop:
-
-- Observe quietly for 30 seconds
-
-- Draw and write observations
-
-- Share one observation with a partner
-
-**Teacher prompts:**
-
-- "What do you notice?"
-
-- "What does it look like? Feel like? Sound like?"
-
-- "What wonder question do you have?"
-
-### Closing & Sharing (5 min)
-Return inside. Share discoveries:
-
-- "What was the most interesting thing you observed?"
-
-- "What wonder question do you have?"
-
-**Faith Connection:** "When we study nature carefully, we see God's amazing design. Every leaf, every bug, every rock shows us something about how God made the world!"
-
-**Closing Prayer:** "Thank you, God, for the wonder of creation. Help us to always see Your beauty in the world. Amen."
-
----
-
-## ✅ Assessment
-
-- Completed observation sheet with drawings and words
-
-- Asked at least one wonder question
-
-- Correctly identified living vs. non-living
-
----
-
-## 📎 Home Connection
-> "We were nature scientists today! Take a Wonder Walk in your neighborhood. Ask your child to show you how to observe like a scientist — look closely, use your senses, and ask wonder questions!"
-
----
-
-**Lesson Version:** 1.0 | **
+## Sources
+[CCC 2415-2418](https://www.vatican.va/archive/ENG0015/__P8B.HTM) addresses care for creation and animals. Romans 1:20 is an optional Scripture **reference**, not a quoted scientific explanation; use a school-approved Bible (translation/verse wording VERIFICATION REQUIRED). Hildegard's biography is not needed for this investigation; any added historical claim requires verification.

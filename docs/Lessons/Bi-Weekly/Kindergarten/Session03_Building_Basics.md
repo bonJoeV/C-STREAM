@@ -1,163 +1,68 @@
 ---
 title: "Session 03: Building Basics"
-description: "Kindergarten Bi-Weekly C-STREAM introduction to engineering"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - light
-  - arts
+description: "Test a low tower for ten seconds, change its base and compare a common measure"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E2, CST-M1]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 4
+materials: [Large wooden building blocks, Team sorting tray, Metric ruler, Plain paper, Shared school crayon set]
 ---
 
 # Session 03: Building Basics
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 3 of 17
+## Lesson at a glance
 
-Students explore basic building concepts, learning that engineers design and build things that help people.
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Structures / one 25-minute meeting |
+| Domains / big idea | C, E, M; a changed base can affect stability |
+| Objective / why | "I can test, change and retest a tower using the same blocks." Evidence supports improvement. |
+| Catholic connection | Care for shared blocks and respect a partner's work. |
+| Local standards | CST-C3: care; CST-E2: retest; CST-M1: count/compare common measure. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 10 minutes / 4 included |
 
----
+## Before class and quantities
 
-# Session 03: Building Basics
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Inspect/pretest a low six-block tower. Budget 5/8/10/13 kits for active
+5/7/10/12 teams; no brand/loan required. Mark a 10 cm comparison on each ruler.
 
-## Learning Objectives
-By the end of this session, students will:
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: 20 large blocks | 100 | 160 | 200 | 260 |
+| Kit: tray; ruler | 5 each | 8 each | 10 each | 13 each |
+| Student: half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
 
-- Understand that engineers build things to help people
+Teacher timer/roster and one kit for demonstration, returned before practice.
 
-- Stack blocks to build a tall tower
+## Vocabulary, background and SAFETY
 
-- Learn from "failures" (things that fall down)
+Base = bottom supports; stable = unaided standing; retest = repeat the same
+check; compare = identify a difference. Criterion is ten seconds, not tallest.
+Misconception: a fall means the child failed. It is information about this model.
+If asked about height, use the same marked ruler next to both attempts; no
+untaught centimeter reading is required. Seated low structures; no throwing,
+shaking, tall competition, splintered pieces or standing on furniture.
 
-- Practice persistence when building
+## Exact sequence: 25 minutes
 
----
+1. **0-4:** Name careful sharing and the ten-second unaided criterion.
+2. **4-8:** Count six blocks, demonstrate a low base and common measuring reference.
+3. **8-17:** Partners test, change only base arrangement and retest with the same
+   six blocks/time. Swap builder/tester turns; begin individual checks.
+4. **17-21:** Child counts the selected blocks, points to a tested change,
+   compares stability and above/below the same 10 cm reference. Save two results.
+5. **21-25:** Return/count all 20 blocks, retain evidence, collect rulers and clear.
 
-## Materials Needed
+## Success, access, troubleshooting and family copy
 
-- 📦 KEVA Planks (from CSCOE library) OR wooden blocks
-
-- 📏 "Measure stick" (craft stick for height comparison)
-
-- 📷 Pictures of tall buildings
-
-- 🖍️ Wonder Journals and crayons
-
-- 📋 Tower Challenge chart (1st try, 2nd try, 3rd try)
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Joseph the Worker** — Jesus's foster father was a carpenter who built things with his hands!
-
-### Scripture
-> *"Unless the Lord builds the house, the builders labor in vain."* — Psalm 127:1
-
-### Opening Prayer
-*Dear God, thank you for people who build things that help us. Help us learn to build with patience and kindness. Bless our hands as we work today. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (4 minutes)
-1. **Wonder Song**
-2. **Show Pictures** — Tall buildings, bridges, houses
-   - "Who builds these things?" (Engineers, builders, architects)
-   - "Why do people build things?" (To help others!)
-3. **Today's Challenge** — "We're going to be builders!"
-
-### Main Activity: Tower Challenge (15 minutes)
-
-**Part 1: Free Exploration (3 minutes)**
-
-- Give each pair a pile of KEVA Planks or blocks
-
-- "See what you can build!"
-
-- Let students explore freely
-
-**Part 2: Tower Challenge (10 minutes)**
-
-- "Now let's see how TALL we can build!"
-
-- Challenge: Build a tower that stands by itself
-
-- **When towers fall:** 
-  - "What happened? What can we try differently?"
-  - "Engineers try again and again!"
-  - Celebrate learning from "failures"
-
-- Use measure stick to compare heights
-
-**Part 3: Celebrate & Clean (2 minutes)**
-
-- Count: "How many blocks in your tallest tower?"
-
-- Careful cleanup together
-
-### Wonder Journal (3 minutes)
-1. Draw your tower
-2. Circle: 😊 (easy) or 😤 (tricky) or 🎉 (proud)
-
-### Closing Circle (3 minutes)
-1. **Share** — What made building tricky? What helped?
-2. **Connection** — "St. Joseph built things to help his family!"
-3. **Closing Prayer** — *"Thank you, God, for hands that can build and minds that can solve problems. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Attempted to stack blocks
-
-- [ ] Tried again after blocks fell
-
-- [ ] Cooperated with partner
-
-- [ ] Participated in reflection
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Use larger blocks
-
-- Build together with teacher support
-
-- Focus on 3-block tower success
-
-### For Advanced Students
-
-- Challenge: Build something specific (house, bridge)
-
-- Use only one hand
-
-- Count blocks and compare quantities
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Build towers at home using household items (boxes, plastic cups, blocks). How tall can you build before it falls? Talk about why some things stack better than others.
-
----
-
-## Teacher Notes
-
-- "Failure" is reframed as LEARNING in engineering
-
-- Use encouraging language: "Your tower is teaching you something!"
-
-- Reserve KEVA Planks from CSCOE Library 2 weeks in advance
-
----
-
-**Previous:** [Session 02 — God's Amazing World](./Session02_Gods_World.md)  
-**Next:** [Session 04 — Colors & Light](./Session04_Colors_Light.md)
+Record count/common comparison and actual redesign result, not participation.
+Ask "What changed? What stayed the same?"
+Support: adult-started three-block structure and pointing; record reduced task.
+Challenge: repeat to check consistency. Both fall: try flat pieces on a broader
+base; preserve earlier results. Few kits: groups <=3 with full turns, same test.
+No safe blocks: defer construction evidence rather than call a drawing a tested tower.
+All work indoors. **Family:** We compared two fair tower tests.
+Ask, "What did your base change do?" No homework or purchase.

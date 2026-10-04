@@ -61,7 +61,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**All Year's Saints** — St. Hildegard, Blessed Carlo Acutis, Cathedral Builders, Psalm 139, St. Thomas Aquinas, St. Katharine Drexel, St. Lucy, Pope Francis, St. Paul, and more!
+**Saints and faith themes** - St. Hildegard, Saint Carlo Acutis, cathedral builders, Psalm 139, St. Thomas Aquinas, St. Katharine Drexel, St. Lucy, Pope Francis, St. Paul. Themes, builders, and living/current leaders are not all canonized saints.
 
 ### Scripture
 > *"Well done, good and faithful servant!"* — Matthew 25:21
@@ -164,6 +164,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-E3 - one supported technical explanation and limit; CST-A3 - artifact caption revision; CST-C3 - responsible-resource example. Replace enthusiasm/mastery labels with observed evidence. Use paired 60-second artifact exchanges at 25 students; no promise of 25 plenary pitches in five minutes. Acutis/Frassati are saints as of September 7, 2025; other listed themes/people are not all saints. Official benchmarks **VERIFICATION REQUIRED**.
 **Year-End Evaluation:**
 
 - [ ] Presented portfolio effectively
@@ -178,7 +180,7 @@ By the end of this session, students will:
 
 ## Year A Accomplishments
 
-**Skills Mastered:**
+**Skills encountered; mastery requires individual evidence:**
 
 - ✅ Advanced design thinking
 
@@ -201,7 +203,7 @@ By the end of this session, students will:
 - ✅ Original invention
 
 **Saints & Faith Connections:**
-St. Hildegard • Bl. Carlo Acutis • Cathedral Builders • Psalm 139 • St. Thomas Aquinas • St. Katharine Drexel • St. Lucy • Pope Francis • St. Paul • Natural Law
+St. Hildegard; Saint Carlo Acutis; cathedral builders; Psalm 139; St. Thomas Aquinas; St. Katharine Drexel; St. Lucy; Pope Francis; St. Paul; order and moral reasoning (not identical to physical laws).
 
 **Portfolio Includes:**
 
@@ -232,7 +234,7 @@ St. Hildegard • Bl. Carlo Acutis • Cathedral Builders • Psalm 139 • St. 
 
 - 📚 Read about great inventors
 
-- 🛠️ Take things apart to learn
+- Optional: dismantle only clean cardboard models with adult permission; never appliances, powered devices, batteries, or unknown equipment.
 
 - ❤️ Use skills to serve others
 

@@ -30,13 +30,13 @@ tags:
 ### STEM Objectives
 Students will be able to:
 1. Understand the relationship between circumference and diameter
-2. Discover pi through measurement
-3. Apply pi to calculate circumference
-4. Use Sphero to draw circles with specific dimensions
+2. Observe that distance around a circle is a little more than three diameters
+3. Compare whole-number lengths; decimal ratio calculations are optional teacher-led enrichment
+4. Use physical circle models; robotics is optional, not a required mathematics assessment
 
 ### Faith Integration Objectives
 Students will be able to:
-1. Connect the infinite nature of pi to God's infinity
+1. Distinguish a finite mathematical value from religious language about God's infinity
 2. Recognize mathematical patterns as evidence of design
 3. Wonder at the order God built into creation
 
@@ -47,7 +47,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**God's Mathematical Order** — Pi appears everywhere in creation — in circles, spheres, waves, and spirals. This mathematical constant reveals the order God built into the universe. Pi's infinite, non-repeating decimal points to God's infinite nature.
+**Wonder and mathematics** — Pi is a **finite number between 3 and 4**. Its decimal expansion never terminates or repeats periodically. Mathematical investigation can inspire wonder; it does not prove God's existence or make pi infinite.
 
 ### Scripture Connection
 > "He has made everything beautiful in its time. He has also set eternity in the human heart."
@@ -97,7 +97,7 @@ Students will be able to:
 **Procedure:**
 1. Measure diameter (distance across through center)
 2. Measure circumference (distance around — use string)
-3. Divide: Circumference ÷ Diameter
+3. Grade 3: lay three diameter-length pieces of string along the circumference and observe the small part left over. Grade 4 may follow a teacher's optional calculator comparison; decimal division is not the core task.
 4. Record on data sheet
 
 **Prediction:** "What do you think you'll find?"
@@ -117,31 +117,31 @@ Students will be able to:
 
 - "They're all around 3.14!"
 
-- "This is PI! No matter the circle size, C ÷ D always equals pi!"
+- "For an ideal circle the ratio is pi. Our measurements give approximations, not exact proof; the sample table is illustrative, not observed class data."
 
 ### Pi Facts & Wonder (5 min)
 **Amazing pi facts:**
 
-- Pi = 3.14159265358979323846...
+- Pi is approximately 3.14; it is not an infinite quantity
 
 - It goes on FOREVER without repeating
 
-- We've calculated trillions of digits — still no pattern!
+- Its decimal expansion has no repeating period; this does not mean no local patterns occur
 
 - Pi appears in circles, spheres, waves, and more
 
 **Faith connection:**
 
-- "Pi is infinite — it never ends and never repeats"
+- "Pi is finite; its decimal expansion does not end or repeat periodically"
 
 - "Only God is truly infinite"
 
-- "When mathematicians study pi, they touch something that points to God's infinity"
+- "Faith reflection and mathematical claims are different; pi is not a measurement of God"
 
 - "The fact that pi works for EVERY circle shows amazing design!"
 
-### Sphero Circle Challenge (12 min)
-**Apply pi with Sphero:**
+### Physical Circle Challenge (12 min)
+**Primary pathway, no technology:** Partners compare two circles using string and whole-centimeter rulers. Each child records around/across lengths and shows three diameters plus a remainder. Use smooth plastic lids/plates, not sharp can lids. The robot options below are optional teacher-pretested enrichment, not core Grade 3 work or a guaranteed Sphero "draw circle" block.
 
 **Challenge 1:** Program Sphero to draw a circle
 
@@ -167,7 +167,7 @@ Students will be able to:
 **Pi memorization challenge:** Who knows the most digits?
 3.14159265358979323846...
 
-**Faith Connection:** "Pi shows us that mathematics isn't just something humans invented — it's something we DISCOVERED in God's creation. The same pi that controls your Sphero's circles is in every planet's orbit, every wheel that rolls, every bubble that forms. God built amazing order into creation!"
+**Faith Connection:** Mathematical patterns invite wonder and careful reasoning. Planetary orbits are not all circles; our circle observation is not a claim about every orbit, spiral or bubble.
 
 **Closing Prayer:** "Thank You, God, for the wonder of pi and the order of Your creation. You are infinite — without beginning or end. Help us see Your fingerprints in mathematics and everywhere we look. Amen."
 
@@ -177,18 +177,22 @@ Students will be able to:
 
 ## ✅ Assessment
 
-- Measured circles and calculated C ÷ D
+- Measured circles and compared around/across lengths; optional calculator work identified separately
 
-- Discovered that the ratio is always pi
+- Explained that an ideal ratio and a measured approximation differ
 
-- Applied pi knowledge to Sphero challenge
+- Showed three diameter-lengths plus a remainder on a circle model
 
-- Connected pi's infinity to God's infinity
+- Distinguished finite pi from religious language about infinity
 
 ---
 
 ## 📎 Home Connection
-> "We celebrated Pi Day! Ask your child: 'What is pi?' 'How did you discover it?' 'Why is pi amazing?' Find circles at home and estimate their circumference using pi. Challenge: How many digits of pi can your family memorize? Talk about how pi's infinite nature reminds us of God's infinity!"
+> We compared circles: around is a little more than three times across. Pi is finite, with a nonterminating decimal expansion. Ask: "How did your string comparison work?" Optional at home: notice circles without measuring or buying supplies. No memorization homework.
+
+## SAFETY / scope
+
+Primary technology **None**. Use plastic circular objects and short string kept on desks, no neck loops, sharp lids, food treats or unsupervised robots. Leave 3 minutes of the challenge window for cleanup. Digit-count records and historical claims are **VERIFICATION REQUIRED** before enrichment; they are not learning evidence.
 
 ---
 

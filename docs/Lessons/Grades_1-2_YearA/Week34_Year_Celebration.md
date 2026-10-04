@@ -49,14 +49,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal/historical details
 **Gratitude and Celebration** — When the Israelites finished important work, they celebrated and thanked God. We celebrate our STREAM year and thank God for the gift of learning, curiosity, and creativity.
 
-### Scripture Connection
-> "The LORD has done great things for us, and we are filled with joy."
-> — Psalm 126:3
+### Scripture reference
+Psalm 126:3; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **All Our Saint Friends** — Throughout the year, we learned about saints who were scientists, engineers, artists, and mathematicians. They all used their gifts for God's glory!
 
 ---
@@ -107,11 +106,11 @@ If available, show photo slideshow of projects and activities.
 ### Celebration Stations (12 min)
 **Quick visits to 4 mini-stations (3 min each):**
 
-**Station 1: Robot Reunion**
+**Station 1: Design Evidence**
 
-- Quick free play with Sphero or Dash
+- Review a saved bridge/robot-route design; any robot replay is supervised and optional, not free play or an automatic mastery claim.
 
-- "Show what you learned to do!"
+- "Show a saved bridge/design: what was its criterion, what did the test show, and what changed?" Children may point/draw/tell; communicate actual design evidence rather than a mastery badge.
 
 **Station 2: Building Challenge**
 
@@ -170,7 +169,10 @@ Bless us over the summer. Help us keep learning and growing. Bring us back safe 
 
 ---
 
-## 📎 Home Connection
+## Technology / SAFETY / assessment limit
+**Recommended primary path:** supervised robot replay if kits are available; replace with paper-token prediction without crediting physical robot mastery. Towers below 30 cm, no heavy loads, real candles, balloons or food treats; photos require school permissions. Reserve 3 station minutes for cleanup. Each child may show one saved test/change orally or by drawing; memories and certificates alone are not all-domain mastery.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated our STREAM year today! Ask your child: 'What was your favorite thing you learned?' 'What are you most proud of?' 'What do you want to learn next?' 
 
 Thank you for your partnership this year! Continue exploring STREAM at home over the summer:
@@ -199,7 +201,7 @@ Have a blessed summer! 🌟"
 
 *has successfully completed a year of C-STREAM learning in Grades 1-2!*
 
-*This student has demonstrated growth in:*
+*This student participated in opportunities to explore the following areas. Report individual demonstrated skills only when supported by saved evidence:*
 
 - ✝️ Faith Integration
 
@@ -213,8 +215,7 @@ Have a blessed summer! 🌟"
 
 - ➕ Mathematical Thinking
 
-*"For we are God's handiwork, created in Christ Jesus to do good works."*
-*— Ephesians 2:10*
+*Optional Scripture reference: Ephesians 2:10; verify/read from the school's approved Bible.*
 
 *Congratulations on a wonderful year!*
 

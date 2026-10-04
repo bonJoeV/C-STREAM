@@ -1,452 +1,110 @@
 ---
 title: "Weeks 29-31: Growing Things"
-description: "Kindergarten three-week unit on plants, growth, and caring for creation during Lent"
-version: "1.3"
-date: 2025-12-05
+description: "Three indoor kindergarten observations of germination, truthful evidence and plant care"
+version: "2.0"
+date: 2026-10-04
 tags:
   - kindergarten
-  - light
   - life-science
-  - astronomy
-  - lent
-  - easter
-  - service
-  - arts
+  - stewardship
+  - observation
 ---
 
 # Weeks 29-31: Growing Things
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 3 sessions × 25 minutes |
-| **Lesson Type** | Long Arc Project |
-| **STREAM Focus** | S (Science), R (Religion), M (Math) |
+| Grade / unit / title | K / Plant observation / Growing Things |
+| Time | Three 25-minute meetings; adult checks plants between meetings |
+| Domains / big idea | C, S, A, M / Living seeds may change over time; honest records include no visible change. |
+| Student objective | "I can show what I see today, compare it with before, and choose a care action." |
+| Why | Farmers, gardeners and scientists observe before deciding what a plant needs. |
+| Catholic connection | Care for creation and resources, [CCC 2402](https://www.vatican.va/archive/ENG0015/__P8A.HTM), paraphrase. Optional Lenten kindness/growth analogy is not evidence about plant biology. |
+| Local standards | CST-C3, CST-S1, CST-S3, CST-A1, CST-M1; local, not official. Official benchmarks: VERIFICATION REQUIRED. |
+| Technology / difficulty | None / Beginner; observation not a controlled-variable experiment |
+| Prep / cleanup | Moderate: 20 minutes initially; adult 2 minutes each school day / 3 minutes each class |
 
-This three-week unit explores plant growth, connects to Lenten themes of growth and change, and emphasizes care for creation.
+## Before class
 
----
+1. Make 5/7/10/12 teams for 10/15/20/25 children (pairs/final trio). Budget 5/8/10/13 kits, including one reserve for odd enrollment; table totals include it. Each child has their own three-page record even when sharing a cup.
+2. **Adult-only seed setup:** use fresh untreated bean seeds whose packet supports the chosen indoor conditions; confirm allergies. Line each clear 240 mL lidded cup with two paper-towel squares. Add 15 mL water to dampen, not flood, towels; put two seeds against the side. Secure lids. Children handle only cup exteriors, not seeds or growing medium. Do not seal cups airtight for the whole unit: adult opens away from children daily for inspection and fresh air, then replaces lid.
+3. Set up two teacher demonstration cups in the same way, one today and one started 5-7 days earlier. The older one is a backup, not a guaranteed sprout. Use simple drawings labeled "example, not our result" if none germinates.
+4. Choose a room-temperature, bright indirect-light shelf away from freezing windows, heaters, exits and pupil reach. Label date/team; no outdoor planting is required.
+5. Prepare a 1 cm ticked strip per child, up to 10 cm. Sketch seed/root/shoot examples on the board. Seedling roots can be longer than ten ticks; record "more than 10" rather than demand advanced counting.
+6. Assign a **named school adult** for weekends/breaks in the class calendar. If nobody can check before a long break, postpone live setup or use dated demonstration drawings; never make family care a prerequisite.
 
-# Weeks 29-31: Growing Things
+## Exact materials across the unit
 
-## 🎯 Learning Objectives
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Per child: observation half-sheets (three) | 30 | 45 | 60 | 75 |
+| Per child: crayon; measuring strip | 10 each | 15 each | 20 each | 25 each |
+| Per team: clear 240 mL cup with secure lid | 5 | 8 | 10 | 13 |
+| Per team: untreated seeds (two) | 10 | 16 | 20 | 26 |
+| Per team: towel squares (two) | 10 | 16 | 20 | 26 |
+| Team initial water, 15 mL per cup | 75 mL | 120 mL | 150 mL | 195 mL |
+| Teacher backup: two cups/lids; four seeds; four towel squares; 30 mL water | 1 set | 1 set | 1 set | 1 set |
 
-### STEM Objectives
-Students will be able to:
-1. Identify what plants need to grow (water, light, soil)
-2. Observe changes in plants over time
-3. Record observations through drawing
-4. Understand that plants are living things that grow and change
+Teacher/class, any size: one 250 mL measuring jug, one 5 mL measuring spoon, one tray large enough for all cups, one marker, timer and roster, plus 100 mL reserve water and six reserve seeds. Thus total initial seeds including backups/reserves = 20/26/30/36; cups = 7/10/12/15; initial water = 105/150/180/225 mL. Reserve water is not an automatic daily dose.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect plant growth to Lenten themes of change and new life
-2. Practice stewardship by caring for plants
-3. Marvel at God's creation of living things
-4. Understand that we grow spiritually just like plants grow physically
+No potting soil, special light, student scissors, loose seeds or take-home plant requirement. This is **short-term germination**, not a claim that mature plants thrive indefinitely on towels.
 
----
+## Vocabulary and background
 
-## 🙏 Faith-Reason Integration
+**Seed:** young plant and stored reserves inside a protective coat. **Germinate:** begin growing. **Root:** takes in water/minerals. **Shoot:** young stem/leaves. **Observation:** what we actually notice. Teach by pointing at drawings and real visible structures.
 
-### Catholic Teaching Connection
-**Care for Creation** — God created plants and gave humans the job of taking care of the Earth. When we care for plants, we're doing God's work. During Lent, we focus on growing closer to God — just like plants grow toward the sun!
+Seeds need appropriate moisture, oxygen and temperature to germinate; species differ in light needs. Many seeds can start on damp paper without soil. Leaves later use light to make sugars; soil supplies support and minerals, not ready-made plant food. Seed reserves are limited. [University of Minnesota Extension: starting seeds indoors](https://extension.umn.edu/planting-and-growing-guides/starting-seeds-indoors) supports stored reserves, drainage, moisture and light guidance.
 
-### Scripture Connection
-> "Then God said, 'Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it.' And it was so."
-> — Genesis 1:11
+**Misconception:** "Every seed will grow if I am good." Germination varies; a failed seed is not a child's fault or a measure of faith.
 
-### Wonder Question
-> "Have you ever wondered how a tiny seed becomes a big plant? It's like a miracle!"
+**If asked, "Can it live without soil forever?"** "It can begin using stored reserves and water. To keep growing it needs light and nutrients; people can provide these in different ways."
 
----
+## SAFETY and between-class care
 
-## 📚 Materials and Preparation
+Seeds, lids and sprouts stay inside adult-managed cups; never eat them or use treated garden seeds. Adult checks allergies, inspects for mold, handles all opening/watering and removes moldy cups without students sniffing or touching them. No pesticides, fertilizer, heat mats or grow-light wiring. Children may observe drawings instead. If spills occur, stop handling and dry the surface immediately.
 
-### Materials Needed (for all 3 weeks)
-| Item | Quantity | Source |
-|------|----------|--------|
-| Seeds (fast-growing: beans, grass, radish) | Several per student | Teacher purchase |
-| Small cups or pots | 1-2 per student | Recycled |
-| Potting soil | 1 bag | Teacher purchase |
-| Spray bottles for watering | 2-3 | Classroom |
-| Plant observation journals | 1 per student | Teacher-made |
-| Magnifying glasses | 5-6 | STREAM supplies |
-| Ruler or measuring strip | Class set | Classroom |
+Each school day adult checks moisture and signs of mold: add **5 mL only if towel is drying**, drain standing water, briefly open for fresh air. Do not have every helper water the same cup. Log date, action, and actual change. After meeting 3, adult may transplant healthy seedlings under a separate school care plan or dispose of seeds/towels; do not release classroom plants outdoors or require families to adopt them.
 
-### Teacher Preparation
+## Meeting 1: a starting record (25 minutes)
 
-- [ ] Pre-sprout some seeds to show different stages
+1. **0-3 (3 min):** Prayer for stewardship; show enclosed seed. Ask "What can we see now?"
+2. **3-7 (4 min):** Teacher models damp-paper setup with one demonstration cup and explains why children do not open cups. Distinguish food reserves from soil.
+3. **7-15 (8 min):** Teams view seeds through cups, count two, alternate turns. Each child draws or dictates one actual detail on page 1; adult dates it and begins individual observation/prediction checks.
+4. **15-20 (5 min):** Each child points to actual observation and chooses a separate predicted change (root/shoot/no change). Record individual O evidence.
+5. **20-22 (2 min):** Decide a school care action; name the adult caregiver. Prediction is not recorded as growth.
+6. **22-25 (3 min):** Return cups to tray, wipe exteriors/tables if wet, collect drawings and tools.
 
-- [ ] Prepare planting containers
+## Meeting 2: compare with before (25 minutes)
 
-- [ ] Create observation journal pages
+1. **0-3 (3 min):** Retrieve page 1 and cups; say "We report what happened, not what we hoped."
+2. **3-7 (4 min):** Model one real comparison, including no visible change if appropriate. Show older cup only as a dated comparison sample.
+3. **7-15 (8 min):** Children observe root/shoot/no change. Hold measuring strip beside visible straight portion without opening cup. Count whole tick intervals with adult help; curved roots are only approximate comparisons. Teacher begins comparison/count checks while circulating.
+4. **15-20 (5 min):** Each child makes page 2 and points to one difference/same feature; teacher records comparison C and counting M evidence.
+5. **20-22 (2 min):** Ask "What changed? What cannot we know just by looking?"
+6. **22-25 (3 min):** Return cups, strips and crayons; wipe any moisture.
 
-- [ ] Set up growing area with light
+## Meeting 3: evidence and care (25 minutes)
 
-- [ ] Plan watering schedule (or assign jobs)
+1. **0-3 (3 min):** Recall responsible care and honest evidence.
+2. **3-7 (4 min):** Model comparing two dated pages, not comparing children as winners/losers.
+3. **7-15 (8 min):** Observe, draw/dictate page 3, count visible leaves or tick intervals. Accept zero or no visible change. Teacher begins individual comparison/care checks.
+4. **15-20 (5 min):** Finish remaining checks: child shows one actual comparison and selects a care action with a reason (water if drying; provide light for leaves; do not flood). Do not repeat already recorded checks or use a 25-child exit line.
+5. **20-22 (2 min):** Partners tell an evidence-based growth/no-growth story. Optional Lent analogy: we practice care and kindness; plant growth does not prove spiritual growth.
+6. **22-25 (3 min):** Store portfolio pages; adult collects all cups for the agreed end-of-unit plan.
 
----
+## Evidence, success and contingencies
 
-## 📝 Week 29: Planting Seeds
+Record O (actual detail), C (comparison), M (count/comparison), and care action as independent / prompted / not yet. Success does not require germination: a truthful zero-leaf record and appropriate care choice count. Assess the child's account, not drawing beauty.
 
-### ⏱️ Timing Guide (25 minutes)
+- **Questions:** "Where is your evidence? Is that something you saw or predicted? Does dry paper need the same care as flooded paper?"
+- **Support:** enlarged stage drawings, dictated records, pointing to cup details, tactile paper root model and oral description; adult writes dates.
+- **Challenge:** compare two same-age cups, noting that uncontrolled differences prevent a causal claim.
+- **No growth:** use real no-change evidence; compare a clearly labeled example without pretending it was the child's seed.
+- **Mold/allergy/no safe live supplies:** use three dated teacher sketches with stated provenance; assess observing/representing changes in the model, not live germination.
+- **Minnesota indoor fallback:** the indoor shelf plan is primary; avoid cold-window contact. No spring weather guarantee.
 
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Wonder | 4 min | Seeds and growth |
-| What Do Plants Need? | 5 min | Discussion |
-| Planting | 12 min | Plant seeds |
-| Closing | 4 min | First observation |
+## Optional family snippet
 
----
-
-### 1. Opening Prayer & Wonder (4 minutes)
-
-**Prayer:**
-> "Dear God, thank you for creating plants that give us food, flowers, and clean air. Help us to be good caretakers of Your creation. As we plant seeds, help us to grow closer to You too. Amen."
-
-**Show a seed:**
-> "Look at this tiny seed. It's so small! But inside this tiny seed is EVERYTHING needed to make a plant. Isn't that amazing?"
-
-**Lent Connection:**
-> "During Lent, we try to grow closer to God. Just like this seed will grow into a plant, WE can grow too — in kindness, in prayer, and in love."
-
----
-
-### 2. What Do Plants Need? (5 minutes)
-
-**Discussion:**
-> "What do you think plants need to grow?"
-
-**Record answers and confirm:**
-| Plants Need | Why |
-|-------------|-----|
-| Water | Plants drink water through their roots |
-| Light | Plants use light to make food |
-| Soil | Soil holds the plant and gives it nutrients |
-| Air | Plants breathe air like we do |
-
-**Show pictures of plants growing:**
-> "A seed goes into the soil. Then roots grow down, and a stem grows UP toward the light!"
-
----
-
-### 3. Planting Time (12 minutes)
-
-**Demonstrate planting:**
-1. Put soil in cup (leave room at top)
-2. Make a small hole with finger
-3. Put seed in hole
-4. Cover gently with soil
-5. Water gently
-
-**Students plant:**
-
-- Each student plants 1-2 seeds
-
-- Write name on cup
-
-- Place in sunny spot
-
-**While planting, discuss:**
-
-- "Be gentle with the seed!"
-
-- "The seed is going to sleep in the soil and then wake up and grow!"
-
-- "We'll take care of it every day."
-
----
-
-### 4. Closing & First Observation (4 minutes)
-
-**Start observation journal:**
-> "Scientists observe — they watch and record. We're going to watch our seeds and draw what we see."
-
-**First entry:**
-
-- Draw the cup with soil
-
-- Date it
-
-- Teacher writes: "Day 1 - Planted seed"
-
-**Prayer:**
-> "God, please help our seeds grow. Help us remember to care for them. And help US to grow during Lent too. Amen."
-
-**Assign watering helpers for the week.**
-
----
-
-## 📝 Week 30: Watching and Waiting
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer | 3 min | Prayer for growth |
-| Observation Time | 10 min | Look at plants |
-| Recording | 8 min | Draw observations |
-| Discussion | 4 min | What do we see? |
-
----
-
-### 1. Opening Prayer (3 minutes)
-
-**Prayer:**
-> "Dear God, thank you for our growing plants. Help us to be patient like plants — growing a little bit each day. Amen."
-
-**Check in:**
-> "Who remembered to check on our plants this week? What did you notice?"
-
----
-
-### 2. Observation Time (10 minutes)
-
-**Gather around plants:**
-> "Let's look carefully at our plants. What do you see? Use your magnifying glasses!"
-
-**Guide observations:**
-
-- "Is anything coming out of the soil?"
-
-- "What color is it?"
-
-- "How tall is it?"
-
-- "Can you see any leaves?"
-
-**Compare to start:**
-> "Is this different from Day 1? What changed?"
-
-**If seeds haven't sprouted:**
-> "Sometimes seeds take time. We have to be PATIENT. That's part of science — waiting and watching."
-
-**Use measurement (simple):**
-> "Is your plant taller than your finger? Shorter? About the same?"
-
----
-
-### 3. Recording Observations (8 minutes)
-
-**Observation journal:**
-> "Draw what your plant looks like TODAY."
-
-Guide students to:
-
-- Draw the cup and plant (if visible)
-
-- Color accurately (green stem? brown soil?)
-
-- Add date
-
-**Teacher writes or student dictates:**
-
-- "Day 7 - Stem is growing!" 
-
-- "Day 7 - Still waiting"
-
----
-
-### 4. Discussion (4 minutes)
-
-**Share observations:**
-
-- "What changed this week?"
-
-- "What do you think will happen next week?"
-
-**Lent Connection:**
-> "Just like our plants are growing a little each day, WE are growing too during Lent. Maybe we can't see it, but God is helping us grow in kindness and love. Sometimes growing takes patience!"
-
-**Prayer:**
-> "Thank you, God, for the gift of growth. Help us to be patient and to keep growing closer to You. Amen."
-
----
-
-## 📝 Week 31: Celebrating Growth
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer | 3 min | Thank you prayer |
-| Final Observations | 8 min | Measure and observe |
-| Reflection | 7 min | What did we learn? |
-| Celebration | 7 min | Share and commit to care |
-
----
-
-### 1. Opening Prayer (3 minutes)
-
-**Prayer:**
-> "Dear God, thank you for helping our plants grow! Thank you for the miracle of seeds becoming plants. Help us to keep caring for Your creation. Amen."
-
----
-
-### 2. Final Observations (8 minutes)
-
-**Observe plants:**
-> "Wow! Look at how much our plants have grown!"
-
-**Measure and record:**
-
-- How tall is your plant now?
-
-- How many leaves does it have?
-
-- What color is it?
-
-**Final journal entry:**
-
-- Draw current plant
-
-- Write height/leaf count (with help)
-
-- "Day 14 - My plant grew!"
-
-**Compare journals:**
-> "Look at your Day 1 drawing. Look at your Day 14 drawing. How did your plant change?"
-
----
-
-### 3. Reflection: What Did We Learn? (7 minutes)
-
-**Discussion:**
-
-- "What did your plant need to grow?"
-
-- "What happened to the seed?"
-
-- "How did YOU help it grow?"
-
-**Life cycle review:**
-> "First there was a seed. Then roots grew down. Then a stem grew up. Then leaves came out. What comes next?" (Flowers, seeds, and it starts over!)
-
-**Lent Connection:**
-> "During these weeks, our plants grew — and so did WE! During Lent, we grow by:
-> - Praying more
-> - Being kind
-> - Giving to others
-> - Getting ready for Easter!"
-
-**Wonder Moment:**
-> "Isn't it amazing that a tiny seed can become a whole plant? Only God could design something so wonderful!"
-
----
-
-### 4. Celebration (7 minutes)
-
-**Share plants:**
-> "Show your plant to a neighbor. Tell them what you learned!"
-
-**Commitment to care:**
-> "Your plant needs you to keep caring for it. What will you do?"
-
-- Keep watering
-
-- Keep it in light
-
-- Watch it grow!
-
-**Taking plants home (or keeping in classroom):**
-Give instructions for continued care.
-
-**Closing Prayer:**
-> "Thank you, God, for the miracle of growth. Thank you for plants that give us food and beauty. Help us to always care for Your creation. As we get close to Easter, help us to keep growing in love. Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Journal Check
-| Element | Week 29 | Week 30 | Week 31 |
-|---------|---------|---------|---------|
-| Completed drawing | ☐ | ☐ | ☐ |
-| Shows accurate observation | ☐ | ☐ | ☐ |
-| Participates in discussion | ☐ | ☐ | ☐ |
-
-### Science Understanding
-| Concept | Demonstrated |
-|---------|--------------|
-| Plants need water | ☐ |
-| Plants need light | ☐ |
-| Plants grow and change | ☐ |
-| Seeds become plants | ☐ |
-
-### Success Criteria
-
-- Student cared for plant throughout unit
-
-- Student can name what plants need to grow
-
-- Student shows growth in observation journal
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Pre-drawn journal pages to add details
-
-- Focus on verbal observations
-
-- Partner for planting and observing
-
-- Simple "tall or short" measurement
-
-### For Advanced Learners
-
-- Measure in centimeters
-
-- Count leaves accurately
-
-- Predict what happens next
-
-- Compare different plants' growth
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**Any week:**
-1. Prayer about creation
-2. Water the plants (check if soil is dry)
-3. Observe: "What do you see?"
-4. Draw or color a plant picture
-5. Closing prayer
-
-**Key message:**
-> "Plants are living things that need water and light to grow. God made plants, and we take care of them!"
-
----
-
-## 📖 Vocabulary
-
-| Word | Definition | Visual Cue |
-|------|------------|------------|
-| **Seed** | The beginning of a plant | Seed shape |
-| **Soil** | Dirt where plants grow | Brown material |
-| **Roots** | The part underground that drinks water | Lines going down |
-| **Stem** | The part that grows up | Line going up |
-| **Leaves** | The green parts that get light | Leaf shape |
-| **Grow** | To get bigger | Arrow up |
-
----
-
-## 📎 Home Connection
-
-**Week 29 Note:**
-> "We planted seeds today! Your child is learning about what plants need to grow: water, light, and soil. During Lent, we're connecting plant growth to our own spiritual growth. Ask your child: 'What did you plant? What does it need?'"
-
-**Week 31 Note:**
-> "Our plants grew! Your child observed and recorded changes over three weeks. If they're bringing their plant home, please help them continue caring for it. Plants need water (when soil is dry) and light. Ask your child to show you their observation journal!"
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+We observed seeds three times, counted visible features, and recorded changes honestly, including no change. Ask: "What is something you saw, and what was only a prediction?" School adults provided all care; there is no homework or donation prerequisite.

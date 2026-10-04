@@ -55,7 +55,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Theme
-**Faith and Reason** — "Science can purify religion from error and superstition; religion can purify science from idolatry and false absolutes. Each can draw the other into a wider world." — St. John Paul II
+**Faith and reason** - [Fides et Ratio, opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) affirms their relationship. The quotation without an original source is removed.
 
 ### Scripture
 > *"For since the creation of the world God's invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made."* — Romans 1:20
@@ -73,7 +73,7 @@ By the end of this session, students will:
    - Common myth vs. reality
    - History tells a different story!
 2. **Catholic Church & Science:**
-   - Founded first universities
+   - Catholic institutions contributed to learning; claims about who founded the "first universities" oversimplify varied histories and require verified sources.
    - Monks preserved ancient knowledge
    - Priests made major discoveries
    - Vatican Observatory (active today!)
@@ -127,7 +127,7 @@ By the end of this session, students will:
 
 **Research Questions:**
 1. What did you discover?
-2. How does this counter the "conflict" myth?
+2. What does the source support, and what historical tensions or limits must we acknowledge?
 3. What surprised you most?
 4. How can you share this truth?
 
@@ -166,6 +166,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-C1 - individual's claim with verified source and limitation; CST-T3 - evaluate source provenance; CST-A3 - communicate findings accurately. Official benchmarks **VERIFICATION REQUIRED**. Do not require predetermined historical conclusions; biographies and institutional/current-role claims **VERIFICATION REQUIRED** before teaching. Use preselected printed sources when devices unavailable.
 **Observation Checklist:**
 
 - [ ] Researched effectively

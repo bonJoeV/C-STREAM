@@ -12,7 +12,7 @@ description: "Printable journal cover for student C-STREAM notebooks"
 <h1 style="font-size: 2.5em; color: #2c3e50; margin-bottom: 10px;">📓 My C-STREAM Journal</h1>
 
 <p style="font-size: 1.3em; color: #34495e; margin-bottom: 20px;">
-<strong>C</strong>atholic · <strong>S</strong>cience · <strong>T</strong>echnology · <strong>R</strong>eligion · <strong>E</strong>ngineering · <strong>A</strong>rts · <strong>M</strong>ath
+<strong>C</strong>atholic identity · <strong>S</strong>cience · <strong>T</strong>echnology · <strong>R</strong>eligion/Faith Integration · <strong>E</strong>ngineering · <strong>A</strong>rts (including music) · <strong>M</strong>athematics
 </p>
 
 <hr style="border: 1px solid #2c3e50; margin: 20px 0;">
@@ -28,9 +28,9 @@ Grade: _______ &nbsp;&nbsp;&nbsp; Year: 20____ - 20____
 <hr style="border: 1px solid #2c3e50; margin: 20px 0;">
 
 <p style="font-size: 1.1em; font-style: italic; color: #2c3e50; margin: 15px 0;">
-"The heavens declare the glory of God; the skies proclaim the work of his hands."
+We observe, wonder, create and use our learning to care for people and creation.
 </p>
-<p style="font-size: 0.9em; color: #7f8c8d;">— Psalm 19:1</p>
+<p style="font-size: 0.9em; color: #7f8c8d;">Our classroom learning purpose</p>
 
 <hr style="border: 1px solid #2c3e50; margin: 20px 0;">
 
@@ -52,7 +52,7 @@ Grade: _______ &nbsp;&nbsp;&nbsp; Year: 20____ - 20____
 
 - **Paper:** Use cardstock for durability
 
-- **Color:** Color printing recommended, but B&W works too
+- **Color:** Black-and-white is sufficient; a hand-drawn cover on existing paper works too
 
 - **Size:** Fits standard composition notebooks (tape or glue to front)
 

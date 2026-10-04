@@ -104,7 +104,7 @@ Students will be able to:
 
 - Design: Create a simple water filter using available materials
 
-- Test: Filter muddy water and compare clarity
+- Test: Compare clarity of teacher-prepared water containing clean soil, in a tray. **Clearer does not mean safe to drink.** This model cannot remove all microbes or dissolved contaminants.
 
 **Challenge B: Shelter Solution**
 
@@ -126,9 +126,8 @@ Students will be able to:
 
 - Problem: After disasters, people need light without electricity
 
-- Design: Create a light source that doesn't require batteries
-
-- Test: Brightness and duration
+- Design: Make a paper/foil reflector for a supplied, teacher-controlled battery flashlight.
+- Test: Compare illumination at the same target distance. It redirects an existing light; it does not create energy or provide a battery-free emergency lamp.
 
 ### Empathy Research (10 min)
 **Research phase:**
@@ -169,7 +168,7 @@ Teams write a clear problem statement:
 ### Closing & Preparation (5 min)
 **Faith Connection:** "St. Damien didn't just feel sorry for people with leprosy — he DID something. He built and created and served. That's what we're doing: using our skills to serve others."
 
-**Homework thinking:** "Think about your design before next session!"
+**In-class continuation:** Save the plan; begin the next meeting with a two-minute recall. No required homework.
 
 ---
 
@@ -256,13 +255,13 @@ Teams write a clear problem statement:
 ### Testing Phase (10 min)
 **Test designs** based on criteria:
 
-- Water filter: Does it filter? How clear is the output?
+- Water filter: Does it trap visible particles? How does clarity change? Never test by drinking.
 
 - Shelter: Is it waterproof? Stable?
 
 - Accessibility aid: Does it work as intended?
 
-- Emergency light: How bright? How long?
+- Reflector: Does it redirect the supplied light toward the same target? Do not claim a new energy source.
 
 **Record results:**
 
@@ -295,7 +294,7 @@ Teams write a clear problem statement:
 4. What we learned (improvements)
 
 ### Presentations (10 min)
-**Teams present (2 min each):**
+**Teams present to a neighboring team, then switch (5 min each direction):** This fits up to 25 pupils without assuming only five teams.
 
 - Demonstrate design
 
@@ -336,3 +335,7 @@ Teams write a clear problem statement:
 ---
 
 **Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+
+## SAFETY and dignity
+
+Models only: no drinking filtered water, constructing real shelters, lifting people, testing aids on a person's body, disability simulations, flames or homemade generators. Teacher controls clean water/flashlights, checks recycled materials for sharp edges, and dries spills. Use fictional user needs or consented school information, never expose a child's poverty/disability. Criteria describe performance; constraints limit materials/time. These are classroom prototypes, not certified community solutions.

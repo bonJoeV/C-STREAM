@@ -48,15 +48,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Christ the Light** — Jesus called Himself the "Light of the World." Light guides us, reveals truth, and brings hope. The Christmas star guided the Magi to Jesus — the ultimate Light.
 
-### Scripture Connection
-> "I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life."
-> — John 8:12
+### Scripture reference
+John 8:12; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
-**The Three Magi (Wise Men)** — Scientists/astronomers who studied the stars and followed light to find Jesus. They show that science can lead us to faith!
+### Biblical connection
+Matthew 2 describes Magi and a star; their number and modern scientific profession are not established there. Read an approved retelling (**VERIFICATION REQUIRED**); do not use the story as scientific evidence for a particular astronomical event.
 
 ---
 
@@ -104,11 +103,11 @@ Students will be able to:
 
 - Tell the story of the Magi
 
-- "They studied the sky — they were scientists!"
+- "The story describes Magi following a star; it does not give a modern scientific profession."
 
 - "They saw a special star and followed it"
 
-- "Science led them to Jesus!"
+- "Their journey is a faith account, distinct from today's measured light investigation."
 
 **Key learning:**
 
@@ -123,7 +122,7 @@ Students will be able to:
 
 **Option A: Pin-prick star jars**
 
-- Dark jars with holes poked in lid
+- Teacher-prepared **paper** constellation cards with holes made by an adult hole punch; no glass jars, metal lids or student pins.
 
 - Flashlight inside creates "stars"
 
@@ -167,7 +166,7 @@ Students will be able to:
 ### Closing (2 min)
 **Faith connection:**
 
-- "The Magi used science (studying stars) to find Jesus"
+- "The Magi story and our star observations are different kinds of accounts."
 
 - "Science and faith go together!"
 
@@ -266,7 +265,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / evidence / cleanup
+Low-power flashlights only; no lasers, flames, glass, sun viewing or beams at eyes. Keep enough light for safe aisles; dim only while seated. Replace loose sequins/glitter with foil or crayon patterns. Light travels approximately straight in a uniform medium; reflection/refraction can change direction. Grade 1 shows a blocking/reflecting observation orally; Grade 2 compares one changed light position. Reserve 3 activity minutes each meeting for cleanup. **Technology: None primary path**; projector optional.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We explored stars and light! Ask your child: 'What are stars?' 'Who followed the Christmas star?' 'What did you learn about light?' We connected Jesus as the 'Light of the World' to physical light. On a clear night, look at stars together. Talk about how the Wise Men followed a star to find Jesus."
 
 ---

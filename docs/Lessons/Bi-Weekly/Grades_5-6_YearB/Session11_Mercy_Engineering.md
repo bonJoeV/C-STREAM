@@ -194,6 +194,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C2 - consent/dignity safeguard; CST-E1 - specific criterion/constraint; CST-E3 - plan with evidence and limit. Classroom dry model only; no patient, food-contact, safety, or clinical device. Real service implementation requires an approved adult partner and separate time; family service is optional. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Understood Works of Mercy

@@ -76,8 +76,8 @@ By the end of this session, students will:
 3. **Fr. Georges Lemaître:**
    - Catholic priest AND physicist
    - Proposed the Big Bang Theory
-   - "The universe is expanding from a beginning!"
-   - Einstein initially disagreed—then changed his mind!
+   - Paraphrase the expanding-universe model; exact historical chronology is VERIFICATION REQUIRED
+   - Do not use an unsourced Einstein reaction or quotation
 4. **Truth Leads to God:**
    - Science asks "How?"
    - Faith asks "Why?"
@@ -91,13 +91,13 @@ By the end of this session, students will:
   - Belgian priest (1894-1966)
   - Studied math and physics
   - Also studied theology
-  - First to propose universe had beginning
+  - Proposed an early expanding-universe/primeval-atom model; exact priority claims require verification
   - Called it "primeval atom" or "cosmic egg"
-  - Einstein called his physics "beautiful"
+  - No attributed quotation unless an actual source is supplied
 
 - Discussion:
   - Why would a priest study the universe?
-  - How does the Big Bang connect to "In the beginning..."?
+  - How do a scientific model and a religious account ask different questions? The Big Bang is not proof of Genesis or a scientific test of creation from nothing.
 
 **Part 2: Catholic Scientists Gallery (8 minutes)**
 
@@ -106,7 +106,7 @@ By the end of this session, students will:
   - **Louis Pasteur** — Vaccines, germ theory
   - **Maria Agnesi** — Mathematician
   - **Galileo** — Yes, remained Catholic his whole life!
-  - **Br. Guy Consolmagno** — Vatican astronomer TODAY!
+  - **Br. Guy Consolmagno** — Astronomer; any current title/role is VERIFICATION REQUIRED
 
 - Create gallery card for one scientist
 
@@ -114,7 +114,7 @@ By the end of this session, students will:
 
 - Design poster or infographic showing:
   - Faith and science as partners
-  - Quote from Catholic scientist
+  - A sourced fact or clearly labeled pupil reflection; no invented scientist quotation
   - Image or diagram
   - Your own reflection on how they connect
 
@@ -189,3 +189,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 8 — Digital Stories](./Session08_Digital_Stories.md)  
 **Next:** [Session 10 — Geology Rocks](./Session10_Geology_Rocks.md)
+
+## Source gate
+
+Use verified cards with institution/title/URL/page; personal faith or its influence cannot be inferred from affiliation. Pasteur's religious practice and other biographical claims remain **VERIFICATION REQUIRED**. Without cards, use the verified [Fides et Ratio opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) to distinguish an observation/model from faith reflection. Each pupil cites one supported claim and one limitation. A poster alone is not scientific or historical mastery.

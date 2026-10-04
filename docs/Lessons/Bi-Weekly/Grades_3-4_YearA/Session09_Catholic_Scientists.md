@@ -20,7 +20,7 @@ tags:
 ## Overview
 **Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 9 of 17
 
-Students research and present on Catholic scientists, discovering that faith and science have always worked together.
+Students research sourced examples of scientists and discuss faith and reason without claiming that history has been free of conflict.
 
 ---
 
@@ -56,7 +56,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Theme
-**Faith and Reason** — The Church has always supported science as a way to understand God's creation better!
+**Faith and Reason** — Catholic teaching values both; history includes disagreements and wrongdoing. Source: [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html), paraphrased.
 
 ### Scripture
 > *"The heavens declare the glory of God; the skies proclaim the work of his hands."* — Psalm 19:1
@@ -73,7 +73,7 @@ By the end of this session, students will:
    - "We celebrate our Catholic education!"
    - Faith AND learning go together
 2. **Science & Faith Partners:**
-   - The Church has ALWAYS supported science
+   - Do not erase historical conflict with an "always supported" claim
    - Many scientists were Catholic priests, nuns, laypeople
    - "Studying creation helps us know the Creator!"
 3. **Famous Examples:**
@@ -189,3 +189,7 @@ Use the scientist profile sheet:
 
 **Previous:** [Session 8 — Scratch Animation](./Session08_Scratch_Animation.md)  
 **Next:** [Session 10 — Weather Science](./Session10_Weather_Science.md)
+
+## Source gate / evidence
+
+**VERIFICATION REQUIRED:** approved profile cards with title/institution/URL/page for each discovery and claim about personal faith. Pasteur's religious practice, Lejeune's contribution relative to collaborators, and current roles such as Consolmagno's must not be guessed. If verified cards are unavailable, use the verified Fides et Ratio opening to distinguish a scientific observation and faith reflection; do not recite unsourced biographies. Each child identifies one source and one claim it supports. No public pupil research accounts or required family research.

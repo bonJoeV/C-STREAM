@@ -56,7 +56,7 @@ Students will be able to:
 > — Mark 1:3
 
 ### Theme Connection
-**Advent Themes:** Hope, Peace, Joy, Love — one for each week of waiting. Technology can help us reflect on these themes and share them with others.
+**Advent themes:** Hope, peace, joy, and love are a possible devotional classroom framework, not a universal official assignment of themes to each week. Confirm liturgical content with the school's religion teacher.
 
 ---
 
@@ -94,7 +94,7 @@ Students will be able to:
 
 **Technology challenge:**
 
-- Average person: 7+ hours screen time daily
+- Avoid unsupported population screen-time statistics; discuss intentional use without collecting personal usage data.
 
 - How much is intentional vs. mindless?
 
@@ -216,6 +216,8 @@ Students will be able to:
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-T3 - individual intentional-use/privacy decision; CST-A2 - readable purposeful layout; CST-C3 - resource/time stewardship explanation. Official benchmarks **VERIFICATION REQUIRED**. Keep media in school-approved storage; no public posting, identifiable photos, unlicensed music, or accounts without approval. Paper storyboard is available but does not demonstrate digital production.
 
 - Created quality digital Advent resource
 

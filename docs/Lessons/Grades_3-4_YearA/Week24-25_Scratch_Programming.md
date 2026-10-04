@@ -54,7 +54,7 @@ Students will be able to:
 > — John 14:15
 
 ### Saint Connection
-**Blessed Carlo Acutis** — A young computer programmer who used his skills to serve God. He created websites about Eucharistic miracles and is an example of using technology for faith.
+**St. Carlo Acutis** — Canonized September 7, 2025; see the [Vatican homily](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). An example of service, not proof that moral decisions are automatic computer rules.
 
 ---
 
@@ -233,7 +233,7 @@ Students will be able to:
 
 - "What would you add with more time?"
 
-**Faith Connection:** "Blessed Carlo Acutis showed us that coding can be used for God's glory. He didn't just play games — he created things to help people know Jesus. How might YOU use your programming skills to help others?"
+**Faith Connection:** "St. Carlo Acutis reminds us to use skills in service. Human moral judgment is not identical to an if/then program."
 
 **Closing Prayer:** "Thank you, God, for the gift of logic and creativity. Help us use our skills — in coding and in life — to serve You and others. Amen."
 
@@ -260,7 +260,11 @@ Students will be able to:
 ---
 
 ## 📎 Home Connection
-> "We learned intermediate Scratch programming! Ask your child to show you their game at scratch.mit.edu. Ask: 'What variables did you use?' 'How do the conditions work?' Encourage them to explore Scratch at home — it's free! Talk about how Blessed Carlo Acutis used technology for good."
+> We used variables and conditions. Ask: "How did one input change the score?" Optional exploration at scratch.mit.edu is not homework or an expectation of home access. St. Carlo Acutis inspires service with our skills.
+
+## Implementation notes
+
+Primary technology is **Required** for executed Scratch; paper score/condition traces do not demonstrate device programming. Use guest/offline local files, not shared credentials/public posting. Before the catch-game extension, test score reset and repeated contact: after scoring, move the target away and wait until separation, or use a discrete click event. Continuous `if touching` inside `forever` otherwise scores repeatedly. Grade 3 begins with counts 0-3; Grade 4 traces restart/boundary conditions. Collect each child's predicted/actual score sequence; keep individual operation separate. Leave 5 minutes within creation for saving/cleanup; optional home coding is never required.
 
 ---
 

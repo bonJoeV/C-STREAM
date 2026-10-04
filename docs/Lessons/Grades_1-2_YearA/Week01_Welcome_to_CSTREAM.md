@@ -50,14 +50,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Faith and Reason** — In Catholic teaching, faith and reason are not opposed — they work together! Science helps us understand HOW God's creation works, while faith helps us understand WHY God created it.
 
-### Scripture Connection
-> "The heavens declare the glory of God; the skies proclaim the work of his hands. Day after day they pour forth speech; night after night they reveal knowledge."
-> — Psalm 19:1-2
+### Scripture reference
+Psalm 19:1-2; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced; this is not scientific evidence.
 
-### Catholic Scientist Connection
+### Catholic Scientist Connection - VERIFICATION REQUIRED before teaching biographies
 **Gregor Mendel** — A Catholic monk who discovered how traits are passed from parents to children (genetics). He studied pea plants and is called the "Father of Genetics."
 
 ### Wonder Question
@@ -148,7 +147,7 @@ Take 2-3 quick responses.
 > "Gregor Mendel was a monk — a man who devoted his life to God. He also studied pea plants and discovered how parents pass traits to their children. He's called the Father of Genetics!"
 
 **Georges Lemaître** (Show picture)
-> "Father Lemaître was a Catholic priest AND a scientist. He came up with the Big Bang theory — the idea that the universe started from a tiny point and expanded. A priest helped us understand how the universe began!"
+Lemaitre's priesthood and cosmological contributions require a vetted biography before teaching. Do not describe expansion as a proven tiny point in space or as a complete explanation of why the universe exists. If sources are unavailable, replace this block with a child-generated observation/question about a classroom plant.
 
 **Discussion:**
 
@@ -225,7 +224,7 @@ Take 2-3 quick responses.
 
 ---
 
-## 📎 Home Connection
+## 📎 Home Connection (optional; no routine homework)
 
 **Family Note:**
 > "Today we began our C-STREAM year! Your child learned that in Catholic school, we learn science, technology, engineering, art, and math — all connected to our faith. We also learned about Catholic scientists like Gregor Mendel. Ask your child: 'What is one thing you want to learn in STREAM this year?'"

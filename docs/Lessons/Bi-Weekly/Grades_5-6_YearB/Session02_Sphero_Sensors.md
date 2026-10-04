@@ -1,214 +1,115 @@
 ---
 title: "Session 2: Sphero Sensors"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B sensor programming"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - light
-  - earth-science
-  - arts
----
-
-
-# Session 2: Sphero Sensors 📡
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 2 of 17
-
-Students explore advanced sensor capabilities of Sphero BOLT, creating programs that respond to environmental conditions.
-
+description: "Stationary light-threshold reasoning with a complete paper sensor model"
+version: "2.0"
+date: 2026-10-04
 ---
 
 # Session 2: Sphero Sensors
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
 
-- Understand various Sphero BOLT sensors
+| Field | Teacher reference |
+|---|---|
+| Grade / unit / title | Grades 5-6 / Computing B / Sphero Sensors |
+| Time | One 45-minute meeting |
+| Domains | C, T, M |
+| Big idea | A sensor reading becomes a response through a stated threshold and rule. |
+| Student objective | I can trace four light readings through a condition, debug the boundary, and describe a limit. |
+| Why | Automatic lights and monitoring tools need understandable, tested input/output behavior. |
+| Catholic connection | Respect users and tell the truth about a system's capabilities; [dignity and truth sources](../../../Review/Grades_5-6_Review.md#verified-sources). Sensors cannot detect God's presence or moral worth. |
+| Local standards / evidence | CST-T1: individual input/output model; CST-T2: individual conditional/loop trace; CST-M2: four-row table and comparison; CST-C2: human-impact/access safeguard. |
+| Official benchmarks | VERIFICATION REQUIRED; four local program codes. |
+| Technology | Recommended: primary paper simulation is complete. Optional BOLT/tablet path demonstrates actual sensor programming only when observed on a working device. Paper is not robot operation evidence. |
+| Difficulty / prerequisites | Moderate; compare integers, follow if/else, repeat four times. No earlier rotation or autonomous-navigation prerequisite. |
+| Prep / cleanup | Paper first 15 minutes/repeat 10; optional pairing/calibration at least 20 minutes outside class; cleanup 4 included. |
 
-- Program sensor-based responses
+## BEFORE CLASS
 
-- Create adaptive robot behaviors
+1. Make 4/5/7/9 teams of at most three, rotating input reader, rule operator, checker.
+2. Copy readings 12,48,45,18 and threshold 30 on cards. These are **invented model units**, not verified lux readings.
+3. Optional BOLT: charge/pair with compatible Sphero Edu and pre-test current light-sensor reading and matrix/LED blocks. Confirm actual units/display; do not substitute invented readings as measured values.
+4. Keep real BOLTs stationary on dry table trays. Remove all motion blocks; use light outputs only. Check dim/bright readings, set a threshold between them, and record it. If readings are indistinguishable, use paper immediately.
+5. Prepare output cards "NEEDS LIGHT" and "ENOUGH LIGHT." Labels, not color alone, communicate states.
 
-- Debug sensor programming
+## MATERIALS
 
----
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Individual table/exit sheet | 1/student | 10 | 15 | 20 | 25 |
+| Reading/rule/output cards | 1 sheet/team | 4 | 5 | 7 | 9 |
+| Marker; blunt scissors; dry tray | 1 each/team | 4 | 5 | 7 | 9 |
+| Timer; large teacher trace | 1 each/teacher | 1 | 1 | 1 | 1 |
+| BOLT + approved tablet, optional | 1 tested pair/team | 4 | 5 | 7 | 9 |
+| Low-brightness flashlight, optional | 1/team | 4 | 5 | 7 | 9 |
 
-# Session 2: Sphero Sensors
+## VOCABULARY
 
-## Materials Needed
+**Sensor:** measures a physical input. **Threshold:** boundary for a decision. **Condition:** rule selecting output. **Calibration:** checking readings under known conditions. **Loop:** repeated rule application. **Limitation:** what a system cannot tell us.
 
-- 🤖 Sphero BOLT robots (from CSCOE library)
+## TEACHER BACKGROUND / COMPLETE RULE
 
-- 📱 Tablets with Sphero Edu
+```text
+Repeat four times:
+  read next light value
+  if value < threshold:
+    output NEEDS LIGHT
+  else:
+    output ENOUGH LIGHT
+  wait for next test
+```
 
-- 🔦 Flashlights (for light sensor)
+Paper key at threshold 30: 12 -> NEEDS LIGHT; 48 -> ENOUGH LIGHT; 45 -> ENOUGH LIGHT; 18 -> NEEDS LIGHT. At exactly 30 output ENOUGH LIGHT, because the condition is strictly less than. On devices students build the analogous pretested condition with light display only; calibrate their own threshold rather than assuming model units.
 
-- 📓 Engineering journals
+A brightness reading alone does not identify **direction** toward a light, detect all obstacles, or establish safety. This stationary lesson intentionally narrows the original multi-sensor navigation objective. Gyroscope, accelerometer, compass, and IR research remain optional future work after verified block support and safe plans.
 
-- 🏁 Test environment
+**Common misconception:** "bright -> forward" makes a light-seeking navigator. It responds to brightness without knowing direction.
 
----
+**If asked, "Is it thinking like a person?"** Answer: It executes a rule on input; it does not make ethical judgments or possess human dignity.
 
-## Catholic Integration
+## EXACT LESSON SEQUENCE
 
-### Saint Connection
-**St. Faustina Kowalska** — She was attuned to God's presence, sensing divine mercy. Our robots sense their environment; we can sense God's love!
+1. **0-5 (5 min):** Introduce input/output purpose and honest capability limits.
+2. **5-12 (7 min):** Model threshold 30 and exact-boundary case. Distinguish invented model values from actual readings.
+3. **12-20 (8 min):** Teams assemble paper cards or stationary sensor/light blocks. Device teams record actual dim/bright values and chosen threshold; adult checks no motion blocks.
+4. **20-30 (10 min):** Run four readings, rotate roles, record expected/actual outputs. Devices test dim/bright/dim/bright, preserving their own units and values.
+5. **30-38 (8 min):** Deliberately reverse `<` to `>` in a copy, predict effects, test/correct. Add exact-threshold paper test 30; discuss noisy readings near a boundary.
+6. **38-41 (3 min):** Each independently traces 12/48/30, explains the boundary bug, and names one limitation or human-impact safeguard.
+7. **41-45 (4 min):** Stop programs, store cards/devices, collect exits.
 
-### Scripture
-> *"The Lord is near to all who call on him, to all who call on him in truth."* — Psalm 145:18
+## QUESTIONS TO ASK STUDENTS
 
-### Opening Prayer
-*Dear God, you created us with senses to experience your world. Help us program robots that respond intelligently to their environment, just as we respond to your presence in our lives. Amen.*
+Which value is the input? Which part is the programmer's choice? What happens at exactly 30? What evidence would be needed to claim navigation? Why should a real safety light have more testing than this classroom model?
 
----
+## WHAT SUCCESS LOOKS LIKE
 
-## Lesson Procedure
+Each student predicts all four model outputs, explains one corrected comparison, and names a capability limit. Grade 5 uses supplied threshold. Grade 6 calculates a midpoint between two actual/model values and explains boundary uncertainty; all students may earn reasoning evidence without devices. Actual sensor/block-operation credit requires observed individual edit and run.
 
-### Opening Circle (6 minutes)
-1. **Sensors = Robot Senses:**
-   - How do YOU sense the world? (5 senses)
-   - Robots have sensors too!
-2. **Sphero BOLT Sensors:**
-   - **Light sensor** — Detects brightness
-   - **Gyroscope** — Detects rotation/orientation
-   - **Accelerometer** — Detects movement/collision
-   - **Compass** — Detects direction
-   - **IR (infrared)** — Communicates with other Spheros
-3. **Why Sensors Matter:**
-   - Makes robots responsive
-   - Enables autonomous behavior
-   - Real-world robots use these!
+## IF THINGS GO WRONG
 
-### Main Activity: Sensor Programming (31 minutes)
+Sensor readings do not separate: record issue and use paper, not an invented success. Pairing fails: paper model within one minute. Flashlight saturates reading: lower light/distance, avoid eyes. Flickering boundary: describe uncertain inputs; do not treat it as a reliable warning system.
 
-**Part 1: Light Sensor Exploration (10 minutes)**
+## SAFETY
 
-**Challenge A: Light Follower**
+Stationary robots only; no shaking, deliberate collisions, speeding, throwing, water, or opening internal batteries. Adult handles charging and compatibility. Never point light at eyes or cover devices tightly. No personal account/public uploads; outputs may not rank people.
 
-- Program Sphero to respond to light:
-  - Bright light → Move forward
-  - Dim/dark → Stop or turn
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-- Use light sensor blocks in Sphero Edu
+Grade 5: large comparison cards, read rule aloud, oral trace. Challenge: explain exact boundary. Grade 6: same route with midpoint scaffold; challenge propose two thresholds to reduce flicker and predict results on paper without claiming implementation. Give non-color text output and seated roles.
 
-- Test with flashlight
+## INDOOR FALLBACK
 
-**Challenge B: Day/Night Mode**
+The four-reading paper rule is a complete indoor lesson in any season; shifted objective is algorithm/input-output reasoning, not actual sensor measurement.
 
-- Different behaviors based on light level:
-  - Bright: Fast, white LED
-  - Medium: Slow, yellow LED
-  - Dark: Stop, blue LED (sleeping!)
+## CLEANUP
 
-**Part 2: Gyroscope & Accelerometer (10 minutes)**
+Stop/close programs, adult returns devices to approved charging storage, count cards/trays, keep individual tests and actual-versus-simulated labels.
 
-**Challenge C: Collision Response**
+## FAMILY NEWSLETTER
 
-- When Sphero hits something:
-  - Back up
-  - Turn random direction
-  - Try again
+**Explored:** light readings and decision thresholds. **Did:** traced/tested four inputs and corrected a condition. **Learned:** a light response is not autonomous navigation. **Catholic connection:** truthful claims and respectful technology. **Ask:** "What happens at exactly the threshold?" Teacher states paper or real-device route. No routine homework.
 
-- Creates autonomous navigation!
+**Previous:** [Session 1 - Engineering Thinking](./Session01_Engineering_Thinking.md)
 
-**Challenge D: Shake Detector**
-
-- Pick up and shake Sphero
-
-- Trigger special response:
-  - Lights flash
-  - Sound plays
-  - Special movement
-
-**Part 3: Combined Sensor Challenge (8 minutes)**
-
-**Challenge E: Smart Navigator**
-
-- Combine multiple sensors:
-  - Move toward light
-  - Avoid obstacles (collision)
-  - Keep heading straight (compass)
-
-- This is how real autonomous robots work!
-
-**Part 4: Demo & Share (3 minutes)**
-
-- Show your best sensor program
-
-- Explain the logic
-
-- Discuss challenges solved
-
-### Engineering Journal (5 minutes)
-1. Draw your sensor program flowchart
-2. Sensors used: ___
-3. Behaviors created: ___
-4. Write: "Sensors make robots smart because..."
-5. Debugging story: What problem did you solve?
-
-### Closing Circle (3 minutes)
-1. **Favorite Sensor** — "Which sensor was most interesting?"
-2. **Real-World Connection** — "Where do you see sensors in daily life?"
-3. **Closing Prayer** — *"God, thank you for our senses and the ability to create responsive technology. Help us use these skills to serve others. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Programmed with multiple sensors
-
-- [ ] Created responsive behaviors
-
-- [ ] Debugged sensor programs
-
-- [ ] Understood sensor purposes
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one sensor at a time
-
-- Template programs to modify
-
-- Partner work
-
-### For Advanced Students
-
-- All sensors combined
-
-- Create sensor-based game
-
-- Program Sphero-to-Sphero IR communication
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Sensor hunt! Find sensors in your home: motion detectors, light sensors, thermostats, phones. Discuss: How do these make devices "smart"? Research autonomous vehicles and their sensors!
-
----
-
-## Teacher Notes
-
-- Reserve Sphero BOLTs from CSCOE
-
-- Ensure tablets charged and Sphero Edu installed
-
-- Light sensor works best with contrasting conditions
-
-- Have backup batteries ready
-
----
-
-**Previous:** [Session 1 — Engineering Thinking](./Session01_Engineering_Thinking.md)  
-**Next:** [Session 3 — Architecture](./Session03_Architecture.md)
+**Next:** [Session 3 - Architecture](./Session03_Architecture.md)

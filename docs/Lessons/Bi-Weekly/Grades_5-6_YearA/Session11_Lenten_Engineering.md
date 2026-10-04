@@ -166,6 +166,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C2 - consent/dignity decision; CST-E1 - criterion and constraint; CST-E3 - plan with evidence and uncertain impact. This meeting designs, not implements, service; adult-approved follow-up needs separate calendar time. No compulsory donation, fasting, family service, clinical device, or real-user health data. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Identified meaningful service opportunity

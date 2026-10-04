@@ -1,139 +1,30 @@
 ---
 title: "C-STREAM Rubrics"
-description: "Assessment rubrics aligned with Catholic STEM success factors"
+description: "Objective-linked student evidence and separate lesson-quality review"
 ---
 
-# 📊 C-STREAM Rubrics
+# C-STREAM rubrics
 
-**Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
+October 2026 revision: lightweight 3/4-level evidence rather than universal
+100-point weighting. State the objective, prompt and Meets condition first.
+**NE = not yet evidenced**, not a zero or proof of low mastery.
 
-This folder contains assessment rubrics aligned with Catholic STEM success factors. Use these rubrics to evaluate lessons, projects, and student work.
+| Need | Resource | Audience |
+|---|---|---|
+| Project science/design/math/arts evidence | [Student project rubric](./Student_Project_Rubric.md) | Teacher/student; each child demonstrates learning |
+| Reasoning, communication or taught collaboration skill | [Skills assessment](./21st_Century_Skills_Assessment.md) | Teacher; observable actions, not personality |
+| Taught dignity/service/stewardship reasoning | [Service rubric](./Service_Oriented_STEM_Rubric.md) | Teacher/student; no compulsory external service |
+| Quality/accuracy of faith integration in a lesson | [Faith-reason rubric](./Faith_Reason_Integration_Rubric.md) | Teacher/administrator; NOT a student belief score |
+| Write a specific criterion | [Rubric template](../Templates/Rubric_Template.md) | Lesson author; three or four levels |
+| Record each child's evidence | [Assessment template](../Templates/Assessment_Template.md) | Teacher; prompt, evidence, feedback, next check |
 
-## Available Rubrics
+Assessment measures the stated objective, not participation, handwriting,
+neatness, presentation expense or confidence. An arts criterion assesses a
+named composition/design/performance skill only if taught as an objective.
+Accept show/tell/draw/scribe/record with access supports. Failed models can
+provide excellent evidence; a working group product does not establish every
+child's mastery. Never grade prayer habits, family religion or interior belief.
 
-### [Faith-Reason Integration Rubric](./Faith_Reason_Integration_Rubric.md)
-Evaluates how well lessons present faith and science as complementary.
-
-**Categories assessed:**
-
-- Faith-Science Harmony
-
-- Catholic Teaching Integration
-
-- Prayer and Wonder
-
-- Catholic Scientific Heritage
-
-- Service and Purpose Connection
-
-**Best for:** Teacher self-evaluation, administrator lesson observation
-
----
-
-### [Service-Oriented STEM Rubric](./Service_Oriented_STEM_Rubric.md)
-Evaluates connection between STEM skills and Catholic Social Teaching.
-
-**Categories assessed:**
-
-- Catholic Social Teaching Connection
-
-- "Hands and Feet of Christ" Application
-
-- Care for God's Creation
-
-- Human Dignity in Technology
-
-- Solidarity and Community
-
-**Best for:** Evaluating service-learning projects, STEM fair projects
-
----
-
-### [21st Century Skills Assessment](./21st_Century_Skills_Assessment.md)
-Assesses development of essential skills within Catholic STEM context.
-
-**Skills assessed:**
-
-- Critical Thinking & Problem-Solving
-
-- Communication Skills
-
-- Collaboration & Teamwork
-
-- Creativity & Innovation
-
-- Curiosity & Wonder (Catholic distinctive)
-
-- Character & Ethics (Catholic distinctive)
-
-**Best for:** Ongoing student assessment, portfolio evaluation
-
----
-
-### [Student Project Rubric](./Student_Project_Rubric.md)
-Comprehensive 100-point rubric for evaluating student projects.
-
-**Categories (weighted):**
-
-- STEM Content & Process (30%)
-
-- Faith Integration (20%)
-
-- Service & Application (15%)
-
-- 21st Century Skills (20%)
-
-- Presentation & Documentation (15%)
-
-**Best for:** STEM fair judging, major project assessment
-
----
-
-## Rubric Quick Reference
-
-| What are you assessing? | Use this rubric |
-|------------------------|-----------------|
-| Quality of faith integration in a lesson | [Faith-Reason Integration](./Faith_Reason_Integration_Rubric.md) |
-| Service orientation of a project | [Service-Oriented STEM](./Service_Oriented_STEM_Rubric.md) |
-| Student skills development | [21st Century Skills](./21st_Century_Skills_Assessment.md) |
-| Complete student project | [Student Project Rubric](./Student_Project_Rubric.md) |
-
----
-
-## Using Rubrics Effectively
-
-### For Teachers
-
-- Use rubrics during lesson planning to ensure all elements are included
-
-- Self-evaluate lessons after teaching
-
-- Share rubrics with students so they understand expectations
-
-### For Administrators
-
-- Use rubrics for observation and evaluation
-
-- Identify professional development needs
-
-- Assess program-wide faith integration
-
-### For Students
-
-- Review rubrics before starting projects
-
-- Use for self-assessment
-
-- Guide peer feedback
-
-### For STEM Fair Judges
-
-- Use Student Project Rubric for consistent evaluation
-
-- Ensure faith integration is weighted appropriately
-
-- Provide constructive feedback in all categories
-
----
-
-**Framework:** C-STREAM
+Use the [18 local codes](../Review/Local_Standards.md) with actual lesson evidence.
+Official standards/Church quotation claims require source verification.
+Do not equate a rubric score with complete official curriculum alignment.

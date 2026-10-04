@@ -56,7 +56,7 @@ Students will be able to:
 > — James 2:14
 
 ### Saint Connection
-**Bl. Pier Giorgio Frassati** — Young Italian who used his family's wealth to serve the poor. He gave away his possessions and organized charity work. He showed that resources are meant to be shared. "Charity is not enough; we need social reform."
+**Saint Pier Giorgio Frassati** - canonized September 7, 2025; joyful service is described in the [canonization homily](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). The previously unsupported quotation is removed; further biography **VERIFICATION REQUIRED**.
 
 ---
 
@@ -79,7 +79,7 @@ Students will be able to:
 ## 📝 Week 20 Procedure: Social Problems & CST (45 minutes)
 
 ### Opening Prayer (2 min)
-"Lord, help us see the world's problems as opportunities to serve. Give us creative minds and compassionate hearts. Bl. Pier Giorgio, inspire us to use our gifts for others. Amen."
+Lord, help us see problems as opportunities to serve. Give us creative minds and compassionate hearts. Saint Pier Giorgio, inspire us to use our gifts for others. Amen.
 
 ### What is Social Entrepreneurship? (10 min)
 **Business for good:**
@@ -100,7 +100,7 @@ Social entrepreneurship = Using business strategies to solve social problems
 
 - **Newman's Own** — 100% profits to charity
 
-**Bl. Pier Giorgio connection:**
+**Saint Pier Giorgio connection (additional biography: VERIFICATION REQUIRED):**
 
 - Gave away bus fare, walked home
 
@@ -108,7 +108,7 @@ Social entrepreneurship = Using business strategies to solve social problems
 
 - Believed in structural change, not just charity
 
-- "Everything I own belongs to God"
+- Use a sourced paraphrase about generous service rather than an unsupported quotation.
 
 ### Catholic Social Teaching (12 min)
 **Principles for business:**
@@ -201,7 +201,7 @@ Social entrepreneurship = Using business strategies to solve social problems
 - Brainstorm business approaches
 
 ### Closing (3 min)
-**Homework:**
+**In-class continuation, not routine homework:**
 
 - Research your problem more deeply
 
@@ -210,7 +210,7 @@ Social entrepreneurship = Using business strategies to solve social problems
 - Come with ideas for solutions
 
 **Closing Prayer:**
-"Lord, open our eyes to see those in need. Give us wisdom to find solutions and courage to act. Bl. Pier Giorgio, pray for generous hearts! Amen."
+Lord, open our eyes to see those in need. Give us wisdom to find solutions and courage to act. Saint Pier Giorgio, pray for generous hearts. Amen.
 
 ---
 
@@ -428,7 +428,7 @@ Social entrepreneurship = Using business strategies to solve social problems
 - Answer questions
 
 ### Closing (2 min)
-**Homework:**
+**In-class practice, not routine homework:**
 
 - Perfect your pitch
 
@@ -534,7 +534,7 @@ Social entrepreneurship = Using business strategies to solve social problems
 - All are learning experiences
 
 **Closing Prayer:**
-"Thank You, Lord, for the gift of creativity for service! Thank You for teaching us that business can be ministry. Bl. Pier Giorgio, inspire us to always use our resources for others. Help us become entrepreneurs who build Your Kingdom. May our work bring justice, dignity, and hope! Amen."
+Thank You, Lord, for creativity for service. Saint Pier Giorgio, inspire us to use resources for others. Help our work respect justice, dignity, and hope. Amen.
 
 ---
 
@@ -544,6 +544,8 @@ Social entrepreneurship = Using business strategies to solve social problems
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-M3 - each student's revenue minus costs example; CST-E3 - individual supported pitch/limitation; CST-C2 - fair-access decision. Official benchmarks **VERIFICATION REQUIRED**. Use fictional enterprises, not unverified current claims about named brands; no real sales, fundraising, purchases, customer data, or promised social impact without school approval. Current company practices **VERIFICATION REQUIRED**.
 
 - Identified genuine social problem
 

@@ -62,6 +62,12 @@ Students will be able to:
 
 ## 📚 Materials Needed
 
+## SAFETY AND RECIPIENT APPROVAL
+
+Classroom cardboard concepts only. Do not give patient-use busy boards, sensory items, adaptive tools, electronics, or toys to vulnerable recipients without prior organization approval and qualified safety review. No clinical, mobility, food-contact, or safety-device testing on people. Use fictional needs and avoid assumptions about disability. No sewing/sharp-tool station unless adult-controlled; electronics use only the inspected protected-AA kit in the electronics lesson, never button cells or improvised power.
+
+**Local standards (not official):** CST-C2 - individual dignity/access decision; CST-E1 - user need and test criterion; CST-A2 - purposeful layout with peer feedback. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Cardboard and cardstock
 
 - Sewing supplies (optional)

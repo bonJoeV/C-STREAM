@@ -57,14 +57,13 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Blessed Carlo Acutis** — A young Catholic who used coding and computers to share faith. He created websites about Eucharistic miracles!
+**Saint Carlo Acutis**, canonized September 7, 2025: [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html). Specific computing/website biography is **VERIFICATION REQUIRED** before teaching.
 
-### Scripture
-> *"In the beginning was the Word, and the Word was with God."* — John 1:1
-> (Just as God speaks creation into being, we speak instructions to computers!)
+### Scripture reference
+John 1:1; **VERIFICATION REQUIRED:** read from the school's approved Bible; no quotation reproduced. The divine Word is not computer code; omit the creation/programming equivalence.
 
 ### Opening Prayer
-*Dear God, thank you for creative minds that made computers and coding. Help us use technology to do good things. May we be like Blessed Carlo Acutis, using our skills for you. Amen.*
+*Dear God, thank you for creative minds. Help us use technology responsibly in service of others. Amen.*
 
 ---
 
@@ -74,7 +73,7 @@ By the end of this session, students will:
 1. **What is Coding?** — "Giving step-by-step instructions to a computer"
 2. **Connection to Robots** — "Remember Dash? Same idea!"
 3. **ScratchJr** — "This app lets us code stories and games"
-4. **Blessed Carlo Acutis** — Teen who coded for God
+4. **Saint Carlo Acutis** — Optional verified biography; responsible technology use is the assessed connection.
 5. **Today's Goal** — "Make a character move!"
 
 ### Main Activity: ScratchJr Exploration (19 minutes)
@@ -163,7 +162,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Technology / privacy / individual evidence
+**Required primary path:** school-approved ScratchJr tablets for executed motion code. Grade 1 points to/orders green-flag and two movement blocks, personally runs them and corrects one deliberate wrong direction; Grade 2 predicts/explains the changed output. No devices: cards/token sequence/debug only, not app/executed-program mastery. Do not publish names/photos/voice externally. Use final 3 personalization minutes for save/return/cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; oral token directions need no tablet)
 **Family Activity:** If you have a tablet, try ScratchJr at home! (Free app) Create a story together. No tablet? Play "programmer"—give family members step-by-step instructions to do something!
 
 ---

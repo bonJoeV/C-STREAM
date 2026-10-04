@@ -59,11 +59,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **Blessed Nicolas Steno** — A Catholic scientist who discovered patterns in crystals and rock layers, showing God's order in geology!
 
-### Scripture
-> *"He has made everything beautiful in its time."* — Ecclesiastes 3:11
+### Scripture reference
+Ecclesiastes 3:11; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, you made a world full of beautiful patterns—in flowers, snowflakes, and math. Open our eyes to see your wonderful order all around us. Amen.*
@@ -161,14 +161,17 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / evidence / cleanup
+Screen large nature items; no unknown plant touch/tasting or loose tiny seeds. Grade 1 orally points to an AB repeating unit and next two items; Grade 2 explains ABB/AAB and repairs one wrong item. Nature pattern observation is not a proof of a theological claim. **Technology: None primary path.** Use final 3 art minutes for sorting/reuse/cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional)
 **Family Activity:** Go on a "Pattern Hunt" at home and outside! How many patterns can you find? Look at tiles, fabrics, plants, and animals. Draw your favorite patterns.
 
 ---
 
 ## Teacher Notes
 
-- Fibonacci sequence appears in pinecones, sunflowers—point this out if students are ready
+- Some plants exhibit spiral counts associated with Fibonacci numbers; do not promise every specimen matches. Verify a specific example before extending beyond observed counts.
 
 - Connect to math class pattern work
 

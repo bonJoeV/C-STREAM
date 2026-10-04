@@ -7,17 +7,49 @@ description: "C-STREAM Year B curriculum for grades 5-6 (ages 10-12)"
 
 ## Year Overview
 
-This is the **Year B curriculum** for Grades 5-6, designed to be used in alternating years with [Year A](../Grades_5-6_YearA/README.md). Year B covers the same STREAM skills and standards but through **different contexts, projects, and saints**. This ensures students in combined 5-6 classrooms don't repeat the same content in consecutive years.
+This is the **Year B curriculum** for Grades 5-6, alternating with [Year A](../Grades_5-6_YearA/README.md) in either order. Contexts differ, but design, coding, service, data, and environmental topics recur. Equivalent official standards coverage and nonrepetition are not established.
+
+## October 2026 review and teaching conditions
+
+**15 lesson documents; 33 planned 45-minute meetings (1,485 minutes)**, not 34
+files or meetings. Week 32 is unrepresented/break; the five-meeting app unit
+includes nominal week 17, so schedule instructional meetings around any winter
+break rather than assuming five uninterrupted calendar weeks. Check liturgical
+and school-event dates locally.
+
+See the [Grades 5-6 review](../../Review/Grades_5-6_Review.md) and
+[69-lesson audit](../../Review/Grades_5-6_Audit.csv). Biotechnology, Renewable
+Energy, Biomimicry, and App Development are fully rebuilt. Retained lessons have
+targeted fixes and individual local checks, **not complete substitute readiness**.
+Local CST codes are not official standards; official benchmarks are
+**VERIFICATION REQUIRED**.
+
+Entry checks: measurement, compare/count, model versus evidence, sequence and
+if/else. Grade 5 uses reference cards and worked examples; Grade 6 adds
+controls, uncertainty, means, and design/ethical tradeoffs. Neither year requires
+prior attendance in the other. Check advanced-unit prerequisites before use.
+
+The complete rebuilt primary paths are indoor and device-free. Paper App
+Development teaches design/event reasoning, **not actual programming/operation**.
+Physical wind tests are models, not measured electrical efficiency. Real apps
+require approved school-managed access and a tested compatible setup. Loans,
+inventory, platform permissions, and any specialty equipment are unconfirmed.
+
+Unsourced Scripture wording, saints' sayings/biographies, historical priority
+claims, current institutional roles, company practices, and scientific statistics
+in retained content are **VERIFICATION REQUIRED before teaching**. Do not repeat
+unchecked quotations or promise medical/social/energy impact. No routine homework,
+family purchase requirement, patient-use prototypes, or public student media.
 
 ### Year B Themes
 
-- **Biotechnology & Life Science** (vs Year A's rocketry/physics)
+- **Biotechnology & Life Science** (Year A includes physical science and environmental investigation; no dedicated rocketry unit)
 
 - **Renewable Energy Engineering** (vs Year A's bridge engineering)
 
-- **App Development** (vs Year A's animation/web design)
+- **App Development** (Year A also uses Scratch; interface/event reasoning revisits computational thinking)
 
-- **Biomimicry Design** (vs Year A's robotics)
+- **Biomimicry Design** (adds nature-inspired form/testing, not a replacement for all robotics skills)
 
 - **Social Entrepreneurship** (vs Year A's general entrepreneurship)
 
@@ -25,9 +57,9 @@ This is the **Year B curriculum** for Grades 5-6, designed to be used in alterna
 
 - **Duration:** 45 minutes per session
 
-- **Sessions:** 34 weeks (follows school calendar)
+- **Sessions:** 33 planned instructional meetings; fit multi-meeting units to the school calendar
 
-- **Technology:** Scratch, MIT App Inventor, Google Sites, 3D Design
+- **Technology:** paper-first models; optional approved App Inventor; Google Sites/3D design are not prerequisites
 
 ---
 
@@ -62,11 +94,11 @@ This is the **Year B curriculum** for Grades 5-6, designed to be used in alterna
 
 ## 🎯 Year B Skills & Standards
 
-### Same Skills as Year A, Different Context
+### Recurring Skills in Different Contexts - Not Verified Equivalence
 
 | Skill | Year A Context | Year B Context |
 |-------|---------------|----------------|
-| Engineering Design | Rockets & Bridges | Renewable Energy & Biomimicry |
+| Engineering Design | Structures, bridges, service | Wind models, biomimicry, service |
 | Coding/Programming | Animation & Web | App Development |
 | Data Analysis | Physics Data | Life Science & Environmental Data |
 | Entrepreneurship | General Innovation | Social Enterprise |
@@ -104,7 +136,7 @@ Students in combined 5-6 classrooms experience:
 
 - **Year 2:** Year B curriculum
 
-- Complete different projects each year
+- Revisit skills with distinct constraints and evidence, not a guarantee of no repeated content
 
 - Learn same skills through varied contexts
 

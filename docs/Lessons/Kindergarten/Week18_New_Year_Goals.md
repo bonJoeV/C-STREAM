@@ -1,323 +1,74 @@
 ---
 title: "Week 18: New Year Goals"
-description: "Kindergarten New Year reflection and goal-setting for STREAM learning"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - robotics
-  - coding
-  - engineering
-  - light
-  - life-science
-  - astronomy
-  - arts
+description: "Practice an honest indoor sky observation and choose a checkable next-step goal"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-S3, CST-M2, CST-A3]
+technology: None
+prep_minutes: 5
+cleanup_minutes: 4
+materials: [Plain paper, Large weather symbol cards, Shared school crayon set]
 ---
 
 # Week 18: New Year Goals
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 25 minutes |
-| **Lesson Type** | Single-Week |
-| **STREAM Focus** | R (Religion) — Goal-setting and growth mindset |
-
----
-
-# Week 18: New Year Goals
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Recall at least one thing they learned in STREAM in the fall
-2. Identify one new thing they want to learn
-3. Understand that setting goals helps us grow
-
-### Faith Integration Objectives
-Students will be able to:
-1. Recognize that God helps us learn and grow
-2. Understand that trying new things is part of how God made us
-3. Ask God to help them reach their goals
-
----
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Vocation and Growth** — God made each person with unique gifts and abilities. He wants us to grow and learn! When we set goals, we're working with God to become the best person we can be.
-
-### Scripture Connection
-> "For I know the plans I have for you," declares the Lord, "plans to prosper you and not to harm you, plans to give you hope and a future."
-> — Jeremiah 29:11
-
-### Wonder Question
-> "Have you ever wondered what new things you'll learn this year? God has amazing plans for you!"
-
----
-
-## 📚 Materials and Preparation
-
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| "My STREAM Goals" worksheet | 1 per student | Teacher-made |
-| Crayons/markers | Class set | Classroom |
-| Wonder Journals | 1 per student | Student materials |
-| Star stickers | Class set | Classroom |
-| Photos from fall STREAM (optional) | Various | Teacher collection |
-
-### Teacher Preparation
-
-- [ ] Create "My STREAM Goals" worksheet
-
-- [ ] Prepare list of possible goals for discussion
-
-- [ ] Have fall photos ready for memory jog
-
-- [ ] Practice goal-setting language
-
----
-
-## 📝 Lesson Procedure
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer | 3 min | New year prayer |
-| Remember & Celebrate | 5 min | What did we learn? |
-| Goal Setting | 12 min | What do we want to learn? |
-| Closing & Commitment | 5 min | Share and pray |
-
----
-
-### 1. Opening Prayer (3 minutes)
-
-**Prayer:**
-> "Dear God, thank you for a new year! Thank you for all the things we learned last year. Help us to learn even more this year. We know You have special plans for each of us. Amen."
-
-**Introduction:**
-> "Happy New Year! A new year is like a fresh start. It's a time to think about what we want to learn and do. Today we're going to set STREAM goals!"
-
----
-
-### 2. Remember & Celebrate (5 minutes)
-
-**Quick Review:**
-> "Let's remember what we did in STREAM before break. Who can share one thing?"
-
-**Prompt memories:**
-
-- "We drove robots..."
-
-- "We built towers..."
-
-- "We explored light..."
-
-- "We made gifts..."
-
-**Celebrate:**
-> "Wow! Look at all those things! You learned SO much. And guess what? You're going to learn even more this year!"
-
-**Growth mindset moment:**
-> "Remember when something was hard? Like when your tower fell down? But you kept trying! That's how we learn — we keep trying even when it's hard."
-
----
-
-### 3. Goal Setting (12 minutes)
-
-**Introduce Goals:**
-> "A goal is something you want to learn or do. When you set a goal, you try your best to reach it. What are some things you want to learn in STREAM?"
-
-**Brainstorm possible goals:**
-
-- Learn to make a robot do a new trick
-
-- Build something that doesn't fall
-
-- Learn how something works
-
-- Help a friend in STREAM
-
-- Ask good wonder questions
-
-- Try something even if it's hard
-
-**My STREAM Goals Worksheet:**
-Distribute worksheets.
-
-**Section 1: Something I learned (draw)**
-> "In the first box, draw something you learned in STREAM this fall."
-
-Give 3-4 minutes.
-
-**Section 2: Something I want to learn (draw)**
-> "In the second box, draw something you WANT to learn. What sounds exciting to you? Maybe robots? Building? Coding? Something else?"
-
-Give 3-4 minutes.
-
-**Section 3: My goal (circle and/or draw)**
-> "Now pick ONE goal for this year. Circle it or draw it."
-
-Show goal options:
-
-- I will try new things
-
-- I will keep trying when it's hard
-
-- I will help a friend
-
-- I will ask questions
-
-- I will do my best
-
----
-
-### 4. Closing & Commitment (5 minutes)
-
-**Partner Share:**
-> "Turn to a neighbor and tell them your goal."
-
-**Whole Group Share:**
-> "Who wants to share their goal with everyone?"
-
-Let 3-4 students share.
-
-**God Helps Us:**
-> "Here's the best part — you don't have to reach your goals all by yourself! God helps us learn and grow. When something is hard, you can ask God to help you. And your teachers and friends will help too!"
-
-**Goal Commitment:**
-> "Let's make a promise together. Repeat after me:
-> 'I will try my best... (I will try my best)
-> I will keep trying when it's hard... (I will keep trying when it's hard)
-> I know God will help me grow!' (I know God will help me grow!)"
-
-**Star Sticker:**
-Give each student a star sticker for their goal sheet.
-> "This star reminds you that God sees you and is cheering for you!"
-
-**Closing Prayer:**
-> "Dear God, thank you for new beginnings. Help us to reach our goals this year. When we feel like giving up, give us strength to keep trying. Thank you for believing in us. Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Observed |
-|-------|----------|
-| Recalled something from fall STREAM | ☐ |
-| Identified something they want to learn | ☐ |
-| Selected or stated a goal | ☐ |
-| Participated in commitment | ☐ |
-| Showed enthusiasm for new learning | ☐ |
-
-### Success Criteria
-
-- Student completes goal worksheet
-
-- Student can verbalize at least one goal
-
-- Student participates in commitment activity
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Provide picture choices for goals
-
-- Focus on verbal goal-setting
-
-- Partner with supportive buddy
-
-- Scribe for students who need it
-
-- Simplify to "one thing I want to try"
-
-### For Advanced Learners
-
-- Write their goal in words
-
-- Set multiple goals
-
-- Explain how they'll work toward their goal
-
-- Help others articulate their goals
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**Simplified version:**
-1. Prayer for the new year
-2. Ask: "What's one thing you want to learn this year?"
-3. Draw a picture of something you want to learn
-4. Share with a partner
-5. Closing prayer asking God to help us learn
-
----
-
-## 📖 Vocabulary
-
-| Word | Definition | Visual Cue |
-|------|------------|------------|
-| **Goal** | Something you want to learn or do | Target/bullseye |
-| **New Year** | A fresh start, new beginning | Calendar "January" |
-| **Try** | To work hard at something | Flexed arm |
-| **Grow** | To get better at something | Plant growing |
-| **Promise** | Saying you will do something | Pinky promise |
-
----
-
-## 📋 My STREAM Goals Worksheet
-
-```
-+---------------------------------------------------------+
-|                    MY STREAM GOALS                      |
-|                 Name: ________________                  |
-+---------------------------------------------------------+
-| Something I LEARNED this fall:                          |
-|  +---------------------------------------------------+  |
-|  |                                                   |  |
-|  |                    [Draw]                         |  |
-|  |                                                   |  |
-|  +---------------------------------------------------+  |
-+---------------------------------------------------------+
-| Something I WANT TO LEARN:                              |
-|  +---------------------------------------------------+  |
-|  |                                                   |  |
-|  |                    [Draw]                         |  |
-|  |                                                   |  |
-|  +---------------------------------------------------+  |
-+---------------------------------------------------------+
-| My GOAL this year (circle one):                         |
-|                                                         |
-|   * I will TRY new things                               |
-|   * I will KEEP TRYING when it's hard                   |
-|   * I will HELP a friend                                |
-|   * I will ASK questions                                |
-|   * I will do my BEST                                   |
-|                                                         |
-| God will help me reach my goal!                         |
-+---------------------------------------------------------+
-```
-
----
-
-## 📎 Home Connection
-
-**Family Note:**
-> "Today we set STREAM goals for the new year! Your child thought about what they want to learn and made a commitment to keep trying. Talk with your child about their goal. Ask: 'What do you want to learn in STREAM this year?' 
-
-> At home, help your child set other goals too — learning to tie shoes, reading more books, being kind to siblings. Celebrate effort, not just success. When they struggle, remind them: 'You can do hard things with God's help!'"
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+| Grade / unit / time | K / Observation and practice goals / one 25-minute meeting |
+| Domains / big idea | C, S, M, A; a goal needs an action and evidence, not a wish or promise |
+| Objective / why | "I can record what I observe in the sky and choose a way to check it again." Repeated records help us compare conditions. |
+| Catholic connection | Honest observations and patient practice, not a claim that God guarantees a particular result. |
+| Local standards | CST-C1: truthful record; CST-S1: observation; CST-S3: weather representation; CST-M2: symbol record; CST-A3: communicate goal. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 5 minutes / 4 included |
+
+## Before class and supplies
+
+Read [K routines](../../Resources/Kindergarten_Reference_Routines.md).
+From a safe indoor window away from the Sun, identify sky as mostly clear,
+partly cloudy or mostly cloud covered. Draw three large cloud-coverage symbols
+per kit. Make no temperature/wind inference from appearance.
+If pupils cannot view the sky, teacher supplies a dated first-hand description
+and labels it **teacher observation**, not the child's measurement.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: three large symbols | 15 | 24 | 30 | 39 |
+| Student: dated record sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+
+Budget 5/8/10/13 kits; active teams 5/7/10/12. Teacher: timer, roster, class
+record sheet with date and observation time. Store it for Week 20, not at home.
+
+## Vocabulary and background
+
+**Observation:** what was seen/described now. **Record:** saved information.
+**Goal:** skill to practice. **Prediction:** expected future result, not today's
+observation. One record cannot establish a seasonal pattern or forecast.
+Misconception: a drawing of a sunny sky means it is warm. Explain we have not
+measured outdoor temperature. If asked about tomorrow, label any answer a guess.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Reframe goals as checkable practice. Ask "How could we show learning?"
+2. **4-8:** Model selecting today's sky symbol and dating the record; distinguish
+   observation from a picture of preferred weather.
+3. **8-17:** Observe safely or listen to the labeled teacher report; each child
+   chooses/draws a matching symbol and describes the evidence. Begin checks.
+4. **17-21:** Child explains today's record and chooses the goal "record the sky
+   again and compare" with a pointing/drawing reminder. Do not award future mastery.
+5. **21-25:** Save individual/class records for Week 20, collect symbols/crayons,
+   clear. No compulsory between-class or home observation.
+
+## Success, access, SAFETY and troubleshooting
+
+Check record matches actual report, child distinguishes now from a guess and
+states a checkable next action. Support: two symbol choices, read-aloud/tactile
+symbols and adult scribing. Challenge: identify what was not measured.
+No outdoor exposure, Sun viewing, climbing to windows or forced sensory task.
+No visible sky/teacher report: use an explicitly invented practice picture,
+mark **model data** and defer actual-weather evidence. Week 20 provides a
+fresh real record when possible; never invent the previous observation.
+
+**Family:** We practiced a weather record and a checkable goal.
+Ask, "What did you observe, and how will you check it again?" No homework.

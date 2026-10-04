@@ -46,14 +46,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Gratitude as Prayer** — When we say "thank you" to God, we are praying. Gratitude opens our hearts to see all the gifts God gives us every day — family, friends, food, creation, and life itself.
 
-### Scripture Connection
-> "Give thanks in all circumstances; for this is God's will for you in Christ Jesus."
-> — 1 Thessalonians 5:18
+### Scripture reference
+1 Thessalonians 5:18; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Francis of Assisi** — Known for his Canticle of the Creatures, a prayer of thanks to God for Brother Sun, Sister Moon, and all of creation.
 
 ---
@@ -148,7 +147,11 @@ Students create their thankful animation with:
 
 ---
 
-## 📎 Home Connection
+## Technology and nonreader adaptation
+**Required primary path:** school-approved ScratchJr tablets for stored animation; confirm actual inventory and app permissions. Use the installed page-switch block rather than promising a generic background switch. Grade 1 may record a spoken message or dictate instead of typing; one scene with two ordered motion/wait actions is sufficient. Grade 2 may create a second page after showing the first sequence. Individually predict/run and explain one change; two pages alone do not prove coding.
+No devices: order two paper story panels and act them out; assess story/sequence concepts, not app operation or executed code. No names/photos/recordings shared outside school-approved storage. Save/return tablets during the final 2 minutes.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We coded thankful animations! Ask your child to show you their ScratchJr project and tell you what they're thankful for. Create a family thankful list together!"
 
 ---

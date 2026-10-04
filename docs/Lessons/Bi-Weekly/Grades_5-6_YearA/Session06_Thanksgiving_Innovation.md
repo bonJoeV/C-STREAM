@@ -164,6 +164,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C2 - dignity/access choice without stereotypes; CST-E1 - criterion and constraint; CST-E3 - 30-second supported pitch plus limit. At nine teams use paired exchanges rather than nine plenary pitches in three minutes. No promised real impact or compulsory family service. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Identified real community need

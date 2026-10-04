@@ -50,15 +50,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Catholic Education** — Catholic schools teach faith AND reason together. STREAM shows that science and faith are partners, not enemies. We celebrate learning about God's world!
 
-### Scripture Connection
-> "Train up a child in the way he should go; even when he is old he will not depart from it."
-> — Proverbs 22:6
+### Scripture reference
+Proverbs 22:6; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
-**St. Elizabeth Ann Seton** — Founded the first Catholic school in America. She believed education should include both learning and faith.
+### Saint Connection - VERIFICATION REQUIRED
+Elizabeth Ann Seton is associated with Catholic education; use a vetted biography. Do not claim she founded the first Catholic school in America; Catholic schools predate her work.
 
 ---
 
@@ -100,7 +99,7 @@ Students will be able to:
 
 **St. Elizabeth Ann Seton:**
 
-- "She started the first Catholic school in America"
+- "Her educational contribution needs a verified biography; the 'first Catholic school in America' claim is omitted."
 
 - "She wanted children to learn AND grow in faith"
 
@@ -190,7 +189,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## Technology / SAFETY / staffing
+**Recommended primary path:** supervised Dash/tablet demonstration; no-device alternative uses saved design/test evidence and cards, not robot mastery. If no visitors/extra adults, partners share at tables and perform one measured demonstration each. No unsupervised moving robot station; low-speed marked bays and towers below 30 cm. Visitors follow school safeguarding/photo policies. Reserve final 3 activity minutes for cleanup; assess an individual's explanation, not visitor attendance.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated Catholic Schools Week in STREAM! Your child helped lead activities and share learning with visitors. Ask: 'What station did you help with?' 'What did you tell visitors?' 'What makes our Catholic school special?' Thank you for choosing Catholic education!"
 
 ---

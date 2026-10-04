@@ -60,11 +60,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
-**All the Saints We Met This Year** — St. Joseph, St. Francis, St. Cecilia, Blessed Carlo Acutis, and more! They showed us that faith and learning go together.
+### Saint Connection - VERIFICATION REQUIRED before recalling biographies
+Recall only vetted accounts actually taught. Carlo Acutis is Saint, canonized September 7, 2025: [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html).
 
-### Scripture
-> *"I thank my God every time I remember you."* — Philippians 1:3
+### Scripture reference
+Philippians 1:3; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for an amazing year of discovery! Thank you for letting us learn about your wonderful world. Thank you for our teachers and friends. Bless us as we continue to grow. Amen.*
@@ -95,7 +95,7 @@ By the end of this session, students will:
 **Part 2: Partner Sharing (6 minutes)**
 
 - Share with a partner:
-  - One project you're proud of
+  - One saved bridge/design: its criterion, test result and one change, shown orally or with drawings
   - Something that was hard but you figured out
   - Your favorite saint we learned about
 
@@ -174,7 +174,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Technology / SAFETY / assessment limit
+**Optional primary path:** school-permitted teacher photos; paper journals suffice. No food/latex decorations or compulsory family attendance. Grade 1 tells/shows one earlier test; Grade 2 explains before/after evidence. Portfolio enthusiasm/certificates are not robotics mastery. Last 3 gallery minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional)
 **Summer Challenge:** Keep being a C-STREAM explorer all summer!
 
 - Build with whatever you find
@@ -213,7 +216,7 @@ This year you:
 
 - ✅ Built bridges and towers
 
-- ✅ Programmed Dash Robots
+- Explored Dash input/output; claim programmed stored sequences only for children with saved individual device evidence.
 
 - ✅ Created code with ScratchJr
 

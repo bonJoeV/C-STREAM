@@ -47,14 +47,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Wonder at Creation** — God made the world and called it "good." Scientists explore this good creation, discovering its beauty and order. When we observe nature carefully, we see God's handiwork.
 
-### Scripture Connection
-> "The heavens declare the glory of God; the skies proclaim the work of his hands."
-> — Psalm 19:1
+### Scripture reference
+Psalm 19:1; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Kateri Tekakwitha** — A Native American saint who loved nature and saw God in the forests, rivers, and animals. She teaches us to find God in creation.
 
 ---
@@ -161,7 +160,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / access
+Teacher screens clean large specimens; no wild feathers, droppings, mold, unknown plants, tasting or forced mystery-bag touch. Children may look at pictures instead. Grade 1 tells/draws two details and a question; Grade 2 sorts by two evidence-based properties. **Technology: None primary path.** Use final 3 observation minutes for return/handwashing; retain observations, not participation alone.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We began our Year B STREAM journey today! We practiced observation skills with natural objects and learned about St. Kateri Tekakwitha, who loved nature. Ask your child: 'What did you observe today?' 'What do you wonder about?' Take a nature walk together and practice observing God's creation."
 
 ---

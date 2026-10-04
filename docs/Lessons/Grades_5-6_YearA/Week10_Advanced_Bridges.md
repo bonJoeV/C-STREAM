@@ -130,7 +130,7 @@ Students will be able to:
 
 **Math connection:**
 
-- Force = Weight / Load points
+- In an ideal symmetric, level two-support model with a centered load, each support carries about half the load. This is not a general "force = weight / load points" law.
 
 - Efficiency = Load carried / Bridge weight
 
@@ -178,8 +178,8 @@ Students will be able to:
 **Load testing procedure:**
 1. Weigh bridge
 2. Place across span
-3. Add weight gradually until failure
-4. Record max weight
+3. Adult adds 10 g packets to at most 100 g total; stop at instability, not intentional collapse; use a catching tray
+4. Record maximum safe demonstrated load (not breaking strength)
 5. Note failure point and type
 
 **Calculate efficiency:**
@@ -214,6 +214,12 @@ Efficiency = Weight Held ÷ Bridge Weight
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-E2 - individual redesign tied to a test; CST-M3 - individual load/bridge mass calculation using equal units; CST-S3 - trace force to two supports. Official benchmarks: **VERIFICATION REQUIRED**. Grade 5 compares ratios with a worked example; Grade 6 defends a strength/material tradeoff.
+
+## SAFETY
+
+Adult checks low supports, catches loads in a tray, and alone performs loading. No students under structures, no body-weight tests, no dropped masses or additions beyond 100 g. Explain "maximum safe demonstrated load" honestly; this is not measured ultimate failure load.
 
 - Applied structural analysis principles
 

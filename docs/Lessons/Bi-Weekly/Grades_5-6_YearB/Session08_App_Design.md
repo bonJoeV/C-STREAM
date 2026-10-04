@@ -57,23 +57,23 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Blessed Carlo Acutis** — Used his programming skills to catalog Eucharistic miracles. He said, "The internet is a gift from God." Apps can serve faith and others!
+**Saint Carlo Acutis** - canonized September 7, 2025 ([source](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html)). Unsupported quotation removed; detailed technology biography **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"Let us not become weary in doing good, for at the proper time we will reap a harvest if we do not give up."* — Galatians 6:9
 
 ### Opening Prayer
-*Dear God, you give us creative abilities to serve others. Help us design apps that make life better for people. Guide our work like Bl. Carlo Acutis used his gifts for your glory. Amen.*
+*Dear God, you give us creative abilities to serve others. Help us design apps that make life better for people. Guide our work like Saint Carlo Acutis used his gifts for your glory. Amen.*
 
 ---
 
 ## Lesson Procedure
 
 ### Opening Circle (7 minutes)
-1. **Bl. Carlo Acutis:**
+1. **Saint Carlo Acutis:**
    - Young programmer (died at 15)
    - Created Eucharistic miracle website
-   - "To always be close to Jesus, that is my life plan"
+   - Use verified sources rather than an unsupported attributed quotation.
    - Shows technology serving faith
 2. **User-Centered Design:**
    - Apps exist to serve USERS
@@ -188,11 +188,17 @@ By the end of this session, students will:
 ### Closing Circle (3 minutes)
 1. **Carlo Acutis Connection** — "How can apps serve others?"
 2. **User-Centered Thinking** — "Why start with user needs?"
-3. **Closing Prayer** — *"Lord, help us create technology that serves your people. Like Bl. Carlo, may we use our gifts for your glory. Amen."*
+3. **Closing Prayer** - *Lord, help us create technology that serves your people. Like Saint Carlo, may we use our gifts for your glory. Amen.*
 
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-T2 - individual event/condition trace; CST-T3 - privacy boundary; CST-C2 - accessible user decision. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND NO-DEVICE PATH
+
+Teacher/IT verifies current age/privacy requirements, approved individual school-managed access and Companion/emulator setup. No shared password or personal/home account requirement. Use fictional entries only, no camera/GPS/microphone/texting/private health/prayer data. If access fails, use a drawn screen and paper button/output rule; mark **interface/algorithm simulation, not actual app programming**.
 **Observation Checklist:**
 
 - [ ] Identified user need
@@ -226,7 +232,7 @@ By the end of this session, students will:
 ---
 
 ## Wonder at Home 🏠
-**Family Activity:** Show your app to family! Discuss apps you use—which are well-designed? Research Bl. Carlo Acutis together. Brainstorm: What app would help your family or community?
+**Optional family conversation:** Discuss a useful interface and Saint Carlo Acutis. No home app/account or routine homework required.
 
 ---
 
@@ -238,7 +244,7 @@ By the end of this session, students will:
 
 - Apps can continue in future sessions
 
-- Consider publishing exceptional apps
+- No public publication in this unit; school privacy/accessibility review would be required first.
 
 ---
 

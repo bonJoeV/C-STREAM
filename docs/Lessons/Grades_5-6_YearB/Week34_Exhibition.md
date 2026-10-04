@@ -268,7 +268,7 @@ Amen!"
 
 - 🌍 **Environmental Monitoring:** Data for stewardship
 
-**STREAM skills mastered:**
+**STREAM skills encountered; mastery requires individual evidence:**
 
 - Advanced coding and app creation
 
@@ -294,6 +294,8 @@ Amen!"
 ---
 
 ## ✅ Assessment
+
+**Individual local check (not official):** CST-E3 - explain one tested result and limit; CST-A3 - revise one artifact caption after a peer question; CST-C3 - explain responsible resource use. Each student supplies evidence; spotlight selection and awards do not establish mastery. Official benchmarks **VERIFICATION REQUIRED**. Photos/media remain school-controlled with required consent.
 
 - Curated quality portfolio
 

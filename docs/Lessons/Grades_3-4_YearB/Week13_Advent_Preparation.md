@@ -66,11 +66,11 @@ Students will be able to:
 
 - Flashlights, mirrors, prisms (light exploration)
 
-- LED tea lights (safe!)
+- Teacher-controlled lights with screw-secured battery compartments, or ordinary flashlights; no loose coin cells
 
 - Tissue paper, colored cellophane
 
-- Cardboard tubes, jars
+- Cardboard tubes or plastic containers; no glass jars
 
 - Jesse Tree symbol templates
 
@@ -236,3 +236,7 @@ Students will be able to:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / indoor alternative
+
+No flames, lasers, sun-viewing, loose button cells or glass. Use dry paper, acrylic mirrors and low-power flashlights not aimed at eyes. Adult inventories battery lights; do not send battery hardware home. Keep room light sufficient for safe movement. Flashlight transmission tests work without winter daylight. Define absorption as light energy taken up by material, not merely "stopped." Exact Jesse Tree/liturgical symbols are teacher-selected devotional conventions, not science results.

@@ -47,14 +47,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Order in Creation** — Mathematics reveals the beautiful order God built into creation. Patterns, numbers, and logic aren't random — they reflect the mind of the Creator.
 
-### Scripture Connection
-> "You have arranged all things by measure and number and weight."
-> — Wisdom 11:20
+### Scripture reference
+Wisdom 11:20/21 varies by numbering; **VERIFICATION REQUIRED:** check the school's approved Bible before reading; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Isidore of Seville** — A bishop who compiled knowledge including mathematics. He believed all learning reveals God's wisdom.
 
 ---
@@ -191,7 +190,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / nonreader / evidence
+Use large counting pieces; no glass jars/food prizes. Choose **three** table activities rather than five rushed rotations: patterns, acted addition and shape puzzles; reserve 3 station minutes for cleanup. Grade 1 extends two AB units and acts a sum within 10; Grade 2 explains an ABB/AAB rule and a sum within 20. Teacher checks each child's actual answer/reason, not participation or race-to-50 victory. **Technology: None primary path.**
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated math with games and puzzles! Ask your child: 'What math games did you play?' 'What was your favorite?' Play simple math games at home: dice addition, card games, counting games. Point out math in daily life: cooking, shopping, telling time. Math is everywhere!"
 
 ---

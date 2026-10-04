@@ -189,7 +189,7 @@ By the end of this session, students will:
 
 - Allow students to finish projects later if needed
 
-- Consider class Scratch studio for sharing
+- Keep guest/offline projects in private local storage; any online sharing needs school approval
 
 - Animations can be shown at school events
 
@@ -199,3 +199,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 7 — Light & Circuits](./Session07_Light_Circuits.md)  
 **Next:** [Session 9 — Catholic Scientists](./Session09_Catholic_Scientists.md)
+
+## Realistic primary path
+
+Begin with two characters and one scene; multiple broadcasts/scenes are optional extensions. Source saint/Bible story from a teacher-approved card, separating retelling from invented dialogue. Paper storyboard/sequence tracing is the no-device path, **not** an executed animation. Each child traces an event and explains one revision; leave 5 minutes of creation for local save/cleanup. No required home finishing.

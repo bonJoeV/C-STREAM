@@ -159,6 +159,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C3 - resource tradeoff; CST-E1 - local problem criterion; CST-M2 - interpret supplied counts and a limitation. Practice dataset: fictional classroom paper scraps before 12/14/10, after 9/11/10 sheets across three days; totals 36/30. Label invented, not measured school waste; no causal savings claim. No real trash handling or home audit requirement. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Understood environmental challenge

@@ -47,14 +47,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Catholic Social Teaching: Preferential Option for the Poor** — God calls us to care especially for those who are struggling. Engineers and designers can create things that help people in need.
 
-### Scripture Connection
-> "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."
-> — Matthew 25:40
+### Scripture reference
+Matthew 25:40; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Vincent de Paul** — He organized practical help for poor people. He found creative solutions to help those in need with food, medicine, and shelter.
 
 ---
@@ -80,7 +79,7 @@ Students will be able to:
 ### Opening Prayer & Introduction (4 min)
 **Prayer:** "Jesus, You said when we help others, we help You. Open our hearts to see the needs of others. Guide our hands as we design to help. Amen."
 
-**Read Matthew 25:40:** "Whatever you did for one of the least of these... you did for me."
+Read Matthew 25:40 only from the approved Bible; do not reproduce an unverified abbreviated quotation.
 
 **Discuss:** "Who are 'the least of these'? Who needs help?"
 
@@ -164,7 +163,7 @@ Students will be able to:
 - Ask for help when needed
 
 ### Quick Testing (4 min)
-**Test designs** with the challenge scenario.
+**Test designs** with a toy figure and a tabletop paper load only. Default: paper carry tray holds three crumpled paper balls for five seconds; redesign one fold and retest. Ask about user preferences rather than assuming every older/disabled person needs the same help.
 
 - Does it work?
 
@@ -199,7 +198,10 @@ Each group shares:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / access
+All products are models, not real medical or assistive devices. No human lifting, body-worn restraint, blindfolding, climbing to a fountain/shelf or overhead loads. Teacher precuts cardboard, screens recyclables and limits tests to paper loads. Grade 1 orally demonstrates one feature/test; Grade 2 explains one evidence-based revision. Reserve final 4 building/planning minutes each meeting for cleanup/storage.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We were designers for others! Ask your child: 'Who did you design for?' 'How does your invention help them?' 'What would you improve?' Talk about how your family can be 'helping hands' for people in need in your community."
 
 ---

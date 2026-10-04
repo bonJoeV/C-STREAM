@@ -9,6 +9,16 @@ description: "Strategies for meeting diverse learner needs in C-STREAM"
 
 Practical strategies for meeting the needs of all learners in your C-STREAM classroom.
 
+**October 2026 operating rule:** Preserve the stated concept objective while
+changing access: read aloud, demonstrate one step, gesture, scribe, use larger
+tools, bilingual response, quiet/seated route or extra wait time. A digital
+design is not proof of physical testing/program execution. Use the
+[nonreader card](../Student_Resources/Show_Try_Tell_Card.md) and
+[objective-linked assessment](../Templates/Assessment_Template.md).
+Access supports do not cap achievement; participation/handwriting are not
+mastery proxies. Use the actual school accommodation plan, not assumptions
+from a diagnostic label. A = arts including music; M = mathematics.
+
 ---
 
 ## 🎯 Universal Design Principles
@@ -132,7 +142,7 @@ Before modifying for individuals, build accessibility into every lesson:
 
 | Activity | Extension |
 |----------|-----------|
-| **Bridge building** | Add weight-holding requirement, calculate efficiency |
+| **Bridge building** | Repeat a fair test or justify a constraint; use ratios only after prerequisites are taught |
 | **Coding** | Add sound effects, create multi-level game |
 | **Robotics** | Add sensors, create obstacle course |
 | **Science investigation** | Design additional tests, graph data |
@@ -203,7 +213,7 @@ Before modifying for individuals, build accessibility into every lesson:
 
 - "This reminds me of _____."
 
-- "God made _____ because _____."
+- "We can care for creation by _____."
 
 - "We can help others by _____."
 

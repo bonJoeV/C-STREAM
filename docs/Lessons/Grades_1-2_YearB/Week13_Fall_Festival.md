@@ -54,14 +54,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Celebration in Community** — The Church celebrates together! Our liturgical calendar is full of feast days and celebrations. Celebrating learning honors God who gave us minds to learn.
 
-### Scripture Connection
-> "This is the day the Lord has made; let us rejoice and be glad in it."
-> — Psalm 118:24
+### Scripture reference
+Psalm 118:24; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Philip Neri** — Known for joyful celebrations. He believed faith should be fun and that celebrating together builds community.
 
 ---
@@ -129,7 +128,7 @@ Students will be able to:
 
 - Quick Dash Robot fun
 
-- Show what you learned
+- Each child explains one input and its movement/output during supervised replay; this is tool input/output evidence, not new stored-code mastery.
 
 **Station 2: Building Free Play**
 
@@ -184,7 +183,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## Technology / SAFETY / assessment limit
+**Recommended primary path:** supervised charged Dash/tablet replay. No devices: saved paper work plus token prediction, not real robot programming credit. Towers below 30 cm, no heavy loads; photo permission required. At 25 use table portfolios rather than four busy free-play stations. Reserve 3 station minutes for cleanup; awards are recognition, not mastery certification.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated our fall STREAM semester today! Ask your child: 'What was your favorite STREAM activity this fall?' 'What did you learn?' 'What are you proud of?' Celebrate their growth and curiosity! Over the break, keep exploring: build things, ask questions, look at nature, and thank God for His amazing world."
 
 ---

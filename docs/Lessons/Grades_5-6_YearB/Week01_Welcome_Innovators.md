@@ -145,7 +145,7 @@ Students will be able to:
 
 - Founded computer science department
 
-- "The computer should be liberating"
+- Source-checked biographical discussion only; the previously unsupported quotation is removed.
 
 **Georges Lemaître (1894-1966)**
 
@@ -155,7 +155,7 @@ Students will be able to:
 
 - Showed faith and science unite
 
-- "There is no conflict between religion and science"
+- The unsupported quotation is removed. Use [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) for the faith/reason connection. Detailed biographies, including the BASIC-development claim: **VERIFICATION REQUIRED**.
 
 **St. Hildegard of Bingen (1098-1179)**
 
@@ -272,6 +272,8 @@ Students will be able to:
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-C1 - distinguish a sourced fact from an unverified claim; CST-E1 - individual journal problem/goal with a criterion. Official benchmarks **VERIFICATION REQUIRED**.
 
 - Articulated understanding of innovation
 

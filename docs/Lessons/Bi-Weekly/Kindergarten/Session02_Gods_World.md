@@ -1,162 +1,72 @@
 ---
 title: "Session 02: God's Amazing World"
-description: "Kindergarten Bi-Weekly C-STREAM exploring creation"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - life-science
-  - astronomy
-  - arts
+description: "Sort six nature drawings by a visible rule and represent the groups"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-S1, CST-M2]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 4
+materials: [Large observation picture cards, Plain paper, Shared school crayon set]
 ---
 
 # Session 02: God's Amazing World
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 2 of 17
+## Lesson at a glance
 
-Students explore the beauty and variety of God's creation through sorting, classifying, and celebrating nature.
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Observation and sorting / one 25-minute meeting |
+| Domains / big idea | C, S, M; a sorting rule uses a feature we can check |
+| Objective / why | "I can sort pictures, show the rule and represent two groups." Organizing evidence makes comparisons possible. |
+| Catholic connection | Care for creation and reusable classroom resources. |
+| Local standards | CST-C3: care/reuse; CST-S1: visible feature; CST-M2: grouped representation. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 10 minutes first cards / 4 included |
 
----
+## Before class and supplies
 
-# Session 02: God's Amazing World
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Draw six >=5 cm cards: three leaves with visible lines, three smooth oval
+stone pictures without lines. The rule is **lines/no lines in these pictures**,
+not a universal claim about all leaves/stones. Two paper sorting mats per kit.
+Budget 5/8/10/13 kits; active teams 5/7/10/12.
 
-## Learning Objectives
-By the end of this session, students will:
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: six cards | 30 | 48 | 60 | 78 |
+| Kit: two mats | 10 | 16 | 20 | 26 |
+| Student: half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
 
-- Recognize that God created many different things
+Teacher timer/roster and demonstration from a kit. No natural specimens required.
 
-- Sort natural items by characteristics
+## Vocabulary, background and SAFETY
 
-- Express gratitude for creation
+Sort = group by a rule; feature = visible detail; represent = show grouped
+information; reuse = use again. Different defensible rules are possible.
+Misconception: there is no need for evidence because every answer is right.
+If asked where a difficult card belongs, inspect the chosen feature or revise
+the rule, rather than guessing an unseen biological property.
+No food, acorns, feathers, unknown rocks or nature collection; large paper only.
 
-- Continue developing observation skills
+## Exact sequence: 25 minutes
 
----
+1. **0-4:** Recall careful noticing and conserving shared materials.
+2. **4-8:** Model lines/no lines on two mats; intentionally misplace a card
+   and correct it using its visible feature.
+3. **8-17:** Each child sorts at least three of the six cards in a full turn,
+   points to the rule, then draws/indicates two groups. Begin individual checks.
+4. **17-21:** Child explains a card's placement, represents a group and shows
+   a care/reuse action. Ask "What feature supports this group?"
+5. **21-25:** Save dated records, count six cards/two mats per kit, clear.
 
-## Materials Needed
+## Success, access, troubleshooting and family copy
 
-- 📦 Collection of natural items (rocks, leaves, feathers, shells, pinecones)
+Check visible rule, correct placement and grouped representation separately.
+Support: two cards first, tactile line/no-line drawings and scribing.
+Challenge: choose a second visible rule and explain changed group membership.
+Mixed rules: name one rule and restart, not a competition. No cards: draw six
+forms on the board and let children indicate groups individually.
+Entire pathway is indoors; no collections, purchases or donations.
 
-- 🎨 Sorting trays or paper plates
-
-- 📚 Picture book about creation (optional)
-
-- 🖍️ Wonder Journals and crayons
-
-- 📷 Pictures of diverse landscapes (mountains, oceans, forests)
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Hildegard of Bingen** — She studied plants and nature, believing they showed God's love!
-
-### Scripture
-> *"The heavens declare the glory of God; the skies proclaim the work of his hands."* — Psalm 19:1
-
-### Opening Prayer
-*Dear God, you made the mountains and the seas, the tiny ants and the tall trees. Help us see your love in everything you made. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (4 minutes)
-1. **Wonder Song** (from Session 1)
-2. **Review** — "What did we discover last time?"
-3. **Today's Wonder** — Show landscape pictures
-   - "God made SO many different things!"
-
-### Main Activity: Creation Sorting (14 minutes)
-
-**Part 1: Explore the Collection (4 minutes)**
-
-- Spread natural items on a central mat
-
-- "Let's look at all these things from God's world!"
-
-- Students handle items gently, observe with magnifying glasses
-
-**Part 2: Sorting Challenge (7 minutes)**
-
-- "Can we put things together that are alike?"
-
-- Sorting ideas:
-  - Smooth vs. bumpy
-  - Big vs. small  
-  - Brown vs. other colors
-  - From trees vs. not from trees
-
-- Students work in small groups to sort
-
-**Part 3: Share Discoveries (3 minutes)**
-
-- Groups share how they sorted
-
-- "There's no wrong way! God made everything special!"
-
-### Wonder Journal (4 minutes)
-1. Draw your favorite item from today
-2. Teacher helps write: "God made ___"
-
-### Closing Circle (3 minutes)
-1. **Gratitude Moment** — Each child says: "Thank you, God, for ___"
-2. **Creation Care** — "How can we take care of what God made?"
-3. **Closing Prayer** — *"Thank you, God, for your beautiful world. Help us take care of it. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Participated in sorting activity
-
-- [ ] Made observations about natural items
-
-- [ ] Expressed gratitude for creation
-
-- [ ] Handled nature items with care
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-sort items into two clear categories
-
-- Work one-on-one during sorting
-
-- Use larger items that are easier to handle
-
-### For Advanced Students
-
-- Create their own sorting categories
-
-- Sort items multiple ways
-
-- Draw and label several items
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Go on a "Creation Collection" walk. Gather 5 items from nature (leaves, rocks, sticks). Talk about what makes each one special. What did God create that your family loves most?
-
----
-
-## Teacher Notes
-
-- Save the nature collection for future use
-
-- Create a "Creation Corner" display
-
-- Consider starting a class nature collection box
-
----
-
-**Previous:** [Session 01 — Welcome to Wonder](./Session01_Welcome_Wonder.md)  
-**Next:** [Session 03 — Building Basics](./Session03_Building_Basics.md)
+**Family:** We sorted by a visible rule and showed two groups.
+Ask, "What made your pictures belong together?" No routine homework.

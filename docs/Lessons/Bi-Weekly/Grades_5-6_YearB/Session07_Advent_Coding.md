@@ -203,6 +203,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-T2 - independently trace one event and reset; CST-A3 - communicate/revise one Advent message; CST-C2 - access/audience decision. Limit core to one click event and one response; other scenes are enrichment. Paper event/story cards are **not actual device programming** evidence. Approved Scripture content, image permissions, and public sharing **VERIFICATION REQUIRED**; no home account or routine homework.
 **Observation Checklist:**
 
 - [ ] Created interactive experience

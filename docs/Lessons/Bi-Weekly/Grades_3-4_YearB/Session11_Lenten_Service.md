@@ -58,7 +58,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Corporal Works of Mercy** — Feed the hungry, clothe the naked, shelter the homeless, visit the sick, visit prisoners, bury the dead, give alms to the poor.
+**Corporal Works of Mercy** — Feed the hungry, **give drink to the thirsty**, clothe the naked, shelter the homeless, visit the sick, visit prisoners and bury the dead. Almsgiving is also an important work of charity, not a replacement for drink. Source reference: [USCCB corporal works of mercy](https://www.usccb.org/beliefs-and-teachings/how-we-teach/new-evangelization/jubilee-of-mercy/the-corporal-works-of-mercy); page retrieval was blocked, **VERIFICATION REQUIRED** for exact catechetical wording before a quotation.
 
 ### Scripture
 > *"Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."* — Matthew 25:40
@@ -223,3 +223,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 10 — Geology Rocks](./Session10_Geology_Rocks.md)  
 **Next:** [Session 12 — Life Cycles](./Session12_Life_Cycles.md)
+
+## Service boundaries
+
+This meeting assesses a plan, not completed community service. An adult obtains partner approval/consent and handles delivery; no medical help, prisoner visits, food distribution or private family disclosures arranged by pupils. One child-approved classroom need is sufficient. Home service is optional and never an assessment or compulsory donation.

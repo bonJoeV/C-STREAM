@@ -1,566 +1,179 @@
 ---
 title: "Weeks 14-18: App Development"
-description: "Grades 5-6 Year B MIT App Inventor project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - service
-  - arts
+description: "Accessible one-screen event-driven app with a complete paper prototype route"
+version: "2.0"
+date: 2026-10-04
 ---
 
-# 📱 Weeks 14-18: App Development
+# Weeks 14-18: App Development
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Teacher reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 5 sessions (45 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | T (Technology), M (Math - Logic), E (Engineering) |
+| Grade / unit / title | Grades 5-6 / Computing B / App Development |
+| Time | Five instructional meetings of 45 minutes; 225 total. Schedule meetings around break, not necessarily calendar weeks 14-18. |
+| Domains | C, T, A; engineering/user testing supports the project |
+| Big idea | An event-driven tool should behave predictably and respect users. |
+| Student objective | I can design, trace, test, and improve a one-screen classroom-help tool. |
+| Why | Interface designers and ordinary users need clear labels, privacy, and reliable behavior. |
+| Catholic connection | Human dignity guides inclusive labels and minimal data collection; [verified sources](../../Review/Grades_5-6_Review.md#verified-sources). No official Internet patron claim is made. |
+| Local standards / evidence | CST-T2: individual event/condition trace and correction; CST-T3: individual privacy boundary; CST-A2: purposeful visual hierarchy and tested revision; CST-C2: individual accessibility decision. |
+| Official benchmarks | VERIFICATION REQUIRED; four local program codes. |
+| Technology | Recommended: primary paper prototype fully teaches interface/event reasoning. Optional real-app path requires school-approved App Inventor access and tested Companion/emulator. Paper evidence does **not** prove actual app programming or operation. |
+| Difficulty / prerequisites | Moderate; read short labels, follow if/else, sketch a screen. No prior App Inventor or Year A required. |
+| Prep / cleanup | Paper packet first 20 minutes/repeat 10; device setup may exceed 30 minutes and must be completed before the unit. Cleanup 4 minutes each meeting included. |
 
----
+## BEFORE CLASS
 
-# Weeks 14-18: App Development
+1. Make teams of at most three (4/5/7/9), rotating designer/operator/tester. Prepare one screen template/team from the component list below.
+2. Copy reference events and tests below. No downloaded templates or unspecified resource cards are needed.
+3. If devices are chosen, teacher/IT verifies current platform requirements and age/privacy approval, individual school-managed access, project saving, and Companion/emulator connection. **Never share one password among children or require a personal Google account.**
+4. Test the reference one-screen app ahead of class. Use no camera, microphone, location, texting, cloud database, personal entries, external links, or publishing.
+5. If approval, login, connection, or sufficient devices fail, choose the primary paper path at the start and label all evidence accordingly.
 
-## 🎯 Learning Objectives
+## MATERIALS
 
-### STEM Objectives
-Students will be able to:
-1. Use MIT App Inventor to create mobile apps
-2. Apply programming logic and design
-3. Develop user interface skills
-4. Create an app that solves a real problem
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Individual trace/exit sheets | 2/student/unit | 20 | 30 | 40 | 50 |
+| Screen, event, and test sheets | 3/team/unit | 12 | 15 | 21 | 27 |
+| Paper for movable labels/buttons | 1 sheet/team | 4 | 5 | 7 | 9 |
+| Marker; ruler; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Tape | 0.5 m/team/unit | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Timer; large reference screen | 1 each/teacher | 1 | 1 | 1 | 1 |
+| Approved computer + tested Companion device/emulator, optional | 1 working setup/team; no loan assumed | 4 | 5 | 7 | 9 |
 
-### Faith Integration Objectives
-Students will be able to:
-1. Create technology that serves others
-2. Consider ethical app design
-3. Use gifts for the common good
+School supplies all materials; no family device or account is required.
 
----
+## VOCABULARY
 
-# Weeks 14-18: App Development
+**Interface:** what the user sees/acts on. **Event:** action triggering instructions. **Condition:** test with true/false outcomes. **State:** current values/display. **Prototype:** model to learn from. **Data minimization:** collect only what is genuinely needed.
 
-## 🙏 Faith-Reason Integration
+## TEACHER BACKGROUND
 
-### Catholic Teaching Connection
-**Technology for Human Flourishing** — Apps can improve lives or waste time. As Catholic creators, we're called to develop technology that serves human dignity and the common good, not just entertainment or profit.
+A paper operator can execute events by moving labels; a real computer executes programmed blocks. Both can expose unclear design, but only a real-app run supplies programming/operation evidence. Test expected versus actual output; users should not need the creator to explain every control.
 
-### Scripture Connection
-> "Whatever you do, work at it with all your heart, as working for the Lord."
-> — Colossians 3:23
+**Common misconception:** attractive screens are functioning apps.
 
-### Saint Connection
-**St. Isidore of Seville** — Patron saint of the Internet! This 7th-century bishop wrote encyclopedias to organize and share knowledge. He believed information should serve education and faith. He's the perfect patron for ethical app developers!
+**If asked, "Can we publish this?"** Answer: Not in this unit. School approval, privacy review, accessibility, and tested behavior must precede any publication.
 
----
+### Complete reference project - classroom kit help
 
-## 📚 Materials Needed
+Fictional user: a student locating **a classroom supply**, without entering names.
 
-- Computers with MIT App Inventor access
+Designer components: `TitleLabel` ("Kit helper"), `ChoiceBox` (text input; prompt "Type ruler or tape"), `FindButton` ("Find"), `ClearButton` ("Clear"), `ResultLabel` (initially "Choose a supply"). Arrange top-to-bottom with large labels; do not communicate through color alone.
 
-- Android devices or emulator
+Reference Blocks/paper events:
 
-- App design worksheets
+```text
+When FindButton.Click:
+  if ChoiceBox.Text = "ruler":
+    set ResultLabel.Text to "Rulers: tray A"
+  else if ChoiceBox.Text = "tape":
+    set ResultLabel.Text to "Tape: tray B"
+  else:
+    set ResultLabel.Text to "Type ruler or tape"
 
-- UI/UX templates
-
-- Project rubrics
-
----
-
-## 📝 Week 14 Procedure: App Inventor Introduction (45 minutes)
-
-### Opening Prayer (2 min)
-"St. Isidore of Seville, patron of the Internet, pray for us! Lord, help us learn to create technology that serves others. May our apps bring good into the world. Amen."
-
-### Why Build Apps? (8 min)
-**Apps that matter:**
-
-**Discussion:**
-
-- What apps do you use daily?
-
-- Which genuinely help you?
-
-- Which waste your time?
-
-- What app do you wish existed?
-
-**St. Isidore connection:**
-
-- Organized knowledge for learning
-
-- Wanted information to serve people
-
-- Saw education as sacred
-
-- "The Internet's patron saint"
-
-**App developer calling:**
-
-- Create solutions, not just distractions
-
-- Design for user wellbeing
-
-- Consider: Who benefits? Who might be harmed?
-
-- Build what you'd want your family to use
-
-### MIT App Inventor Introduction (15 min)
-**Platform overview:**
-
-**What is App Inventor?**
-
-- Free from MIT
-
-- Visual block-based coding
-
-- Creates real Android apps
-
-- Drag-and-drop interface
-
-**Two main areas:**
-1. **Designer** — Visual layout (how it looks)
-2. **Blocks** — Programming logic (how it works)
-
-**Basic tutorial:**
-
-- Create new project
-
-- Add components (buttons, labels, images)
-
-- Arrange on screen
-
-- Switch to blocks view
-
-- Connect events and actions
-
-**First app: "Hello World"**
-
-- Add button
-
-- Add label
-
-- When button clicked → change label text
-
-- Test with emulator
-
-### Exploring Components (15 min)
-**What can apps do?**
-
-**Component categories:**
-
-- **User Interface** — Buttons, labels, text boxes
-
-- **Media** — Sound, camera, video
-
-- **Sensors** — GPS, accelerometer
-
-- **Storage** — Files, databases
-
-- **Connectivity** — Web, texting
-
-**Hands-on exploration:**
-
-- Add different components
-
-- Test functionality
-
-- See possibilities
-
-**Brainstorm:**
-
-- What kind of app could you make?
-
-- What problem could it solve?
-
-- Who would use it?
-
-### Closing (5 min)
-**Homework:**
-
-- Think of 3 app ideas that could help someone
-
-- Consider: family, school, community, parish
-
-**Journal:**
-
-- What did you learn today?
-
-- What excites you about app development?
-
-- What app would honor St. Isidore's vision?
-
-**Closing Prayer:**
-"Thank You for the gift of creation, Lord! Help us use technology to serve, not distract. St. Isidore, guide us as we learn to build apps for good. Amen."
-
----
-
-## 📝 Week 15 Procedure: App Design & Planning (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, give us wisdom to design apps that truly help people. Guide our planning today. Amen."
-
-### App Idea Sharing (8 min)
-**Share homework ideas:**
-
-- What ideas did you generate?
-
-- Who would each app help?
-
-- Is it possible to build?
-
-**Good app criteria:**
-
-- Solves real problem
-
-- Has clear user
-
-- Is buildable in our time
-
-- Serves the common good
-
-### User-Centered Design (10 min)
-**Designing for people:**
-
-**Key questions:**
-1. Who is your user?
-2. What problem do they have?
-3. How will your app help?
-4. What features are essential?
-5. What would delight them?
-
-**User persona:**
-Create description of your target user:
-
-- Name, age, situation
-
-- Their challenge/need
-
-- How they'd use your app
-
-- What success looks like
-
-**Catholic lens:**
-
-- Does this respect human dignity?
-
-- Does it serve or exploit?
-
-- Would Jesus approve of this app?
-
-### App Planning Document (20 min)
-**Complete design document:**
-
-**1. App Overview**
-
-- App name
-
-- Purpose (one sentence)
-
-- Target user
-
-- Problem being solved
-
-**2. Features List**
-
-- Essential features (MVP)
-
-- Nice-to-have features
-
-- Future possibilities
-
-**3. Screen Designs**
-
-- Sketch each screen
-
-- Show navigation between screens
-
-- Label all components
-
-**4. Technical Plan**
-
-- What components needed?
-
-- What data to store?
-
-- What logic required?
-
-**5. Faith Connection**
-
-- How does this serve others?
-
-- What values does it reflect?
-
-- How does it honor human dignity?
-
-### Closing (5 min)
-**Plan approval:**
-
-- Teacher reviews plans
-
-- Feedback and refinement
-
-- Ready to build next week!
-
-**Closing Prayer:**
-"Thank You for planning time, Lord! Help us build something meaningful. Amen."
-
----
-
-## 📝 Week 16 Procedure: Building Core Features (45 minutes)
-
-### Opening Prayer (2 min)
-"Creative Spirit, guide our coding today! Help us turn our plans into working apps. Amen."
-
-### Building Phase 1 (40 min)
-**Start building your app:**
-
-**Today's goals:**
-
-- Create all screens
-
-- Add basic components
-
-- Begin programming logic
-
-- Test frequently
-
-**Building tips:**
-
-- Start simple, add complexity
-
-- Test each feature as you build
-
-- Save often!
-
-- Ask for help when stuck
-
-**Common patterns to use:**
-
-**Navigation between screens:**
-```
-When Button.Click
-  open another screen screenName = "Screen2"
+When ClearButton.Click:
+  set ChoiceBox.Text to ""
+  set ResultLabel.Text to "Choose a supply"
 ```
 
-**Storing data:**
-```
-When Button.Click
-  set TinyDB1.Tag to "UserName"
-  call TinyDB1.StoreValue value = TextBox1.Text
-```
+Input is case-sensitive in this starter: `Ruler` takes the fallback branch. Students may improve clear instructions or deliberately add case-handling after core tests. Do not silently claim the starter handles all spellings.
 
-**Conditional logic:**
-```
-If TextBox1.Text = ""
-  then set Label1.Text to "Please enter something"
-  else [proceed with action]
-```
+| Test | Event / input | Expected result |
+|---|---|---|
+| 1 | Find / ruler | Rulers: tray A |
+| 2 | Find / tape | Tape: tray B |
+| 3 | Find / empty | Type ruler or tape |
+| 4 | Find / crayon | Type ruler or tape |
+| 5 | Clear after any input | Empty ChoiceBox; Choose a supply |
+| 6 | Find / Ruler | Type ruler or tape in starter |
 
-**Teacher circulation:**
+Teacher key: no data is retained or transmitted by this design. Persistent storage is not needed. Optional future TinyDB work needs a separate verified example; the former `TinyDB1.Tag` property example is removed.
 
-- Help debug
+## EXACT LESSON SEQUENCE
 
-- Suggest solutions
+### Meeting 1 - events and first prototype
 
-- Keep projects on track
+1. **0-5 (5 min):** Introduce fictional user and dignity/privacy purpose.
+2. **5-12 (7 min):** Demonstrate components and Find/ruler event on board or pretested device.
+3. **12-22 (10 min):** Each student sketches a screen, labels all five components, and predicts Find/tape output.
+4. **22-32 (10 min):** Teams create the paper screen or real Designer layout. Device users create a new school-managed project and rename components to match the reference.
+5. **32-38 (6 min):** Trace one Find event, rotating operator; discuss what is model versus actual app.
+6. **38-41 (3 min):** Individual exit names trigger, condition, output.
+7. **41-45 (4 min):** Save/store projects, tidy.
 
-- Encourage persistence
+### Meeting 2 - user-centered visual design
 
-### Progress Check (3 min)
-**Status update:**
+1. **0-5 (5 min):** Review each student's event explanation.
+2. **5-12 (7 min):** Criteria: locate Find/Clear without coaching; read labels at comfortable seated distance; no private input.
+3. **12-22 (10 min):** Each student suggests two layouts and justifies a visual hierarchy (title, action, output).
+4. **22-32 (10 min):** Teams select/revise layout; keep one screen and reference functionality.
+5. **32-38 (6 min):** Neighboring-team user test: point to Find/Clear; record confusion and one proposed revision.
+6. **38-41 (3 min):** Individual exit explains an accessible label and why student names are unnecessary.
+7. **41-45 (4 min):** Save/store and clean up.
 
-- What's working?
+### Meeting 3 - implement and trace conditions
 
-- What's challenging?
+1. **0-5 (5 min):** Read reference events and identify three branches.
+2. **5-12 (7 min):** Teacher models nested if/else blocks or paper decision cards; demonstrate empty input.
+3. **12-22 (10 min):** Teams implement exactly the reference; each member handles one branch. In paper route operator changes ResultLabel according to written events.
+4. **22-32 (10 min):** Execute tests 1-4; record expected/actual separately and rotate operator.
+5. **32-38 (6 min):** Correct a mistaken branch and rerun affected test. Preserve failed result.
+6. **38-41 (3 min):** Each independently traces crayon input and proposes a correction to an intentionally reversed ruler/tape result.
+7. **41-45 (4 min):** Save/store; clean up.
 
-- What do you need?
+### Meeting 4 - full testing and revision
 
-**Closing Prayer:**
-"Thank You for progress, Lord! Help us persevere through challenges. Amen."
+1. **0-5 (5 min):** Introduce repeatable user testing, not popularity voting.
+2. **5-12 (7 min):** Model Clear reset and case-sensitive test 6; explain limits.
+3. **12-22 (10 min):** Teams run all six tests; each student records at least two tests personally.
+4. **22-32 (10 min):** Another team tries without explanation; record label confusion and test result.
+5. **32-38 (6 min):** Revise one visual label or branch and rerun the affected test, with expected behavior stated first.
+6. **38-41 (3 min):** Individual exit gives before/after evidence and an honest remaining limit.
+7. **41-45 (4 min):** Save/store; clean up.
 
----
+### Meeting 5 - demonstrate and assess
 
-## 📝 Week 17 Procedure: Advanced Features & Testing (45 minutes)
+1. **0-5 (5 min):** Review what may honestly be called programmed/operated versus simulated.
+2. **5-12 (7 min):** Prepare one screen plus raw test table; no new features.
+3. **12-22 (10 min):** Pair adjacent teams; each explains purpose, event trace, and design revision. Nine teams use an extra three-team group, with each member getting a brief turn.
+4. **22-32 (10 min):** Teacher reviews individual evidence while teams demonstrate Find/invalid/Clear to peers. All students execute a trace; device operators are recorded separately.
+5. **32-38 (6 min):** Each student completes the final three-input trace (ruler, empty, Clear) and one dignity/privacy explanation.
+6. **38-41 (3 min):** Summarize one capability and one limit; no unsupported "mastered app development" claim.
+7. **41-45 (4 min):** Export/save only through approved school storage; clean up.
 
-### Opening Prayer (2 min)
-"Lord, help us add features that make our apps truly useful. Guide our testing. Amen."
+## QUESTIONS TO ASK STUDENTS
 
-### Continue Building (25 min)
-**Add advanced features:**
+Which event starts this branch? What happens with an empty string? Can a user identify the result without color? Which data should this tool never request? What does a paper test fail to demonstrate?
 
-**Possible additions:**
+## WHAT SUCCESS LOOKS LIKE
 
-- Multiple screens
+Each student accurately traces three final cases, explains one corrected bug, cites a before/after user test, and identifies a privacy/access safeguard. Grade 5 uses the reference branches. Grade 6 defends an additional spelling/empty-input handling choice with two tests. Real programming credit additionally requires observed block editing and execution; paper route earns design/algorithm evidence only.
 
-- Data storage
+## IF THINGS GO WRONG
 
-- Sensors (if relevant)
+Login/connection fails: switch to supplied paper screen and events; mark shifted objective. Empty output: inspect matching component names and clicked event. Button seems inert: check Blocks association, not decoration. Too much ambition: defer screens, storage, sensors, sound, and publication. No printer: copy five components and tests from board.
 
-- Sound/media
+## SAFETY
 
-- Better UI design
+No personal accounts/password sharing, private health/prayer entries, GPS/camera/microphone/texting, public uploads, or app installation outside approved tools. Adult/IT controls device setup and charging. Review interfaces for respectful language; nobody's faith or ability is ranked by app scores.
 
-**Polish the interface:**
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-- Consistent colors
+Grade 5: movable output cards and highlighted matching text, oral trace. Challenge: predict `Ruler`. Grade 6: three-branch trace scaffold; challenge normalize case or add another supply and test both valid/invalid inputs. Large print, keyboard access, and a scribe preserve reasoning goals.
 
-- Clear labels
+## INDOOR FALLBACK
 
-- Intuitive navigation
+Paper screen, operator, event cards, and six tests are a complete five-meeting indoor route. This is not an actual mobile app.
 
-- Error handling
+## CLEANUP
 
-### User Testing (15 min)
-**Test with classmates:**
+Save through school-approved storage, sign out where required, collect paper components and individual traces, power down per school practice. Do not send home account credentials.
 
-**Process:**
+## FAMILY NEWSLETTER
 
-- Partner up with someone NOT working on your app
-
-- Let them use it WITHOUT instruction
-
-- Watch what confuses them
-
-- Note what they struggle with
-
-- Get their honest feedback
-
-**Feedback form:**
-
-- What worked well?
-
-- What was confusing?
-
-- What features would you add?
-
-- Would you use this app?
-
-**Iterate:**
-
-- Based on feedback, what will you change?
-
-- Prioritize fixes
-
-- Make improvements
-
-### Closing (3 min)
-**Final push planning:**
-
-- What must be done before showcase?
-
-- What would be nice to add?
-
-- Focus on essentials
-
-**Closing Prayer:**
-"Thank You for testers who help us improve! Help us finish strong. Amen."
-
----
-
-## 📝 Week 18 Procedure: App Showcase (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord, bless our presentations today! Help us share what we've created with joy and humility. St. Isidore, celebrate with us! Amen."
-
-### Final Preparations (10 min)
-**Last polish:**
-
-- Fix any remaining bugs
-
-- Add finishing touches
-
-- Prepare presentation
-
-- Test one more time
-
-**Presentation outline:**
-1. App name and purpose
-2. Who it helps and how
-3. Demo the app
-4. Technical highlights
-5. Faith connection
-6. What you learned
-
-### App Showcase (28 min)
-**Present apps:**
-
-**Each team (4-5 min):**
-
-- Present using outline
-
-- Live demo
-
-- Answer questions
-
-**Audience:**
-
-- Try apps if possible
-
-- Ask questions
-
-- Give encouragement
-
-- Note what impresses you
-
-### Celebration & Reflection (5 min)
-**Awards:**
-
-- Most Useful App
-
-- Best Design
-
-- Most Creative
-
-- Best Faith Integration
-
-- Perseverance Award
-
-**Reflection:**
-
-- "What did you learn about app development?"
-
-- "How did you serve others through your app?"
-
-- "What would you do differently?"
-
-**Next steps:**
-
-- Could your app be published?
-
-- Could it be improved over summer?
-
-- Who else might benefit?
-
-**Closing Prayer:**
-"Thank You, God, for the gift of creation! Thank You for the ability to build apps that serve others. St. Isidore, thank you for inspiring us to use technology for good. Help us continue creating things that honor You and help our neighbors. May our apps bring good into the world! Amen."
-
----
-
-## 📎 Home Connection
-> "We completed a 5-week app development project! Ask your child: 'What app did you create?' 'Who does it help?' 'What was hardest about building it?' 'What did you learn?' If they have an Android device, they might be able to show you their working app!"
-
----
-
-## ✅ Assessment
-
-- Created functional app in App Inventor
-
-- Demonstrated user-centered design
-
-- Included meaningful features
-
-- Connected app purpose to faith values
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+**Explored:** accessible interfaces and events. **Did:** designed a kit-helper, tested six cases, and revised it. **Learned:** clear behavior and privacy matter. **Catholic connection:** technology should respect people. **Ask:** "What did your Clear action reset?" Teacher identifies whether work was a paper model or a real programmed app. No routine homework or home account required.

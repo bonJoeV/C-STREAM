@@ -49,14 +49,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
-**Resurrection and Transformation** — The caterpillar becomes a butterfly through amazing transformation. This mirrors our Easter faith: death leads to new life. We too will be transformed!
+### Catholic Teaching Connection - VERIFICATION REQUIRED
+Butterfly transformation can be a teacher image of hope, **not** resurrection: the animal remains alive through larva, pupa and adult. Faith claims about Jesus's resurrection require an approved religious source, not a biological experiment.
 
-### Scripture Connection
-> "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"
-> — 2 Corinthians 5:17
+### Scripture reference
+2 Corinthians 5:17; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **St. Paul** — Experienced dramatic transformation from persecutor to apostle. Like a caterpillar becoming a butterfly, God transformed him completely.
 
 ---
@@ -109,7 +108,7 @@ Students will be able to:
 
 - "This is like Easter!"
 
-- "Jesus died (like entering the chrysalis)"
+- "A chrysalis is alive; Jesus's death/resurrection is not the butterfly's life cycle."
 
 - "Then He rose — transformed, alive, beautiful!"
 
@@ -147,7 +146,7 @@ Students will be able to:
 
 - "He met Jesus and was completely changed"
 
-- "He became PAUL — a new person!"
+- "Acts 13:9 identifies Saul as also called Paul; do not teach that conversion changed his name." Reference wording **VERIFICATION REQUIRED**.
 
 - "Like a caterpillar becoming a butterfly"
 
@@ -311,7 +310,7 @@ Students will be able to:
 ### Celebration & Release (6 min)
 **If live butterflies:**
 
-- Go outside for release (weather permitting)
+- **Do not release purchased/classroom butterflies** without school approval, species/local ecological guidance and a documented safe care/release plan. Weather permitting alone is not sufficient. Default is photos/models, not a live kit.
 
 - Say a prayer for the butterflies
 
@@ -349,7 +348,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / living-model accuracy / evidence
+No wild collecting, handling caterpillars, pesticide use or unapproved release. Teacher follows the chosen species' husbandry and ongoing adult care requirements before any live kit; if unavailable use photos, clearly not firsthand observations. Butterfly pupa is a chrysalis, not universally a silk cocoon; species/development duration differs. Models are science/art, not engineering unless tested against criteria. Grade 1 orders four stage pictures orally; Grade 2 explains one stage change and one model limitation. Use paper rather than loose pasta/food. Reserve final 4 creation minutes each meeting for cleanup. **Technology: None primary path**; video optional.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We studied butterfly metamorphosis and connected it to Easter transformation! Ask your child: 'What are the four stages of a butterfly life cycle?' 'How is metamorphosis like resurrection?' 'What is God transforming in you?' Look for butterflies together this spring and remember: transformation is possible!"
 
 ---

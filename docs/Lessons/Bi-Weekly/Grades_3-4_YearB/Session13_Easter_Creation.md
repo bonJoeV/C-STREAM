@@ -232,3 +232,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 12 — Life Cycles](./Session12_Life_Cycles.md)  
 **Next:** [Session 14 — Ozobot Challenge](./Session14_Ozobot_Challenge.md)
+
+## SAFETY / symbolism
+
+Paper/cardboard primary. Any illuminated option uses only the adult-approved kit from [Christmas Circuits](./Session07_Christmas_Circuits.md); no loose coin-cell gift, mains electricity or homemade wiring. A butterfly is an image of hope, not a dead creature returning to life. Indoor paper/photos replace spring nature; optional home celebration is not homework.

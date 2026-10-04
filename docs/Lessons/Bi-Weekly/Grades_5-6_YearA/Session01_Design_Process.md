@@ -159,6 +159,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C2 - distinguish stated user needs from assumed feelings; CST-E1 - criterion and constraint in the problem statement; CST-E2 - one feedback-based revision. Use a fictional/consented school-task brief, never compelled private frustrations. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Conducted empathetic inquiry

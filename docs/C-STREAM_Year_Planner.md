@@ -9,7 +9,17 @@ description: "Complete Year-Long C-STREAM Planning Model for K-6 Catholic School
 
 **Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
 
-This comprehensive planner provides everything needed to run a successful C-STREAM program for Kindergarten through 6th grade, teaching once per week for approximately 32-34 sessions per year.
+Use this planner as a calendar scaffold, not a guarantee that all legacy
+lessons are ready to teach. Start with the [scope and sequence](Review/Scope_and_Sequence.md),
+[grade reviews](Review/README.md) and [materials plan](Review/Materials_Plan.md).
+The weekly Year A scaffold has 34 numbered slots with two non-teaching breaks;
+actual Year B meeting counts require the band-specific pacing check.
+
+Four existing Grades 3-6 circuit lessons now have an
+[OLP Snap Circuits pathway](Review/Materials_Plan.md#selected-snap-circuits-lesson-pathways).
+Use the [eight-kit setup/rotation guide](Resources/Snap_Circuits_Classroom_Guide.md)
+instead of assuming a loan or simultaneous ninth kit. No extra calendar
+meeting is added; weekly and bi-weekly tracks remain alternatives.
 
 | 📚 [View Lesson Index](./C-STREAM_Lesson_Index.md) | 📦 [CSCOE Library Guide](./Resources/CSCOE_Library_Planning_Guide.md) | 🆘 [Sub Plans](./Resources/Substitute_Teacher_Guide.md) |
 
@@ -30,17 +40,18 @@ This comprehensive planner provides everything needed to run a successful C-STRE
 
 | Planning Element | Details |
 |-----------------|---------|
-| **Total Sessions** | 32-34 per year (accounting for holidays, field trips) |
-| **Single-Week Lessons** | 12-14 standalone sessions |
-| **Multi-Week Units** | 8-10 units (2-3 weeks each) |
-| **Long Arc Projects** | 4-5 extended projects (4-6 weeks each) |
+| **Weekly scaffold** | 34 numbered calendar slots; 32 teaching meetings when slots 17 and 32 are breaks |
+| **Bi-weekly alternative** | 17 native-length meetings; choose this instead of the weekly sequence |
+| **Multi-week documents** | Count every meeting in a document, not only the file |
+| **Extension projects** | Replace or deepen a scheduled objective; do not add an overlapping project quota |
 | **Grade Groups** | K, 1-2, 3-4, 5-6 (differentiated content & timing) |
 
 ---
 
 ## 🎨🎵 The "A" in C-STREAM: Arts
 
-**Digital Creation Focus** - The "A" encompasses both Art and Music through digital tools:
+**Hands-on creation first.** Arts include purposeful visual and musical
+communication. These digital tools are possible extensions, not requirements:
 
 | Art (Visual) | Music (Audio) |
 |--------------|---------------|
@@ -58,32 +69,24 @@ This comprehensive planner provides everything needed to run a successful C-STRE
 
 | Season | Weeks | Focus | Lesson Types |
 |--------|-------|-------|--------------|
-| **Fall** (Sept-Nov) | 10-12 weeks | Foundation Building, Wonder | 4-5 single + 2-3 multi-week + 1 long arc |
-| **Winter** (Dec-Feb) | 8-10 weeks | Deep Exploration, STEM Fair Prep | 3-4 single + 2-3 multi-week + 1 long arc |
-| **Spring** (Mar-May) | 12-14 weeks | Application, Service Projects | 4-5 single + 3-4 multi-week + 2 long arcs |
+| **Foundation** | Slots 1-13: 13 meetings | Wonder, tools, structures, service | Use the selected grade-band track |
+| **Investigation** | Slots 14-27: 13 meetings + slot 17 break | Light, inquiry, design and computing | Indoors; preserve evidence and revision time |
+| **Application** | Slots 28-34: 6 meetings + slot 32 break | Measurement, life/creation care, reflection | Move seasonal/liturgical contexts to actual school dates |
 
 ---
 
 ## 📚 Master Lesson Distribution
 
-### Total Lessons Needed: 32-34 Sessions
+### Count meetings, not project labels
 
-```
-+-----------------------------------------------------------------+
-|                    YEAR OVERVIEW (32-34 Sessions)               |
-+-----------------------------------------------------------------+
-|                                                                 |
-|  SINGLE-WEEK LESSONS (12-14)        ████████████████  ~40%      |
-|  Quick, focused explorations                                    |
-|                                                                 |
-|  MULTI-WEEK UNITS (8-10 × 2-3 wks)  ████████████████  ~35%      |
-|  Deeper skill development                                       |
-|                                                                 |
-|  LONG ARC PROJECTS (4-5 × 4-6 wks)  ████████████████  ~25%      |
-|  Extended engineering challenges                                |
-|                                                                 |
-+-----------------------------------------------------------------+
-```
+For the weekly scaffold: **13 + 13 + 6 = 32 teaching meetings**, plus two
+break slots. The earlier single-week/multi-week/long-arc quotas double-counted
+time and must not be added together.
+
+Choose the actual grade/rotation documents, total their planned meetings,
+then compare with the school's calendar. Use unexpected spare meetings for
+retesting, individual evidence and artistic revision. If meetings are lost,
+reduce project scope rather than removing assessment or cleanup.
 
 ---
 
@@ -145,7 +148,7 @@ This comprehensive planner provides everything needed to run a successful C-STRE
 
 *Week 17: Christmas Break - No Class*
 
-### January: New Beginnings & STEM Fair (5 weeks)
+### January themes: New Beginnings & Investigation (6 numbered slots)
 
 | Week | Type | Topic | Materials Needed | CSCOE Checkout |
 |------|------|-------|------------------|----------------|
@@ -179,52 +182,56 @@ This comprehensive planner provides everything needed to run a successful C-STRE
 |------|------|-------|------------------|----------------|
 | 28 | Single | **Pi Day Celebration** - Math wonder, patterns in creation | Pi materials, circles | N/A |
 | 29-31 | Long Arc (3) | **Growing Things** - Environmental engineering, Lenten reflection | EiE Environmental Kit | Reserve by Mar 1 |
-| 32 | Single | **Field Trip Preparation/Debrief** | Journals | N/A |
+| 32 | Break | **School-calendar break/flex slot** - no required new objective | None | N/A |
 
 **Catholic Integration:**
 - Week 28: Wonder at God's mathematical creation
 - Weeks 29-31: Care for creation, Lenten stewardship
-- Week 32: Learning from museums, continued wonder
+- Slot 32: Confirm the actual school calendar; a field trip is optional, not required for participation.
 
-*Week 33: Spring Break - No Class*
+*Slot 32 is the scaffold's spring break. Move this break to the actual school date.*
 
-### April: Resurrection & Renewal (4 weeks)
-
-| Week | Type | Topic | Materials Needed | CSCOE Checkout |
-|------|------|-------|------------------|----------------|
-| 34 | Single | **Easter Engineering** - New life, transformation in engineering | Craft supplies | N/A |
-| 35-37 | Long Arc (3) | **Service Project Design Challenge** - Community engineering project | Various based on project | Reserve by Mar 20 |
-
-**Catholic Integration:**
-- Week 34: Resurrection themes, transformation
-- Weeks 35-37: Hands and feet of Christ, Catholic Social Teaching application
-
-### May: Celebration & Reflection (3-4 weeks)
+### Renewal and year-end reflection (2 final teaching slots)
 
 | Week | Type | Topic | Materials Needed | CSCOE Checkout |
 |------|------|-------|------------------|----------------|
-| 38-39 | Multi (2) | **Final Coding Projects** - Scratch/ScratchJr year reflection | iPads/Chromebooks | School owns |
-| 40 | Single | **STREAM Year Celebration** - Showcase, awards, reflection | All year's work | N/A |
-| 41 | Single | **Summer STREAM Challenge Launch** - Take-home activities | Summer packets | N/A |
+| 33 | Single | **New Life / Renewal Engineering** - use the selected grade's actual lesson | Paper, drawing and safe building supplies | Not required for a low-tech path |
+| 34 | Single | **Year Celebration** - demonstrate and explain growth using saved evidence | Existing projects/journals | Not required |
 
 **Catholic Integration:**
-- Weeks 38-39: Reflecting on growth, gratitude for learning
-- Week 40: Celebrating gifts, community
-- Week 41: Continuing wonder, summer stewardship
+- Slot 33: Renewal and stewardship; the scientific model is not proof of a theological claim.
+- Slot 34: Gratitude, community and responsible use of our gifts.
+
+### Optional enrichment menu (not extra required calendar weeks)
+
+| Extension | When to use it | Materials | Evidence |
+|---|---|---|---|
+| Longer service design | Replace/deepen a scheduled service unit if time permits | Existing building kit | Explain a user's need, test and improve |
+| Digital reflection | Only when devices add meaningful value; paper sequence also works | Approved device or paper | Explain decisions and revisions |
+| Family wonder question | Optional communication, never required summer homework | None to purchase | No homework-based mastery judgment |
+
+**Catholic Integration:**
+- Reflection: Describe growth honestly using evidence.
+- Celebration: Share gifts with the community without competitive awards for artistic polish.
+- Optional family questions: Continue wonder without required summer work.
 
 ---
 
 ## 📦 Materials Management
 
-### School-Owned Materials (Always Available)
+### Historical school-inventory assumptions (verify before planning)
 
 | Item | Quantity | Storage | Use For |
 |------|----------|---------|---------|
 | **KEVA Planks** | 2+ sets | STREAM closet | Building, engineering, physics |
 | **iPads** | Class set | Tech cart | Coding, research, documentation |
 | **Chromebooks** | Class set | Tech cart | Scratch, web-based activities |
-| **Spheros** | Class set | STREAM closet | Movement, coding, navigation |
-| **Basic Craft Supplies** | Ongoing | Supply cabinet | All projects |
+| **Spheros** | Verify actual count/condition | Verify location | Optional robotics extension |
+| **Basic Craft Supplies** | Check/replenish per lesson | Confirm supply cabinet | Low-tech investigations and design |
+
+**VERIFICATION REQUIRED:** Counts, working condition, storage locations,
+accounts and loan availability. Neither a school-owned class set nor a loan
+reservation is a prerequisite for the documented low-tech core.
 
 ### CSCOE Library Checkout Schedule
 
@@ -246,13 +253,12 @@ This comprehensive planner provides everything needed to run a successful C-STRE
 
 **[Browse CSCOE STEM Library →](https://cscoe.myturn.com/library/inventory/browse?q=&_hide_unavailable=true&sort=score&view=grid&perPage=60)**
 
-#### Available Categories:
-- **Engineering is Elementary Kits** (53 kits) - Multi-week unit resources
-- **Robotics** (10 items) - Dash Robots, Bee Bots, EV3
-- **Learning Resources** (11 items) - Manipulatives, tools
-- **System Kits** (19 items) - Complete curriculum kits
-- **Lab/Measurement Devices** (3 items) - Scientific tools
-- **Virtual Reality** (1 item) - Immersive experiences
+#### Categories to investigate, not verified current stock:
+- Engineering kits, robotics, manipulatives, measurement tools and system kits.
+- Current counts, eligibility, pickup arrangements and booking lead times:
+  **VERIFICATION REQUIRED** directly with the provider.
+- Specialty equipment, including VR, is optional enrichment, not part of the
+  minimum purchase plan.
 
 ---
 
@@ -260,7 +266,8 @@ This comprehensive planner provides everything needed to run a successful C-STRE
 
 ### Quick Start Guide
 
-Each lesson folder contains:
+Before releasing a lesson, verify these items actually exist. The legacy
+folders do not all contain a separate quick-reference, vocabulary or sub packet:
 - [ ] **Lesson Plan** (detailed steps)
 - [ ] **One-Page Quick Reference** (substitute-friendly)
 - [ ] **Vocabulary Cards** (printable)
@@ -270,7 +277,7 @@ Each lesson folder contains:
 
 ### Substitute Teacher Packet
 
-**Every unit includes a simplified substitute plan with:**
+**A substitute packet should include:**
 1. **5-Minute Overview** - What students are working on
 2. **Materials Location** - Where to find everything
 3. **Step-by-Step Instructions** - Simple, numbered steps
@@ -280,7 +287,7 @@ Each lesson folder contains:
 
 ### Vocabulary by Unit
 
-Each unit includes printable vocabulary cards with:
+Where cards are useful, prepare oral/visual vocabulary aids with:
 - Term and definition
 - Visual representation
 - Faith connection (where applicable)
@@ -294,13 +301,11 @@ Each unit includes printable vocabulary cards with:
 |  K (25 min) | 1-2 (30 min) | 3-4 (40 min) | 5-6 (45 min)|
 +---------------------------------------------------------+
 |  MATERIALS: KEVA Planks (1 set per 2-3 students)        |
-|  LOCATION: STREAM closet, shelf 2                       |
+|  LOCATION: teacher records the actual kit location     |
 +---------------------------------------------------------+
 |  LESSON FLOW:                                           |
-|  5 min  - Opening prayer, wonder question               |
-|  10 min - Demo: balance and structure                   |
-|  25 min - Build challenge (see grade card)              |
-|  5 min  - Reflection, closing prayer                    |
+|  Use the actual lesson's grade-specific timing.        |
+|  Do not use one 45-minute plan for a 25-minute class.   |
 +---------------------------------------------------------+
 |  CATHOLIC CONNECTION: Building for the common good      |
 |  "How does our building help others?"                   |
@@ -374,14 +379,18 @@ Each week, provide parents with:
 
 ## ✅ Assessment & Progress
 
-### Grading Breakdown
+### Evidence of learning, not participation percentages
 
-| Category | Percentage | What to Look For |
-|----------|------------|------------------|
-| STEM Knowledge & Skills | 40% | Understanding concepts, applying skills |
-| Collaboration & Communication | 20% | Teamwork, explaining ideas |
-| Catholic Integration & Ethics | 20% | Connecting to faith, ethical thinking |
-| Effort & Growth | 20% | Persistence, improvement over time |
+| Evidence | What to assess |
+|---|---|
+| Individual oral explanation, drawing or demonstration | The stated science, mathematics, computing or design objective |
+| Test record and revision | Whether the student uses evidence to explain an improvement |
+| Ethical or stewardship choice | An age-appropriate reason about people/resources, not the child's personal piety |
+| Collaboration and effort | Record separately from mastery; successful group work does not prove every student's understanding |
+
+Use a simple objective-linked rubric and the [local progression](Review/Learning_Progression.md).
+Do not grade handwriting, artistic polish or reading proficiency unless it is
+the actual objective.
 
 ### Progress Tracking
 

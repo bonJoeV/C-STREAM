@@ -57,11 +57,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Thérèse of Lisieux** — She believed in doing small things with great love. Even little gifts can show big love!
 
-### Scripture
-> *"Give thanks in all circumstances."* — 1 Thessalonians 5:18
+### Scripture reference
+1 Thessalonians 5:18; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, we have so much to thank you for! Help us remember all the people who help us. May our gifts today show our love and gratitude. Amen.*
@@ -178,7 +178,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / recipient / evidence
+Default a paper thank-you card; teacher precuts, no glass frames, hot glue or small beads. Recipient delivery and student-photo use follow school permissions; no required purchases/donations. Grade 1 dictates/draws a message; Grade 2 revises one design feature after partner feedback. Do not rate love by expense or artistic talent. **Technology: None primary path.** Last 3 making minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; an oral thank-you equally valid)
 **Family Activity:** Have a family gratitude night! Each person makes a gift for another family member. Share what you're thankful for about each person. Start a "Thankful Jar" for November.
 
 ---

@@ -40,7 +40,7 @@ By the end of this session, students will:
 
 ## Materials Needed
 
-- 📦 Magnets (bar and disc magnets)
+- Large intact encased classroom magnets appropriate for age; **no loose disc/button/high-powered magnets**.
 
 - 📦 Test objects (paperclips, coins, plastic, wood, foil, fabric)
 
@@ -54,11 +54,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Hildegard of Bingen** — She studied the natural world, including stones and their properties. She'd be fascinated by magnets!
 
-### Scripture
-> *"He stretches out the north over the void and hangs the earth on nothing."* — Job 26:7
+### Scripture reference
+Job 26:7; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. Scripture/love analogies are not evidence about magnetic fields.
 
 ### Opening Prayer
 *Dear God, you made invisible forces like magnetism that hold our world together. Thank you for the amazing things we can't see but know are real. Help us discover more about your creation today. Amen.*
@@ -88,7 +88,7 @@ By the end of this session, students will:
 
 - Test: paperclips, coins, plastic, wood, foil, pencil, fabric
 
-- Discovery: "What kinds of things are magnets attracted to?" (Metal things, especially iron/steel)
+- Discovery: some materials containing iron/steel are attracted; **not all metals** are. Record each object's result instead of predicting from metallic appearance.
 
 **Part 2: Push and Pull (6 minutes)**
 
@@ -151,7 +151,7 @@ By the end of this session, students will:
 
 ### For Advanced Students
 
-- Explore magnetic field patterns (iron filings if available)
+- Draw observed attract/repel motions; no loose iron filings in this age band.
 
 - Test more materials
 
@@ -159,7 +159,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / individual evidence / cleanup
+Teacher counts intact encased magnets before/after and removes cracked casings; supervise, never put near mouth/nose, medical devices or school electronics. Suspected swallowed magnet: **seek immediate medical attention and follow school emergency procedures**, not wait for symptoms ([CPSC](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets)). Replace loose coins/clips with teacher-secured samples or large safe objects. Grade 1 predicts/tests three objects and points to results; Grade 2 records four and explains a nonmagnetic-metal counterexample. Magnet attraction does not prove God's existence or equate God's love with a physical field. **Technology: None primary path.** Last 3 test minutes are count/return/cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; discuss classroom findings rather than loose-magnet play)
 **Family Activity:** Go on a magnet hunt at home (use a refrigerator magnet)! What sticks? What doesn't? Test different metals—are they all magnetic? Where are magnets used in your home? (Refrigerator, cabinet doors, speakers)
 
 ---
@@ -168,9 +171,9 @@ By the end of this session, students will:
 
 - Magnet kits available from CSCOE
 
-- Small magnets can be swallowed—supervise carefully
+- Small/high-powered magnets can cause severe ingestion injury; do not use them for this activity, even with supervision.
 
-- Iron filings are messy but show field lines beautifully
+- Do not distribute loose iron filings or small magnets; use a teacher picture if field patterns are discussed.
 
 - Connect to Earth's magnetic field and compasses
 

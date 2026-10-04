@@ -176,6 +176,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-A3 - purposeful message revised after feedback; CST-T3 - safe school-only media/source use; CST-C2 - respectful audience/access decision. Paper storyboard is available, explicitly **not digital production/programming** evidence. No public posting, personal accounts, identifiable images, or unlicensed music. Approved Scripture translation and historical claims **VERIFICATION REQUIRED**; no routine homework.
 **Observation Checklist:**
 
 - [ ] Applied appropriate technology

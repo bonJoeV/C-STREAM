@@ -49,13 +49,12 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Gratitude as Prayer** — Thanking God is one of the four types of prayer (praise, thanksgiving, contrition, petition). When we count our blessings and express gratitude, we're praying!
+Thanksgiving is a form of prayer; [CCC 2637-2638](https://www.vatican.va/archive/ENG0015/__P99.HTM). Do not present a four-item classroom mnemonic as the Catechism's exhaustive classification.
 
-### Scripture Connection
-> "Give thanks to the Lord, for he is good; his love endures forever."
-> — Psalm 107:1
+### Scripture reference
+Psalm 107:1; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Thérèse of Lisieux** — Found joy in small things and was constantly grateful. Her "Little Way" teaches us to thank God for everyday blessings.
 
 ---
@@ -84,7 +83,7 @@ Students will be able to:
 
 - "St. Thérèse was thankful for even SMALL things"
 
-- "She called little blessings 'flowers' for Jesus"
+- The specific attributed "flowers" saying is unverified; omit it. Children can express their own gratitude without an attributed quote.
 
 **Today's project:**
 
@@ -192,7 +191,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## Technology / nonreader / privacy
+**Required primary path:** school-approved ScratchJr tablets for executed code. Grade 1 dictates or records a short message instead of typing; demonstrate green-flag plus two ordered actions. Grade 2 changes one action and explains output. No devices: paper panels and oral sequence/debug; no app-operation/executed-program mastery claim. Do not upload names/photos/voices outside approved storage. Use final 3 creation minutes for save/return/cleanup. Optional home discussion needs no tablet.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We created gratitude animations in ScratchJr! Ask your child to show you their project. Ask: 'What are you thankful for?' We learned that gratitude is a form of prayer. At dinner this week, go around and share something each person is thankful for."
 
 ---

@@ -49,14 +49,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Resurrection and New Life** — Easter celebrates Jesus rising from the dead. All of creation echoes this theme in spring: flowers bloom, animals are born, trees bud. New life is everywhere!
 
-### Scripture Connection
-> "See, I am making all things new!"
-> — Revelation 21:5
+### Scripture reference
+Revelation 21:5; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **St. Mary Magdalene** — First witness to the Resurrection. She saw Jesus alive in the garden on Easter morning. She reminds us to look for new life everywhere!
 
 ---
@@ -101,7 +100,7 @@ Students will be able to:
 
 - Where is new life?
 
-- What was "dead" that's now alive?
+- What was dormant or not visibly growing and is now changing? Dormant plants remain living.
 
 **St. Mary Magdalene:**
 
@@ -109,7 +108,7 @@ Students will be able to:
 
 - "But she found LIFE — Jesus was alive!"
 
-- "She was the first to say 'He is risen!'"
+- Use a school-approved account of Mary Magdalene's witness; no invented first spoken quotation.
 
 - "We look for new life just like she did"
 
@@ -121,7 +120,7 @@ Students will be able to:
 
 - "Winter → SPRING"
 
-- "All of creation shows us resurrection!"
+- "Spring can remind Christians of Easter hope; seasonal growth is not scientific evidence of resurrection."
 
 ### New Life Scavenger Hunt (8 min)
 **If weather permits, go outside. If not, use images/items:**
@@ -134,7 +133,7 @@ Students will be able to:
 
 - An insect or animal
 
-- Something that was "dead" looking that now has life
+- Something dormant or not visibly growing that now shows change
 
 **Observe and share:**
 
@@ -167,7 +166,7 @@ Students will be able to:
 
 - Split paper in half
 
-- One side: winter/death (bare tree, gray)
+- One side: winter/dormancy (bare living tree)
 
 - Other side: spring/life (leafy tree, colorful)
 
@@ -198,7 +197,7 @@ Students will be able to:
 
 - "Jesus is ALIVE!"
 
-- "Spring shows us resurrection everywhere"
+- "Spring growth can be a faith reminder; dormancy is not death."
 
 - "We have HOPE because of Easter!"
 
@@ -207,7 +206,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / indoor default
+Use the existing indoor picture hunt when weather/clothing/supervision is unsuitable. No wild collecting/tasting, unknown flowers or real eggshells; teacher-screened items/paper eggs only. Never assume every bare plant is dead. Grade 1 orally compares two visible features; Grade 2 explains a seasonal-change observation versus symbolism. Reserve final 3 art minutes for cleanup. **Technology: None primary path.**
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated new life and Easter today! Ask your child: 'What signs of spring did you find?' 'How is spring like Easter?' 'What new life art did you create?' Take a family spring walk and look for signs of new life together. Remember: Jesus makes all things new!"
 
 ---

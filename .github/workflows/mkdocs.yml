@@ -39,5 +39,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Validate curriculum records
+        shell: pwsh
+        run: .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
+
+      - name: Validate Kindergarten references
+        shell: pwsh
+        run: .\scripts\Test-KindergartenReferences.ps1
+
+      - name: Validate Snap Circuits references
+        shell: pwsh
+        run: .\scripts\Test-SnapCircuitsReferences.ps1
+
       - name: Build and deploy MkDocs
         run: mkdocs gh-deploy --force

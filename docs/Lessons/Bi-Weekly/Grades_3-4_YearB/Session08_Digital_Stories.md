@@ -198,7 +198,7 @@ By the end of this session, students will:
 
 - Allow flexibility in format
 
-- Stories can continue as homework
+- Finish a small paper storyboard in class if needed; no homework or home-device dependence
 
 - Consider sharing at school assembly
 
@@ -208,3 +208,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 7 — Christmas Circuits](./Session07_Christmas_Circuits.md)  
 **Next:** [Session 9 — Faith & Science](./Session09_Faith_Science.md)
+
+## Privacy / fallback
+
+Use teacher-approved source stories; invented dialogue is labeled as retelling. No public pupil voices/photos/names or uploads without school consent. If devices fail, use a three-panel paper comic and a peer-tested message; this demonstrates narrative/art, **not** digital-tool operation or computer programming. Collect each child's beginning/middle/end and one revision. Complete multimedia workflow remains P1 work.

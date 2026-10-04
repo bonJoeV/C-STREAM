@@ -58,17 +58,17 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Scientist connection - VERIFICATION REQUIRED before teaching biographies
 **Multiple Catholic Scientists:**
 
 - **Gregor Mendel** — Monk who discovered genetics
 
-- **Louis Pasteur** — Catholic who invented pasteurization
+- **Louis Pasteur** — Studied microorganisms and heating processes; specific religious-affiliation claims are unverified and omitted.
 
 - **Fr. Georges Lemaître** — Priest who proposed the Big Bang theory
 
-### Scripture
-> *"The heavens declare the glory of God; the skies proclaim the work of his hands."* — Psalm 19:1
+### Scripture reference
+Psalm 19:1; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for our Catholic school where we learn about you AND about your world. Thank you for Catholic scientists who loved you and loved learning. Help us follow their example. Amen.*
@@ -82,7 +82,7 @@ By the end of this session, students will:
 2. **Faith + Science** — "At Catholic schools, we learn that God made science!"
 3. **Catholic Scientists** — Introduce heroes:
    - **Gregor Mendel:** Monk who grew pea plants and discovered how traits pass from parents to children (genetics)
-   - **Louis Pasteur:** Made milk safe to drink (pasteurization)
+   - **Louis Pasteur:** Heating can reduce harmful microorganisms; pasteurization does not make every milk sample automatically safe and is not a classroom milk experiment.
    - **Fr. Georges Lemaître:** Priest who figured out the universe is expanding (Big Bang)
 4. **Key Message** — "Loving God and loving science go together!"
 
@@ -171,8 +171,11 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
-**Family Activity:** Look up one Catholic scientist together! (Gregor Mendel, Louis Pasteur, or Blessed Carlo Acutis) Talk about how they served God through science. Why is it special to go to a Catholic school?
+## Source gate / low-tech evidence
+If verified biographies are unavailable, replace the six-minute scientist story with sorting large paper pea-picture cards by two visible traits. Grade 1 names a grouping rule orally; Grade 2 separates an observed trait from an untested inheritance explanation. Do not infer genetic rules from color-sorting crafts. **Technology: None primary path.** Teacher checks safe large supplies, no food/tasting; last 3 tribute minutes are cleanup. Additional Church/history claims require approved sources; no routine homework.
+
+## Wonder at Home 🏠 (optional; discuss the class observations without internet)
+**Optional family activity:** Ask what students observed or learned from a teacher-verified biography. No research device or purchase is needed; do not assign unverified religious affiliations.
 
 ---
 

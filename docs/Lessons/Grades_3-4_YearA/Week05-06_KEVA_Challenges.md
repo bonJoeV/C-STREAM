@@ -182,7 +182,7 @@ Students will be able to:
 
 - Must span a 12-inch gap
 
-- Must hold at least 1 pound of weight
+- Test with up to 10 identical plastic counters; no required pound load
 
 - Structure cannot touch the "water" below
 
@@ -237,7 +237,7 @@ Students will be able to:
 
 - Add weight gradually
 
-- Record maximum weight held
+- Record the last successful counter count; stop at 10 and record "at least 10" if all hold
 
 **Record and compare:**
 
@@ -249,9 +249,8 @@ Students will be able to:
 
 **Math integration:**
 
-- Calculate efficiency: weight held ÷ planks used
-
-- Compare ratios across teams
+- Grade 3: count planks and compare whole-number loads; use addition/subtraction, not load-per-plank division.
+- Grade 4: compare loads using the same span, counters and plank allowance; explain a tradeoff in words. Ratios are not core assessment.
 
 ### Reflection & Closing (3 min)
 **Discussion:**
@@ -282,7 +281,11 @@ Students will be able to:
 
 - Worked within material constraints
 
-- Calculated and compared efficiency
+- Compared measured/countable results under equal constraints
+
+## SAFETY and test limits
+
+Towers stay below 60 cm on low stable surfaces; no climbing or people beneath structures. Bridge supports remain fixed, counters stay in a tray and tests stop at 10. No heavy weights or throwing planks. Demonstrate balanced overlapping planks: loose unjoined planks do not automatically make a rigid triangular truss. Allow 5 minutes of each build window to count and store planks. St. Barbara's tower story is devotional tradition; historical details and patronage are **VERIFICATION REQUIRED**, not scientific evidence.
 
 ---
 

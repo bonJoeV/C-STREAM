@@ -157,6 +157,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C1 - one factual claim with original source and a limitation; CST-T3 - source provenance/date; CST-A3 - clear caption revised for reader understanding. Do not require a quotation: use sourced paraphrase. Biographies, attribution, first-person beliefs, priority-of-discovery claims, and current roles **VERIFICATION REQUIRED** before teaching. Verified faith/reason source: [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html). Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Researched thoroughly

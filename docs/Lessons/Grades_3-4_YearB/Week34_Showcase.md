@@ -61,7 +61,7 @@ Students will be able to:
 > — Philippians 1:3
 
 ### Saint Connection
-All our Year B Saints! — St. Albert the Great, Bl. Bartolomeu, St. Brendan, St. John Bosco, St. Kateri, and more — all showed us how faith and learning work together.
+Saints and historical figures are different: St. Albert, St. Brendan, St. John Bosco and St. Kateri may inspire faith reflection; Bartolomeu de Gusmao is **not labeled Blessed or saint**.
 
 ---
 
@@ -107,7 +107,7 @@ All our Year B Saints! — St. Albert the Great, Bl. Bartolomeu, St. Brendan, St
 
 **Saints remembered:**
 
-- Bl. Bartolomeu de Gusmão (flight)
+- Bartolomeu de Gusmao (flight history, not a Blessed; details VERIFICATION REQUIRED)
 
 - St. Brendan (ocean)
 
@@ -201,7 +201,7 @@ All our Year B Saints! — St. Albert the Great, Bl. Bartolomeu, St. Brendan, St
 
 - "Next year: Year A — NEW topics, same skills!"
 
-- "Rockets, bridges, animation, and more!"
+- "Bridges, light, circuits, coding and creation care!" Year A in this band does not contain a rocket unit.
 
 - "Keep being curious this summer!"
 

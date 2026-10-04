@@ -102,7 +102,7 @@ By the end of this session, students will:
 
 - Points for accuracy
 
-- Time bonus for speed
+- No speed bonus; assess controlled route accuracy and debugging
 
 - Requires: Precise movement programming
 
@@ -128,7 +128,7 @@ By the end of this session, students will:
 
 **Mission 4: Speed Challenge (4 min)**
 
-- Complete course as fast as possible
+- Complete a short course under controlled speed at most 20; no racing
 
 - Must hit all checkpoints
 
@@ -172,6 +172,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-T2 - individual's route trace/debug; CST-E2 - retest linked to revision; CST-C2 - explain respectful roles and safety. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND ACCESS
+
+Adult inspects clear 1 m lanes and maintains 50 cm observer boundary. One moving robot/lane, speed at most 20, short durations at most 1 second, Stop before retrieval. No collision contests or light-seeking claims from brightness alone. If devices unavailable, paper grid missions assess **algorithms, not robot operation**. At 25 students use three lanes in timed rounds; five full missions remain enrichment, not guaranteed coverage.
 **Observation Checklist:**
 
 - [ ] Demonstrated programming mastery

@@ -57,7 +57,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Blessed Carlo Acutis** — Used technology creatively! Makey Makey represents creative tech use for good.
+**St. Carlo Acutis** — Canonized September 7, 2025; service with technology can inspire our design without an invented quotation.
 
 ### Scripture
 > *"See, I am doing a new thing!"* — Isaiah 43:19
@@ -71,9 +71,8 @@ By the end of this session, students will:
 
 ### Opening Circle (5 minutes)
 1. **What is Makey Makey?**
-   - "Turns ANYTHING into a keyboard or controller!"
-   - If it conducts electricity even a little, it works
-   - Fruit, foil, play-doh, water, people!
+   - Suitable conductive objects can serve as inputs; not "anything," and connection/thresholds matter
+   - Use dry foil pads as the primary materials; no food, water or required person-to-person contact
 2. **How It Works:**
    - Conductivity = electricity can flow through
    - You complete the circuit by touching
@@ -101,13 +100,13 @@ By the end of this session, students will:
 
 **Part 2: Guided Inventions (10 minutes)**
 
-**Banana Piano:**
+**Dry Foil-Pad Piano (primary; no food):**
 
-- Connect each clip to different banana
+- Connect each input clip to a separate dry foil pad on cardboard
 
 - Hold ground
 
-- Each banana = different note!
+- Each pad corresponds to the key assigned by the tested program
 
 - Play a song!
 
@@ -179,7 +178,7 @@ By the end of this session, students will:
 
 ### For Students Who Need Support
 
-- Banana piano success first
+- Pretested dry-foil pad input first; no required food/contact pathway
 
 - Partner work
 
@@ -216,3 +215,9 @@ By the end of this session, students will:
 
 **Previous:** [Session 15 — Compound Machines](./Session15_Compound_Machines.md)  
 **Next:** [Session 17 — Year Celebration](./Session17_Celebration.md)
+
+## SAFETY / actual setup / fallback
+
+Use only the manufacturer board/USB connection to a school-approved computer; no mains experiment, external battery circuit, wet materials or wiring modifications. Teacher checks clips/board and handles plugs. Do not require holding an EARTH clip: demonstrate by connecting EARTH and an input through an insulated jumper/large foil contact under adult supervision; any touch method is optional and follows the manufacturer's instructions. No bodily-contact game.
+
+Test the board's intended input-to-EARTH closure and map it to a known keyboard event before class; exact model/approved connection method is **VERIFICATION REQUIRED** via [manufacturer instructions](https://www.makeymakey.com/pages/how-to). Use private/offline Scratch if available; internet is not intrinsically required. Collect each child's input -> keyboard event -> output trace. Primary technology Required; paper pad/event/output cards can model a sequence but do not establish conductivity or working device operation. Kits stay at school; leave 5 minutes of invention for disconnection and cleanup.

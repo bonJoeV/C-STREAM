@@ -46,14 +46,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Jesus as Bridge** — Jesus connects us to God the Father. Through Jesus, we can reach God. Like a bridge that lets people cross a gap, Jesus bridges the gap between us and heaven.
 
-### Scripture Connection
-> "Jesus answered, 'I am the way and the truth and the life. No one comes to the Father except through me.'"
-> — John 14:6
+### Scripture reference
+John 14:6; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. The bridge is a teacher metaphor, not a scientific/theological measurement.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. John Paul II** — He was called a "bridge builder" because he brought people of different faiths together. He built bridges of understanding between people.
 
 ---
@@ -113,7 +112,7 @@ Students will be able to:
 
 - Test periodically with empty cup
 
-**Testing (2 min per group):**
+**Testing (2 minutes total; pairs test simultaneously at tables):**
 
 - Place cup on bridge
 
@@ -148,7 +147,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY
+Low tabletop bridges only; no child weight or heavy loads. Replace loose pennies with five equal broad wooden blocks maximum and count supported loads. Hands clear during collapse. Teacher checks support books; use the final 3 minutes of reflection for counting/reuse/cleanup. Compare one changed support feature to the earlier bridge lesson instead of repeating an unbounded strength contest.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We built and tested bridges today! Ask your child: 'How many pennies did your bridge hold?' 'What would make it stronger?' Look for bridges in your community and talk about how they help connect people."
 
 ---

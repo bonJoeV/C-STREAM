@@ -63,11 +63,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Kateri Tekakwitha** — The first Native American saint, she loved nature and saw God's beauty in all creation.
 
-### Scripture
-> *"Ask the animals, and they will teach you, or the birds in the sky, and they will tell you."* — Job 12:7
+### Scripture reference
+Job 12:7; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for the beautiful world outside our door. Open our eyes to see the amazing things you've made. Help us be good scientists who notice and wonder. Amen.*
@@ -116,13 +116,8 @@ By the end of this session, students will:
 
 - Bring back to share
 
-**Option B: Indoor Investigation (inclement weather)**
-
-- Nature items brought inside
-
-- Nature videos/photos
-
-- Window observations
+**Option B: Indoor Investigation (weather/access/staffing unsuitable)**
+Use a teacher-screened live plant, fallen dry leaf and washed stone or their pictures. Each child draws two observed details, sorts **living now / formerly living / never living** with one reason, and asks an oral question. This is equivalent evidence to the outdoor investigation, not simply watching a video. Keep fallen leaves in the formerly-living category.
 
 ### Engineering Journal (4 minutes)
 1. Complete observation drawings
@@ -169,7 +164,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / Grade 1 / cleanup
+No tasting, unknown plant touch, wildlife/nest disturbance, feathers/droppings, magnifier sun viewing or roadside walking. Observe in place; omit the collection task if any item cannot be safely screened. Follow school cold/air-quality/supervision limits and count pupils at each transition. Grade 1 points/draws/tells; Grade 2 explains an uncertain classification. **Technology: Optional primary path** for teacher photos only. Reserve final 3 investigation minutes for return/handwashing; no routine homework.
+
+## Wonder at Home 🏠 (optional; indoors/pictures equally valid)
 **Family Activity:** Take a nature walk in your neighborhood or at a park. Bring a journal and draw what you see. Collect items (that are already on the ground) for a nature display at home.
 
 ---

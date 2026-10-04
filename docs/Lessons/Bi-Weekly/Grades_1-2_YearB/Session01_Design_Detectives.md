@@ -19,7 +19,7 @@ tags:
 ## Overview
 **Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 1 of 17
 
-Students become Design Detectives, discovering that everything around us was designed by someone to solve a problem or meet a need.
+Students become Design Detectives, distinguishing human-made objects designed for a purpose from naturally occurring things.
 
 ---
 
@@ -56,11 +56,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **Blessed Fra Angelico** — A Dominican friar who used his artistic talents to design beautiful paintings for God's glory.
 
-### Scripture
-> *"Every good and perfect gift is from above."* — James 1:17
+### Scripture reference
+James 1:17; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for giving people creative minds to design things that help us. Help us be good designers who think about others. Bless our discovering today. Amen.*
@@ -71,7 +71,7 @@ By the end of this session, students will:
 
 ### Opening Circle (6 minutes)
 1. **Detective Mission** — "Today we become DESIGN DETECTIVES!"
-2. **Everything is Designed** — "Look around—someone DESIGNED everything you see!"
+2. **Human-made or natural?** Compare a pencil with a washed stone: someone designed the pencil for a purpose; the stone formed naturally. Catholic belief about creation is distinct from identifying human manufacture.
 3. **Design Questions:**
    - WHO designed this?
    - WHY did they make it?
@@ -156,7 +156,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / evidence / cleanup
+Use blunt scissors only as a closed teacher-held example; no unsupervised cutting/sharp tools in mystery collections. Grade 1 names one human-made object/purpose orally; Grade 2 distinguishes natural from designed and sketches a user-centered improvement. **Technology: None primary path.** Last 3 investigation minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; orally discuss one familiar object)
 **Family Activity:** Be Design Detectives at home! Pick 5 objects and figure out what problems they solve. What objects could be designed better? Draw your improvement ideas!
 
 ---

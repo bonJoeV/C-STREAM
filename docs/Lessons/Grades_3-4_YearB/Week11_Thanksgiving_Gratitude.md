@@ -83,19 +83,7 @@ Students will be able to:
 ### The Science of Gratitude (5 min)
 **Did you know?**
 
-**Research shows gratitude:**
-
-- Makes us happier
-
-- Improves health
-
-- Strengthens relationships
-
-- Helps us sleep better
-
-- Reduces stress
-
-"Scientists study gratitude! They collect DATA about thankfulness!"
+We can practice gratitude and represent a voluntary list with data. This classroom count **does not measure happiness, health, sleep or faith**. Medical/research claims are **VERIFICATION REQUIRED** with an actual study and appropriate limits; the previous causal claims are removed.
 
 **St. Faustina connection:**
 
@@ -105,7 +93,7 @@ Students will be able to:
 
 - Found joy even in hard times
 
-- "First gratitude, then asking"
+- Do not use an unverified diary quotation; the exact diary passage is **VERIFICATION REQUIRED**
 
 ### Gratitude Data Collection (10 min)
 **Personal survey:**
@@ -121,11 +109,11 @@ Students will be able to:
 
 **Instructions:**
 
-- List items in each category (3 min per category)
+- Use 1 minute per category, then 5 minutes to count/check; no fifteen-minute listing inside a ten-minute block
 
 - Count totals
 
-- Be specific! Not just "family" but individual names
+- Keep names/private experiences private; pupils may use fictional sample categories or decline personal disclosure
 
 **Data recording:**
 | Category | Items Listed | Total Count |
@@ -151,7 +139,7 @@ Students will be able to:
 
 - Total blessings counted by whole class
 
-- Average per student
+- Compare category totals; no mean required for Grade 3
 
 - Which category had most?
 
@@ -168,13 +156,7 @@ Students will be able to:
 
 - Color each bar differently
 
-**Option B: Class Pie Chart**
-
-- Show percentage in each category
-
-- Use colors to distinguish
-
-- Label clearly
+**Option B: Class Bar Chart** — Compare whole-number counts with title, labels and scale. Percentages/pie charts are not core Grade 3-4 expectations.
 
 **Option C: Pictograph**
 
@@ -221,7 +203,7 @@ Students will be able to:
 
 ### Closing (2 min)
 **Challenge:**
-"This week, keep a gratitude list. Add 3 things each day!"
+"An optional private gratitude list may be enjoyable; no homework or daily family tracking is required."
 
 **Journal entry:**
 
@@ -237,7 +219,7 @@ Students will be able to:
 ---
 
 ## 📎 Home Connection
-> "We explored the science of gratitude today! Ask your child to share their gratitude graph and tell you what they discovered. Start a family gratitude practice — maybe a thankful jar or nightly sharing of three blessings. Research shows gratitude makes families happier!"
+> We practiced representing a voluntary list with a labeled graph. Ask: "What does a bar show?" Optional at home: share a thanks if comfortable. Counts are not a ranking of gratitude, health or faith.
 
 ---
 

@@ -45,14 +45,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Gift of Self** — The best gifts come from our hearts and hands. When we make something for someone, we give them our time and love. God gave us the greatest gift — His Son, Jesus.
 
-### Scripture Connection
-> "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver."
-> — 2 Corinthians 9:7
+### Scripture reference
+2 Corinthians 9:7; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **The Magi (Wise Men)** — They traveled far to bring gifts to baby Jesus. Their gifts showed their love and worship. We give gifts to show our love too.
 
 ---
@@ -144,7 +143,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY and workable default
+Use a cardstock bookmark: teacher precuts a 5 x 15 cm strip; child chooses a recipient, draws a useful visible pattern/message and tests whether it marks a closed book without protruding dangerously. No beads, staples or hot glue. Grade 1 dictates a message; Grade 2 explains a design choice. Use final 3 minutes of creation to return tools/recycle scraps. Handmade and purchased gifts can both express care; do not grade family resources.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We made gifts today! Your child has a special handmade gift for someone. Ask them to tell you about who they made it for and why. Talk about how making gifts shows love — just like God shows His love for us!"
 
 ---

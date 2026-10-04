@@ -55,17 +55,17 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Scholar connection - VERIFICATION REQUIRED before teaching biographies
 **Catholic Women in Science:**
 
 - **Hildegard of Bingen** — Saint who studied plants and medicine
 
 - **Maria Gaetana Agnesi** — Catholic mathematician
 
-- **Sister Miriam Michael Stimson** — Nun who helped discover DNA structure!
+- **Sister Miriam Michael Stimson** — Scientist whose exact research contribution requires verification; do not claim she discovered DNA structure.
 
-### Scripture
-> *"She is clothed with strength and dignity; she can laugh at the days to come."* — Proverbs 31:25
+### Scripture reference
+Proverbs 31:25; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for all the women who have used their gifts to understand your world. Thank you for our Catholic school where we learn about faith AND science. Help us follow their example. Amen.*
@@ -80,7 +80,7 @@ By the end of this session, students will:
 3. **Meet Our Heroes:**
    - **St. Hildegard of Bingen** — Studied plants, wrote about medicine, music, and science 900 years ago!
    - **Maria Gaetana Agnesi** — Catholic mathematician who helped poor people
-   - **Sister Miriam Michael Stimson** — A nun who helped scientists understand DNA (what makes you, YOU!)
+   - **Sister Miriam Michael Stimson** — Use only a vetted account of her actual research; genes influence traits but do not define a person's entire identity/dignity.
 4. **Faith + Science** — "They loved God AND loved learning!"
 
 ### Main Activity: Honoring Women Scientists (18 minutes)
@@ -171,7 +171,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Source gate / dignity / SAFETY
+If verified biographies are unavailable, replace story time with a class plant observation and two evidence-based sketches: everyone can contribute a question. Hildegard's historical plant/medicine writing is not proof a remedy works; no herb tasting/remedy experiments. Grade 1 tells an observation/question; Grade 2 separates a historical statement needing a source from current observed evidence. **Technology: None primary path.** Last 3 tribute minutes are cleanup. Optional home conversation needs no research access; no routine homework.
+
+## Wonder at Home 🏠 (optional; recall teacher-verified learning without internet)
 **Family Activity:** Look up one Catholic woman scientist together! Talk about how they used their gifts for God. Ask: "What do you want to learn about?" Girls: "You can be anything—including a scientist!"
 
 ---

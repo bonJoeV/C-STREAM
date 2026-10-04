@@ -48,14 +48,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Resurrection and New Life** — At Easter, we celebrate Jesus rising from the dead. Spring shows us new life all around — flowers blooming, butterflies emerging, baby animals being born. Creation reflects the Resurrection!
 
-### Scripture Connection
-> "I am the resurrection and the life. The one who believes in me will live, even though they die."
-> — John 11:25
+### Scripture reference
+John 11:25; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **St. Mary Magdalene** — She was the first to see Jesus risen from the dead on Easter morning. She went from sadness to JOY when she saw that new life had conquered death.
 
 ---
@@ -141,7 +140,7 @@ Students create their new life projects.
 
 - "It moves like this..."
 
-**Faith Connection:** "Your creations show new life! Every butterfly, flower, and baby bird reminds us that God brings new life from what seemed dead. Jesus's Resurrection is the greatest new life of all!"
+**Faith Connection:** Spring growth can be a reminder of Easter hope, not a scientific demonstration of resurrection. A dormant plant and developing chrysalis are living, not dead and resurrected.
 
 **Closing Prayer:** "Risen Jesus, thank You for the gift of new life! Thank You for spring, for Easter, and for the promise that we will live forever with You. Help us share the joy of Your Resurrection with everyone we meet. Alleluia! Amen."
 
@@ -159,7 +158,10 @@ Students create their new life projects.
 
 ---
 
-## 📎 Home Connection
+## SAFETY / indoor default / evidence
+Use paper flowers with a folded opening petal as the default; no real eggs, animal collection, sharp wire ends or body-worn moving parts. Indoor spring pictures work in any weather. Grade 1 shows opening/closing twice and draws a change; Grade 2 explains one revision after a failed opening. Use final 3 building minutes for cleanup. Artistic symbolism does not establish biological causation.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated new life today! Your child made a project showing spring and new life. Ask them: 'How does your project show new life?' 'How is Easter like spring?' Look for signs of new life together in your neighborhood. Talk about how Jesus's Resurrection is the ultimate new life!"
 
 ---

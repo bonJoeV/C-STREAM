@@ -58,11 +58,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies/patronage
 **St. Barbara** — Patron saint of architects and builders. She's remembered for her faith that was strong like a tower!
 
-### Scripture
-> *"The name of the Lord is a fortified tower; the righteous run to it and are safe."* — Proverbs 18:10
+### Scripture reference
+Proverbs 18:10; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. The tower is religious imagery, not a guarantee of structural stability.
 
 ### Opening Prayer
 *Dear God, you are our strong tower! Help us build towers today that are strong and stable. When we face challenges, remind us that you are our strength. Amen.*
@@ -98,7 +98,7 @@ By the end of this session, students will:
 
 - Switch to KEVA Planks
 
-- Challenge: Build taller than a ruler (12 inches)!
+- Challenge: Build to a 20 cm comparison mark while staying below the 30 cm safety limit.
 
 - Design considerations:
   - Start with wide base
@@ -153,7 +153,7 @@ By the end of this session, students will:
 
 ### For Advanced Students
 
-- Must support a book on top
+- Support one soft eraser within a tabletop height limit of 30 cm; never place a book/heavy object on a tall tower.
 
 - Try multiple tower designs
 
@@ -161,7 +161,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / Grade 1 / evidence
+Maximum tabletop tower height 30 cm, hands/faces clear during collapse, no furniture climbing or heavy loads. Grade 1 points to base and compares two heights orally; Grade 2 records same-unit height and 10-second test before/after one revision. **Technology: None primary path.** Last 3 building minutes are plank/cup count and cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; avoid food-can/heavy tower loads)
 **Family Activity:** Build towers at home with blocks, cups, cards, or food cans. Have a family tower competition! What made the winning tower special? Visit or look up pictures of the Eiffel Tower.
 
 ---

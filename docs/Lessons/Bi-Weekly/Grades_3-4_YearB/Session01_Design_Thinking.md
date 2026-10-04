@@ -57,7 +57,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**St. Isidore of Seville** — Patron saint of the internet! He organized knowledge to help others learn.
+**St. Isidore of Seville** — Associated with organizing knowledge. Do not present a proposed/popular internet patronage as an official declaration; exact patronage and biography are **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"So in everything, do to others what you would have them do to you."* — Matthew 7:12
@@ -199,3 +199,7 @@ By the end of this session, students will:
 ---
 
 **Next:** [Session 2 — Ozobot Coding](./Session02_Ozobot_Coding.md)
+
+## Interview boundaries
+
+Use a simple optional classroom organization problem, never demand disclosure of family hardship, disability or private frustration. The user can decline. A model's appearance is not proof of usefulness; each child records one actual user comment and proposed revision.

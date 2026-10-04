@@ -50,7 +50,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Mathematical Truth** — Catholics believe mathematical truths are discovered, not invented. Pi exists whether or not humans know about it. This reflects God's ordered creation — truth exists objectively, and we discover it.
+**Mathematical Truth** - Careful measurement and reasoning are compatible with faith. Whether mathematical objects are discovered or invented is a philosophical discussion, not a defined Catholic doctrine.
 
 ### Scripture Connection
 > "He has measured the waters in the hollow of his hand, and with the span of his hand marked off the heavens."
@@ -166,7 +166,7 @@ Say (join "Pi ≈ " (pi_estimate))
 
 - What happens as you increase points?
 
-**Key insight:** "More samples = closer to true pi! This is called Monte Carlo simulation."
+**Key insight:** More independent random samples tend to reduce typical sampling error, but any particular larger run can be farther from pi. Retain both results; do not promise monotonic improvement.
 
 ### Pi in the Real World (8 min)
 **Where pi appears:**
@@ -201,7 +201,7 @@ Say (join "Pi ≈ " (pi_estimate))
 
 **Nature:**
 
-- River meandering ratio ≈ π
+- River shape varies; do not teach a universal river-meandering ratio of pi.
 
 - Spiral patterns
 
@@ -211,7 +211,7 @@ Say (join "Pi ≈ " (pi_estimate))
 
 - Calculate gear circumference for robot
 
-- Determine wheel rotation for Sphero distance
+- Estimate circumference of an actual wheeled model. Sphero is a rolling sphere with an internal drive, not a standard exposed wheel.
 
 ### Faith Connection (5 min)
 **Mathematical constants and God:**
@@ -222,7 +222,7 @@ Say (join "Pi ≈ " (pi_estimate))
 
 - "We DISCOVER mathematical truth, we don't CREATE it"
 
-- "This is how Catholics understand all truth — it exists objectively"
+- "This mathematical philosophy is a discussion position, not a required Catholic belief."
 
 **Infinity of pi's digits:**
 
@@ -251,6 +251,8 @@ Say (join "Pi ≈ " (pi_estimate))
 
 ## ✅ Assessment
 
+**Local standards (not official):** CST-M3 - individual circumference/diameter ratio with matching units; CST-S2 - repeated measurement and uncertainty; CST-C1 - distinguish numerical evidence from philosophical reflection. Official benchmarks **VERIFICATION REQUIRED**. Primary no-device route measures three circular objects; simulation is enrichment, not required evidence for students without Scratch.
+
 - Calculated pi through measurement
 
 - Coded Monte Carlo simulation
@@ -262,7 +264,7 @@ Say (join "Pi ≈ " (pi_estimate))
 ---
 
 ## 📎 Home Connection
-> "We celebrated Pi Day (3/14)! Ask your child: 'What IS pi?' 'How did you estimate it?' 'Where does pi appear in the real world?' We discussed how mathematical truths are DISCOVERED, not invented — they exist whether or not humans know them. This reflects Catholic understanding that truth is objective, created by God."
+> "We estimated pi from circumference and diameter. Ask: 'Why did measurements differ from 3.14?' We practiced honest reasoning; views about discovered versus invented mathematics are philosophical, not a Catholic doctrine. No routine homework or home coding required."
 
 ---
 

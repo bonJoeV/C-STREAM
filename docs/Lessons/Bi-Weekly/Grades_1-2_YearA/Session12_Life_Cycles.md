@@ -60,11 +60,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Thérèse of Lisieux (The Little Flower)** — She compared spiritual growth to a flower blooming. Growth takes time and trust in God.
 
-### Scripture
-> *"Unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds."* — John 12:24
+### Scripture reference
+John 12:24; **VERIFICATION REQUIRED:** check the school's approved Bible. This is religious imagery: a viable seed does not need to die biologically to germinate.
 
 ### Opening Prayer
 *Dear God, you made everything with cycles of growth and change. Thank you for seeds that become plants and caterpillars that become butterflies. Help us grow closer to you every day. Amen.*
@@ -116,11 +116,8 @@ By the end of this session, students will:
 
 **Part 3: Connection (2 minutes)**
 
-- "How is Easter like a life cycle?"
-
-- Death → resurrection → new life!
-
-- "God makes all things new!"
+- A butterfly remains alive through its stages; a new generation begins with eggs laid by an adult.
+- Easter is a faith claim, not a repeating biological death/resurrection cycle. Teacher symbols must not replace the science.
 
 ### Engineering Journal (4 minutes)
 1. Draw the life cycle you learned
@@ -167,7 +164,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / model accuracy / evidence
+Use drawn paper stages rather than loose pasta/food. No wild collecting or unapproved live butterfly release; teacher photos/models are the default. Grade 1 points to four ordered butterfly stages and tells a change; Grade 2 explains the new-generation arrow and a model limitation. Reducing to three pictures is support toward, not mastery of, four stages. **Technology: None primary path.** Last 3 model minutes are cleanup; no routine homework or purchased live kits.
+
+## Wonder at Home 🏠 (optional; discuss a book/picture instead of planting)
 **Family Activity:** Plant a seed and watch it grow! Bean seeds grow quickly. Take photos at each stage. Look for caterpillars, butterflies, or tadpoles in nature. Talk about how things change and grow.
 
 ---

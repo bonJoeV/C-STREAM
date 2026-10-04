@@ -1,213 +1,72 @@
 ---
 title: "Week 16: Winter Wonders"
-description: "Grades 1-2 Year B snowflakes, patterns, and cold science"
-version: "1.3"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - astronomy
-  - arts
+description: "Observe melting and distinguish crystal photographs from symmetric paper models"
+version: "2.0"
+date: 2026-10-04
+tags: [grades-1-2, year-b, winter, arts, science]
 ---
 
-# ❄️ Week 16: Winter Wonders
+# Week 16: Winter Wonders
 
-## Lesson Overview
-
-| | |
+## Lesson at a glance
+| Field | Teacher information |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), M (Math), A (Arts) |
-
----
-
-# Week 16: Winter Wonders
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Observe and describe snowflake patterns
-2. Identify symmetry in nature
-3. Understand how water changes forms (states of matter)
-4. Create symmetrical designs
-
-### Faith Integration Objectives
-Students will be able to:
-1. Appreciate God's creativity in unique snowflakes
-2. Understand that God creates each person unique too
-3. Marvel at the wonder of winter creation
-
----
-
-# Week 16: Winter Wonders
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Unique Creation** — Every snowflake is unique — no two are exactly alike! God's creativity is infinite. Just like snowflakes, every person is unique and specially created by God.
-
-### Scripture Connection
-> "He spreads the snow like wool and scatters the frost like ashes."
-> — Psalm 147:16
-
-### Saint Connection
-**St. Hildegard of Bingen** — A scientist and artist who saw patterns in nature as signs of God's order. She found God's beauty in all creation, including winter.
-
----
-
-## 📚 Materials Needed
-
-- Paper for snowflakes
-
-- Scissors
-
-- Images of real snowflakes
-
-- Magnifying glasses
-
-- Symmetry materials
-
-- Optional: actual snow if available!
-
----
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Dear God, You paint the world white with snow. Each tiny snowflake shows Your creativity. Help us see the wonder of winter today and remember that You made each of us unique and special too. Amen."
-
-### Introduction: Amazing Snowflakes (6 min)
-**Show images of real snowflakes:**
-
-- "Every snowflake is different!"
-
-- "Scientists have studied MILLIONS — none are exactly the same"
-
-- "How does God create so many unique designs?"
-
-**Snowflake science:**
-
-- Water freezes into ice crystals
-
-- They always have 6 sides (hexagon!)
-
-- Temperature and humidity create different patterns
-
-- Each one's journey through the clouds is unique
-
-**Symmetry:**
-
-- "Snowflakes have SYMMETRY"
-
-- "That means one side matches the other"
-
-- "Fold it in half — both sides are the same"
-
-**Faith wonder:**
-
-- "If God makes every snowflake unique, how much MORE unique are YOU?"
-
-- "You are God's special creation!"
-
-### Symmetry Exploration (6 min)
-**Finding symmetry:**
-
-- Fold paper in half
-
-- Draw half a shape
-
-- Cut and unfold — it's symmetrical!
-
-**Practice:**
-
-- Simple half-heart → full heart
-
-- Half-circle → full circle
-
-- Half-star → full star
-
-**Connection:**
-
-- "Snowflakes have six-fold symmetry"
-
-- "Fold in sixths for snowflakes!"
-
-### Snowflake Creation (12 min)
-**Make paper snowflakes:**
-
-**Folding steps:**
-1. Start with square paper
-2. Fold in half (triangle)
-3. Fold in half again (smaller triangle)
-4. Fold in thirds (tricky!)
-5. Cut designs on edges
-6. Unfold carefully — SNOWFLAKE!
-
-**Cutting tips:**
-
-- Cut small shapes
-
-- Don't cut all the way across
-
-- Try different patterns
-
-- Each one will be unique!
-
-**While creating:**
-
-- "Your snowflake is unique — just like you!"
-
-- "No one else will make the exact same one"
-
-- "God's creativity shows in your creativity"
-
-### Snowflake Gallery & Discussion (2 min)
-**Display snowflakes:**
-
-- Hold them up
-
-- Notice: all different!
-
-- All beautiful!
-
-**Discussion:**
-
-- "What makes yours unique?"
-
-- "What do you notice about everyone's snowflakes?"
-
-### Closing (2 min)
-**Faith connection:**
-
-- "God created YOU unique"
-
-- "There's no one exactly like you in the whole world"
-
-- "That's even more amazing than snowflakes!"
-
-**Closing Prayer:**
-"Thank You, God, for the wonder of winter — for snow and ice and cold. Thank You for making every snowflake unique and beautiful. Thank You for making ME unique and special. Help me remember that I'm Your wonderful creation. Amen."
-
----
-
-## 📎 Home Connection
-> "We explored winter wonders and made snowflakes! Ask your child: 'What makes snowflakes special?' 'What is symmetry?' 'What makes YOU unique?' We learned that just like no two snowflakes are alike, God made each person one-of-a-kind. Catch snowflakes on dark paper this winter and look at them with a magnifying glass!"
-
----
-
-## ✅ Assessment
-
-- Described snowflake characteristics
-
-- Identified symmetry in snowflakes
-
-- Created symmetrical paper snowflake
-
-- Connected uniqueness to God's creation
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / unit / title | Grades 1-2 / Winter / Winter Wonders |
+| Time / domains | One 30-minute meeting / C, S, A, M |
+| Big idea | Ice can melt; a symmetric model represents selected features, not every real snow crystal. |
+| Student objective | "I can describe a change in ice and show a matching pattern in a paper model." |
+| Why | Careful models and evidence replace absolute claims about nature. |
+| Catholic connection | Each person's dignity does not depend on a perfect pattern or comparison to a snowflake; truthful wonder is a teacher application of CCC 159 and 2407. |
+| Standards | Local CST-C1: distinguish model/observation; CST-S1: before/after observation; CST-S3: ice/water change; CST-A2: purposeful symmetry; CST-M2: matching/repeated pattern. Official benchmarks: VERIFICATION REQUIRED. |
+| Technology | **None primary path:** teacher sketch or printed crystal photo; no online video needed. |
+| Difficulty / prep / cleanup | Low; 10 minutes plus freezing ahead; 5 minutes cleanup included. |
+
+## Before class / supplies
+1. Put one small ice cube in each wide plastic tray shortly before class; obtain school freezer permission. Prepare a second melted-water tray for comparison if melting is slow.
+2. Show a vetted photograph/sketch of a six-branched snow crystal and an irregular clump. State sketches are models, not photos. No outdoor exposure required.
+3. Pre-fold paper once for Grade 1; teacher can pre-fold a six-sector paper for challenge, but sixfold folding is not required to learn reflection symmetry.
+- **Per student:** paper, crayon, blunt scissors by ability or pre-cut shape.
+- **Per team of 2-3:** tray, cube, towel, observation card.
+- **Class:** two crystal examples, timer, sink, dry collection tray.
+- **Teacher-only:** ice handling, backup water tray, scissors for difficult folds.
+
+| Students | Teams / ice trays | Cubes plus 2 backups | Papers |
+|---|---:|---:|---:|
+| 10 | 4 | 6 | 10 |
+| 15 | 5 | 7 | 15 |
+| 20 | 7 | 9 | 20 |
+| 25 | 9 | 11 | 25 |
+
+At 25 trays stay at tables; one teacher collects water, never a crowd at the sink.
+
+## Vocabulary / background
+Solid = keeps its shape here; liquid = flows/takes container shape; melt = solid ice becomes liquid water; symmetry = matching parts across a line; model = representation.
+Ice crystals often show sixfold structure; real flakes can be broken, irregular, columns, plates or clumps. We cannot prove "no two ever alike" by comparing a few. A fourfold cut-paper design is a symmetry model, not a claim that all snow crystals have four branches.
+**Misconception:** melting destroys water. It changes state.
+**If asked "Why six branches?"** Ice's crystal arrangement often produces sixfold forms; official detailed crystallography source is **VERIFICATION REQUIRED** before extending beyond this simple account.
+
+## Exact numbered sequence (30 minutes)
+1. **0-4:** Observe the cube and draw its starting shape; state no tasting/touch requirement. Children predict change in warm room.
+2. **4-8:** Compare crystal examples: notice patterns without universal claims. Model folding a sheet so two sides match.
+3. **8-18:** Each child makes a mirrored paper design with cutouts or matched drawn marks. Grade 1 uses one fold/precut shapes; Grade 2 traces/checks a line of symmetry and explains model limitations. Teacher checks individual's pattern.
+4. **18-22:** Observe ice tray again, compare before/after and the prepared water tray if needed. Record "still ice" honestly; distinguish observed versus teacher-provided sample.
+5. **22-25:** Individual exit: identify ice/water change and show two matching model features; state paper is a model, not real snow.
+6. **25-30:** Cleanup/drying.
+
+## Questions / success
+What changed? What stayed water? How can you check whether these marks match? Does our model show every kind of snow?
+- **Grade 1:** oral/drawn before/after comparison and two matching features across a fold.
+- **Grade 2:** identify solid/liquid, mark/check a symmetry line and explain one model limitation; report no melting if that was the observation.
+- Teacher scores **not yet / prompted / independent** for change, matching features and model distinction. Fine cutting quality is not scored.
+
+## If things go wrong / indoor fallback
+Ice not melted: compare to labeled teacher-prepared liquid sample, keep real observation and discuss more time; never claim child observed complete melting. No ice access: use teacher-drawn dated change sequence; assess explanation/model, not firsthand change observation. No scissors: fold and draw matching marks. All work indoors at -10 F.
+
+## SAFETY / support / challenge
+No snow collection, ice tasting, frozen-metal contact, hot water, food, glass or outdoor cold exposure. Water stays in trays away from electrical equipment. Teacher dries spills immediately. Blunt scissors with demonstrated carrying rule or precuts.
+Support: picture choices, scribing, larger fold lines, no forced touching. Challenge: Grade 2 compare reflection and repeated radial patterns without claiming every flake is perfect.
+
+## Cleanup / family / sources
+Teacher empties trays, pupils wipe tables, return scissors, collect paper scraps; floor must be dry before leaving.
+**Family snippet:** We observed ice changing and used paper to model matching patterns. Catholic connection: honest wonder and equal dignity. Ask: "How was your paper model different from real snow?" Optional: find a matching pattern indoors or in a picture; no cold-weather activity required. No routine homework.
+[CCC 159](https://www.vatican.va/archive/ENG0015/__PX.HTM) and [CCC 2407](https://www.vatican.va/archive/ENG0015/__P8B.HTM). NOAA snow-crystal page retrieval was blocked during review; detailed crystal claims remain **VERIFICATION REQUIRED**. Psalm 147:16 may be read from a school-approved Bible; no attributed quotation is reproduced.

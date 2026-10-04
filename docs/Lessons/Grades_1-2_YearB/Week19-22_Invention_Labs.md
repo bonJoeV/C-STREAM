@@ -48,15 +48,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Human Creativity** — Made in God's image, we share in His creativity. Inventors use their God-given imagination to solve problems and help others. When we create, we reflect our Creator!
 
-### Scripture Connection
-> "See, I am doing a new thing! Now it springs up; do you not perceive it?"
-> — Isaiah 43:19
+### Scripture reference
+Isaiah 43:19; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
-**Servant of God Thomas Dooley** — A doctor who invented creative medical solutions to help people in need in Laos. He used creativity and faith together to serve.
+### Vocation connection
+Health-care workers, designers and neighbors can solve problems in service of others. Thomas Dooley's cause status and specific invention claims were not verified and are omitted; no saint title is assigned.
 
 ---
 
@@ -102,15 +101,7 @@ Students will be able to:
 
 - "If it doesn't work, I try again!"
 
-**Dr. Tom Dooley:**
-
-- "He was a doctor who helped sick people in Asia"
-
-- "He invented new ways to bring medicine to villages"
-
-- "He used his creativity to help others"
-
-- "That's what inventors can do!"
+**Service example:** A classroom helper asks for a tray to carry three paper balls between tables. Ask the user's preference and test a safe model; medical invention stories require verified sources before use.
 
 ### Finding Problems to Solve (10 min)
 **Brainstorm problems:**
@@ -370,7 +361,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / assessed default / indoor fallback
+All inventions are tabletop models: no medical use, human loads, electrical mains, hot/sharp tools, body restraints, projectiles or animal testing. Screen recyclables. Default tray criterion: hold three crumpled paper balls for five seconds without spill; change one fold and retest. Grade 1 tells/draws a test/change; Grade 2 records two outcomes and defends the revision. At 25 use partner/table demonstrations rather than 25 long talks. Reserve final 4 making minutes each meeting for cleanup. **Technology: None primary path**; recycled cardboard supports all weather.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We had an Invention Lab! Your child designed and built an original invention to solve a problem. Ask them: 'What problem did you solve?' 'How does your invention work?' 'What was hard?' 'What did you learn?' Encourage inventing at home — cardboard boxes are great invention materials!"
 
 ---

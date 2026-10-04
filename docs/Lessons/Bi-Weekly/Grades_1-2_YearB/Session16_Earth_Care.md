@@ -58,11 +58,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching patronage/history
 **St. Francis of Assisi** — Patron saint of ecology! He called the earth our "Sister" and cared for all creation.
 
-### Scripture
-> *"The Lord God took the man and put him in the Garden of Eden to work it and take care of it."* — Genesis 2:15
+### Scripture reference
+Genesis 2:15; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, you created our beautiful Earth and asked us to take care of it. Help us be good stewards of your creation. Show us how to protect our planet. Amen.*
@@ -179,7 +179,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / stewardship evidence / cleanup
+Use clean screened cardboard, no sharp cans/glass/staples or dirty litter. Default pencil organizer reuses one box; test holding five crayons, revise divider and count reused items. No real bird-feeder deployment without a hygiene/species plan. Recycling rules depend on local facilities; verify before advising a disposal category. Grade 1 tells one reuse choice; Grade 2 explains a test/change and a material tradeoff. Environmental savings are not quantified without data. [CCC 2415](https://www.vatican.va/archive/ENG0015/__P8B.HTM) supports stewardship; Laudato Si' detail **VERIFICATION REQUIRED** before teaching. **Technology: None primary path.** Last 3 making minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; a no-cost oral reuse idea is enough)
 **Family Activity:** Do an eco-audit at home! How can your family reduce, reuse, and recycle more? Start a compost bin, use reusable bags, turn off lights. Make a family Earth Care promise!
 
 ---

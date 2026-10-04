@@ -58,7 +58,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Easter Theme** — Life cycles remind us of resurrection: death leads to new life, transformation brings glory!
+**Easter Theme** — Growth may be a metaphor of hope, but a living pupa is not dead and metamorphosis is not Resurrection.
 
 ### Scripture
 > *"Unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds."* — John 12:24
@@ -79,10 +79,9 @@ By the end of this session, students will:
    - **Incomplete:** Egg → Nymph → Adult (grasshopper)
 3. **Transformation:**
    - Caterpillar → Butterfly
-   - "Completely different creature!"
+   - The same animal develops through living stages; not a different creature created from death
 4. **Easter Connection:**
-   - Death → New life
-   - Old passes away, new comes!
+   - A faith metaphor, distinct from biological evidence; no claim that a pupa dies
 
 ### Main Activity: Life Cycle Exploration (26 minutes)
 
@@ -92,9 +91,8 @@ By the end of this session, students will:
 
 - Butterfly: Egg → Caterpillar → Chrysalis → Butterfly
 
-- Frog: Egg → Tadpole → Froglet → Frog
-
-- Total transformation!
+- Insect complete metamorphosis includes a **pupa**; butterfly is an example.
+- **Separate amphibian comparison:** Frog: egg -> tadpole -> froglet -> adult. Frogs undergo metamorphosis, but do not have the insect egg/larva/pupa/adult pattern.
 
 **Incomplete Metamorphosis:**
 
@@ -223,3 +221,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 11 — Lenten Service](./Session11_Lenten_Service.md)  
 **Next:** [Session 13 — Easter Creation](./Session13_Easter_Creation.md)
+
+## Accuracy / evidence / SAFETY
+
+Each child orders living butterfly stages and distinguishes frog development from insect complete metamorphosis; Grade 4 compares the pupa/no-pupa distinction. Use [Monarch Joint Venture life-cycle information](https://www.monarchjointventure.org/monarch-biology/life-cycle) for monarch stages. Species-specific timing is VERIFICATION REQUIRED, not invented. Primary photographs/paper need no live specimens; adult-approved care plans and ecological guidance are prerequisites for any live animal extension. No classroom release or required winter outdoor observation.

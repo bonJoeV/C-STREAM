@@ -58,7 +58,7 @@ Students will be able to:
 > — Psalm 95:5
 
 ### Saint Connection
-**St. Brendan the Navigator** — Irish monk who made legendary sea voyages in the 6th century. Some believe he reached North America 900 years before Columbus! He saw God's glory in the vastness of the ocean.
+**St. Brendan the Navigator** — A saint associated with voyage legends. These are not verified expedition logs or proof of reaching North America; historical claims are **VERIFICATION REQUIRED**.
 
 ---
 
@@ -70,7 +70,7 @@ Students will be able to:
 
 - Blue bins/containers for demos
 
-- Various density liquids
+- Paper depth bands and a ruler; no unspecified density liquids
 
 - Marine life images
 
@@ -116,13 +116,7 @@ Students will be able to:
 ### Ocean Introduction (8 min)
 **The vast ocean:**
 
-- Covers 71% of Earth!
-
-- Average depth: 12,100 feet
-
-- Contains 97% of Earth's water
-
-- Home to millions of species
+- Oceans cover most of Earth's surface and support diverse life. Numerical coverage/depth/species figures require a current named source (**VERIFICATION REQUIRED**) and are not needed for this lesson.
 
 **St. Brendan's story:**
 
@@ -130,9 +124,7 @@ Students will be able to:
 
 - Saw whales, icebergs, islands
 
-- Wrote about marvels he saw
-
-- "God's glory revealed in the deep"
+- Voyage accounts are later stories, not authenticated writings by Brendan. No unverified direct quotation.
 
 **Wonder questions:**
 
@@ -197,9 +189,8 @@ Students will be able to:
 
 **Demonstration:**
 
-- Create density column showing zones
-
-- Show pressure differences (bottle squeezer)
+- Draw paper depth bands; zones describe depth/light conditions, not separate stacked density liquids.
+- Explain that pressure generally increases with depth; no squeezing-bottle demonstration claimed as a calibrated ocean-pressure model. Exact zone boundaries and species-depth cards are **VERIFICATION REQUIRED** before factual sorting.
 
 ### Zone Creatures (12 min)
 **Match creatures to zones:**
@@ -255,7 +246,7 @@ Sun → Phytoplankton → Zooplankton → Small fish → Big fish → Shark
 
 **Energy transfer:**
 
-- Only 10% passes to next level
+- A roughly 10% transfer is sometimes used as an approximate teaching model; real values vary. No exact universal percentage or Grade 3 percentage calculation required.
 
 - This limits chain length
 
@@ -285,7 +276,7 @@ Sun → Phytoplankton → Zooplankton → Small fish → Big fish → Shark
 
 - Draw organisms
 
-- Connect with arrows (who eats whom)
+- Connect food/source -> eater with arrows indicating energy transfer; phytoplankton includes photosynthetic producers, but not all plankton are producers. Deep-vent producers may use chemical energy rather than sunlight.
 
 - Label producers, consumers, decomposers
 
@@ -326,7 +317,7 @@ Sun → Phytoplankton → Zooplankton → Small fish → Big fish → Shark
 
 **1. Plastic Pollution**
 
-- 8 million tons enter ocean yearly
+- Plastic enters oceans; exact annual estimates depend on source/date and are **VERIFICATION REQUIRED**, not a fixed classroom fact
 
 - Animals eat or get tangled
 
@@ -377,11 +368,7 @@ Sun → Phytoplankton → Zooplankton → Small fish → Big fish → Shark
 
 **Read excerpts:**
 
-- "The oceans... form most of our planet" (40)
-
-- "Marine life... is very seriously threatened" (40)
-
-- "Particularly threatened are marine organisms which we tend to overlook" (40)
+- Paraphrase: marine ecosystems and their living communities deserve care; human activities can threaten them. Read a verified passage from [Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html). The earlier approximate quotations/paragraph claims are removed; do not invent source numbers.
 
 **Discuss:**
 
@@ -488,9 +475,9 @@ Sun → Phytoplankton → Zooplankton → Small fish → Big fish → Shark
 
 - Add "oil" (vegetable oil with cocoa powder)
 
-- Test: cotton balls, dish soap, skimmers, booms
+- Test: cotton absorbent and paper skimmers. **No dish soap:** dispersing oil into droplets is not removing pollution.
 
-- Measure: How much removed? How clean?
+- Compare visible oil collected and remaining surface coverage, with a labeled observation chart. Clear-looking water is not proven clean; this is not a real ocean cleanup.
 
 **Debris Collector:**
 
@@ -568,3 +555,7 @@ Each student writes one thing they'll do to help oceans:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / evidence / winter pathway
+
+No real pollution, chemicals, live marine animals or glass. Teacher dispenses at most 100 mL water and 5 mL plain vegetable oil per shallow plastic tray; omit cocoa/food powders. No tasting. Wipe spills immediately; adult collects oily materials into sealed waste according to school disposal rules, **never pours oil down the drain**. Choose one cleanup model, keep it inside a tray, and use photos/paper depth models indoors. Give each pupil a labeled food-to-eater arrow and one model limitation as individual evidence. Numerical/historical items above stay out of student fact cards until verified. Complete supply kits and realistic per-meeting cleanup windows remain P1 work.

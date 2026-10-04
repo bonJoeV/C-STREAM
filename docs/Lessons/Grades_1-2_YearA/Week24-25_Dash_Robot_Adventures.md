@@ -51,14 +51,13 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Following God's Path** — Just as we program robots to follow our commands, God has a plan for our lives. Sometimes the path isn't straight, but God guides us. We trust and follow, even when we can't see the end.
+Respectful sharing and responsible technology use are applications of [CCC 2407](https://www.vatican.va/archive/ENG0015/__P8B.HTM). People have moral agency, not robot-like programmed obedience. Do not equate a computer command with God's relationship to people.
 
-### Scripture Connection
-> "Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight."
-> — Proverbs 3:5-6
+### Scripture reference
+Proverbs 3:5-6; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
 ### Saint Connection
-**Blessed Carlo Acutis** — A young tech-loving Catholic who used his computer skills to serve God. He showed that technology can be used for good and for faith.
+**Saint Carlo Acutis** — Canonized September 7, 2025; [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html). Additional computing biography details require verification; focus on responsible use.
 
 ---
 
@@ -242,7 +241,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## Technology / SAFETY / evidence
+**Required primary path:** tested Dash/Blockly/tablet kits for stored code. Preflight loan, app labels and current compatibility; charge by model guide. Low-speed marked dry floor bays, no chasing/overhead loads; teacher handles cords. Test an explicit short forward-distance/90-degree turn sequence; a repeat-four square is a model needing calibration, not guaranteed accuracy. Grade 1 predicts and runs two actions; Grade 2 changes one movement and explains a measured nearer/farther result. Collect each child's actual run/debug evidence; role turns after every run. No devices: arrow/token sequence and debug only, **not robot operation or physical code mastery**. Reserve 4 practice minutes each meeting for cleanup.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We programmed Dash robots! Ask your child: 'What did you make Dash do?' 'What was tricky?' 'How did you solve problems?' Talk about how we can persevere in life — keep trying even when things are hard, trusting God to guide us!"
 
 ---

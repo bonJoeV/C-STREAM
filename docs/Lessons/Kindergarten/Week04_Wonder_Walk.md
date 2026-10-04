@@ -1,336 +1,84 @@
 ---
 title: "Week 4: Wonder Walk"
-description: "Kindergarten outdoor exploration - Observing God's creation with wonder"
-version: "1.1"
-date: 2025-12-05
+description: "Kindergarten observation, sketches, and stewardship with a complete indoor pathway"
+version: "2.0"
+date: 2026-10-04
 tags:
   - kindergarten
-  - engineering
-  - life-science
-  - earth-science
-  - astronomy
-  - animals
-  - arts
+  - observation
+  - stewardship
 ---
 
 # Week 4: Wonder Walk
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 25 minutes |
-| **Lesson Type** | Single-Week |
-| **STREAM Focus** | S (Science), R (Religion), A (Art) |
+| Grade / unit / title | K / Observation / Wonder Walk |
+| Time | 25 minutes, including transitions and cleanup |
+| Domains / big idea | C, S, A / Observations tell what we notice; questions tell what we want to find out. |
+| Student objective / why | "I can show two details I noticed and ask one question." Careful looking helps us study and care for creation. |
+| Catholic connection | Leave living things undisturbed and reuse materials; stewardship is a responsibility, not permission to take everything. [CCC 2402](https://www.vatican.va/archive/ENG0015/__P8A.HTM), paraphrase. |
+| Local standards | CST-C3, CST-S1, CST-A1; local, not official. Official benchmarks: VERIFICATION REQUIRED. |
+| Technology / difficulty | None / Beginner |
+| Prep / cleanup | Light: 10 minutes / 3 minutes within lesson |
 
----
+## Before class
 
-# Week 4: Wonder Walk
+1. **Default indoor plan:** seat pairs at tables. Provide one clean fallen leaf and one smooth rock at least 5 cm across per pair. Use large teacher-drawn leaf/rock pictures if allergies, mouthing, or availability make specimens unsuitable. Say that a drawing is a representation, not a specimen.
+2. Fold a half-sheet into two observation boxes for each child; put crayons within reach. Draw an eye and a question mark on the board.
+3. With 10/15/20/25 students, make 5/7/10/12 teams (pairs/final trio) and prepare 5/8/10/13 kits, including one reserve for odd enrollment. A third child receives their own paper and a turn with each object.
+4. Optional outdoor path: school policy permits it only with required adult coverage, accessible dry route, safe weather, and no icy surfaces. Choose two stops within a two-minute walk. If clothing/transit would exceed the four-minute allowance, use indoors. Check headcount at exit, each stop, and return; do not assume 25 children can be supervised outdoors by one adult.
 
-## 🎯 Learning Objectives
+## Materials
 
-### STEM Objectives
-Students will be able to:
-1. Use their senses to observe the natural world
-2. Identify at least 3 different things in nature (living and non-living)
-3. Ask "wonder questions" about what they observe
-4. Record observations through simple drawing
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Per student: half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Per team: large leaf/picture; large rock/picture; tray | 5 each | 8 each | 10 each | 13 each |
+| Optional per team: magnifier | 5 | 8 | 10 | 13 |
+| Teacher/class: eye/question drawings; roster; timer | 1 set | 1 set | 1 set | 1 set |
 
-### Faith Integration Objectives
-Students will be able to:
-1. Express wonder at God's creation
-2. Recognize that everything in nature was made by God
-3. Thank God for the beauty of the natural world
+Outdoor only: one rigid paper backing per child (10/15/20/25); no collection bags or camera needed. Teacher checks specimens and supplies handwashing access.
 
----
+## Vocabulary and background
 
-## 🙏 Faith-Reason Integration
+**Observe:** notice with safe senses; point to eyes. **Detail:** a small part you notice, such as a vein or speckle. **Question:** something to investigate. **Stewardship:** careful use and care.
 
-### Catholic Teaching Connection
-**Stewardship of Creation** — God created the world and everything in it. He gave humans the special job of taking care of creation. When we observe nature carefully, we see God's amazing design and learn to appreciate His gifts.
+A detached leaf was part of a living plant; a rock was not. Do not classify living things by movement alone or demand a living/nonliving judgment about a detached leaf. Plants are alive although they do not walk. Observation can include accessible hearing, touch of approved items, or description; sight is not the only valid pathway.
 
-### Scripture Connection
-> "God saw all that he had made, and it was very good."
-> — Genesis 1:31
+**Misconception:** "My guess is something I saw." Distinguish "I see lines" from "I think water goes through them."
 
-### Saint Connection
-**St. Francis of Assisi** — St. Francis loved all of God's creatures. He called animals his brothers and sisters and saw God's love in every part of creation.
+**If asked, "Why does a leaf have lines?"** "The lines include veins that carry water and other materials. We can see a pattern; our drawing alone does not prove what is inside."
 
-### Wonder Question
-> "Have you ever wondered why there are so many different kinds of leaves? Or why some flowers smell so nice?"
+## SAFETY
 
----
+No tasting, unknown plants, wild mushrooms, animal remains, feathers, nest disturbance, or smelling unknown materials closely. Adults inspect/clean specimens; pictures are equivalent observation targets when needed. No looking at the Sun through eyes or magnifiers. Keep magnifiers out of direct sun; wash hands after specimens. No collection or picking. Cancel outdoor work for cold, ice, storms, unsafe heat, or insufficient staffing.
 
-## 📚 Materials and Preparation
+## Numbered sequence: 25 minutes
 
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| Clipboards | 1 per student | Classroom |
-| Wonder Walk recording sheet | 1 per student | Teacher-made |
-| Crayons (small boxes) | 1 per student | Classroom |
-| Magnifying glasses | 1 per 2 students | STREAM supplies |
-| Collection bags (paper) | 1 per student | Optional |
+1. **0-3 (3 min):** Brief prayer for care of creation. Model "I notice a line" and "I wonder where it goes." Explain safe looking and gentle hands.
+2. **3-5 (2 min):** Indoors: distribute trays and demonstrate passing. Outdoors: walk to first stop and count children.
+3. **5-11 (6 min):** Look at first object/stop. Each child points to one detail, then draws it in box 1 or dictates while adult sketches. Ask "What do you actually notice?"
+4. **11-17 (6 min):** Pass second object/observe second stop without moving away from the group. Add a second detail in box 2. Partner asks one question using "I wonder..." or chooses between teacher's two question pictures. Teacher begins recording individual detail/question evidence now.
+5. **17-19 (2 min):** Indoors: return trays. Outdoors: return inside and count children. Keep drawings.
+6. **19-22 (3 min):** Finish remaining individual checks during paired sharing: each child shows two details and a question. Do not repeat documented checks or require 25 serial speeches. Ask "How did we care for the things we studied?"
+7. **22-25 (3 min):** Collect reusable materials, wash hands, save drawings. Teacher adds one question to the Wonder Wall later, not extra class time.
 
-### Location Requirements
+## Evidence and success
 
-- Outdoor space (schoolyard, garden, nature area)
+On the roster record two observed details and one question for every child: independent / prompted / not yet. A child may point, dictate, sketch, or choose a picture; do not judge realistic drawing skill. Successful evidence is specific ("three lines," "bumpy edge"), not just "I liked it." One stewardship action is returning materials or leaving an organism untouched.
 
-- Backup: Walk around building interior looking at plants, windows to nature
+## Questions and contingencies
 
-### Teacher Preparation
+- "Which detail can you show me? Which idea would we need to test?"
+- **Support:** use large drawings, tactile approved leaf models, oral description, two pictured choices, or a seated observation partner.
+- **Challenge:** compare the two objects using a visible feature and ask a testable question.
+- **No specimens/magnifiers:** use large teacher drawings and naked-eye observation; report observations of the drawings honestly.
+- **Too many questions:** collect one per child orally; the adult may jot a key word rather than a full sentence.
+- **Minnesota indoor fallback:** use the default table lesson unchanged at -10 F. A nearby window is optional, not a required outdoor view.
 
-- [ ] Scout outdoor location for safety and interesting nature items
+## Optional family snippet
 
-- [ ] Check weather and plan backup if needed
-
-- [ ] Prepare Wonder Walk recording sheets (divided into 4 boxes)
-
-- [ ] Gather clipboards and crayons
-
-- [ ] Charge camera/iPad for optional documentation
-
-- [ ] Review rules for outdoor exploration
-
----
-
-## 📝 Lesson Procedure
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Introduction | 4 min | Prayer and wonder question |
-| Wonder Walk | 15 min | Outdoor exploration |
-| Sharing & Closing | 6 min | Share discoveries, prayer |
-
----
-
-### 1. Opening Prayer & Introduction (4 minutes)
-
-**Gather students before going outside.**
-
-**Prayer:**
-> "Dear God, thank you for the beautiful world You created. Open our eyes to see the wonderful things You made. Help us to notice things we've never seen before. Amen."
-
-**Introduction:**
-> "Today we're going on a Wonder Walk! Scientists observe — that means they look carefully at things. We're going to be scientists today and look carefully at God's creation."
-
-**Review expectations:**
-
-- Walk quietly so we can hear nature sounds
-
-- Stay with the group
-
-- Look with your eyes first, touch gently
-
-- Don't pick flowers or hurt anything
-
-**Show recording sheet:**
-> "You'll draw 4 things you see. Try to find something that's alive, something that's NOT alive, something small, and something beautiful."
-
----
-
-### 2. Wonder Walk (15 minutes)
-
-**Lead students outside in a line. Walk slowly.**
-
-**At first stopping point (5 min):**
-> "Let's stop here. Look around. What do you notice? What do you see that God made?"
-
-**Guide observations:**
-
-- "Look up — what do you see?"
-
-- "Look down — what's on the ground?"
-
-- "Listen — what do you hear?"
-
-- "Use your magnifying glass — what looks different when it's bigger?"
-
-**First drawing:** Give students 2-3 minutes to draw something they see.
-
-**Continue walking (5 min):**
-
-**Second stopping point:**
-> "What's different here? Do you see anything alive?"
-
-**Guide with wonder questions:**
-
-- "I wonder why that leaf has so many lines on it..."
-
-- "I wonder how that ant knows where to go..."
-
-- "I wonder who made that spider web..."
-
-**Second drawing:** Give students 2-3 minutes to draw another observation.
-
-**Final walk and drawings:**
-Complete 4 drawings during the walk, stopping at interesting features.
-
-**Wonder Questions to ask:**
-| If you see... | Ask... |
-|--------------|--------|
-| A flower | "I wonder why God made flowers so colorful?" |
-| A bug | "I wonder how such a tiny creature knows what to do?" |
-| A tree | "I wonder how old this tree is?" |
-| Clouds | "I wonder why clouds make different shapes?" |
-| A bird | "I wonder how birds know how to build nests?" |
-
----
-
-### 3. Sharing & Closing (6 minutes)
-
-**Return inside. Gather in a circle.**
-
-**Share discoveries:**
-> "Turn to a partner. Show them one thing you drew and tell them about it."
-
-**Whole group sharing:**
-
-- "Who found something alive? What was it?"
-
-- "Who found something NOT alive?"
-
-- "What was the most beautiful thing you saw?"
-
-- "Does anyone have a wonder question about something they saw?"
-
-**Record wonder questions** on the Wonder Wall.
-
-**Faith Connection:**
-> "Everything we saw today was made by God! Even the tiniest bug and the biggest tree. God made each thing special and important. We are SO lucky to live in such a beautiful world!"
-
-**Closing Prayer:**
-> "Thank you, God, for the beautiful world. Thank you for trees and flowers and bugs and birds. Help us to take care of Your creation. Amen."
-
-**Optional:** Teach the first verse of "All Things Bright and Beautiful"
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Observed |
-|-------|----------|
-| Made at least 4 observations | ☐ |
-| Used senses to explore | ☐ |
-| Drew recognizable nature items | ☐ |
-| Asked or responded to wonder questions | ☐ |
-| Connected observations to God's creation | ☐ |
-
-### Success Criteria
-
-- Student draws 4 items from nature
-
-- Student shares at least one observation
-
-- Student expresses wonder or curiosity
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Pair with a buddy for the walk
-
-- Pre-draw box outlines with prompts (draw a leaf, draw a bug, etc.)
-
-- Adult helper to scribe dictated observations
-
-- Shorter walk with fewer stopping points
-
-### For Advanced Learners
-
-- Label drawings with beginning sounds/words
-
-- Count items (3 brown things, 5 green things)
-
-- Compare and contrast two items found
-
-- Create additional wonder questions
-
----
-
-## 🌧️ Backup Plan: Indoor Nature Exploration
-
-**If weather doesn't permit outdoor walk:**
-
-1. **Window Observations** — Look out windows, draw what you see
-2. **Nature Table** — Set up items (leaves, pinecones, rocks) for observation
-3. **Virtual Walk** — Use nature video/photos to observe
-4. **Classroom Plant Study** — Observe classroom plants with magnifying glasses
-
----
-
-## 📎 Extensions
-
-### Wonder Journal Entry
-Have students glue their Wonder Walk sheet into their Wonder Journal and add one sentence (dictated or written): "I wonder..."
-
-### Art Extension
-
-- Create nature rubbings with crayons and leaves
-
-- Make a classroom "Creation Collage" with nature drawings
-
-### Home Connection
-**Family Note:**
-> "Today we went on a Wonder Walk to observe God's creation. Take a Wonder Walk in your neighborhood this weekend! Ask your child to show you 3 things they think are beautiful and to tell you one 'I wonder' question."
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**Simplified version:**
-1. Do opening prayer inside
-2. Walk around the building, looking out windows
-3. Stop at 3 places to draw
-4. Return and share one drawing each
-5. Closing prayer thanking God for creation
-
-**Key phrase to use:**
-> "God made everything we see. Let's look carefully at His amazing creation!"
-
----
-
-## 📖 Vocabulary
-
-| Word | Definition | Visual Cue |
-|------|------------|------------|
-| **Observe** | To look carefully and notice things | Eyes wide open |
-| **Wonder** | To think about something and want to know more | Question mark |
-| **Creation** | Everything God made | Earth, plants, animals |
-| **Nature** | The world around us — plants, animals, sky, water | Trees and flowers |
-| **Living** | Things that grow, breathe, and need food | Plant, animal |
-| **Non-living** | Things that don't grow or need food | Rock, sidewalk |
-
----
-
-## 📋 Wonder Walk Recording Sheet
-
-```
-+---------------------------------------------------------+
-|                     MY WONDER WALK                      |
-|                   Name: ____________                    |
-+---------------------------+-----------------------------+
-|                           |                             |
-|   Something ALIVE         |   Something NOT alive       |
-|                           |                             |
-|                           |                             |
-+---------------------------+-----------------------------+
-|                           |                             |
-|   Something SMALL         |   Something BEAUTIFUL       |
-|                           |                             |
-|                           |                             |
-+---------------------------+-----------------------------+
-| I wonder... ___________________________________________ |
-+---------------------------------------------------------+
-```
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+We drew or described two observed details, asked a question, and practiced leaving creation undisturbed. Ask: "What did you notice, and what do you still wonder?" A safe window observation is optional; nothing must be brought from home.

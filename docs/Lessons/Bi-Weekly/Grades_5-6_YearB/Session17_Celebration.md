@@ -190,7 +190,11 @@ By the end of this session, students will:
 
 ## Year B Accomplishments
 
-**Skills Mastered:**
+## Individual assessment
+
+**Local standards (not official):** CST-E3 - tested technical result and limit; CST-A3 - caption revision; CST-C3 - resource example. Year B may precede A; assess actual attended lessons. Use paired artifact exchanges, not 25 plenary talks. Official benchmarks **VERIFICATION REQUIRED**; participation/awards never certify mastery.
+
+**Skills encountered; mastery requires individual evidence:**
 
 - ✅ Design thinking (deep empathy)
 
@@ -213,7 +217,7 @@ By the end of this session, students will:
 - ✅ Original invention
 
 **Faith Connections:**
-St. Teresa of Calcutta • St. Faustina • Cathedral Architects • St. Thomas More • St. John Bosco • St. Ignatius • Bl. Carlo Acutis • Vatican Observatory • St. Francis of Assisi • Works of Mercy • Leonardo da Vinci
+St. Teresa of Calcutta; St. Faustina; cathedral architecture; St. Thomas More; St. John Bosco; St. Ignatius; Saint Carlo Acutis; Vatican Observatory; St. Francis of Assisi; Works of Mercy; historical design examples. Not every theme/example is a canonized saint.
 
 ---
 
@@ -272,4 +276,4 @@ St. Teresa of Calcutta • St. Faustina • Cathedral Architects • St. Thomas 
 
 *End of Grades 5-6 Year B Bi-Weekly C-STREAM Curriculum*
 
-*Combined with Year A, this completes the 5-6 grade band comprehensive program.*
+*Year A/B may be taken in either order. Coverage is supplemental and does not certify a comprehensive subject curriculum or individual mastery.*

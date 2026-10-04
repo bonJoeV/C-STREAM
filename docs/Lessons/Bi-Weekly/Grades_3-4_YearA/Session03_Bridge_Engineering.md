@@ -79,7 +79,7 @@ By the end of this session, students will:
    - **Arch** — Curved, pushes weight outward
    - **Truss** — Uses triangles for strength
    - **Suspension** — Hangs from cables
-3. **Triangles = Strength** — Demonstrate with hands
+3. **Support and joints** — A joined triangle can resist changing shape; loose KEVA planks need stable overlap/support, not a promise that any triangle is strong
 4. **St. Patrick** — Connected communities through faith
 
 ### Main Activity: Bridge Building Challenge (26 minutes)
@@ -91,7 +91,7 @@ By the end of this session, students will:
   - Can hold weight
   - Uses only KEVA planks
 
-- Success = Most weight held without collapse!
+- Test up to 10 identical plastic counters; record last held count or "at least 10." No unlimited loading.
 
 **Part 2: Design & Build (18 minutes)**
 
@@ -113,7 +113,7 @@ By the end of this session, students will:
 
 - Build your bridge!
 
-- Remember: Triangles add strength
+- Check the deck's support and stable overlapping contact; unjoined planks are not a rigid truss
 
 - Test balance before adding weight
 
@@ -121,7 +121,7 @@ By the end of this session, students will:
 
 - Add weights one at a time
 
-- Count how many before collapse
+- Count held counters and stop at 10; never load with heavy weights
 
 - Record your results
 
@@ -138,7 +138,7 @@ By the end of this session, students will:
 ### Engineering Journal (5 minutes)
 1. Sketch your bridge design (before and after building)
 2. Record: "My bridge held ___ weights"
-3. Write: "Triangles help bridges by..."
+3. Write: "Our support arrangement helped by..."
 4. Write: "Next time I would..."
 
 ### Closing Circle (3 minutes)
@@ -202,3 +202,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 2 — Dash & Code](./Session02_Dash_Code.md)  
 **Next:** [Session 4 — Animal Habitats](./Session04_Animal_Habitats.md)
+
+## SAFETY
+
+Use low fixed books and a tray, no metal weights, load above 10 counters, climbing or hands beneath a loaded deck. Do not require all teams to collapse their bridge. Have each child state one kept-same test condition; supplied planks and scalable quantities still require teacher kit preparation.

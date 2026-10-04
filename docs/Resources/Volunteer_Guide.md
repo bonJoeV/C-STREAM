@@ -9,6 +9,17 @@ description: "Instructions for parent helpers in C-STREAM classroom"
 
 Thank you for volunteering in our C-STREAM classroom! This guide will help you support hands-on, faith-integrated STEM learning.
 
+**October 2026 safety/access note:** The teacher retains responsibility.
+Confirm school screening, safeguarding, supervision, emergency and privacy
+requirements before volunteering; any claimed Archdiocesan requirement needs
+source verification. Share only accommodation information necessary for your
+assigned role. No button cells, latex balloons or projectile activities; no
+neodymium magnets in K. Do not repair electrical gear or handle batteries
+without the teacher's assigned procedure. Stop hazards and notify the teacher;
+suspected battery/magnet ingestion requires immediate emergency escalation.
+Use [materials kit counts](../Review/Materials_Plan.md) and the
+[substitute safety guide](./Substitute_Teacher_Guide.md).
+
 ---
 
 ## 🎯 Your Role as a Volunteer
@@ -50,7 +61,7 @@ Thank you for volunteering in our C-STREAM classroom! This guide will help you s
 
 - What grade level?
 
-- Any students with special needs I should know about?
+- Which access/safety instructions are necessary for my assigned role?
 
 - Where should I be stationed?
 
@@ -58,7 +69,7 @@ Thank you for volunteering in our C-STREAM classroom! This guide will help you s
 
 - [ ] Signed volunteer form on file
 
-- [ ] Background check completed (Archdiocesan requirement)
+- [ ] Required screening/safeguarding confirmed with school (exact Archdiocesan policy: VERIFICATION REQUIRED)
 
 - [ ] Sign in at the office
 
@@ -172,7 +183,7 @@ Thank you for volunteering in our C-STREAM classroom! This guide will help you s
 
 - **Short attention spans** — Keep them focused on one step at a time
 
-- **Encourage exploration** — There's no "wrong" at this age
+- **Encourage exploration** — Mistakes inform learning; observe the specific concept and safety rules
 
 - **Celebrate everything** — "Look what you made!"
 
@@ -243,7 +254,7 @@ Thank you for volunteering in our C-STREAM classroom! This guide will help you s
 
 ### Technology doesn't work
 1. Basic troubleshooting: Restart app, check connections
-2. Have a backup: Paper and pencil work too!
+2. Use the teacher's named backup; paper algorithms do not demonstrate real programming/robot execution
 3. Pair students: Share working devices
 4. Stay calm: Tech problems happen to everyone
 

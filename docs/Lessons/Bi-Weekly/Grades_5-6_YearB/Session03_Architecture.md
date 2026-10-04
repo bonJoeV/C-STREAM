@@ -179,6 +179,8 @@ Create a building for ONE purpose:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-A2 - purposeful layout choice revised after critique; CST-E1 - user need/criterion; CST-M1 - measure model doorway and path; CST-C2 - access decision without disability simulation. Use one classroom model, no real-building safety claims. Historical cathedral dates/construction stories **VERIFICATION REQUIRED**. No heavy loads or body-weight tests. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Created functional blueprint

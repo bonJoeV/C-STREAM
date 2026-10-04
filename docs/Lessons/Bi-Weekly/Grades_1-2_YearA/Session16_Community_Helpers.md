@@ -57,11 +57,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Vincent de Paul** — He organized help for the poor, creating systems to serve those in need.
 
-### Scripture
-> *"Serve one another humbly in love."* — Galatians 5:13
+### Scripture reference
+Galatians 5:13; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, you call us to love our neighbors. Help us see what our community needs. Give us creative ideas to help others. Bless the work of our hands. Amen.*
@@ -179,7 +179,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / recipient choice / evidence
+Default a paper/cardboard organizer model for a classroom helper who states a need. No actual bird-feeder deployment without teacher hygiene/species/location plan, no unsafe litter picking, food deliveries or required donations. Teacher screens recyclables and confirms recipient consent. Grade 1 explains user need orally; Grade 2 checks one agreed criterion and revises. **Technology: None primary path.** Last 3 making minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; thank someone orally at no cost)
 **Family Activity:** Do a family service project! Ideas: Make bird feeders, pick up litter, bake treats for neighbors, donate toys, write thank you notes to community helpers. Talk about how it feels to help.
 
 ---

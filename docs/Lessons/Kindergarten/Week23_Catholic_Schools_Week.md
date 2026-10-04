@@ -1,252 +1,84 @@
 ---
 title: "Week 23: Catholic Schools Week"
-description: "Kindergarten Catholic Schools Week STREAM celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - catholic-schools-week
-  - arts
+description: "A small evidence-based learning display with a fresh-demonstration fallback"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-T3, CST-A3]
+technology: Optional
+prep_minutes: 10
+cleanup_minutes: 4
+scope: CORE
+materials: [Plain paper, Shared school crayon set, Paper grid and token, Large command cards]
 ---
 
 # Week 23: Catholic Schools Week
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 25 minutes |
-| **Lesson Type** | Single-Week |
-| **STREAM Focus** | R (Religion) — Celebrating Catholic Education |
-
----
-
-# Week 23: Catholic Schools Week
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Share what they've learned in STREAM with others
-2. Demonstrate one STREAM skill
-3. Express pride in their learning
-
-### Faith Integration Objectives
-Students will be able to:
-1. Understand that Catholic school connects faith and learning
-2. Thank God for their teachers and school
-3. Recognize that learning about God's world is part of Catholic education
-
----
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Catholic Education** — In Catholic schools, we learn about everything AND about God! We know that science, math, art, and technology all help us understand God's amazing creation.
-
-### Scripture Connection
-> "Train up a child in the way he should go; even when he is old he will not depart from it."
-> — Proverbs 22:6
-
-### Wonder Question
-> "Why is it special to learn in a Catholic school? Because we learn about God in EVERYTHING!"
-
----
-
-## 📚 Materials and Preparation
-
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| Student work samples from the year | Various | Student portfolios |
-| "I learned..." speech bubbles | 1 per student | Teacher-made |
-| Display supplies | Various | Classroom |
-| Camera for photos | 1 | Teacher |
-
-### Teacher Preparation
-
-- [ ] Gather student work samples
-
-- [ ] Prepare speech bubble templates
-
-- [ ] Set up display area
-
-- [ ] Plan simple demonstration opportunities
-
-- [ ] Coordinate with school Catholic Schools Week activities
-
----
-
-## 📝 Lesson Procedure
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer | 3 min | Prayer for Catholic schools |
-| Celebration Discussion | 5 min | Why is Catholic school special? |
-| Sharing Preparation | 12 min | Prepare what to share |
-| Celebration | 5 min | Share and pray |
-
----
-
-### 1. Opening Prayer (3 minutes)
-
-**Prayer:**
-> "Dear God, thank you for our Catholic school. Thank you for teachers who help us learn about You and about the world. Thank you for friends who learn with us. Bless everyone at our school. Amen."
-
-**Introduction:**
-> "This week is Catholic Schools Week! It's a special time to celebrate our school. Today, we're going to think about all the amazing things we've learned in STREAM!"
-
----
-
-### 2. Celebration Discussion (5 minutes)
-
-**What makes our school special?**
-> "What's special about going to a Catholic school?"
-
-Guide responses:
-
-- We learn about God
-
-- We pray together
-
-- We learn about the world God made
-
-- We help others
-
-- We have kind friends
-
-**STREAM in Catholic school:**
-> "In STREAM, we learn about science, technology, engineering, art, and math. But we also learn about GOD! We see how amazing God is when we look at what He created."
-
-**Quick review:**
-> "What have we learned about in STREAM this year?"
-
-- Robots that move
-
-- Building towers
-
-- Light and stars
-
-- Exploring nature
-
-- Coding on iPads
-
----
-
-### 3. Sharing Preparation (12 minutes)
-
-**Activity: "I Learned..." Speech Bubbles**
-
-**Instructions:**
-> "We're going to make speech bubbles that tell people what we learned in STREAM. You'll draw a picture and tell what you learned."
-
-**Model:**
-> "I would say: 'In STREAM, I learned that light goes through tissue paper!' And I would draw a light catcher."
-
-**Students create:**
-1. Draw a picture of something they learned
-2. Teacher helps write their words (or student writes)
-3. Decorate speech bubble
-
-**Sentence starters:**
-
-- "In STREAM, I learned..."
-
-- "I can..."
-
-- "I know that..."
-
-**Examples:**
-
-- "In STREAM, I learned how to drive a robot!"
-
-- "I can build a tall tower!"
-
-- "I know that stars make patterns!"
-
-- "I learned that God made everything!"
-
----
-
-### 4. Celebration (5 minutes)
-
-**Share with partners:**
-> "Turn to a friend and share what you learned!"
-
-**Whole group celebration:**
-> "Let's go around and everyone say one thing you're proud of learning!"
-
-Quick go-around (1-2 words each is fine)
-
-**Catholic connection:**
-> "Everything we learn in STREAM helps us understand God better. When we learn about light, we remember Jesus is the Light of the World. When we build, we remember that God is the greatest builder. Learning is a gift from God!"
-
-**Display:**
-Hang speech bubbles for Catholic Schools Week display.
-
-**Closing Prayer:**
-> "Thank you, God, for our school, our teachers, and everything we've learned. Help us to always see You in what we learn. Bless our Catholic school! Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Observed |
-|-------|----------|
-| Named something learned in STREAM | ☐ |
-| Created speech bubble | ☐ |
-| Shared with partner/group | ☐ |
-| Connected learning to faith | ☐ |
-| Showed pride in learning | ☐ |
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Pre-written sentence with picture to match
-
-- Partner share only
-
-- Draw picture, adult scribes words
-
-### For Advanced Learners
-
-- Write their own sentence
-
-- Share multiple things they learned
-
-- Help create a class display
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**Simplified version:**
-1. Prayer for Catholic Schools Week
-2. Talk about what's special about Catholic school
-3. Draw a picture of something learned in STREAM
-4. Share with a partner
-5. Closing prayer
-
----
-
-## 📎 Home Connection
-
-**Family Note:**
-> "Happy Catholic Schools Week! Today we celebrated our learning in STREAM class. Your child made a 'speech bubble' sharing something they learned this year. Catholic schools help children learn about the world AND about God. Thank you for choosing Catholic education! Ask your child: 'What's your favorite thing you learned in STREAM?'"
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+| Grade / unit / time | K / Truthful learning display / one 25-minute meeting |
+| Domains / big idea | C, T, A; a display communicates actual evidence and protects private information |
+| Objective / why | "I can show a result and help someone understand it." Clear explanations share learning with our community. |
+| Catholic connection | Faith and reason support truthful inquiry; gratitude does not replace evidence. |
+| Local standards | CST-C1: honest result; CST-T3: private-information/adult-help scenario; CST-A3: audience explanation/revision. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | Optional approved photography; none needed / guided / 10 minutes / 4 included |
+
+## Before class and quantities
+
+Read [K routines](../../Resources/Kindergarten_Reference_Routines.md).
+Use actual school event dates, not a presumed calendar week. Retrieve one
+dated test/observation sheet per child. Missing work has a fresh route:
+3-by-3 grid, START lower-left, target right then up; RIGHT/UP/STOP cards.
+Budget 5/8/10/13 kits; active teams 5/7/10/12.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: grid; large token; three cards | 5 / 5 / 15 | 8 / 8 / 24 | 10 / 10 / 30 | 13 / 13 / 39 |
+| Student: display/evidence sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Teacher: two hypothetical sharing cards | 2 | 2 | 2 | 2 |
+
+Teacher: timer/roster, demonstration from a kit and an approved classroom display
+space. Visitors, public photography, outside contact and personal names are not required.
+Draw a house icon to represent a fictional person's home address, and an
+anonymous shape pattern. Read their meanings aloud; no actual address or
+student data is written or requested.
+
+## Vocabulary, background and SAFETY
+
+**Evidence:** actual work/result. **Audience:** person interpreting the display.
+**Explain:** tell what a result means. **Revise:** make a message clearer.
+Misconception: a favorite photograph proves every skill. A child must identify
+what was actually demonstrated. If asked whether prayer proves a science claim,
+say our faith reflection and test result are different kinds of statement.
+If asked about sharing, a home address stays private; ask the trusted school
+adult before public sharing. An anonymous pattern is not personal information,
+but school permission still applies to publication.
+Seated desk models, large paper parts; no public names/images without approval.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Invite thanks for school/community and state the truthful-display goal.
+2. **4-8:** Model a result plus explanation. If no work exists, run RIGHT, UP,
+   STOP freshly; date it today and do not claim a robot ran. Read the two
+   hypothetical sharing cards and model keeping the address private.
+3. **8-17:** Each child prepares a display from a real record or performs the
+   fresh route. Partner asks "What does this show?" Begin individual checks.
+4. **17-21:** Child points to evidence, explains its meaning and revises one
+   mark/drawing/gesture when the audience is confused. Each child chooses
+   which hypothetical card is private and names the adult to ask before sharing.
+5. **21-25:** Pairs share concurrently; save dated evidence, put displays in
+   the approved space, return materials and clear.
+
+## Success, questions, support and troubleshooting
+
+Check actual result, truthful limitation, understandable communication and
+private-information/adult-help choices; never collect a child's home details.
+Ask "Did you do this, observe it or predict it? What would you still practice?"
+Support: pointing/dictation and two explanatory choices. Challenge: name what
+the evidence cannot establish. No portfolio: use the supplied fresh route;
+do not send the child home to obtain a photograph. No display area: keep
+individual sheets in a class envelope. Indoors, no visitor/device prerequisite.
+
+**Family:** We explained one real result and revised its presentation.
+Ask, "What evidence does your picture show?" Optional family conversation only.

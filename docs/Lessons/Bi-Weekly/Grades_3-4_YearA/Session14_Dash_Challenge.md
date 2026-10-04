@@ -100,7 +100,7 @@ By the end of this session, students will:
 
 - Navigate exact path marked on floor
 
-- Must stay on the line!
+- Use tape only as a visual reference; Dash does not automatically sense/follow it
 
 - Use precise measurements
 
@@ -132,7 +132,7 @@ By the end of this session, students will:
 
 - Target to reach
 
-- Best time wins!
+- Safe, low-speed accuracy matters; no races or intentional collisions
 
 **Mission 5: Creative Challenge (2 min)**
 
@@ -213,3 +213,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 13 — Easter Tech](./Session13_Easter_Tech.md)  
 **Next:** [Session 15 — Simple Machines](./Session15_Simple_Machines.md)
+
+## Implementation limits
+
+Use pretested Blockly and safe lanes from [Session 2](./Session02_Dash_Code.md); do not assume Wonder has identical block behavior. Choose one precision mission plus retest; five missions are optional choices, not required in twenty minutes. Sensor blocks require actual-model verification before use. If devices fail, trace/debug a paper route at the same work times; record CT, not robot or sensor mastery. Collect a comparable individual trace and actual-operation log, not only group success.

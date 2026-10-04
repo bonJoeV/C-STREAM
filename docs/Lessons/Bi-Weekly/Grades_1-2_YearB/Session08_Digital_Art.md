@@ -53,12 +53,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **Blessed Fra Angelico** — A friar who created beautiful art for God's glory. If he lived today, he might use digital tools!
 
-### Scripture
-> *"Sing to the Lord a new song."* — Psalm 96:1
-> (We can also CREATE new things for the Lord!)
+### Scripture reference
+Psalm 96:1; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. Visual-art use is a teacher application.
 
 ### Opening Prayer
 *Dear God, you made us creative like you. Thank you for new ways to make art! Help us use technology to create beautiful things that honor you. Amen.*
@@ -159,7 +158,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Technology / low-tech equivalent / evidence
+**Recommended primary path:** school-approved offline tablet drawing when undo/revision materially adds value; paper art fully supports purposeful artistic communication but not digital-tool mastery. Before sharing, child explains one intended message, receives one specific partner suggestion and revises a feature. Grade 1 tells/draws; Grade 2 explains why revision improved communication. Skip redundant paper copying; use that journal time for critique/revision evidence. No accounts, external upload, names/photos or ads without school approval. Save locally as permitted and return tools in final 3 creation minutes; no routine homework.
+
+## Wonder at Home 🏠 (optional; paper or oral comparison equally valid)
 **Family Activity:** Try digital art at home if you have a tablet or computer! Many free drawing websites exist. Compare digital art to paper art—what's different? What's the same? Create art together!
 
 ---
@@ -168,7 +170,7 @@ By the end of this session, students will:
 
 - Pre-install and test drawing apps
 
-- Free apps: Kids Doodle, Tayasui Sketches Jr, Drawing Pad
+- App prices, privacy, advertising and age/accessibility terms change: **VERIFICATION REQUIRED**. Use only school-approved installed apps; none is promised free or suitable merely by name.
 
 - Have backup paper art activity ready
 

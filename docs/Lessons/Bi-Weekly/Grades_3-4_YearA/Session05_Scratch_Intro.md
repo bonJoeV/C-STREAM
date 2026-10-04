@@ -56,7 +56,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**God as the Master Programmer** — God created the universe with order and logic, just like programmers create with code!
+**Creativity and responsibility** — Programming is a human tool; "God as programmer" is only a metaphor, not a scientific description of creation or human freedom.
 
 ### Scripture
 > *"In the beginning was the Word... Through him all things were made."* — John 1:1,3
@@ -76,7 +76,7 @@ By the end of this session, students will:
 2. **Programming = Giving Instructions**
    - Computers do EXACTLY what we tell them
    - We need to be precise and logical
-3. **God's Code** — The universe runs on God's perfect design
+3. **Faith reflection** — Use our creativity responsibly; we are not discovering literal divine computer code
 
 ### Main Activity: Scratch Exploration (27 minutes)
 
@@ -196,13 +196,13 @@ By the end of this session, students will:
 ---
 
 ## Wonder at Home 🏠
-**Family Activity:** Scratch is FREE at scratch.mit.edu! Create an account and explore together. Try the tutorials. Show your family the dancing cat you made! Find Scratch project ideas online.
+**Optional family activity:** Scratch is free at scratch.mit.edu; an account or home device is not required. Describe or draw the sequence for a family member. No homework.
 
 ---
 
 ## Teacher Notes
 
-- Create class Scratch account or use individual accounts
+- Use guest/offline projects and private local saves; no shared pupil credentials or compulsory accounts
 
 - Pre-load Scratch on all devices
 
@@ -216,3 +216,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 4 — Animal Habitats](./Session04_Animal_Habitats.md)  
 **Next:** [Session 6 — Gratitude Tech](./Session06_Gratitude_Tech.md)
+
+## Technology / individual evidence
+
+Primary **Required** for executable Scratch. Without devices, trace motion/turn/repeat cards with a token and identify a bug; record CT only, not Scratch operation. Every child predicts what the loop repeats and explains one edit; log who actually edits/runs code. Reserve 5 minutes of exploration for saving/stopping/device return.

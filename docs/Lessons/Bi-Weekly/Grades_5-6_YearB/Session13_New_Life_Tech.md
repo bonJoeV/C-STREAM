@@ -192,6 +192,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-A3 - purposeful message/revision; CST-T3 - safe media/source handling; CST-C2 - audience/access choice. Paper storyboard is a full communication alternative but **not digital production/programming** evidence. Seasonal growth is a symbol, not scientific proof of Resurrection. No public sharing/private data/home accounts; approved Scripture content **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Created meaningful Easter project

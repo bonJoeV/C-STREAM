@@ -33,11 +33,11 @@ Students will be able to:
 1. Explain basic astronomy concepts (stars, planets, constellations)
 2. Understand how ancient people used stars for navigation
 3. Explore scientific theories about the Star of Bethlehem
-4. Calculate relative distances in space
+4. Compare near/far positions in a clearly labeled classroom model without large-number arithmetic
 
 ### Faith Integration Objectives
 Students will be able to:
-1. Understand the role of the Magi as star-studying scientists
+1. Read the Magi narrative without equating ancient sky interpretation with modern scientific methods
 2. Connect God's guidance through creation
 3. Recognize that seeking Jesus is life's greatest journey
 
@@ -55,7 +55,7 @@ Students will be able to:
 > — Matthew 2:2
 
 ### Saint Connection
-**St. Nicholas Copernicus** — A Catholic canon (church official) who revolutionized astronomy by proposing that Earth orbits the Sun. He saw no conflict between faith and studying the heavens.
+**Nicolaus Copernicus** — A Catholic canon who proposed a Sun-centered planetary model, not a canonized saint and not the sole person who proved Earth's motion. Historical details require a verified biography (**VERIFICATION REQUIRED**).
 
 ---
 
@@ -97,7 +97,7 @@ Students will be able to:
 
 - Stars are distant suns
 
-- Our sun is an average star
+- Our Sun is one star; "average" depends on the property and stellar sample, so no average-size claim is needed
 
 - Stars appear to move across the sky (actually, Earth rotates)
 
@@ -119,44 +119,12 @@ Students will be able to:
 
 - "Planet" comes from Greek word for "wanderer"
 
-**Catholic connection:** St. Nicholas Copernicus, a Catholic churchman, discovered Earth orbits the Sun!
+**Catholic connection:** Copernicus was a Catholic churchman who proposed a Sun-centered model. Scientific acceptance depended on evidence developed by many people.
 
 ### The Star of Bethlehem Investigation (10 min)
-**What was the Christmas star? Scientists have theories:**
+Read Matthew 2 as a religious narrative. Some writers propose conjunctions, comets or other interpretations, but **no identification is established by this lesson**. Historical dates/records and astronomical hypotheses are **VERIFICATION REQUIRED** before use. A nova and supernova are different phenomena, not interchangeable names.
 
-**Theory 1: Planetary Conjunction**
-
-- Jupiter and Saturn appeared very close together
-
-- Jupiter = "king planet"
-
-- Saturn = associated with Jewish people
-
-- This happened in 7-6 BC
-
-**Theory 2: Comet**
-
-- Bright, visible, dramatic
-
-- Comets were considered signs
-
-- Chinese records show a comet in 5 BC
-
-**Theory 3: Nova or Supernova**
-
-- Exploding star appears suddenly
-
-- Very bright, then fades
-
-- Chinese records show a nova in 5 BC
-
-**Theory 4: Miraculous Light**
-
-- A special light created by God
-
-- Not a natural phenomenon
-
-- Supernatural guidance
+Students draw two columns: "observable in our sky model" and "interpretation of a text." Sort teacher statements: stars emit light; planets reflect sunlight; Matthew describes a guiding star; we do not know an established physical identification. Ask: "Which claim could our model test?"
 
 **Discussion:**
 
@@ -165,31 +133,12 @@ Students will be able to:
 - "What's important is that God used it to guide people to Jesus!"
 
 ### Space Math Activity (10 min)
-**Understanding cosmic distances:**
-
-**Distance demonstration:**
-If the sun is a basketball...
-
-- Earth is a pea, 78 feet away
-
-- Jupiter is a golf ball, 400 feet away
-
-- The nearest star is another basketball, 4,000 MILES away!
-
-**Quick calculation:**
-
-- Light travels 186,000 miles per second
-
-- How far does light travel in one year? (Light year)
-
-- The nearest star is 4.2 light years away!
-
-**Wonder moment:** "The Magi traveled maybe 1,000 miles to find Jesus. Compared to space distances, that's almost nothing. But it meant EVERYTHING because they found the King of the Universe!"
+**Classroom comparison, not a scale model:** Put three labeled paper markers on a desk at 10, 20 and 30 cm. Grade 3 measures and compares near/far; Grade 4 explains that evenly spaced markers do not represent real planetary spacing. Label "not to scale." A light-year is a distance, not a time; no multiplication of seconds per year required. The previous unsourced basketball/pea sizes, nearest-star scale and Magi travel distance are removed.
 
 ### Closing Reflection (5 min)
 **Discussion:**
 
-- "The Magi were scientists who found God"
+- "The Magi narrative describes seeking and worship; it is not a laboratory report"
 
 - "Their star-studying led them to worship Jesus"
 
@@ -197,7 +146,7 @@ If the sun is a basketball...
 
 **Application:** "The Magi took a long journey to find Jesus. What journey can WE take to find Him?" (Prayer, Mass, kindness, learning)
 
-**Faith Connection:** "The Magi prove that science and faith work together. They studied the stars, and those stars led them to kneel before the Son of God. May our learning always lead us closer to Jesus!"
+**Faith Connection:** Faith and reason can work together without claiming that a narrative or our classroom model scientifically proves a miracle.
 
 **Closing Prayer:** "Lord, like the Magi, help us follow Your signs to find Jesus. Thank You for the wonder of the stars. Guide our journey toward You, now and always. Amen."
 
@@ -207,7 +156,11 @@ If the sun is a basketball...
 
 - Explained basic astronomy concepts
 
-- Described theories about the Star of Bethlehem
+- Distinguished observable model evidence from interpretations of the Magi narrative
+
+## SAFETY / indoor alternative
+
+Desk models only, no sun-viewing, lasers, required night outing or large outdoor scale model. Optional family sky observation must be adult-led in safe conditions; a sky picture works in winter. Each child labels one scientific claim and one religious interpretation, rather than merely participating.
 
 - Connected astronomy to the Magi's faith journey
 

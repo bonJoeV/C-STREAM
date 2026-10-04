@@ -76,14 +76,14 @@ By the end of this session, students will:
 1. **Life's Complexity:**
    - Every living thing is incredibly complex
    - Trillions of cells in your body
-   - DNA instructions in every cell
+   - Most human cells contain DNA; mature red blood cells are a notable exception. Bacteria have DNA but no membrane-bound nucleus.
 2. **Life Science Areas:**
    - Cells — Building blocks of life
    - DNA — Instructions for life
    - Ecology — Connections between life
 3. **Resurrection Theme:**
    - Life constantly renews
-   - Death leads to new life (seeds, metamorphosis)
+   - Germination and metamorphosis are living biological processes; neither is death/resurrection nor scientific proof of Easter.
    - Easter: Ultimate new life!
 
 ### Main Activity: Life Science Investigation (30 minutes)
@@ -92,10 +92,9 @@ By the end of this session, students will:
 
 **Track A: Cell Exploration (if microscopes available)**
 
-1. **Prepare Slides (8 min):**
-   - Onion skin cells
-   - Cheek cells
-   - Pond water organisms
+1. **Prepared Images/Slides (8 min):**
+   - Adult-supplied labeled plant/animal cell images or sealed commercially prepared slides only
+   - No student tissue sampling, cheek cells, pond water, slide preparation, or live cultures
 
 2. **Observe & Draw (12 min):**
    - Find cells under microscope
@@ -115,12 +114,12 @@ By the end of this session, students will:
 1. **DNA Background (8 min):**
    - DNA = Instructions for life
    - Double helix structure
-   - Every cell has complete instructions
+   - Typical cells contain DNA; exceptions and compartments matter. Do not teach an every-cell absolute.
 
-2. **DNA Extraction (12 min):**
-   - Extract DNA from strawberry/banana
-   - See real DNA!
-   - Discuss: This contains instructions for making more fruit!
+2. **DNA Paper Pairing (12 min):**
+   - Write ATCG and pair each base using A-T/C-G; correct complement TAGC.
+   - Each student models four pairs and names a model limitation.
+   - No extraction, alcohol, unknown chemicals, food handling, or DNA collection.
 
 3. **DNA Model (5 min):**
    - Create simple DNA model
@@ -163,6 +162,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-S3 - individual accurate cell/DNA/ecosystem explanation; CST-A1 - labeled model and limitation; CST-C1 - distinguish biological process from faith symbol. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND ACCESS
+
+Dry paper primary route; no biological sampling, cultures, alcohol/extraction, or unknown water. Adult handles optional sealed slides. For 10/15/20/25 students use 4/5/7/9 image/model kits; each student gets pencil and model/exit sheet. A prepared image is not evidence of actual microscope operation. Indoor ecosystem diagrams replace any unsafe-weather fieldwork.
 **Observation Checklist:**
 
 - [ ] Engaged in investigation
@@ -204,7 +209,7 @@ By the end of this session, students will:
 
 - Choose track based on available equipment
 
-- DNA extraction works with household items
+- DNA extraction is not offered; household availability is not a safety protocol.
 
 - Great timing before Easter
 

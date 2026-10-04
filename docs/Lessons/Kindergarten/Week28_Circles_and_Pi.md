@@ -1,336 +1,80 @@
 ---
 title: "Week 28: Circles and Pi"
-description: "Kindergarten Pi Day celebration exploring circles in God's creation"
-version: "1.0"
-date: 2025-12-05
+description: "Kindergarten circles, spheres, comparison and purposeful patterns; pi is optional teacher context"
+version: "2.0"
+date: 2026-10-04
 tags:
   - kindergarten
-  - light
-  - astronomy
-  - animals
-  - pi-day
+  - shapes
+  - patterns
   - arts
 ---
 
 # Week 28: Circles and Pi
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 25 minutes |
-| **Lesson Type** | Single-Week |
-| **STREAM Focus** | M (Math), S (Science), R (Religion), A (Art) |
+| Grade / unit / title | K / Shapes and patterns / Circles and Pi |
+| Time / domains | 25 minutes / C, A, M |
+| Big idea | A circle is flat; a sphere is a solid shape. Repeated shapes can communicate a pattern. |
+| Student objective / why | "I can sort a circle, a square and a ball, and make the next part of a pattern." Accurate descriptions help us explain what we see. |
+| Catholic connection | Honest descriptions and careful use of creation support faith and reason. Teacher connection; no claim that a shape proves a theological conclusion. |
+| Local standards | CST-C1, CST-A2, CST-M1, CST-M2; local, not official benchmarks. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty | None / Beginner |
+| Prep / cleanup | Light: 10 minutes / 3 minutes within lesson |
 
----
+## Before class and supplies
 
-# Week 28: Circles and Pi
+Make 5/7/10/12 teams for 10/15/20/25 children (pairs/final trio). Prepare 5/8/10/13 shape kits, including one reserve for odd enrollment. Use large 8 cm paper shapes; avoid coins, string, snacks and small stickers. Put one paper strip and crayon per child at tables. Draw the example circle-square-circle-square on the board.
 
-## 🎯 Learning Objectives
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Per child: paper strip; crayon | 10 each | 15 each | 20 each | 25 each |
+| Per team: three circles and three squares | 15 each | 24 each | 30 each | 39 each |
+| Teacher/class: large lid (at least 8 cm); ball (at least 10 cm); marker; roster; timer | 1 each | 1 each | 1 each | 1 each |
 
-### STEM Objectives
-Students will be able to:
-1. Identify circles in the classroom and natural world
-2. Understand that circles are special shapes with no corners
-3. Explore circles through art and movement
-4. Hear about Pi (π) as a special number about circles
+Teacher makes one circle outline by tracing the lid before class. Children compare shapes at their seats; teacher carries the ball for observation, not throwing.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Marvel at how God used circles in creation (sun, moon, planets)
-2. Recognize that math patterns show God's design
-3. Thank God for the wonder of circles
+## Vocabulary and teacher background
 
----
+**Circle:** flat, round boundary, no corners; trace it. **Square:** flat shape with four equal sides and four corners. **Sphere:** solid ball shape, not a "3D circle." **Pattern:** a repeat that lets us predict what comes next.
 
-## 🙏 Faith-Reason Integration
+The visible outline of a ball can look circular, but the object extends in three dimensions. Many natural shapes only approximately resemble ideal mathematical shapes. Pi is the circumference-to-diameter ratio of a circle, approximately 3.14; it is not magic and is not a kindergarten calculation target. March 14 is an optional cultural connection, not today's assumed date.
 
-### Catholic Teaching Connection
-**Wonder at Creation** — God created the world with beautiful patterns and shapes. Circles appear everywhere in nature — the sun, the moon, flowers, tree rings, eyes. These patterns show God's amazing design!
+**Misconception:** "Anything round is a circle." Compare the flat tracing with the solid ball.
 
-### Scripture Connection
-> "He has made everything beautiful in its time."
-> — Ecclesiastes 3:11
+**If asked, "Is the Sun a circle?"** "It looks like a round disk from far away. The Sun is roughly sphere-shaped. We never look directly at it." No science mastery code is claimed from this explanation alone.
 
-### Wonder Question
-> "Have you ever wondered why so many things in nature are round? The sun, the moon, oranges, flowers... God must love circles!"
+**Faith/source boundary:** This lesson's honest-evidence practice is a local pedagogical Catholic connection. A formal Church/official-standard alignment is VERIFICATION REQUIRED; no quotation or inference about God's preference for circles is used.
 
----
+## SAFETY
 
-## 📚 Materials and Preparation
+No food, small coins, long yarn, rolling races, or direct solar viewing. Teacher holds the ball; keep paper shapes on tables. Use blunt tools only; shapes are precut. No forced hand-over-hand assistance.
 
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| Circular objects | Collection | Classroom/home |
-| Paper plates | 1 per student | Classroom |
-| Circle stickers | Various sizes | Classroom |
-| Crayons/markers | Class set | Classroom |
-| Round snacks (optional) | 1 per student | Teacher |
-| Yarn/string | Lengths | Classroom |
-| "Circle Hunt" sheet | 1 per student | Teacher-made |
+## Timed numbered steps: 25 minutes
 
-### Teacher Preparation
+1. **0-3 (3 min):** Invite gratitude for our ability to notice and tell the truth. Show flat tracing and ball: "Do these have the same shape in every way?"
+2. **3-7 (4 min):** Model tracing circle and square boundaries and feeling the teacher-held ball if desired. Count zero/four corners. Say "A picture of a ball is flat; the real ball is solid."
+3. **7-13 (6 min):** Partners sort six large shapes, alternating turns; teacher brings ball to each table. Each child identifies circle, square, and solid ball with a word, point, or gesture.
+4. **13-19 (6 min):** Arrange circle-square-circle-square. Each child predicts next two shapes and draws a repeating pattern on their strip. Choose colors/spacing to make the repeat readable to a partner; revise if partner cannot see it. Teacher starts shape/pattern checks while circulating.
+5. **19-22 (3 min):** Finish remaining checks during partner sharing: child distinguishes flat circle from sphere and extends the AB repeat. Do not repeat documented checks or line up 25 children. Optional pi explanation is one sentence within this block, not extra time.
+6. **22-25 (3 min):** Count six shapes into each kit, collect strips, return crayons and ball.
 
-- [ ] Gather circular objects (plate, clock, ball, coin, etc.)
+## Evidence and success
 
-- [ ] Prepare circle art supplies
+Teacher records shape identification (three targets) and pattern extension (two next shapes): independent / prompted / not yet. Success is a correct circle/square/ball distinction and circle-square continuation, plus showing a design choice that makes the repeat clear. Children may arrange precut shapes or dictate a pattern instead of drawing; no handwriting or perfect circles required.
 
-- [ ] Optional: Round snacks (cookies, crackers)
+## Questions, support, and contingencies
 
-- [ ] Create circle hunt sheet
+- "What is flat? What has corners? What repeats? How did your spacing help your partner?"
+- **Support:** offer two shapes at a time; use raised outlines or verbal descriptions; let children place rather than draw.
+- **Challenge:** compare larger/smaller circles or make an AAB repeat; explain the next shape.
+- **Oval mistaken for circle:** show a teacher-made oval beside the traced circle; say it is stretched, without requiring radius vocabulary.
+- **No ball:** teacher rolls a large paper ball before class and identifies it as an approximate sphere, not perfect geometry.
+- **Minnesota indoor fallback:** all work stays at seated tables; no nature hunt or outdoor date prerequisite.
 
-- [ ] Practice saying "Pi Day" and showing π symbol
+## Optional family snippet
 
----
-
-## 📝 Lesson Procedure
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Wonder | 3 min | Prayer about circles |
-| Circle Discovery | 7 min | What is a circle? |
-| Pi Day Introduction | 3 min | Special number |
-| Circle Art | 10 min | Create with circles |
-| Closing | 2 min | Celebration |
-
----
-
-### 1. Opening Prayer & Wonder (3 minutes)
-
-**Prayer:**
-> "Dear God, thank you for creating such a beautiful world with amazing shapes and patterns. Help us to see Your design in everything, especially circles! Amen."
-
-**Wonder Question:**
-> "Look at my eyes. What shape are they? Look at the clock. What shape is it? God put circles EVERYWHERE!"
-
----
-
-### 2. Circle Discovery (7 minutes)
-
-**What is a circle?**
-> "A circle is a special shape. It's perfectly round with NO corners. It goes around and around without stopping."
-
-**Trace a circle in the air together:**
-> "Let's draw a circle in the air with our fingers. Round and round... it never stops!"
-
-**Circle show and tell:**
-Show various circular objects:
-
-- Clock
-
-- Plate
-
-- Ball
-
-- Coin
-
-- Orange (or picture)
-
-**Circles in nature:**
-Show pictures:
-
-- Sun
-
-- Full moon
-
-- Flower centers
-
-- Tree rings
-
-- Eyes
-
-**Discussion:**
-> "Why do you think God made so many things in circles?"
-
-**Possible answers:** 
-
-- They roll easily
-
-- They have no sharp edges
-
-- They're beautiful
-
-- They're strong (like a wheel)
-
----
-
-### 3. Pi Day Introduction (3 minutes)
-
-**Simple Pi explanation:**
-> "Today is a special day called Pi Day! Pi (show π symbol) is a very special number that tells us about circles. It's like a magic number that helps people measure circles!"
-
-**Show March 14:**
-> "Pi Day is March 14 because Pi starts with 3.14. March is the 3rd month, and today is the 14th day!"
-
-**Keep it simple:**
-> "Scientists and mathematicians love Pi because it helps them understand circles. And we know that God made circles! So Pi helps us understand God's creation!"
-
-**Optional chant:**
-> "Pi, Pi, circles in the sky! God made circles, and so will I!"
-
----
-
-### 4. Circle Art (10 minutes)
-
-**Activity: Circle Creation**
-
-**Option A: Circle Animal/Face**
-
-- Paper plate as base (circle face)
-
-- Circle stickers for eyes, nose, ears
-
-- Create a circle animal or person
-
-**Option B: Circle Scene**
-
-- Draw a picture using ONLY circles
-
-- Sun, flowers, snowman, balloons, etc.
-
-**Option C: Circle Pattern**
-
-- Use different sized circles
-
-- Create a pattern or design
-
-**Instructions:**
-> "Use circles to create something! You can make a face, an animal, a picture of nature — anything you want, but it has to use CIRCLES!"
-
-**While students work:**
-
-- "What circles did you use?"
-
-- "Where do you see circles in your picture?"
-
-- "What in nature does your picture remind you of?"
-
----
-
-### 5. Closing Celebration (2 minutes)
-
-**Share:**
-> "Hold up your circle art! Look at all those beautiful circles!"
-
-**Optional: Circle snack**
-If you have round snacks:
-> "Here's a circle snack to celebrate Pi Day!"
-
-**Faith Connection:**
-> "Isn't it amazing how God put circles all around us? In the sun that gives us light, in the flowers that make us smile, in the wheels that help us move. Every time you see a circle, remember how creative and amazing God is!"
-
-**Closing Prayer:**
-> "Thank you, God, for circles! Thank you for the round sun, the full moon, and all the beautiful circles in Your creation. Help us always to see Your design in the world. Happy Pi Day! Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Observed |
-|-------|----------|
-| Can identify circles | ☐ |
-| Knows circles have no corners | ☐ |
-| Found circles in nature/classroom | ☐ |
-| Created art using circles | ☐ |
-| Connected circles to God's creation | ☐ |
-
-### Success Criteria
-
-- Student can point to and identify circles
-
-- Student creates art with circle shapes
-
-- Student expresses wonder at circles in creation
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Pre-cut circle shapes to glue
-
-- Focus on identifying circles (less creating)
-
-- Trace circles with hand-over-hand help
-
-- Partner with buddy
-
-### For Advanced Learners
-
-- Count circles in their art
-
-- Compare circle sizes (big, medium, small)
-
-- Create a pattern with circles (AB, ABC)
-
-- Look for circles at home for homework
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**Simplified version:**
-1. Prayer about God's creation
-2. Go on a "circle hunt" around the room
-3. Color a circle picture
-4. Share what circles you found
-5. Closing prayer
-
-**Key message:**
-> "God put circles everywhere in creation — the sun, moon, flowers, eyes! Circles are special!"
-
----
-
-## 📖 Vocabulary
-
-| Word | Definition | Visual Cue |
-|------|------------|------------|
-| **Circle** | A round shape with no corners | ⭕ |
-| **Round** | Shaped like a ball or circle | Ball |
-| **Pi (π)** | A special number about circles | π symbol |
-| **Pattern** | When shapes repeat in order | Circle-circle-square |
-| **Sphere** | A 3D circle (like a ball) | Ball |
-
----
-
-## 📋 Circle Hunt Sheet
-
-```
-+---------------------------------------------------------+
-|                      CIRCLE HUNT!                       |
-|                 Name: ________________                  |
-|                                                         |
-|  Find circles in our classroom! Draw what you find:     |
-|                                                         |
-|  +-------------+  +-------------+  +-------------+      |
-|  |   Circle    |  |   Circle    |  |   Circle    |      |
-|  |     #1      |  |     #2      |  |     #3      |      |
-|  +-------------+  +-------------+  +-------------+      |
-|                                                         |
-|  Draw circles you see in NATURE:                        |
-|  +-----------------------------------------------+      |
-|  |                                               |      |
-|  |                                               |      |
-|  +-----------------------------------------------+      |
-|                                                         |
-|  God made circles everywhere!                           |
-+---------------------------------------------------------+
-```
-
----
-
-## 📎 Home Connection
-
-**Family Note:**
-> "Today we celebrated Pi Day (March 14 = 3.14) by exploring circles! We discovered that God put circles everywhere in creation — the sun, moon, flowers, eyes, and more. Your child made circle art and went on a circle hunt. This week, go on a circle hunt together at home or outside. How many circles can you find? Talk about how God's creation is full of beautiful patterns and shapes!"
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+We distinguished flat circles from solid spheres and designed patterns a partner could read. Ask: "What comes next in your pattern, and why?" Pi was optional adult context, not a memorization task. No homework.

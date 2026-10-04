@@ -1,174 +1,73 @@
 ---
 title: "Session 13: Easter New Life"
-description: "Kindergarten Bi-Weekly C-STREAM Easter celebration"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - life-science
-  - animals
-  - easter
-  - arts
+description: "Four biological stages and an explicit distinction between living change and Resurrection"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S3, CST-A1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 4
+materials: [Plain paper, Large life-cycle picture cards, Shared school crayon set]
 ---
 
 # Session 13: Easter New Life
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 13 of 17
-
-Students explore the miracle of transformation—caterpillars to butterflies—as a sign of Easter's message of new life and resurrection.
-
----
-
-# Session 13: Easter New Life
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand the butterfly life cycle as transformation
-
-- Connect metamorphosis to Easter's message
-
-- Create a butterfly life cycle craft
-
-- Celebrate new life in spring and in Jesus
-
----
-
-## Materials Needed
-
-- 📦 Butterfly life cycle pictures or models
-
-- 🐛 Pasta shapes (for life cycle craft): orzo=egg, rotini=caterpillar, shell=chrysalis, bow tie=butterfly
-
-- 🎨 Paper plates or cardstock
-
-- 🖍️ Crayons and markers
-
-- 📖 Book about butterflies or life cycle
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**The Risen Jesus** — Just as a caterpillar becomes a beautiful butterfly, Jesus rose to new life at Easter!
-
-### Scripture
-> *"I am the resurrection and the life."* — John 11:25
-
-### Opening Prayer
-*Dear Jesus, thank you for Easter! Thank you for showing us that there is always new life after endings. Help us see your new life all around us in spring. Alleluia! Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Easter Joy** — "What are we celebrating? EASTER!"
-2. **New Life Signs** — "What's new in spring?"
-   - Flowers blooming
-   - Baby animals
-   - Trees with leaves
-   - Butterflies!
-3. **Transformation Wonder** — "Did you know a caterpillar becomes a butterfly?"
-4. **Easter Connection** — "Just like Jesus died and rose to NEW life!"
-
-### Main Activity: Butterfly Life Cycle (14 minutes)
-
-**Part 1: Learn the Cycle (4 minutes)**
-
-- Show pictures/models of butterfly life cycle:
-  1. 🥚 Egg — tiny beginning
-  2. 🐛 Caterpillar — eating, growing
-  3. 🛖 Chrysalis — transformation, waiting
-  4. 🦋 Butterfly — new, beautiful life!
-
-- "The caterpillar doesn't stay a caterpillar forever!"
-
-**Part 2: Life Cycle Craft (8 minutes)**
-
-- Give each student a paper plate divided into 4 sections
-
-- Glue pasta to show each stage:
-  - Orzo = tiny egg
-  - Rotini = caterpillar
-  - Shell = chrysalis
-  - Bow tie = butterfly
-
-- Color and decorate each section
-
-- Draw arrows showing the cycle
-
-**Part 3: Easter Connection (2 minutes)**
-
-- "Jesus was like the butterfly!"
-
-- Good Friday = like the chrysalis (sad, dark, waiting)
-
-- Easter = like the butterfly (new life, joy, beauty!)
-
-### Wonder Journal (3 minutes)
-1. Draw a butterfly
-2. Add: "New life! Alleluia!"
-
-### Closing Circle (3 minutes)
-1. **Share Crafts** — Show life cycle plates
-2. **Alleluia** — Sing or say together: "Alleluia! Jesus is risen!"
-3. **Closing Prayer** — *"Jesus, thank you for new life! Help us share your Easter joy with everyone. Alleluia! Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified stages of butterfly life cycle
-
-- [ ] Connected transformation to Easter
-
-- [ ] Completed life cycle craft
-
-- [ ] Expressed Easter joy
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-glued sections with one pasta type ready
-
-- Focus on caterpillar → butterfly transformation
-
-- Simplified craft with drawing instead of pasta
-
-### For Advanced Students
-
-- Add details and labels to each stage
-
-- Retell the life cycle to a friend
-
-- Draw what they would look like as a butterfly
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Look for signs of new life in spring! Watch butterflies in your garden. Talk about how Easter is about new life. Read a book about butterflies together.
-
----
-
-## Teacher Notes
-
-- Perfect lesson for Easter week
-
-- Consider raising real caterpillars (butterfly kit)
-
-- Display life cycle crafts on "New Life" bulletin board
-
-- Coordinate with religion class Easter lessons
-
----
-
-**Previous:** [Session 12 — Animal Homes](./Session12_Animal_Homes.md)  
-**Next:** [Session 14 — Sound & Music](./Session14_Sound_Music.md)
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Life-cycle model / one 25-minute meeting |
+| Domains / big idea | C, S, A; a living insect changes stages, not through death/resurrection |
+| Objective / why | "I can order four stages and explain my picture's limits." Accurate models help us understand living things. |
+| Catholic connection | Easter Resurrection teaching and biological metamorphosis are distinct; a hope symbol is a classroom interpretation. |
+| Local standards | CST-C1: truthful distinction; CST-S3: cycle; CST-A1: visual model. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 15 minutes first pictures, 5 reset / 4 included |
+
+## Before class and quantities
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Draw each child's four >=5 cm cards: egg on leaf; segmented caterpillar;
+hanging pupa/chrysalis; adult butterfly. Prepare a large teacher set. The
+reverse can carry teacher labels; no pupil reading or printer required.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Student: four stage cards | 40 | 60 | 80 | 100 |
+| Student: model sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Teacher: additional stage cards | 4 | 4 | 4 | 4 |
+
+Teacher timer/roster. No pasta, paper plates, glue, live butterfly kit or release.
+
+## Vocabulary, background, sources and SAFETY
+
+Cycle = stages across generations; larva = caterpillar; pupa = living changing
+stage; model = representation. Key: egg -> caterpillar -> pupa -> adult;
+next-generation eggs come from adults, not an adult turning into an egg.
+[USDA monarch biology](https://www.fs.usda.gov/wildflowers/pollinators/Monarch_Butterfly/biology/index.shtml)
+supports the four stages. [CCC 638-645](https://www.vatican.va/archive/ENG0015/__P1S.HTM)
+supports the separate Catholic teaching, not a biological equivalence.
+Misconception: a chrysalis is dead/a tomb. If asked, state it is alive and
+changing. Use the actual school calendar, not a presumed Easter date.
+Large paper only, no specimens, food, tiny decorations or outdoor prerequisite.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Introduce living change and the faith/biology distinction.
+2. **4-8:** Model four-stage ordering and a limit: pictures are not actual insects.
+3. **8-17:** Each child orders cards, draws arrows and indicates one changed
+   feature; partner interprets. Teacher begins individual checks.
+4. **17-21:** Child independently shows four stages, a living change and a
+   model limit. Record prompts; craft completion is not the assessment.
+5. **21-25:** Save dated models, count four cards per child into envelopes and clear.
+
+## Success, questions, access and troubleshooting
+
+Check order, living change and clear representation/limit separately.
+Ask "What follows the caterpillar? Is this a real animal? Is the pupa alive?"
+Support: adjacent picture pairs, pointing and adult scribing.
+Challenge: explain next-generation arrows.
+No pictures: draw described stages on the board; child directs a model.
+Child equates biology and Resurrection: restate they are different processes;
+do not claim the experiment proves a belief. Fully indoors.
+**Family:** We ordered a living insect's stages and explained a model.
+Ask, "What does your picture show, and what does it not show?" No homework.

@@ -1,152 +1,69 @@
 ---
 title: "Session 01: Welcome to Wonder"
-description: "Kindergarten Bi-Weekly C-STREAM introduction session"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - astronomy
-  - service
-  - arts
+description: "Safe indoor noticing, a real question and a communicated observation"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-S1, CST-A1]
+technology: None
+prep_minutes: 5
+cleanup_minutes: 4
+materials: [Plain paper, Large observation picture cards, Shared school crayon set]
 ---
 
 # Session 01: Welcome to Wonder
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 1 of 17
+## Lesson at a glance
 
-Welcome to C-STREAM! This opening session introduces students to the wonder of exploring God's amazing world through their senses.
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Wonder / one 25-minute meeting |
+| Domains / big idea | C, S, A; careful observations can become questions |
+| Objective / why | "I can show a detail, ask a question and care for shared materials." Inquiry begins with noticing. |
+| Catholic connection | Wonder and stewardship are actions, not simply an opening prayer. |
+| Local standards | CST-C3: material care; CST-S1: detail/question; CST-A1: observation drawing. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / beginner / 5 minutes / 4 included |
 
----
+## Before class and exact materials
 
-# Session 01: Welcome to Wonder
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Draw three large nature cards per kit: a leaf with lines, a tree with branches,
+and a flower with petals. Drawings can be ordinary paper, no printing.
+Budget 5/8/10/13 kits; active pair/trio teams 5/7/10/12.
 
-## Learning Objectives
-By the end of this session, students will:
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: three large cards | 15 | 24 | 30 | 39 |
+| Student: half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
 
-- Understand that C-STREAM is about discovering God's world
+Teacher timer/roster and demonstration from one kit. No journal purchase required.
 
-- Use their five senses to notice things around them
+## Vocabulary, background and SAFETY
 
-- Practice the "I wonder..." phrase
+Observe = notice a detail; question = something to find out; model = picture,
+not the living thing; stewardship = careful care. Misconception: a guessed
+feature is an observation. Ask the child to point to it.
+If asked whether the drawing grows, explain it represents a living thing.
+Paper primary: no tasting, unknown specimens, close smelling, small rocks,
+sharp shells or required outdoor collection. Tactile drawings/read-aloud support access.
 
-- Feel excited about being explorers
+## Exact sequence: 25 minutes
 
----
+1. **0-4:** Introduce noticing and care; original school prayer optional.
+2. **4-8:** Model a visible line and "I wonder what it does"; distinguish picture
+   observation from a claim about a real specimen.
+3. **8-17:** Partners choose cards, notice details and each draw/indicate one.
+   Swap chooser/reporter roles; begin individual checks.
+4. **17-21:** Each child shows an actual detail, asks/selects one question and
+   demonstrates care by returning a shared card intact.
+5. **21-25:** Date/retain drawings, count three cards per kit, return crayons, clear.
 
-## Materials Needed
+## Success, questions, access and troubleshooting
 
-- 📦 Magnifying glasses (1 per pair)
+Assess detail, question, representation and material care, not enthusiasm or
+handwriting. Ask "What did you see? What do you wonder?"
+Support: two pictured choices and scribing. Challenge: compare two details.
+No prepared cards: teacher draws the three examples on the board; keep the
+same individual checks. All work is indoors, device-free and no home collection.
 
-- 🎨 Wonder Journal (paper folded in half)
-
-- 🖍️ Crayons
-
-- 🌿 Nature items: pinecone, leaf, rock, flower (or pictures)
-
-- ⭐ "I Wonder" poster
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Francis of Assisi** — He loved all of God's creation and saw wonder in every creature!
-
-### Scripture
-> *"God saw all that he had made, and it was very good."* — Genesis 1:31
-
-### Opening Prayer
-*Dear God, thank you for giving us eyes to see, ears to hear, hands to touch, a nose to smell, and a tongue to taste. Help us notice the wonderful world you made. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Welcome Song** — Sing to tune of "Twinkle Twinkle":
-   - *"Wonder, wonder, what do I see?*
-   - *God's amazing world for me!*
-   - *I can look and touch and hear,*
-   - *So many wonders everywhere!"*
-
-2. **Introduce C-STREAM**
-   - "This is our special time to discover and explore!"
-   - "We are going to be WONDER DETECTIVES"
-   - Show the "I Wonder..." poster
-
-### Main Activity: Five Senses Wonder Walk (12 minutes)
-1. **Introduce the Senses** (2 minutes)
-   - Point to eyes: "What do we see?"
-   - Point to ears: "What do we hear?"
-   - Touch hands: "What do we feel?"
-   - Point to nose: "What do we smell?"
-   
-2. **Wonder Stations** (10 minutes)
-   - Divide into pairs with magnifying glasses
-   - Visit 3-4 nature items around the room
-   - At each station: "I wonder..." (color, texture, smell)
-   - Teacher models: "I wonder why this leaf has lines?"
-
-### Wonder Journal (5 minutes)
-1. Give each child their folded paper "Wonder Journal"
-2. Draw ONE thing they noticed today
-3. Teacher writes their "I wonder..." sentence
-
-### Closing Circle (3 minutes)
-1. **Share** — 2-3 students share their wonder
-2. **Preview** — "Next time we'll explore more of God's amazing world!"
-3. **Closing Prayer** — "Thank you, God, for helping us wonder today. Amen."
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Used "I wonder..." phrase
-
-- [ ] Engaged with senses exploration
-
-- [ ] Drew in Wonder Journal
-
-- [ ] Participated in group activities
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pair with a buddy
-
-- Provide sentence frame: "I wonder about the ___"
-
-- Use pictures instead of writing
-
-### For Advanced Students
-
-- Write their own "I wonder" words
-
-- Find additional items to observe
-
-- Help others with their journals
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Take a "Wonder Walk" around your neighborhood. Use your five senses and find 5 things that make you say "Wow, God made that!"
-
----
-
-## Teacher Notes
-
-- Create the "I Wonder" poster to use all year
-
-- Start a class "Wonder Wall" where students can add questions
-
-- Take photos of students exploring for documentation
-
----
-
-**Next Session:** [Session 02 — God's Amazing World](./Session02_Gods_World.md)
+**Family:** We noticed and represented a detail and asked a question.
+Ask, "What could you point to?" Optional conversation only.

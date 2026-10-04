@@ -47,14 +47,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Catholic Social Teaching: Care for Others** — We are called to serve those in need. Engineers and inventors can create things that help people. Using our minds to help others is a way of serving God.
 
-### Scripture Connection
-> "Each of you should use whatever gift you have received to serve others."
-> — 1 Peter 4:10
+### Scripture reference
+1 Peter 4:10; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Giuseppe Moscati** — A Catholic doctor and scientist who used his knowledge to help sick people, especially the poor. He showed that we can use science to serve others.
 
 ---
@@ -84,7 +83,7 @@ Students will be able to:
 
 ### Service Challenge Introduction (8 min)
 **Present the scenario:**
-"A friend in a wheelchair can't reach items on high shelves. How can we design something to help?"
+"A classroom user asks for help moving a light paper object across a tabletop. What does this person want the tool to do?" Ask users about preferences; do not assume disability means helplessness or pretend to simulate their lived experience.
 
 **Empathy discussion:**
 
@@ -140,10 +139,10 @@ Students build their designs using available materials.
 
 - Encourage iteration: "What if you tried..."
 
-- Focus on function: "Will this help reach high things?"
+- Focus on the agreed tabletop function: "Will this move the light paper object toward the user?"
 
 ### Initial Testing (7 min)
-**Test designs** with a high shelf scenario.
+**Test designs** on a tabletop only: move a crumpled paper ball 20 cm toward the user without hands crossing the starting line. A user may choose not to try it; teacher can use a toy figure. Reserve the final 4 minutes of building time each meeting for cleanup/storage.
 
 **Testing questions:**
 
@@ -210,7 +209,10 @@ Students share designs with class:
 
 ---
 
-## 📎 Home Connection
+## SAFETY
+These are classroom models, not assistive devices approved for human use. No high shelves, overhead loads, climbing, lifting people, body restraints, blindfolds or sharp grabbing ends. Teacher precuts thick cardboard; pupils use blunt scissors only. Screen recycled materials and use light paper loads.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We were engineers for service! Your child designed something to help others. Ask them: 'Who were you trying to help?' 'How does your invention work?' 'What did you improve?' Talk about ways your family can help others with your skills and talents."
 
 ---

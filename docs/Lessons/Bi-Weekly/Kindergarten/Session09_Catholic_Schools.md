@@ -1,170 +1,80 @@
 ---
 title: "Session 09: Our Catholic School"
-description: "Kindergarten Bi-Weekly C-STREAM Catholic Schools Week celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - earth-science
-  - astronomy
-  - catholic-schools-week
-  - service
-  - arts
+description: "An inclusive community message with individual design evidence"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T3, CST-A3]
+technology: Optional
+prep_minutes: 5
+cleanup_minutes: 4
+scope: CORE
+materials: [Plain paper, Shared school crayon set]
 ---
 
 # Session 09: Our Catholic School
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 9 of 17
-
-Students celebrate Catholic Schools Week by exploring what makes their school special and creating a project showing gratitude for their school community.
-
----
-
-# Session 09: Our Catholic School
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Identify special things about their Catholic school
-
-- Show gratitude for teachers, helpers, and classmates
-
-- Create a community artwork
-
-- Understand that learning and faith go together
-
----
-
-## Materials Needed
-
-- 📸 Photos of school areas and people (optional)
-
-- 🎨 Large paper for class project
-
-- 🖍️ Crayons, markers
-
-- ❤️ Heart cutouts
-
-- 📦 School building blocks or LEGOs
-
-- 📋 "I Love My School Because..." sentence strips
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Elizabeth Ann Seton** — She started Catholic schools in America so children could learn about God!
-
-### Scripture
-> *"Train up a child in the way he should go."* — Proverbs 22:6
-
-### Opening Prayer
-*Dear God, thank you for our Catholic school where we learn about you and about your world. Bless our teachers, our friends, and everyone who helps us. Help us be grateful students. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Celebrate!** — "It's Catholic Schools Week!"
-2. **What's Special?** — "What do you love about our school?"
-   - We pray together
-   - We learn about Jesus
-   - We have kind teachers
-   - We help each other
-3. **St. Elizabeth Ann Seton** — "She started schools like ours!"
-4. **Today's Project** — "We're showing why we love our school!"
-
-### Main Activity: School Celebration Project (14 minutes)
-
-**Part 1: School Building (4 minutes)**
-
-- Small groups use blocks to build "Our School"
-
-- What rooms do we need? (Classroom, chapel, gym, office)
-
-- "Our school is a place for learning AND for God!"
-
-**Part 2: Community Hearts (7 minutes)**
-
-- Each student gets a heart cutout
-
-- Draw yourself OR someone you're thankful for at school
-
-- Teacher helps write: "I'm thankful for..."
-
-- Arrange hearts around a school drawing on mural paper
-
-**Part 3: Thank You Messages (3 minutes)**
-
-- Practice saying "Thank you, [name], for..."
-
-- Who should we thank at our school?
-
-### Wonder Journal (3 minutes)
-1. Draw your school
-2. Add: "I love my school because..."
-
-### Closing Circle (3 minutes)
-1. **Gallery View** — Admire the community mural
-2. **Thank You Prayer** — Name teachers, helpers, friends
-3. **Closing Prayer** — *"Thank you, God, for our wonderful school. Help us be kind, work hard, and love like Jesus. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Named special things about school
-
-- [ ] Contributed to community project
-
-- [ ] Expressed gratitude for school community
-
-- [ ] Participated in celebration
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-draw heart with their photo
-
-- Provide specific prompt: "Draw your teacher"
-
-- Pair with buddy for block building
-
-### For Advanced Students
-
-- Write thank you note to a staff member
-
-- Label parts of school drawing
-
-- List multiple things they're grateful for
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Talk about why your family chose a Catholic school. Draw a picture of your school together. Write a thank you note to your child's teacher!
-
----
-
-## Teacher Notes
-
-- Coordinate with school-wide Catholic Schools Week events
-
-- Display community mural in hallway
-
-- Consider inviting principal or priest to see student work
-
-- Great week for classroom helper visitors (parents, grandparents)
-
----
-
-**Previous:** [Session 08 — Winter Science](./Session08_Winter_Science.md)  
-**Next:** [Session 10 — Weather Wonder](./Session10_Weather_Wonder.md)
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Community communication / one 25-minute meeting |
+| Domains / big idea | C, T, A; a visual message can honor a contribution without exposing private information |
+| Objective / why | "I can explain a helpful school action and revise a message about it." Communication helps communities appreciate each other. |
+| Catholic connection | Every person's dignity and gifts matter; do not rank families or private religious practice. |
+| Local standards | CST-C2: respectful contribution; CST-T3: private-information/adult-help scenario; CST-A3: communication/revision. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | Optional approved photography; no device needed / beginner / 5 minutes / 4 included |
+
+## Before class and supplies
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Offer complete examples: teacher explains; custodian keeps space usable;
+librarian helps find books; classmates share a tool. Child chooses an action,
+not a private name/photo. Use actual school event dates, or ordinary community learning.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Student: drawing/message sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Teacher: two hypothetical sharing cards | 2 | 2 | 2 | 2 |
+
+Teacher timer/roster and class envelope/display space; pair with final trio.
+No block-school model, visitor, mural, biography or photo collection required.
+Draw a fictional-home-address icon and an anonymous shape-pattern card.
+Explain the meanings aloud; never use or ask for real personal details.
+
+## Vocabulary, background and SAFETY
+
+Community = people working/living together; contribution = helpful action;
+message = communicated idea; revise = clarify it.
+Misconception: only a visible job is valuable. Ask about an action and include
+many kinds of contribution. If asked about a saint's school history, use a
+verified school source later; the lesson does not assert an unverified biography.
+If asked about sharing, keep a person's home address private and ask a trusted
+school adult before public posting; an anonymous pattern is not personal information.
+School-approved paper/crayons; no public identities/images without consent.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Invite thanks for the school community and name a concrete helpful action.
+2. **4-8:** Model drawing that action; listener says what it means; add a clarifying detail.
+   Read the two hypothetical cards and model the private-address/adult-help choice.
+3. **8-17:** Each child draws/directs a message, partners interpret, then child
+   revises a feature or explanation. Rotate trio listening turns; begin checks.
+4. **17-21:** Child identifies an action, explains respectful meaning and the
+   change that helped another person understand, then chooses the private
+   hypothetical card and identifies the adult to ask before sharing.
+5. **21-25:** Share in neighboring pairs, retain evidence/display with permission,
+   return crayons and clear. No long whole-class queue.
+
+## Success, access, troubleshooting and family copy
+
+Check specific contribution, respectful message and communication revision,
+not excitement, handwriting or prayer participation.
+Record the individual private-information and adult-help choices separately;
+do not request a real address, name or photograph.
+Ask "What did this person do? What helped your listener understand?"
+Support: two pictured actions, pointing and scribing. Challenge: explain another
+person's contribution without assuming all people in that group act alike.
+No display space: keep individual sheets. No photo permission: use drawings.
+Fully indoors; no family purchase or home task.
+**Family:** We explained a helpful school action and clarified a message.
+Ask, "What detail made your message clear?" Optional conversation only.

@@ -128,12 +128,12 @@ Students will be able to:
 - "How does Easter give us hope?"
 
 ### Easter Engineering Challenges (27 min)
-**Choose or rotate through challenges:**
+**Choose one challenge**; the four options are not a 27-minute rotation. Use 22 minutes for one plan/build/test and 5 for cleanup.
 
 ---
 
 **Challenge 1: Egg Drop Protection (10 min)**
-**Design a container that protects an egg from a fall.**
+**Design a container that keeps a paper "egg" secure in a teacher-controlled 20 cm lowering test.** No raw egg or increasing-height drop.
 
 **Materials:** Cardboard, cotton, tape, straws, fabric scraps
 
@@ -148,7 +148,7 @@ Students will be able to:
 **Connection:**
 "The tomb couldn't contain Jesus! But our container protects new life."
 
-**Test:** Drop from increasing heights.
+**Test:** Teacher lowers the paper model into a tray from 20 cm; compare whether it stays inside packaging. No climbing or heavy drop.
 
 ---
 
@@ -173,13 +173,13 @@ Students will be able to:
 ---
 
 **Challenge 3: Spring Launcher (10 min)**
-**Build a device that launches a pompom "chick" into a nest.**
+**Optional rolling model:** Roll a paper ball along a low tabletop guide toward a cup target; no elastic/catapult launch.
 
 **Materials:** Popsicle sticks, rubber bands, spoon, tape, cup "nest"
 
 **Design:**
 
-- Create catapult or launcher
+- Create a low cardboard rolling guide, not a catapult or projectile launcher
 
 - Target: nest 3 feet away
 
@@ -202,7 +202,7 @@ Students will be able to:
 4. Butterfly
 
 **Connection:**
-"The caterpillar 'dies' and becomes something COMPLETELY NEW — like resurrection!"
+"The same living animal develops from caterpillar through pupa to butterfly. A butterfly can symbolize hope, but metamorphosis is not death or Resurrection."
 
 ---
 
@@ -238,3 +238,7 @@ Students will be able to:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / accuracy / indoor alternative
+
+No raw eggs, food, loose natural specimens, elastic launchers or increasing drops. Teacher cuts/checks recycled materials; use dry paper/clean clay at desks. Photos/paper substitute for unavailable spring nature. Plants/pupae are living, not biological examples of rising from death. Each child names the model criterion and one actual test observation; celebration alone is not mastery. Safe fixed-model limits override the older option materials that would suggest springs/rubber bands.

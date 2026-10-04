@@ -1,223 +1,110 @@
 ---
 title: "Week 10: Bridge Engineering"
-description: "Grades 3-4 advanced bridge design and analysis"
-version: "1.0"
-date: 2025-12-05
+description: "Test and improve a paper bridge using whole-number evidence"
+version: "2.0"
+date: 2026-10-04
 tags:
   - grades-3-4
   - year-a
   - engineering
-  - arts
 ---
 
-# 🌉 Week 10: Bridge Engineering
+# Week 10: Bridge Engineering
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher information |
 |---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **STREAM Focus** | E (Engineering), M (Math) |
+| Grade / unit / title | Grades 3-4 / Structures / Bridge Engineering |
+| Time | One meeting, **40 minutes**, including cleanup |
+| Meaningful domains | Catholic service, engineering, mathematics |
+| Big idea | Changing a bridge's shape can change the load it supports. A failed design gives information, not a judgment about its builder. |
+| Student objective | "I can test two versions fairly, count the load, and explain one change." |
+| Why | Engineers use evidence to make connections between places safer and more useful. This is a classroom model, not a bridge for people. |
+| Catholic connection | Design for people who need access; share materials and report failures honestly. Connecting communities is a service application, not proof of a theological metaphor. |
+| Local standards | **Local program codes, not official standards:** CST-C2 (name a user's access need); CST-E1 (state span/load criteria); CST-E2 (test/redesign); CST-M1 (measure/count); CST-M3 (whole-number difference). |
+| Technology | **None**; rulers are ordinary classroom tools. No calculators or efficiency ratios required. |
+| Difficulty / prerequisites | Moderate; count to 20, use a ruler with help, fold paper. Weeks 5-6 provide practice but are not required. |
+| Prep / cleanup | 15 minutes with ordinary supplies; 5 minutes in class |
 
----
+## Before class
 
-# Week 10: Bridge Engineering
+1. Make pairs; a final trio at odd enrollment. Place two equal-height closed books flat on each tray, with a **15 cm clear gap**. Use books at least 20 cm wide.
+2. Put paper, ruler, and 40 cm of tape in each tray. Stack two reserve sheets beside the teacher.
+3. Count **20 identical plastic counters** into a cup for each team. Test a flat paper span yourself; stop at 20 even if it survives.
+4. Board: `Version | counters held for 3 seconds | shape changed`. Draw two supports and a deck. Write the eight time boundaries below. No printing needed.
+5. Record teams and roles: folder/builder and tester/recorder; switch at redesign. The teacher checks gap measurements.
 
-## 🎯 Learning Objectives
+## Exact supplies
 
-### STEM Objectives
-Students will be able to:
-1. Identify and compare different bridge types
-2. Understand how forces (tension, compression) affect bridges
-3. Design and build a bridge meeting specifications
-4. Calculate efficiency ratios
+Tables budget **ceil(students / 2) kits**. With a final trio at odd enrollment, active teams are 5/7/10/12 for 10/15/20/25 pupils; the eighth/thirteenth kit is a spare. Timing allows the larger kit-budget count, not a demand for a child to work alone.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect bridge metaphors to faith (Jesus as bridge)
-2. Understand reconciliation as bridge-building
-3. Recognize the importance of connecting communities
+- **Per student:** 1 half-sheet evidence slip and 1 pencil.
+- **Per team:** 2 closed books, 2 sheets of ordinary letter paper, 1 ruler, 40 cm masking tape, 20 identical plastic counters, 1 cup, 1 tray.
+- **Whole class:** timer, board; 2 reserve paper sheets and 1 spare ruler.
+- **Teacher only:** scissors to precut tape; no sharp tool distributed.
 
----
+| Students | Teams | Books | Paper including 2 reserves | Tape | Counters | Cups / trays / team rulers | Half-sheet slips / pencils |
+|---:|---:|---:|---:|---:|---:|---:|---:|
+| 10 | 5 | 10 | 12 sheets | 2 m | 100 | 5 each | 10 each |
+| 15 | 8 | 16 | 18 sheets | 3.2 m | 160 | 8 each | 15 each |
+| 20 | 10 | 20 | 22 sheets | 4 m | 200 | 10 each | 20 each |
+| 25 | 13 | 26 | 28 sheets | 5.2 m | 260 | 13 each | 25 each |
 
-# Week 10: Bridge Engineering
+Counters, books, trays, cups and rulers are reusable. Paper and tape are consumable.
+If fewer counters are available, use the same **10-counter cap for every team** and label results "at least 10"; never mix sizes.
 
-## 🙏 Faith-Reason Integration
+## Vocabulary and teacher background
 
-### Catholic Teaching Connection
-**Jesus as Bridge** — Jesus reconciled humanity with God, bridging the gap caused by sin. In our lives, we're called to be bridge-builders too — connecting people, resolving conflicts, and bringing communities together.
+- **Span:** open distance between supports.
+- **Deck:** surface across the gap.
+- **Load:** objects placed on the deck.
+- **Criteria:** what a successful design must do.
+- **Redesign:** change a design using what a test showed.
 
-### Scripture Connection
-> "For there is one God and one mediator between God and mankind, the man Christ Jesus."
-> — 1 Timothy 2:5
+A fold changes how paper bends. Compare a flat sheet with a sheet folded lengthwise into an accordion; do not promise that every folded version will win. Here we test a beam-like paper bridge, not all four bridge types. Supports must stay still.
 
-### Saint Connection
-**St. John Nepomucene** — Patron saint of bridges. This priest was martyred on a bridge in Prague. Bridges throughout Europe bear his statue, reminding us that some things are worth standing firm for.
+**Common misconception:** "More counters always means a better design." Not if the span, counter size, or placement changed.
 
----
+**If a student asks:** "Why did it fall?" Answer: "The load bent or moved the paper or supports. Point to the first part that changed, then choose a shape change to test."
 
-## 📚 Materials Needed
+## SAFETY
 
-- Pictures of different bridge types
+Build on desks, over trays, with supports flat and low. No standing on furniture, throwing loads, heavy weights, or loading above 20 counters. Keep fingers out from beneath loaded paper. No coins, loose metal washers, or food. Never test a model with a person or pet.
 
-- Building materials: straws, tape, paper, craft sticks
+## Numbered lesson sequence: exactly 40 minutes
 
-- Weights for testing (pennies, small objects)
+1. **0-4: Need and purpose.** "Who might need a bridge to reach school or a clinic?" Offer a fictional map of a stream. Short original prayer: "God, help us use careful work to serve our neighbors." State the 15 cm gap and 20-counter cap.
+2. **4-8: Model the fair test.** Lay one flat sheet across the books, overlapping each support. Put counters **one at a time at the center**, wait 3 seconds after each. Count only the last load that stayed for 3 seconds. If collapse occurs on counter 7, record 6. Ask: "What must stay the same next time?" Answer sought: gap, paper amount, counters, placement and waiting time.
+3. **8-12: Plan.** Each student draws a first shape and predicts a whole-number load. Partners agree on one version. Use **one sheet per version**; tape allowance is 20 cm each. No tape to books or desk.
+4. **12-20: Build version 1.** Teams fold or roll one sheet, place it, and check the gap. "Where does the load push the paper?" Give a flat-sheet starter to a stuck team. Recording predictions does not require correct guesses.
+5. **20-25: Test version 1.** Tester places counters; recorder counts. Tests occur simultaneously at desks after the teacher's signal. Record last successful count and where bending started. If 20 holds, write **at least 20**, not "maximum 20."
+6. **25-31: Change and retest.** Swap roles. Use sheet 2; change **shape only**. Keep span and load method fixed. Test again. "Did the result support your prediction? What did you change?"
+7. **31-35: Individual evidence.** On the slip: draw the changed shape; write both counts; calculate the whole-number change. Example: 6 then 11 means **5 more**. A child may dictate while pointing to their table. Ask each child, not only the spokesperson: "What stayed the same?"
+8. **35-40: Explain, clean, exit.** Two teams share different outcomes. Explain that a failure is useful evidence. Students count counters into cups, remove tape, flatten paper for recycling where accepted, return rulers/books, and wipe dry trays. Teacher collects slips during cleanup and records missing evidence for follow-up.
 
-- Gap to span (12 inches between books/blocks)
+## What success looks like
 
-- Recording sheets
+Each child identifies a kept-same condition, records two actual load counts (or capped lower bounds), and explains a shape change with evidence. Grade 3 compares by addition/subtraction within 20; no mass-per-piece, decimal division, or efficiency ratio. Grade 4 also describes why a capped result cannot establish a maximum; optional equal-material comparisons use whole numbers only.
 
-- Calculators
+Quick score: **1** unsupported claim; **2** two counts with help but no fair-test explanation; **3** two counts, correct comparison, kept-same condition and redesign reason; **4** level 3 plus explains a limitation or proposes a fair repeat. A beautiful bridge alone is not mastery.
 
----
+## Troubleshooting: if things go wrong
 
-## 📝 Lesson Procedure (40 minutes)
+- **Immediate collapse:** record 0; show an accordion fold and test it. Do not erase the failed trial.
+- **Supports slide:** reset, mark their edges with pencil on scrap paper, repeat; label the earlier trial invalid.
+- **All bridges hold 20:** compare shapes, not unsupported claims about strength. Retest at the same cap if time remains.
+- **Not enough books:** use two identical stable low blocks per team, or share support trays between two neighboring teams; plan/build at each desk and stagger tests within the same test windows.
+- **Finished early:** repeat the same test and note whether the count agrees.
 
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Lord Jesus, You are the bridge between heaven and earth. Help us learn about bridges today and understand how to be bridge-builders in our own lives. Amen."
+## Support, challenge, indoor alternative
 
-**Hook:** Show images of famous bridges (Golden Gate, Brooklyn Bridge, London Bridge).
+**Support / Grade 3:** teacher models one accordion fold; use tally marks and oral explanation; partners stabilize materials, never the bridge during a test. Provide folded paper for fine-motor access without taking away the test decision.
 
-- "What do all bridges have in common?"
+**Challenge / Grade 4:** compare two trials of the same version and explain variation; do not introduce ratios as the expected task. A trio rotates builder, loader and recorder; every child completes evidence.
 
-- "Why do we need bridges?"
+**Indoor alternative:** this lesson is already indoor and independent of Minnesota weather.
 
-### Bridge Types & Forces (10 min)
-**Explore bridge types:**
+## Family snippet: this week in C-STREAM
 
-**1. Beam Bridge**
-
-- Simple flat span
-
-- Best for short distances
-
-- Example: Log across stream
-
-**2. Arch Bridge**
-
-- Curved shape pushes force outward
-
-- Very strong
-
-- Example: Roman aqueducts
-
-**3. Truss Bridge**
-
-- Uses triangles for strength
-
-- Efficient use of materials
-
-- Example: Railroad bridges
-
-**4. Suspension Bridge**
-
-- Cables hold up the deck
-
-- Best for long spans
-
-- Example: Golden Gate
-
-**Forces in bridges:**
-
-- **Compression** — Squeezing force (pushing together)
-
-- **Tension** — Stretching force (pulling apart)
-
-- "Bridges must handle both forces!"
-
-**Quick demo:** Show compression and tension with hands and a ruler.
-
-### Design Challenge (5 min)
-**Challenge specifications:**
-
-- Span a 12-inch gap
-
-- Hold as much weight as possible
-
-- Use only provided materials (straws, tape, paper OR craft sticks)
-
-- Limited to 20 pieces of primary material
-
-**Team planning:**
-
-- Which bridge type will you use?
-
-- Where will you put your strongest elements?
-
-- Sketch your design
-
-### Build Phase (12 min)
-**Teams build bridges.**
-
-**Teacher circulates:**
-
-- "What type of bridge are you building?"
-
-- "Where are the tension/compression forces?"
-
-- "How are you handling the load?"
-
-**Encourage:**
-
-- Use triangles for strength
-
-- Test early and modify
-
-- Consider where weight will be placed
-
-### Testing & Analysis (6 min)
-**Test each bridge:**
-
-- Place across gap
-
-- Add weights gradually (pennies work well)
-
-- Record maximum weight held
-
-**Calculate efficiency:**
-
-- Efficiency = Weight held ÷ Pieces used
-
-- "Which bridge was most efficient?"
-
-**Compare designs:**
-
-- What strategies worked best?
-
-- How did different bridge types perform?
-
-### Reflection & Closing (2 min)
-**Discussion:**
-
-- "What would you do differently?"
-
-- "How do bridge engineers test their designs?"
-
-**Faith Connection:** "Bridges connect what was separated. Jesus is our ultimate bridge — connecting us to God. But we're called to build bridges too: bridges of friendship, bridges of forgiveness, bridges of understanding. What bridge could YOU build this week?"
-
-**Closing Prayer:** "Jesus, our Bridge to the Father, help us be bridge-builders. When there's conflict, let us bring peace. When there's division, let us bring unity. Make us connectors of people and communities. Amen."
-
----
-
-## ✅ Assessment
-
-- Built bridge meeting span requirements
-
-- Applied understanding of bridge types
-
-- Tested and recorded results
-
-- Calculated efficiency ratio
-
-- Connected bridge concept to faith
-
----
-
-## 📎 Home Connection
-> "We were bridge engineers! Ask your child: 'What type of bridge did you build?' 'What forces did you have to consider?' 'What makes bridges strong?' Talk about how Jesus is the bridge between us and God, and how we can be bridge-builders in our relationships — connecting people and resolving conflicts."
-
----
-
-**Lesson Version:** 1.0 | **
+We tested and improved paper bridges with the same span and load method. Each child used whole-number evidence to explain a redesign. Our Catholic connection was designing access for neighbors and sharing resources responsibly. **Ask:** "What changed, and what stayed the same?" **Optional at home:** point out a bridge in a picture and discuss who it serves. No building supplies, devices, purchases, or homework required.

@@ -9,6 +9,15 @@ description: "Connecting C-STREAM lessons to the Catholic liturgical year"
 
 This guide helps you connect C-STREAM lessons to the Catholic liturgical year, deepening faith integration throughout the seasons.
 
+**October 2026 source/safety status:** Calendar dates, saint/patronage claims,
+quotations and Church interpretations are **VERIFICATION REQUIRED** against
+primary sources and the actual school-year calendar. These are optional
+symbolic connections, not scientific explanations of sacraments, miracles or
+Resurrection. Catholic scientists are not automatically canonized saints.
+Use [Local Standards](../Review/Local_Standards.md) and the shared source record.
+No flames, button cells, latex balloons or projectiles; no neodymium magnets in
+K. Indoor alternatives are required in unsafe Minnesota weather.
+
 ---
 
 ## 🗓️ Overview
@@ -151,7 +160,7 @@ The Catholic liturgical year provides a natural rhythm for faith-integrated lear
 | **Christmas** | Birth of Jesus | New creations, beginnings |
 | **Holy Family** | Family working together | Collaboration, teamwork |
 | **Epiphany** | Magi follow the star | Astronomy, navigation, programming paths |
-| **Baptism of the Lord** | Water, new life | Water properties, baptism science |
+| **Baptism of the Lord** | Water, new life | Water properties studied separately from sacramental teaching |
 
 ### Star of Wonder Unit (Perfect for Epiphany!)
 
@@ -280,7 +289,7 @@ Add these "Lenten limits" to engineering challenges:
 | **Good Shepherd** | Care and guidance | Robotics following, animal behavior |
 | **Earth Day (Apr 22)** | Care for creation | Environmental engineering |
 | **May** | Mary's month | Gardens, flowers, growth |
-| **Ascension** | Jesus returns to heaven | Rockets, flight, aerospace |
+| **Ascension** | Jesus returns to heaven | Unlaunched paper aerospace models; symbolism is not an explanation of Ascension |
 | **Pentecost** | Holy Spirit, gifts | Using our gifts, creativity |
 
 ### Easter/Spring Life Cycles Unit
@@ -299,7 +308,7 @@ Add these "Lenten limits" to engineering challenges:
 
 - Observe butterfly life cycle
 
-- Engineer egg protection devices (egg drop)
+- Design tabletop protective packaging; no egg throwing/dropping or food prerequisite
 
 - Build bird houses (caring for creation)
 

@@ -1,174 +1,74 @@
 ---
 title: "Session 10: Weather Wonder"
-description: "Kindergarten Bi-Weekly C-STREAM exploring weather"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - life-science
-  - earth-science
-  - astronomy
-  - arts
+description: "Two labeled weather records with honest observation and no required outdoor exposure"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-S1, CST-S3, CST-M2]
+technology: None
+prep_minutes: 5
+cleanup_minutes: 4
+materials: [Plain paper, Large weather symbol cards, Shared school crayon set]
 ---
 
 # Session 10: Weather Wonder
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 10 of 17
-
-Students observe and document weather, learning that God designed weather patterns that support life on Earth.
-
----
-
-# Session 10: Weather Wonder
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Identify different types of weather
-
-- Observe today's weather conditions
-
-- Create a weather chart
-
-- Understand that weather is part of God's design
-
----
-
-## Materials Needed
-
-- 📋 Large weather chart (sunny, cloudy, rainy, snowy, windy)
-
-- 🎨 Weather symbol cutouts
-
-- 🌡️ Thermometer (real or picture)
-
-- 📸 Photos of different weather types
-
-- 🖍️ Wonder Journals and crayons
-
-- 🎶 Weather songs/videos (optional)
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Scholastica** — Legend says she prayed and a big storm came so she could keep talking with her brother about God!
-
-### Scripture
-> *"He sends his command to the earth; his word runs swiftly. He spreads the snow like wool and scatters the frost like ashes."* — Psalm 147:15-16
-
-### Opening Prayer
-*Dear God, you made the sunshine and the rain, the snow and the wind. Thank you for weather that helps plants grow and gives us water. Keep us safe in all kinds of weather. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Look Outside** — "What's the weather like TODAY?"
-2. **Weather Types** — Show pictures
-   - ☀️ Sunny
-   - ☁️ Cloudy
-   - 🌧️ Rainy
-   - ❄️ Snowy
-   - 💨 Windy
-3. **Wonder Question** — "Why do we have different weather?"
-4. **God's Design** — "Weather helps plants grow, gives us water, and makes our world work!"
-
-### Main Activity: Weather Scientists (14 minutes)
-
-**Part 1: Weather Observation (4 minutes)**
-
-- Go to window or briefly step outside
-
-- Use senses: What do we see? Feel? Hear?
-
-- Is it warm or cold? Windy or calm?
-
-- Any clouds? What do they look like?
-
-**Part 2: Weather Chart (6 minutes)**
-
-- Create class weather chart together
-
-- Choose symbol for today's weather
-
-- Add to chart
-
-- "Real scientists keep weather records too!"
-
-**Part 3: Weather Movement (4 minutes)**
-
-- Act out weather with bodies:
-  - Sunshine: Stand tall, arms up like rays
-  - Rain: Fingers wiggling down
-  - Wind: Sway and whoosh
-  - Snow: Spin slowly, float down
-  - Storm: Big movements, thunder claps
-
-### Wonder Journal (3 minutes)
-1. Draw today's weather
-2. Draw your favorite weather
-
-### Closing Circle (3 minutes)
-1. **Prediction** — "What weather do you think we'll have next time?"
-2. **Gratitude** — "Thank you, God, for [today's weather] because..."
-3. **Closing Prayer** — *"God, thank you for all kinds of weather. Help us enjoy sunny days and rainy days, knowing you made them all. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified different weather types
-
-- [ ] Made weather observations
-
-- [ ] Contributed to weather chart
-
-- [ ] Connected weather to God's creation
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on 3 weather types (sunny, cloudy, rainy)
-
-- Provide weather symbols to point to
-
-- Pair with buddy for observations
-
-### For Advanced Students
-
-- Add more detail to weather chart (temperature, wind)
-
-- Compare weather to previous weeks
-
-- Predict tomorrow's weather
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Start a family weather journal! Each day, draw the weather. Look out the window each morning and talk about what you see. Compare weather throughout the week.
-
----
-
-## Teacher Notes
-
-- Start a classroom weather calendar if not already in use
-
-- Connect to daily calendar time
-
-- Great opportunity for weather-related books
-
-- Consider a class "weather reporter" job
-
----
-
-**Previous:** [Session 09 — Our Catholic School](./Session09_Catholic_Schools.md)  
-**Next:** [Session 11 — Growing Things](./Session11_Growing_Things.md)
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Weather evidence / one 25-minute meeting |
+| Domains / big idea | S, M; dated observations are different from forecasts and favorite-weather drawings |
+| Objective / why | "I can record sky conditions and compare two records." Weather records help us describe change without guessing. |
+| Catholic connection | Truthful inquiry and responsible care; no storm legend or claim that every condition is safe. |
+| Local standards | CST-S1: actual observation; CST-S3: weather representation; CST-M2: two-record comparison. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 5 minutes / 4 included |
+
+## Before class and quantities
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Choose an indoor sky view away from the Sun. Prepare mostly clear, partly
+cloudy and mostly covered symbols per kit. Bring a dated actual prior class/
+teacher sky record if available; label its observer and time.
+If absent, make records at minutes 0-4 and 17-21 today, with times; do not invent
+earlier weather. Budget 5/8/10/13 kits, active teams 5/7/10/12.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: three large sky symbols | 15 | 24 | 30 | 39 |
+| Student: two-row record sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+
+Teacher timer/roster and class record sheet. No thermometer, video or outside trip.
+
+## Vocabulary, background and SAFETY
+
+Weather = conditions at a place/time; observe = notice evidence; compare =
+identify alike/different; predict = expectation, not observation.
+Two records cannot establish a season or reliable forecast. Room temperature
+does not measure outdoor air. Misconception: sunny always means warm.
+If asked why records agree, say unchanged results are useful evidence.
+No outdoor exposure, Sun viewing, climbing to windows, spinning/storm movements
+or forced sensory task. Adult-described observations support access.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Observe/dictate actual sky condition; date/time today's first record
+   if there is no previous one. Distinguish a preferred picture from evidence.
+2. **4-8:** Model symbol choice and labeled observer/time; explain the two-record comparison.
+3. **8-17:** Each child represents today's sky, compares an existing actual prior
+   record when available, and explains a same/different feature. Begin checks.
+4. **17-21:** If using today's two-time route, observe/record again now.
+   Each child compares the labeled records and names what was actually observed.
+5. **21-25:** Save dated evidence/class records, collect symbols/crayons and clear.
+
+## Success, questions, access and troubleshooting
+
+Check actual-condition symbol, observation/prediction distinction and valid
+comparison; a preferred-weather drawing is not data.
+Ask "Who observed this? When? What is alike or different?"
+Support: two symbols, tactile cloud shapes, adult scribing/report with source
+label. Challenge: explain what the record cannot tell about tomorrow.
+No sky view/report: use a clearly invented **model-data** example and defer
+actual-weather evidence. Do not infer wind/temperature from a picture.
+The whole primary pathway stays indoors in Minnesota winter.
+**Family:** We compared two labeled observations, including no change.
+Ask, "What did your record show, and was it a prediction?" No routine homework.

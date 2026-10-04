@@ -60,7 +60,7 @@ Students will be able to:
 > — Genesis 2:15
 
 ### Saint Connection
-**St. Kateri Tekakwitha** — "Lily of the Mohawks," first Native American saint. She lived in harmony with nature and saw God in all creation. She reminds us of the sacred relationship between humans and Earth.
+**St. Kateri Tekakwitha** — A Catholic saint whose life can be studied with a verified biography. Do not infer her words, ecological practices or all Indigenous peoples' beliefs from her ancestry. Particular historical/biographical claims are **VERIFICATION REQUIRED**.
 
 ---
 
@@ -119,13 +119,8 @@ Students will be able to:
 
 **St. Kateri connection:**
 
-- Lived simply in harmony with nature
-
-- Saw God's presence in creation
-
-- Her people cared for the land
-
-- "We don't inherit the Earth — we borrow it"
+- Our stewardship application is a modern classroom reflection, not a sourced description of Kateri's ecology.
+- The earlier "borrow the Earth" saying is removed; it was not a verified quotation from Kateri.
 
 ### Laudato Si' Introduction (8 min)
 **Pope Francis' message:**
@@ -141,7 +136,7 @@ Students will be able to:
 - "The poor suffer most from environmental damage"
 
 **Read excerpt:**
-> "Each creature reflects something of God and has a message to convey to us." (LS 239)
+Paraphrase the creation-care theme using [Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html). The earlier quotation/paragraph pairing was not verified and is removed; no invented source number.
 
 **Discussion:**
 
@@ -224,11 +219,7 @@ Students will be able to:
 - Roles for team members
 
 ### Closing (2 min)
-**Homework:**
-
-- Research one sustainable city feature
-
-- Bring one recyclable building material
+**In-class preparation:** Teacher supplies clean cardboard/paper for everyone and two short source-checked feature cards. Home research/donations are optional, never a participation prerequisite.
 
 **Closing Prayer:**
 "Thank You, God, for calling us to care for Your creation. Help us design cities that honor You and protect the Earth. St. Kateri, pray for us! Amen."
@@ -319,9 +310,7 @@ Students will be able to:
 
 - Check what's available
 
-- Plan recyclable materials to bring
-
-- Assign who brings what
+- Plan materials from the school stock; no pupil supply assignments
 
 **Building schedule:**
 
@@ -541,3 +530,7 @@ Each student: "I will help the Earth by..."
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / model limits
+
+Dry paper/cardboard primary; no moldy recyclables, sharp metal, glass, planted moss, live electrical generators or drinking-water claims. Solar/green-roof/water features may be labeled nonworking models; do not claim measured resource savings without a test. For Grade 3 compare whole-number tokens in a hypothetical resource budget; Grade 4 explains tradeoffs with the same budget. Seven teams at 25 pupils share in pairs or a gallery, not seven five-minute presentations inside eighteen minutes. A fully specified resource budget and individual assessment still need P1 development.

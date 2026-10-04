@@ -57,7 +57,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**St. Teresa of Calcutta** — She saw needs others missed and designed solutions with love. "If you can't feed a hundred people, then feed just one."
+**Service connection:** Notice a specific need and respond with care. The unsourced attributed saying is removed; detailed saint biography **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace."* — 1 Peter 4:10
@@ -155,6 +155,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-C2 - distinguish user statement from stereotype; CST-E1 - criterion/constraint; CST-E2 - test-linked revision. Three justified ideas are sufficient; no 20-idea speed requirement. Private frustration interviews optional, fictional school-task brief permitted. Attributed saint quotation/biography **VERIFICATION REQUIRED** and not to be taught until sourced. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Practiced empathetic listening

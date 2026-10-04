@@ -1,234 +1,156 @@
 ---
 title: "Session 4: Forensic Science"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year B scientific investigation"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-b
-  - coding
-  - engineering
-  - arts
----
-
-
-# Session 4: Forensic Science 🔍
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 4 of 17
-
-Students learn forensic science techniques, applying scientific method to solve a classroom mystery through evidence analysis.
-
+description: "Fictional paper evidence, uncertainty, truth, and human dignity"
+version: "2.0"
+date: 2026-10-04
 ---
 
 # Session 4: Forensic Science
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
 
-- Apply scientific method to investigation
+| Field | Teacher reference |
+|---|---|
+| Grade / unit / title | Grades 5-6 / Investigation B / Forensic Science |
+| Time | One 45-minute meeting |
+| Domains | C, S, M; observational diagrams support reasoning |
+| Big idea | Evidence can support a limited explanation without proving identity, motive, or guilt. |
+| Student objective | I can compare paper observations, support a routing hypothesis, and state what I cannot conclude. |
+| Why | Investigators and citizens must avoid accusations based on weak or incomplete evidence. |
+| Catholic connection | Truthfulness, dignity, and protection of reputation; [Catechism 2476-2479](https://www.vatican.va/archive/ENG0015/__P8K.HTM), paraphrased. |
+| Local standards / evidence | CST-S1: individual observation/inference table; CST-M1: individual comparison of three stripe/tab counts; CST-C1: evidence-limited conclusion; CST-C2: explain why no person may be accused. |
+| Official benchmarks | VERIFICATION REQUIRED; four local codes, not official forensic standards. |
+| Technology | None. Magnifier optional and not necessary. |
+| Difficulty / prerequisites | Low-moderate; count to three, compare letters, distinguish "saw" from "think." No previous rotation required. |
+| Prep / cleanup | First packet 15 minutes; repeat 5-10 minutes; cleanup 4 included. No staged crime or mystery supplies. |
 
-- Analyze multiple types of evidence
+## BEFORE CLASS
 
-- Draw conclusions from evidence
+1. Use 4/5/7/9 teams of at most three. Keep teams seated with **all four paper cards**; no station crowding.
+2. Copy the four cards below exactly, one packet/team. The entire mystery, evidence, limitations, and teacher key are supplied. Board-copy works if printing unavailable.
+3. Say: "This is a fictional museum shipping puzzle, not a crime. No real student, teacher, or community member is a suspect."
+4. Prepare each student's four-row log: card / observation / inference / uncertainty. Do not collect fingerprints, handwriting, DNA, personal statements, or photos.
 
-- Understand the importance of truth in justice
+## MATERIALS
 
----
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Individual four-row log/exit, double-sided | 1 sheet/student | 10 | 15 | 20 | 25 |
+| Four evidence cards on 2 sheets | 1 packet/team | 8 sheets | 10 sheets | 14 sheets | 18 sheets |
+| Ruler | 1/team, optional for drawings; counts sufficient | 4 | 5 | 7 | 9 |
+| Timer; teacher key | 1 each/teacher | 1 | 1 | 1 | 1 |
+| Magnifier, optional | 1/team | 4 | 5 | 7 | 9 |
 
-# Session 4: Forensic Science
+No liquids, chemicals, powders, food, biological material, props, or real personal evidence.
 
-## Materials Needed
+## VOCABULARY
 
-- 🔬 Magnifying glasses
+**Observation:** directly recorded feature. **Inference:** explanation based on evidence. **Hypothesis:** possible explanation to check. **Compatible:** could fit, not necessarily unique. **Uncertainty:** what evidence cannot settle. **Dignity:** every person's inherent worth, independent of an accusation or mistake.
 
-- 🧪 Evidence samples (prepared ahead)
+## TEACHER BACKGROUND
 
-- 📝 Investigation logs
+This is an introductory evidence-comparison model, not professional identification. Pattern similarity does not uniquely identify a source, and a routing record is not proof of who physically moved an object. Teach incomplete/conflicting evidence instead of a dramatic guilty reveal.
 
-- 📓 Engineering journals
+**Common misconception:** one matching clue identifies a culprit.
 
-- 📸 Fingerprint materials (optional)
+**If asked, "Who did it?"** Answer: That is not our question, and these records cannot identify a person. We ask which route is best supported and what remains unknown.
 
----
+## SELF-CONTAINED FICTIONAL EVIDENCE PACKET
 
-## Catholic Integration
+### Card 1 - the question and routing chart
 
-### Saint Connection
-**St. Thomas More** — "I am the King's good servant, but God's first." He stood for truth even when it cost his life. Justice requires truth!
+At the fictional Paper Museum, a paper star display was packed for storage at 09:05. Its location has not been confirmed. Which bay was it **most likely routed toward**, based on this practice packet?
 
-### Scripture
-> *"You will know the truth, and the truth will set you free."* — John 8:32
+| Bay | Printed routing label | Number of vertical stripes | Tab letter |
+|---|---|---:|---|
+| A | R17 | 2 | A |
+| B | R17 | 3 | B |
+| C | R17 | 3 | C |
 
-### Opening Prayer
-*Dear God, you are the source of all truth. Help us seek truth carefully and honestly. May our investigations serve justice and honor your command to love truth. Amen.*
+All three bays share label R17: a label alone cannot decide the route.
 
----
+### Card 2 - packing drawing
 
-## Lesson Procedure
+An **invented diagram**, not a scene photo, records:
 
-### Opening Circle (6 minutes)
-1. **Forensic Science:**
-   - Using science to find truth
-   - Evidence tells a story
-   - Careful observation matters
-2. **Truth and Justice:**
-   - Catholic teaching: Truth is essential for justice
-   - St. Thomas More died for truth
-   - Scientists must be honest investigators
-3. **Scientific Method in Action:**
-   - Observe → Question → Hypothesize → Test → Conclude
-   - Evidence-based conclusions
-   - Admit what you don't know
+```text
+Display: paper star
+Label: R17
+Stripes: | | |       (three, not to scale)
+Tab: B
+Drawing time: 09:05
+```
 
-### Main Activity: Mystery Investigation (31 minutes)
+This diagram describes the package, not a person. A drawing could contain an error.
 
-**Part 1: The Mystery Setup (3 minutes)**
+### Card 3 - duplicate shipping log
 
-**Teacher-Prepared Mystery:**
-"Something happened in our classroom!" (Examples:)
+```text
+09:05 package R17 recorded for Bay B
+Log copied from the packing drawing by the museum's fictional system
+09:10 automatic status: "location confirmation unavailable"
+```
 
-- Missing classroom item
+The log and drawing share a source: they are **not two independent confirmations**. The log does not confirm arrival.
 
-- Mysterious message appeared
+### Card 4 - incomplete viewing record
 
-- Unknown substance found
+```text
+09:12 fictional observer recorded a box near the A/B corridor.
+The tab was hidden; the stripes were not visible.
+Observer could not read the label.
+No location-confirmation record is supplied.
+```
 
-- Classroom was "rearranged"
+This may describe a different box. It cannot prove or disprove Bay B routing.
 
-Multiple suspects (fictional characters or teacher personas)
-Each has alibis and potential motives
+### Teacher answer key - disclose only after analysis
 
-**Part 2: Evidence Station Rotation (20 minutes)**
+**Best-supported routing hypothesis: Bay B.** Card 2 matches its three stripes and B tab; Card 3 agrees but is copied, not independent. R17 alone also fits A/C; three stripes alone fit B/C. Card 4 is inconclusive. **Arrival, handler identity, motive, misconduct, and guilt are not established.** A student who correctly argues "B routing is supported, but actual location remains unknown" gives a stronger answer than "It is definitely in B." No chemical/fingerprint station or secret missing clue is needed.
 
-**Station A: Document Analysis (5 min)**
+## EXACT LESSON SEQUENCE
 
-- Examine handwriting samples
+1. **0-5 (5 min):** Introduce fictional non-crime puzzle and Catholic truth/dignity boundary. Model observation versus accusation.
+2. **5-12 (7 min):** Read Card 1; everyone counts stripes/tabs and identifies why R17 alone is insufficient.
+3. **12-20 (8 min):** Analyze Cards 2 and 3 for four minutes each. Each student records observation, inference, and uncertainty; point out shared source without giving final answer.
+4. **20-30 (10 min):** Read Card 4 (4 min); compare three bay hypotheses (6 min). Team recorder collects evidence, but each student keeps a personal log.
+5. **30-38 (8 min):** Neighboring teams exchange a 60-second explanation each; revise conclusion, then compare to teacher key. With nine teams, one three-team exchange uses the same time. No suspect vote.
+6. **38-41 (3 min):** Individual exit: best-supported route with two features, one uncertainty, and why accusing a person would violate truth/dignity.
+7. **41-45 (4 min):** Collect logs, store packets, tidy.
 
-- Compare to mystery note
+## QUESTIONS TO ASK STUDENTS
 
-- Look for distinctive features
+What did you actually observe? Which feature separates B from C? Are two copied records two independent witnesses? What would confirm arrival? How could an exaggerated conclusion harm a person's reputation?
 
-- Record observations
+## WHAT SUCCESS LOOKS LIKE
 
-**Station B: Substance Analysis (5 min)**
+Each student correctly compares all three stripe counts, identifies the B tab, cites two features supporting B routing, names unavailable arrival confirmation, and rejects identity/guilt claims. Grade 5 distinguishes observation/inference in two rows. Grade 6 additionally explains dependent sources and one alternative consistent with missing confirmation. Assessment values honest uncertainty, not guessing the teacher's "culprit."
 
-- Unknown powder/substance (safe materials)
+## IF THINGS GO WRONG
 
-- Perform simple tests:
-  - Color observation
-  - Texture analysis
-  - Water reaction
-  - Compare to knowns
+Students accuse a classmate: stop and restate fictional routing question; no role-play accusation. Teams disagree: ask which recorded feature supports each claim, not majority vote. Missing printing: draw chart and cards on board. Too easy: remove Card 3 and discuss how confidence changes; do not invent a person or powder test.
 
-- Record findings
+## SAFETY
 
-**Station C: Observation Evidence (5 min)**
+**Inert paper evidence only. No unknown powders or substances, real student fingerprints, handwriting identification, profiling, real suspects, or biological samples.** No touching/tasting/sniffing "evidence," crime-scene enactment, frightening media, or forensic-TV homework. No inference about character, race, disability, gender, faith, or honesty from a pattern. Protect truth and dignity explicitly.
 
-- Examine scene photos or recreation
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-- Look for details:
-  - What's out of place?
-  - What clues are visible?
-  - What patterns exist?
+Grade 5: read cards aloud; use "I observed / I infer / I don't know" frames and enlarged symbols. Challenge: explain why three stripes do not uniquely select B. Grade 6: same cards; challenge identify shared-source dependence and design a nonpersonal confirmation record. Accept oral/drawn individual exits with identical evidence requirements.
 
-- Record observations
+## INDOOR FALLBACK
 
-**Station D: Interview Analysis (5 min)**
+Primary lesson is wholly indoors and device-free; no weather, laboratory, or staged-scene dependency.
 
-- Read witness statements
+## CLEANUP
 
-- Look for:
-  - Contradictions
-  - Missing information
-  - Suspicious details
+Return/count the two-sheet packets and rulers; keep individual logs. Recycle duplicates; there is no chemical or biometric storage.
 
-- Record analysis
+## FAMILY NEWSLETTER
 
-**Part 3: Team Analysis (5 minutes)**
+**Explored:** careful evidence reasoning. **Did:** compared fictional paper routing records, not crimes or people. **Learned:** a supported route is not proof of arrival or guilt. **Catholic connection:** truth and every person's dignity/reputation. **Ask:** "Which part of the puzzle remained uncertain?" No routine homework; optional conversation only.
 
-- Teams compile evidence
+**Previous:** [Session 3 - Architecture](./Session03_Architecture.md)
 
-- Discuss findings
-
-- Form hypothesis about what happened
-
-- Identify gaps in knowledge
-
-**Part 4: Case Presentation (3 minutes)**
-
-- Present conclusions
-
-- Cite specific evidence
-
-- Acknowledge uncertainties
-
-- Reveal solution!
-
-### Engineering Journal (5 minutes)
-1. Evidence summary from each station
-2. Your hypothesis: ___
-3. Evidence that supports it: ___
-4. Evidence that doesn't fit: ___
-5. Write: "Truth in science matters because..."
-
-### Closing Circle (3 minutes)
-1. **Process Reflection** — "What was hardest about investigating?"
-2. **Truth Connection** — "Why is honest investigation important?"
-3. **Closing Prayer** — *"God of truth, help us always seek what is true and honest. Guide us to use our minds for justice. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Careful observation at stations
-
-- [ ] Evidence-based reasoning
-
-- [ ] Appropriate conclusions
-
-- [ ] Understood truth's importance
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simplified evidence
-
-- Partner work
-
-- Guided observation sheets
-
-### For Advanced Students
-
-- Additional complexity in evidence
-
-- Lead team analysis
-
-- Design own mystery for peers
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Family mystery night! Create a simple mystery to solve together. Watch forensic science shows critically (what's real vs. TV drama?). Discuss: Why is truth important for justice?
-
----
-
-## Teacher Notes
-
-- Prepare mystery and evidence beforehand
-
-- Ensure all evidence is age-appropriate
-
-- Solution should be fair and discoverable
-
-- Connect to real forensic science careers
-
----
-
-**Previous:** [Session 3 — Architecture](./Session03_Architecture.md)  
-**Next:** [Session 5 — Scratch Games](./Session05_Scratch_Games.md)
+**Next:** [Session 5 - Scratch Games](./Session05_Scratch_Games.md)

@@ -1,144 +1,59 @@
 ---
 title: "C-STREAM Quick Start Guide"
-description: "Get started with C-STREAM in your first two weeks"
+description: "Start with confirmed supplies, native periods and individual learning"
 ---
 
-# 🚀 C-STREAM Quick Start Guide
+# C-STREAM quick start guide
 
-**Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
+**October 2026.** C = Catholic identity; S = science; T = technology; R =
+religion/faith integration; E = engineering; A = arts **including music**;
+M = mathematics. Catholic purpose shapes choices, not only opening prayer.
+Art involves observation, composition, form, pattern or communication, not
+just decoration/digital tools.
 
-**Welcome to C-STREAM!** This one-page guide will get you teaching in your first two weeks with minimal prep. Follow the steps below in order.
+## Before the first meeting
 
----
+1. Confirm weekly/bi-weekly schedule and A/B rotation with the school.
+   Use the [lesson index](../C-STREAM_Lesson_Index.md); do not assume the same
+   Week 1 filename or commercial-kit schedule for every band.
+2. Read the actual lesson objective, background, vocabulary, safety, individual
+   check and timed sequence. Use the [common lesson format](../Templates/Lesson_Plan_Template.md).
+3. Confirm supplies and location with [inventory checklist](./Materials_Inventory_Checklist.md).
+   Default 10/15/20/25 pupils = 4/5/7/9 teams <=3. School provides required supplies.
+4. Perform the teacher pretest and count trays. Have the
+   [substitute fallback](./Substitute_Teacher_Guide.md) ready.
+5. Prepare [family copy](./Weekly_Parent_Sheet_Template.md). No routine homework.
 
-## ⏱️ Before Your First Day (30 minutes)
+| Grade | Native period | Protect inside this time |
+|---|---:|---|
+| K | 25 minutes | Oral modeling, each child's action/evidence, 3-minute cleanup |
+| 1-2 | 30 minutes | Hands-on turns/test/redesign, individual check, 3-minute cleanup |
+| 3-4 | 40 minutes | Evidence-based testing/redesign, individual check, 3-minute cleanup |
+| 5-6 | 45 minutes | Reasoning/tradeoffs, individual check, 4-minute cleanup |
 
-### Step 1: Know Your Time Blocks
-| Grade Level | Session Length |
-|-------------|----------------|
-| Kindergarten | 25 minutes |
-| Grades 1-2 | 30 minutes |
-| Grades 3-4 | 40 minutes |
-| Grades 5-6 | 45 minutes |
+## Your first two weeks
 
-### Step 2: Gather Basic Supplies
+Start with a completed band lesson, not a generic untimed welcome sequence.
+Model "notice -> try -> tell"; [nonreader card](../Student_Resources/Show_Try_Tell_Card.md).
+State "Today I can..." and give every child a turn to show the objective.
+Next meeting, use observation/design/measurement appropriate to prerequisites.
+Failure in engineering is information, not failure of a student.
 
-These items are needed for Week 1 across all grades:
+If a source question arises, say "We need to check that" and record
+**VERIFICATION REQUIRED**. The [Catholic heritage guide](./Catholic_Scientists_Heritage.md)
+is background for source checking, not a mandatory biography every lesson.
+No internet image search, unlicensed image or unverified quotation is needed.
 
+## If conditions change
 
-- [ ] Chart paper or whiteboard
+- Time short: stop new construction; keep individual evidence and cleanup.
+- Kit absent: use the named safe fallback, recording any objective change.
+- Devices absent: unplugged concepts still work; real programming/robot
+  execution evidence must be deferred, not claimed from drawings.
+- Unsafe materials/weather: stop and use a seated indoor task; notify the
+  responsible school adult if safety needs escalation.
 
-- [ ] Markers/crayons (class set)
-
-- [ ] Plain paper or student journals
-
-- [ ] STREAM letter cards or poster (print from [Templates](../Templates/README.md))
-
-- [ ] Picture of Gregor Mendel (Google Images works!)
-
-### Step 3: Find Your Week 1 Lesson
-| Your Grade | Go To |
-|------------|-------|
-| Kindergarten | [Lessons/Kindergarten/Week01](../Lessons/Kindergarten/Week01_Welcome_to_CSTREAM.md) |
-| Grades 1-2 | [Lessons/Grades_1-2_YearA/Week01](../Lessons/Grades_1-2_YearA/Week01_Welcome_to_CSTREAM.md) |
-| Grades 3-4 | [Lessons/Grades_3-4_YearA/Week01](../Lessons/Grades_3-4_YearA/Week01_Welcome_to_CSTREAM.md) |
-| Grades 5-6 | [Lessons/Grades_5-6_YearA/Week01](../Lessons/Grades_5-6_YearA/Week01_Welcome_to_CSTREAM.md) |
-
-> 💡 **Year A or Year B?** Check with your school. Year A and B alternate each year so students don't repeat content.
-
----
-
-## 📅 Week 1: Welcome to C-STREAM
-
-### Your One Goal This Week
-**Introduce C-STREAM and spark wonder.** That's it! Don't worry about mastering everything.
-
-### Simple Lesson Flow (All Grades)
-1. **Opening Prayer** (2-3 min) — Thank God for curious minds
-2. **What is C-STREAM?** (5-8 min) — Go through each letter together
-3. **Meet a Catholic Scientist** (5 min) — Share Gregor Mendel's story
-4. **Wonder Question** (5-8 min) — "What do you wonder about?"
-5. **Goal Setting** (5-8 min) — Students draw/write one learning goal
-6. **Closing Prayer** (2 min) — Ask God to help us learn
-
-### What Success Looks Like
-✅ Students can name what C-STREAM stands for  
-✅ Students shared at least one "wonder question"  
-✅ You finished on time (close enough counts!)
-
----
-
-## 📅 Week 2: First Hands-On Activity
-
-### Before Week 2
-
-- [ ] Read your Week 2 lesson (or Week 2-3 if it's a multi-week unit)
-
-- [ ] Check if CSCOE materials are needed — reserve 2 weeks ahead!
-
-- [ ] Gather materials listed in the lesson
-
-### Week 2 Tips
-
-- **Let them struggle a little** — Productive struggle builds problem-solving skills
-
-- **Use the Engineering Design Process** — Ask, Imagine, Plan, Create, Test, Improve
-
-- **Connect to faith naturally** — "What does this teach us about God's creation?"
-
----
-
-## 🆘 Quick Troubleshooting
-
-| Problem | Solution |
-|---------|----------|
-| Lesson running long | Skip to closing prayer; finish next week |
-| Lesson too short | Add sharing time: "Tell a partner what you learned" |
-| Kids too excited/noisy | Channel energy: "Show me your thinking with your hands" |
-| Missing materials | Improvise! Paper and pencils can substitute for many activities |
-| Technology not working | Have a backup: draw designs on paper instead |
-
----
-
-## 📚 Essential Resources
-
-| Resource | What It's For |
-|----------|---------------|
-| [Year Planner](../C-STREAM_Year_Planner.md) | See the whole year at a glance |
-| [CSCOE Library Guide](./CSCOE_Library_Planning_Guide.md) | Reserve robotics & kits (2-week lead time!) |
-| [Sub Plans](./Substitute_Teacher_Guide.md) | Emergency no-prep lessons |
-| [Parent Sheets](./Weekly_Parent_Sheet_Template.md) | Send home with students |
-| [Catholic Scientists](./Catholic_Scientists_Heritage.md) | Profiles for every lesson |
-
----
-
-## ✝️ Remember Why We Do This
-
-> "Science and faith are complementary – the beautiful harmony of faith and reason so students can be a light in the secular world."
-
-C-STREAM isn't about being a perfect STEM teacher. It's about:
-
-- **Sparking wonder** at God's creation
-
-- **Building confidence** through hands-on learning
-
-- **Connecting faith and reason** naturally
-
-- **Serving others** through what we create
-
-You've got this! 🌟
-
----
-
-## 📞 Need Help?
-
-
-- **Framework Questions:** See [CONTRIBUTING.md](../CONTRIBUTING.md) or open a GitHub issue
-
-- **CSCOE Materials:** [cscoe.myturn.com/library](https://cscoe.myturn.com/library/)
-
-- **Lesson Ideas:** Check the [Lesson Index](../C-STREAM_Lesson_Index.md)
-
----
-
-*Last updated: December 2025*
+Next links: [materials plan](../Review/Materials_Plan.md),
+[technology plan](../Review/Technology_Plan.md),
+[assessment](./Student_Progress_Tracker.md), [FAQ](./FAQ_Troubleshooting.md),
+[differentiation](./Differentiation_Guide.md), [templates](../Templates/README.md).

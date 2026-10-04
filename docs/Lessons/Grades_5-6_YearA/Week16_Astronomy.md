@@ -54,7 +54,7 @@ Students will be able to:
 > — Psalm 19:1
 
 ### Saint Connection
-**Fr. Georges Lemaître** — Belgian priest and physicist who proposed the Big Bang theory. He saw no conflict between his faith and his groundbreaking cosmological research. "There is no conflict between science and religion."
+**Fr. Georges Lemaitre** - priest and physicist associated with expanding-universe cosmology. Detailed biography: **VERIFICATION REQUIRED**; the previously unsourced quotation is removed.
 
 ---
 
@@ -94,23 +94,9 @@ Students will be able to:
 ### Scale of the Solar System (12 min)
 **Scale model activity:**
 
-**If the Sun were a beach ball (30 cm):**
+**Distance-only indoor scale: 1 AU = 10 cm.** Earth is 10 cm from the Sun marker; 1 AU is about 150 million km ([NASA Earth facts](https://science.nasa.gov/earth/facts/)). Thus 1 model cm represents about 15 million km. Planet marker sizes are **not** to this scale. Have each student place Earth and calculate a hypothetical 2 AU location (20 cm); do not mix planet-size objects with incompatible distances.
 
-- Mercury: Pinhead, 12 meters away
-
-- Venus: Pea, 22 meters away
-
-- Earth: Pea, 30 meters away
-
-- Mars: Pinhead, 46 meters away
-
-- Jupiter: Golf ball, 156 meters away
-
-- Saturn: Marble, 286 meters away
-
-- Uranus: Pea, 575 meters away
-
-- Neptune: Pea, 900 meters away
+Optional eight-planet extension: obtain current mean distances from [NASA's planetary fact sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/), record units, convert consistently, and teacher-check before use. **VERIFICATION REQUIRED** for that extension's values.
 
 **Key insight:** "Space is mostly EMPTY. The planets are tiny compared to the distances."
 
@@ -133,7 +119,7 @@ Students will be able to:
 
 **Milky Way Galaxy:**
 
-- Our solar system is ONE of 200-400 billion star systems
+- The Milky Way contains an estimated hundreds of billions of stars; stars and star systems are not interchangeable counts.
 
 - Takes 230 million years for Sun to orbit galaxy center
 
@@ -178,9 +164,7 @@ Students will be able to:
 
 - Later called "Big Bang" by others
 
-- Showed initial singularity → expansion
-
-- Einstein initially disagreed, later called Lemaître's work "the most beautiful and satisfying explanation of creation I have ever heard"
+- Scientific models describe expansion and early cosmic conditions; they do not by themselves establish a theological creation event. The unsupported Einstein quotation is removed.
 
 **No conflict!**
 
@@ -222,6 +206,12 @@ Write a response to this prompt: "What does the scale of the universe tell you a
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S3 - distinguish distance and size scales; CST-M3 - individual 1 AU/2 AU conversion; CST-C1 - distinguish a scientific model from a theological claim. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+All scale work is indoors; do not require a 900 m outdoor course or nighttime exposure. Never observe the Sun through optical equipment. Home stargazing is optional and adult-supervised; no routine homework.
 
 - Demonstrated understanding of solar system scale
 

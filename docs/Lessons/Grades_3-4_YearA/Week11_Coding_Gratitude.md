@@ -91,7 +91,9 @@ Students will be able to:
 ### Project Introduction (5 min)
 **Today's project:** Create a "Gratitude Animation" in Scratch
 
-**Project requirements:**
+**Prerequisite check and primary project:** Scratch is formally taught later in this weekly track. During this five-minute introduction, show a sprite and `when green flag clicked -> say [Thank you] for 2 seconds`. Novices create one sprite/message; three sprites, broadcasts and sound below are **optional extensions**, not universal requirements. Allow paper storyboard work if devices fail; it demonstrates communication/sequence planning, not executed Scratch code.
+
+**Extension requirements:**
 
 - At least 3 things you're thankful for
 
@@ -153,7 +155,7 @@ Students will be able to:
 
 - "What blessing is most meaningful to you?"
 
-**Faith Connection:** "When we express gratitude — through prayer, words, OR code — we train our hearts to see God's goodness. St. Ignatius said gratitude is the foundation of joy. Keep noticing your blessings!"
+**Faith Connection:** Express gratitude in words, prayer or artwork. The earlier joy saying attributed to St. Ignatius has been removed as unverified; details about the Examen require a sourced teacher card, **VERIFICATION REQUIRED**.
 
 **Closing Prayer:** "Thank You, God, for the blessings we named today. Thank You for [students call out blessings]. Help us be thankful every day, in all circumstances. Amen."
 
@@ -161,13 +163,17 @@ Students will be able to:
 
 ## ✅ Assessment
 
-- Created Scratch project with gratitude theme
+- Created a gratitude message and explained its sequence; record actual Scratch operation separately from paper planning
 
-- Used multiple sprites and broadcasts
+- Used multiple sprites/broadcasts only if ready for the extension
 
 - Included sound elements
 
-- Expressed genuine gratitude for specific blessings
+- Explained a specific respectful message; do not score a child's feelings or disclosure of private blessings
+
+## Privacy and cleanup
+
+Use guest/offline files, not public uploads or shared credentials. Keep names/photos/voices private unless school-approved. Reserve the final 3 minutes of creation for local saving, stop programs and return devices. Home exploration is optional, never expected access to a device.
 
 ---
 

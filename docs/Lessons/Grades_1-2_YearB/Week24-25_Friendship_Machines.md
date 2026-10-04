@@ -47,14 +47,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Ripple Effect of Love** — One act of kindness leads to another. Just like a chain reaction machine where one action triggers the next, our kindness creates ripples that spread far beyond what we see.
 
-### Scripture Connection
-> "A generous person will prosper; whoever refreshes others will be refreshed."
-> — Proverbs 11:25
+### Scripture reference
+Proverbs 11:25; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Thérèse of Lisieux** — Her "Little Way" teaches that small acts of love add up to great things. Each tiny kindness is like a domino that starts a chain reaction of good!
 
 ---
@@ -113,7 +112,7 @@ Students will be able to:
 
 - "YOU smile at someone → THEY feel happy → THEY'RE kind to someone else → and on and on!"
 
-- "St. Thérèse called these 'little flowers' of love"
+- This is a teacher kindness metaphor, not a verified saying of Therese. Kindness does not mechanically guarantee another person's response.
 
 ### Simple Chain Experiments (12 min)
 **Experiment 1: Domino Lines**
@@ -266,7 +265,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / evidence / cleanup
+Use large balls that cannot fit in a child's mouth, low tabletop ramps, catch boxes and dominoes; no projectiles, marbles, human loads or loud bells near ears. Teacher screens tubes/edges. Default ending: gently tip a paper kindness flag. Grade 1 orally explains two causal steps; Grade 2 shows three steps and a failed-link revision. Last 4 making minutes each meeting are cleanup. **Technology: Optional primary path** for a teacher-selected offline image/video; physical model works without screens.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We built Friendship Machines — chain reaction contraptions with kind purposes! Ask your child: 'How does a chain reaction work?' 'What did your machine do?' We learned that kindness creates chain reactions too. Challenge: Do an intentional act of kindness together and watch for the ripple effect!"
 
 ---

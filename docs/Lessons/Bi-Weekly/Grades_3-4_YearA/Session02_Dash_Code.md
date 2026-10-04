@@ -1,216 +1,102 @@
 ---
 title: "Session 2: Dash & Code"
-description: "Grades 3-4 Bi-Weekly C-STREAM Year A robotics introduction"
-version: "1.0"
-date: 2025-12-05
+description: "A measured two-segment route with device and paper evidence kept separate"
+version: "2.0"
+date: 2026-10-04
 tags:
   - grades-3-4
   - bi-weekly
   - year-a
   - robotics
   - coding
-  - engineering
-  - light
-  - arts
----
-
-
-# Session 2: Dash & Code 🤖
-
-## Overview
-**Grades:** 3-4 | **Duration:** 40 minutes | **Session:** 2 of 17
-
-Students meet Dash robots and learn the basics of programming through block-based coding.
-
 ---
 
 # Session 2: Dash & Code
 
-## Learning Objectives
-By the end of this session, students will:
+## Lesson at a glance
 
-- Understand what robots are and how they follow instructions
+| Field | Teacher information |
+|---|---|
+| Grade / unit / title | Grades 3-4 / Computing / Dash & Code |
+| Time | **One 40-minute meeting**, including cleanup |
+| Domains | Catholic inclusion, technology/computing, measurement |
+| Big idea | Precise sequences need testing; real movement can differ from a paper model. |
+| Student objective | "I can predict an L-shaped route, test it, and explain a correction." |
+| Why | Programming is giving testable instructions, not remote-control play. |
+| Catholic connection | St. Carlo Acutis inspires responsible use of skills in service; partners share meaningful turns. Canonization verified in the [Vatican homily, September 7, 2025](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). No invented quotation. |
+| Local standards | **Local, not official:** CST-C2 (inclusive roles); CST-T1 (input/output and troubleshooting); CST-T2 (sequence/debug); CST-M1 (distance comparison). |
+| Technology | **Required primary:** 2 Dash robots and 2 compatible tablets with **Blockly**, not assumed Wonder/Blockly interchangeability. Robots enable executable movement testing. Paper fallback evidences CT only, not robot operation or sensors. |
+| Difficulty / prerequisites | Moderate; arrows, left/right and whole-number centimeters. No previous Dash use assumed; Session 1 design practice helpful. |
+| Prep / cleanup | 20 minutes with already charged/paired equipment; first installation/charging additional advance work. 5 minutes in class. |
 
-- Navigate the Wonder Workshop app interface
+## Before class
 
-- Program Dash to move and respond
+1. Check loan availability; do not assume CSCOE stock. Confirm tablet/model compatibility with [Wonder Workshop Blockly](https://www.makewonder.com/en/apps/blockly/). Exact installed block labels are **VERIFICATION REQUIRED**; test the sequence before pupils arrive.
+2. Charge in advance, label two pairs, connect Blockly to Dash. Test **drive forward 20 cm; turn right 90 degrees; drive forward 20 cm**, at the app's low-speed setting, then stop. This is an L, not a square. No sensor blocks required.
+3. Mark two **1 m square** floor areas away from doors/stairs, each with start/direction and a soft cardboard boundary. Do not make pupils walk through a maze.
+4. Pair pupils, final trio if odd. Assign teams to seven one-minute testing rounds at most (two teams per round); all other work occurs at desks.
+5. Board: `predicted path | actual endpoint | one correction`. Draw a 4 by 4 grid for paper work. No printer required.
 
-- Debug programs that don't work correctly
+## Exact supplies
 
----
+Tables budget ceil(students / 2) kits. A final trio gives **5/7/10/12 active teams** at 10/15/20/25 pupils; unused eighth/thirteenth paper kit is spare. Seven testing rounds cover up to thirteen teams, more than the twelve needed with a trio.
 
-# Session 2: Dash & Code
+- **Per student:** pencil and 1 evidence half-sheet.
+- **Per team:** 2 paper sheets (grid/record), ruler, paper token, 6 command cards hand-drawn on the sheets.
+- **Class:** 2 robots, 2 tablets, 2 chargers, 2 soft boundary sets, timer, 4 m floor-safe tape.
+- **Teacher:** kit instructions, stop control, charge access. No child plug handling.
 
-## Materials Needed
+| Students | Teams / rulers / tokens | Team paper | Cards | Evidence slips / pencils | Robots / tablets / chargers |
+|---:|---:|---:|---:|---:|---:|
+| 10 | 5 each | 10 sheets | 30 | 10 each | 2 each |
+| 15 | 8 each | 16 sheets | 48 | 15 each | 2 each |
+| 20 | 10 each | 20 sheets | 60 | 20 each | 2 each |
+| 25 | 13 each | 26 sheets | 78 | 25 each | 2 each |
 
-- 🤖 Dash Robots (from CSCOE library)
+Devices/rulers/cards/tokens reusable. Paper/tape consumable. One robot permits a teacher demo and limited operation checks; record missing pupil operation, not universal mastery.
 
-- 📱 Tablets with Wonder app installed
+## Vocabulary and background
 
-- 📋 Programming command cards
+**Algorithm:** ordered instructions. **Input:** instruction/start action. **Output:** movement or light/sound. **Debug:** compare prediction to actual and correct. **Relative turn:** right/left from the robot's current facing direction.
 
-- 📓 Engineering journals
+Dash does not read the floor tape in this route; tape marks our reference. Blockly programs are distinct from steering it by remote control. Two forward movements separated by one right turn form an L. A whole square needs four sides and turns.
 
-- 🎯 Target markers for courses
+**Misconception:** "It knows where we want it to go." It follows the code using its hardware.
+**If asked:** "Why missed the target?" Answer: "Check the start/facing direction, units and turn. Change one setting, then run the same test."
 
----
+## SAFETY
 
-## Catholic Integration
+Low-speed motion only, no races or intentional collisions. Teacher starts/stops demonstration; only scheduled teams enter a testing area. Hands off moving robots; retrieve after stop. Dry floor, no stairs/doorways; sound low. Teacher handles batteries/chargers. Stop if an area is no longer clear.
 
-### Saint Connection
-**Blessed Carlo Acutis** — A young tech enthusiast who used technology to spread faith. He'd have loved programming robots!
+## Numbered sequence: exactly 40 minutes
 
-### Scripture
-> *"For everything there is a season, and a time for every matter under heaven."* — Ecclesiastes 3:1 (Programs follow sequences in order!)
+1. **0-4: Purpose.** Original prayer: "God, help us use tools responsibly and include each classmate." Ask: "Is steering by hand the same as running saved instructions?"
+2. **4-9: Demonstration.** Identify robot, Blockly blocks, start and stop. Run the pretested L. Ask: "Which instruction changed its direction?"
+3. **9-14: Paper rehearsal.** On a grid, one forward command means one square. Trace `forward; right turn; forward`; swap executor/reader. Draw expected endpoint. Explain that the grid is a model, not a physical centimeter measurement.
+4. **14-27: Build/run slots.** Teams plan code on paper, then use a one-minute robot slot. First child enters forward; second adds right turn/forward; run and measure endpoint difference from the taped target. A trio's third child starts/stops and explains output. Teacher logs observed operations. Waiting teams find a deliberately wrong left-turn card in a paper route.
+5. **27-32: One correction.** Teacher chooses a route that missed, checks start and facing, then adjusts one distance/turn. Predict and retest. "What changed? Which part did we keep the same?"
+6. **32-35: Individual evidence.** Every child draws the L and identifies the turn, a debug change and its reason. Actual operators additionally identify start/stop and one measured result. Mark **paper only** when appropriate.
+7. **35-40: Cleanup/exit.** Stop programs, teacher powers off/stores robots/tablets, pupils gather cards/tokens/rulers and restore lanes. Collect slips. Ask: "What does our paper test fail to test?"
 
-### Opening Prayer
-*Dear God, you created us with minds that can create amazing things. Help us use technology wisely, like Blessed Carlo Acutis. Guide our programming today! Amen.*
+## Low-tech substitute path / indoor alternative
 
----
+Use the same time windows; replace steps 2/4/5 with teacher/partner token execution on grids. Give a wrong-turn route, identify the first mismatch, replace one instruction and retest. Record **computational-thinking sequence/debug evidence**. Do **not** claim CST-T1 Bluetooth/device operation, robotics or sensor mastery. All pathways are indoors; Minnesota winter has no effect.
 
-## Lesson Procedure
+## Success, troubleshooting, support and challenge
 
-### Opening Circle (6 minutes)
-1. **Meet Dash!** — "This is Dash, a programmable robot"
-2. **Robot Basics:**
-   - Robots follow instructions exactly
-   - They can't think on their own
-   - WE are the "brains"—we write the programs!
-3. **Blessed Carlo Acutis:**
-   - Teen who loved technology
-   - Used it to create a website about Eucharistic miracles
-   - "To always be close to Jesus, that's my life plan"
-4. **Today's Goal** — "We'll teach Dash to move and make sounds!"
+**Success:** child traces a sequence, identifies the wrong turn and explains a testable correction. Device success is separately observed editing/running/stopping, not merely watching a partner.
+Score **1** guess; **2** trace with help; **3** independent trace/debug reason; **4** explains model-versus-device limitations using a measured result.
 
-### Main Activity: Programming Dash (26 minutes)
+- **Pairing fails after 2 minutes:** announce paper path and notify regular teacher of missing operation evidence.
+- **Wrong turn:** check relative left/right and robot starting direction; no floor-line sensing assumed.
+- **Support / Grade 3:** three cards, oral prompts, turn one's own paper token, ruler assistance; no angle calculations required.
+- **Challenge / Grade 4:** repeat test and compare whole-number endpoint errors, explaining why traction/units may matter.
+- **25 pupils:** thirteen teams, two areas, seven one-minute rounds within the thirteen-minute window; no five-mission race.
 
-**Part 1: App Introduction (6 minutes)**
+## Family snippet
 
-- Open Wonder app
+We planned and debugged an L-shaped sequence. Paper tracing demonstrates computational thinking; robot use adds measured input/output evidence. Our Catholic connection was sharing skills and safe tools fairly. **Ask:** "Which command changed direction?" **Optional at home:** trace three arrow directions with a token; the original **scratch.mit.edu** resource is optional, not required. No devices or homework.
 
-- Connect to Dash
+**Previous:** [Session 1 - Engineering Design](./Session01_Engineering_Design.md)
 
-- Tour the interface:
-  - Command blocks (movement, sounds, lights)
-  - Play button
-  - Reset/stop
-
-- Demo: Simple "drive forward" command
-
-**Part 2: Guided Challenges (12 minutes)**
-
-**Challenge 1: Square Dance (3 min)**
-
-- Program Dash to drive in a square
-
-- Need: Forward, turn right, forward, turn right... (4 times)
-
-- Test and debug!
-
-**Challenge 2: Light Show (3 min)**
-
-- Program Dash to change colors
-
-- Create a pattern: Red, blue, green, purple
-
-- Add timing between colors
-
-**Challenge 3: Sound & Move (3 min)**
-
-- Combine movement with sounds
-
-- Make Dash "talk" while moving
-
-- Create a personality!
-
-**Challenge 4: Obstacle Approach (3 min)**
-
-- Program Dash to stop when it senses something
-
-- Use sensors in program
-
-- Test with a barrier
-
-**Part 3: Free Exploration (6 minutes)**
-
-- Students explore freely
-
-- Create your own program
-
-- Challenge: Make Dash do something surprising!
-
-**Part 4: Debugging Practice (2 minutes)**
-
-- "If your program didn't work perfectly, that's GOOD!"
-
-- Debugging = finding and fixing problems
-
-- Engineers debug constantly!
-
-### Engineering Journal (5 minutes)
-1. Draw Dash robot
-2. Write the commands you used
-3. Write: "Debugging taught me..."
-4. Write: "I want to program Dash to..."
-
-### Closing Circle (3 minutes)
-1. **Program Share** — Volunteers show their best program
-2. **Carlo's Example** — "He used tech for good—so can we!"
-3. **Closing Prayer** — *"Thank you, God, for technology that helps us learn. Help us use it wisely. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Successfully connected to Dash
-
-- [ ] Created at least one working program
-
-- [ ] Debugged a non-working program
-
-- [ ] Used multiple command types
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Partner with experienced peer
-
-- Use step-by-step challenge cards
-
-- Focus on 1-2 challenges only
-
-### For Advanced Students
-
-- Create longer programs
-
-- Use variables or loops
-
-- Design program for specific story
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Talk about robots in everyday life: vacuums, car systems, factory machines. Try block coding at home with Scratch (scratch.mit.edu) - it's free! Watch videos about how robots are programmed.
-
----
-
-## Teacher Notes
-
-- Reserve Dash robots 2+ weeks in advance
-
-- Ensure tablets are charged
-
-- Have backup activities if tech fails
-
-- Students will use Dash again in Session 14
-
-- Consider grouping if not enough robots
-
----
-
-**Previous:** [Session 1 — Engineering Design](./Session01_Engineering_Design.md)  
-**Next:** [Session 3 — Bridge Engineering](./Session03_Bridge_Engineering.md)
+**Next:** [Session 3 - Bridge Engineering](./Session03_Bridge_Engineering.md)

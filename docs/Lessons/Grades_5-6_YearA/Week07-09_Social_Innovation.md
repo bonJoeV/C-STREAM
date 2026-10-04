@@ -55,7 +55,7 @@ Students will be able to:
 > — James 1:27
 
 ### Saint Connection
-**St. Oscar Romero** — Archbishop who advocated for the poor and marginalized. He said, "We cannot do everything, but we can do something." Our design projects, even small ones, can make a real difference.
+**Service connection:** Small, thoughtful actions can serve the common good. The quotation previously attributed to Romero is removed because its attribution was unreliable. Specific Romero biography: **VERIFICATION REQUIRED** before using a historical source card.
 
 ---
 
@@ -174,7 +174,7 @@ Students will be able to:
 ### Closing & Preparation (3 min)
 **Faith Connection:** "When we truly UNDERSTAND others' needs, we can design better solutions. Jesus always saw people — really saw them. He knew their needs. That's what empathy is about."
 
-**Homework:** Continue thinking about your challenge. What additional questions do you have?
+**No routine homework:** Record remaining questions in class; the school supplies research and materials.
 
 ---
 
@@ -344,13 +344,15 @@ Students will be able to:
 ### Closing Celebration (2 min)
 **Celebrate the work!**
 
-**Final Faith Connection:** "St. Oscar Romero said, 'We cannot do everything, but we can do something.' Your designs may be small prototypes now, but they represent big thinking about human needs. Keep using your God-given creativity to serve others!"
+**Final Faith Connection:** Keep using creativity to serve others, while honestly distinguishing a classroom prototype from a proven community solution.
 
 **Closing Prayer:** "Thank you, God, for the creativity to design solutions. Thank You for Catholic Social Teaching that guides us. Help us always see the dignity in every person and use our talents to serve the common good. Amen."
 
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-C2 - individual dignity/access choice; CST-E1 - specific user, criterion, and constraint; CST-E3 - each student's evidence and limitation in the presentation. Official benchmarks: **VERIFICATION REQUIRED**. Use fictional/consented briefs; no compelled family-income or health disclosures. At 25 students use nine paired-team 90-second exchanges instead of nine three-minute plenary talks.
 
 - Completed empathy research and defined problem
 

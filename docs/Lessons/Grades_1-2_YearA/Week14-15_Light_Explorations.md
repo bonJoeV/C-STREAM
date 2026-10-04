@@ -48,15 +48,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Jesus is the Light** — Just as physical light helps us see, Jesus helps us see what is good and true. During Advent, we prepare for the Light of Christ to enter the world at Christmas.
 
-### Scripture Connection
-> "I am the light of the world. Whoever follows me will never walk in darkness, but will have the light of life."
-> — John 8:12
+### Scripture reference
+John 8:12; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced.
 
-### Saint Connection
-**St. Lucy** — Her name means "light." She brought food and light to Christians hiding in dark caves. We celebrate her feast day (Dec 13) during Advent as we wait for the Light of Christ.
+### Saint Connection - VERIFICATION REQUIRED
+Lucy traditions and feast date require an approved source. The cave/food story is devotional tradition, not established historical evidence; omit it unless clearly labeled and verified. The investigation needs no biography.
 
 ---
 
@@ -96,11 +95,11 @@ Students will be able to:
 ### Light Sources Exploration (8 min)
 **Natural vs. artificial light:**
 
-- Natural: Sun, stars, fire
+- Natural: Sun and other stars; human-lit fires/candles are artificial sources. Do not classify all fire by one origin.
 
 - Artificial: Lamps, flashlights, screens
 
-**Faith Connection:** "The biggest light source is the sun. God created it on the fourth day! But there's an even greater light — Jesus, the Light of the World."
+**Faith Connection:** Genesis 1 is a theological creation account, not the measured chronology of this light investigation. The Sun is our nearest star, not the largest star or light source. Jesus as Light is religious imagery, not physical brightness.
 
 ### Shadow Investigation (12 min)
 **Shadow stations** (rotate in groups):
@@ -169,8 +168,7 @@ Students will be able to:
 ### Being Light Investigation (10 min)
 **Discussion:** "Jesus says WE can be light too!"
 
-> "You are the light of the world. A town built on a hill cannot be hidden."
-> — Matthew 5:14
+Matthew 5:14 is a reference only; verify/read from the school's approved Bible rather than an unverified quotation.
 
 **Brainstorm:** How can we be light to others?
 
@@ -189,7 +187,7 @@ Students will be able to:
 ### Closing Celebration (6 min)
 **Light ceremony:** If appropriate, briefly darken room.
 
-Teacher lights candle: "One small light can push back a lot of darkness."
+Teacher switches on an enclosed LED light: "One small light helps us see." No real flame.
 
 **Discuss:** "How can your small act of kindness light up someone's day?"
 
@@ -219,7 +217,10 @@ Teacher lights candle: "One small light can push back a lot of darkness."
 
 ---
 
-## 📎 Home Connection
+## SAFETY
+Use plastic safety mirrors, low-power flashlights and enclosed LED lights only. No flames, lasers, glass mirrors, sun viewing or pointing beams at eyes. Keep enough room light to see aisles; students remain seated for dim-light demonstrations. If reflection is difficult, teacher models one mirror before two. Reserve final 3 minutes each meeting for tool return and cleanup.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We explored light and shadows! Talk with your child about how Jesus is the Light of the World and how we can be 'light' to others. During Advent, look for candles and lights that remind us Jesus is coming!"
 
 ---

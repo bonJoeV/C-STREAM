@@ -100,7 +100,7 @@ Students will be able to:
 
 **Team 1: Waste**
 
-- Check classroom trash
+- Examine teacher-prepared **clean recyclable samples or photos**, never rummage through trash
 
 - What's thrown away that could be recycled?
 
@@ -108,7 +108,7 @@ Students will be able to:
 
 **Team 2: Energy**
 
-- Count lights on in empty rooms
+- From adult-approved observation points, count visible lights; do not enter rooms alone or touch controls
 
 - Check for devices left on
 
@@ -124,7 +124,7 @@ Students will be able to:
 
 **Team 4: Nature**
 
-- Survey plants and wildlife
+- Observe through a window or use teacher photos; outdoors only with approved supervision and safe weather
 
 - Observe outdoor spaces
 
@@ -319,3 +319,7 @@ Students will be able to:
 ---
 
 **Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+
+## SAFETY / evidence limits
+
+No waste handling, sockets/switches, plumbing repair, stagnant collected water, animal contact or unsupervised school audit. Use clean dry materials and adult-approved routes; indoor pictures/samples meet the same observation objective in winter. Proposed compost/water/solar systems are models, not approved installations or drinking-water systems. Obtain school permission before implementation. At 25 pupils share prototypes with neighboring teams, not serial four-minute presentations. Each child states one observation, one proposed change and what would count as measured impact; predictions are not measured savings.

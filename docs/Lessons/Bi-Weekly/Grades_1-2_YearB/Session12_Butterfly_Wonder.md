@@ -57,11 +57,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **St. Paul** — He was completely transformed on the road to Damascus, like a caterpillar becoming a butterfly!
 
-### Scripture
-> *"Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!"* — 2 Corinthians 5:17
+### Scripture reference
+2 Corinthians 5:17; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. The living animal's metamorphosis is not resurrection.
 
 ### Opening Prayer
 *Dear God, you designed the amazing butterfly transformation. Thank you for making all things new! Help us be transformed by your love. Amen.*
@@ -92,7 +92,7 @@ By the end of this session, students will:
 
 - "The caterpillar doesn't just get wings—it completely changes!"
 
-- Time frame: 3-4 weeks for most butterflies
+- Development time varies by species and conditions; no universal 3-4 week life-cycle claim. Verify a selected species' source before giving dates.
 
 **Part 2: Life Cycle Model (10 minutes)**
 
@@ -160,7 +160,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / model limits / evidence
+Use four paper stage pictures rather than loose pasta/food. No wild collecting, handling caterpillars, pesticides or purchased-butterfly release without an approved species/care/ecological plan. Photo/model route is the default; chrysalis remains alive. The cycle's adult-to-egg arrow represents a **new generation**. Grade 1 orders four stages orally; Grade 2 explains one stage change and model limitation. **Technology: None primary path.** Last 3 model minutes are cleanup; no routine homework or purchased home kit.
+
+## Wonder at Home 🏠 (optional; read/discuss pictures instead of buying live animals)
 **Family Activity:** Look for butterflies and caterpillars outside! Read a book about butterflies. If possible, get a butterfly kit and raise real butterflies at home. Talk about how God transforms us.
 
 ---

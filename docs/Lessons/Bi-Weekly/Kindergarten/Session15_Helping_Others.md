@@ -1,177 +1,75 @@
 ---
 title: "Session 15: Helping Others"
-description: "Kindergarten Bi-Weekly C-STREAM service project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - service
-  - arts
+description: "A respectful message and an individually tested two-command delivery algorithm"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-T2, CST-A2, CST-A3]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 4
+scope: CORE
+materials: [Plain paper, Paper grid and token, Large command cards, Shared school crayon set]
 ---
 
 # Session 15: Helping Others
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 15 of 17
-
-Students apply their learning to serve others, creating something helpful for people in their community—embodying Catholic social teaching.
-
----
-
-# Session 15: Helping Others
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand that we use our skills to help others
-
-- Identify needs in their community
-
-- Create something helpful for others
-
-- Experience joy in serving
-
----
-
-## Materials Needed
-
-- 📦 Card-making supplies (paper, crayons, stickers)
-
-- 🎨 Decoration supplies
-
-- 📸 Photos of community helpers (optional)
-
-- ❤️ Heart shapes
-
-- 🖍️ Wonder Journals and crayons
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Vincent de Paul** — He dedicated his life to helping the poor. He said, "We should help the poor in every way!"
-
-### Scripture
-> *"Whatever you did for one of the least of these brothers and sisters of mine, you did for me."* — Matthew 25:40
-
-### Opening Prayer
-*Dear Jesus, you taught us to love one another. Help us find ways to help people who need kindness. Bless the work of our hands today. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (5 minutes)
-1. **Review Our Year** — "What have we learned in C-STREAM?"
-   - Building
-   - Exploring
-   - Creating
-   - Problem-solving
-2. **Purpose Question** — "Why do we learn these things?"
-3. **To Help Others!** — "God wants us to use what we learn to help people!"
-4. **Today's Mission** — "We're making something to help others!"
-
-### Main Activity: Service Project (14 minutes)
-
-**Choose One Project:**
-
-**Option A: Cards for Nursing Home (Recommended)**
-
-- Create cheerful cards for elderly residents
-
-- Draw pictures, add stickers
-
-- Write: "God loves you!" (teacher helps)
-
-- Decorate with hearts and flowers
-
-**Option B: Kindness Coupons**
-
-- Create coupons for home:
-  - "One free hug"
-  - "I will help clean up"
-  - "I will share a toy"
-
-- Decorate and bundle together
-
-**Option C: Bookmarks for Library**
-
-- Create decorated bookmarks
-
-- Add: "Reading is fun!"
-
-- Donate to school library for younger readers
-
-**Project Process:**
-1. Explain the recipient (who will get this?)
-2. Students create with care
-3. Teacher writes messages
-4. Talk about how recipients will feel
-
-### Wonder Journal (3 minutes)
-1. Draw yourself helping someone
-2. Add: "I can help by..."
-
-### Closing Circle (3 minutes)
-1. **Show Creations** — Display finished projects
-2. **Joy of Giving** — "How does it feel to help others?"
-3. **St. Vincent de Paul** — "He said the poor are our teachers!"
-4. **Closing Prayer** — *"Jesus, thank you for letting us help others. Bless these cards/gifts and the people who receive them. Help us always look for ways to serve. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Participated in service project
-
-- [ ] Showed care in creating for others
-
-- [ ] Expressed why helping matters
-
-- [ ] Connected service to faith
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-folded card ready to decorate
-
-- Stickers and stamps for those who struggle drawing
-
-- Work alongside teacher
-
-### For Advanced Students
-
-- Write their own messages
-
-- Create multiple cards
-
-- Help others with their projects
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Do a family service project! Ideas: Make cards for neighbors, collect items for food shelf, help an elderly neighbor with yard work, donate toys to charity.
-
----
-
-## Teacher Notes
-
-- Contact local nursing home in advance to arrange delivery
-
-- Take photos of students with their projects
-
-- Consider a follow-up sharing results
-
-- This embodies the "Service-Oriented STEM" success factor
-
----
-
-**Previous:** [Session 14 — Sound & Music](./Session14_Sound_Music.md)  
-**Next:** [Session 16 — Water Wonder](./Session16_Water_Wonder.md)
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Service and algorithms / one 25-minute meeting |
+| Domains / big idea | C, T, A; a useful message and clear instructions both consider a recipient |
+| Objective / why | "I can explain a kind design choice, predict two moves and fix a step." Service benefits from tested communication. |
+| Catholic connection | Ask what is welcome; do not assume every elderly/disabled person wants the same gift. |
+| Local standards | CST-C2: recipient/dignity; CST-T2: correction; CST-A2: purposeful design; CST-A3: message. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 15 minutes first paper kit / 4 included |
+
+## Before class and quantities
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Use a school-library welcome card with prior librarian permission; otherwise
+keep a fictional recipient/model in class. Draw a 3-by-3 grid, START lower-left,
+RECIPIENT one square right/one up; RIGHT/UP/DOWN/STOP cards.
+Budget 5/8/10/13 kits; active teams 5/7/10/12.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: grid; >=8 cm token; four cards | 5 / 5 / 20 | 8 / 8 / 32 | 10 / 10 / 40 | 13 / 13 / 52 |
+| Student: message/result sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+
+Teacher timer/roster, demonstration from one kit; no glue, photo or delivery trip.
+
+## Vocabulary, background and SAFETY
+
+Recipient = audience; purpose = intended meaning; algorithm = ordered
+instructions; debug = find/fix a wrong step. The paper route represents delivery;
+it is not a real robot, software or an actual service visit.
+Misconception: a kind intention means every recipient wants our gift.
+If asked about delivery, teacher arranges only school-approved acceptance.
+Large paper pieces, seated grids, no body maze, tiny tokens, public identities,
+physical-contact promises, food, sequins or ribbon.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Name the agreed/fictional recipient and a welcoming message.
+2. **4-8:** Model a clear picture choice and RIGHT, DOWN, STOP; reset and change
+   DOWN to UP to reach the target.
+3. **8-17:** Children create a simple message, predict/test RIGHT, UP, STOP,
+   and correct the wrong path in full individual turns. Begin checks.
+4. **17-21:** Child explains intended design meaning, predicts an endpoint and
+   identifies the tested correction. Trio's third child gets a planner turn.
+5. **21-25:** Save evidence, arrange only approved delivery, return four-card
+   kits, collect crayons and clear.
+
+## Success, questions, access and troubleshooting
+
+Check recipient/choice, communicated meaning and algorithm correction,
+not drawing polish or actual hardware mastery.
+Ask "What would be welcome? Which card changed? Did it reach the target?"
+Support: two visual choices, adult motion directed by child and scribing.
+Challenge: predict reversed order and test the same grid.
+Recipient permission absent: model stays at school. No cards: draw arrows;
+no printer or home supplies needed. Fully indoors.
+
+**Family:** We made a respectful message and corrected two picture instructions.
+Ask, "Which step did you fix, and why?" No homework or home-service requirement.

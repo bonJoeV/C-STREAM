@@ -58,11 +58,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Francis of Assisi** — He loved all animals and called them his "brothers and sisters," seeing God's care in every creature.
 
-### Scripture
-> *"Ask the animals, and they will teach you."* — Job 12:7
+### Scripture reference
+Job 12:7; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, you made every animal with special gifts to help it survive. Thank you for your wisdom in creation. Help us learn from the animals today. Amen.*
@@ -76,7 +76,7 @@ By the end of this session, students will:
 2. **Adaptations** — "God designed animals with special features!"
 3. **Examples:**
    - 🦅 Eagle: Sharp eyes to see food
-   - 🐪 Camel: Humps to store water
+   - 🐪 Camel: Humps store **fat**, not water; water-conservation mechanisms are separate. Species-specific details **VERIFICATION REQUIRED** before extending.
    - 🐻‍❄️ Polar bear: White fur to hide in snow
    - 🐟 Fish: Gills to breathe underwater
 4. **St. Francis** — "He knew animals teach us about God!"
@@ -109,7 +109,7 @@ By the end of this session, students will:
 - Design an animal that could live there
 
 - What adaptations does it need?
-  - Desert: Big ears (cooling), stores water
+  - Desert: Features that may reduce heat/water loss; explain a chosen feature rather than claim all desert animals store water.
   - Arctic: Thick fur, white color
   - Ocean: Fins, gills, streamlined
   - Forest: Camouflage, claws for climbing
@@ -161,7 +161,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Scientific boundary / SAFETY / evidence
+Real adaptations are inherited features shaped across generations, not features an individual decides to grow when it needs them. The invented creature is a **fictional model**, not a new real animal or proof of adaptation. Use pictures, no live/wild animal handling. Grade 1 orally links one observed feature to a habitat need; Grade 2 explains two features and one fictional-model limitation. **Technology: None primary path**; documentary/zoo optional, not required. Last 3 drawing minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; a book/picture conversation costs nothing)
 **Family Activity:** Watch an animal documentary together! Look for adaptations. Visit a zoo and notice what makes each animal special. Design a creature together for a made-up habitat!
 
 ---

@@ -1,367 +1,97 @@
 ---
 title: "Weeks 24-25: Dash Robot Friends"
-description: "Kindergarten introduction to Dash robots and coding for kindness"
-version: "1.1"
-date: 2025-12-05
+description: "Kindergarten kindness-delivery algorithms and debugging with optional real Dash programming"
+version: "2.0"
+date: 2026-10-04
 tags:
   - kindergarten
+  - algorithms
   - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
   - service
-  - arts
 ---
 
 # Weeks 24-25: Dash Robot Friends
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 2 sessions × 25 minutes |
-| **Lesson Type** | Multi-Week Unit |
-| **STREAM Focus** | T (Technology), R (Religion), M (Math) |
+| Grade / unit / title | K / Algorithms for service / Dash Robot Friends |
+| Time | Two 25-minute meetings; no extra delivery meeting |
+| Domains / big idea | C, T, M / Ordered instructions can be tested and corrected to reach a useful destination. |
+| Student objective / why | "I can plan three steps, find a wrong step, and try again." We check a tool's results before relying on it to help people. |
+| Catholic connection | Choose a welcoming message that respects the recipient; share roles fairly. [CCC 2405](https://www.vatican.va/archive/ENG0015/__P8A.HTM), paraphrase about using skills to benefit people. |
+| Local standards | CST-C2, CST-T1, CST-T2, CST-M1; local, never official. Official benchmark alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty | Optional / Beginner with prior two-arrow experience |
+| Prep / cleanup | Light: 10 minutes for paper; optional hardware Moderate: 20 minutes plus charging / 3 minutes each meeting |
 
----
+## Before class
 
-# Weeks 24-25: Dash Robot Friends
+1. Make 5/7/10/12 teams for 10/15/20/25 children (pairs/final trio). Prepare 5/8/10/13 kits, including one reserve for odd enrollment. Seat everyone at tables; no classroom delivery routes among feet.
+2. Per team draw a 4-by-2 grid of 10 cm squares. START is lower-left; FRIEND is the square two right and one up. Draw a large paper Dash, four arrows (two RIGHT, one UP, one deliberately wrong DOWN), and STOP.
+3. Make one half-sheet kindness card per child. Students can draw a welcome symbol or dictate a message; the intended recipient may decline it.
+4. Mark a roster A (algorithm), I (input/output), P (real program), H (real hardware operation). Reuse Sphero vocabulary but explain that the page grid, not robot orientation, defines arrows.
+5. Optional: reserve school-approved Dash access only if available; no loan assumed. Use one charged robot/tablet in an adult-controlled clear 1 m demonstration lane. The vendor lists [Blockly and Path](https://www.makewonder.com/en/apps/), **not Blockly Jr.** Before class, the teacher tests the actual installed Blockly interface: connect Dash, assemble a start/run sequence with two short forward moves and a quarter-turn, and run/stop safely at low speed. Calibrate distance/turn to the lane and make a screenshot/drawing of the three tested blocks. If controls, app compatibility, or safe stopping are uncertain, omit hardware; do not substitute invented button names.
 
-## 🎯 Learning Objectives
+## Exact supplies
 
-### STEM Objectives
-Students will be able to:
-1. Use Blockly Jr. (or Path) to program Dash to move
-2. Make Dash complete a simple task
-3. Understand that robots follow instructions exactly
-4. Debug simple programs (find what's wrong)
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Per student: kindness half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Per team: grid; large paper Dash | 5 each | 8 each | 10 each | 13 each |
+| Per team: five command cards | 25 | 40 | 50 | 65 |
+| Teacher/class: large grid, marker, timer, roster | 1 each | 1 each | 1 each | 1 each |
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect programming to caring for others
-2. Understand that we can use technology to spread kindness
-3. Practice patience when coding doesn't work the first time
+Optional, whole class: one Dash, one tablet, one roll painter's tape. Never attach cards where they could obstruct wheels/sensors; put the message at the destination instead. No new consumables are needed for meeting 2.
 
----
+## Vocabulary and background
 
-## 🙏 Faith-Reason Integration
+**Sequence:** steps in order. **Command:** one instruction. **Debug:** locate and fix a mismatch. **Input/output:** instructions given / observed result.
 
-### Catholic Teaching Connection
-**Love in Action** — When we program robots to do good things, we're putting love into action. Technology can help us be kind, deliver messages, and help others.
+The paper model uses one-square moves; Blockly forward distance and robot turns use different units and a heading. A person moving a paper robot is acting out an algorithm. Real programming requires a saved block sequence executed by software; steering in Drive mode is not programming. Wheels may slip or a battery may fail: a correct program does not guarantee an exact physical path.
 
-### Scripture Connection
-> "Dear children, let us not love with words or speech but with actions and in truth."
-> — 1 John 3:18
+**Misconception:** "Dash is my friend and knows who needs kindness." People choose recipients and make ethical decisions; the classroom machine has no human feelings.
 
-### Wonder Question
-> "Have you ever wondered how robots can help people? Some robots deliver medicine in hospitals, some help people who can't walk, and some help keep buildings clean!"
+**If asked, "Why did it miss?"** Check the start heading, distance, surface, connection, and code. A missed target is evidence to investigate, not a child's failure.
 
----
+## SAFETY
 
-## 📚 Materials and Preparation
+No robot racing/chasing, real medicine delivery, riding, or free driving near children. Adult manages lane, charging and stop control. Keep feet/hands outside lane; retrieve only when stopped. No blindfolded or walking "human robots." Use large paper tokens. Seek permission before physical help or delivering messages.
 
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| Dash Robots | 1 per 3-4 students | CSCOE Checkout |
-| iPads with Blockly Jr. or Path app | 1 per group | School inventory |
-| Clear floor space | Large area | Classroom |
-| Target cards/destinations | 5-6 | Teacher-made |
-| "Kindness Delivery" cards | Several | Teacher-made |
+## Meeting 1: plan a delivery (25 minutes)
 
-### CSCOE Reservation
-**Reserve Dash robots 2 weeks before this lesson!**
+1. **0-3 (3 min):** Pray for kindness; choose a pictured welcome gesture that respects another person.
+2. **3-7 (4 min):** Model RIGHT, RIGHT, UP on the page. Count three moves and identify input/output. If hardware is prepared, adult demonstrates the tested sequence for two of these minutes; state the different units.
+3. **7-15 (8 min):** Each team member lays three arrows and predicts the destination before partner execution. Swap planner/mover/checker after every trial.
+4. **15-20 (5 min):** Each child draws/dictates a welcoming card; teacher checks individual prediction and three-move count during work.
+5. **20-22 (2 min):** Ask "Who chooses the message? Does the robot decide what is kind?"
+6. **22-25 (3 min):** Store five-card kits, messages and grids; stop and store optional Dash.
 
-### Teacher Preparation
+## Meeting 2: test, debug, and communicate (25 minutes)
 
-- [ ] Reserve Dash robots from CSCOE
+1. **0-3 (3 min):** Reestablish START and FRIEND. Recall that different inputs change outputs.
+2. **3-6 (3 min):** Run RIGHT, RIGHT, DOWN on the page. Identify the first mismatching command; replace DOWN with UP, reset, retest.
+3. **6-15 (9 min):** Pairs/trio test and correct that sequence, each child taking a planner turn. Teacher begins individual prediction/correction checks while circulating. At the correct target, offer the message to the pictured recipient; actual sharing is optional.
+4. **15-20 (5 min):** Finish remaining checks: child orders three cards, predicts endpoint, changes the wrong third card and shows the corrected endpoint. No serial class exit line. Optional prepared hardware replaces up to two minutes of team work, never individual evidence; select a child to edit the tested block and run it under adult control.
+5. **20-22 (2 min):** Ask "What changed? What stayed the same? How did our message include someone?"
+6. **22-25 (3 min):** Count cards back, clear tables, return drawings; adult stores hardware.
 
-- [ ] Charge Dash robots night before
+## Individual evidence and success
 
-- [ ] Test Blockly Jr. app on iPads
+Record A: predicted three-card route and one successful correction; I: identified instruction and observed result. Use independent / prompted / not yet; accept pointing, oral explanation, moving cards, or a drawn path. Fair role-sharing and a respectful message are C evidence; artistic polish is not assessed.
 
-- [ ] Create destination spots (pictures of people to visit)
+P is demonstrated only by a child who edits a real block sequence and runs it on Dash; H only by a child who actually uses the robot's controls safely. Others' status is **not assessed**, even when they watched a demonstration. No-device students can meet the algorithm objective, **not real hardware operating/programming objectives**.
 
-- [ ] Practice coding Dash yourself
+## Questions, support, troubleshooting, indoor fallback
 
----
+- "Which command made the mismatch? How do you know? Why do we reset before retesting?"
+- **Support:** use two cards first, offer UP/DOWN picture choices, let the child point while an adult moves pieces.
+- **Challenge:** invent a different three-step route and an intentional error for a partner; do not require loops before ordered steps are secure.
+- **Wrong start:** reset to the marked square; a changed starting place is a changed test condition.
+- **No hardware/app fails:** finish the page-grid lesson; accurately label evidence as algorithm/model work.
+- **Crowded class:** 12 teams run concurrently at seated tables with one reserve kit; optional hardware remains a teacher station.
+- **Minnesota indoor fallback:** this is an entirely indoor lesson in all weather.
 
-## 📝 Week 24: Meet Dash
+## Optional family snippet
 
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Introduction | 4 min | Meet Dash |
-| Demonstration | 6 min | How to control Dash |
-| Exploration | 12 min | Try coding Dash |
-| Closing | 3 min | What did we learn? |
-
----
-
-### 1. Opening Prayer & Introduction (4 minutes)
-
-**Prayer:**
-> "Dear God, thank you for creative minds that can make robots. Help us learn to use technology to do good things and help others. Amen."
-
-**Meet Dash:**
-> "Meet Dash! Dash is a friendly robot. Dash can move, make sounds, and light up. But Dash can only do what WE tell it to do!"
-
-**Show Dash's features:**
-
-- Head moves and looks around
-
-- Lights change colors
-
-- Wheels let Dash drive
-
-**Compare to Sphero:**
-> "Remember Sphero? Dash is different — Dash has a head and can make sounds!"
-
----
-
-### 2. Demonstration (6 minutes)
-
-**Show Blockly Jr. (or Path app):**
-> "We use this app to tell Dash what to do."
-
-**Demonstrate basic commands:**
-1. **Drive Forward** — Drag the forward block
-2. **Turn** — Add a turn block
-3. **Make a Sound** — Add a sound block
-4. **Press Play** — Watch Dash do it!
-
-**Show what happens:**
-> "Watch — I'll tell Dash to go forward, turn, and say hello!"
-
-Run the simple program. 
-
-**Point out:**
-> "Dash did EXACTLY what I told it — nothing more, nothing less. If I want Dash to do something different, I have to change the code!"
-
----
-
-### 3. Exploration Time (12 minutes)
-
-**Divide into groups** (3-4 students per Dash).
-
-**Simple challenge:**
-> "Can you make Dash move forward and make a sound?"
-
-**Rotation within groups:**
-
-- Take turns being the "coder" 
-
-- Others can help and suggest
-
-**Teacher circulates:**
-
-- "What are you trying to make Dash do?"
-
-- "What block do you need?"
-
-- "What happened? Is that what you expected?"
-
-**Troubleshooting:**
-
-- Not moving? Check connection
-
-- Wrong direction? Check which way Dash is facing
-
-- Didn't do enough? Add more blocks
-
----
-
-### 4. Closing (3 minutes)
-
-**Gather together.**
-
-**Discussion:**
-
-- "What could you make Dash do?"
-
-- "Was anything tricky?"
-
-- "Did Dash always do what you expected?"
-
-**Preview:**
-> "Next week, Dash is going to deliver kindness messages!"
-
-**Closing Prayer:**
-> "Thank you, God, for helping us learn to code. Help us use technology to do good things. Amen."
-
----
-
-## 📝 Week 25: Kindness Delivery
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer | 2 min | Prayer for kindness |
-| Kindness Challenge | 5 min | Set up the mission |
-| Coding & Delivery | 15 min | Program Dash to deliver |
-| Celebration | 3 min | Reflection |
-
----
-
-### 1. Opening Prayer (2 minutes)
-
-**Prayer:**
-> "Dear God, help us to be kind today. Show us how to use Dash to spread Your love. Amen."
-
----
-
-### 2. Kindness Challenge Setup (5 minutes)
-
-**Set the scene:**
-> "Today, Dash has an important job — to deliver kindness messages!"
-
-**Set up destinations:**
-Place pictures around the room:
-
-- Teacher's desk (message for teacher)
-
-- A friend's spot (message for friend)
-
-- Classroom helper spot (thank you message)
-
-**Show kindness cards:**
-> "These cards have kind messages. Dash will carry them to the people who need them!"
-
-**Challenge:**
-> "Program Dash to go from HERE to one of these people and deliver a kind message!"
-
----
-
-### 3. Coding & Delivery (15 minutes)
-
-**Groups work on programming:**
-1. Attach/place kindness card on Dash
-2. Figure out which way Dash needs to go
-3. Code the movements
-4. Test and adjust
-5. Deliver the message!
-
-**Celebrate deliveries:**
-When a group successfully delivers, the class celebrates!
-
-**Challenges to try:**
-
-- Deliver to one person
-
-- Return to start after delivering
-
-- Deliver to multiple people
-
-**Teacher support:**
-
-- "How many forward moves do you need?"
-
-- "Does Dash need to turn?"
-
-- "What went wrong? How can we fix it?"
-
----
-
-### 4. Celebration (3 minutes)
-
-**Gather together.**
-
-**Reflection:**
-
-- "How did it feel to deliver a kind message?"
-
-- "What was hardest about coding Dash?"
-
-- "How else could robots help people?"
-
-**Faith Connection:**
-> "God calls us to love others. Today, we used technology to share kindness! That's how we can use our learning to do good in the world."
-
-**Closing Prayer:**
-> "Thank you, God, for Dash and for helping us code. Thank you that we can use technology to be kind. Help us to always look for ways to help others. Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Week 24 | Week 25 |
-|-------|---------|---------|
-| Can connect Dash to app | ☐ | ☐ |
-| Adds blocks to program | ☐ | ☐ |
-| Runs program successfully | ☐ | ☐ |
-| Adjusts code when needed | ☐ | ☐ |
-| Works cooperatively in group | ☐ | ☐ |
-| Connects technology to kindness | ☐ | ☐ |
-
-### Success Criteria
-
-- Student successfully programs Dash to move
-
-- Student participates in group coding
-
-- Student can explain what their code tells Dash to do
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Pre-loaded simple program to modify
-
-- Hand-over-hand block placement
-
-- Focus on one simple action (forward only)
-
-- Adult helper in group
-
-### For Advanced Learners
-
-- Add sounds and lights to program
-
-- Create longer sequences
-
-- Try to make Dash draw a shape path
-
-- Help other groups debug
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**If Dash isn't working:**
-1. Use Spheros instead (similar experience)
-2. Do "Human Robot" game — one student gives directions, another follows exactly
-3. Paper coding activity — draw the path, then walk it
-
-**Key message:**
-> "Robots only do what we tell them. We can use them to help people!"
-
----
-
-## 📖 Vocabulary
-
-| Word | Definition | Visual Cue |
-|------|------------|------------|
-| **Program** | Instructions that tell a robot what to do | Block sequence |
-| **Code** | The instructions written for a computer/robot | Text or blocks |
-| **Debug** | To find and fix mistakes in a program | Magnifying glass |
-| **Sequence** | The order of steps | 1, 2, 3 |
-| **Command** | One instruction for the robot | Single block |
-
----
-
-## 📎 Home Connection
-
-**Family Note:**
-> "We used Dash robots in STREAM! Your child learned to program Dash to move and deliver kindness messages. We talked about how technology can be used to help others. At home, play 'Human Robot' — give your child exact directions (take 3 steps forward, turn right) and see if they can follow precisely. Then switch roles!"
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+We designed a welcoming delivery route, tested it, and corrected an instruction. Ask: "Which step did you change, and what happened?" Real robot programming was optional and recorded only for children who performed it. No homework or equipment purchase.

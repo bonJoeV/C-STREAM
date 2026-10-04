@@ -1,221 +1,63 @@
 ---
 title: "Student Progress Tracker"
-description: "Assessment tracking tools for C-STREAM teachers"
+description: "Individual objective evidence, feedback and termly growth"
 ---
 
-# 📊 Student Progress Tracker
+# Student progress tracker
 
-**Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
+Retain the useful fall/winter/spring growth conversation, but track taught
+objectives rather than enthusiasm or generic participation. **October 2026.**
+Use [assessment](../Templates/Assessment_Template.md),
+[rubrics](../Rubrics/README.md) and [Local Standards](../Review/Local_Standards.md).
 
-Tools for tracking student growth in C-STREAM throughout the year.
+## Lesson evidence roster
 
----
+| Student | Date/grade/unit/lesson | Objective/local code | Exact action/words or artifact | Mode/access support | 1/2/3/4 or NE | Feedback/next check |
+|---|---|---|---|---|---|---|
+| [One row per child; extend to actual enrollment, including 25] | [ ] | [ ] | [ ] | [ ] | [ ] | [ ] |
 
-## 📋 Skills Checklist by Grade Band
+Levels: 1 Beginning, 2 Developing, 3 Meets Expectation, 4 Extends Learning.
+Use the lesson's specific descriptors. **NE** means no adequate evidence yet
+(absence, unavailable equipment, missed check); it is not a zero.
+Ordinary read-aloud, gesture, bilingual response, scribe and motor assistance
+do not lower achievement. Record conceptual hints separately.
 
-Use these checklists to track student progress on key C-STREAM skills. Mark:
+## Termly growth summary
 
-- **E** = Emerging (just starting)
+| Student/objective/local code | Fall evidence/date/level | Winter evidence/date/level | Spring evidence/date/level | Next teaching |
+|---|---|---|---|---|
+| [ ] | [ ] | [ ] | [ ] | [ ] |
 
-- **D** = Developing (making progress)  
+Examples of appropriate evidence by grade, **not new official benchmarks**:
 
-- **P** = Proficient (got it!)
+| Grade | Possible individual evidence when corresponding objective taught |
+|---|---|
+| K | Points/sorts by an observed feature; shows a two-action sequence; tells one detail |
+| 1 | Names the problem/user; compares two results; explains one design choice |
+| 2 | Records an equal-condition comparison; explains a changed sequence |
+| 3 | Shows common test conditions and links one redesign to the result |
+| 4 | Measures in the specified unit and uses results to justify an improvement |
+| 5 | Compares two designs using taught criteria/constraints |
+| 6 | Defends a choice with evidence, cost/tradeoff and a taught ethical consideration |
 
-- **A** = Advanced (ready to teach others)
+This is not an independent progression specification: use the shared grade
+progression and local definitions for expected outcomes. Real program/robot
+execution is only recorded when actually demonstrated on a working device.
+Never fill those cells from an unplugged activity.
 
----
+## Workload and privacy
 
-## Kindergarten Skills Checklist
+During hands-on time sweep the roster; pair a simultaneous point/show/draw exit
+response with short targeted conversations. At 25, record unobserved children
+NE and collect later rather than assuming all groups mastered the concept.
+Review at project completion and termly; do not require daily long checklists.
+At expected-mastery checkpoints, retain two dated observations on separate
+occasions as required by [Local Standards](../Review/Local_Standards.md),
+including an individual demonstration and changed context/follow-up explanation.
+Both must meet the target; one lesson rating is not end-of-grade mastery.
+Store named records under the school's actual privacy practice. Do not publish
+names, scores or photographs in newsletters without verified permission.
 
-| Student Name: _________________ | Fall | Winter | Spring |
-|--------------------------------|------|--------|--------|
-| **Wonder & Curiosity** | | | |
-| Asks "I wonder..." questions | ___ | ___ | ___ |
-| Shows excitement about exploring | ___ | ___ | ___ |
-| Observes carefully | ___ | ___ | ___ |
-| **Faith Integration** | | | |
-| Recognizes God as Creator | ___ | ___ | ___ |
-| Thanks God for creation | ___ | ___ | ___ |
-| Shows kindness to others | ___ | ___ | ___ |
-| **Engineering/Building** | | | |
-| Builds with blocks/materials | ___ | ___ | ___ |
-| Tries again when something falls | ___ | ___ | ___ |
-| Uses materials safely | ___ | ___ | ___ |
-| **Technology** | | | |
-| Follows simple robot commands | ___ | ___ | ___ |
-| Uses tablet/device appropriately | ___ | ___ | ___ |
-| Understands sequence (first, then, next) | ___ | ___ | ___ |
-| **Collaboration** | | | |
-| Shares materials | ___ | ___ | ___ |
-| Works with a partner | ___ | ___ | ___ |
-| Listens to others' ideas | ___ | ___ | ___ |
-
----
-
-## Grades 1-2 Skills Checklist
-
-| Student Name: _________________ | Fall | Winter | Spring |
-|--------------------------------|------|--------|--------|
-| **Scientific Thinking** | | | |
-| Makes observations | ___ | ___ | ___ |
-| Makes predictions | ___ | ___ | ___ |
-| Compares results to predictions | ___ | ___ | ___ |
-| Records findings (drawing/writing) | ___ | ___ | ___ |
-| **Faith Integration** | | | |
-| Connects science to faith | ___ | ___ | ___ |
-| Identifies Catholic scientists | ___ | ___ | ___ |
-| Explains how learning honors God | ___ | ___ | ___ |
-| **Engineering Design** | | | |
-| Identifies a problem | ___ | ___ | ___ |
-| Creates a plan (drawing) | ___ | ___ | ___ |
-| Builds from a plan | ___ | ___ | ___ |
-| Tests and improves design | ___ | ___ | ___ |
-| **Technology/Coding** | | | |
-| Follows multi-step sequences | ___ | ___ | ___ |
-| Uses block coding (ScratchJr) | ___ | ___ | ___ |
-| Programs a robot (basic commands) | ___ | ___ | ___ |
-| Debugs simple errors | ___ | ___ | ___ |
-| **Collaboration & Communication** | | | |
-| Works in a team | ___ | ___ | ___ |
-| Shares ideas clearly | ___ | ___ | ___ |
-| Listens respectfully | ___ | ___ | ___ |
-| Helps teammates | ___ | ___ | ___ |
-
----
-
-## Grades 3-4 Skills Checklist
-
-| Student Name: _________________ | Fall | Winter | Spring |
-|--------------------------------|------|--------|--------|
-| **Scientific Method** | | | |
-| Forms testable questions | ___ | ___ | ___ |
-| Designs simple experiments | ___ | ___ | ___ |
-| Collects and records data | ___ | ___ | ___ |
-| Draws conclusions from data | ___ | ___ | ___ |
-| **Faith Integration** | | | |
-| Explains faith-reason harmony | ___ | ___ | ___ |
-| Connects to Catholic Social Teaching | ___ | ___ | ___ |
-| Applies service mindset to projects | ___ | ___ | ___ |
-| **Engineering Design Process** | | | |
-| Follows full design process | ___ | ___ | ___ |
-| Creates detailed plans with labels | ___ | ___ | ___ |
-| Uses materials efficiently | ___ | ___ | ___ |
-| Iterates based on testing | ___ | ___ | ___ |
-| Documents the process | ___ | ___ | ___ |
-| **Technology/Coding** | | | |
-| Uses loops in coding | ___ | ___ | ___ |
-| Uses conditionals (if/then) | ___ | ___ | ___ |
-| Programs with Scratch | ___ | ___ | ___ |
-| Troubleshoots code independently | ___ | ___ | ___ |
-| **21st Century Skills** | | | |
-| Collaborates effectively | ___ | ___ | ___ |
-| Communicates ideas clearly | ___ | ___ | ___ |
-| Shows persistence | ___ | ___ | ___ |
-| Thinks creatively | ___ | ___ | ___ |
-| Reflects on learning | ___ | ___ | ___ |
-
----
-
-## Grades 5-6 Skills Checklist
-
-| Student Name: _________________ | Fall | Winter | Spring |
-|--------------------------------|------|--------|--------|
-| **Scientific Investigation** | | | |
-| Designs controlled experiments | ___ | ___ | ___ |
-| Analyzes data with graphs/charts | ___ | ___ | ___ |
-| Identifies variables | ___ | ___ | ___ |
-| Draws evidence-based conclusions | ___ | ___ | ___ |
-| Communicates findings formally | ___ | ___ | ___ |
-| **Faith Integration** | | | |
-| Articulates faith-science relationship | ___ | ___ | ___ |
-| Applies Catholic values to ethics | ___ | ___ | ___ |
-| Designs projects with service focus | ___ | ___ | ___ |
-| Connects to Laudato Si'/stewardship | ___ | ___ | ___ |
-| **Engineering & Design** | | | |
-| Solves complex, open-ended problems | ___ | ___ | ___ |
-| Uses constraints in design | ___ | ___ | ___ |
-| Creates prototypes | ___ | ___ | ___ |
-| Optimizes for multiple criteria | ___ | ___ | ___ |
-| Documents design process thoroughly | ___ | ___ | ___ |
-| **Advanced Technology** | | | |
-| Uses variables in coding | ___ | ___ | ___ |
-| Creates interactive programs | ___ | ___ | ___ |
-| Programs robots for complex tasks | ___ | ___ | ___ |
-| Combines multiple technologies | ___ | ___ | ___ |
-| **Leadership & Collaboration** | | | |
-| Leads group work effectively | ___ | ___ | ___ |
-| Mentors younger students | ___ | ___ | ___ |
-| Presents to audiences | ___ | ___ | ___ |
-| Gives constructive feedback | ___ | ___ | ___ |
-| Manages time independently | ___ | ___ | ___ |
-
----
-
-## 📊 Class Progress Overview (Template)
-
-Use this to track whole-class progress at a glance.
-
-### Class: _____________ | Trimester: _____
-
-| Student | Wonder | Faith | Engineering | Coding | Collaboration | Notes |
-|---------|--------|-------|-------------|--------|---------------|-------|
-| 1. | | | | | | |
-| 2. | | | | | | |
-| 3. | | | | | | |
-| 4. | | | | | | |
-| 5. | | | | | | |
-| 6. | | | | | | |
-| 7. | | | | | | |
-| 8. | | | | | | |
-| 9. | | | | | | |
-| 10. | | | | | | |
-
-**Key:** E = Emerging | D = Developing | P = Proficient | A = Advanced
-
----
-
-## 📅 Assessment Timeline
-
-| When | What to Assess | Tool |
-|------|----------------|------|
-| **Week 1-2** | Baseline skills, interests | Goal-setting worksheet |
-| **Monthly** | Participation, engagement | Observation notes |
-| **End of Each Project** | Project skills, collaboration | Project rubric + reflection |
-| **End of Trimester** | Skills checklist update | Grade-level checklist |
-| **End of Year** | Growth comparison | Fall vs. Spring checklist |
-
----
-
-## 🎯 Quick Observation Notes Template
-
-**Date:** _________ | **Lesson:** _________________________
-
-| Student | What I Noticed | Follow-Up Needed |
-|---------|----------------|------------------|
-| | | |
-| | | |
-| | | |
-| | | |
-| | | |
-
-**Whole Class Observations:**
-
-- Engagement level: ☐ Low ☐ Medium ☐ High
-
-- Collaboration: ☐ Needs work ☐ Good ☐ Excellent
-
-- Understanding: ☐ Reteach needed ☐ On track ☐ Ready for more
-
----
-
-## 💡 Tips for Tracking
-
-1. **Keep it simple** — You don't need to track everything every time
-2. **Use sticky notes** — Jot observations during class, transfer later
-3. **Focus on growth** — Compare students to themselves, not others
-4. **Include student voice** — Use their reflections as data
-5. **Celebrate progress** — Share growth with students and parents
-
----
-
-*Last updated: December 2025*
+Behavior/engagement notes may inform support but remain separate from subject
+mastery. Report "measured the span accurately; next compare repeated trials,"
+not "participates well, therefore proficient."

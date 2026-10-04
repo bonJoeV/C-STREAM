@@ -1,177 +1,94 @@
 ---
 title: "Session 11: Growing Things"
-description: "Kindergarten Bi-Weekly C-STREAM exploring plant life"
-version: "1.0"
-date: 2025-12-05
+description: "Indoor kindergarten seed observation and care; no guaranteed growth or extra STREAM meetings"
+version: "2.0"
+date: 2026-10-04
 tags:
   - kindergarten
   - bi-weekly
-  - light
   - life-science
-  - earth-science
-  - animals
-  - arts
 ---
 
 # Session 11: Growing Things
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 11 of 17
+## Lesson at a glance
 
-Students explore plant life, planting seeds and learning about what plants need to grow—celebrating God's gift of growth and new life.
+| Field | Plan |
+|---|---|
+| Grade / unit / title | K / Plant observation / Growing Things |
+| Time / domains | One 25-minute meeting / C, S, A |
+| Big idea | A seed contains a young plant and stored reserves; an observation is different from a prediction. |
+| Student objective / why | "I can show a seed detail, tell what I think may change, and choose a care action." Decisions about plants should follow evidence. |
+| Catholic connection | Responsible care of resources, [CCC 2402](https://www.vatican.va/archive/ENG0015/__P8A.HTM), paraphrase. |
+| Local standards | CST-C3, CST-S1, CST-S3, CST-A1; local, never official. Official benchmarks: VERIFICATION REQUIRED. |
+| Technology / difficulty | None / Beginner |
+| Prep / cleanup | Moderate: 20 minutes initially plus school care / 3 minutes inside class |
 
----
+## Before class
 
-# Session 11: Growing Things
+1. Seat 5/7/10/12 teams for 10/15/20/25 children (pairs/final trio). Budget 5/8/10/13 kits, including one reserve for odd enrollment; table totals include it. Draw a seed, root and shoot as examples, explicitly not today's results.
+2. Adult prepares one clear 240 mL lidded cup per team with two towel squares, 15 mL water and two fresh untreated bean seeds visible against the side. Do not flood. Close securely; pupils only handle exterior.
+3. Make two teacher cups similarly: one today, one 5-7 days earlier. Growth is not guaranteed. Keep away from freezing windows and direct hot sunlight.
+4. Fold one half-sheet per child into "eye: see now" and "question: might happen." Adult can draw the symbols; no printed worksheet or reading needed.
+5. Name a school adult to check daily and through any break. If care is unavailable, use labeled seed/stage drawings instead of starting live seeds. Do not send care home as an obligation.
 
-## Learning Objectives
-By the end of this session, students will:
+## Exact supplies
 
-- Identify what plants need to grow (sun, water, soil)
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Per student: observation half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Per team: clear 240 mL cup with secure lid | 5 | 8 | 10 | 13 |
+| Per team: two untreated bean seeds; two towel squares | 10 each | 16 each | 20 each | 26 each |
+| Initial team water (15 mL/cup) | 75 mL | 120 mL | 150 mL | 195 mL |
+| Teacher: two backup cups/lids; four seeds; four towel squares; 30 mL water | 1 set | 1 set | 1 set | 1 set |
 
-- Plant a seed and predict growth
+Class/teacher for any size: one tray for all cups, 250 mL jug, 5 mL measuring spoon, marker, timer, roster; reserve six seeds and 100 mL water. Total cups 7/10/12/15; seeds including reserves 20/26/30/36; initial water 105/150/180/225 mL. Children do not handle loose seeds, soil, fertilizer, or cup lids.
 
-- Connect growth to spring and new life
+## Vocabulary, background and misconception
 
-- Care for God's creation through gardening
+**Seed:** young plant with stored reserves. **Germinate:** begin growing. **Root:** takes in water/minerals. **Prediction:** what we think might happen. Point to real features or sketches while teaching each word.
 
----
+Seeds need appropriate water, oxygen and temperature; different kinds have different light requirements. Soil is not food. A seed can begin on moist paper using stored reserves; leaves later need light to make sugars, and sustained growth needs nutrients. This short-term cup is not a permanent plant habitat. [University of Minnesota Extension](https://extension.umn.edu/planting-and-growing-guides/starting-seeds-indoors) explains moisture, stored reserves and light.
 
-## Materials Needed
+**Misconception:** "Planting means a sprout appears today." No promised germination day; observations may show no change.
 
-- 📦 Seeds (fast-growing: grass, beans, or radishes)
+**If asked, "Can it grow without soil?"** "This seed can start on damp paper. To keep growing, plants need support, water, light and nutrients; these can be supplied in different ways."
 
-- 🥤 Small cups or pots
+## SAFETY
 
-- 🪴 Potting soil
+Adult handles all seeds, opening/watering and disposal; no eating or smelling seeds/sprouts. Confirm allergy needs; use drawings when safer. Keep lids secure; adult checks for mold and removes affected cups without pupil handling. Dry spills immediately. No heated equipment or outdoor soil. Do not place plants where children can open cups unsupervised.
 
-- 💧 Water spray bottles or small cups
+## Timed numbered sequence: 25 minutes
 
-- 📸 Pictures of plant life cycle
+1. **0-3 (3 min):** Brief stewardship prayer; show a closed seed cup and ask "What can we see now?"
+2. **3-7 (4 min):** Adult models one setup and compares with dated older cup or labeled drawing. Explain stored reserves and the difference between observation and prediction.
+3. **7-15 (8 min):** Each child observes exterior view and draws/dictates one current detail in the eye box. Partners alternate holding and describing; final trio gives every child a turn. Teacher begins observation/prediction/care checks while circulating.
+4. **15-20 (5 min):** Each child chooses/draws a possible root/shoot change in the question box and a care action. Teacher finishes remaining checks while peers rehearse with pictures; no 25-child exit line.
+5. **20-22 (2 min):** Ask "Which box is evidence from today? Which is a prediction? Who will check our cups?"
+6. **22-25 (3 min):** Return cups to tray, collect pages, wipe any moisture, return crayons.
 
-- 🖍️ Wonder Journals and crayons
+## Individual evidence and what success looks like
 
-- 📰 Newspaper for tables
+Record actual detail, distinct prediction, and care action as independent / prompted / not yet. Success: child points to a real seed detail, identifies predicted growth as not yet observed, and chooses appropriate moisture/air/light care. Drawing quality and sprouting are not graded. With picture-only pathway, label evidence "model observation," not live growing.
 
----
+## Between meetings and cleanup
 
-## Catholic Integration
+Named adult inspects daily, briefly opens for air away from children, adds 5 mL only when towel is drying, drains standing water and records changes. At the next classroom calendar time, children may observe for two minutes **only if that teacher agrees**; this is not an eighteenth STREAM session or a homework prerequisite. No growth data mastery is claimed from this single session.
 
-### Saint Connection
-**St. Fiacre** — Patron saint of gardeners who grew beautiful gardens and helped the poor with his harvest!
+After 10-14 days adult transplants healthy seedlings under a school plan or disposes of seeds/towels; do not keep moldy cups. Clean reusable trays and cups according to school procedures.
 
-### Scripture
-> *"I planted the seed, Apollos watered it, but God made it grow."* — 1 Corinthians 3:6
+## Questions, support, challenge and fallback
 
-### Opening Prayer
-*Dear God, you make things grow! Thank you for seeds that become plants, plants that give us food and flowers. Help us be good caretakers of your growing world. Amen.*
+- "What changed in the older sample? Can we promise our seed will do exactly that?"
+- **Support:** child points to two large choices; adult scribes; offer oral/tactile paper models for low vision, no loose-seed handling.
+- **Challenge:** explain why flooded paper might not be appropriate; compare observation with prediction.
+- **No growth/mold:** remove unsafe sample; record no change or use honestly labeled demonstration drawings.
+- **Minnesota indoor fallback:** classroom shelf is primary; no spring planting, outdoor trip, new device or special lamp is required.
 
----
+## Optional family snippet
 
-## Lesson Procedure
+We observed a seed and separated what we could see from what we predicted. Ask: "What did you actually see today?" School adults manage care. No seeds, equipment, donations or home activity required.
 
-### Opening Circle (4 minutes)
-1. **Season Connection** — "It's spring! What's happening outside?"
-2. **Plant Needs** — "What do plants need to grow?"
-   - ☀️ Sunshine (light)
-   - 💧 Water
-   - 🪴 Soil (food)
-3. **Show Seed** — "Can you believe a big plant comes from this tiny seed?"
-4. **Today's Activity** — "We're going to plant seeds!"
+**Previous:** [Session 10 - Weather Wonder](./Session10_Weather_Wonder.md)
 
-### Main Activity: Planting Seeds (15 minutes)
-
-**Part 1: Observation (3 minutes)**
-
-- Examine seeds closely (magnifying glasses if available)
-
-- "What do you notice?"
-
-- "What's hiding inside?" (A tiny plant!)
-
-**Part 2: Planting (8 minutes)**
-
-- Each student gets a cup
-
-- Steps:
-  1. Put soil in cup (fill most of the way)
-  2. Make a small hole with finger
-  3. Drop seed in hole
-  4. Cover gently with soil
-  5. Add a little water
-
-- Decorate cup or add name label
-
-**Part 3: Prediction (4 minutes)**
-
-- "What do you think will happen?"
-
-- Show plant life cycle pictures
-
-- "We'll watch and see!"
-
-- Discuss where to put plants (sunny spot)
-
-### Wonder Journal (3 minutes)
-1. Draw your planted seed
-2. Draw what you think it will look like when it grows
-
-### Closing Circle (3 minutes)
-1. **Care Plan** — "How will we take care of our plants?"
-2. **Growth Connection** — "God helps things grow—even you!"
-3. **Closing Prayer** — *"Thank you, God, for seeds and growth. Help us be patient as we wait and watch. Bless our plants and help them grow. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Named what plants need (sun, water, soil)
-
-- [ ] Followed planting steps
-
-- [ ] Made growth prediction
-
-- [ ] Showed care for plant
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Hand-over-hand planting help
-
-- Pair with buddy
-
-- Focus on one step at a time
-
-### For Advanced Students
-
-- Plant multiple seed types
-
-- Record daily observations
-
-- Measure growth with rulers
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Plant seeds at home! Good options: grass seed, bean seeds, or flower seeds. Watch them grow together and talk about what plants need. Visit a garden center or nursery.
-
----
-
-## Teacher Notes
-
-- Plants will need consistent watering—assign plant helpers
-
-- Consider sending plants home at end of year
-
-- Track growth over remaining sessions
-
-- Fast-growing options: grass seed (3-5 days), beans (7-10 days)
-
----
-
-**Previous:** [Session 10 — Weather Wonder](./Session10_Weather_Wonder.md)  
-**Next:** [Session 12 — Animal Homes](./Session12_Animal_Homes.md)
+**Next:** [Session 12 - Animal Homes](./Session12_Animal_Homes.md)

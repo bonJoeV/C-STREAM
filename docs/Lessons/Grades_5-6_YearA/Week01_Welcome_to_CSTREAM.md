@@ -56,7 +56,7 @@ Students will be able to:
 > — Romans 12:2
 
 ### Saint Connection
-**St. Thomas Aquinas** — The great Catholic philosopher and theologian who integrated faith and reason in his work. He proved that rigorous thinking leads to, not away from, God.
+**St. Thomas Aquinas** - Catholic philosopher and theologian associated with reasoning about faith. Detailed biography and historical claims: **VERIFICATION REQUIRED** before using a source card. Do not claim a classroom activity proves God's existence.
 
 ---
 
@@ -94,7 +94,7 @@ Students will be able to:
 
 - Some people think you have to choose — that's FALSE
 
-- The Catholic Church has ALWAYS supported science
+- Catholics affirm the compatibility of faith and reason; historical episodes require careful, sourced discussion
 
 - Many great scientists were (and are) people of faith
 
@@ -209,13 +209,15 @@ Students write one detailed goal for each area using SMART framework.
 
 - Capstone showcase
 
-**Faith Connection:** "St. Thomas Aquinas said, 'All that is true, by whomsoever it has been said, is from the Holy Spirit.' When you discover truth — in science, math, or any learning — you're discovering something from God. Let's have a year of discovering God together!"
+**Faith Connection:** Honest inquiry and careful reasoning matter in our Catholic classroom. Do not use an attributed quotation without checking its original source. The verified faith/reason source is [Fides et Ratio, opening](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html).
 
 **Closing Prayer:** "Lord, we commit this year to You. Transform our minds through learning. Strengthen our faith through discovery. Make us leaders who show the world that faith and reason are wings that lift us to You. Amen."
 
 ---
 
 ## ✅ Assessment
+
+**Individual local check (not official):** CST-C1 - distinguish a sourced fact from an unverified historical claim; CST-E1 - one project-goal criterion and constraint. Each student supplies these with the SMART goal; prayer participation is not a mastery measure. Official benchmarks **VERIFICATION REQUIRED**.
 
 - Articulated faith-reason relationship
 

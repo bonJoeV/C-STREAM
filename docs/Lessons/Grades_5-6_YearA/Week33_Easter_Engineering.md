@@ -68,7 +68,7 @@ Students will be able to:
 
 - Engineering supplies for projects
 
-- Chemical reaction materials (safe)
+- No chemical-reaction station; use teacher-prepared sealed ice demonstration or dry mechanical/paper model only
 
 - Electronics for programming light sequences (optional)
 
@@ -126,13 +126,13 @@ Students will be able to:
 
 **Demonstration examples:**
 
-- Baking soda + vinegar (chemical reaction)
+- Describe chemical change using a labeled diagram only; no reaction mixing in this lesson
 
 - Ice melting (state change)
 
 - Butterfly lifecycle images (metamorphosis)
 
-**Resurrection connection:** "The caterpillar doesn't know what it will become. From inside the chrysalis, the transformation seems like death. But it emerges as something MORE beautiful, MORE capable. Resurrection!"
+**Resurrection connection:** Metamorphosis is a living biological process, not death/resurrection and not proof of Easter. Use change as an explicitly limited symbol; Christ's Resurrection is a distinct claim of faith.
 
 ### Engineering Challenge (25 min)
 **Choose a transformation project:**
@@ -157,16 +157,8 @@ Build a mechanical device that transforms:
 
 - Requires: Engineering design, moving parts
 
-**Option C: Chemical Transformation Display**
-Create a demonstration of transformation:
-
-- Safe chemical reactions
-
-- Multiple stages of change
-
-- Clear visual transformation
-
-- Requires: Safety awareness, precise measurements
+**Option C: Transformation Diagram**
+Draw a labeled before/after state-change model. Explain what stays the same and what changes; no chemicals, heating, tasting, or pressure vessels.
 
 **Option D: Artistic/Musical Transformation**
 Create art or music that shows transformation:
@@ -208,6 +200,12 @@ Create art or music that shows transformation:
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S3 - individual physical/chemical/biological distinction; CST-A3 - purposeful before/after communication; CST-C1 - explicitly distinguish scientific process from faith symbol. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+No student-selected reactions, fire, hot water/steam, button cells, or unreviewed electronics. If ice is shown, adult uses a sealed tray and wipes spills; all other work is dry and indoors. Spiritual reflection may remain private.
 
 - Identified types of transformation in science
 

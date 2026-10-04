@@ -57,11 +57,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Martin de Porres** — He served the poor and sick with great love, giving food and care to everyone in need.
 
-### Scripture
-> *"Give thanks in all circumstances."* — 1 Thessalonians 5:18
+### Scripture reference
+1 Thessalonians 5:18; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, we have so much to be thankful for! Help us share our blessings with others. Like St. Martin de Porres, may we serve with love. Amen.*
@@ -162,7 +162,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / recipient consent / evidence
+Teacher confirms recipient/organization wishes and delivery restrictions before promising a project; no required purchases/donations. Use paper/crayon cards, no food, loose glitter or student contact details. Grade 1 dictates a kind message; Grade 2 explains a purposeful communication choice. Do not claim tested engineering from a decorated card. **Technology: None primary path**; school photo permissions apply to any optional documentation. Last 3 making minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; an oral thank-you costs nothing)
 **Family Activity:** As a family, do a service project! Ideas: rake leaves for a neighbor, deliver cookies, write cards to relatives, donate toys or food. Talk about how it feels to help others.
 
 ---

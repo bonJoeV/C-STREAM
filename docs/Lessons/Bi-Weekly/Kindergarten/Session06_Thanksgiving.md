@@ -1,171 +1,69 @@
 ---
 title: "Session 06: Thanksgiving Wonder"
-description: "Kindergarten Bi-Weekly C-STREAM gratitude celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - light
-  - life-science
-  - earth-science
-  - animals
-  - advent
-  - thanksgiving
-  - arts
+description: "A specific gratitude picture, listener feedback and a clear revised message"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-A3]
+technology: None
+prep_minutes: 5
+cleanup_minutes: 4
+materials: [Plain paper, Shared school crayon set]
 ---
 
 # Session 06: Thanksgiving Wonder
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 6 of 17
+## Lesson at a glance
 
-Students celebrate gratitude by creating a class thankfulness project, connecting scientific observation to appreciation for God's gifts.
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Gratitude communication / one 25-minute meeting |
+| Domains / big idea | C, A; a picture can express a specific appreciative message |
+| Objective / why | "I can show thanks, explain my picture and make its meaning clearer." Art communicates to people. |
+| Catholic connection | Gratitude with dignity; no required private family/religious disclosure. |
+| Local standards | CST-C2: respectful recipient; CST-A3: communication/feedback/revision. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / beginner / 5 minutes / 4 included |
 
----
+## Before class and exact supplies
 
-# Session 06: Thanksgiving Wonder
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Offer a school helper or trusted recipient; children can instead appreciate
+a safe familiar aspect of creation. No assumptions about household resources.
+Model a simple school-helper picture; use the same materials budget.
 
-## Learning Objectives
-By the end of this session, students will:
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Student: message sheet; crayon | 10 each | 15 each | 20 each | 25 each |
 
-- Express gratitude for specific gifts from God
+Teacher timer/roster and classroom envelope. No mural-size paper, treats,
+nature collection or glue required. Pair children; final trio rotates listening.
 
-- Create art representing thankfulness
+## Vocabulary, background and SAFETY
 
-- Recognize that scientists study God's gifts
+Gratitude = appreciation; recipient = whom a message is for; feedback = helpful
+response; revise = make meaning clearer. Misconception: a finished picture
+automatically communicated its intent. Ask a listener what it means.
+If asked about artistic quality, judge the message, not realism.
+School-approved crayons/paper, no acorns, food, sharp specimens or private images.
 
-- Share appreciation with others
+## Exact sequence: 25 minutes
 
----
+1. **0-4:** Invite a brief original prayer/thanks and a specific appreciative idea.
+2. **4-8:** Model a picture a partner cannot yet interpret; add a detail explaining it.
+3. **8-17:** Each child draws/points/directs a grateful picture. Partner describes
+   its meaning; child revises a mark or explanation. Begin checks.
+4. **17-21:** Child identifies recipient/idea and explains the actual change;
+   accept speech, pointing or dictated meaning.
+5. **21-25:** Share concurrently, retain dated communication evidence,
+   return crayons and clear. No 25-child gratitude queue.
 
-## Materials Needed
+## Success, support, challenge and troubleshooting
 
-- 📦 Large paper for class mural OR individual papers
+Check respectful intent and clearer communication, not prayer participation.
+Ask "What do you want someone to understand? What helped them understand?"
+Support: two picture choices and scribing. Challenge: convey the idea with fewer
+marks but a clear reason. No class-display area: retain individual sheets.
+Child declines private topic: offer a classroom object/helper or creation care.
+Fully indoors; no school-event date or home contribution required.
 
-- 🎨 Crayons, markers, colored pencils
-
-- 📸 Nature photos from previous sessions (optional)
-
-- ✂️ Scissors (teacher use)
-
-- 🌿 Fall items: leaves, acorns, small pumpkins (optional)
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Thérèse of Lisieux** — She found God in small, everyday things and was grateful for simple gifts!
-
-### Scripture
-> *"Give thanks to the Lord, for he is good; his love endures forever."* — Psalm 107:1
-
-### Opening Prayer
-*Dear God, we have so much to thank you for! Thank you for families, friends, food, and all the wonders we've discovered. Help us remember to say "thank you" every day. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (4 minutes)
-1. **Gratitude Moment** — Go around: "One thing I'm thankful for is..."
-2. **Review Our Year** — "What have we discovered in C-STREAM?"
-   - God's world (nature)
-   - Building
-   - Light and colors
-   - Ramps and rolling
-3. **Today's Project** — "We're making a Thankfulness Mural!"
-
-### Main Activity: Thankfulness Mural (15 minutes)
-
-**Part 1: Brainstorm (3 minutes)**
-
-- Categories of thankfulness:
-  - 🌿 Nature (animals, plants, weather)
-  - 👨‍👩‍👧 People (family, friends, teachers)
-  - 🎁 Things (home, food, toys, school)
-  - 💝 Feelings (love, happiness, safety)
-
-- Each student picks one thing to draw
-
-**Part 2: Create (10 minutes)**
-
-- Students draw their thankful item
-
-- Add details and colors
-
-- Teacher helps write labels
-
-- Arrange on class mural paper
-
-**Part 3: Gallery Walk (2 minutes)**
-
-- Admire the finished mural together
-
-- Point out each person's contribution
-
-### Wonder Journal (3 minutes)
-1. Draw something you're thankful for
-2. Add: "Thank you, God, for ___"
-
-### Closing Circle (3 minutes)
-1. **Read the Mural** — Teacher reads thankfulness labels
-2. **Prayer of Thanks** — Each child says: "Thank you, God, for..."
-3. **Closing Prayer** — *"Dear God, our hearts are full of thanksgiving. Help us share our gratitude with others and take care of all your gifts. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Expressed specific gratitude
-
-- [ ] Contributed to class project
-
-- [ ] Participated in sharing
-
-- [ ] Showed appreciation for others' work
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-draw outline for them to color
-
-- Offer choice of 3 things to draw
-
-- Work alongside a buddy
-
-### For Advanced Students
-
-- Write their own thankfulness sentence
-
-- Draw multiple thankful items
-
-- Help others with their drawings
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Create a "Thankfulness Jar" at home. Each day, family members write or draw something they're grateful for. Read them together at Thanksgiving dinner!
-
----
-
-## Teacher Notes
-
-- Display the mural for parent viewing
-
-- Consider photographing for family newsletter
-
-- Save Wonder Journals to show growth over time
-
-- This is a good time for a "semester checkpoint"
-
----
-
-**Previous:** [Session 05 — Simple Machines](./Session05_Simple_Machines.md)  
-**Next:** [Session 07 — Advent Light](./Session07_Advent_Light.md)
+**Family:** We communicated appreciation and revised a message after feedback.
+Ask, "How did you make your idea clearer?" Optional conversation, no homework.

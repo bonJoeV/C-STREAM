@@ -69,8 +69,8 @@ Name: _________________________ &nbsp;&nbsp; Date: _____________
 
 ## 📋 Teacher Notes
 
-**When to Use:** End of each C-STREAM session (last 5 minutes)  
-**Time Needed:** 5-10 minutes  
+**When to Use:** Select one prompt within the lesson's evidence window, before cleanup
+**Time Needed:** 2-3 minutes; full journal page is optional across meetings
 **Tip:** Print multiple copies and staple together for a weekly journal
 
 ### Wonder Prompts (if students need help)
@@ -90,6 +90,13 @@ For younger students, use this simplified version:
 1. Draw your wonder question
 2. Draw what you learned
 3. Color the stars
+
+Adult reads/models ONE prompt and accepts pointing, gesture or dictated words;
+no independent reading is expected. [Nonreader card](./Show_Try_Tell_Card.md).
+Stars reflect enjoyment only, not mastery or strength of faith. Teacher records
+the stated objective with an actual question/criterion using
+[Assessment Template](../Templates/Assessment_Template.md). Scientific evidence
+and Catholic reflection remain distinguishable.
 
 ---
 

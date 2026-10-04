@@ -196,6 +196,8 @@ If staying within grade:
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-E3 - explain one decision using a test result and limitation; CST-A3 - revise an artifact caption after one reader question; CST-C2 - name how presenting/mentoring respected another learner. Each student supplies one artifact and these three responses; participation/awards alone do not demonstrate mastery. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Completed portfolio reflection
 
 - Participated in demonstrations

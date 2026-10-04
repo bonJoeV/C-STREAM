@@ -46,15 +46,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Building God's Kingdom** — Like architects and engineers who build physical structures, we are called to build God's Kingdom through our actions and love. We build communities of faith through cooperation.
 
-### Scripture Connection
-> "Unless the Lord builds the house, the builders labor in vain."
-> — Psalm 127:1
+### Scripture reference
+Psalm 127:1; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced.
 
-### Saint Connection
-**Noah** — Noah built the ark exactly as God instructed. He persevered even when the task was hard and others laughed at him. Good engineers follow plans and don't give up!
+### Biblical connection
+Noah and the ark: Genesis 6-9, a Scripture story, not a saint biography or engineering manual. **VERIFICATION REQUIRED:** use a school-approved retelling. The claim that others laughed at Noah is not supplied by this passage and is omitted.
 
 ---
 
@@ -199,7 +198,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY
+Build on low tables below 30 cm; keep faces/hands away during collapse tests. Use a soft toy load, never a book or child. No climbing to reach a tower. Reuse/count planks and allow 4 minutes of the reflection block for cleanup.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We were KEVA engineers! Ask your child: 'What made your tower/bridge strong?' 'What would you build differently?' Build together at home with blocks, cards, or other materials!"
 
 ---

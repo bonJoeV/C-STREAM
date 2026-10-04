@@ -48,15 +48,14 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Growth in Virtue** — God calls us to grow — not just taller, but in love, kindness, and faith. Setting goals helps us cooperate with God's plan for our growth.
 
-### Scripture Connection
-> "And Jesus grew in wisdom and stature, and in favor with God and man."
-> — Luke 2:52
+### Scripture reference
+Luke 2:52; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
 ### Saint Connection
-**Bl. Pier Giorgio Frassati** — A young man who set goals for growing in faith and helping others. He worked hard at school AND at being kind. He shows us to grow in ALL areas.
+**Saint Pier Giorgio Frassati** — Canonized September 7, 2025; [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html). Specific student/goal anecdotes are **VERIFICATION REQUIRED** before teaching.
 
 ---
 
@@ -98,7 +97,7 @@ Students will be able to:
 
 **All four matter!**
 
-**Bl. Pier Giorgio:**
+**Saint Pier Giorgio (anecdotes VERIFICATION REQUIRED):**
 
 - "He was a student who worked hard at school"
 
@@ -197,8 +196,11 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
-> "We set growth goals in FOUR areas — just like Jesus grew in wisdom, stature, favor with God, and favor with people! Ask your child about their goals in each area. Help them track progress. Celebrate small steps! Consider setting a family growth goal too."
+## Privacy / Grade 1 / follow-up
+Compare lengths of classroom objects rather than public body-height rankings. Grade 1 selects one classroom action, draws/dictates first step; Grade 2 may choose four goals. Track at school; revisit next opening. Never publicly rank bodies, prayer or home resources, or assess strength of faith from a tracker. **Technology: None primary path.** Last 2 planning minutes tidy supplies; no required home care/planting.
+
+## 📎 Home Connection (optional; no routine homework)
+> "We chose classroom growth goals and first steps. Ask your child to tell or show a step they can practice. Trackers stay at school; optional conversation needs no purchase or home tracking."
 
 ---
 

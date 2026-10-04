@@ -57,7 +57,7 @@ Students will be able to:
 > — Colossians 3:23
 
 ### Saint Connection
-**Bl. Pier Giorgio Frassati** — Young man who pursued his passions (mountain climbing, engineering studies) while serving the poor and living his faith joyfully. He showed that pursuing interests and serving God go together.
+**Saint Pier Giorgio Frassati** - canonized September 7, 2025; his joyful service is described in the [canonization homily](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). Additional biography: **VERIFICATION REQUIRED**.
 
 ---
 
@@ -207,7 +207,7 @@ Students will be able to:
 
 - Identify potential collaborators
 
-**Homework:** Finalize proposal, gather initial resources.
+**No routine homework:** Finalize a bounded proposal in class. School supplies materials; family purchases/donations are never prerequisites.
 
 ---
 
@@ -330,7 +330,7 @@ Students will be able to:
 **Prayer:** "Lord, thank You for these weeks of learning. Help us present well and learn from each other. May we celebrate the gifts You've given each person. Amen."
 
 ### Presentations (35 min)
-**Format:** 4-5 minutes per student + 1 minute Q&A
+**Format:** At 10/15/20/25 students, use paired portfolio exchanges: each student has 3 minutes to present plus 1 minute for a question, then switch. Teacher samples technical demonstrations using the individual logs; do not promise 25 plenary talks in 35 minutes.
 
 **Presentation elements:**
 1. What did you create/investigate?
@@ -364,13 +364,15 @@ Students will be able to:
 
 - How might you continue this interest?
 
-**Faith Connection:** "Bl. Pier Giorgio Frassati loved mountain climbing, loved his engineering studies, loved his friends, AND loved serving the poor and his faith. He showed that pursuing your passions and loving God go together. Your interests are gifts from God — develop them and use them for good!"
+**Faith Connection:** Saint Pier Giorgio Frassati's service invites students to consider how their interests can serve others; use the verified canonization homily rather than unsourced details about studies or hobbies.
 
 **Closing Prayer:** "Thank You, God, for the unique gifts and interests You've given each of us. Thank You for these weeks to explore them. Help us continue developing our talents and using them for Your glory and others' good. Amen."
 
 ---
 
 ## ✅ Assessment
+
+**Individual local check (not official):** CST-E1 - proposal criterion/constraint; CST-E2 - original test, revision, and retest; CST-E3 - supported conclusion and limit; CST-C3 - resource-use decision. Each student's dated log must contain all four; a finished group product is insufficient. Official benchmarks **VERIFICATION REQUIRED**. Teacher approves only safe classroom materials; no unsupervised bodily, medical, electrical, or chemical projects.
 
 ### Project Assessment
 

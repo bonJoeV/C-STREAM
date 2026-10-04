@@ -243,6 +243,8 @@ Students will be able to:
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-C2 - explain a respectful access/servant-leadership decision; CST-E3 - teach one concept and check a peer's explanation during rehearsal. This 45-minute lesson plans/rehearses only. Actual buddy-class teaching requires separately booked time and adult supervision; no completed-teaching claim without that evidence. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Designed appropriate activity
 
 - Led station effectively

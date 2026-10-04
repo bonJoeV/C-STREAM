@@ -73,8 +73,7 @@ By the end of this session, students will:
 ### Opening Circle (8 minutes)
 1. **Universe Scale:**
    - Earth → Solar System → Galaxy → Universe
-   - 100 billion galaxies!
-   - Each galaxy: 100-400 billion stars!
+   - Galaxy/star counts are uncertain estimates; galaxies vary greatly in size and stellar population. Do not claim every galaxy has the same range.
 2. **Vatican Observatory:**
    - Church operates real observatory
    - Jesuit astronomers study space
@@ -182,6 +181,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-S3 - individual scale/model limit; CST-E1 - mission purpose, criterion, constraint; CST-C1 - distinguish evidence from reflection. Official benchmarks **VERIFICATION REQUIRED**. Primary indoor path: printed/board Earth-Sun model (1 AU = 10 cm; about 150 million km) using [NASA Earth facts](https://science.nasa.gov/earth/facts/); current mission and astronomer-role claims **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+No telescope or lens observations of the Sun; indoor targets only. Night observation is optional adult-supervised, never required homework. Printed images/model replace simulations without claiming actual telescope operation.
 **Observation Checklist:**
 
 - [ ] Understood universe scale

@@ -56,13 +56,13 @@ Students will be able to:
 > — John 8:12
 
 ### Saint Connection
-**St. Robert Grosseteste** — 13th-century bishop and scientist who studied optics and light. He believed understanding light was key to understanding the physical world and, through it, understanding God.
+**Robert Grosseteste** - historical bishop associated with optics, not a canonized saint. Detailed biography and philosophical claims: **VERIFICATION REQUIRED**. Do not present medieval theories as current physics.
 
 ---
 
 ## 📚 Materials Needed
 
-- Flashlights and laser pointers
+- Low-brightness flashlights only; no laser pointers
 
 - Mirrors (plane, concave, convex)
 
@@ -175,7 +175,7 @@ Students will be able to:
 
 **Connection:** "Light REVEALS. Physical light lets us see. Jesus, as Light of the World, reveals truth, exposes sin, guides our path. The physics of light helps us understand these metaphors more deeply!"
 
-**St. Robert Grosseteste:** "He believed light was the first form of matter, the basis of all physical reality. His studies of optics were acts of worship, seeking to understand God's creation."
+**History note:** Grosseteste's historical ideas about light are not current physical theory. Use a verified historical source before presenting his views; **VERIFICATION REQUIRED**.
 
 ### Preview (2 min)
 "Next session: We'll build optical devices and apply what we've learned!"
@@ -322,13 +322,19 @@ Students will be able to:
 
 - Microscopy
 
-**Faith Connection:** "St. Robert Grosseteste saw studying light as a spiritual practice. When we understand how light works, we understand more of God's creation. And when we think about Jesus as Light of the World — light that REVEALS, light that GUIDES, light that gives LIFE — the physics gives the metaphor more power!"
+**Faith Connection:** Light is a meaningful theological symbol; reflection/refraction are physical descriptions, not proof of theological claims.
 
 **Closing Prayer:** "God of Light, thank You for the beauty and order in how light works. Thank You for scientists who helped us understand it and engineers who apply it. Help us be light to others, reflecting Your love and truth. Amen."
 
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S3 - individual reflection/refraction explanation; CST-T1 - safe optical-tool use; CST-A1 - labeled individual ray diagram. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND PACING
+
+No lasers or looking at the Sun through any lens, mirror, telescope, periscope, or pinhole device. Use indoor targets and low-brightness flashlights away from eyes; plastic mirrors/lenses preferred, adult handles damage. Keep water in trays away from power. Meeting 1 originally allocated only 37 minutes: use remaining 8 as 4-minute individual diagram/exit and 4-minute cleanup, for 45 total. In meeting 2 reserve the last 4 construction minutes for cleanup preparation and return equipment during closing; devices stay dry and indoors.
 
 ### Session 1
 

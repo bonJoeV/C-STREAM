@@ -148,6 +148,30 @@ extra:
 # Navigation Structure
 nav:
   - Home: index.md
+  - Curriculum Review:
+    - Overview: Review/README.md
+    - Executive Review: Review/Executive_Review.md
+    - Philosophy: Review/Philosophy.md
+    - Standards & Sources: Review/Standards_Sources.md
+    - Local Standards: Review/Local_Standards.md
+    - Learning Progression: Review/Learning_Progression.md
+    - Scope & Sequence: Review/Scope_and_Sequence.md
+    - Grade Reviews:
+      - Kindergarten: Review/Kindergarten_Review.md
+      - Grades 1-2: Review/Grades_1-2_Review.md
+      - Grades 3-4: Review/Grades_3-4_Review.md
+      - Grades 5-6: Review/Grades_5-6_Review.md
+    - Lesson Quality Audit: Review/Lesson_Quality_Audit.md
+    - Materials & Budget: Review/Materials_Plan.md
+    - Technology Plan: Review/Technology_Plan.md
+    - Substitute Readiness: Review/Substitute_Readiness.md
+    - Family Communication: Review/Family_Communication.md
+    - Standards Traceability: Review/Standards_Traceability.md
+    - K External Candidates: Review/Kindergarten_External_Alignment.md
+    - Gap Analysis: Review/Gap_Analysis.md
+    - Implementation Plan: Review/Implementation_Plan.md
+    - Validation: Review/Validation.md
+    - Repository Inventory: Review/Repository_Inventory.md
   - Getting Started:
     - Quick Start Guide: Resources/Quick_Start_Guide.md
     - Year Planner: C-STREAM_Year_Planner.md
@@ -240,7 +264,7 @@ nav:
       - Week 19-22 - Choice Labs: Lessons/Grades_3-4_YearA/Week19-22_Choice_Labs.md
       - Week 23 - Catholic Schools: Lessons/Grades_3-4_YearA/Week23_Catholic_Schools_Week.md
       - Week 24-25 - Scratch: Lessons/Grades_3-4_YearA/Week24-25_Scratch_Programming.md
-      - Week 26-27 - Circuits: Lessons/Grades_3-4_YearA/Week26-27_Little_Bits_Circuits.md
+      - Week 26-27 - Snap Circuits: Lessons/Grades_3-4_YearA/Week26-27_Little_Bits_Circuits.md
       - Week 28 - Pi Day: Lessons/Grades_3-4_YearA/Week28_Pi_Day_Circles.md
       - Week 29-31 - Environmental: Lessons/Grades_3-4_YearA/Week29-31_Environmental_STREAM.md
       - Week 33 - Resurrection: Lessons/Grades_3-4_YearA/Week33_Resurrection_Science.md
@@ -281,7 +305,7 @@ nav:
       - Week 19-22 - Passion: Lessons/Grades_5-6_YearA/Week19-22_Passion_Projects.md
       - Week 23 - Catholic Schools: Lessons/Grades_5-6_YearA/Week23_Catholic_Schools_Week.md
       - Week 24-25 - Scratch: Lessons/Grades_5-6_YearA/Week24-25_Advanced_Scratch.md
-      - Week 26-27 - Little Bits: Lessons/Grades_5-6_YearA/Week26-27_Little_Bits.md
+      - Week 26-27 - Snap Circuits: Lessons/Grades_5-6_YearA/Week26-27_Little_Bits.md
       - Week 28 - Pi Day: Lessons/Grades_5-6_YearA/Week28_Pi_Day.md
       - Week 29-31 - Environmental: Lessons/Grades_5-6_YearA/Week29-31_Environmental_Science.md
       - Week 33 - Easter: Lessons/Grades_5-6_YearA/Week33_Easter_Engineering.md
@@ -445,6 +469,7 @@ nav:
     - Teacher Resources:
       - Quick Start Guide: Resources/Quick_Start_Guide.md
       - Materials Inventory: Resources/Materials_Inventory_Checklist.md
+      - Snap Circuits Classroom Guide: Resources/Snap_Circuits_Classroom_Guide.md
       - CSCOE Library Guide: Resources/CSCOE_Library_Planning_Guide.md
       - Catholic Scientists: Resources/Catholic_Scientists_Heritage.md
       - Wonder & Curiosity Guide: Resources/Wonder_Curiosity_Guide.md
@@ -452,6 +477,7 @@ nav:
       - Differentiation Guide: Resources/Differentiation_Guide.md
       - Student Progress Tracker: Resources/Student_Progress_Tracker.md
       - Substitute Teacher Guide: Resources/Substitute_Teacher_Guide.md
+      - Kindergarten Routines: Resources/Kindergarten_Reference_Routines.md
       - FAQ & Troubleshooting: Resources/FAQ_Troubleshooting.md
     - Parent Resources:
       - Parent Communication Guide: Resources/Parent_Communication_Guide.md
@@ -467,6 +493,13 @@ nav:
     - Lesson Plan Template: Templates/Lesson_Plan_Template.md
     - Project-Based Learning: Templates/Project_Based_Learning_Template.md
     - Cross-Curricular Unit: Templates/Cross_Curricular_Unit_Template.md
+    - Student Sheet: Templates/Student_Sheet_Template.md
+    - Substitute Handoff: Templates/Substitute_Lesson_Template.md
+    - Assessment: Templates/Assessment_Template.md
+    - Objective Rubric: Templates/Rubric_Template.md
+    - Family Newsletter: Templates/Family_Newsletter_Template.md
+    - Materials List: Templates/Materials_List_Template.md
+    - Standards Mapping: Templates/Standards_Mapping_Template.md
 
   - Rubrics:
     - Overview: Rubrics/README.md
@@ -477,6 +510,7 @@ nav:
 
   - Student Resources:
     - Overview: Student_Resources/README.md
+    - Show, Try, Tell: Student_Resources/Show_Try_Tell_Card.md
     - STREAM Journal Cover: Student_Resources/STREAM_Journal_Cover.md
     - My STREAM Goals: Student_Resources/My_STREAM_Goals.md
     - Engineering Design Process: Student_Resources/Engineering_Design_Process.md

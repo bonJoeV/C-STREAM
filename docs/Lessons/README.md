@@ -7,7 +7,10 @@ description: "Complete lesson library organized by grade band"
 
 **Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
 
-This folder contains complete, ready-to-teach C-STREAM lessons organized by grade band. Each lesson includes everything needed: objectives, materials, procedures, faith integration, and assessments.
+This folder contains C-STREAM lesson documents organized by grade band.
+Use the [curriculum review](../Review/README.md) to check revision state,
+materials, technology and open concerns before teaching. Existing files and
+front-matter tags do not by themselves establish classroom readiness.
 
 | 📅 [Year Planner](../C-STREAM_Year_Planner.md) | 📋 [Lesson Index](../C-STREAM_Lesson_Index.md) | 📦 [CSCOE Library](../Resources/CSCOE_Library_Planning_Guide.md) |
 
@@ -24,11 +27,13 @@ For schools with **combined grade classrooms** (1-2, 3-4, 5-6), we provide a **t
 
 - **Year B:** Same skills and concepts with *different* projects, saints, and applications
 
-This ensures students don't repeat identical content when they remain in a combined classroom for two years. **Kindergarten does not require Year A/B** since students advance to 1st grade.
+Core competencies intentionally recur with increasing independence. Contexts
+vary, but the grade reviews identify actual overlaps and prerequisites.
+**Kindergarten does not require Year A/B** since students advance to 1st grade.
 
 ### Weekly vs. Bi-Weekly Scheduling
 
-- **Weekly (34 sessions):** Full curriculum for schools with STREAM every week
+- **Weekly (34 calendar slots):** Check multi-week meetings and holidays against the grade review; this is not 34 lesson files.
 
 - **Bi-Weekly (17 sessions):** Condensed curriculum for schools with STREAM every other week
 
@@ -39,25 +44,25 @@ This ensures students don't repeat identical content when they remain in a combi
 ### Kindergarten
 | Session Length | Folder | Sessions |
 |----------------|--------|----------|
-| 25 minutes | [Kindergarten](./Kindergarten/README.md) | 34 lessons |
+| 25 minutes | [Kindergarten](./Kindergarten/README.md) | 20 documents; multi-week pacing |
 
 ### Grades 1-2
 | Year | Session Length | Folder | Sessions |
 |------|----------------|--------|----------|
-| **Year A** | 30 minutes | [Grades_1-2_YearA](./Grades_1-2_YearA/README.md) | 34 lessons |
-| **Year B** | 30 minutes | [Grades_1-2_YearB](./Grades_1-2_YearB/README.md) | 34 lessons |
+| **Year A** | 30 minutes | [Grades_1-2_YearA](./Grades_1-2_YearA/README.md) | 20 documents; multi-week pacing |
+| **Year B** | 30 minutes | [Grades_1-2_YearB](./Grades_1-2_YearB/README.md) | 20 documents; multi-week pacing |
 
 ### Grades 3-4
 | Year | Session Length | Folder | Sessions |
 |------|----------------|--------|----------|
-| **Year A** | 40 minutes | [Grades_3-4_YearA](./Grades_3-4_YearA/README.md) | 34 lessons |
-| **Year B** | 40 minutes | [Grades_3-4_YearB](./Grades_3-4_YearB/README.md) | 34 lessons |
+| **Year A** | 40 minutes | [Grades_3-4_YearA](./Grades_3-4_YearA/README.md) | 20 documents; multi-week pacing |
+| **Year B** | 40 minutes | [Grades_3-4_YearB](./Grades_3-4_YearB/README.md) | 17 documents; multi-week pacing |
 
 ### Grades 5-6
 | Year | Session Length | Folder | Sessions |
 |------|----------------|--------|----------|
-| **Year A** | 45 minutes | [Grades_5-6_YearA](./Grades_5-6_YearA/README.md) | 34 lessons |
-| **Year B** | 45 minutes | [Grades_5-6_YearB](./Grades_5-6_YearB/README.md) | 34 lessons |
+| **Year A** | 45 minutes | [Grades_5-6_YearA](./Grades_5-6_YearA/README.md) | 20 documents; multi-week pacing |
+| **Year B** | 45 minutes | [Grades_5-6_YearB](./Grades_5-6_YearB/README.md) | 15 documents; multi-week pacing |
 
 ---
 
@@ -127,7 +132,7 @@ Each lesson integrates multiple STREAM elements:
 | Letter | Focus Area | Description |
 |--------|------------|-------------|
 | **S** | Science | Scientific inquiry, observation, experimentation |
-| **T** | Technology | Digital tools, coding, robotics |
+| **T** | Technology | Tools, systems, algorithms, data, responsible use; digital creation when valuable |
 | **R** | Religion | Faith integration, Catholic identity, ethics |
 | **E** | Engineering | Design process, problem-solving, building |
 | **A** | Arts | Visual arts, digital creation, music |
@@ -137,7 +142,10 @@ Each lesson integrates multiple STREAM elements:
 
 ## 🙏 Catholic Identity Integration
 
-Every lesson includes:
+Catholic integration is expressed through age-appropriate truth, wonder,
+dignity, stewardship and service. Prayer or a saint reference alone does not
+establish a meaningful connection. Review and verify any historical or
+scriptural attribution. Existing lessons may include:
 
 - **Opening Prayer** — Connected to lesson theme
 
@@ -153,7 +161,7 @@ Every lesson includes:
 
 ## 📦 Materials Quick Reference
 
-### Always Available (School-Owned)
+### Existing program assumptions (verify locally)
 
 - iPads/Chromebooks
 
@@ -164,6 +172,10 @@ Every lesson includes:
 - Basic craft supplies
 
 - Journals/notebooks
+
+Actual ownership, condition, storage and loan availability are
+**VERIFICATION REQUIRED**. See the [materials plan](../Review/Materials_Plan.md)
+for a low-tech core that does not depend on specialty loans or devices.
 
 ### CSCOE Library Checkout (Reserve 2 weeks ahead)
 

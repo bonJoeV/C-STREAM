@@ -57,14 +57,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Gratitude and Celebration** — Looking back on a year of learning, we give thanks to God who gave us curious minds and the opportunity to explore His creation.
 
-### Scripture Connection
-> "Give thanks to the Lord, for he is good; his love endures forever."
-> — Psalm 136:1
+### Scripture reference
+Psalm 136:1; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 All the saints from Year B! — St. Kateri, Bl. Solanus Casey, St. Francis, St. Thérèse, St. Fiacre, and more — all showed us how to learn and love God.
 
 ---
@@ -109,7 +108,7 @@ All the saints from Year B! — St. Kateri, Bl. Solanus Casey, St. Francis, St. 
 
 - ⭐ Stars and light — "What did we learn about the Christmas star?"
 
-- ❄️ Snowflakes — "Are any two the same?"
+- ❄️ Snowflakes — "Which patterns did we observe, and what did our paper model leave out?"
 
 - 🔧 Invention labs — "What problem did you solve?"
 
@@ -146,7 +145,7 @@ All the saints from Year B! — St. Kateri, Bl. Solanus Casey, St. Francis, St. 
 
 - Show your partner your favorite project
 
-- Tell them why you chose it
+- Tell them why you chose it; for the design example name its criterion, test result and one change. An intentional drawn memory message provides art communication evidence.
 
 - Listen to theirs
 
@@ -205,7 +204,10 @@ All the saints from Year B! — St. Kateri, Bl. Solanus Casey, St. Francis, St. 
 
 ---
 
-## 📎 Home Connection
+## Technology / SAFETY / evidence limit
+**Optional primary path:** teacher camera under school photo/privacy permissions; paper portfolio is sufficient. No food/latex decorations. At 25 use table partner shares, not 25 lengthy talks; reserve 3 portfolio minutes for cleanup. Grade 1 points to one saved before/after example; Grade 2 explains a measured revision. Accomplishment lists describe opportunities, not individual mastery without saved evidence.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated Year B today! What a year of learning and growing! Ask your child: 'What was your favorite Year B activity?' 'What did you learn?' 'Which saint do you remember?' 'How did you see God in STREAM?' Thank you for supporting your child's STREAM journey. Keep exploring this summer!"
 
 ---

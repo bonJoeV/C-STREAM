@@ -108,8 +108,8 @@ Students research a Catholic scientist (individually or pairs):
 1. **Gregor Mendel** — Augustinian monk, father of genetics
 2. **Fr. Georges Lemaître** — Priest who proposed the Big Bang
 3. **St. Albert the Great** — Medieval scientist and saint
-4. **Nicolaus Copernicus** — Catholic canon who proved heliocentrism
-5. **Louis Pasteur** — Devout Catholic, developed germ theory
+4. **Nicolaus Copernicus** — Catholic canon who proposed a Sun-centered model; not sole proof
+5. **Louis Pasteur** — Microbiology contributions; do not assume or assert personal religious devotion without a verified source
 6. **Sr. Mary Kenneth Keller** — First American woman with CS PhD
 
 **Research questions:**
@@ -177,3 +177,7 @@ Students write/design a commitment showing how they will:
 ---
 
 **Lesson Version:** 1.0 | **
+
+## Source and evidence gate
+
+Prepare short approved cards with title, author/institution and URL/page for each historical claim. **VERIFICATION REQUIRED:** scientist dates, firsts and claims about personal faith, including Keller's exact degree distinction. Do not infer faith's causal influence from a person's religious affiliation. If cards are unavailable, use the verified opening of [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html) to compare an evidence claim and a faith reflection; no unsourced biography recital. Each child cites one source and distinguishes fact from reflection.

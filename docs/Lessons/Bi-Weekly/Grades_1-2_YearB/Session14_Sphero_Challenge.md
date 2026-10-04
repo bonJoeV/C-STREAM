@@ -57,11 +57,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Thomas Aquinas** — He loved using logic and reason to solve problems. He'd enjoy programming challenges!
 
-### Scripture
-> *"I can do all this through him who gives me strength."* — Philippians 4:13
+### Scripture reference
+Philippians 4:13; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced or guarantee of coding success.
 
 ### Opening Prayer
 *Dear God, thank you for minds that can solve problems. When things get hard, help us keep trying. Give us patience, creativity, and teamwork today. Amen.*
@@ -71,7 +71,7 @@ By the end of this session, students will:
 ## Lesson Procedure
 
 ### Opening Circle (4 minutes)
-1. **Sphero Experts** — "Remember when we first met Sphero? Now you're EXPERTS!"
+1. **Sphero learners** — "Show the short stored sequence you can run; we are still learning."
 2. **Challenge Day** — "Today you'll complete MISSIONS!"
 3. **Problem-Solving Reminder:**
    - If it doesn't work, try again!
@@ -185,7 +185,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## Technology / SAFETY / measurable mission
+**Required primary path:** compatible Sphero/tablet/Sphero Edu Blocks, preflighted model/charge/aim. Replace five rushed missions with **color -> short roll -> stop**, predict/run, change one block and rerun; manual driving is not programming evidence. Grade 1 points/orders two actions and personally starts/stops; Grade 2 explains a stored three-action sequence and one changed result. Low-speed dry floor bays, no races/chasing, teacher-only cords, no attached markers. No devices: cards/token algorithm/debug only, not real robot programming or operation mastery. Reserve final 4 mission minutes for cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; oral reflection needs no device)
 **Family Activity:** Tell your family about the Sphero challenges! What was hard? What did you figure out? Talk about times when things didn't work and you had to try again. Perseverance pays off!
 
 ---

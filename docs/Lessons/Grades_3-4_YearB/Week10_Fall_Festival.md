@@ -116,12 +116,12 @@ Students will be able to:
 ### Engineering Challenges (30 min)
 **Fall Festival Engineering Stations:**
 
-Divide class into groups, rotate through stations (8-10 min each):
+Choose **one** challenge for the class; spend 26 minutes planning/building/testing and 4 minutes cleaning. Four 8-10 minute rotations do not fit this block. Primary low-cost path is Harvest Hauler using paper tokens as crops.
 
 ---
 
 **Station 1: Pumpkin Protector**
-**Challenge:** Design packaging to protect a mini pumpkin from a 3-foot drop.
+**Optional teacher-led model:** Package a soft paper "pumpkin"; teacher lowers it from 20 cm into a tray. No real pumpkin or heavy-object drop.
 
 **Materials:** Cardboard, paper, tape, cotton balls, straws
 
@@ -133,7 +133,7 @@ Divide class into groups, rotate through stations (8-10 min each):
 
 - 8 minutes to design and build
 
-**Test:** Drop and check for damage
+**Test:** Teacher lowers the soft model into a tray and checks whether it remains inside packaging
 
 **Engineering principles:** Cushioning, shock absorption, protection
 
@@ -238,3 +238,7 @@ Divide class into groups, rotate through stations (8-10 min each):
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / readiness limits
+
+No real produce drops, acorn/food handling, uncontrolled glider launches or body mazes. Use paper leaf/crop tokens; any optional glider follows the approved lanes in Flight Fundamentals. Corn Maze Mapper uses a seated token, not walking blindfolded children. Use ordinary paper/cardboard, tape and low tabletop hauler tests; no climbing or sharp recycled edges. Each child explains one criterion and records one test/change. The lesson still needs scalable quantities and a single complete challenge kit before substitute use.

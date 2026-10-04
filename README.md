@@ -8,11 +8,24 @@ description: "Catholic Science, Technology, Religion, Engineering, Arts, and Mat
   <div style="max-width: 600px;">
     <h1 style="margin-top: 0;">C-STREAM Framework</h1>
     <p><strong>C</strong>atholic · <strong>S</strong>cience · <strong>T</strong>echnology · <strong>R</strong>eligion · <strong>E</strong>ngineering · <strong>A</strong>rts · <strong>M</strong>ath</p>
-    <p>A Catholic STEM framework that integrates faith and reason throughout every aspect of the curriculum, built on research-backed success factors from the National Catholic Education Association (NCEA) and leading Catholic educational institutions.</p>
+    <p>A local Catholic C-STREAM program integrating faith and reason, hands-on inquiry, responsible design, creativity and service.</p>
   </div>
 </div>
 
 **Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
+
+## 2026-27 curriculum review
+
+Start with [the curriculum review](docs/Review/README.md) for the executive
+review, verified standards sources, local competencies, K-6 progression, all
+251 lesson audit records, classroom materials, revised priority lessons and
+remaining teaching-release checks. This is a local program, not an
+Archdiocesan-approved standards framework. Not every legacy lesson is
+substitute-ready.
+
+From the repository root in PowerShell, regenerate and validate the maps with
+`.\scripts\Build-CurriculumMaps.ps1`, then publish locally with `mkdocs build`.
+See [source documentation](docs/README.md) for dependency and preview commands.
 
 | [📜 License](./LICENSE.html) | [🤝 Contributing](./CONTRIBUTING.html) |
 
@@ -41,7 +54,7 @@ C-STREAM offers two scheduling options to fit your school's needs:
 ### Two-Year Rotation (Grades 1-6)
 For combined-grade classrooms, we offer **Year A** and **Year B** versions:
 - **Year A & Year B** cover the same core skills with different projects, saints, and contexts
-- Students never repeat content in back-to-back years
+- Core skills recur with increasing independence; consult the grade reviews for overlapping projects and prerequisites.
 - Kindergarten has a single track (students only experience it once)
 
 ### Curriculum Structure
@@ -84,9 +97,12 @@ Lessons/
 
 C-STREAM represents **Catholic** STEM education that intentionally weaves together faith and reason throughout every aspect of the curriculum. Rather than treating religion as a standalone subject, this framework integrates Catholic identity like "yeast that causes everything to rise."
 
-The **"A" in C-STREAM** encompasses **Arts** (both visual and musical), emphasizing digital creation tools:
-- 🎨 **Digital Art**: Drawing apps, graphic design, animation, 3D modeling
-- 🎵 **Digital Music**: Composition apps, sound design, audio editing, coding music
+The **"A" in C-STREAM** encompasses **Arts** (both visual and musical), with hands-on creation first:
+- 🎨 **Visual Art**: Observational drawing, pattern, purposeful model design, composition and visual communication
+- 🎵 **Music**: Rhythm, sound investigation, composition and attentive listening
+
+Digital creation tools are extensions when they improve learning, not a
+prerequisite. Technology includes tools, systems and unplugged computer science.
 
 > "Science and faith are complementary – the beautiful harmony of faith and reason so students can be a light in the secular world."
 
@@ -94,13 +110,17 @@ The **"A" in C-STREAM** encompasses **Arts** (both visual and musical), emphasiz
 
 ## The 12 Success Factors
 
-This framework is built on twelve research-backed success factors for Catholic STEM programs:
+These twelve local design principles guide the program. Consult the
+[verified source register](docs/Review/Standards_Sources.md) before making
+an official standards, research-validation or accreditation claim.
 
 ### 1. 🙏 Faith-Reason Integration (The "R" in C-STREAM)
-Present science and faith as complementary, using STEM subjects as "privileged gateways into the divine order of things."
+Present faith and reason as complementary while distinguishing scientific
+evidence, theological teaching and a classroom metaphor.
 
 ### 2. 📋 NCEA's 10 Characteristics of STREAM Schools
-Alignment with National Catholic Education Association standards for excellence in Catholic STEM education.
+Use a local STREAM reflection checklist. Exact NCEA publication alignment
+and any accreditation status are **VERIFICATION REQUIRED**.
 
 ### 3. 🔧 Hands-On, Project-Based Learning
 Students apply leading-edge technology to "hands-on, minds-on projects" that build critical thinking and collaboration.
@@ -151,10 +171,10 @@ Approach education from the perspective of wonder, exploration, and faith.
 | **Winter** | 13-22 | Deeper investigation, long-arc projects |
 | **Spring** | 23-34 | Application, service projects, celebration |
 
-**Lesson Mix (34 sessions):**
-- 🔵 **10-15 Single-Week Lessons** - Self-contained explorations
-- 🟢 **8-10 Multi-Week Units** (2-4 weeks each) - Deeper investigations
-- 🟠 **4-6 Long-Arc Projects** (5-8 weeks each) - Major engineering challenges
+**Choose one schedule and rotation.** Bi-weekly tracks contain 17 meetings;
+weekly tracks use multi-week documents and calendar slots that must be checked
+against holidays. Single-week, multi-week and long-arc descriptions are not
+additive quotas. See [scope and sequence](docs/Review/Scope_and_Sequence.md).
 
 ---
 
@@ -249,9 +269,11 @@ This framework is designed to be adaptable for any Catholic school:
 
 ---
 
-## NCEA's 10 Characteristics of STREAM Schools
+## Local STREAM Reflection Checklist
 
-This framework aligns with the National Catholic Education Association's defining characteristics:
+The following is a local reflection checklist, not a verified official
+standard or certification. See the source register before attributing exact
+wording or requirements to NCEA.
 
 1. ✅ Integrate Catholic identity into every aspect of the curriculum
 2. ✅ Promote a culture of innovation with commitment to ethical behavior
@@ -291,11 +313,11 @@ See [CONTRIBUTING.md](./CONTRIBUTING.html) for guidelines.
 
 ## References
 
-This framework draws from research and resources including:
-- National Catholic Education Association (NCEA) STREAM guidelines
-- Cognia certification standards for Catholic STEM programs
-- Steno Learning Program teacher training materials
-- Papal encyclicals on faith, reason, and creation
+The [source register](docs/Review/Standards_Sources.md) distinguishes verified
+official standards, guidance, national frameworks and local competencies.
+Legacy references to NCEA publications, Cognia certification and Steno
+training materials require exact source verification before being used to
+claim program alignment. Catholic teaching is traced to primary Church sources.
 
 ---
 

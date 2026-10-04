@@ -88,9 +88,7 @@ Students will be able to:
 
 **Gratitude science:**
 
-- "Research shows gratitude improves health, happiness, relationships"
-
-- "It's not just religious — it's scientifically proven!"
+- Gratitude is a meaningful spiritual practice. Do not promise health outcomes or call them scientifically proven without a specific, evaluated study.
 
 - "But we knew this — the Mass is literally THANKSGIVING!"
 
@@ -190,6 +188,8 @@ START → Welcome → Menu: Add Entry / View Entries / Random Gratitude
 ---
 
 ## ✅ Assessment
+
+**Privacy and local evidence:** Use only fictional entries such as "a sunny walk," never names, private prayer, family circumstances, or ratings of faith. Do not publish lists; school-approved local save only. CST-T2 - each student traces add/retrieve; CST-T3 - explains why private entries should not be collected; CST-C2 - offers a respectful opt-out. These are local standards; official benchmarks **VERIFICATION REQUIRED**.
 
 - Used lists to store data
 

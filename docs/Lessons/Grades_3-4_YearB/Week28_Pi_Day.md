@@ -39,7 +39,7 @@ Students will be able to:
 Students will be able to:
 1. See mathematical order as God's design
 2. Appreciate sacred geometry
-3. Marvel at the infinite nature of Pi
+3. Distinguish finite pi from a nonterminating decimal representation
 
 ---
 
@@ -48,7 +48,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Sacred Geometry** — The mathematical patterns in creation point to an intelligent Creator. Pi appears everywhere in nature — in orbits, waves, spirals. This constant ratio reveals God's orderly design of the universe.
+**Mathematical wonder** — Pi is finite, between 3 and 4; its decimal expansion is nonterminating and not periodic. Wonder at patterns is a faith reflection, not mathematical proof of a Creator or a claim that all orbits/spirals are circles.
 
 ### Scripture Connection
 > "You have arranged all things by measure and number and weight."
@@ -105,9 +105,7 @@ Students will be able to:
 
 **The amazing thing:**
 
-- Pi NEVER ends!
-
-- Pi NEVER repeats!
+- Pi's **decimal expansion** never ends or repeats periodically; pi itself is a finite value
 
 - Pi is IRRATIONAL (can't be written as simple fraction)
 
@@ -139,7 +137,7 @@ Students will be able to:
 **Procedure:**
 1. Measure circumference (wrap string, then measure string)
 2. Measure diameter (straight across through center)
-3. Divide: Circumference ÷ Diameter
+3. Grade 3: lay three diameter-length strings around the circle and observe the remainder. Grade 4 may watch an optional teacher calculator comparison; decimal division is not core assessment.
 4. Record answer
 5. Repeat with different circles
 
@@ -209,7 +207,7 @@ Students will be able to:
 
 **Discussion:**
 
-- "Pi is infinite — it never ends, never repeats"
+- "Pi is finite, although its decimal expansion does not terminate or repeat periodically"
 
 - "Where else is infinity in math?"
 
@@ -219,7 +217,7 @@ Students will be able to:
 
 - He saw math as a way to understand God
 
-- Finite things (circles) reveal infinite truth (Pi)
+- A finite circle illustrates a finite constant; the decimal notation does not make it infinite
 
 - Math points to something BEYOND math!
 
@@ -227,12 +225,12 @@ Students will be able to:
 
 - Rose windows in cathedrals use mathematical patterns
 
-- Ancient builders used Pi and Phi (golden ratio)
+- Specific builders' use of pi/phi is **VERIFICATION REQUIRED**, not an assumed historical fact
 
 - Beauty and mathematics connect!
 
 **Wonder:**
-"Isn't it amazing that a number discovered by humans appears EVERYWHERE in nature that God created? Galaxies spiral with Pi. Sound waves involve Pi. The cycle of seasons follows circular patterns!"
+Circle relationships invite wonder. Do not infer universal circular orbits or an exact pi model of every spiral/season from this measurement.
 
 ### Closing (2 min)
 **Pi facts to take home:**
@@ -250,7 +248,7 @@ Students will be able to:
 - Look for circles in nature this week
 
 **Closing Prayer:**
-"Infinite God, Your creation is full of mathematical wonder! Thank You for Pi — a number that reveals Your endless creativity. Help us see Your design in numbers, patterns, and circles all around us. You are infinite, and Your love for us never ends — just like Pi! Amen."
+"God, thank You for curiosity and careful mathematics. Help us appreciate patterns without confusing a finite number with Your nature. Amen."
 
 ---
 
@@ -272,3 +270,7 @@ Students will be able to:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## Grade expectations / SAFETY
+
+Each child shows around/across measurements and three diameters plus a remainder. Optional calculator results are approximations, not observed exact pi. Grade 3 works with whole lengths/patterns; Grade 4 explains measurement error and purposefully revises a circular design. Use plastic lids/plates, short desk string and traced circles; no sharp lids, unsupervised pointed compasses, beads as gifts to younger children or food treats. Historical dates/digit records and Nicholas of Cusa interpretation require a verified source before extension.

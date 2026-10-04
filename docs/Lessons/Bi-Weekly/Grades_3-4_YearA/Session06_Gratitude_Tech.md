@@ -147,7 +147,7 @@ By the end of this session, students will:
 ## Assessment
 **Observation Checklist:**
 
-- [ ] Expressed genuine gratitude
+- [ ] Communicated a specific respectful thank-you; personal emotions are not scored
 
 - [ ] Used technology creatively
 
@@ -196,3 +196,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 5 — Scratch Intro](./Session05_Scratch_Intro.md)  
 **Next:** [Session 7 — Light & Circuits](./Session07_Light_Circuits.md)
+
+## Privacy / fallback
+
+Teacher approves delivery and recipient consent; no pupil identifying photos/voices, public QR links or uploads without school permission. If devices fail, make a paper message and revise it with peer feedback; this is art/communication evidence, not digital-tool operation or computer programming. Home sharing is optional, no homework.

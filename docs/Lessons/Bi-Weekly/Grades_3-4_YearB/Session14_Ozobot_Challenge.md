@@ -89,7 +89,7 @@ By the end of this session, students will:
 
 - Review key color codes
 
-- Connect Ozobots
+- Check model-specific calibration using the official guide; line/color work requires no tablet connection
 
 - Test basic movements
 
@@ -135,7 +135,7 @@ By the end of this session, students will:
 
 **Mission 5: Speed Challenge (2 min)**
 
-- Race against others (or clock)
+- Compare reliable command responses, not racing
 
 - Accuracy + speed
 
@@ -214,3 +214,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 13 — Easter Creation](./Session13_Easter_Creation.md)  
 **Next:** [Session 15 — Compound Machines](./Session15_Compound_Machines.md)
+
+## Compatibility / evidence gate
+
+Use the verified chart, desk trays and no-device distinction in [Session 2](./Session02_Ozobot_Coding.md). Choose one documented mission plus retest; five mini-missions are options, not mandatory. OzoBlockly loading/commands require model-specific adult verification. If unavailable, trace/debug named paper commands; record CT only. Each child compares predicted/actual output and explains one change; self-rated "Expert" does not certify robot mastery. No speed races or loose robots at desk edges.

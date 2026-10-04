@@ -13,6 +13,12 @@ description: "Guidelines for contributing to the C-STREAM Framework"
 
 Thank you for your interest in contributing to the C-STREAM Framework! We welcome your input, whether it's submitting new lesson plans, improving existing resources, or helping us better integrate Catholic values into STEM education.
 
+Before editing curriculum, read the [curriculum review](Review/README.md),
+[local standards](Review/Local_Standards.md) and
+[teaching-release priorities](Review/Implementation_Plan.md).
+Preserve baseline findings when recording a revision; a changed file is not
+automatically classroom-ready.
+
 ---
 
 ## 📋 How to Contribute
@@ -129,6 +135,59 @@ If contributing a new lesson plan:
 - Note any challenges or modifications needed
 
 - Include setup time and preparation requirements
+
+Also provide exact, scalable supplies for 10/15/20/25 students, numbered
+steps within the native period, an individual objective-linked evidence
+check, visible safety/stop rules, support/challenge, cleanup and an indoor
+alternative when weather matters. For early readers, demonstrate directions
+and accept oral, drawn or manipulated evidence.
+
+Use hands-on/unplugged methods first. Categorize technology as None,
+Optional, Recommended or Required and explain any required use. A
+device-free fallback must state what changes in the objective; it cannot
+certify actual hardware/software execution. Family work and donations must
+not be prerequisites.
+
+### Update the curriculum maps
+
+Add/update the corresponding band-audit CSV in `Review/` for every lesson.
+Use the documented schema, the actual schedule/rotation, the native period
+as integer minutes per meeting, and 2-5 relevant local codes linked to
+planned individual evidence. Keep the baseline status/priority and record
+the subsequent revision separately.
+
+From the repository root:
+
+```powershell
+.\scripts\Build-CurriculumMaps.ps1
+.\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
+mkdocs build
+```
+
+Include the regenerated maps with the curriculum change. Schema validation
+does not establish safety, developmental fit or standards mastery. Report
+desk walkthroughs and actual classroom trials separately.
+
+For current Kindergarten version-3.0 references, keep metadata, actual teaching
+steps and the individual-evidence definitions in the K sync script consistent:
+
+```powershell
+.\scripts\Sync-KindergartenAudit.ps1
+.\scripts\Test-KindergartenReferences.ps1
+.\scripts\Build-CurriculumMaps.ps1
+```
+
+The K validator checks the current 37-document/29-autonomous-reference contract,
+25-minute sequences and supply scaling. An intentional structural revision
+must update the corresponding contract/tests, not merely bypass their failures.
+
+### Verify sources and claims
+
+Use authoritative sources and record the URL, applicable version and review
+date. Official benchmark alignment needs the exact benchmark, student task
+and assessment evidence. Label locally created standards as local.
+Unverified Church/history/Archdiocesan/state/accreditation claims are
+**VERIFICATION REQUIRED**; do not invent identifiers or quotations.
 
 ### Integrate Faith Meaningfully
 Don't just add a prayer at the beginning—weave Catholic identity throughout like "yeast that causes everything to rise."

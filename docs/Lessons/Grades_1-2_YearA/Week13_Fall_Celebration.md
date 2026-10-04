@@ -50,14 +50,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Celebration of Gifts** — God gives each of us unique gifts and talents. When we celebrate our learning, we thank God for the gift of our minds and the joy of discovery.
 
-### Scripture Connection
-> "Every good and perfect gift is from above, coming down from the Father of the heavenly lights."
-> — James 1:17
+### Scripture reference
+James 1:17; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching historical details
 **All the Saints** — We celebrate the saints because they used their gifts to serve God. Today we celebrate how we've used our gifts to learn and grow!
 
 ---
@@ -92,7 +91,7 @@ Students rotate through 4 stations (5 minutes each):
 
 - Navigate a simple maze
 
-- Remember coding skills
+- Each child explains one input and resulting movement/output on a supervised replay. This checks tool input/output, not new stored-code mastery.
 
 **Station 2: KEVA Quick Build**
 
@@ -145,7 +144,10 @@ Students rotate through 4 stations (5 minutes each):
 
 ---
 
-## 📎 Home Connection
+## Technology / SAFETY / evidence limit
+**Recommended primary path:** charged robot/tablet for a supervised replay, not a speed race. No devices: predict a path with cards; do not award robot mastery. Towers below 30 cm, no heavy loads. Use one supervised device station or table portfolios when staffing is limited. Photos only under school permissions. Reserve 3 station minutes for cleanup; certificates recognize participation/growth, not unobserved domain mastery.
+
+## 📎 Home Connection (optional; no routine homework)
 > "We celebrated our STREAM learning today! Ask your child: 'What was your favorite thing you learned?' 'What are you proud of?' 'What do you want to learn next?' Thank you for supporting our STREAM journey!"
 
 ---

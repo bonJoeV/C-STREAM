@@ -7,7 +7,11 @@ description: "17-session curriculum for schools with STREAM every other week"
 
 **17 Sessions for Every-Other-Week Scheduling**
 
-This folder contains condensed C-STREAM curricula for schools that have STREAM class **every other week** instead of weekly. Each bi-weekly curriculum covers the same essential skills, concepts, and faith integration as the weekly version, but condensed into 17 sessions.
+This folder contains 17-session C-STREAM tracks for class **every other week**.
+Choose one track, not these sessions in addition to the weekly year. Less
+contact time means less investigation and revision time; identical mastery
+to the weekly program cannot be assumed. Use the [grade reviews](../../Review/README.md)
+to select core outcomes and check readiness.
 
 ---
 
@@ -69,7 +73,7 @@ Bi-weekly lessons use **Session numbers** instead of week numbers:
 ### Multi-Week Projects
 In the weekly curriculum, multi-week projects span 2-4 weeks. In the bi-weekly version:
 
-- **2-week projects** → Single extended session
+- **2-week projects** -> Select a smaller objective for one native-length session; do not double the period.
 
 - **3-4 week projects** → Two sessions with clear continuation
 
@@ -83,7 +87,9 @@ Major engineering challenges that span 5-8 weeks in weekly curriculum:
 - Some optional extensions available for enrichment
 
 ### Faith Integration
-All Catholic identity elements preserved:
+Catholic identity remains a program expectation; use natural connections to
+truth, dignity, stewardship and service rather than assuming all of these
+elements belong in every lesson:
 
 - Saint connections
 
@@ -131,9 +137,9 @@ All Catholic identity elements preserved:
 
 ### Maintaining Momentum
 
-- Send home **Wonder Journals** for continued exploration between sessions
+- Keep **Wonder Journals** in class for continuity; use oral or drawn reminders.
 
-- Use **Family Connection** activities to extend learning
+- Share **Family Connection** questions; home activities are optional, equitable and not required for assessment.
 
 - Post **"What We're Discovering"** updates in classroom
 

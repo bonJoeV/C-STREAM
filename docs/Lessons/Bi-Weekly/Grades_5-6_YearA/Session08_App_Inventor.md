@@ -56,7 +56,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Blessed Carlo Acutis** — Created websites and digital content to share faith. He'd have loved making apps!
+**Saint Carlo Acutis** - canonized September 7, 2025 ([source](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html)). Do not speculate about apps he would have liked.
 
 ### Scripture
 > *"Go therefore and make disciples of all nations."* — Matthew 28:19 (Apps can share the Gospel!)
@@ -77,9 +77,9 @@ By the end of this session, students will:
    - Free, browser-based tool
    - Makes real Android apps!
    - Created at MIT for learning
-3. **Blessed Carlo Acutis:**
+3. **Saint Carlo Acutis:**
    - Used digital skills for faith
-   - "The internet is a gift from God"
+   - The unsupported attributed quotation is removed.
    - Apps can spread love!
 
 ### Main Activity: First App Creation (30 minutes)
@@ -148,6 +148,12 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-T2 - each student traces an input/button/output; CST-T3 - identifies private data excluded; CST-C2 - explains an access decision. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND NO-DEVICE PATH
+
+Use only fictional input, no photos, location, microphone, texting, health/prayer records, or public posting. Adult/IT pretests Companion/emulator and school storage; if unavailable, draw a screen and have an operator move the output label when the paper Submit button is pressed. This assesses **interface/event simulation, not actual app programming or operation**.
 **Observation Checklist:**
 
 - [ ] Navigated App Inventor
@@ -181,13 +187,13 @@ By the end of this session, students will:
 ---
 
 ## Wonder at Home 🏠
-**Family Activity:** App Inventor is FREE at ai2.appinventor.mit.edu! Create an account and explore. Design an app your family would use. Discuss: What problems could an app solve?
+**Optional family conversation:** Discuss a useful app idea; no home account/device, account creation, or routine homework required.
 
 ---
 
 ## Teacher Notes
 
-- Create class App Inventor account or individual
+- Teacher/IT verifies current age/privacy requirements and approved school-managed individual access. Never share passwords or require personal accounts.
 
 - Test AI Companion before class
 

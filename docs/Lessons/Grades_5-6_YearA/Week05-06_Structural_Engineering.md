@@ -275,7 +275,7 @@ Students will be able to:
 **Test each structure:**
 1. Weigh structure (record)
 2. Place across gap
-3. Add weight gradually until failure (record max)
+3. Adult adds ten 10 g packets at most (100 g total); stop at instability, not intentional collapse. Record maximum safe demonstrated load, not breaking strength.
 4. Calculate efficiency ratio
 
 **Class data collection:**
@@ -310,6 +310,12 @@ Students will be able to:
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S3 - individual force-path explanation; CST-E2 - test and proposed redesign; CST-M3 - individual's load-to-structure mass ratio using like units. Official benchmarks: **VERIFICATION REQUIRED**.
+
+## SAFETY
+
+Adult inspects supports and loads; tabletop structures stay below 30 cm and tests use a catching tray. No body-weight testing, chairs, standing under models, or load additions beyond 100 g. Keep hands back during adult loading. Replace "failure" language with observed instability when no safe failure occurs. Ten 10 g sealed packets/class suffice for serial tests; 4/5/7/9 teams share supervised testing.
 
 ### Session 1
 

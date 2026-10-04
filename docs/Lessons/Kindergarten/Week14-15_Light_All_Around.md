@@ -1,398 +1,94 @@
 ---
 title: "Weeks 14-15: Light All Around"
-description: "Kindergarten exploration of light and circuits with Advent connections"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - light
-  - circuits
-  - astronomy
-  - advent
-  - arts
+description: "A same-distance material comparison followed by purposeful tissue-paper art"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S2, CST-T1, CST-A2]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 4
+materials: [Enclosed 2-AA flashlight, Rigid clear plastic sheet, Tissue paper, Clean corrugated cardboard, Plain paper, Masking tape, Shared school crayon set]
 ---
 
 # Weeks 14-15: Light All Around
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Plan |
 |---|---|
-| **Grade Level** | Kindergarten |
-| **Duration** | 2 sessions × 25 minutes |
-| **Lesson Type** | Multi-Week Unit |
-| **STREAM Focus** | S (Science), T (Technology), R (Religion), A (Art) |
-
----
-
-# Weeks 14-15: Light All Around
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Identify natural and artificial sources of light
-2. Understand that light helps us see
-3. Create simple light art using flashlights and translucent materials
-4. Observe how light passes through some materials but not others
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect light to Jesus as the "Light of the World"
-2. Understand Advent as a time of waiting for the Light
-3. Recognize that we can share Jesus's light with others
-
----
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Jesus as Light** — During Advent, we light candles as we wait for Jesus, the Light of the World. Just as light helps us see in the dark, Jesus helps us see what is good and true.
-
-### Scripture Connection
-> "I am the light of the world. Whoever follows me will never walk in darkness."
-> — John 8:12
-
-### Wonder Question
-> "Have you ever wondered why Advent candles are so important? We light them because Jesus brings light to the world!"
-
----
-
-## 📚 Materials and Preparation
-
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| Flashlights | 1 per 2-3 students | School/classroom |
-| Tissue paper (various colors) | Assorted | Classroom |
-| Cardboard tubes | 1 per student | Recycled |
-| Clear plastic wrap | 1 roll | Classroom |
-| Various materials for testing | Collection | Classroom |
-| Dark paper/construction paper | Class set | Classroom |
-
-### CSCOE Checkout (Optional)
-
-- Little Bits light-up circuits
-
-- Snap Circuits light kit
-
-### Teacher Preparation
-
-- [ ] Test flashlights, replace batteries as needed
-
-- [ ] Cut tissue paper into manageable squares
-
-- [ ] Collect materials for light testing (paper, fabric, plastic, etc.)
-
-- [ ] Create sample "light catcher"
-
-- [ ] Set up darkening option for room (close blinds)
-
----
-
-## 📝 Week 14: Exploring Light
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Wonder | 3 min | Prayer about light |
-| Light Sources | 7 min | Where does light come from? |
-| Light Testing | 10 min | What does light go through? |
-| Closing & Preview | 5 min | Reflection and preview |
-
----
-
-### 1. Opening Prayer & Wonder (3 minutes)
-
-**Light an LED candle if available.**
-
-**Prayer:**
-> "Dear God, thank you for the gift of light. Thank you for the sun that warms us and helps us see. Thank you most of all for sending Jesus to be our Light. Amen."
-
-**Wonder Question:**
-> "What would it be like if there was no light in the world? How would we see?"
-
----
-
-### 2. Light Sources: Where Does Light Come From? (7 minutes)
-
-**Discussion:**
-> "Light helps us see. But where does light come from?"
-
-**Brainstorm sources of light:**
-
-- Sun (the biggest light!)
-
-- Lamps
-
-- Candles
-
-- Flashlights
-
-- Screens (iPad, TV)
-
-- Fire
-
-- Stars
-
-**Categorize:**
-> "Some light comes from God's creation — like the sun and stars. Some light comes from things people made — like lamps and flashlights."
-
-| God's Creation (Natural) | People Made (Artificial) |
-|--------------------------|-------------------------|
-| Sun | Lamp |
-| Stars | Flashlight |
-| Fire | Screen |
-
-**Advent Connection:**
-> "In Advent, we light candles while we wait for Jesus. Why do you think we use light? Because Jesus is the Light of the World! He helps us see what is good and true."
-
----
-
-### 3. Light Testing Experiment (10 minutes)
-
-**Setup:**
-
-- Dim the room if possible
-
-- Groups of 2-3 with flashlights
-
-**Introduce experiment:**
-> "We're going to discover something amazing about light. Light can go THROUGH some things but not others. Let's find out which!"
-
-**Materials to test:**
-
-- Paper (construction paper, tissue paper)
-
-- Plastic (clear, colored)
-
-- Fabric (thin, thick)
-
-- Hands
-
-- Cardboard
-
-**Testing procedure:**
-1. Shine flashlight on material
-2. Can you see the light through it?
-3. Sort into two groups:
-   - Light goes through ✓
-   - Light doesn't go through ✗
-
-**Recording:**
-Teacher records results on chart paper as students share findings.
-
-**Vocabulary Introduction:**
-> "When light goes through something, we call it 'transparent' or 'see-through.' When light can't go through, we call it 'opaque.' Try saying 'opaque!'"
-
----
-
-### 4. Closing & Preview (5 minutes)
-
-**Discussion:**
-
-- "What did you discover about light?"
-
-- "Which materials let light through?"
-
-**Faith Connection:**
-> "Just like light shines through some things, Jesus's love can shine through US to other people! When we are kind and helpful, we share Jesus's light."
-
-**Preview next week:**
-> "Next week, we're going to make something beautiful with light!"
-
-**Closing Prayer:**
-> "Thank you, God, for light. Help us to share Jesus's light with everyone we meet. Amen."
-
----
-
-## 📝 Week 15: Creating Light Art
-
-### ⏱️ Timing Guide (25 minutes)
-
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Review | 3 min | Remember light |
-| Demonstration | 4 min | Show light catcher |
-| Creating Light Art | 14 min | Make light catchers |
-| Sharing & Closing | 4 min | Display and pray |
-
----
-
-### 1. Opening Prayer & Review (3 minutes)
-
-**Prayer:**
-> "Dear God, thank you for light that helps us see the beautiful world You made. Help us to be lights in the world too. Amen."
-
-**Review:**
-> "Last week we learned about light. What materials did light go through?" (Tissue paper, plastic)
-
----
-
-### 2. Demonstration: Light Catcher (4 minutes)
-
-**Show a completed light catcher:**
-> "Today we're making Light Catchers! When you hold them up to the light, the colors glow! Watch..."
-
-(Hold up to window or light)
-
-**How to make it:**
-1. Take a cardboard tube (or paper folded into a frame)
-2. Choose tissue paper colors
-3. Tape tissue paper over the end
-4. Hold up to light and see the colors glow!
-
-**Variation:** Simple sun catcher on paper
-
-- Cut out a shape from dark paper
-
-- Cover the hole with tissue paper
-
-- Hold to light
-
----
-
-### 3. Creating Light Art (14 minutes)
-
-**Distribute materials:**
-
-- Cardboard tubes OR paper frames
-
-- Tissue paper squares
-
-- Tape
-
-- Scissors (if needed)
-
-**Creating Time:**
-
-- Students select colors
-
-- Attach tissue paper to tube/frame
-
-- Layer colors if desired
-
-**Teacher circulates:**
-
-- "What colors are you choosing?"
-
-- "What happens when you put two colors together?"
-
-- "Hold it up — can you see the light?"
-
-**Early finishers:**
-
-- Make a second one
-
-- Try different color combinations
-
-- Draw a sun on the outside
-
----
-
-### 4. Sharing & Closing (4 minutes)
-
-**Light Catcher Display:**
-
-- Line up by windows
-
-- Hold up light catchers
-
-- "Ooh and ahh" at the colors!
-
-**If time:** Take a photo of all light catchers
-
-**Faith Connection:**
-> "Light is so beautiful! God made light for us, and He sent Jesus to be the Light of the World. When we hold up our light catchers, we can remember that Jesus brings beautiful light to our lives."
-
-**Advent Connection:**
-> "You can hang this near a window at home. Every time you see the light shine through, remember that Jesus is the Light of the World!"
-
-**Closing Prayer:**
-> "Thank you, God, for the gift of light and color. Thank you for sending Jesus to be our Light. Help us to shine with Jesus's light every day. Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Week 14 | Week 15 |
-|-------|---------|---------|
-| Can name sources of light | ☐ | ☐ |
-| Understands light goes through some materials | ☐ | ☐ |
-| Participates in light testing | ☐ | ☐ |
-| Creates a light catcher | — | ☐ |
-| Connects light to Jesus | ☐ | ☐ |
-
-### Success Criteria
-
-- Student can name at least 2 light sources
-
-- Student can identify that tissue paper lets light through
-
-- Student creates a light catcher that shows color when held to light
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Pre-cut tissue paper shapes
-
-- Partner for assembly
-
-- Focus on one color choice
-
-- Hand-over-hand for taping
-
-### For Advanced Learners
-
-- Layer multiple colors and predict results
-
-- Create patterns with tissue paper
-
-- Explain to a friend why light goes through tissue paper
-
-- Design a more complex light catcher
-
----
-
-## 🆘 Substitute Teacher Notes
-
-**Week 14 simplified:**
-1. Prayer about light
-2. List things that make light
-3. Use flashlights to explore what light shines through
-4. Closing: Jesus is the Light of the World
-
-**Week 15 simplified:**
-1. Prayer
-2. Free exploration with flashlights and materials
-3. Simple coloring of a "light" picture
-4. Closing prayer
-
----
-
-## 📖 Vocabulary
-
-| Word | Definition | Visual Cue |
-|------|------------|------------|
-| **Light** | Energy that helps us see | Sun icon |
-| **Transparent** | Light can go through it, see-through | Clear glass |
-| **Opaque** | Light cannot go through it | Solid block |
-| **Source** | Where something comes from | Arrow from origin |
-| **Glow** | To shine softly | Soft light bulb |
-
----
-
-## 📎 Home Connection
-
-**Family Note:**
-> "We explored light in STREAM! Your child learned that light travels through some materials (like tissue paper) but not others. We connected this to Advent — Jesus is the Light of the World! Your child made a 'light catcher' to hang near a window. Each time the light shines through, talk about how Jesus brings light to our lives."
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+| Grade / unit / time | K / Light and design / two 25-minute meetings |
+| Domains / big idea | C, S, T, A; materials transmit light differently and artists choose materials for a purpose |
+| Objective / why | "I can compare three materials and explain a tissue placement choice." Fair tests inform design. |
+| Catholic connection | Report actual results; a classroom light symbol is not scientific proof of a belief. |
+| Local standards | CST-C1: evidence/symbol distinction; CST-S2: comparison; CST-T1: flashlight input/output; CST-A2: design choice. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None for digital devices / guided / 15 minutes first kit / 4 per meeting |
+
+## Before class and exact materials
+
+Read [K routines](../../Resources/Kindergarten_Reference_Routines.md).
+Budget 5/8/10/13 kits, 5/7/10/12 active teams. Inspect secured flashlight
+battery covers; teacher alone handles cells. Precut a 10 cm rigid clear
+plastic square with smooth edges, tissue square and cardboard square per kit.
+Mark lamp/material/white-screen positions at 10 cm intervals. Pretest at normal
+room lighting; adjust screen position for visible results, then keep it fixed.
+
+| Allocation for both meetings | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: flashlight; each of 3 test squares; white screen | 5 each | 8 each | 10 each | 13 each |
+| Student: large precut paper frame; crayon | 10 each | 15 each | 20 each | 25 each |
+| Student: two tissue art squares | 20 | 30 | 40 | 50 |
+| Student: four 5 cm tape strips | 40 | 60 | 80 | 100 |
+
+Teacher: timer/roster, scissors for advance preparation, demonstration from one
+kit. Total tissue test/art squares: 25/38/50/63. Keep first results at school.
+
+## Vocabulary, background and SAFETY
+
+**Source:** makes light. **Transmit:** lets light through. **Opaque:** blocks
+transmission in this test. **Symbol:** represents a meaning, not a measured fact.
+Clear plastic transmits much light; tissue scatters/transmits some; cardboard
+usually blocks it. Describe actual outcomes, not guaranteed brightness.
+Misconception: tissue is fully transparent. If asked whether paper makes light,
+explain it reflects/transmits source light; it is not itself a light source.
+No Sun viewing, beams at eyes, flames, lasers, glass, tubes, loose wrap,
+accessible batteries or student circuit building. Keep the room safely lit.
+
+## Meeting 1: material comparison, 25 minutes
+
+1. **0-4:** Identify lamp as source; distinguish a taught faith symbol from an observation.
+2. **4-8:** Model flashlight switch input/output and one material at fixed marked
+   distances. Look at the screen, not into the beam.
+3. **8-17:** Partners predict and compare all three squares, holding lamp,
+   screen and material positions constant. Swap roles; begin individual checks.
+4. **17-21:** Each child classifies one actual outcome as clear/fuzzy/blocked
+   and identifies a kept-same condition and flashlight control.
+5. **21-25:** Date results, switch off lamps, return three squares and clear.
+
+## Meeting 2: evidence-informed art, 25 minutes
+
+1. **0-4:** Retrieve results; if absent run a fresh tissue/cardboard comparison.
+2. **4-8:** Model tissue placement in a precut frame; choose a position to make
+   a pattern readable. No required holiday date or devotional history.
+3. **8-17:** Each child chooses and tapes tissue placement, compares its light
+   effect at the marked position and revises one choice after peer feedback.
+4. **17-21:** Child explains/points to the purposeful choice and distinguishes
+   what the test showed from a classroom meaning of the symbol.
+5. **21-25:** Retain evidence, switch off/count lights, collect dry scraps and clear.
+
+## Success, access, troubleshooting and reported holdings
+
+Assess prediction/result, kept-same condition, input/output and artistic
+reason separately; color beauty is not mastery. Support: two material choices,
+adult placement directed by child, tactile shapes. Challenge: compare repeat tests.
+No visible result: teacher adjusts screen before issuing kits; record adjustments.
+No secured lights: use inspected source/class demonstration and record student
+operation unassessed; never improvise a battery circuit. All work indoors.
+
+**Reported OLP holding, preserved:** 8 Snap Circuits STEM Classroom Activity Kits,
+item OHM-135. Count, completeness, location, manufacturer age/power guidance and
+condition remain unverified. See [reported holdings](../../Review/Materials_Plan.md#reported-olp-holdings).
+Only a pretested adult-operated demonstration is optional; the flashlight
+minimum is unchanged, no loan or student circuit objective is added.
+
+**Family:** We compared light through materials and made a purposeful art choice.
+Ask, "What did you observe, and what did your picture mean?" No homework.

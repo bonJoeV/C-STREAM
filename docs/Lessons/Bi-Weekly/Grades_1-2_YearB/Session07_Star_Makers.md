@@ -60,11 +60,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Biblical connection - VERIFICATION REQUIRED before teaching historical details
 **The Magi (Wise Men)** — They followed a star to find Jesus! Stars can lead us to God.
 
-### Scripture
-> *"We saw his star when it rose and have come to worship him."* — Matthew 2:2
+### Scripture reference
+Matthew 2:2; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. The narrative does not establish the Magi's number, profession or the star's physical identity.
 
 ### Opening Prayer
 *Dear Jesus, the Magi followed a star to find you. Help us follow your light this Advent season. You are the brightest star, the Light of the World! Amen.*
@@ -134,7 +134,7 @@ By the end of this session, students will:
 
 - Watch them sparkle!
 
-- "Our stars light up, just like Jesus lights up our lives!"
+- "Our foil models reflect the flashlight; they do not generate light as actual stars do. Jesus-as-Light is a religious image, not a measured light source."
 
 ### Design Detective Journal (4 minutes)
 1. Draw your star design
@@ -181,7 +181,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / source versus reflection / evidence
+Low-power flashlights only; no lasers, flames, glass, sun viewing or beams at eyes. Teacher precuts any sharp-ended wire; prefer paper/craft-stick/tape stars and crayon/foil instead of loose glitter. Grade 1 compares flashlight on/off reflection orally; Grade 2 explains source versus reflector and revises a star pattern deliberately. **Technology: None primary path.** Last 3 building minutes are cleanup; no routine homework or required candle use.
+
+## Wonder at Home 🏠 (optional; indoor picture conversation equally valid)
 **Family Activity:** Look at the night sky together! Find stars. Talk about the Star of Bethlehem. Make stars to decorate your home for Advent. Light Advent candles and talk about Jesus as Light.
 
 ---

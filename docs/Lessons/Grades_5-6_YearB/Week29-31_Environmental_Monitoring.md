@@ -66,6 +66,18 @@ Students will be able to:
 
 ## 📚 Materials Needed
 
+**Primary safe path:** provided fictional energy records, paper graphs, ruler, pencil. No student meter access, unknown water, trash handling, sensors, outdoor exposure, or unsupervised collection. For 10/15/20/25 students make 4/5/7/9 team datasets and one graph/exit sheet and pencil per student.
+
+| Fictional day | Week A kWh | Week B kWh |
+|---|---:|---:|
+| Monday | 12 | 11 |
+| Tuesday | 14 | 13 |
+| Wednesday | 13 | 12 |
+| Thursday | 11 | 10 |
+| Friday | 15 | 14 |
+
+Teacher key: totals 65/60 kWh; means 13/12 kWh; ranges both 4 kWh. **Invented classroom data, not school measurements.** B follows a proposed awareness campaign in the fictional story, but this association does not prove the campaign caused the difference.
+
 ### Week 29
 
 - Environmental sensors (if available)
@@ -186,7 +198,7 @@ Students will be able to:
 
 **Energy Monitoring:**
 
-- Read electrical meter daily
+- Use the supplied fictional table; only facilities staff may obtain any real building meter records.
 
 - Record at same time
 
@@ -206,7 +218,7 @@ Students will be able to:
 
 **Water Quality:**
 
-- Collect samples consistently
+- Discuss a hypothetical sampling protocol on paper; do not collect unknown water.
 
 - Test for pH, temperature, clarity
 
@@ -216,7 +228,7 @@ Students will be able to:
 
 **Waste Audit:**
 
-- Weigh/sort trash daily
+- Sort pictures of clean materials only; never handle actual trash.
 
 - Categorize (recycle, compost, landfill)
 
@@ -255,9 +267,9 @@ Students will be able to:
 - How do we ensure consistency?
 
 ### Closing (2 min)
-**Homework:**
+**No routine homework:**
 
-- Collect data according to protocol
+- Use the supplied fictional record in class; no ongoing home collection.
 
 - Continue through next week
 
@@ -288,7 +300,7 @@ Students will be able to:
 
 **Data cleaning:**
 
-- Remove obvious errors
+- Preserve the raw record. Flag suspected errors and record why; correct only against a verified source, with both versions retained.
 
 - Note any gaps
 
@@ -508,6 +520,12 @@ Each student: "I will..."
 ---
 
 ## ✅ Assessment
+
+**Local standards (not official):** CST-S1 - individual evidence/limitation; CST-M2 - each student's labeled graph and total; CST-T3 - explain raw-data preservation; CST-C3 - evidence-limited stewardship action. Official benchmarks **VERIFICATION REQUIRED**. Primary technology requirement: **None**; spreadsheets optional. No claim that paper analysis demonstrates actual sensor monitoring.
+
+## SAFETY
+
+No unknown water, trash, electrical meters/panels, roads/parking lots, or student thermostat changes. Facilities staff controls any real records. Unknown water is not proven safe by pH/clarity. Use indoor fictional records in winter; proposals are not permission to install or alter equipment.
 
 - Collected environmental data systematically
 

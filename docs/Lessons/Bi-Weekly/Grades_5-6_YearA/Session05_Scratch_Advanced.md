@@ -1,238 +1,121 @@
 ---
 title: "Session 5: Scratch Advanced"
-description: "Grades 5-6 Bi-Weekly C-STREAM Year A programming"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - thanksgiving
-  - arts
----
-
-
-# Session 5: Scratch Advanced 💻
-
-## Overview
-**Grades:** 5-6 | **Duration:** 45 minutes | **Session:** 5 of 17
-
-Students develop advanced programming skills in Scratch, working with variables, functions, and complex game logic.
-
+description: "Bounded score logic, reset, and loops with an executable paper model"
+version: "2.0"
+date: 2026-10-04
 ---
 
 # Session 5: Scratch Advanced
 
-## Learning Objectives
-By the end of this session, students will:
+## LESSON AT A GLANCE
 
-- Use variables for tracking data
+| Field | Teacher reference |
+|---|---|
+| Grade / unit / title | Grades 5-6 / Computing A / Scratch Advanced |
+| Time | One 45-minute meeting |
+| Domains | C, T, M |
+| Big idea | A variable changes according to explicit rules, not the programmer's wishes. |
+| Student objective | I can trace a score, stop it at three, and debug reset or condition logic. |
+| Why | Programmers and players need predictable rules and respectful feedback. |
+| Catholic connection | Inclusive play, honest tests, and shared roles express dignity; [verified sources](../../../Review/Grades_5-6_Review.md#verified-sources). |
+| Local standards / evidence | CST-T2: individual loop/condition trace and bug correction; CST-M1: individual score table; CST-C2: individual respectful-feedback/access decision. Local codes, not official. |
+| Official benchmarks | VERIFICATION REQUIRED. |
+| Technology | Recommended: primary paper trace is complete without devices. Optional Scratch desktop/web path requires an approved computer/team, no student account. Paper work is not actual programming/operation evidence. |
+| Difficulty / prerequisites | Moderate; count to three, compare "less than," follow sequence. Advanced here means state/condition reasoning, not building a whole game in twelve minutes. |
+| Prep / cleanup | First packet 15 minutes; repeat 10 minutes; cleanup 4 minutes included. |
 
-- Create custom blocks (functions)
+## BEFORE CLASS
 
-- Implement complex game logic
+Optional approved platform: [Scratch](https://scratch.mit.edu/), or an installed
+desktop editor. The primary paper path needs neither account nor connection.
 
-- Debug multi-component programs
+1. Make teams of three maximum (4/5/7/9); rotate input caller, operator, checker.
+2. Make score cards 0,1,2,3/team; draw two buttons: green flag/reset and sprite click. Copy the complete reference below on board or team sheet.
+3. Optional devices: pre-open blank Scratch project, one sprite with two costumes, create variable `score` for all sprites; test saving locally. No public studio, names, or home login.
+4. Write criterion: after reset, clicks 1/2/3/4 produce scores 1/2/3/3; feedback is welcoming, not a rating of people.
 
----
+## MATERIALS
 
-# Session 5: Scratch Advanced
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Individual trace sheet | 1/student | 10 | 15 | 20 | 25 |
+| Reference/button/score-card sheet | 1/team, cut into cards | 4 | 5 | 7 | 9 |
+| Marker; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Timer; board example | 1 each/teacher | 1 | 1 | 1 | 1 |
+| Approved computer with Scratch, optional | 1/team | 4 | 5 | 7 | 9 |
 
-## Materials Needed
+## VOCABULARY
 
-- 💻 Computers with Scratch
+**Variable:** named stored value. **Event:** trigger. **Condition:** test deciding a branch. **Loop:** repeated instructions. **Reset:** return to starting state. **Bug:** mismatch between intended and actual behavior.
 
-- 📋 Advanced programming guides
+## TEACHER BACKGROUND / COMPLETE STARTER
 
-- 📓 Engineering journals
+```text
+when green flag clicked
+  set score to 0
+  say "Try three clicks"
 
-- 🖥️ Projector for demonstration
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Thomas Aquinas** — Used rigorous logic to explore faith. Programming requires similar logical thinking!
-
-### Scripture
-> *"Come now, let us reason together."* — Isaiah 1:18
-
-### Opening Prayer
-*Dear God, you created a universe of order and logic. Help us think clearly and program wisely. May our creations reflect your gift of reason. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (7 minutes)
-1. **Advanced Programming:**
-   - "You know the basics—now we level up!"
-   - Professional programmers use these concepts daily
-2. **Key Concepts Today:**
-   - **Variables** — Store and change values
-   - **Custom Blocks** — Create reusable code (functions)
-   - **Game Logic** — Multiple conditions and responses
-3. **St. Thomas Aquinas:**
-   - "Faith and reason work together"
-   - Logic helps us understand God's world
-   - Programming = Applied logic
-
-### Main Activity: Advanced Programming (30 minutes)
-
-**Part 1: Variables Deep Dive (8 minutes)**
-
-**Variable Types:**
-
-- Score, lives, timer, health
-
-- Position tracking
-
-- Game state (playing, won, lost)
-
-**Demo: Score System**
-```
-When green flag clicked:
-  Set [score] to 0
-  
-When sprite clicked:
-  Change [score] by 10
-  Play sound [pop]
+when this sprite clicked
+  if score < 3 then
+    change score by 1
+    if score = 3 then
+      repeat 3
+        next costume
+        wait 0.2 seconds
+      say "Thanks for trying!"
 ```
 
-**Practice:** Create variable that:
+On paper the operator swaps score cards and flips the sprite card three times instead of changing costumes. `if score = 3` is inside the guard: the fourth click causes no change or repeat. Record this precise behavior, not an assumed extra celebration.
 
-- Tracks clicks
+**Common misconception:** reset only changes the picture. Here reset must change the score.
 
-- Changes with events
+**If asked, "Is this a complete game?"** Answer: It is a small tested interaction. A full game needs more design and time; custom blocks, falling objects, lives, and levels remain later extensions.
 
-- Displays on screen
+Teacher key: reset -> 0; four clicks -> 1,2,3,3; reset again -> 0. Celebration loop occurs once on the third click.
 
-**Part 2: Custom Blocks (Functions) (8 minutes)**
+## EXACT LESSON SEQUENCE
 
-**Why Custom Blocks?**
+1. **0-5 (5 min):** Introduce respectful game rules and the score-limit criterion; differentiate simulation from real programming.
+2. **5-12 (7 min):** Model reset and first two clicks; teach variable, guard, and nested condition.
+3. **12-20 (8 min):** Teams assemble paper model or exact Scratch blocks. Each member explains a different event/branch.
+4. **20-30 (10 min):** Run reset, four clicks, reset again; rotate operators, log expected/actual scores and loop count.
+5. **30-38 (8 min):** Intentionally omit reset or change guard to `score < 4` in a copy. Predict, test, correct, and retest; preserve original working version.
+6. **38-41 (3 min):** Each independently gives five score states, says why click four stops, and explains one respectful/access decision.
+7. **41-45 (4 min):** Save approved local work, collect individual traces, count cards, tidy.
 
-- Reuse code (DRY: Don't Repeat Yourself)
+## QUESTIONS TO ASK STUDENTS
 
-- Organize complex programs
+What is stored before the event? Which condition blocks click four? How many costume changes occur? Why would a player need a clear reset? Which test revealed your bug?
 
-- Make code readable
+## WHAT SUCCESS LOOKS LIKE
 
-**Demo: Create "Move Square" Block**
-```
-Define [Move Square]:
-  Repeat 4:
-    Move 50 steps
-    Turn 90 degrees
+Each student correctly gives 0/1/2/3/3, traces the three-iteration loop, and corrects a reset/guard bug with one before/after test. Grade 5 uses the reference. Grade 6 changes the limit to four, predicts the new boundary, and justifies both edits needed (guard and celebration condition). Team success alone earns no individual programming credit.
 
-When green flag clicked:
-  Move Square
-  Move Square
-```
+## IF THINGS GO WRONG
 
-**Practice:** Create custom block for:
+Device unavailable: paper operator executes all events; mark **algorithm simulation, not device programming**. Score does not reset: check green-flag event and variable name. Repeated click animation surprises: inspect nesting. Too difficult: keep the same rule with highlighted guard and a checker, not a different unassessed task.
 
-- Character animation
+## SAFETY
 
-- Reset position
+Adult checks device/charging condition. No personal/public accounts, private entries, online chat, or publishing. Keep sounds optional/off for sensory access. Never use game score to rank worth or religious commitment.
 
-- Special effect
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-**Part 3: Complex Game Creation (12 minutes)**
+Grade 5: large score cards, less-than symbol spoken aloud, oral exit. Challenge: predict missing reset. Grade 6: same scaffold; challenge limit-four trace with tests at 3/4/5. Keyboard-accessible trigger may replace sprite clicking on device with stated event change and retest.
 
-**Build a Complete Game:**
+## INDOOR FALLBACK
 
-Requirements:
+The paper state machine is complete at desks, with no device/internet or weather dependency.
 
-- Player controlled sprite
+## CLEANUP
 
-- Goal or target
+Save/sign out per school policy; collect score cards and scissors; retain individual trace and bug explanation, not screenshots alone.
 
-- Score tracking
+## FAMILY NEWSLETTER
 
-- Win/lose conditions
+**Explored:** score variables, loops, and conditions. **Did:** tested a three-click interaction and debugged it. **Learned:** boundary rules and reset matter. **Catholic connection:** welcoming, accessible play. **Ask:** "Why didn't the fourth click change the score?" No routine homework; optional conversation needs no account.
 
-- Reset functionality
+**Previous:** [Session 4 - Body Systems](./Session04_Body_Systems.md)
 
-**Suggested: Catching Game**
-1. Player moves with mouse/keys
-2. Objects fall from top
-3. Catch = points, miss = lose life
-4. Track score AND lives
-5. Game over at 0 lives
-
-**Part 4: Playtesting (2 minutes)**
-
-- Test your game
-
-- Have partner play
-
-- Note bugs to fix
-
-### Engineering Journal (5 minutes)
-1. Write about your custom block
-2. Explain your game logic (flowchart if possible)
-3. Write: "Variables help games by..."
-4. Write: "The hardest bug I fixed was..."
-
-### Closing Circle (3 minutes)
-1. **Logic Appreciation** — "How did logical thinking help you?"
-2. **Debugging Wins** — "What problem did you solve?"
-3. **Closing Prayer** — *"Thank you, God, for the gift of reason. Help us think clearly and create wisely. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Used variables appropriately
-
-- [ ] Created custom block
-
-- [ ] Implemented game logic
-
-- [ ] Debugged effectively
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simpler game concept
-
-- Step-by-step guide
-
-- Partner programming
-
-### For Advanced Students
-
-- Multiple levels
-
-- High score saving
-
-- Complex enemy AI
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Share your game with family! Continue developing at home (scratch.mit.edu). Explore other Scratch projects for inspiration. Try the advanced tutorials!
-
----
-
-## Teacher Notes
-
-- Build on previous Scratch experience
-
-- Allow ongoing development
-
-- Consider class Scratch studio
-
-- Games can be showcased at exhibition
-
----
-
-**Previous:** [Session 4 — Body Systems](./Session04_Body_Systems.md)  
-**Next:** [Session 6 — Thanksgiving Innovation](./Session06_Thanksgiving_Innovation.md)
+**Next:** [Session 6 - Thanksgiving Innovation](./Session06_Thanksgiving_Innovation.md)

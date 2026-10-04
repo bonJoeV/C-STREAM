@@ -257,6 +257,11 @@ Write a letter to yourself 5 years from now:
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-E3 - defend one tested design and its limit; CST-A3 - purposeful caption improved after reader feedback; CST-C3 - explain a resource/service choice. Keep each student's artifact and response. The 45 minutes covers preparation only; the listed Expo adds **60-75 minutes** and needs separate calendar/visitor/media approval. No routine homework or mandatory family attendance; no identifiable public photos without school consent.
+
+Official benchmarks and exact attributed prayer/Scripture wording:
+**VERIFICATION REQUIRED** before teaching; use approved sources.
+
 - Completed portfolio reflection
 
 - Prepared quality expo presentation

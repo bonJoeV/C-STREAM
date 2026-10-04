@@ -12,14 +12,18 @@ description: "Year B curriculum for first and second grade combined classroom"
 | **Grade Band** | Grades 1-2 (Combined Classroom) |
 | **Curriculum Year** | Year B (Alternates with Year A) |
 | **Session Length** | 30 minutes |
-| **Total Sessions** | 34 weeks |
+| **Teaching Meetings** | 32 in 20 files; 34 calendar labels include 2 breaks |
 | **Sessions Per Week** | 1 |
 
 ---
 
 ## 🔄 Year A/B Rotation
 
-This is **Year B** of a two-year rotation. Students who had Year A last year will experience:
+This is **Year B** of a two-year rotation, not a curriculum requiring Year A completion. New Grade 1 students can enter either rotation; teach/recheck picture sequences, observation and safe tool use before dependent challenges. Returning Grade 2 students need increased explanation and measured revision, not the assumption that new robot hardware is inherently harder.
+
+See the [Grades 1-2 review and downloadable audit](../../Review/Grades_1-2_Review.md). This collection supplies **32 x 30 = 960 minutes**, not 34 teaching sessions. Calendar labels 17 and 32 have no lessons and are break slots. If 34 taught meetings are required, locally schedule two reteach/evidence checks; do not claim those files already exist. Biweekly is 17 x 30 = 510 minutes and has less practice.
+
+Students who had Year A may experience:
 
 - **Same foundational skills** (coding basics, engineering process, scientific inquiry)
 
@@ -27,7 +31,7 @@ This is **Year B** of a two-year rotation. Students who had Year A last year wil
 
 - **Different saints and Scripture** (expanded Catholic connections)
 
-- **Progressive complexity** (building on Year A foundations)
+- **Rechecked foundations with grade-specific evidence** (oral/drawn Grade 1; Grade 2 reasoning, measurements and revisions)
 
 ---
 
@@ -131,7 +135,7 @@ This is **Year B** of a two-year rotation. Students who had Year A last year wil
 
 ### CSCOE Library Items
 
-- Reserve 2 weeks in advance
+- Confirm loan availability, lead time, terms and app compatibility; "2 weeks" is a planning suggestion, not verified checkout policy.
 
 - Dash Robot charging needed
 
@@ -140,6 +144,8 @@ This is **Year B** of a two-year rotation. Students who had Year A last year wil
 ---
 
 ## 🙏 Year B Saint Focus
+
+Biographies, patronage and interpretations below are **VERIFICATION REQUIRED** before use; do not treat an unsourced trait as established history. Faith identity can be assessed through honest evidence, inclusion and stewardship without a biography.
 
 Year B highlights different Catholic scientists and saints:
 
@@ -150,6 +156,11 @@ Year B highlights different Catholic scientists and saints:
 - **Bl. Solanus Casey** — Wonder, humility, service
 
 - **St. Martin de Porres** — Practical service, healing
+
+## Readiness and technology limits
+Fully rebuilt lessons have individual Grade 1/Grade 2 criteria, nonreader demonstrations, 10/15/20/25 quantities, native 30-minute timing, cleanup, safety and no-device/winter paths. Other lessons received targeted corrections but still need fuller quantity/timing/assessment work identified in the review. No lesson is certified simply because a file exists.
+
+Dash/ScratchJr execution has a **Required primary path** where actually assessed; unplugged alternatives demonstrate algorithm/story concepts, **not physical robot or app mastery**. Check actual inventory and school-approved permissions; cameras and videos are optional where paper evidence works. Plant care stays at school by default; no required home purchase, watering, routine homework or family donation. Official Minnesota/Archdiocesan/CSTA alignment remains **VERIFICATION REQUIRED**.
 
 ---
 

@@ -123,9 +123,9 @@ Students will be able to:
 
 - Used her talents to teach and serve
 
-- Founded first Catholic schools in America
+- Helped develop Catholic education in the United States; do not claim hers were the first Catholic schools
 
-- "The best gift is giving of ourselves"
+- Paraphrase the service theme; no unsourced quotation attributed to Seton
 
 **Our challenge:**
 "Today we design and create gifts that SERVE others — gifts that meet a real need or bring real joy."
@@ -283,3 +283,7 @@ Students will be able to:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## SAFETY / delivery approval
+
+Use paper cards/bookmarks as the default, no snacks, medical/comfort devices or small counting manipulatives for younger children. An adult confirms recipient organization restrictions and consent before delivery. No pupil photos, names, addresses or health information without school approval. Seton biography details beyond the broad service theme are **VERIFICATION REQUIRED**. Gift appearance does not establish useful function; collect each child's user need and one appropriate design choice.

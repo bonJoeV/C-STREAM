@@ -57,11 +57,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Catholic connection - VERIFICATION REQUIRED before teaching doctrinal details
 **The Risen Jesus** — Easter celebrates the greatest new beginning: Jesus rising from the dead!
 
-### Scripture
-> *"I am making everything new!"* — Revelation 21:5
+### Scripture reference
+Revelation 21:5; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Alleluia! Jesus is risen! Dear God, thank you for Easter and the gift of new life. Help us celebrate your love today and every day. Alleluia! Amen.*
@@ -180,7 +180,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / evidence / cleanup
+Paper flowers/cards are the safe default; no real eggs, glass, sharp wire ends, wild collecting or strings around necks. Grade 1 orally explains one chosen symbol; Grade 2 revises one visual feature to communicate meaning to a partner. This is artistic/faith communication, not assessed engineering or a scientific resurrection demonstration. **Technology: None primary path**; indoor pictures work in winter. Last 3 creation minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; indoor picture discussion equally valid)
 **Family Activity:** Go on an "Easter new life hunt"! Look for signs of new life: flowers, baby animals, birds, buds on trees. Attend Easter Mass together and celebrate the resurrection!
 
 ---

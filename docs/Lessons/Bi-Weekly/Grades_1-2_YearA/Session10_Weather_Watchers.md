@@ -61,11 +61,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching legends/biographies
 **St. Scholastica** — According to legend, she prayed and God sent a storm so she could keep talking with her brother (St. Benedict) about faith!
 
-### Scripture
-> *"He makes clouds rise from the ends of the earth; he sends lightning with the rain and brings out the wind from his storehouses."* — Psalm 135:7
+### Scripture reference
+Psalm 135:7; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. A devotional story is not meteorological evidence.
 
 ### Opening Prayer
 *Dear God, you control the weather—the sun, rain, snow, and wind. Thank you for the patterns you built into nature. Help us learn about your amazing world. Keep us safe in all weather. Amen.*
@@ -105,9 +105,8 @@ By the end of this session, students will:
 - Look at clouds
 
 - Cloud types (simplified):
-  - Fluffy clouds = fair weather
-  - Flat gray clouds = might rain
-  - Wispy high clouds = weather changing
+  - Describe visible cloud shapes/color without treating them as guaranteed forecasts.
+  - A single classroom observation cannot establish a weather pattern; a prediction remains a guess to check later.
 
 - Draw the clouds you see
 
@@ -176,7 +175,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / indoor weather route / evidence
+Default: observe from a closed window and read a teacher-provided outdoor temperature; use a non-glass thermometer and follow placement instructions, not indoor heat against a sunny window. Never go outside in extreme cold/storms or fly streamers near traffic/electrical lines; teacher controls strings, no neck loops. Test windsock indoors with a teacher gently moving air using cardboard; no shared mouth blowing. Grade 1 draws two observed weather details; Grade 2 records temperature/date and names prediction uncertainty. **Technology: None primary path.** Last 3 building minutes are cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; one spoken window observation is enough)
 **Family Activity:** Start a family weather journal! Record the weather each day for a week. Hang your windsock outside and watch it. Compare your observations to the weather forecast—how accurate were you?
 
 ---

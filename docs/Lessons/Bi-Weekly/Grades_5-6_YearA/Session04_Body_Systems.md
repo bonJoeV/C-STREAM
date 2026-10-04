@@ -80,7 +80,7 @@ By the end of this session, students will:
    - 🍽️ **Digestive** — Stomach, intestines, processing food
 3. **Systems Work Together:**
    - You can't breathe without muscles
-   - Heart needs nerves to beat
+   - The heart has specialized pacemaker cells that initiate beats; nerves help regulate rate but are not required to initiate every beat.
    - Everything is integrated!
 4. **Fearfully & Wonderfully Made:**
    - God's design is incredible
@@ -118,7 +118,7 @@ By the end of this session, students will:
 
 - Show heart chambers
 
-- Show blood flow (red = oxygen, blue = CO2)
+- Use red for relatively oxygen-rich and blue for relatively oxygen-poor **blood in the diagram**; real human blood is red, not blue. Both streams carry oxygen and carbon dioxide in differing amounts.
 
 - Show major vessels
 
@@ -168,6 +168,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-S3 - individual accurate system function/connection; CST-A1 - labeled model with red/blue limitation; CST-C2 - explain dignity independent of health/ability. Official benchmarks **VERIFICATION REQUIRED**. No body samples, disease diagnosis, or required health disclosure.
 **Observation Checklist:**
 
 - [ ] Identified system components

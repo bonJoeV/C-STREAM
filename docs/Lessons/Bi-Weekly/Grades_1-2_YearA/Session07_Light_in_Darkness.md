@@ -63,11 +63,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching devotional details
 **Mary, Star of the Sea** — Mary guides us to Jesus, the true Light, just as stars guide sailors home.
 
-### Scripture
-> *"I am the light of the world. Whoever follows me will never walk in darkness."* — John 8:12
+### Scripture reference
+John 8:12; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. Light language is religious imagery, not a measured property of Jesus.
 
 ### Opening Prayer
 *Dear Jesus, in this Advent season, we wait for you—the Light of the World. Help us shine your light to everyone we meet. Come, Lord Jesus! Amen.*
@@ -161,7 +161,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / evidence / cleanup
+Low-power flashlights, plastic safety prism/transparent objects, enclosed LED lights only; no glass, lasers, real flames, sun viewing, glow-stick opening or beams at eyes. Keep aisles visible and children seated if dimming. Replace glitter/sequins with crayon/foil. Grade 1 shows a blocked versus transmitted beam orally; Grade 2 explains one changed material/position using observations. **Technology: None primary path.** Reserve final 3 creation minutes for cleanup; no routine homework.
+
+## Wonder at Home 🏠 (optional; flashlight play indoors or picture discussion)
 **Family Activity:** Look for lights during Advent! Christmas lights, candles, stars. Talk about how Jesus is the Light of the World. Make shadow puppets together using a flashlight.
 
 ---

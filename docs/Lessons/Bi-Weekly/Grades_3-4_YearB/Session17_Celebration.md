@@ -62,7 +62,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**All Our Year B Saints** — St. Isidore, Blessed Carlo Acutis, St. Kateri, St. Joseph, St. Thomas Aquinas, and all who inspired us!
+**Saints and scientists** — St. Isidore, St. Carlo Acutis, St. Kateri, St. Joseph and St. Thomas Aquinas inspired reflection; Fr. Lemaitre is a scientist/priest, not labeled a canonized saint.
 
 ### Scripture
 > *"I am confident of this, that he who began a good work in you will carry it on to completion."* — Philippians 1:6
@@ -179,9 +179,9 @@ By the end of this session, students will:
 
 **This year you:**
 
-- ✅ Mastered design thinking process
+- Practiced design thinking; mastery requires individual evidence
 
-- ✅ Programmed Ozobot robots
+- Planned/traced routes; claim actual Ozobot programming only with observed verified command testing
 
 - ✅ Built towers to the sky
 
@@ -198,7 +198,7 @@ By the end of this session, students will:
 - ✅ Connected faith to every project!
 
 **Saints You Met:**
-St. Isidore • Bl. Carlo Acutis • St. Kateri Tekakwitha • St. Paul • Fr. Lemaître • St. Joseph • St. Thomas Aquinas • Mary Magdalene
+St. Isidore • St. Carlo Acutis • St. Kateri Tekakwitha • St. Paul • Fr. Lemaître (scientist, not saint) • St. Joseph • St. Thomas Aquinas • Mary Magdalene
 
 **Skills You Developed:**
 Design Thinking • Coding • Scientific Exploration • Engineering • Problem-Solving • Collaboration • Perseverance • Faith Integration

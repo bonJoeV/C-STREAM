@@ -97,7 +97,9 @@ By the end of this session, students will:
 
 **Part 2: Build Your Game (18 minutes)**
 
-**Choose Game Type (2 min):**
+**Primary novice path (2 min):** Use the bounded three-point click game in [Weekly Year B Game Design Studio](../../Grades_3-4_YearB/Week19-22_Game_Design.md), specifically its two-stack starter. Create Score, reset to 0 on green flag, add 1 on click **only if Score < 3**. Trace four clicks as 0,1,2,3,3. This session uses that starter, not all four meetings. The game choices below are extensions for pupils already able to code.
+
+**Optional game types:**
 
 - Maze navigator
 
@@ -124,7 +126,7 @@ By the end of this session, students will:
 
 3. **Scoring (4 min)**
    - Create variable called "Score"
-   - When touching target: change Score by 1
+   - Use a discrete click or wait for separation after contact; unguarded continuous touching can score every program cycle
    - Display score on stage
 
 4. **Polish (4 min)**
@@ -197,7 +199,7 @@ By the end of this session, students will:
 
 - Allow time to play each other's games
 
-- Consider class Scratch studio for sharing
+- Use private guest/offline local files; no public studio without school approval
 
 - Games can be continued/improved later
 
@@ -205,3 +207,7 @@ By the end of this session, students will:
 
 **Previous:** [Session 4 — Ecosystems](./Session04_Ecosystems.md)  
 **Next:** [Session 6 — Thanksgiving Design](./Session06_Thanksgiving_Design.md)
+
+## Scope and honest evidence
+
+Primary technology Required for executable Scratch. Paper token/score traces are a no-device CT path, not device operation. Every child predicts the fourth-input score and explains the guard/restart; log actual edit/run separately. Grade 3 uses counts 0-3; Grade 4 explains boundary behavior. Reserve 5 minutes of the build/polish block for saving/cleanup. Complete novice pacing and a local starter-file kit still need P1 work; home coding is optional.

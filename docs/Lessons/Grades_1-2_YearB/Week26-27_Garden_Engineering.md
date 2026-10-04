@@ -50,14 +50,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Spiritual Growth** — Just like plants need sun, water, and soil, our faith needs nourishment too — prayer, Mass, kindness. Jesus often used plant parables to teach about faith.
 
-### Scripture Connection
-> "I planted the seed, Apollos watered it, but God has been making it grow."
-> — 1 Corinthians 3:6
+### Scripture reference
+1 Corinthians 3:6; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Fiacre** — Patron saint of gardeners who saw gardening as prayer. He cared for God's creation and fed the poor from his garden.
 
 ---
@@ -92,7 +91,7 @@ Students will be able to:
 
 - 💧 **Water** — Drink for the plant
 
-- 🪴 **Soil** — Home and food
+- 🪴 **Growing medium** — Support and nutrients; soil is not plant food. Plants make food using light; appropriate soilless growth is possible.
 
 - 💨 **Air** — Plants breathe too!
 
@@ -116,7 +115,7 @@ Students will be able to:
 
 ### Plant Life Cycle (6 min)
 **The circle of life:**
-1. **Seed** — Everything starts here!
+1. **Seed** — This is the start of our selected flowering-plant example, not every kind of plant.
 2. **Sprout** — First little plant emerges
 3. **Seedling** — Baby plant grows
 4. **Adult plant** — Full-grown, makes flowers
@@ -129,7 +128,7 @@ Students will be able to:
 
 - "Isn't it amazing that a tiny seed becomes a big plant?"
 
-- "God put everything needed inside that little seed!"
+- "A seed has a young plant and stored food; it still needs suitable water, oxygen and temperature to germinate, then light and nutrients to grow."
 
 ### Planting Activity (10 min)
 **Plant your seeds!**
@@ -150,7 +149,7 @@ Students will be able to:
 
 - Put in sunny spot
 
-- Watch for sprouts in 5-7 days!
+- Check the selected untreated seed packet for possible timing; growth is not guaranteed in 5-7 days.
 
 ### Faith Connection (2 min)
 **Spiritual growth:**
@@ -276,7 +275,10 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
+## SAFETY / school care / constraints
+Teacher makes drainage holes; plastic pots in leakproof trays, no tasting mix/seeds/plants or pesticides, handwashing required. Name an adult to check moisture on school days/weekends/breaks; water when needed, not automatically. School care is the default; home care is voluntary. Indoor bright space/pictures replace outdoor planting in winter. Grade 1 shows two plant needs and an access path orally; Grade 2 revises a plan to fit a 30 x 40 cm model with clear 10 cm care strip. Reserve 5 making minutes each meeting for cleanup. **Technology: None primary path.**
+
+## 📎 Home Connection (optional; no routine homework)
 > "We planted seeds and designed gardens! Your child has a growing plant to care for. Help them water it and watch for growth. Ask: 'What do plants need?' 'What kind of garden did you design?' 'Who would your garden help?' Consider planting something together this spring!"
 
 ---

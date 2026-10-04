@@ -251,6 +251,8 @@ Rate yourself 1-5:
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-E1 - one project criterion/constraint; CST-M2 - three milestones anchored to a prior measured result, not just self-ratings; CST-C3 - explain one time/material tradeoff. Spiritual goals may stay private. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Reflected meaningfully on first semester
 
 - Set SMART goals in multiple areas

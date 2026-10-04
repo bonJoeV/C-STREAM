@@ -13,7 +13,7 @@ keywords: Catholic STEM, STREAM education, Catholic schools curriculum, faith an
 
     ---
 
-    A Catholic STEM framework integrating faith and reason throughout every aspect of the curriculum, built on research-backed success factors from NCEA.
+    A local Catholic C-STREAM program integrating faith and reason, hands-on inquiry, responsible design and service.
 
     [:octicons-arrow-right-24: Quick Start Guide](Resources/Quick_Start_Guide.md)
 
@@ -22,6 +22,12 @@ keywords: Catholic STEM, STREAM education, Catholic schools curriculum, faith an
 ![C-STREAM Logo](/C-STREAM/assets/images/C-STREAM-Logo.png){ align=right width=230 }
 
 ## Welcome to C-STREAM
+
+!!! info "2026-27 curriculum review"
+    Start with the [curriculum review](Review/README.md) for verified sources,
+    local standards, grade progression, lesson audits, low-tech materials and
+    revised teaching plans. Not every legacy lesson is substitute-ready.
+    Local program standards are not official Archdiocesan or Minnesota standards.
 
 C-STREAM represents **Catholic** STEM education that intentionally weaves together faith and reason throughout every aspect of the curriculum. Rather than treating religion as a standalone subject, this framework integrates Catholic identity like "yeast that causes everything to rise."
 
@@ -70,7 +76,7 @@ For combined-grade classrooms, we offer **Year A** and **Year B** versions:
 
 - **Year A & Year B** cover the same core skills with different projects, saints, and contexts
 
-- Students never repeat content in back-to-back years
+- Core skills recur with increasing independence; project contexts vary. Check the grade review for overlaps and prerequisites rather than assuming no repetition.
 
 - Kindergarten has a single track (students only experience it once)
 
@@ -122,24 +128,29 @@ For combined-grade classrooms, we offer **Year A** and **Year B** versions:
 
 ## :star: What Makes C-STREAM Special
 
-The **"A" in C-STREAM** encompasses **Arts** (both visual and musical), emphasizing digital creation tools:
+The **"A" in C-STREAM** encompasses **Arts** (both visual and musical), with hands-on creation first:
 
 
-- :art: **Digital Art**: Drawing apps, graphic design, animation, 3D modeling
+- :art: **Visual Art**: Observational drawing, pattern, purposeful model design, composition and visual communication
 
-- :musical_note: **Digital Music**: Composition apps, sound design, audio editing, coding music
+- :musical_note: **Music**: Rhythm, sound investigation, composition and attentive listening
+
+Digital art, animation and music tools are optional extensions when they
+materially improve the learning objective, not prerequisites for arts learning.
 
 ---
 
 ## :trophy: The 12 Success Factors
 
-This framework is built on twelve research-backed success factors for Catholic STEM programs:
+These twelve design principles guide the local program. Consult the
+[source register](Review/Standards_Sources.md) before making an official
+standards or accreditation claim.
 
 ??? abstract "1. :pray: Faith-Reason Integration"
-    Present science and faith as complementary, using STEM subjects as "privileged gateways into the divine order of things."
+    Present faith and reason as complementary, while distinguishing scientific evidence, theological teaching and a classroom metaphor.
 
 ??? abstract "2. :clipboard: NCEA's 10 Characteristics"
-    Alignment with National Catholic Education Association standards for excellence in Catholic STEM education.
+    Use a local STREAM reflection checklist. Exact NCEA publication alignment and accreditation status are VERIFICATION REQUIRED.
 
 ??? abstract "3. :wrench: Hands-On, Project-Based Learning"
     Students apply leading-edge technology to "hands-on, minds-on projects" that build critical thinking and collaboration.
@@ -181,14 +192,17 @@ This framework is built on twelve research-backed success factors for Catholic S
 | **Winter** | 13-22 | Deeper investigation, long-arc projects |
 | **Spring** | 23-34 | Application, service projects, celebration |
 
-**Lesson Mix (34 sessions):**
+**Choose one sequence, not an additive menu:**
 
 
-- :blue_circle: **10-15 Single-Week Lessons** - Self-contained explorations
+- :blue_circle: **Bi-weekly:** 17 meetings in one grade-band rotation.
 
-- :green_circle: **8-10 Multi-Week Units** (2-4 weeks each) - Deeper investigations
+- :green_circle: **Weekly:** A 34-slot planning calendar; holiday and multi-week document counts require the grade-band pacing check.
 
-- :orange_circle: **4-6 Long-Arc Projects** (5-8 weeks each) - Major engineering challenges
+- :orange_circle: **Extensions:** Use additional meetings for retesting, data, artistic revision and communication; do not add every optional project to the year.
+
+See the [scope and sequence](Review/Scope_and_Sequence.md) for learning
+priorities and the [lesson map](Review/Lesson_Map.csv) for document-level counts.
 
 ---
 

@@ -1,507 +1,134 @@
 ---
 title: "Weeks 2-4: Biotechnology Basics"
-description: "Grades 5-6 Year B introduction to life science technology"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - life-science
-  - animals
-  - arts
+description: "Accurate cell and DNA models with bounded biotechnology ethics"
+version: "2.0"
+date: 2026-10-04
 ---
 
-# 🧬 Weeks 2-4: Biotechnology Basics
+# Weeks 2-4: Biotechnology Basics
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Teacher reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 3 sessions (45 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), T (Technology), R (Religion) |
+| Grade / unit / title | Grades 5-6 / Life Science B / Biotechnology Basics |
+| Time | Three meetings of 45 minutes; 135 total |
+| Domains | C, S, A; technology applications are considered, not operated |
+| Big idea | Models help us explain living systems but have limits; technology choices affect people. |
+| Student objective | I can label cell parts, model complementary DNA bases, and explain a benefit, risk, and dignity safeguard. |
+| Why | Science literacy helps people understand food and medicine without overstating evidence. |
+| Catholic connection | Faith and reason, human dignity, and responsible service; [verified sources](../../Review/Grades_5-6_Review.md#verified-sources). Models are not scientific proof of God or a substitute for moral reasoning. |
+| Local standards / evidence | CST-S3: individual cell function and complementary-base explanation; CST-A1: labeled model with a stated limitation; CST-C1: distinguish evidence from a belief claim; CST-C2: benefit/risk/access analysis. |
+| Official benchmarks | VERIFICATION REQUIRED; four local codes only. |
+| Technology | None. Optional prepared-slide microscope demonstration adds instrument observation only. |
+| Difficulty / prerequisites | Moderate; letter matching and diagrams. No genetics vocabulary assumed; no previous rotation required. |
+| Prep / cleanup | First packet 20 minutes; repeated 10 minutes; cleanup 4 minutes each meeting included. |
 
----
+## BEFORE CLASS
 
-# Weeks 2-4: Biotechnology Basics
+1. Make teams of at most three (4/5/7/9). Copy the teacher fact cards and case cards below. Read them; no external research or missing handouts needed.
+2. Cut each team's eight base cards: A,A,T,T,C,C,G,G. Students may instead write these letters on eight paper rectangles.
+3. Put dry nonfood materials in trays. **Do not prepare fruit extraction, alcohol, candy models, body samples, or cultures.** The original observation/model goals remain; extraction skill is deliberately not assessed.
+4. Optional microscope: adult uses sealed, commercially prepared plant/animal slides only; no cheek cells, blood, pond water, or broken-glass handling.
 
-## 🎯 Learning Objectives
+## MATERIALS
 
-### STEM Objectives
-Students will be able to:
-1. Understand basic cell structure and function
-2. Explain what DNA is and what it does
-3. Explore biotechnology applications
-4. Conduct simple life science experiments
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Model/exit sheets | 3/student for unit | 30 | 45 | 60 | 75 |
+| Fact/case packet, 2 pages | 1/team | 8 pages | 10 pages | 14 pages | 18 pages |
+| Colored paper sheet | 2/team for organelles/base cards | 8 | 10 | 14 | 18 |
+| Marker; ruler; blunt scissors | 1 each/team, reusable | 4 | 5 | 7 | 9 |
+| Tape | 0.5 m/team/unit | 2 m | 2.5 m | 3.5 m | 4.5 m |
+| Timer; large teacher diagram | 1 each/teacher | 1 | 1 | 1 | 1 |
 
-### Faith Integration Objectives
-Students will be able to:
-1. Marvel at the complexity of God's design in cells
-2. Consider ethical implications of biotechnology
-3. See biology as revealing God's wisdom
+## VOCABULARY
 
----
+**Cell:** basic unit of living things. **Membrane:** boundary regulating entry/exit. **Nucleus:** DNA-containing compartment in typical plant/animal cells. **Organelle:** specialized cell structure. **DNA:** molecule carrying inherited information. **Biotechnology:** using living systems or their parts to make useful products/processes.
 
-# Weeks 2-4: Biotechnology Basics
+## TEACHER BACKGROUND AND FACT CARDS
 
-## 🙏 Faith-Reason Integration
+- Typical plant and animal cells both have membrane, cytoplasm, nucleus, mitochondria, and ribosomes. Plant cells also have a cell wall; green photosynthetic plant cells have chloroplasts.
+- Mitochondria participate in releasing usable energy from nutrients; ribosomes build proteins. The nucleus is not a literal brain.
+- Bacteria do not have a membrane-bound nucleus. Mature human red blood cells lack a nucleus; most other human cells contain nuclear DNA. Some DNA is also in mitochondria and chloroplasts.
+- In double-stranded DNA, A pairs with T and C with G. The "ladder" model omits scale, chemistry, and many cellular processes. Many traits involve several genes and environment; DNA does not determine a person's worth.
+- Biotechnology includes fermentation and producing useful substances with cells. Classroom paper models are **not** experiments demonstrating a treatment's effectiveness.
 
-### Catholic Teaching Connection
-**The Sanctity of Life** — As Catholics, we believe all life is sacred because it's created by God. Biotechnology can do great good (curing diseases, growing food) but must always respect the dignity of human life. Ethics matter!
+**Common misconception:** every cell has DNA inside a nucleus. The examples above show why this absolute is false.
 
-### Scripture Connection
-> "For you created my inmost being; you knit me together in my mother's womb. I praise you because I am fearfully and wonderfully made."
-> — Psalm 139:13-14
+**If asked, "Does a DNA code prove a designer scientifically?"** Answer: Catholics believe in a Creator; scientific models describe observable molecular processes. The analogy to code is useful but is not a test proving a theological claim.
 
-### Saint Connection
-**St. Hildegard of Bingen** — This 12th-century Benedictine abbess wrote extensively about natural science, medicine, and the human body. She saw understanding the body as understanding God's creation. She's now a Doctor of the Church!
+### Fictional case cards - all necessary information supplied
 
----
+**A - Food process:** A fictional cooperative uses yeast to make bread rise. Its proposal reduces waste by better batch planning. Benefits: more usable food; risks: contamination and allergic ingredients; safeguards: qualified food-safety supervision and clear ingredient labels. We do not prepare/taste food.
 
-## 📚 Materials Needed
+**B - Medicine process:** A fictional laboratory uses engineered microbes to produce a useful protein. Potential benefit: more treatment supply. Questions: safety testing, price, access, and waste containment. This card does not establish approval or effectiveness of any medicine.
 
-### Week 2 (Cells)
+**C - Crop proposal:** A fictional drought-tolerance crop might use less irrigation. The claimed saving is a hypothesis, not measured fact. Ask for comparable field data and effects on local farmers/ecosystems. Do not infer that every genetic modification is beneficial or harmful.
 
-- Cell diagrams
+Teacher key: several reasoned decisions are defensible. Require a benefit, a risk/unknown, affected people, and a safeguard; do not grade agreement with a predetermined commercial policy. Specific Church positions on embryo, cloning, or stem-cell cases are **VERIFICATION REQUIRED** before teaching; those cases are outside this bounded lesson.
 
-- Microscopes (if available)
+## EXACT LESSON SEQUENCE
 
-- Cell model materials (Jello, candy, etc.)
+### Meeting 1 - cell models
 
-- Prepared slides or images
+1. **0-5 (5 min):** Introduce wonder and dignity without ranking bodies by health/ability.
+2. **5-12 (7 min):** Read fact cards; model membrane, cytoplasm, nucleus, mitochondria, and ribosomes on board.
+3. **12-22 (10 min):** Each student draws a plant or animal cell and labels the five shared parts; plant model adds wall and, for a green leaf cell, chloroplasts.
+4. **22-32 (10 min):** Teams compare models; check labels against fact cards, revise one error or document an accurate comparison.
+5. **32-38 (6 min):** Each explains two functions and one model limit to a partner; optional teacher prepared-slide demonstration uses this time instead, not extra time.
+6. **38-41 (3 min):** Individual exit: explain membrane/nucleus distinction and why a nucleus is not a brain.
+7. **41-45 (4 min):** Clean up, retain drawings.
 
-### Week 3 (DNA)
+### Meeting 2 - DNA matching model
 
-- DNA extraction materials (strawberries, soap, salt, alcohol)
+1. **0-5 (5 min):** Review cell exceptions and distinguish observation/model/belief.
+2. **5-12 (7 min):** Demonstrate A-T and C-G complementary pairing; write sequence ATCG.
+3. **12-22 (10 min):** Teams build four rungs from eight cards, label backbone rails, then twist paper model gently. Rotating student explains each pair.
+4. **22-32 (10 min):** Each student independently completes complements: ATCG -> TAGC; CCTA -> GGAT. Check and explain one correction.
+5. **32-38 (6 min):** Discuss what model omits and why genes plus environment are more complex than a one-letter personality code.
+6. **38-41 (3 min):** Individual exit: one valid base pair, a cell exception, and a model limitation.
+7. **41-45 (4 min):** Store cards and models.
 
-- DNA model materials (candy, toothpicks)
+### Meeting 3 - biotechnology and ethical reasoning
 
-- DNA images and videos
+1. **0-5 (5 min):** Explain technology decisions need both evidence and ethical consideration.
+2. **5-12 (7 min):** Adult models case A: benefit, risk, affected people, safeguard.
+3. **12-22 (10 min):** Teams examine B or C using only supplied facts; list unknowns, not invented medical claims.
+4. **22-32 (10 min):** Each student writes/dictates a four-part recommendation. Grade 5 uses sentence frames; Grade 6 explains a tradeoff or missing evidence.
+5. **32-38 (6 min):** Neighboring-team exchange; revise one safeguard to better respect access or dignity.
+6. **38-41 (3 min):** Individual exit: distinguish one scientific claim from one ethical judgment and identify information needed before implementation.
+7. **41-45 (4 min):** Collect individual evidence and clean up.
 
-### Week 4 (Biotechnology)
+## QUESTIONS TO ASK STUDENTS
 
-- Case study materials
+Which label describes a function rather than a literal city part? What breaks the "every cell has a nucleus" claim? Which facts support your recommendation? Who might be excluded if price is ignored? What still requires a qualified expert?
 
-- Debate preparation sheets
+## WHAT SUCCESS LOOKS LIKE
 
-- Ethics framework handout
+Each student labels five cell parts, correctly gives at least 7 of 8 complementary letters, states one model limitation, and makes a recommendation containing benefit, risk/unknown, affected people, and safeguard. Grade 6 adds a specific evidence need and tradeoff. A pretty model or group consensus alone is insufficient.
 
-- Research materials
+## IF THINGS GO WRONG
 
----
+No colored paper: pencil symbols suffice. Letters confuse: keep reference A-T/C-G visible. Model becomes literal: revisit limitations before continuing. Ethical debate becomes personal: use fictional cooperative/lab, not classmates' diagnoses or family decisions.
 
-## 📝 Week 2 Procedure: Cells — Building Blocks of Life (45 minutes)
+## SAFETY
 
-### Opening Prayer (2 min)
-"Creator God, You designed every cell in our bodies with incredible wisdom! Help us learn about these tiny building blocks of life. St. Hildegard, who studied Your creation, pray for us! Amen."
+Dry paper only; no unknown chemicals, alcohol, tasting, toothpicks, tissue sampling, live cultures, or DNA collection. Adult alone handles optional sealed slides/microscope. No medical advice or questions about students' genetic/health information.
 
-### Introduction to Cells (10 min)
-**The fundamental unit of life:**
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-**Key concepts:**
+Grade 5: five-part diagram template, paired letters, oral reasoning. Grade 5 challenge: compare plant and animal models. Grade 6: same base model with exceptions; challenge explain why a multi-factor trait cannot be inferred from our four-rung model. Use high-contrast symbols and a scribe; preserve the same conceptual evidence.
 
-- All living things are made of cells
+## INDOOR FALLBACK
 
-- Cells are microscopic — millions in a drop of blood!
+The complete primary lesson is indoors, device-free, and independent of seasons. No microscope changes the objective: modeling, not instrument observation.
 
-- Cells do everything: eat, grow, reproduce, die
+## CLEANUP
 
-- Different cells have different jobs
+Count scissors, cap markers, return cards, recycle unused scraps, retain labeled models and individual ethics exits.
 
-**Cell types:**
+## FAMILY NEWSLETTER
 
-- **Plant cells** — Have cell wall, chloroplasts
-
-- **Animal cells** — No wall, can move
-
-- **Bacteria** — Simple, no nucleus
-
-**St. Hildegard connection:**
-
-- Studied the body 900 years ago
-
-- Didn't have microscopes!
-
-- Still understood body's complexity
-
-- "The human body is a universe in itself"
-
-### Cell Structure (10 min)
-**Parts of a cell:**
-
-**Organelles:**
-
-- **Cell membrane** — Outer boundary (security guard)
-
-- **Nucleus** — Control center (brain)
-
-- **Cytoplasm** — Gel inside (filling)
-
-- **Mitochondria** — Power plants (batteries)
-
-- **Ribosomes** — Protein factories
-
-- **Endoplasmic reticulum** — Transport system
-
-- **Golgi apparatus** — Packaging center
-
-**Analogy: Cell as a city**
-
-- Nucleus = City Hall
-
-- Mitochondria = Power plants
-
-- Membrane = City walls
-
-- Ribosomes = Factories
-
-### Cell Model Creation (20 min)
-**Build edible or craft cell model:**
-
-**Option A: Jello Cell**
-
-- Jello = cytoplasm
-
-- Large candy = nucleus
-
-- Small candies = other organelles
-
-- Gummy worms = ER
-
-- Sprinkles = ribosomes
-
-**Option B: Clay/Craft Model**
-
-- Use modeling clay
-
-- Different colors for organelles
-
-- Label each part
-
-**Requirements:**
-
-- Include all major organelles
-
-- Label each part
-
-- Explain function of each
-
-**While building:**
-
-- "What's the most important organelle? Why?"
-
-- "What happens if mitochondria stop working?"
-
-- "How is a cell like a small factory?"
-
-### Faith Reflection (3 min)
-**Wonder and praise:**
-
-**Discussion:**
-
-- "Trillions of cells work together in your body RIGHT NOW"
-
-- "Each cell has its own 'job'"
-
-- "This complexity happened by chance? Or by design?"
-
-**Psalm 139:**
-"I praise you because I am fearfully and wonderfully made."
-
-**Closing Prayer:**
-"Thank You, God, for the incredible design of cells! Thank You for giving us minds to study Your creation. Help us appreciate how wonderfully made we are. Amen."
-
----
-
-## 📝 Week 3 Procedure: DNA — The Code of Life (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord of all creation, You wrote the code of life in DNA! Help us understand this amazing molecule. May our learning lead us to praise You. Amen."
-
-### What is DNA? (10 min)
-**The instruction manual of life:**
-
-**Key concepts:**
-
-- DNA = Deoxyribonucleic Acid
-
-- Found in nucleus of every cell
-
-- Contains instructions for building you!
-
-- Shaped like a twisted ladder (double helix)
-
-**DNA facts:**
-
-- If you unraveled DNA from one cell, it would be 6 feet long!
-
-- Your DNA is 99.9% identical to every other human
-
-- That 0.1% makes you unique!
-
-- DNA is a language with only 4 "letters": A, T, C, G
-
-**Father of genetics:**
-
-- Gregor Mendel discovered heredity
-
-- Augustinian friar with faith and curiosity
-
-- Paved the way for DNA discovery
-
-### DNA Structure (8 min)
-**Understanding the double helix:**
-
-**Components:**
-
-- **Sugar-phosphate backbone** — The rails of the ladder
-
-- **Bases** — The rungs of the ladder
-  - Adenine (A) pairs with Thymine (T)
-  - Cytosine (C) pairs with Guanine (G)
-
-- **Genes** — Sections of DNA that code for traits
-
-**How it works:**
-
-- DNA → RNA → Protein
-
-- Like recipe → instructions → dish
-
-- Different genes = different traits
-
-### DNA Extraction Lab (20 min)
-**Extract DNA from strawberries!**
-
-**Materials:**
-
-- Strawberry (frozen works well)
-
-- Dish soap
-
-- Salt
-
-- Cold isopropyl alcohol
-
-- Ziplock bag
-
-- Coffee filter
-
-- Clear cup
-
-**Procedure:**
-1. Mush strawberry in bag (break cells)
-2. Add extraction mixture (soap breaks membranes, salt clumps DNA)
-3. Filter through coffee filter
-4. Add cold alcohol slowly
-5. Watch DNA precipitate!
-
-**Observe:**
-
-- DNA looks like white, stringy substance
-
-- That's ACTUAL DNA!
-
-- Same basic structure as human DNA
-
-**Discussion during lab:**
-
-- "Why does soap help?"
-
-- "What makes DNA float in alcohol?"
-
-- "Is strawberry DNA the same as yours?"
-
-### Faith Connection (5 min)
-**The language of life:**
-
-**Reflection:**
-
-- "DNA is a CODE — codes come from intelligence"
-
-- "3 billion base pairs in human DNA"
-
-- "More information than encyclopedias"
-
-**Catholic teaching:**
-
-- Science discovers HOW life works
-
-- Faith tells us WHO designed it
-
-- "In the beginning was the Word" — language, code, information
-
-**Closing Prayer:**
-"Thank You, God, for writing the code of life! Thank You for the gift of our unique DNA. Help us use what we learn to serve others and honor You. Amen."
-
----
-
-## 📝 Week 4 Procedure: Biotechnology Applications & Ethics (45 minutes)
-
-### Opening Prayer (2 min)
-"Wise God, give us wisdom as we explore biotechnology! Help us use science responsibly and ethically. May we always respect the sanctity of life. Amen."
-
-### Biotechnology Overview (10 min)
-**Using living things for technology:**
-
-**What is biotechnology?**
-
-- Using cells, DNA, organisms for human benefit
-
-- Ancient: Bread, cheese, beer (yeast!)
-
-- Modern: Genetic engineering, medicine, agriculture
-
-**Applications:**
-
-- **Medicine** — Insulin production, vaccines, gene therapy
-
-- **Agriculture** — Drought-resistant crops, pest resistance
-
-- **Environment** — Bacteria that clean oil spills
-
-- **Industry** — Enzymes in detergent
-
-**Catholic perspective:**
-
-- Biotechnology can do great good
-
-- BUT must always respect human dignity
-
-- NOT everything possible is ethical
-
-- We ask: "Should we?" not just "Can we?"
-
-### Case Studies (15 min)
-**Examine real biotechnology applications:**
-
-**Case 1: Golden Rice**
-
-- Rice engineered with Vitamin A
-
-- Could prevent blindness in poor countries
-
-- Debate: GMO concerns vs. saving lives
-
-**Case 2: Gene Therapy**
-
-- Fixing genetic diseases
-
-- Great potential for healing
-
-- Questions about "designer babies"
-
-**Case 3: CRISPR**
-
-- Tool to edit DNA precisely
-
-- Could cure genetic diseases
-
-- Concerns about editing human embryos
-
-**For each case:**
-
-- What's the technology?
-
-- What good could it do?
-
-- What concerns exist?
-
-- What would the Church say?
-
-### Catholic Ethics Framework (10 min)
-**Evaluating biotechnology:**
-
-**Key principles:**
-1. **Human dignity** — Every person has inherent worth
-2. **Sanctity of life** — Life is sacred from conception to death
-3. **Common good** — Technology should serve everyone
-4. **Stewardship** — We're caretakers, not owners
-5. **Justice** — Benefits should be shared fairly
-
-**Questions to ask:**
-
-- Does this respect human dignity?
-
-- Does this protect life?
-
-- Who benefits? Who might be harmed?
-
-- Are we playing God inappropriately?
-
-- What would Jesus do?
-
-**Church teaching:**
-
-- Science is good and from God
-
-- But science needs ethics
-
-- Not everything possible is permissible
-
-- Human life is not a commodity
-
-### Position Statements (6 min)
-**Write your view:**
-
-**Choose one biotechnology:**
-
-- Golden Rice
-
-- Gene therapy
-
-- Cloning (animals, not humans)
-
-- Stem cell research
-
-**Write:**
-
-- 2-3 sentences explaining the technology
-
-- Your position on it
-
-- How Catholic ethics inform your view
-
-**Share with partner:**
-
-- Can you see both sides?
-
-- What makes this complex?
-
-### Closing (2 min)
-**Synthesis:**
-
-- Biotechnology is powerful
-
-- Power requires responsibility
-
-- Faith gives us an ethical framework
-
-- We can appreciate science AND have values
-
-**Closing Prayer:**
-"God of wisdom, thank You for the power of biotechnology! Help us always use it wisely. Give us courage to stand for life and dignity even when it's hard. May we be scientists AND people of faith. St. Hildegard, pray for us! Amen."
-
----
-
-## 📎 Home Connection
-> "We explored biotechnology — cells, DNA, and applications! Ask your child: 'What is DNA?' 'What biotechnologies did you discuss?' 'What ethical questions exist?' 'How does faith inform science ethics?' This is a great opportunity to discuss family values about science and life!"
-
----
-
-## ✅ Assessment
-
-- Identified cell structures and functions
-
-- Conducted DNA extraction successfully
-
-- Analyzed biotechnology case studies
-
-- Applied Catholic ethics framework
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+**Explored:** cells, DNA models, and biotechnology choices. **Did:** labeled cells, paired bases, and evaluated fictional proposals. **Learned:** models have limits and benefits need evidence. **Catholic connection:** dignity and honest reasoning. **Ask:** "What did your DNA model leave out?" No routine homework or home extraction.

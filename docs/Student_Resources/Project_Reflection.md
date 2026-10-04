@@ -116,19 +116,19 @@ Project Name: _____________________________________________
 <th style="padding: 10px; text-align: center; border: 1px solid #ccc;">Got It!</th>
 </tr>
 <tr>
-<td style="padding: 10px; border: 1px solid #ccc;">I followed directions</td>
+<td style="padding: 10px; border: 1px solid #ccc;">I can show today's objective: __________</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 </tr>
 <tr>
-<td style="padding: 10px; border: 1px solid #ccc;">I kept trying when it was hard</td>
+<td style="padding: 10px; border: 1px solid #ccc;">I can explain one observed result</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 </tr>
 <tr>
-<td style="padding: 10px; border: 1px solid #ccc;">I worked well with others</td>
+<td style="padding: 10px; border: 1px solid #ccc;">I can explain a change using evidence</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
 <td style="padding: 10px; text-align: center; border: 1px solid #ccc;">☐</td>
@@ -160,8 +160,15 @@ Project Name: _____________________________________________
 ## 📋 Teacher Notes
 
 **When to Use:** End of multi-week projects or major units  
-**Time Needed:** 15-20 minutes  
+**Time Needed:** Select one objective/evidence prompt for 3-5 minutes within the lesson; full reflection optional across meetings
 **Grades:** 2-6 (simplify for Grade 2 by reading questions aloud)
+
+Read/model one question at a time; accept show/tell/draw/scribe/record. For
+nonreaders use [Show, Try, Tell](./Show_Try_Tell_Card.md). Checklists and feelings
+are reflection, not mastery. Fill in the actual objective and ask each child
+for one observed result/change; use [Assessment Template](../Templates/Assessment_Template.md)
+for evidence and rubric level. Do not grade handwriting, apparent faith,
+participation or neatness. Artistic skill is scored only for a stated arts objective.
 
 ### Portfolio Tip
 Keep completed reflections in student portfolios for:

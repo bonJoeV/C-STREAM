@@ -1,450 +1,202 @@
 ---
 title: "C-STREAM Lesson Plan Template"
-description: "Enhanced lesson plan template incorporating Catholic STEM success factors"
+description: "Teacher and substitute format for native K-6 class periods"
 ---
 
-# 📝 C-STREAM Lesson Plan Template
-
-Use this template when creating new C-STREAM lessons. Each section is designed to incorporate the research-backed success factors for Catholic STEM education.
-
-| [PBL Template](./Project_Based_Learning_Template.md) | [Cross-Curricular Template](./Cross_Curricular_Unit_Template.md) | [All Rubrics](../Rubrics/README.md) |
-
----
-
-## 📋 Lesson Information
-
-### **Lesson Title**: [Enter Title]
-
-### **Grade Level & Duration**:
-
-| Grade | Time | Check One |
-|-------|------|-----------|
-| Kindergarten | 25 min | ☐ |
-| Grades 1-2 | 30 min | ☐ |
-| Grades 3-4 | 40 min | ☐ |
-| Grades 5-6 | 45 min | ☐ |
-
-### **Topic/Theme**: [Enter STREAM topic]
-
-### **STREAM Focus Areas** (Check all that apply):
-
-- ☐ **S**cience
-
-- ☐ **T**echnology  
-
-- ☐ **R**eligion/Faith Integration
-
-- ☐ **E**ngineering
-
-- ☐ **A**rt (Digital drawing, animation, graphic design, 3D modeling)
-
-- ☐ **M**usic (Digital composition, sound design, coding music)
-
-- ☐ **M**athematics
-
-### **Author**: [Name]
-### **Date**: [Date]
-
----
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. [Specific, measurable STEM objective]
-2. [Specific, measurable STEM objective]
-3. [Specific, measurable STEM objective]
-
-### Faith Integration Objectives
-Students will be able to:
-1. [How lesson connects to Catholic teaching]
-2. [How faith and reason are demonstrated as complementary]
-
-### 21st Century Skills Objectives
-Students will develop:
-
-- ☐ Critical Thinking
-
-- ☐ Communication
-
-- ☐ Collaboration
-
-- ☐ Creativity
-
-- ☐ Problem-Solving
-
----
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-[Explain how this lesson connects to Catholic teachings. Consider:]
-
-- Stewardship of Creation
-
-- Dignity of the Human Person
-
-- Care for the Poor and Vulnerable
-
-- Rights and Responsibilities
-
-- Solidarity
-
-- Option for the Poor
-
-- Care for God's Creation
-
-### Scripture Connection
-> "[Include a relevant Scripture verse that connects to the lesson theme]"
-> — [Book Chapter:Verse]
-
-### Catholic Scientist Connection
-[If applicable, mention a Catholic scientist related to this topic. Reference the [Catholic Scientists Heritage](../Resources/Catholic_Scientists_Heritage.md) guide.]
-
-### Wonder and Curiosity Moment
-[Include a "wonder question" to spark curiosity about God's creation:]
-> "Have you ever wondered...?"
-
----
-
-## 📚 Materials and Preparation
-
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| [Material 1] | [#] | [CSCOE Inventory/School/Student] |
-| [Material 2] | [#] | [Source] |
-| [Material 3] | [#] | [Source] |
-
-### Technology Requirements
-
-- ☐ Computers/Chromebooks
-
-- ☐ iPads/Tablets
-
-- ☐ Internet Access
-
-- ☐ Projector/Display
-
-- ☐ Specific Software: [List]
-
-- ☐ Robots/Devices: [List from CSCOE Inventory]
-
-### Teacher Preparation
-
-- [ ] [Preparation step 1]
-
-- [ ] [Preparation step 2]
-
-- [ ] [Preview/test technology]
-
----
-
-## 📝 Lesson Procedure
-
-### ⏱️ Timing Guide by Grade Level
-
-| Section | K (25 min) | 1-2 (30 min) | 3-4 (40 min) | 5-6 (45 min) |
-|---------|------------|--------------|--------------|--------------|
-| Opening Prayer & Wonder | 3 min | 3 min | 4 min | 5 min |
-| Introduction & Hook | 3 min | 5 min | 6 min | 7 min |
-| Direct Instruction | 5 min | 7 min | 8 min | 10 min |
-| Hands-On Activity | 10 min | 10 min | 15 min | 15 min |
-| Reflection & Closing | 4 min | 5 min | 7 min | 8 min |
-
----
-
-### 1. Opening Prayer & Wonder Moment (3-5 minutes)
-
-**Prayer:**
-> "Dear God, [customize prayer related to lesson theme]. Help us to see Your wisdom in all we learn today. Amen."
-
-**Wonder Question:**
-> [Pose an open-ended question that sparks curiosity about the lesson topic]
-
-**Faith-STEM Connection:**
-[Briefly introduce how today's learning connects to faith]
-
----
-
-### 2. Introduction & Hook (5-10 minutes)
-
-**Engagement Activity:**
-[Describe a brief, engaging activity to capture student attention]
-
-**Prior Knowledge Activation:**
-
-- What do students already know about this topic?
-
-- How does this connect to previous lessons?
-
-**Learning Target Introduction:**
-"Today we will learn to... because..."
-
-**Catholic Heritage Connection (if applicable):**
-[Share relevant Catholic scientist or Church teaching]
-
----
-
-### 3. Direct Instruction (10-15 minutes)
-
-**Key Concepts:**
-1. [Concept 1 with explanation]
-2. [Concept 2 with explanation]
-3. [Concept 3 with explanation]
-
-**Vocabulary:**
-| Term | Definition | Faith Connection |
-|------|------------|------------------|
-| [Term 1] | [Definition] | [Optional faith tie-in] |
-| [Term 2] | [Definition] | [Optional faith tie-in] |
-
-**Demonstration:**
-[Describe what the teacher will model]
-
-**Checks for Understanding:**
-
-- [Question 1]
-
-- [Question 2]
-
----
-
-### 4. Hands-On Activity / Project-Based Learning (15-25 minutes)
-
-**Activity Description:**
-[Detailed description of the hands-on activity]
-
-**Student Grouping:**
-
-- ☐ Individual  ☐ Pairs  ☐ Small Groups (3-4)  ☐ Whole Class
-
-**Step-by-Step Instructions:**
-1. [Step 1]
-2. [Step 2]
-3. [Step 3]
-4. [Step 4]
-5. [Step 5]
-
-**Collaboration Guidelines:**
-[How students should work together – emphasize Christian values in teamwork]
-
-**Catholic Integration During Activity:**
-[How to weave faith into the activity itself, not just as an add-on]
-
-**Differentiation:**
-
-- **For struggling learners:** [Modification]
-
-- **For advanced learners:** [Extension]
-
-- **For diverse learners:** [Accommodation]
-
-**Teacher Role During Activity:**
-[Circulate, ask guiding questions, note observations]
-
----
-
-### 5. Service Connection (5 minutes)
-
-**"Hands and Feet of Christ" Reflection:**
-[Connect the STEM skills learned to serving others]
-
-**Guiding Questions:**
-
-- How could we use what we learned today to help others?
-
-- How does this skill connect to being a good steward of creation?
-
-- What would Jesus want us to do with this knowledge?
-
-**Real-World Application:**
-[Provide an example of how this STEM concept helps people in the community]
-
----
-
-### 6. Reflection & Sharing (5-10 minutes)
-
-**Student Sharing:**
-[How students will share their work – gallery walk, presentations, partner share]
-
-**Reflection Questions:**
-1. What did you learn today about [STEM topic]?
-2. How did you see God's design in what we studied?
-3. What was challenging, and how did you persevere?
-4. How can you use this learning to serve others?
-
-**Written Reflection (optional):**
-[Prompt for journal or exit ticket]
-
----
-
-### 7. Closing Prayer & Summary (3-5 minutes)
-
-**Learning Summary:**
-"Today we learned... This connects to our faith because..."
-
-**Closing Prayer:**
-> "Thank You, Lord, for the gift of learning. Help us to use our knowledge and skills to [specific application]. We are grateful for the wonder of Your creation. Amen."
-
-**Preview Next Lesson:**
-[Brief mention of what's coming next]
-
----
-
-## ✅ Assessment
-
-### Formative Assessment (During Lesson)
-| What to Observe | Evidence of Learning |
-|-----------------|---------------------|
-| [Observation 1] | [What you'll see/hear] |
-| [Observation 2] | [What you'll see/hear] |
-| [Observation 3] | [What you'll see/hear] |
-
-### Summative Assessment
-**Project/Product Evaluation:**
-Use the [Student Project Rubric](../Rubrics/Student_Project_Rubric.md) with these criteria:
-
-- [ ] STEM concept mastery
-
-- [ ] Faith integration
-
-- [ ] 21st century skills demonstration
-
-- [ ] Service connection understanding
-
-### Self-Assessment (Student)
-Students rate themselves:
-
-- I understand [STEM concept]: ☆☆☆
-
-- I can explain the faith connection: ☆☆☆
-
-- I collaborated well with others: ☆☆☆
-
----
-
-## 🔗 Cross-Curricular Connections
-
-| Subject | Connection |
-|---------|------------|
-| **Religion** | [How lesson connects to religion class content] |
-| **Math** | [Mathematical concepts involved] |
-| **Language Arts** | [Reading, writing, speaking opportunities] |
-| **Social Studies** | [Historical or social connections] |
-| **Art** | [Creative expression opportunities] |
-| **Music** | [Musical connections, if any] |
-
----
-
-## 👨‍👩‍👧‍👦 Parent/Family Resources
-
-### Today's Learning
-[Brief parent-friendly summary of what students learned]
-
-### Faith Connection
-[Explain how faith was integrated]
-
-### Discussion Questions for Home
-1. [Question parents can ask at home]
-2. [Question about faith connection]
-3. [Question about real-world application]
-
-### Extension Activities
-
-- [Home activity 1]
-
-- [Home activity 2]
-
-- [Online resource for further exploration]
-
-### How to Support Your Child
-[Tips for parents to reinforce learning]
-
----
-
-## 📊 Teacher Reflection (Post-Lesson)
-
-Complete after teaching the lesson:
-
-### What Worked Well
-
-- 
-
-### Areas for Improvement
-
-- 
-
-### Student Engagement Level
-☐ High  ☐ Medium  ☐ Low
-
-### Faith Integration Success
-☐ Seamless  ☐ Good  ☐ Needs Improvement
-
-### Modifications for Next Time
-
-- 
-
-### Notes on Individual Students
-
-- 
-
----
-
-## ✨ Success Factor Checklist
-
-Before teaching, verify your lesson includes:
-
-### Faith-Reason Integration
-
-- [ ] Faith and science presented as complementary
-
-- [ ] Scripture or Catholic teaching connection
-
-- [ ] Wonder/curiosity moment included
-
-### Hands-On Learning
-
-- [ ] Students actively engaged with materials
-
-- [ ] Project-based or inquiry-based approach
-
-- [ ] Multiple modalities addressed
-
-### Service Orientation
-
-- [ ] Connection to helping others
-
-- [ ] Catholic Social Teaching link
-
-- [ ] Real-world application discussed
-
-### 21st Century Skills
-
-- [ ] Collaboration opportunities
-
-- [ ] Critical thinking challenges
-
-- [ ] Communication practice
-
-- [ ] Creativity encouraged
-
-### Catholic Heritage
-
-- [ ] Catholic scientist referenced (if applicable)
-
-- [ ] Church's scientific contributions acknowledged
-
-### Balance & Inclusiveness
-
-- [ ] Differentiation provided
-
-- [ ] All students can participate
-
-- [ ] Traditional skills maintained
-
----
-
-**Template Version:** 2.0  
-**Framework:** C-STREAM  
-**Based on:** NCEA STREAM Characteristics & Catholic STEM Success Factors
+# C-STREAM lesson plan template
+
+**Version 3.0 - October 2026.** Copy and complete this format; bracketed fields
+are author prompts, not finished instructions. Preserve a useful existing lesson,
+its URL and learning purpose when bringing it into this format.
+
+**C** = Catholic identity; **S** = science; **T** = technology (tools and computing);
+**R** = religion/faith integration; **E** = engineering; **A** = arts, including
+visual art, design and music; **M** = mathematics, not music. Catholic identity
+informs purpose, dignity, truth and stewardship throughout. R names the explicit
+faith teaching/reflection. Art must involve an artistic decision, observation,
+composition or communication, not simply decorating a STEM product.
+Emphasize only domains students actually practice; do not claim all seven in
+every lesson.
+
+## Lesson at a glance
+
+| Field | Complete before teaching |
+|---|---|
+| Grade; rotation; schedule; unit; title | [K/1/2/3/4/5/6; A/B; weekly/bi-weekly; unit; title] |
+| Time | [K 25 / grades 1-2 30 / grades 3-4 40 / grades 5-6 45 minutes] |
+| Big idea; why learn this? | [Concept and everyday/service/vocation application] |
+| Learning objective O1 | "I can [observable action + concept + success condition]." |
+| Optional O2 | [Second objective only if teachable and assessable in this period] |
+| C-STREAM areas addressed | [C/S/T/R/E/A/M and actual student action for each claimed domain] |
+| Catholic connection | [A concrete design/ethical/stewardship decision; not prayer alone] |
+| Faith source/status | [Primary-source URL, section, paraphrase/quotation status; VERIFICATION REQUIRED if unresolved] |
+| Local standards | [Select from the 18-code catalog in the standards mapping section below] |
+| Official alignment | [Verified source/benchmark/version, or VERIFICATION REQUIRED; never infer from a title] |
+| Technology Requirement | [None / Optional / Recommended / Required; justification] |
+| Difficulty; prerequisites | [Introductory/developing/complex; prior skills to check] |
+| Teacher prep | [Exact minutes; Minimal <5, Light 5-15, Moderate >15-30, Significant >30] |
+| Cleanup | [Minutes INCLUDED in the class period] |
+| Kit/location; readiness | [Kit ID; actual location filled by school; tested by/date; unresolved blockers] |
+
+## Before class
+
+1. [Check accommodations and school safety/emergency procedures; name the contact.]
+2. [Count materials using the class-size table; assign teams and rotate roles.]
+3. [Perform the exact teacher prep test, including the expected result.]
+4. [Set up tables/trays and demonstrate safe boundaries before distribution.]
+5. [Post/draw the objective and two or three visual steps; read them aloud.]
+6. [Prepare the indoor/no-device/missing-supply fallback and individual check.]
+
+Do not invent a closet location, school account, app license or loan reservation.
+No routine homework and no donation prerequisite.
+
+## Materials
+
+Use normalized IDs/names from [Materials Inventory](../Review/Materials_Inventory.csv)
+and the [materials list template](./Materials_List_Template.md).
+
+| Scope | Item ID/name; specification | Per-unit quantity | Reusable/consumable; alternative |
+|---|---|---:|---|
+| Per student | [Paper, recording tool or large manipulative] | [ ] | [ ] |
+| Per team | [Complete kit contents, including test loads] | [ ] | [ ] |
+| Whole class | [Shared tool; station capacity and wait task] | [ ] | [ ] |
+| Teacher only | [Cutting, loads, power supply, preparation] | [ ] | [ ] |
+| Optional | [Not needed for O1; remove if unavailable] | [ ] | [ ] |
+
+Default teams have at most three students. K-1 may need pairs and adult modeling;
+recalculate all team quantities if switching to pairs.
+
+| Students | Teams of <=3 | Pairs | [Per-student item] | [Per-team item] |
+|---:|---:|---:|---:|---:|
+| 10 | 4 | 5 | [10 x rate] | [4 x rate] |
+| 15 | 5 | 8 | [15 x rate] | [5 x rate] |
+| 20 | 7 | 10 | [20 x rate] | [7 x rate] |
+| 25 | 9 | 13 | [25 x rate] | [9 x rate] |
+
+For 25 students: [Seat nine teams; route materials rather than children; specify
+test stations, reset time, turn order and individual hands-on turns. A demo alone
+is not the core learning experience.]
+
+## Vocabulary and teacher background
+
+| Word (teach 2-4) | Plain-language definition | Object/picture/gesture |
+|---|---|---|
+| [ ] | [ ] | [K-1 must not depend on reading] |
+
+**The important concept is:** [Concise, scientifically accurate explanation.]
+
+**Common misconception:** [Incorrect idea and a demonstration that corrects it.]
+
+**If a student asks "[actual likely question]":** [Short answer; admit uncertainty
+and record a source question rather than inventing theology or science.]
+
+**Faith distinction:** [Catholic belief/ethical reflection vs scientific evidence.
+Prayer or a saint's story is not experimental proof.]
+
+## SAFETY
+
+- [Specific hazards, age restrictions, teacher-only steps and stop signal.]
+- [Screen allergies/sensory needs; no eating experimental materials.]
+- Never use button cells, latex balloons or projectile activities in this core
+  program. No neodymium magnets in K; use large encapsulated ferrite magnets only
+  where age-appropriate. Keep all small parts inaccessible to children who mouth
+  objects. Use protected AA circuit packs; no mains power or exposed hot components.
+- [What to do for a spill, injury, missing battery/magnet, overheated component.]
+  Stop, isolate the activity and contact the school's responsible adult/emergency
+  procedure. A possible swallowed battery or magnet needs urgent emergency
+  escalation, not a classroom troubleshooting attempt.
+- **Indoor alternative:** [Equivalent objective and setup; no unsafe cold exposure.]
+
+## Exact lesson sequence
+
+The following allocations total the native period and protect test/redesign,
+individual evidence and cleanup. Choose ONE column; replace actions with exact
+directions and materials. Do not add untimed prayer, transitions or worksheets.
+
+| Step | K: 25 | 1-2: 30 | 3-4: 40 | 5-6: 45 | Teacher says/does; student action |
+|---|---|---|---|---|---|
+| 1. Hook, purpose, Catholic connection | 0-3 | 0-3 | 0-4 | 0-4 | "[Actual question]"; [brief prayer if appropriate] |
+| 2. Vocabulary, model and safety | 3-7 | 3-8 | 4-10 | 4-11 | [Demonstrate one complete action; ask a check question] |
+| 3. Plan and build/investigate | 7-14 | 8-18 | 10-24 | 11-27 | [Numbered, concrete directions; rotate builder/tester/reporter] |
+| 4. Test, compare and improve | 14-19 | 18-23 | 24-32 | 27-36 | [Same test conditions; one evidence-based change and retest] |
+| 5. Individual objective-linked check | 19-22 | 23-27 | 32-37 | 36-41 | [Each child shows/tells/draws O1; record evidence] |
+| 6. Cleanup and close | 22-25 | 27-30 | 37-40 | 41-45 | [Count, sort, disconnect, dry and return; closing thought] |
+
+**Questions to ask:** "[What changed?]"; "[What stayed the same?]";
+"[What evidence supports your choice?]"; "[Who does this design include?]";
+"[How did you avoid waste?]" Supply topic-specific versions, not just
+"facilitate discussion."
+
+**K-1/nonreader directions:** [Show the real object, say ONE step, let students
+do it, repeat. Use pointing, sorting, building, gesture and dictated evidence.]
+
+## What success looks like / individual assessment
+
+| Objective | Individual prompt/task | Meets expectation | Evidence/mode | Local code |
+|---|---|---|---|---|
+| O1 | [Actual exit question/demo] | [Observable threshold] | [Teacher roster: each child's response, not team product alone] | [ ] |
+| O2 if taught | [ ] | [ ] | [ ] | [ ] |
+
+Use [assessment](./Assessment_Template.md) and [rubric](./Rubric_Template.md)
+formats. Levels: 1 Beginning, 2 Developing, 3 Meets Expectation, 4 Extends
+Learning; **NE = not yet evidenced**, not a zero. Participation, handwriting,
+neatness, confidence and artistic talent are not proxies for O1. Score an arts
+criterion only when that arts skill is an explicit objective.
+
+At 25 students, gather a quick simultaneous point/show/draw response and use a
+planned roster sweep during hands-on time. If oral conferences need more time,
+record NE and schedule a check next meeting; never claim all were assessed.
+At expected-mastery checkpoints, [Local Standards](../Review/Local_Standards.md)
+requires two dated observations on separate occasions with an individual
+demonstration and changed context/follow-up explanation. One exit check alone
+does not establish end-of-grade mastery.
+
+## Support and challenge
+
+**Support:** [Read aloud; fewer choices; pre-cut pieces; larger tools; bilingual
+vocabulary/gesture; seated/quiet option; adult scribing. Keep the same concept
+unless explicitly documenting an objective change.]
+
+**Challenge:** [Add a justified constraint, repeat trial, compare data, or explain
+a tradeoff. Do not routinely turn faster learners into helpers.]
+
+## If things go wrong
+
+| Problem | Exact response | Objective preserved or changed? |
+|---|---|---|
+| Structure/test fails | [Stabilize supports; change one variable; record failure as evidence] | [ ] |
+| Supplies missing | [Named safe substitution, quantity and changed constraint] | [ ] |
+| Devices/network/loan unavailable | [Unplugged task or reschedule] | Programming/robot operation needs later real-device evidence |
+| Early finishers | [Specific extension] | [ ] |
+| Time short | Stop new building; keep individual check and cleanup; continue later | [Unfinished evidence recorded] |
+| Unsafe condition | Stop affected activity; safe seated fallback; notify responsible adult | [Do not silently continue] |
+
+## Cleanup, family communication and follow-up
+
+1. [Stop tests; switch off/disconnect packs; teacher counts hazardous parts.]
+2. [Sort reusable vs waste; dry all wet materials; wipe tables per school practice.]
+3. [Restock exact quantities; label broken kit OUT OF SERVICE and report.]
+4. [Record elapsed time, individual evidence, supply use and next reteach.]
+
+Copy the [newsletter block](./Family_Newsletter_Template.md). Include what
+children did/learned, a Catholic connection, a specific oral question, and an
+optional no-purchase activity. No routine homework.
+
+## Standards mapping
+
+Use only the local catalog: CST-C1/C2/C3, CST-S1/S2/S3, CST-T1/T2/T3,
+CST-E1/E2/E3, CST-A1/A2/A3, CST-M1/M2/M3. Definitions and grade expectations
+belong to [Local Standards](../Review/Local_Standards.md), not this template.
+Use [Standards Mapping](./Standards_Mapping_Template.md) for the chain
+standard -> grade -> unit -> lesson -> objective -> individual evidence.
+
+## Ready-to-teach check
+
+- [ ] Native timings sum correctly, including cleanup.
+- [ ] Complete kit and scaling confirmed for actual enrollment.
+- [ ] Teacher background, model, safety, misconceptions and failure responses supplied.
+- [ ] Each assessed objective has an individual prompt and success condition.
+- [ ] Support, challenge, indoor and no-device contingencies are explicit.
+- [ ] Faith/source claims accurate or marked VERIFICATION REQUIRED.
+- [ ] Family copy prepared; no home purchase, donation or device prerequisite.
+- [ ] Substitute has named contact and actual materials location.

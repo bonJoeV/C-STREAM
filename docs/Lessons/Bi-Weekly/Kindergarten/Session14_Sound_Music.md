@@ -1,175 +1,74 @@
 ---
 title: "Session 14: Sound & Music"
-description: "Kindergarten Bi-Weekly C-STREAM exploring sound"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - easter
-  - service
-  - arts
+description: "Observe vibration and intentionally communicate a four-beat sound/silence phrase"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-S1, CST-A2]
+technology: None
+prep_minutes: 5
+cleanup_minutes: 4
+materials: [Paper cups, Plain paper, Shared school crayon set, Metric ruler]
 ---
 
 # Session 14: Sound & Music
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 14 of 17
-
-Students explore how sound is made, creating simple instruments and using music to praise God.
-
----
-
-# Session 14: Sound & Music
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Understand that sound is made by vibrations
-
-- Create a simple musical instrument
-
-- Compare loud/soft and high/low sounds
-
-- Use music to praise God
-
----
-
-## Materials Needed
-
-- 📦 Instrument-making supplies:
-  - Rubber bands + small boxes (guitars)
-  - Rice/beans + plastic containers (shakers)
-  - Paper towel tubes + wax paper + rubber bands (kazoos)
-
-- 🎵 Simple instruments (if available): tambourine, triangle, bells
-
-- 🖍️ Wonder Journals and crayons
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Cecilia** — Patron saint of music! She sang to God in her heart and is remembered as a beautiful musician.
-
-### Scripture
-> *"Make a joyful noise to the Lord, all the earth."* — Psalm 100:1
-
-### Opening Prayer
-*Dear God, thank you for the gift of sound and music. Help us use our voices and instruments to praise you. Like St. Cecilia, may we always sing to you in our hearts. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (4 minutes)
-1. **Sound Game** — Close eyes, identify sounds teacher makes
-2. **What is Sound?** — "Sound happens when things VIBRATE (shake very fast)"
-3. **Demonstration** — Pluck rubber band, see/feel vibration
-4. **St. Cecilia** — "She used music to praise God!"
-5. **Today's Project** — "We're making instruments!"
-
-### Main Activity: Making Music (15 minutes)
-
-**Part 1: Sound Exploration (3 minutes)**
-
-- Touch throat while humming — feel vibration!
-
-- Pluck rubber bands stretched over box
-
-- Shake rice in a container
-
-- "What do you notice?"
-
-**Part 2: Make an Instrument (9 minutes)**
-
-- **Option A: Shaker**
-  - Put rice/beans in container
-  - Seal tightly
-  - Decorate outside
-  
-
-- **Option B: Rubber Band Guitar**
-  - Stretch rubber bands around box
-  - Pluck to make sounds
-  - Try different sized bands
-
-
-- **Option C: Kazoo** (with help)
-  - Cover one end of tube with wax paper
-  - Secure with rubber band
-  - Hum into open end
-
-**Part 3: Joyful Band (3 minutes)**
-
-- All students play instruments together
-
-- Sing a simple song (Jesus Loves Me, praise song)
-
-- Practice loud/soft, fast/slow
-
-### Wonder Journal (3 minutes)
-1. Draw your instrument
-2. Add music notes! 🎵
-
-### Closing Circle (3 minutes)
-1. **Sound Discovery** — "What did you learn about sound?"
-2. **Praising God** — "How can we use music for God?"
-3. **Closing Song** — Sing together while playing instruments
-4. **Closing Prayer** — *"Thank you, God, for music and sound. May our songs always praise you! Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Understood that sound comes from vibrations
-
-- [ ] Created a working instrument
-
-- [ ] Participated in group music making
-
-- [ ] Connected music to praising God
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-made shaker ready to decorate
-
-- Focus on one instrument type
-
-- Pair with buddy for construction
-
-### For Advanced Students
-
-- Make multiple instruments
-
-- Experiment with high/low sounds
-
-- Create a pattern or rhythm
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Make instruments at home! Fill containers with different materials—what sounds different? Pots and wooden spoons make great drums. Have a family praise concert!
-
----
-
-## Teacher Notes
-
-- Great connection to music class
-
-- Prepare some instruments in advance for backup
-
-- Consider keeping instruments for future sessions
-
-- Connect to "Digital Arts" by showing simple music apps
-
----
-
-**Previous:** [Session 13 — Easter New Life](./Session13_Easter_New_Life.md)  
-**Next:** [Session 15 — Helping Others](./Session15_Helping_Others.md)
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Vibration and rhythmic design / one 25-minute meeting |
+| Domains / big idea | C, S, A; vibrating objects produce sound and silence can be a purposeful musical choice |
+| Objective / why | "I can show a vibration and communicate a four-beat phrase." Evidence and intentional patterns support science and music. |
+| Catholic connection | Include listeners and respect sensory needs; music can express gratitude without forced performance. |
+| Local standards | CST-C2: accessible role; CST-S1: vibration observation; CST-A2: purposeful rhythm choice. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / beginner / 5 minutes / 4 included |
+
+## Before class and exact supplies
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Pretest a sound, smooth plastic ruler held firmly on a desk with 10 cm overhang;
+adult gently plucks while holding it, never releasing the ruler. Establish
+soft conversation-level tapping. Model four boxes: circle = tap, square = rest.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Student: dry paper cup; phrase sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+| Teacher: smooth ruler; timer; roster | 1 each | 1 each | 1 each | 1 each |
+
+Children use their own inverted cup with fingertips; no tape or loose filler.
+Pairs/final trio share interpretation, not mouth instruments.
+
+## Vocabulary, background and SAFETY
+
+Vibration = back-and-forth motion; beat = regular time point; rest = silence
+for a beat; phrase = designed pattern. Misconception: louder means better.
+Judge purposeful rhythm, not volume/hearing ability. If asked about sound,
+identify the vibrating ruler; do not claim a cup is a professional instrument.
+No rice/beans, latex bands, kazoos, bells/loose parts, sticks or collective
+noise blast. Offer silent pointing/gesture; no forced humming or body contact.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Explain inclusive volume and demonstrate the adult-held vibrating ruler.
+2. **4-8:** Model tap-rest-tap-rest while counting four steady beats; indicate
+   the same phrase silently. A rest still occupies a beat.
+3. **8-17:** Each child chooses four symbols, softly performs or points the
+   phrase and explains a sound/silence choice to a partner. Begin checks.
+4. **17-21:** Child indicates a vibrating object seen/heard/felt through an
+   accessible description and reproduces their intentional four-beat pattern.
+5. **21-25:** Share softly in pairs, save phrase sheets, keep cups dry/reusable,
+   return crayons and clear.
+
+## Success, questions, access and troubleshooting
+
+Record vibration evidence, intentional pattern and accessible collaboration
+separately; do not assess loudness or forced singing.
+Ask "What vibrated? Why put silence there? How can your partner participate?"
+Support: two repeated symbols, adult counting and pointing.
+Challenge: explain how another four-beat phrase changes the effect.
+Ruler demo unavailable: children may voluntarily feel their own soft hum or
+observe a teacher's described vibration; record the evidence source.
+Sound too intense: stop tapping and use silent symbols for the musical target;
+do not invent a vibration observation. Indoors, no device or home instrument.
+**Family:** We noticed vibration and chose sound/silence in a phrase.
+Ask, "Where did you put a rest, and why?" No routine homework.

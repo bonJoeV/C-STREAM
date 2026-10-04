@@ -63,6 +63,12 @@ Students will be able to:
 
 ## 📚 Materials Needed
 
+## SAFETY AND APPROVAL
+
+Make classroom cardboard mockups only. No patient-use, mobility, medical, food-contact, or safety devices; no real-use testing or distribution without prior recipient-organization consent and qualified review. No private health/family interviews. Use fictional need cards if no approved partner. Powered work requires the protected-AA circuit kit and adult inspection; no button cells or improvised supplies.
+
+**Local standards (not official):** CST-C2 - individual's dignity/access decision; CST-E1 - need with a criterion; CST-A2 - purposeful layout tested by a peer. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Service partner information (who will receive gifts)
 
 - Design materials (various)
@@ -91,7 +97,7 @@ Students will be able to:
 
 - Treated poor with dignity
 
-- "The poor are our masters"
+- Specific attributed sayings require an original source; the unsupported quotation is removed.
 
 **Design thinking for service:**
 1. **Empathize** — Understand who we're serving

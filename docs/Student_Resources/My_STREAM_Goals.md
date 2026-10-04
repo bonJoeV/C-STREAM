@@ -46,7 +46,7 @@ Name: _________________________ &nbsp;&nbsp; Date: _____________
 <hr style="border: 1px dashed #27ae60; margin: 20px 0;">
 
 <h2 style="color: #2c3e50;">✝️ Faith + Science</h2>
-<p style="font-style: italic; color: #7f8c8d; margin-bottom: 5px;">How does learning about science help you learn about God?</p>
+<p style="font-style: italic; color: #7f8c8d; margin-bottom: 5px;">How can we use what we learn to care for creation or help someone?</p>
 
 <div style="border: 2px solid #3498db; border-radius: 10px; padding: 20px; min-height: 60px; background: #f0f8ff;">
 &nbsp;
@@ -74,10 +74,15 @@ Name: _________________________ &nbsp;&nbsp; Date: _____________
 ## 📋 Teacher Notes
 
 **When to Use:** Week 1 of the school year  
-**Time Needed:** 10-15 minutes  
+**Time Needed:** Select one prompt for 2-3 minutes within the native lesson; the full sheet is optional across several meetings.
 **Follow-Up:** Revisit goals mid-year and end-of-year to reflect on growth
 
 ### Discussion Prompts
+
+For nonreaders, adult shows a real example and asks one question; child points,
+draws, tells or dictates. Use [Show, Try, Tell](./Show_Try_Tell_Card.md).
+This interest/goal sheet is not an achievement score. Record concept evidence
+separately using [Assessment Template](../Templates/Assessment_Template.md).
 
 - "What are you most excited to learn about?"
 

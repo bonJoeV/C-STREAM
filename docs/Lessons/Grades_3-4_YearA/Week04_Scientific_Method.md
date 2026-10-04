@@ -46,7 +46,7 @@ Students will be able to:
 ## 🙏 Faith-Reason Integration
 
 ### Catholic Teaching Connection
-**Science Reveals God's Creation** — Every time scientists discover something new about the universe, they're uncovering more of God's amazing design. The Church has always supported scientific inquiry because truth cannot contradict truth — science and faith both lead to truth.
+**Faith and honest inquiry** — Catholic teaching values faith and reason together; this is not a claim that every Church authority has always agreed with every scientist. Report what the evidence supports. Source: [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html), paraphrased.
 
 ### Scripture Connection
 > "It is the glory of God to conceal a matter; to search out a matter is the glory of kings."
@@ -101,10 +101,10 @@ Students will be able to:
 
 - **Variable** — Something that can change
 
-- **Control** — The thing you keep the same
+- **Kept-same conditions** — Features held constant; a control comparison is not simply another name for any constant
 
 ### Class Experiment (18 min)
-**Choose one experiment:**
+**Primary experiment: Option B, Ramp and Roll.** Use one ruler ramp, a large ball and two stable low book heights, on a tray or clear desk lane. Test each height three times; keep ball, ramp, surface and release point the same. Release without pushing. Measure whole centimeters; compare shortest/longest, not required averages. The other options require separate adult preparation.
 
 **Option A: Paper Airplane Distance**
 
@@ -152,7 +152,7 @@ Students will be able to:
 
 - "Some of the greatest discoveries came from unexpected results"
 
-**Faith Connection:** "St. Albert the Great said that studying nature is a form of worship. When we use the scientific method to understand creation, we're honoring the Creator. Every discovery reveals more of God's amazing design!"
+**Faith Connection:** Careful, honest investigation is one way we can use reason responsibly. The earlier saying attributed to St. Albert has been removed because its source was not supplied. His biographical details are **VERIFICATION REQUIRED** before a historical extension.
 
 **Closing Prayer:** "Thank You, God, for the gift of curiosity. Help us be truth-seekers like the great Catholic scientists. May all we discover lead us to wonder at Your glory. Amen."
 
@@ -171,7 +171,11 @@ Students will be able to:
 ---
 
 ## 📎 Home Connection
-> "We learned the scientific method! Ask your child to explain the steps. Try a simple experiment at home: 'Does adding salt make water boil faster?' Follow the scientific method together. Discuss how discovering truth about creation helps us know God better!"
+> We tested one changing condition and recorded what happened. Ask: "What changed, and what stayed the same?" Optional at home: compare two paper shapes by looking at them. No boiling water, required experiment or homework.
+
+## SAFETY
+
+No hot water, tasting experiment materials, added airborne pepper/dust, glass or unsupervised launches. Primary ramp stays on a low desk/tray, ball is too large to swallow, and children do not aim it at people. Teacher controls any optional alternative and dries spills. Scientific investigations can revisit steps; they are not always a single seven-step recipe.
 
 ---
 

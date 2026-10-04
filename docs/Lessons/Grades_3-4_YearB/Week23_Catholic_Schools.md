@@ -56,8 +56,7 @@ Students will be able to:
 > — Proverbs 22:6
 
 ### Theme Connection
-**2025 CSW Theme:** "Catholic Schools: United in Faith and Community"
-(Adjust based on actual year's theme)
+**Current CSW theme: VERIFICATION REQUIRED** with the school's current-year communication/NCEA source before display. Do not reuse a dated theme as current.
 
 ---
 
@@ -132,13 +131,13 @@ Students will be able to:
 
 - Compile class totals
 
-- Calculate percentages
+- Grade 3: compare whole-number category totals. Grade 4: represent part of class as a count/fraction if already taught; no required percentages.
 
 **Math connections:**
 
 - Fractions of class
 
-- Percentages
+- Whole-number comparisons; percentages are later optional enrichment
 
 - Graphing
 
@@ -159,7 +158,7 @@ Students will be able to:
 
 - Choose one data set
 
-- Create bar graph or pie chart
+- Create a labeled bar graph; pie charts are not required
 
 - Include title, labels, key
 
@@ -238,3 +237,7 @@ Ideas for the week:
 ---
 
 **Lesson Version:** 1.0 — Year B | **
+
+## Evidence and privacy
+
+Choose one survey question rather than five simultaneous datasets. Do not require disclosure of family finances, service participation or religious feeling. Each child reads two bars and explains a comparison. Optional digital display is teacher-managed/private. Verify school-history statistics and the CSW start date before displaying as sourced facts.

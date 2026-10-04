@@ -93,7 +93,7 @@ Students will be able to:
 
 ### 🤖 Station A: Advanced Robotics Lab
 **Focus:** Technology
-**Saint:** Blessed Carlo Acutis (technology)
+**Saint:** St. Carlo Acutis (technology); canonized September 7, 2025
 
 **Activities:**
 
@@ -153,7 +153,7 @@ Students will be able to:
 
 - Independent experiments with scientific method
 
-- Chemistry explorations (safe reactions)
+- Teacher-approved paper/ramp investigations only; no unspecified chemical reactions
 
 - Physics investigations (motion, magnets, electricity)
 
@@ -165,7 +165,7 @@ Students will be able to:
 
 ### 🎨 Station E: STREAM Art Studio
 **Focus:** Art, Math
-**Saint:** Michelangelo (artist)
+**Artist:** Michelangelo (not a canonized saint); biography **VERIFICATION REQUIRED**
 
 **Activities:**
 
@@ -349,3 +349,7 @@ Students work on extended projects or explore new stations.
 ---
 
 **Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+
+## SAFETY and implementation gate
+
+This is **not a substitute-ready six-station kit**. The regular teacher must select and prepare two stations with a specific objective, quantities and an individual check. Until that work is done, use only the prepared paper engineering and purposeful sketch/critique stations; no independent chemistry, bare battery/LED circuits, motors, sharp compasses or unverified "safe reactions." Optional device stations require supervised, pretested equipment and private local saves. Follow the rebuilt bridge/Sphero lesson safety when using those activities. Leave 5 minutes within each lab block for cleanup. A pupil's chosen domains are recorded, not all six automatically credited.

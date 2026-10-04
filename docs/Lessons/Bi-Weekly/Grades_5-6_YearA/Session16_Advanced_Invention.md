@@ -153,6 +153,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-E1 - specific criterion/constraint; CST-E2 - original test and one revised test; CST-C2 - dignity/access choice. Restrict to dry paper/cardboard classroom prototypes; powered work only with separately inspected protected-AA kits. No medical, bodily, chemical, launching, or mains projects. A concept model is not a validated working device. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Identified real problem

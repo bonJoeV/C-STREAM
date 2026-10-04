@@ -1,499 +1,124 @@
 ---
 title: "Weeks 8-10: Biomimicry Design"
-description: "Grades 5-6 Year B nature-inspired engineering"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - engineering
-  - light
-  - life-science
-  - astronomy
-  - animals
-  - lent
-  - arts
+description: "Nature-inspired forms, controlled paper-model tests, and purposeful visual design"
+version: "2.0"
+date: 2026-10-04
 ---
 
-# 🦎 Weeks 8-10: Biomimicry Design
+# Weeks 8-10: Biomimicry Design
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Teacher reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 3 sessions (45 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), E (Engineering), R (Religion), A (Arts) |
+| Grade / unit / title | Grades 5-6 / Design B / Biomimicry Design |
+| Time | Three 45-minute meetings; 135 total |
+| Domains | C, S, E, A; measurement supports the investigation |
+| Big idea | A natural form can inspire a design, but performance must be tested in its new context. |
+| Student objective | I can observe a form, sketch a purposeful model, compare two designs, and revise using evidence. |
+| Why | Designers combine observation, art, science, and tests rather than copying an attractive shape blindly. |
+| Catholic connection | Wonder and stewardship, without claiming nature is perfect or proving God through a prototype; [verified sources](../../Review/Grades_5-6_Review.md#verified-sources). Unsupported attributed saint quotation removed. |
+| Local standards / evidence | CST-S3: individual form/function and model-limit explanation; CST-E2: before/after tested redesign; CST-A1: observational sketch; CST-A2: purposeful pattern/form choice and critique; CST-C3: material tradeoff. Five local codes only. |
+| Official benchmarks | VERIFICATION REQUIRED. |
+| Technology | None; optional approved printed photographs add context, not required internet research. |
+| Difficulty / prerequisites | Moderate; observe, draw, fold, count loads. No prior rotation, ratios, or biological research assumed. |
+| Prep / cleanup | First kit 20 minutes; repeat 10 minutes; cleanup 4 minutes/meeting included. |
 
----
+## BEFORE CLASS
 
-# Weeks 8-10: Biomimicry Design
+1. Make 4/5/7/9 teams of at most three. On board draw a broad flat leaf with veins and a cylindrical stem with outer boundary; identify drawings as illustrative, not measured plant specimens.
+2. Provide an optional approved leaf/stem photo if available; otherwise use the illustrative drawings and state that students are interpreting a supplied model rather than observing a real specimen.
+3. Prepare two strips of equal paper 8 x 20 cm/team and two stable supports 10 cm apart, inside a catching tray. Adult prepares ten sealed 10 g load packets/class for serial tests.
+4. Brief: "Design a small paper bridge for a fictional garden model. Span 10 cm, use one strip, hold a centrally placed paper platform, and minimize new material." No claim of real habitat intervention.
 
-## 🎯 Learning Objectives
+## MATERIALS
 
-### STEM Objectives
-Students will be able to:
-1. Define biomimicry and identify examples
-2. Analyze biological adaptations
-3. Apply nature's designs to solve problems
-4. Create biomimicry-inspired inventions
+| Supply | Per student / team / class / teacher | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Pencil; journal, reusable | 1 each/student | 10 | 15 | 20 | 25 |
+| Sketch/exit sheets | 2/student/unit | 20 | 30 | 40 | 50 |
+| Paper strips 8 x 20 cm | 2/team/unit, initial plus revision | 8 | 10 | 14 | 18 |
+| Matching low supports | 2/team | 8 | 10 | 14 | 18 |
+| Catching tray; ruler; marker; blunt scissors | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper central platform, 3 x 3 cm | 1/team | 4 | 5 | 7 | 9 |
+| Tape | 0.25 m/team/unit | 1 m | 1.25 m | 1.75 m | 2.25 m |
+| Sealed 10 g packets | 10/class, adult supervised serial tests | 10 | 10 | 10 | 10 |
+| Timer; board form drawings | 1 each/teacher | 1 | 1 | 1 | 1 |
 
-### Faith Integration Objectives
-Students will be able to:
-1. See nature as God's design portfolio
-2. Appreciate how studying creation reveals wisdom
-3. Connect to St. Francis' love of nature
+## VOCABULARY
 
----
+**Biomimicry:** design inspired by living systems. **Form:** shape/arrangement. **Function:** what a part does. **Model:** simplified representation. **Criterion:** test for success. **Revision:** evidence-based change. **Tradeoff:** improvement with a cost elsewhere.
 
-# Weeks 8-10: Biomimicry Design
+## TEACHER BACKGROUND
 
-## 🙏 Faith-Reason Integration
+Different plant forms perform different functions; no adaptation is a perfect universal design. Our folded/cylindrical paper shapes are analogies, not accurate biological structures. Geometry affects a paper strip's resistance to bending. Fair comparisons keep paper size/material, span, load placement, and loading sequence constant.
 
-### Catholic Teaching Connection
-**Learning from Creation** — When we study nature's designs, we're studying God's engineering. Every adaptation, every solution already exists in creation. Biomimicry is humbly learning from the Master Designer!
+**Common misconception:** looking like a leaf makes a bridge stronger. Similar appearance is not performance evidence.
 
-### Scripture Connection
-> "But ask the animals, and they will teach you, or the birds in the sky, and they will tell you."
-> — Job 12:7
+**If asked, "Did plants invent bridges?"** Answer: No. Designers interpret living forms to generate ideas, then test a new construction with different materials and purposes.
 
-### Saint Connection
-**St. Francis of Assisi** — Patron of ecology who called all creatures his brothers and sisters. He saw God's presence in all nature. His Canticle of Creation praises Brother Sun and Sister Moon. Francis teaches us to learn from and respect all life.
+Retain the original unit's optional research topics: burr-inspired hook-and-loop fasteners, kingfisher-inspired train forms, gecko-inspired adhesion, lotus-inspired surfaces, and animal thermal/water management. Their specific inventor stories, commercial claims, and quotations are **VERIFICATION REQUIRED** from reliable sources before extension use; no invented source cards or mandatory research homework.
 
----
+## EXACT LESSON SEQUENCE
 
-## 📚 Materials Needed
+### Meeting 1 - observe and design
 
-### Week 8 (Introduction)
+1. **0-5 (5 min):** Introduce wonder, stewardship, and the fictional garden-model brief.
+2. **5-12 (7 min):** Model close observation: boundary, repeated veins/ridges, proportion; distinguish observation from claimed function.
+3. **12-22 (10 min):** Each student sketches the supplied form with three feature labels and one unanswered question; note drawing/model versus real specimen.
+4. **22-32 (10 min):** Teams propose two paper forms: flat, pleated/ridged, or rolled tube. Select one using span/material criteria; sketch before building.
+5. **32-38 (6 min):** Construct first paper bridge; each student explains the feature being translated and where analogy breaks.
+6. **38-41 (3 min):** Individual exit: form/function inference and one model limitation.
+7. **41-45 (4 min):** Store dry models and clean up.
 
-- Biomimicry examples (images/videos)
+### Meeting 2 - test and redesign
 
-- Nature specimens or images
+1. **0-5 (5 min):** Review fair comparison and safety cap.
+2. **5-12 (7 min):** Adult demonstrates central platform and 10 g increments, maximum 100 g, stopping at instability.
+3. **12-22 (10 min):** Serial adult tests for all teams; waiting teams trace force paths and predict outcomes. Record last safe load and any instability without deliberate destruction.
+4. **22-32 (10 min):** Use second equal strip to change form/fold only; sketch before/after. Hold span, paper, platform, and loading sequence constant.
+5. **32-38 (6 min):** Adult retests nine teams at most, about 40 seconds/team; no speeches during load tests.
+6. **38-41 (3 min):** Each student cites original/revised loads and states whether evidence supports improvement or is inconclusive.
+7. **41-45 (4 min):** Return weights/supports and clean up.
 
-- Research materials
+### Meeting 3 - purposeful visual communication
 
-- Observation worksheets
+1. **0-5 (5 min):** Distinguish a functional form from decoration and unsupported "best design" claims.
+2. **5-12 (7 min):** Demonstrate a visual panel: observed form -> translated feature -> tested result -> limitation.
+3. **12-22 (10 min):** Each student prepares a labeled panel with deliberate layout, not artistic-talent scoring.
+4. **22-32 (10 min):** Neighboring teams interpret panels without coaching; record which labels/sequence were clear.
+5. **32-38 (6 min):** Each student revises one visual choice or justifies a tested clear choice; add resource tradeoff.
+6. **38-41 (3 min):** Individual exit explains design, evidence, limitation, and material stewardship.
+7. **41-45 (4 min):** File panels, recycle scraps, tidy.
 
-### Week 9 (Research)
+## QUESTIONS TO ASK STUDENTS
 
-- Animal adaptation cards
+What did you observe versus infer? What property did the model actually test? How did the same paper behave in another form? Which visual label helped your reader? What tradeoff came with an extra fold?
 
-- Research stations
+## WHAT SUCCESS LOOKS LIKE
 
-- Design thinking materials
+Each student labels three observed/model features, states an analogy limitation, compares two safe demonstrated loads, and revises a purposeful visual panel using reader feedback. Grade 5 uses count/mass comparisons. Grade 6 defends control variables and why a 100 g capped result cannot establish ultimate breaking strength or general biological superiority.
 
-- Journals
+## IF THINGS GO WRONG
 
-### Week 10 (Design)
+Paper immediately bends: record zero safe added load and revise form. Both reach cap: neither is proven stronger; report equal demonstrated capacity under this test. No packets: use identical lightweight paper squares and report counts, not invented grams. No photos: label interpretation of teacher model, not specimen observation.
 
-- Prototyping materials (various)
+## SAFETY
 
-- Presentation supplies
+Adult alone loads; low supports, tray, 100 g cap, no body-weight tests, sharp fasteners, field collection, live animal handling, food specimens, or outdoor exposure. Student garden bridges are tabletop models, not real infrastructure or habitat installations.
 
-- Rubrics
+## SUPPORT / CHALLENGE - GRADES 5 AND 6
 
-- Display materials
+Grade 5: sketch frame and precreased paper, oral explanation. Challenge: compare flat/ridged forms. Grade 6: same core with control checklist; challenge propose a durability criterion not tested here. Scribe, large symbols, and alternate builder/observer roles preserve assessment.
 
----
+## INDOOR FALLBACK
 
-## 📝 Week 8 Procedure: Introduction to Biomimicry (45 minutes)
+Supplied forms and paper tests run indoors in any season. No field walk or device required.
 
-### Opening Prayer (2 min)
-"St. Francis, pray for us! Help us learn from our brothers and sisters in nature. Creator God, open our eyes to see Your wisdom in every creature. May we design with humility, learning from Your creation. Amen."
+## CLEANUP
 
-### What is Biomimicry? (10 min)
-**Nature as teacher:**
+Adult counts ten packets, collect supports/trays/scissors, flatten recyclable drafts, retain before/after sketches and visual revisions.
 
-**Definition:**
+## FAMILY NEWSLETTER
 
-- Bio = life
-
-- Mimicry = imitation
-
-- Biomimicry = Learning from nature to solve human problems
-
-**Key concept:**
-"Nature has 3.8 billion years of R&D. Why reinvent the wheel when creation already has solutions?"
-
-**St. Francis connection:**
-
-- Saw all nature as family
-
-- Respected creatures' wisdom
-
-- Learned spiritual lessons from nature
-
-- "If you have men who will exclude any of God's creatures from the shelter of compassion and pity, you will have men who will deal likewise with their fellow men."
-
-### Amazing Biomimicry Examples (15 min)
-**Real-world applications:**
-
-**1. Velcro (Burrs)**
-
-- Inventor walked dog through field
-
-- Burrs stuck to dog's fur
-
-- Examined hooks under microscope
-
-- Created hook-and-loop fastener!
-
-**2. Bullet Train (Kingfisher)**
-
-- Japanese train was loud entering tunnels
-
-- Engineer was birdwatcher
-
-- Kingfisher enters water silently
-
-- Copied beak shape → quieter, faster train!
-
-**3. Gecko Tape (Gecko feet)**
-
-- Geckos walk on walls and ceilings
-
-- Tiny hairs create adhesion
-
-- Scientists copied → reusable adhesive!
-
-**4. Swimsuits (Shark skin)**
-
-- Shark skin has tiny ridges
-
-- Reduces drag in water
-
-- Olympic swimsuits copied design
-
-**5. Self-cleaning surfaces (Lotus leaf)**
-
-- Lotus leaves stay clean in muddy water
-
-- Microscopic bumps repel water and dirt
-
-- Copied for building materials, paints
-
-**Discussion:**
-
-- "What's surprising about these examples?"
-
-- "Why didn't humans think of these first?"
-
-- "What does this tell us about nature's design?"
-
-### Nature Observation (15 min)
-**Looking for design inspiration:**
-
-**Observation activity:**
-Go outside OR use images/specimens
-
-**Observe and record:**
-
-- Choose one plant or animal
-
-- Draw it carefully
-
-- List its special features
-
-- What problems does it solve?
-
-- What challenges does it overcome?
-
-**Guiding questions:**
-
-- How does it protect itself?
-
-- How does it get food/water?
-
-- How does it move?
-
-- How does it survive extreme conditions?
-
-- What's unique about its structure?
-
-**Share observations:**
-
-- What did you notice?
-
-- What adaptation impressed you?
-
-- What human problem might this inspire?
-
-### Closing (3 min)
-**Preview:**
-"Next week we'll research specific adaptations and start designing our own biomimicry inventions!"
-
-**Journal prompt:**
-
-- "What creature did you observe?"
-
-- "What problem does its adaptation solve?"
-
-- "What human problem might it address?"
-
-**Closing Prayer:**
-"Thank You, Creator, for 3.8 billion years of design wisdom! Thank You for creatures that teach us. Help us be humble learners from Your creation. St. Francis, pray that we respect and learn from all our brothers and sisters in nature. Amen."
-
----
-
-## 📝 Week 9 Procedure: Research & Design (45 minutes)
-
-### Opening Prayer (2 min)
-"Lord of all creation, guide our research today! Help us discover Your wisdom in the designs of nature. May we create solutions that serve others. Amen."
-
-### Adaptation Research (20 min)
-**Deep dive into nature's solutions:**
-
-**Research stations (groups rotate):**
-
-**Station 1: Movement & Locomotion**
-
-- How do dolphins swim efficiently?
-
-- How do birds fly with minimum energy?
-
-- How do snakes move without legs?
-
-- How do insects walk on water?
-
-**Station 2: Materials & Structures**
-
-- How do spider webs combine strength and flexibility?
-
-- How do bones combine lightness and strength?
-
-- How do shells protect?
-
-- How do honeycombs maximize space?
-
-**Station 3: Thermal Regulation**
-
-- How do polar bears stay warm?
-
-- How do elephants stay cool?
-
-- How do termite mounds regulate temperature?
-
-- How do desert animals manage heat?
-
-**Station 4: Water Management**
-
-- How do cacti store water?
-
-- How do beetles collect water from fog?
-
-- How do mangroves filter salt?
-
-- How do lotus leaves repel water?
-
-**At each station:**
-
-- Read information cards
-
-- Study images/videos
-
-- Record key adaptations
-
-- Brainstorm human applications
-
-### Problem Selection (10 min)
-**Choose your focus:**
-
-**Human problems that could use nature's help:**
-
-- Clean water access
-
-- Building efficiency
-
-- Transportation
-
-- Medical needs
-
-- Packaging/materials
-
-- Energy
-
-**Teams choose:**
-
-- What problem interests you?
-
-- What natural adaptation might help?
-
-- What creature inspires your solution?
-
-**Design brief:**
-
-- Problem we're solving:
-
-- Creature inspiration:
-
-- Adaptation we're copying:
-
-- Our solution concept:
-
-### Initial Design (10 min)
-**Sketch your biomimicry invention:**
-
-**Design requirements:**
-
-- Clearly identify biological inspiration
-
-- Explain the adaptation being mimicked
-
-- Show how it solves the human problem
-
-- Consider materials and construction
-
-**Design worksheet:**
-
-- Sketch (3 views if helpful)
-
-- Label key features
-
-- Explain connection to nature
-
-- List materials needed
-
-### Closing (3 min)
-**Share concepts:**
-
-- Quick pitch: Problem, creature, solution
-
-**Feedback:**
-
-- What's strong?
-
-- What questions do you have?
-
-**Closing Prayer:**
-"Thank You for inspiring ideas today! Help us develop them into real solutions. May our designs honor both creation and the people they serve. Amen."
-
----
-
-## 📝 Week 10 Procedure: Build & Present (45 minutes)
-
-### Opening Prayer (2 min)
-"Creative Spirit, guide our hands today! Help us build things that reflect Your wisdom in nature. May our presentations honor You. Amen."
-
-### Build Time (20 min)
-**Create your prototype:**
-
-**Prototype requirements:**
-
-- Visual representation of solution
-
-- Can be model, drawing, or digital
-
-- Must show connection to nature
-
-- Include explanation of how it works
-
-**Building options:**
-
-- Physical model (cardboard, clay, found materials)
-
-- 3D digital design (if tools available)
-
-- Detailed poster with diagrams
-
-- Working prototype (if simple enough)
-
-**While building:**
-
-- Test if possible
-
-- Refine design
-
-- Prepare presentation notes
-
-- Practice explaining the nature connection
-
-### Presentation Preparation (5 min)
-**Structure your presentation:**
-
-**Format (2-3 minutes each):**
-1. State the human problem
-2. Introduce your creature inspiration
-3. Explain the adaptation
-4. Show your solution
-5. Explain how it works
-6. Connect to faith/creation care
-
-**Visual aids:**
-
-- Show your prototype
-
-- Include creature images
-
-- Demonstrate if possible
-
-### Biomimicry Showcase (15 min)
-**Present to class:**
-
-**Each team presents:**
-
-- Follows format
-
-- Shows prototype
-
-- Answers questions
-
-**Audience:**
-
-- Listen respectfully
-
-- Note creativity
-
-- Ask one question per presentation
-
-- Look for connections
-
-### Reflection & Awards (3 min)
-**Celebrate learning:**
-
-**Recognition:**
-
-- Most creative biomimicry
-
-- Best nature connection
-
-- Most practical solution
-
-- Best presentation
-
-- Best teamwork
-
-**Discussion:**
-
-- "What did this unit teach you about nature?"
-
-- "How does biomimicry show God's design?"
-
-- "How might you use biomimicry thinking in the future?"
-
-**Final reflection:**
-"Nature is God's design portfolio. Billions of years of perfected solutions surround us. As St. Francis knew, we have much to learn from our brothers and sisters in creation."
-
-**Closing Prayer:**
-"Thank You, God, for the genius of Your creation! Thank You for creatures that teach us. Help us always approach nature with humility and respect. May we be good stewards who learn from and protect Your world. St. Francis, pray for us and for all creation! Amen."
-
----
-
-## 📎 Home Connection
-> "We completed Biomimicry Design! Ask your child: 'What creature inspired your invention?' 'What problem does it solve?' 'What did you learn about nature's designs?' Take a nature walk together and look for design inspiration. What adaptations do you notice? How might they solve human problems?"
-
----
-
-## ✅ Assessment
-
-- Identified biomimicry concept and examples
-
-- Researched specific biological adaptations
-
-- Designed nature-inspired solution
-
-- Presented with clear nature connection
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+**Explored:** nature-inspired forms and tested design. **Did:** sketched, compared paper bridges, and revised visual explanations. **Learned:** resemblance is not proof of performance. **Catholic connection:** wonder and stewardship. **Ask:** "What did your model test, and what could it not prove?" No routine homework; optional conversation only.

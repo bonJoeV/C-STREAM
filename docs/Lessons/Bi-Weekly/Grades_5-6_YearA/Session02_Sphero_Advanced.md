@@ -59,13 +59,13 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Blessed Carlo Acutis** — Used programming skills to create a database of Eucharistic miracles. Technology for God's glory!
+**Saint Carlo Acutis** - canonized September 7, 2025; [verified canonization source](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). Additional technology biography **VERIFICATION REQUIRED**.
 
 ### Scripture
 > *"For I know the plans I have for you... plans to prosper you and not to harm you."* — Jeremiah 29:11 (Planning in coding!)
 
 ### Opening Prayer
-*Dear God, you gave us minds that can create and program. Help us use technology wisely, like Blessed Carlo Acutis. Guide our coding today! Amen.*
+*Dear God, you gave us minds that can create and program. Help us use technology wisely, like Saint Carlo Acutis. Guide our coding today! Amen.*
 
 ---
 
@@ -81,10 +81,10 @@ By the end of this session, students will:
    - Visual coding like Scratch
    - Blocks snap together
    - More complex than drive mode
-3. **Blessed Carlo Acutis:**
+3. **Saint Carlo Acutis:**
    - Teen programmer and web developer
    - Used skills to share faith
-   - "Be original, not a copy!"
+   - Attributed sayings require original sources; the unsupported quotation is removed.
 4. **Today's Goal:** Create autonomous Sphero behaviors!
 
 ### Main Activity: Block Programming (30 minutes)
@@ -105,7 +105,7 @@ By the end of this session, students will:
 ```
 When program starts:
   Set main LED to blue
-  Roll at 45° speed 100 for 2 seconds
+  Roll at aimed heading 45 degrees, speed at most 20, duration at most 1 second
   Stop
   Set main LED to green
 ```
@@ -177,6 +177,12 @@ When program starts:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-T2 - individual's condition/loop trace; CST-T1 - identify input and output; CST-C2 - explain an equitable role or safe-space decision. Official benchmarks **VERIFICATION REQUIRED**.
+
+## SAFETY AND NAVIGATION LIMITS
+
+Adult checks charged robots and a clear 1 m floor lane per active robot, 50 cm observer boundary. Stop before retrieval; no races, shaking, or deliberate collisions. Heading zero is the aimed frame, not automatically north; replace North/East labels with aimed 0/90/180/270. Brightness response alone is not directional light seeking. If devices fail, trace square commands and four fictional readings (12/48/45/18; threshold 30) on paper; explicitly assess algorithm reasoning, **not actual robot operation**.
 **Observation Checklist:**
 
 - [ ] Created block programs
@@ -210,7 +216,7 @@ When program starts:
 ---
 
 ## Wonder at Home 🏠
-**Family Activity:** Research Blessed Carlo Acutis! Discuss how technology can serve faith. Try free coding platforms at home: Scratch, Code.org. Think about programs you could create for good!
+**Optional family conversation:** Discuss Saint Carlo Acutis and service through technology. No home platform/account or routine homework required.
 
 ---
 

@@ -7,7 +7,17 @@ description: "Complete index of all C-STREAM lessons organized by type and mater
 
 **Location:** Our Lady of the Prairie Catholic School · Belle Plaine, MN · Archdiocese of Saint Paul and Minneapolis
 
-This index organizes all available and suggested C-STREAM lessons by type, making it easy to plan your year and find appropriate lessons.
+This legacy thematic index includes both available and suggested activities.
+For a verified file inventory and baseline/revision status, use the
+[complete lesson map](Review/Lesson_Map.csv) and [grade reviews](Review/README.md).
+Suggestions below are a menu, not an additive required calendar.
+
+**OLP Snap Circuits:** four existing Grades 3-6 circuit lessons now use the
+school's eight reported individual kits with explicit safety gates and a
+two-wave plan for 25 pupils. Start with the
+[classroom guide](Resources/Snap_Circuits_Classroom_Guide.md) and
+[selected lesson list](Review/Materials_Plan.md#selected-snap-circuits-lesson-pathways);
+legacy thematic equipment suggestions below do not override those routes.
 
 ---
 
@@ -26,12 +36,15 @@ This index organizes all available and suggested C-STREAM lessons by type, makin
 
 ## 📋 Lesson Count Summary
 
-| Lesson Type | Count | Total Weeks | Percentage |
-|-------------|-------|-------------|------------|
-| Single-Week Lessons | 14 | 14 weeks | 42% |
-| Multi-Week Units (2-3 weeks) | 9 | 22 weeks | 33% |
-| Long Arc Projects (4-6 weeks) | 5 | 20 weeks | 25% |
-| **TOTAL** | **28 units** | **~34 weeks** | 100% |
+| Inventory measure | Count | Interpretation |
+|---|---:|---|
+| Weekly documents across all bands/rotations | 132 | Multi-week filenames require meeting counts |
+| Bi-weekly documents across all bands/rotations | 119 | Seven alternative 17-session tracks |
+| Total lesson documents | 251 | Do not teach all tracks in one year |
+| Legacy thematic menu below | 28 entries | Some overlap or require adaptation; not 34 weeks of verified instruction |
+
+The earlier 14 + 22 + 20 week estimate totaled 56, not 34. It is replaced
+by document-level audits and the [scope and sequence](Review/Scope_and_Sequence.md).
 
 ---
 
@@ -171,7 +184,7 @@ Extended projects allowing deep exploration and iteration.
 | Apr | 29-32 | S8 Easter → L4 Service Project (3) |
 | May | 33-35 | M9 Final Projects (2) → S14 Summer Launch |
 
-### Option B: Tech-Heavy Approach
+### Option B: Legacy technology-heavy menu (optional, not the default)
 
 | Month | Week | Lesson |
 |-------|------|--------|
@@ -185,7 +198,12 @@ Extended projects allowing deep exploration and iteration.
 | Apr | 29-32 | S8 Easter → L4 Service Project (3) |
 | May | 33-35 | M9 Final Projects (2) → S14 Summer Launch |
 
-### Option C: Unplugged Focus
+### Option C: Legacy mixed menu (not entirely unplugged)
+
+This menu includes Sphero and Scratch. It must not be represented as a
+no-device sequence. Use the [technology plan](Review/Technology_Plan.md) and
+the actual lesson's documented alternative; algorithm evidence is not proof
+of operating or programming a physical robot.
 
 | Month | Week | Lesson |
 |-------|------|--------|

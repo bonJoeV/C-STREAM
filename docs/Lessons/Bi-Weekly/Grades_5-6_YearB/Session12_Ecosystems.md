@@ -190,6 +190,8 @@ By the end of this session, students will:
 ---
 
 ## Assessment
+
+**Individual local check (not official):** CST-S3 - food-web arrows from food to consumer and one perturbation; CST-A1 - labeled system model/limit; CST-C3 - stewardship tradeoff. Ecosystems change and are not guaranteed perfect balance. Primary indoor diagram only; no wild specimens, unknown water/soil, terrarium organisms, or habitat interventions. Official benchmarks **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Understood ecosystem connections

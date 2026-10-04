@@ -9,7 +9,17 @@ description: "C-STREAM bi-weekly lesson plans for Grades 3-4 Year B"
 ## Overview
 **Grade Band:** 3-4 | **Duration:** 40 minutes per session | **Sessions:** 17 over the school year | **Rotation Year:** B
 
-This bi-weekly schedule provides alternating content from Year A for schools with combined grade classrooms. Year B covers the same skills with different projects and contexts.
+This bi-weekly schedule alternates contexts for combined classrooms. It revisits skills but does not establish identical coverage or mastery to Year A or the weekly curriculum.
+
+## Audit status and availability
+
+**17 represented meetings / 680 minutes in 17 files.** Read the [Grades 3-4 review](../../../Review/Grades_3-4_Review.md) and [lesson audit](../../../Review/Grades_3-4_Audit.csv). Ozobot Coding and Christmas Circuits are rebuilt; other sessions still have varied preparation/assessment needs. No entire-track substitute certification.
+
+Year B can be a first rotation: do not require prior Year A circuits or Scratch. Grade 3 uses supported counts and labeled models; Grade 4 adds test comparisons, limits and justified revisions. Scratch Games needs a novice bridge; it is not four weekly meetings' work in forty minutes.
+
+No guaranteed CSCOE loans or installed software. Verify hardware models/stock, official code chart, voltage/current limits, batteries and approved connection methods in advance. Ozobot paper fallbacks are CT, not actual color-code/sensor operation. Christmas Circuits uses secured AA holders/current-limited modules; paper models are not electrical operation and no loose coin-cell gift goes home.
+
+All biographies, quotations, scripture translation/verse numbering, current roles and patronage not backed by a verified source are **VERIFICATION REQUIRED** before fact-card use. Life-cycle learning distinguishes living metamorphosis from Easter symbolism. Home extensions/materials are optional, never homework prerequisites.
 
 ---
 
@@ -18,12 +28,12 @@ This bi-weekly schedule provides alternating content from Year A for schools wit
 | Session | Title | Focus | Catholic Connection |
 |---------|-------|-------|---------------------|
 | 01 | [Design Thinking](./Session01_Design_Thinking.md) | Engineering process | St. Isidore & innovation |
-| 02 | [Ozobot Coding](./Session02_Ozobot_Coding.md) | Line-following robots | Bl. Carlo Acutis |
+| 02 | [Ozobot Coding](./Session02_Ozobot_Coding.md) | Verified input/command/output | St. Carlo Acutis |
 | 03 | [Tower Challenge](./Session03_Tower_Challenge.md) | Tall structures | Tower of Babel reflection |
 | 04 | [Ecosystems](./Session04_Ecosystems.md) | Food webs | St. Kateri Tekakwitha |
 | 05 | [Scratch Games](./Session05_Scratch_Games.md) | Game programming | Creativity as gift |
 | 06 | [Thanksgiving Design](./Session06_Thanksgiving_Design.md) | Gratitude project | St. Paul's letters |
-| 07 | [Christmas Circuits](./Session07_Christmas_Circuits.md) | LED Nativity | Light of the World |
+| 07 | [Christmas Circuits](./Session07_Christmas_Circuits.md) | Snap switched-light repair and paper Nativity message | Light of the World |
 | 08 | [Digital Storytelling](./Session08_Digital_Stories.md) | Story creation | Gospel stories |
 | 09 | [Faith & Science](./Session09_Faith_Science.md) | Catholic Schools Week | Fr. Lemaître |
 | 10 | [Geology Rocks](./Session10_Geology_Rocks.md) | Earth science | Rock as foundation |
@@ -39,11 +49,11 @@ This bi-weekly schedule provides alternating content from Year A for schools wit
 
 ## Technology Used
 
-- 🤖 Ozobot Robots (from CSCOE library)
+- Ozobot robots: possible loan, verify availability/model and official chart
 
-- 📦 KEVA Planks (from CSCOE library)
+- KEVA planks: possible loan, verify quantities and safe model limits
 
-- 🎹 Makey Makey (from CSCOE library)
+- Makey Makey: possible loan, verify board/computer compatibility and approved connection method
 
 - 💻 Scratch programming
 

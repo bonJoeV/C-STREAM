@@ -47,14 +47,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Gift of Self** — The best gifts are those that give of ourselves — our time, effort, and love. Handmade gifts show we value the person enough to invest ourselves.
 
-### Scripture Connection
-> "Each of you should give what you have decided in your heart to give, not reluctantly or under compulsion, for God loves a cheerful giver."
-> — 2 Corinthians 9:7
+### Scripture reference
+2 Corinthians 9:7; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies/traditions
 **St. Nicholas** — Famous for giving gifts in secret. He gave to those in need without expecting anything in return. He inspires our gift-giving at Christmas.
 
 ---
@@ -199,8 +198,11 @@ Students will be able to:
 
 ---
 
-## 📎 Home Connection
-> "We made gifts for loved ones today! Your child created something special with someone in mind. Please don't peek! 😊 We learned about St. Nicholas and giving cheerfully. Talk about the difference between store-bought and handmade gifts — which takes more love?"
+## SAFETY / workable default
+Use a 5 x 15 cm teacher-precut cardstock bookmark; choose recipient, draw a purposeful message/pattern, test in a closed book and revise anything that obstructs use. Omit loose beads/buttons, hot glue and staples. Grade 1 dictates; Grade 2 explains one design revision. **Technology: None primary path.** Final 3 making minutes are cleanup; functional testing, not decoration alone, supports engineering evidence.
+
+## 📎 Home Connection (optional; no routine homework)
+> "We made gifts with a recipient in mind. Ask: 'What did you choose for that person, and why?' Handmade, purchased and spoken gifts can all express love; do not rank families by purchases or time available."
 
 ---
 

@@ -57,7 +57,7 @@ By the end of this session, students will:
 ## Catholic Integration
 
 ### Saint Connection
-**Blessed Carlo Acutis** — Used technology creatively for good. He'd have loved inventing with Little Bits!
+**St. Carlo Acutis** — Canonized September 7, 2025; an example of service with skills, not a claim about which classroom kit he would have liked.
 
 ### Scripture
 > *"Each of you should use whatever gift you have received to serve others."* — 1 Peter 4:10
@@ -78,8 +78,8 @@ By the end of this session, students will:
    - 🟢 **Green** = Outputs (lights, sounds, motors)
    - 🩷 **Pink** = Inputs (buttons, sensors)
    - 🟠 **Orange** = Wires (connect pieces)
-3. **Rule:** Power → Inputs → Outputs
-4. **Blessed Carlo Acutis** — Used tech for good!
+3. **Signal chain:** Power -> inputs -> outputs within the manufacturer's modular system
+4. **St. Carlo Acutis** — Use skills for good
 
 ### Main Activity: Little Bits Exploration (27 minutes)
 
@@ -207,3 +207,7 @@ Steps:
 
 **Previous:** [Session 15 — Simple Machines](./Session15_Simple_Machines.md)  
 **Next:** [Session 17 — Year Exhibition](./Session17_Exhibition.md)
+
+## SAFETY / compatibility gate
+
+Teacher inventories manufacturer-approved modules and closed battery holders; no wall power, loose magnets/batteries, exposed spinning blades or improvised connections. Off before edits; warm/leaking/damaged parts mean stop/off/report and adult isolation. **VERIFICATION REQUIRED:** actual light-sensor dark mode and available sound/dimmer modules; use the button/LED path if unsupported. No automatic dark-light claim without testing. Primary electronics Required; paper input/output diagrams are models, not working devices. Hardware stays at school; reserve 5 minutes of invention for cleanup. Each child predicts input/output and explains an observed test.

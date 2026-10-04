@@ -7,6 +7,14 @@ description: "Profiles of Catholic scientists for C-STEM lesson integration"
 
 This resource provides profiles of Catholic scientists to integrate into C-STEM lessons, demonstrating the rich history of the Church's contribution to scientific discovery.
 
+**October 2026 source status: VERIFICATION REQUIRED.** These legacy profiles,
+personal-faith claims, priority claims and quotations are research leads, not
+verified primary-source biographies. Check each claim/quotation and context
+before lesson or newsletter use; do not copy disputed attributions as fact.
+The shared review's source record and [Local Standards](../Review/Local_Standards.md)
+govern verified teaching claims. A biography is optional, not required in every
+lesson; Church history and scientific evidence must remain distinguishable.
+
 > "The Jesuits contributed to the development of pendulum clocks, pantographs, barometers, reflecting telescopes, and microscopes." — Historical record of Catholic scientific contributions
 
 ---
@@ -352,4 +360,6 @@ Assign students to research a Catholic scientist and present how their faith inf
 
 **Resource Version:** 2.0  
 **Framework:** C-STREAM  
-**Sources:** Catholic heritage research, NCEA STREAM materials
+**Source status:** Legacy Catholic heritage/NCEA attributions and quotations:
+**VERIFICATION REQUIRED** against identified primary sources before use.
+This guide does not establish NCEA/Cognia certification or official approval.

@@ -348,6 +348,8 @@ Hide
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-T2 - trace a custom-block call or clone's behavior and fix one bug; CST-T3 - identify school-only storage/no private inputs; CST-A2 - explain one purposeful feedback/control design. One trace/test record per student, not a shared screenshot. Official benchmarks **VERIFICATION REQUIRED**. Custom square drawing requires the Pen extension/pen-down to leave a visible line; movement alone does not draw. Clones share global variables; only sprite-local variables have per-clone values. No public accounts or uploads.
+
 - Demonstrated custom block usage
 
 - Implemented cloning appropriately

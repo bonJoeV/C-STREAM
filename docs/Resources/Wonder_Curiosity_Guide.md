@@ -7,6 +7,15 @@ description: "Strategies for cultivating wonder and curiosity in C-STEM educatio
 
 This resource provides strategies for cultivating the sense of wonder that is foundational to Catholic STEM education.
 
+**October 2026 teaching/source note:** Preserve the observation/questioning
+practices; numerical claims, quotations and historical/theological attributions
+below are **VERIFICATION REQUIRED** before classroom copying. An observation
+does not experimentally prove a theological conclusion. Invite gratitude without
+grading spontaneous awe or interior belief. Use concrete stewardship/dignity
+decisions, not a literal comparison of God to an engineer/scientist/artist.
+Magnet demonstrations require age-appropriate large encapsulated ferrite
+equipment; no neodymium magnets in K. See [safety and kits](../Review/Materials_Plan.md).
+
 > "Approaching education from the perspective of wonder, exploration, and faith will ignite the love of learning."
 
 ---

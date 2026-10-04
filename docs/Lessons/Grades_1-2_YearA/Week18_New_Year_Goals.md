@@ -46,14 +46,13 @@ Students will be able to:
 
 ## 🙏 Faith-Reason Integration
 
-### Catholic Teaching Connection
+### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
 **Growing in Virtue** — God wants us to grow and become the best version of ourselves. Setting goals helps us grow in virtue — becoming more kind, more patient, more loving, more like Jesus.
 
-### Scripture Connection
-> "Commit to the LORD whatever you do, and he will establish your plans."
-> — Proverbs 16:3
+### Scripture reference
+Proverbs 16:3; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced. Goal success is not guaranteed by prayer.
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Thérèse of Lisieux** — She set small goals to do ordinary things with great love. She called this "the Little Way" — small steps toward becoming a saint.
 
 ---
@@ -154,8 +153,11 @@ Students hold their goal sheets.
 
 ---
 
-## 📎 Home Connection
-> "We set New Year goals today! Ask your child about their three goals — one for learning, one for kindness, and one for faith. Help them with their trackers at home. Small steps lead to big growth!"
+## Nonreader / privacy / follow-up
+Grade 1 chooses one classroom learning or kindness action and draws/tells a first step; Grade 2 may set three goals. Keep trackers at school and revisit during the next opening, not as required home work. Do not score or publicly rank prayer/sacrament participation or infer faith from tracker completion. **Technology: None primary path.** Use final 2 planning minutes to tidy supplies.
+
+## 📎 Home Connection (optional; no routine homework)
+> "We chose classroom growth goals and first steps. Ask your child to tell or show one step they can practice. Trackers stay at school; optional home discussion needs no materials."
 
 ---
 

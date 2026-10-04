@@ -55,11 +55,11 @@ By the end of this session, students will:
 
 ## Catholic Integration
 
-### Saint Connection
+### Saint Connection - VERIFICATION REQUIRED before teaching biographies
 **St. Joseph the Worker** — Jesus's foster father was a builder who used his skills to care for his family and community.
 
-### Scripture
-> *"For we are God's handiwork, created in Christ Jesus to do good works."* — Ephesians 2:10
+### Scripture reference
+Ephesians 2:10; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
 
 ### Opening Prayer
 *Dear God, thank you for giving us minds that can solve problems and hands that can build things. Help us be engineers who make the world better for others. Bless our work this year. Amen.*
@@ -156,7 +156,10 @@ By the end of this session, students will:
 
 ---
 
-## Wonder at Home 🏠
+## SAFETY / individual evidence / cleanup
+Tabletop towers below 30 cm, no heavy loads or climbing. Grade 1 points to a base and compares tower/pencil height orally; Grade 2 explains one redesign after the standing test. Replace participation-only credit with each child's demonstration. **Technology: None primary path.** Use final 3 building minutes for plank count/return; no routine homework.
+
+## Wonder at Home 🏠 (optional)
 **Family Activity:** Build towers at home using anything available—blocks, boxes, cans, books. Who can build the tallest tower that stands on its own for 10 seconds?
 
 ---

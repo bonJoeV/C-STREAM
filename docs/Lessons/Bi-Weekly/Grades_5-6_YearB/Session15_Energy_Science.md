@@ -60,7 +60,7 @@ By the end of this session, students will:
 **Leonardo da Vinci** — Catholic artist and inventor who saw no conflict between faith and science! Designed amazing machines centuries ahead of his time.
 
 ### Scripture
-> *"I know that everything God does will endure forever; nothing can be added to it and nothing taken from it."* — Ecclesiastes 3:14 (Energy conservation!)
+Ecclesiastes 3:14 is a religious reflection, not a physics statement or proof of energy conservation. Read from the school's approved Bible if desired; no scientific law is inferred from the verse.
 
 ### Opening Prayer
 *Dear God, you created a universe of amazing order where energy transforms but is never lost. Help us understand these principles and use them to engineer solutions. Your design is perfect! Amen.*
@@ -91,7 +91,7 @@ By the end of this session, students will:
 3. **Conservation:**
    - God's design: Energy conserved
    - Nothing is lost, only transformed
-   - "Nothing can be added to it and nothing taken"
+   - Physics describes conservation within specified systems; religious reflection is distinct evidence.
 
 ### Main Activity: Energy Engineering (28 minutes)
 
@@ -134,7 +134,7 @@ Design and build a system that:
 
 - Vehicle (wheel & axle + inclined plane)
 
-- Catapult (lever + potential energy)
+- Nonlaunching lever that raises a light paper load; no catapult or projectile
 
 - Ball run with multiple energy transformations
 
@@ -171,6 +171,12 @@ Design and build a system that:
 ---
 
 ## Assessment
+
+**Local standards (not official):** CST-S3 - individual energy-transfer chain including thermal/sound pathways; CST-E2 - measured before/after task test; CST-C1 - distinguish physical law from religious reflection. Official benchmarks **VERIFICATION REQUIRED**. Do not claim quantitative efficiency without measured input/output energy.
+
+## SAFETY
+
+Adult inspects low ramps/lever supports; use large soft balls inside a catching tray, at most 15 cm height and 100 g paper/packet loads. No catapults, projectiles, finger pinch traps, electrical improvisation, or body-weight testing. Classroom model stays indoors; specific historical claims about Leonardo's beliefs **VERIFICATION REQUIRED**.
 **Observation Checklist:**
 
 - [ ] Identified energy types

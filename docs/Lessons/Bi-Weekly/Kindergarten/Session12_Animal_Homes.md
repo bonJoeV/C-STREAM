@@ -1,178 +1,73 @@
 ---
 title: "Session 12: Animal Homes"
-description: "Kindergarten Bi-Weekly C-STREAM exploring habitats"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - kindergarten
-  - bi-weekly
-  - engineering
-  - life-science
-  - animals
-  - easter
-  - arts
+description: "Model one bird family's food, water, shelter and space without collecting nests"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-S3, CST-E1, CST-A1]
+technology: None
+prep_minutes: 15
+cleanup_minutes: 4
+materials: [Clean corrugated cardboard, Plain paper, Paper strips, Large observation picture cards, School glue stick, Shared school crayon set]
 ---
 
 # Session 12: Animal Homes
 
-## Overview
-**Grade:** Kindergarten | **Duration:** 25 minutes | **Session:** 12 of 17
-
-Students explore different animal habitats, designing and building homes for animals while learning about God's provision for all creatures.
-
----
-
-# Session 12: Animal Homes
-
-## Learning Objectives
-By the end of this session, students will:
-
-- Recognize that different animals need different homes
-
-- Identify features of animal habitats
-
-- Build a simple animal home
-
-- Appreciate God's design for animal habitats
-
----
-
-## Materials Needed
-
-- 📦 Building materials (boxes, cardboard, paper, craft sticks)
-
-- 🐻 Toy animals (bird, fish, bear, rabbit, etc.)
-
-- 📸 Pictures of animal homes (nest, burrow, cave, pond)
-
-- 🌿 Natural materials (twigs, leaves, grass)
-
-- 🖍️ Wonder Journals and crayons
-
-- 📋 Habitat matching cards
-
----
-
-## Catholic Integration
-
-### Saint Connection
-**St. Francis of Assisi** — He loved all animals and saw them as brothers and sisters in God's creation!
-
-### Scripture
-> *"Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them."* — Matthew 6:26
-
-### Opening Prayer
-*Dear God, you take care of all animals. You gave birds nests to live in, fish water to swim in, and rabbits burrows to hide in. Help us care for animals too. Amen.*
-
----
-
-## Lesson Procedure
-
-### Opening Circle (4 minutes)
-1. **Question** — "Where do animals live?"
-2. **Habitat Introduction:**
-   - 🐦 Birds live in NESTS (in trees)
-   - 🐟 Fish live in WATER (ponds, rivers, oceans)
-   - 🐻 Bears live in CAVES or DENS
-   - 🐰 Rabbits live in BURROWS (underground)
-3. **God's Provision** — "God designed the perfect home for each animal!"
-4. **Today's Challenge** — "We're going to BUILD animal homes!"
-
-### Main Activity: Build an Animal Home (15 minutes)
-
-**Part 1: Match Animals to Homes (3 minutes)**
-
-- Show pictures of habitats
-
-- "Which animal goes where?"
-
-- Match toy animals to habitat pictures
-
-**Part 2: Design & Build (10 minutes)**
-
-- Small groups choose an animal
-
-- Challenge: Build a home for that animal!
-
-- Materials available:
-  - Boxes (caves, dens)
-  - Paper/cardboard (nests, walls)
-  - Craft sticks (nest structure)
-  - Blue paper (water/pond)
-  - Natural materials (grass, twigs)
-
-- Teacher circulates and asks: "What does your animal need?"
-
-**Part 3: Show & Tell (2 minutes)**
-
-- Groups share their animal homes
-
-- "What makes this a good home for [animal]?"
-
-### Wonder Journal (3 minutes)
-1. Draw an animal in its home
-2. Label: "A [animal] lives in a [habitat]"
-
-### Closing Circle (3 minutes)
-1. **Discovery Share** — "What did you learn about animal homes?"
-2. **Caring for Animals** — "How can we help animals?"
-   - Put out bird feeders
-   - Don't disturb nests
-   - Keep water clean
-   - Be gentle with creatures
-3. **Closing Prayer** — *"Thank you, God, for taking care of all the animals. Help us be kind to every creature you made. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Matched animals to appropriate habitats
-
-- [ ] Participated in building activity
-
-- [ ] Explained habitat features
-
-- [ ] Showed care for animal needs
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one animal/habitat
-
-- Pre-made habitat base to add to
-
-- Pair with buddy
-
-### For Advanced Students
-
-- Build habitat for animal of their choice
-
-- Add details (food, water, soft bedding)
-
-- Create multiple habitats
-
----
-
-## Wonder at Home 🏠
-**Family Activity:** Go on an "animal home hunt" in your yard or a park. Look for bird nests, ant hills, spider webs, squirrel nests. Don't disturb them—just observe! Build a bird feeder together.
-
----
-
-## Teacher Notes
-
-- Collect cardboard boxes ahead of time
-
-- Natural materials can be gathered on a class walk
-
-- Display animal homes in classroom
-
-- Connect to pet care discussions
-
----
-
-**Previous:** [Session 11 — Growing Things](./Session11_Growing_Things.md)  
-**Next:** [Session 13 — Easter New Life](./Session13_Easter_New_Life.md)
+## Lesson at a glance
+
+| Field | Plan |
+|---|---|
+| Grade / unit / time | K / Habitat model / one 25-minute meeting |
+| Domains / big idea | C, S, E, A; a habitat supplies more than a place to sleep |
+| Objective / why | "I can model food, water, shelter and space and name a limit." Models explain needs without disturbing animals. |
+| Catholic connection | Care for living things and resources rather than collecting or moving nests. |
+| Local standards | CST-C3: care/reuse; CST-S3: habitat needs; CST-E1: model criteria; CST-A1: representation. Official alignment: VERIFICATION REQUIRED. |
+| Technology / difficulty / prep / cleanup | None / guided / 15 minutes first kit / 4 included |
+
+## Before class and supplies
+
+Read [K routines](../../../Resources/Kindergarten_Reference_Routines.md).
+Use one fictional insect-eating bird family with young. Model must let a
+viewer identify insect food, water, shelter/nest and surrounding space.
+Draw one >=8 cm bird-family picture per kit; precut six 15 cm paper strips.
+Budget 5/8/10/13 kits; active teams 5/7/10/12.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Kit: 20 cm cardboard base; bird picture; glue stick | 5 each | 8 each | 10 each | 13 each |
+| Kit: six paper strips | 30 | 48 | 60 | 78 |
+| Student: half-sheet; crayon | 10 each | 15 each | 20 each | 25 each |
+
+Teacher timer/roster and a demonstrated kit returned before practice.
+School cardstock replaces donated cardboard; no donation prerequisite.
+
+## Vocabulary, background and SAFETY
+
+Habitat = place supplying needs; shelter = protection; criterion = required
+feature; model = representation. Nests often serve eggs/young, not a bird's
+permanent house. Different species use different resources; not every rabbit
+burrows or bear lives in a cave.
+Misconception: a nest alone is the entire habitat. If asked about using it
+outside, explain our paper model is not approved wildlife shelter.
+No live animals, nest collection, twigs, feathers, food or unknown specimens.
+
+## Exact sequence: 25 minutes
+
+1. **0-4:** Read the fictional bird-family needs and four-feature model criterion.
+2. **4-8:** Demonstrate a paper-strip nest plus drawn insects, water and surrounding
+   space. Explain why the nest alone is insufficient.
+3. **8-17:** Teams build the model, rotate construction/choice turns and each
+   sketch a needed resource; begin individual checks.
+4. **17-21:** Each child points to all four needs, states the model criterion,
+   names a limit and identifies a care/reuse action.
+5. **21-25:** Retain drawings, cap glue, reclaim dry paper and clear.
+
+## Success, questions, access and troubleshooting
+
+Check four needs, model/criterion explanation and responsible care, not model
+beauty. Ask "What is outside the nest? Could a real bird use this?"
+Support: four large resource pictures, adult placement directed by child.
+Challenge: explain what would happen if one resource were unavailable.
+No glue: use a drawn model with the same four identifiable features.
+No cardboard: school cardstock. Fully indoors; no wildlife feeding or outdoor
+testing required. **Family:** We modeled a habitat, not just a nest.
+Ask, "What does the bird family need besides shelter?" No home collection.

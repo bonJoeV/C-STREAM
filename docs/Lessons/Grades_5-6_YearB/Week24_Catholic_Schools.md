@@ -228,6 +228,8 @@ Students will be able to:
 
 ## ✅ Assessment
 
+**Individual local check (not official):** CST-M2 - interpret one verified school datum with source/date; CST-E3 - explain a teaching concept and check a peer in rehearsal; CST-C2 - name respectful mentoring behavior. Without school-approved data, use clearly labeled fictional practice data. This meeting does not guarantee an actual buddy visit; adults separately schedule/supervise it. Official benchmarks **VERIFICATION REQUIRED**.
+
 - Created data presentation about school
 
 - Led or prepared service activity
