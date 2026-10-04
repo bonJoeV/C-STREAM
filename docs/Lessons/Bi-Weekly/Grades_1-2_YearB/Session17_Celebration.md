@@ -1,245 +1,109 @@
 ---
-title: "Session 17: Year Celebration"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B year-end celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - light
-  - animals
-  - advent
-  - service
-  - arts
+title: "Year Celebration"
+description: "An honest celebration uses specific evidence and distinguishes preference from achievement."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-A3, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Year Celebration
 
-# Session 17: Year Celebration 🎉
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 17 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Reflection |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, A, M / An honest celebration uses specific evidence and distinguishes preference from achievement. |
+| Student objective / why | "I can communicate a work change and interpret a class choice graph." Biweekly outcomes must match actual seventeen-contact evidence. |
+| Catholic connection | Respect each contributor and tell the truth about missing or limited evidence. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-A3: artistic communication, critique and revision; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students celebrate their year of C-STREAM discovery, sharing accomplishments and looking forward to future learning adventures.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Select comparable records per child if possible; mark unmatched/missing records. Draw observe/design/code preference columns and prepare a quiet seated partner gallery.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 17: Year Celebration
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Reflect on their year of learning
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Saved learning artifact / student / items | 20 | 30 | 40 | 50 |
+| Index cards / student / items | 10 | 15 | 20 | 25 |
 
-- Share favorite projects and discoveries
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Celebrate growth in C-STREAM skills
+## Vocabulary and teacher background
 
-- Express excitement for continued learning
+Claim = stated learning; evidence = support; preference = chosen favorite.
 
----
+A favorite-experience graph counts choices, not mastered domains. A work image alone cannot prove individual hardware operation.
 
-# Session 17: Year Celebration
+**Common misconception:** Year-end certificates prove all skills.
 
-## Materials Needed
+**If asked:** "Did we do as much as weekly classes?" We had fewer meetings; explain the actual evidence rather than claim equal practice.
 
-- 📓 Design Detective journals (from all year)
+## SAFETY
 
-- 📸 Photos from C-STREAM sessions
+Private portfolios, no identifying uploads, food awards, device replays or crowded audience routes. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🏆 Certificates (optional)
+## Meeting 1: Evidence and celebration - 30 minutes
 
-- 🎨 Display materials for work
+1. **0-3:** Distinguish a supported change from a favorite memory.
+2. **3-7:** Model a two-record visual explanation and a useful clarity question.
+3. **7-20:** Each child explains records, receives feedback and revises a visual explanation. Each anonymously chooses one graph column; count/compare two categories. Teacher visits every team during practice.
+4. **20-26:** Each child supports a claim or names missing evidence, interprets a graph comparison and gives respectful specific recognition to a peer.
+5. **26-30:** Return private records/explanations to folders, count graph cards and clear tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 🎈 Celebration decorations
+## Questions to ask
 
----
+- Which evidence supports your learning statement?
+- What does the class graph count?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before recalling biographies
-Recall only vetted accounts actually taught. Carlo Acutis is Saint, canonized September 7, 2025: [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html).
+**Grade 1:** Show a changed feature and compare two preference counts.
 
-### Scripture reference
-Philippians 1:3; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+**Grade 2:** Explain a claim/limit and a purposeful visual revision; distinguish preference from assessed competence.
 
-### Opening Prayer
-*Dear God, thank you for an amazing year of discovery and learning! Thank you for our teachers, classmates, and all the wonderful things we've explored. Bless us as we continue to grow. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Teacher-read captions, oral/scribed responses and quiet paired audience. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (5 minutes)
-1. **Celebration Time!** — "We did it! A whole year of C-STREAM!"
-2. **Memory Lane** — Show photos from the year's sessions
-3. **Counting Learning:**
-   - 17 sessions of exploring
-   - Towers, robots, butterflies, magnets, and more!
-4. **Saints We Met** — Quick list of saints from the year
+**Challenge:** Explain why a photo of a group robot run cannot prove personal coding. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Exhibition & Celebration (19 minutes)
+## If things go wrong / indoor alternative
 
-**Part 1: Journal Review (5 minutes)**
+No records: create fresh first/revised drawings today and label them fresh; assess clarity, not fabricated annual growth.
 
-- Students look through their Design Detective journals
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Mark favorite pages
+## Family copy - optional, no routine homework
 
-- Find: "My best work" and "My biggest challenge I overcame"
+We celebrated specific biweekly learning evidence and interpreted a class preference graph. Ask: "Which evidence supports your learning statement?" Optional: ask for one example supporting a learning statement. No purchase, donation, device, home teaching or required take-home project.
 
-**Part 2: Partner Share (5 minutes)**
+## Sources and claim boundaries
 
-- Share with a partner:
-  - Saved garden/tower design: its criterion, test result and one change, shown orally or with drawings
-  - Something difficult you figured out
-  - What you want to learn next
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.
 
-- Partners celebrate each other!
-
-**Part 3: Class Gallery (5 minutes)**
-
-- Display journals and saved projects
-
-- Gallery walk to see everyone's work
-
-- Give compliments!
-
-**Part 4: Awards & Looking Forward (4 minutes)**
-
-- Optional certificates:
-  - "Design Detective Champion"
-  - "Tech Wizard"
-  - "Earth Care Hero"
-  - "Creative Engineer"
-  - "Faith & Science Explorer"
-
-- Next year preview: "Even more adventures await!"
-
-### Design Detective Journal (4 minutes)
-1. Final journal entry:
-   - My favorite C-STREAM memory
-   - Something I learned about God's world
-   - What I want to learn next year
-
-### Closing Circle (2 minutes)
-1. **Gratitude Circle** — Each person: "I'm thankful for..."
-2. **Summer Challenge** — "Keep being a Design Detective all summer!"
-3. **Final Blessing & Prayer:**
-
-*Dear God,*
-*Thank you for this year of wonder.*
-*Thank you for creative minds and helping hands.*
-*Thank you for showing us that faith and science are friends.*
-*Bless these Design Detectives as they grow.*
-*Keep their curiosity alive forever.*
-*In Jesus' name, Amen.*
-
-🎉 **CELEBRATION!** 🎉
-
----
-
-## Assessment
-**End-of-Year Reflection:**
-
-- [ ] Can identify favorite learning experiences
-
-- [ ] Shows growth in design thinking
-
-- [ ] Demonstrates curiosity and wonder
-
-- [ ] Connects learning to faith
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Help identify journal highlights
-
-- Partner for sharing
-
-- Focus on verbal celebration
-
-### For Advanced Students
-
-- Present to class
-
-- Create "advice" for next year's students
-
-- Write reflection letter
-
----
-
-## Technology / SAFETY / evidence limit
-**Optional primary path:** teacher photos under school permissions; paper journals suffice. No food/latex balloons, required family attendance or compulsory summer projects. Grade 1 orally shows one saved observation/test; Grade 2 explains a before/after revision. Awards reflect participation/growth, not automatic six-domain mastery. Last 3 gallery minutes are cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional)
-**Summer C-STREAM Challenge:**
-
-- 🔍 Be a Design Detective everywhere!
-
-- 🏗️ Build with anything you find
-
-- 🤖 Notice technology around you
-
-- 🌿 Care for creation
-
-- 🦋 Watch for nature's changes
-
-- ❤️ Help others with your skills
-
-- 🙏 Thank God for wonder!
-
----
-
-## Teacher Notes
-
-- Prepare certificates in advance
-
-- Invite families if possible
-
-- Take lots of photos!
-
-- Send journals home as keepsakes
-
-- Celebrate each child's unique growth
-
----
-
-## 🎊 Congratulations, Design Detectives! 🎊
-
-**You've completed Grades 1-2 Year B C-STREAM!**
-
-This year you:
-
-- ✅ Became Design Detectives
-
-- ✅ Built towers and structures
-
-- Explored Sphero input/output; claim actual stored-code programming only for children with individual device evidence.
-
-- ✅ Explored animal adaptations
-
-- ✅ Created digital art
-
-- ✅ Experimented with magnets
-
-- ✅ Learned about butterflies
-
-- ✅ Cared for God's creation
-
-**You are engineers, scientists, artists, and children of God!**
-
-*Keep designing. Keep discovering. Keep praising God.*
-
----
-
-**Previous:** [Session 16 — Earth Care](./Session16_Earth_Care.md)
-
----
-
-*End of Grades 1-2 Year B Bi-Weekly C-STREAM Curriculum*
+Retained original source pointers (not additional required claims):
+- [Source pointer 1](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html)

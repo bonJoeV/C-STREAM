@@ -1,185 +1,106 @@
 ---
-title: "Session 02: Tower Power"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B tower engineering"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - robotics
-  - engineering
-  - astronomy
-  - arts
+title: "Tower Power"
+description: "A same-height tower test supports a useful stability comparison."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E2, CST-M1, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Tower Power
 
-# Session 02: Tower Power 🏰
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 2 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Structures |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, E, M / A same-height tower test supports a useful stability comparison. |
+| Student objective / why | "I can measure a low tower, revise its base and compare results." This applies the Session 1 endpoint measurement to a tested structure. |
+| Catholic connection | Reuse counted blocks and explain why careful resource use matters. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-E2: build, test and redesign; CST-M1: count, compare and measure; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students explore what makes structures stable, designing and building towers that are tall AND strong.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Inspect planks; set target approximately 15 cm and absolute ceiling 30 cm. Draw before/after height and stand/fall boxes; pretest broad/narrow bases.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **height and units / stand result / revised base**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 02: Tower Power
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand that wide bases provide stability
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Wooden building planks / kit / items | 72 | 90 | 126 | 162 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
 
-- Build towers using various materials
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Test structures for height and strength
+## Vocabulary and teacher background
 
-- Practice iteration (trying again to improve)
+Base = bottom support; stable = stays upright; height = table-to-top length.
 
----
+To compare bases fairly, keep the intended height approximately the same. A tie is a valid result.
 
-# Session 02: Tower Power
+**Common misconception:** The tallest tower is always the strongest.
 
-## Materials Needed
+**If asked:** "Should we add heavy weights?" No; this is a 10-second standing comparison, not a load test.
 
-- 📦 KEVA Planks (from CSCOE library)
+## SAFETY
 
-- 📦 Cups (paper or plastic)
+Low tabletop structures, hands clear, no climbing, pushing or heavy top loads. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📦 Index cards
+## Meeting 1: Measured stable tower - 30 minutes
 
-- 📏 Measuring stick or tape measure
+1. **0-3:** State target, standing criterion and 18-plank limit.
+2. **3-7:** Model ruler endpoints, a 10-second test and two-row result chart.
+3. **7-20:** Teams build/test, record actual height/result, change a base feature and retest at similar height. Every child builds/directs and measures/counts one result.
+4. **20-26:** Each child interprets before/after records, explains a changed/kept-same feature and a reusable-material action.
+5. **26-30:** Dismantle from the top, count 18 planks and retain results. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 📓 Design Detective journals
+## Questions to ask
 
-- 📸 Pictures of famous towers
+- Did the same-height comparison support your change?
+- What happened in each standing test?
 
----
+## Individual evidence and success
 
-## Catholic Integration
+**Grade 1:** Measure from the table and show a tested base change.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies/patronage
-**St. Barbara** — Patron saint of architects and builders. She's remembered for her faith that was strong like a tower!
+**Grade 2:** Record units/two results, interpret the chart and explain why matching height matters.
 
-### Scripture reference
-Proverbs 18:10; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. The tower is religious imagery, not a guarantee of structural stability.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear God, you are our strong tower! Help us build towers today that are strong and stable. When we face challenges, remind us that you are our strength. Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Prebuilt base, picture chart and equal-unit counting. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Repeat a trial and discuss variation instead of increasing unsafe height. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (5 minutes)
-1. **Famous Towers** — Show pictures:
-   - Eiffel Tower
-   - Leaning Tower of Pisa
-   - Church bell towers
-2. **What Makes Towers Strong?**
-   - Wide base
-   - Balanced weight
-   - Strong materials
-3. **Today's Challenge** — "Build the TALLEST tower that can stand for 10 seconds!"
+## If things go wrong / indoor alternative
 
-### Main Activity: Tower Engineering (19 minutes)
+Both designs pass: record a tie and compare used planks. No planks: use equal clean blocks with a pretested lower target, explicitly labeled.
 
-**Part 1: Quick Challenge - Cup Towers (6 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Partners receive 10 cups
+## Family copy - optional, no routine homework
 
-- Challenge: Build as tall as possible
+We measured and compared tower stability using a before/after chart. Ask: "Did the same-height comparison support your change?" Optional: point out the base of an indoor structure. No purchase, donation, device, home teaching or required take-home project.
 
-- Test: Does it stand for 10 seconds?
+## Sources and claim boundaries
 
-- Observe: What patterns make towers stable?
-
-**Part 2: KEVA Plank Towers (10 minutes)**
-
-- Switch to KEVA Planks
-
-- Challenge: Build to a 20 cm comparison mark while staying below the 30 cm safety limit.
-
-- Design considerations:
-  - Start with wide base
-  - Build symmetrically
-  - Test as you build
-
-- Measure final heights
-
-**Part 3: Improvement Round (3 minutes)**
-
-- "What would make your tower stronger?"
-
-- One more try to improve!
-
-- Compare: Better? What changed?
-
-### Design Detective Journal (4 minutes)
-1. Draw your tallest tower
-2. Label: Base, middle, top
-3. Write: "My tower was ___ inches tall"
-4. Write: "Strong towers need..."
-
-### Closing Circle (2 minutes)
-1. **Tower Secrets** — "What makes towers stable?"
-2. **Faith Connection** — "God is our strong tower!"
-3. **Closing Prayer** — *"Thank you, God, for being our strong tower. Help us build strong structures and strong faith. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Built towers using multiple materials
-
-- [ ] Identified features of stable structures
-
-- [ ] Measured and compared heights
-
-- [ ] Improved designs through iteration
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on cup stacking only
-
-- Lower height goal (6 inches)
-
-- Build alongside teacher
-
-### For Advanced Students
-
-- Support one soft eraser within a tabletop height limit of 30 cm; never place a book/heavy object on a tall tower.
-
-- Try multiple tower designs
-
-- Record data systematically
-
----
-
-## SAFETY / Grade 1 / evidence
-Maximum tabletop tower height 30 cm, hands/faces clear during collapse, no furniture climbing or heavy loads. Grade 1 points to base and compares two heights orally; Grade 2 records same-unit height and 10-second test before/after one revision. **Technology: None primary path.** Last 3 building minutes are plank/cup count and cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; avoid food-can/heavy tower loads)
-**Family Activity:** Build towers at home with blocks, cups, cards, or food cans. Have a family tower competition! What made the winning tower special? Visit or look up pictures of the Eiffel Tower.
-
----
-
-## Teacher Notes
-
-- Reserve KEVA Planks from CSCOE 2 weeks ahead
-
-- Save tower measurement data for comparison
-
-- Take photos of successful designs
-
-- Connect to architecture and construction careers
-
----
-
-**Previous:** [Session 01 — Design Detectives](./Session01_Design_Detectives.md)  
-**Next:** [Session 03 — Meet Sphero](./Session03_Sphero_Intro.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

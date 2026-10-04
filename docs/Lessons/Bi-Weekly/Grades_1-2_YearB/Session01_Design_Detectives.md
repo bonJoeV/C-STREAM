@@ -1,179 +1,107 @@
 ---
-title: "Session 01: Design Detectives"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B introduction"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - engineering
-  - astronomy
-  - lent
-  - arts
+title: "Design Detectives"
+description: "Everyday tools solve a user problem and can be compared with evidence."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-T1, CST-M1]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Design Detectives
 
-# Session 01: Design Detectives 🔍
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 1 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Design |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, E, T, M / Everyday tools solve a user problem and can be compared with evidence. |
+| Student objective / why | "I can identify a tool's job and measure a design feature." This starts Year B with purposeful tools, not hardware prerequisites. |
+| Catholic connection | Ask whose need the tool serves and consider an accessible pointing/directing role rather than assume everyone uses it identically. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-E1: needs, criteria and constraints; CST-T1: tool use, input/output and troubleshooting; CST-M1: count, compare and measure. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students become Design Detectives, distinguishing human-made objects designed for a purpose from naturally occurring things.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Set ruler/book/three precut page strips at each kit. Draw user/job/feature boxes. Pretest comparing strip lengths with ruler zero; no sharp tools or teacher biographies.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **user and job / measured feature / access choice**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 01: Design Detectives
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Recognize that objects are designed with purpose
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
+| Classroom book / kit / items | 4 | 5 | 7 | 9 |
+| Cardstock / kit / 5 x 15 cm strips | 12 | 15 | 21 | 27 |
 
-- Identify problems that designs solve
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Begin thinking like designers
+## Vocabulary and teacher background
 
-- Connect human creativity to God-given gifts
+Design = purposeful choice; user = person; feature = part; measure = compare with units.
 
----
+A ruler's input is placement/readout, not an electronic action. A bookmark solves finding a page; a tool's presence alone is not mastery.
 
-# Session 01: Design Detectives
+**Common misconception:** Only computers count as technology.
 
-## Materials Needed
+**If asked:** "Can a simple strip be a useful tool?" Yes, if it meets the user's page-finding need.
 
-- 📦 Collection of everyday objects (scissors, cup, shoe, pencil, backpack)
+## SAFETY
 
-- 📓 Design Detective journals
+Teacher precuts strips; no rulers swung or snapped, no page tearing. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🔍 Magnifying glasses
+## Meeting 1: Investigate everyday design - 30 minutes
 
-- 🖍️ Crayons/pencils
+1. **0-3:** Show a book reader's page-finding problem and invite two design ideas.
+2. **3-7:** Model a page strip's function and ruler zero/endpoints, separating length from "best."
+3. **7-20:** Each child takes a strip, tests it in the book, measures/compares its length and draws user/job/feature. Partners suggest a helpful access choice; teacher checks tool handling individually.
+4. **20-26:** Each child names user need and function, shows a correct measurement start and explains one inclusive use choice.
+5. **26-30:** Return book/ruler/strips, keep evidence drawings and clear tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 📋 "Design Detective" badges (paper)
+## Questions to ask
 
----
+- Whose problem does this tool solve?
+- Where did you start the measurement?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**Blessed Fra Angelico** — A Dominican friar who used his artistic talents to design beautiful paintings for God's glory.
+**Grade 1:** Name a tool's job and compare lengths from aligned starts.
 
-### Scripture reference
-James 1:17; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+**Grade 2:** Record a length with units and explain a user/access feature rather than call longest best.
 
-### Opening Prayer
-*Dear God, thank you for giving people creative minds to design things that help us. Help us be good designers who think about others. Bless our discovering today. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Provide job icons and child-directed partner measuring; use equal drawn units if needed. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (6 minutes)
-1. **Detective Mission** — "Today we become DESIGN DETECTIVES!"
-2. **Human-made or natural?** Compare a pencil with a washed stone: someone designed the pencil for a purpose; the stone formed naturally. Catholic belief about creation is distinct from identifying human manufacture.
-3. **Design Questions:**
-   - WHO designed this?
-   - WHY did they make it?
-   - What PROBLEM does it solve?
-4. **God's Gift** — "God gave people creativity to design helpful things"
-5. **Badge Distribution** — Hand out Design Detective badges!
+**Challenge:** Explain a feature that may help one use but hinder another. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Design Investigation (18 minutes)
+## If things go wrong / indoor alternative
 
-**Part 1: Object Investigation (8 minutes)**
+No ruler: teacher prepares equal 1 cm marks on allocated paper before class, labeled units. No book: use a folded allocated paper booklet for function testing.
 
-- Small groups receive everyday objects
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Detective questions for each:
-  - What is it?
-  - What is it made of?
-  - What problem does it solve?
-  - How could it be better?
+## Family copy - optional, no routine homework
 
-- Record observations
+We investigated everyday tools, measured a feature and considered their users. Ask: "Whose problem does this tool solve?" Optional: describe the job of a familiar tool without using sharp equipment. No purchase, donation, device, home teaching or required take-home project.
 
-**Part 2: Class Share (4 minutes)**
+## Sources and claim boundaries
 
-- Each group presents one object
-
-- "This [object] was designed to..."
-
-- Class discusses: "What would life be without it?"
-
-**Part 3: Your Turn! (6 minutes)**
-
-- Think of a problem you have
-
-- Draw a design that could solve it
-
-- Examples: Homework holder, snack carrier, toy organizer
-
-- Share with a partner
-
-### Design Detective Journal (4 minutes)
-1. Draw one object you investigated
-2. Write: "It was designed to..."
-3. Draw YOUR design idea
-
-### Closing Circle (2 minutes)
-1. **Detective Discovery** — "What surprised you about design?"
-2. **Year Ahead** — "We'll design and build all year!"
-3. **Closing Prayer** — *"Thank you, God, for creative minds. Help us design things that help others. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified purpose of designed objects
-
-- [ ] Asked thoughtful questions
-
-- [ ] Created original design idea
-
-- [ ] Recorded in journal
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on 2-3 familiar objects
-
-- Partner investigation
-
-- Draw-only journal entry
-
-### For Advanced Students
-
-- Investigate more complex objects
-
-- Write about design features
-
-- Create detailed design plans
-
----
-
-## SAFETY / evidence / cleanup
-Use blunt scissors only as a closed teacher-held example; no unsupervised cutting/sharp tools in mystery collections. Grade 1 names one human-made object/purpose orally; Grade 2 distinguishes natural from designed and sketches a user-centered improvement. **Technology: None primary path.** Last 3 investigation minutes are cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; orally discuss one familiar object)
-**Family Activity:** Be Design Detectives at home! Pick 5 objects and figure out what problems they solve. What objects could be designed better? Draw your improvement ideas!
-
----
-
-## Teacher Notes
-
-- Save Design Detective badges for year-long use
-
-- Start collecting interesting objects for future sessions
-
-- Journals will be used throughout the year
-
-- Connect to inventions and inventors
-
----
-
-**Next Session:** [Session 02 — Tower Power](./Session02_Tower_Power.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

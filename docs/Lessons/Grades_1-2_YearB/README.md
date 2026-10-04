@@ -23,13 +23,15 @@ This is **Year B** of a two-year rotation, not a curriculum requiring Year A com
 
 See the [Grades 1-2 review and downloadable audit](../../Review/Grades_1-2_Review.md). This collection supplies **32 x 30 = 960 minutes**, not 34 teaching sessions. Calendar labels 17 and 32 have no lessons and are break slots. If 34 taught meetings are required, locally schedule two reteach/evidence checks; do not claim those files already exist. Biweekly is 17 x 30 = 510 minutes and has less practice.
 
+For trio-based lessons, **10/15/20/25 pupils use 4/5/7/9 groups**: two trios and two pairs; five trios; six trios and one pair; seven trios and two pairs. [Optional reference routines](../../Resources/Grade_Band_Reference_Routines.md) support kit checks and individual evidence but do not replace the lesson's complete sequence, supplies or safety. Pair-based lessons keep their own allocation/reserve plan. Fewer devices use the lesson's stated waves/shared tests, not groups of four or credit for watching.
+
 Students who had Year A may experience:
 
 - **Same foundational skills** (coding basics, engineering process, scientific inquiry)
 
 - **Different projects and contexts** (new challenges, different themes)
 
-- **Different saints and Scripture** (expanded Catholic connections)
+- **Different Catholic classroom applications** (honest evidence, stewardship, service and inclusion; no unsupported biography required)
 
 - **Rechecked foundations with grade-specific evidence** (oral/drawn Grade 1; Grade 2 reasoning, measurements and revisions)
 
@@ -78,7 +80,7 @@ Students who had Year A may experience:
 | Week | Lesson | Focus |
 |------|--------|-------|
 | 23 | [Catholic Schools Celebration](./Week23_Catholic_Schools.md) | Community, demonstration |
-| 24-25 | [Friendship Machines](./Week24-25_Friendship_Machines.md) | Rube Goldberg, kindness |
+| 24-25 | [Friendship Machines](./Week24-25_Friendship_Machines.md) | Safe two-event chain, reliability, kindness |
 
 ### Spring Semester (Weeks 26-34)
 
@@ -121,7 +123,7 @@ Students who had Year A may experience:
 
 - ScratchJr on iPads
 
-- Simple digital cameras
+- Three complete protected lamp-path kits for the second Stars & Light meeting; paper models do not demonstrate physical circuit operation
 
 ### Building Materials
 
@@ -143,27 +145,18 @@ Students who had Year A may experience:
 
 ---
 
-## 🙏 Year B Saint Focus
+## Catholic applications
 
-Biographies, patronage and interpretations below are **VERIFICATION REQUIRED** before use; do not treat an unsourced trait as established history. Faith identity can be assessed through honest evidence, inclusion and stewardship without a biography.
-
-Year B highlights different Catholic scientists and saints:
-
-- **St. Isidore the Farmer** — Patron of farmers, care for creation
-
-- **St. Kateri Tekakwitha** — Nature, ecology, indigenous wisdom
-
-- **Bl. Solanus Casey** — Wonder, humility, service
-
-- **St. Martin de Porres** — Practical service, healing
+Year B assesses honest claims, plant/material care, inclusive participation and real classroom-user requests. No saint patronage, historical quotation or unverified discovery story is needed. The biweekly alternate supplies a short source-checked Maria Agnesi context; it identifies her as a mathematician, not a DNA discoverer.
 
 ## Readiness and technology limits
-Fully rebuilt lessons have individual Grade 1/Grade 2 criteria, nonreader demonstrations, 10/15/20/25 quantities, native 30-minute timing, cleanup, safety and no-device/winter paths. Other lessons received targeted corrections but still need fuller quantity/timing/assessment work identified in the review. No lesson is certified simply because a file exists.
+All 20 files have complete teaching plans: the 16 remaining packages are rebuilt and four earlier references preserved. Individual Grade 1/Grade 2 criteria, nonreader demonstrations, supplies for 10/15/20/25, native timing, cleanup, safety and indoor/fallback paths are explicit. Invention Labs has four fully timed meetings and before/after trial evidence. No package is certified as a classroom outcome merely because its documentation is complete.
 
-Dash/ScratchJr execution has a **Required primary path** where actually assessed; unplugged alternatives demonstrate algorithm/story concepts, **not physical robot or app mastery**. Check actual inventory and school-approved permissions; cameras and videos are optional where paper evidence works. Plant care stays at school by default; no required home purchase, watering, routine homework or family donation. Official Minnesota/Archdiocesan/CSTA alignment remains **VERIFICATION REQUIRED**.
+Dash/ScratchJr execution has a **Required primary path** where assessed; unplugged alternatives demonstrate algorithms, **not robot/app mastery**. The protected-circuit light task is non-digital; paper tracing is not circuit operation. Check actual stock/model condition and school permissions. Plant care stays at school by default; no required home purchase, watering, routine homework or donation. Official benchmark mapping remains parent-owned and is not claimed by local codes.
 
 ---
 
-**Curriculum Version:** 1.0 — Year B  
+**Curriculum Version:** Complete references — Year B
+
 **Framework:** C-STREAM  
-**Last Updated:** December 2025
+**Last Updated:** October 2026

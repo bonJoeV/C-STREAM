@@ -88,7 +88,7 @@ No eating seeds, rubbing eyes, handling mold or using chemicals. Teacher pours w
 7. **34-35: Check success.** Teacher asks two children: "What do we know today, and what remains a prediction?"
 8. **35-40: Cleanup.** Store any cared-for cups in adult-approved spot with caretaker/date card; otherwise return dry seeds to teacher storage. Collect rulers, wipe cups/desks and wash hands. Collect slips.
 
-## Success, trouble, support, challenge and indoor alternative
+## Success, troubleshooting, support, challenge and indoor fallback
 
 **Success:** each child distinguishes observation from prediction/simulated data, identifies water as one variable and two kept-same conditions, and reads/compares whole-mm values. Growth itself is **not** today's assessment.
 Score **1** unsupported growth claim; **2** identifies water with prompts; **3** observation/variable/controls/comparison correct; **4** adds replication or species/model limitation.

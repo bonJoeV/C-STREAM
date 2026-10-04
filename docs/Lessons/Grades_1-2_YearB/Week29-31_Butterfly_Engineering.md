@@ -1,371 +1,123 @@
 ---
-title: "Weeks 29-31: Butterfly Engineering"
-description: "Grades 1-2 Year B metamorphosis and transformation projects"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - engineering
-  - life-science
-  - earth-science
-  - easter
-  - arts
+title: "Butterfly Engineering"
+description: "Life-cycle evidence and purposeful models are not proof of biological resurrection."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S3, CST-A1, CST-A2, CST-M2]
+technology: None
+meetings: 3
+minutes: 30
 ---
 
-# 🦋 Weeks 29-31: Butterfly Engineering
+# Butterfly Engineering
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 3 sessions (30 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), A (Arts), R (Religion) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Life cycles |
+| Native time / scope | 3 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, A, M / Life-cycle evidence and purposeful models are not proof of biological resurrection. |
+| Student objective / why | "I can sequence butterfly stages, represent change and explain a model limit." Pictures supply reliable classroom evidence without live-animal or release demands. |
+| Catholic connection | Report what a model actually shows; keep Easter hope imagery separate from biological metamorphosis and do not invent live observations. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S3: physical, life or Earth systems/models; CST-A1: observational representation; CST-A2: purposeful form and pattern; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Weeks 29-31: Butterfly Engineering
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Draw/read four accurate simplified cards: egg, caterpillar/larva, pupa/chrysalis, adult butterfly. Draw arrows continuing from adult to new eggs. Label all cards MODEL; do not pretend they are observations from school animals.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **stage order / visible model feature / limitation or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Identify stages of butterfly metamorphosis
-2. Observe and document life cycle changes
-3. Create models representing transformation
-4. Connect metamorphosis to engineering design
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect metamorphosis to resurrection
-2. Understand transformation as part of God's plan
-3. See hope in the caterpillar-to-butterfly journey
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 60 | 90 | 120 | 150 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Teacher-drawn butterfly stage card / kit / egg; larva; pupa; adult | 16 | 20 | 28 | 36 |
+| Cardstock / student / 10 cm squares | 20 | 30 | 40 | 50 |
+| Masking tape / kit / 10 cm strips | 32 | 40 | 56 | 72 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Weeks 29-31: Butterfly Engineering
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Larva = caterpillar stage; pupa = changing life stage; adult = mature butterfly; cycle = stages continuing through reproduction.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED
-Butterfly transformation can be a teacher image of hope, **not** resurrection: the animal remains alive through larva, pupa and adult. Faith claims about Jesus's resurrection require an approved religious source, not a biological experiment.
+A pupa is living. The butterfly life cycle includes reproduction; adults do not turn back into caterpillars. Models omit internal change, timing and variation.
 
-### Scripture reference
-2 Corinthians 5:17; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** The pupa is dead or metamorphosis proves Resurrection.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching historical details
-**St. Paul** — Experienced dramatic transformation from persecutor to apostle. Like a caterpillar becoming a butterfly, God transformed him completely.
+**If asked:** "Did Saul become Paul because he changed like a butterfly?" That historical narrative is not required; do not invent a renaming claim or equate it with metamorphosis.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+No live-animal purchase, handling/release, food props or sharp antenna wires. Teacher precuts; dry paper/card only. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Butterfly life cycle kit (if available)
+## Meeting 1: Sequence life stages - 30 minutes
 
-- Life cycle images/diagrams
+1. **0-3:** Read the four card descriptions; distinguish a model from dated live observations.
+2. **3-7:** Model placing egg -> larva -> pupa -> adult -> new eggs, saying the pupa remains living.
+3. **7-20:** Each child orders four pictured stages on paper and draws arrows. Partner deliberately swaps two stage cards; child repairs/explains order.
+4. **20-26:** Each child identifies stages, a transition and what a classroom model cannot show.
+5. **26-30:** Count the four reference cards per kit, store dry models and save individual stage/check pages. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Craft materials (paper, pipe cleaners)
+## Meeting 2: Explanatory model - 30 minutes
 
-- Observation journals
+1. **0-3:** Retrieve sequences and state the model purpose: show four stages and their relationships.
+2. **3-7:** Demonstrate flat panels or folded cardstock pages with arrows, not a required decorative butterfly.
+3. **7-20:** Each child represents four stages on the two cardstock squares, chooses a clear arrangement and asks a partner to trace it. Revise a missing arrow or ambiguous stage.
+4. **20-26:** Each child traces the cycle and checks a four-stage coverage chart; explain why a model-building task is not tested engineering by title alone.
+5. **26-30:** Count the four reference cards per kit, store dry models and save individual stage/check pages. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Chrysalis/cocoon materials
+## Meeting 3: Purposeful butterfly art - 30 minutes
 
----
+1. **0-3:** Recall stage order and the living pupa; separate Easter hope symbolism from biology.
+2. **3-7:** Model a symmetric adult-wing design with two matching features and an intentional contrast choice.
+3. **7-20:** Each child draws wings, checks matching positions, revises after peer feedback and compares original/revised feature counts on a small checklist.
+4. **20-26:** Each child explains two matched features, a purposeful choice and a model limit; no release event is scheduled.
+5. **26-30:** Count the four reference cards per kit, store dry models and save individual stage/check pages. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-# Session 1: Amazing Metamorphosis
+## Questions to ask
 
-## 📝 Lesson Procedure (30 minutes)
+- What happens between the pupa and adult stages?
+- What does your life-cycle model leave out?
 
-### Opening Prayer (2 min)
-"Dear God, You created butterflies with their amazing transformation. Help us learn about metamorphosis today and see Your power to make all things new. Amen."
+## Individual evidence and success
 
-### Introduction: Transformation! (8 min)
-**Show caterpillar and butterfly images:**
+**Grade 1:** Order four stages, identify the living pupa and show two matching wing features.
 
-- "Are these the same creature?"
+**Grade 2:** Explain adult -> new eggs rather than adult -> caterpillar, interpret coverage checks and justify a purposeful visual revision/model limit.
 
-- "How is that POSSIBLE?"
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. No live observations, release approval, species timing or structural engineering mastery is inferred.
 
-- "It's called METAMORPHOSIS!"
+## Support and challenge
 
-**The four stages:**
-1. 🥚 **Egg** — Tiny beginning
-2. 🐛 **Caterpillar (Larva)** — Eating and growing
-3. 🤎 **Chrysalis (Pupa)** — Transformation happens!
-4. 🦋 **Butterfly (Adult)** — Beautiful new form!
+**Support / nonreader access:** Large/tactile stage icons, teacher-read names and partner card placement under child direction. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-**The mystery of the chrysalis:**
+**Challenge:** Explain why four stage pictures do not establish how many days this particular animal spent in each stage. Do not add an unprepared activity or extend the native period.
 
-- "Inside, everything changes"
+## If things go wrong / indoor alternative
 
-- "It looks like nothing is happening"
+Picture confusion: read the supplied descriptions and redraw simple distinct icons, not species-specific details. Missing prior work: rebuild stage order briefly from cards, not invented observation records.
 
-- "But TRANSFORMATION is happening!"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Faith connection:**
+## Family copy - optional, no routine homework
 
-- "This is like Easter!"
+We sequenced living butterfly stages, made clear models and revised purposeful wing art. Ask: "What happens between the pupa and adult stages?" Optional: describe a life cycle with a familiar picture. No purchase, donation, device, home teaching or required take-home project.
 
-- "A chrysalis is alive; Jesus's death/resurrection is not the butterfly's life cycle."
+## Sources and claim boundaries
 
-- "Then He rose — transformed, alive, beautiful!"
-
-- "We will be transformed too!"
-
-### Life Cycle Observation (12 min)
-**If live caterpillars available:**
-
-- Observe caterpillars
-
-- What do you notice?
-
-- Draw observations in journal
-
-**If using images:**
-
-- Examine each stage closely
-
-- Compare sizes, colors, features
-
-- Sort life cycle cards in order
-
-**Journal recording:**
-
-- Draw the four stages
-
-- Label each stage
-
-- Write one fact about each
-
-### Story of St. Paul (5 min)
-**Transformation story:**
-
-- "Saul was mean to Christians"
-
-- "He met Jesus and was completely changed"
-
-- "Acts 13:9 identifies Saul as also called Paul; do not teach that conversion changed his name." Reference wording **VERIFICATION REQUIRED**.
-
-- "Like a caterpillar becoming a butterfly"
-
-**Personal connection:**
-
-- "God can transform us too"
-
-- "He can help us become better, kinder, more loving"
-
-- "We're all in process — like caterpillars!"
-
-### Closing (3 min)
-**Wonder question:**
-"If you could transform into anything, what would it be? What does God want to transform in your heart?"
-
-**Closing Prayer:**
-"Thank You, God, for butterflies that show us transformation is possible. Transform us too — make us more like Jesus, more loving and kind. Amen."
-
----
-
-# Session 2: Chrysalis Engineering
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Lord, You do Your best work in hidden places — like inside a chrysalis. Help us trust that You're working in us too, even when we can't see it. Amen."
-
-### Observation Check (3 min)
-**If live caterpillars:**
-
-- Any changes?
-
-- Document observations
-
-- What do you predict will happen next?
-
-### Engineering Challenge: Build a Life Cycle Model (22 min)
-**Challenge:** Create a 3D model showing all four butterfly stages!
-
-**Materials:**
-
-- Paper and cardstock
-
-- Pipe cleaners
-
-- Cotton balls
-
-- Tissue paper
-
-- Markers/crayons
-
-**Model requirements:**
-1. Show all FOUR stages
-2. Make them look accurate
-3. Arrange in order
-4. Be creative!
-
-**Building ideas:**
-
-- Egg: Tiny ball of paper or clay
-
-- Caterpillar: Pipe cleaner, paper tube, or drawn
-
-- Chrysalis: Cotton ball, brown tissue paper wrapped
-
-- Butterfly: Paper wings, pipe cleaner body
-
-**Teacher circulates:**
-
-- "Which stage is this?"
-
-- "What happens next?"
-
-- "What colors do butterflies have?"
-
-### Share Models (3 min)
-**Quick show:**
-
-- Hold up your model
-
-- Point to each stage
-
-- Tell what transformation happens
-
-**Celebrate creativity!**
-
-### Closing (2 min)
-**Faith reminder:**
-"Sometimes we feel stuck — like we're in a chrysalis. But God is working! Trust the process!"
-
-**Closing Prayer:**
-"Thank You for time to create today. Help us remember that transformation takes time. Be patient with us, Lord, as You make us new. Amen."
-
----
-
-# Session 3: Butterfly Celebration
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Dear God, thank You for butterflies and transformation. Help us celebrate new life today! Amen."
-
-### Observation Report (5 min)
-**If live butterflies:**
-
-- Observe emerged butterflies!
-
-- What do you notice?
-
-- How are they different from caterpillars?
-
-**If using images:**
-
-- Review the complete journey
-
-- Watch video of butterfly emerging (if available)
-
-**Document final observations in journal.**
-
-### Butterfly Art Creation (15 min)
-**Create butterfly art:**
-
-**Option A: Symmetry Butterfly**
-
-- Fold paper in half
-
-- Paint on one side
-
-- Fold and press
-
-- Open for symmetrical butterfly!
-
-**Option B: Coffee Filter Butterfly**
-
-- Color with markers
-
-- Spray with water
-
-- Let colors blend
-
-- Scrunch middle with pipe cleaner for body
-
-**Option C: Tissue Paper Butterfly**
-
-- Layer tissue paper
-
-- Accordion fold
-
-- Pinch in middle
-
-- Spread wings
-
-**While creating:**
-
-- "Your butterfly is unique!"
-
-- "God makes beautiful things"
-
-- "We are being transformed into beautiful new creations too!"
-
-### Celebration & Release (6 min)
-**If live butterflies:**
-
-- **Do not release purchased/classroom butterflies** without school approval, species/local ecological guidance and a documented safe care/release plan. Weather permitting alone is not sufficient. Default is photos/models, not a live kit.
-
-- Say a prayer for the butterflies
-
-- Watch them fly!
-
-**If no live butterflies:**
-
-- Display butterfly art
-
-- Gallery walk
-
-- Celebrate transformation
-
-**Faith celebration:**
-
-- "The caterpillar didn't know what it would become"
-
-- "But God knew!"
-
-- "God knows what YOU will become too"
-
-- "Trust Him with your transformation!"
-
-### Closing (2 min)
-**Final reflection:**
-
-- "What did you learn about butterflies?"
-
-- "What did you learn about transformation?"
-
-- "How is God transforming you?"
-
-**Closing Prayer:**
-"Thank You, God, for the miracle of butterflies. Thank You for resurrection and new life. Transform us, Lord, into the beautiful people You created us to be. Help us fly! Amen."
-
----
-
-## SAFETY / living-model accuracy / evidence
-No wild collecting, handling caterpillars, pesticide use or unapproved release. Teacher follows the chosen species' husbandry and ongoing adult care requirements before any live kit; if unavailable use photos, clearly not firsthand observations. Butterfly pupa is a chrysalis, not universally a silk cocoon; species/development duration differs. Models are science/art, not engineering unless tested against criteria. Grade 1 orders four stage pictures orally; Grade 2 explains one stage change and one model limitation. Use paper rather than loose pasta/food. Reserve final 4 creation minutes each meeting for cleanup. **Technology: None primary path**; video optional.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We studied butterfly metamorphosis and connected it to Easter transformation! Ask your child: 'What are the four stages of a butterfly life cycle?' 'How is metamorphosis like resurrection?' 'What is God transforming in you?' Look for butterflies together this spring and remember: transformation is possible!"
-
----
-
-## ✅ Assessment
-
-- Identified four butterfly life cycle stages
-
-- Created life cycle model
-
-- Made butterfly art
-
-- Connected metamorphosis to resurrection
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

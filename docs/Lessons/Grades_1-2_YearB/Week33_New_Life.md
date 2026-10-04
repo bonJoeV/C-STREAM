@@ -1,229 +1,105 @@
 ---
-title: "Week 33: New Life Celebration"
-description: "Grades 1-2 Year B Easter and spring renewal activities"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - life-science
-  - earth-science
-  - animals
-  - easter
-  - arts
+title: "New Life Celebration"
+description: "Seasonal comparison uses labeled evidence, not a guaranteed spring day."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S3, CST-A1, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🌷 Week 33: New Life Celebration
+# New Life Celebration
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), R (Religion), A (Arts) |
+| Grade / track / unit | Grades 1-2 / Weekly B / New life |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, S, A, M / Seasonal comparison uses labeled evidence, not a guaranteed spring day. |
+| Student objective / why | "I can compare two seasonal pictures and represent a real visible difference." Minnesota weather does not guarantee flowers or outdoor access at Easter. |
+| Catholic connection | Use seasonal wonder as a classroom hope connection while distinguishing actual observations, model illustrations and belief. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S3: physical, life or Earth systems/models; CST-A1: observational representation; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 33: New Life Celebration
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Draw two pictures of the same modeled tree location: bare branches and leafed branches; label EXAMPLE MODEL, not this year's dated observation. Draw a two-column feature checklist.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Identify signs of spring and new life
-2. Observe growth and change in nature
-3. Connect seasonal changes to science
-4. Create art representing new life
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect spring renewal to Easter resurrection
-2. Celebrate new life as God's gift
-3. Express hope through creation
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Teacher-drawn seasonal tree card / kit / winter and leafed example | 8 | 10 | 14 | 18 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 33: New Life Celebration
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Season = recurring part of a year; compare = alike/different; model = representation.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Resurrection and New Life** — Easter celebrates Jesus rising from the dead. All of creation echoes this theme in spring: flowers bloom, animals are born, trees bud. New life is everywhere!
+Not every tree drops leaves and seasonal timing varies. A picture pair illustrates possible seasonal change, not proof of this week's local weather or spiritual renewal.
 
-### Scripture reference
-Revelation 21:5; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** All plants died in winter and resurrect in spring.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching historical details
-**St. Mary Magdalene** — First witness to the Resurrection. She saw Jesus alive in the garden on Easter morning. She reminds us to look for new life everywhere!
+**If asked:** "Is this exactly our yard today?" No; check real evidence before making that claim.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+No outdoor scavenging, ice exposure, unknown plant collection or tasting. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Spring nature items (flowers, seeds, leaves)
+## Meeting 1: Seasonal evidence art - 30 minutes
 
-- Art supplies
+1. **0-3:** Show the labeled models and discuss what they can illustrate.
+2. **3-7:** Model two same/different details and a checklist count for each image.
+3. **7-20:** Each child compares both pictures, records visible feature counts and creates a two-panel observational drawing. Partner checks the drawing against the cards; author revises a guessed detail.
+4. **20-26:** Each child explains an actual picture difference, reads one checklist comparison and distinguishes a seasonal illustration from Easter belief or today's weather.
+5. **26-30:** Return seasonal cards, save checked art and clear tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Spring/Easter music (optional)
+## Questions to ask
 
-- New life images
+- What difference can you actually see in the two pictures?
+- What would we need to say this happened here this week?
 
-- Egg shells (optional)
+## Individual evidence and success
 
-- Planting materials
+**Grade 1:** Represent two visible features and compare their counts.
 
----
+**Grade 2:** Explain one seasonal-model relationship and an evidence limit without equating dormancy with death.
 
-## 📝 Lesson Procedure (30 minutes)
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer (2 min)
-"Risen Jesus, You made all things new! Help us see new life everywhere today. Fill us with Easter joy and hope. Alleluia! Amen."
+## Support and challenge
 
-### Signs of Spring & New Life (8 min)
-**What changes in spring?**
+**Support / nonreader access:** Two high-contrast pictures and large check boxes with oral labels. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- 🌸 Flowers bloom
+**Challenge:** Suggest an ordinary dated observation that would strengthen a local seasonal claim. Do not add an unprepared activity or extend the native period.
 
-- 🌿 Trees get leaves
+## If things go wrong / indoor alternative
 
-- 🐣 Baby animals are born
+No printer: teacher-drawn labeled examples suffice. Weather unexpectedly snowy: keep the indoor comparison and do not claim local leaf growth.
 
-- ☀️ Days get longer and warmer
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- 🐝 Insects appear
+## Family copy - optional, no routine homework
 
-**Show spring images or nature items:**
+We compared seasonal examples and represented visible evidence, keeping faith symbolism distinct. Ask: "What difference can you actually see in the two pictures?" Optional: notice a plant/tree picture indoors. No purchase, donation, device, home teaching or required take-home project.
 
-- What do you notice?
+## Sources and claim boundaries
 
-- Where is new life?
-
-- What was dormant or not visibly growing and is now changing? Dormant plants remain living.
-
-**St. Mary Magdalene:**
-
-- "She went to Jesus' tomb, expecting death"
-
-- "But she found LIFE — Jesus was alive!"
-
-- Use a school-approved account of Mary Magdalene's witness; no invented first spoken quotation.
-
-- "We look for new life just like she did"
-
-**Easter connection:**
-
-- "Jesus rose from the dead"
-
-- "Death → LIFE"
-
-- "Winter → SPRING"
-
-- "Spring can remind Christians of Easter hope; seasonal growth is not scientific evidence of resurrection."
-
-### New Life Scavenger Hunt (8 min)
-**If weather permits, go outside. If not, use images/items:**
-
-**Find signs of new life:**
-
-- Something green and growing
-
-- A flower or bud
-
-- An insect or animal
-
-- Something dormant or not visibly growing that now shows change
-
-**Observe and share:**
-
-- What did you find?
-
-- How does it show new life?
-
-- Where was God's creativity?
-
-**Indoor alternative:**
-
-- Sort pictures into "new life" and "not new life"
-
-- Examine bulbs, seeds, or sprouts
-
-- Watch video of spring time lapse
-
-### New Life Art (10 min)
-**Create artwork celebrating new life:**
-
-**Option A: Spring Garden**
-
-- Draw or paint flowers, butterflies, bunnies
-
-- Show life bursting out!
-
-- Include sun shining
-
-**Option B: Before & After**
-
-- Split paper in half
-
-- One side: winter/dormancy (bare living tree)
-
-- Other side: spring/life (leafy tree, colorful)
-
-**Option C: Egg Art**
-
-- Decorate paper egg shapes
-
-- Symbol of new life
-
-- Easter colors and joy
-
-**While creating:**
-
-- Play spring/Easter music
-
-- "What new life are you showing?"
-
-- "How does this remind you of Easter?"
-
-### Closing Celebration (2 min)
-**Share artwork:**
-
-- Show what you created
-
-- Tell about the new life in it
-
-**Final reflection:**
-
-- "Jesus is ALIVE!"
-
-- "Spring growth can be a faith reminder; dormancy is not death."
-
-- "We have HOPE because of Easter!"
-
-**Closing Prayer:**
-"Thank You, Jesus, for rising from the dead! Thank You for spring that reminds us of new life. Fill us with Easter joy and hope. Help us share this Good News with everyone. Alleluia! He is risen! Amen."
-
----
-
-## SAFETY / indoor default
-Use the existing indoor picture hunt when weather/clothing/supervision is unsuitable. No wild collecting/tasting, unknown flowers or real eggshells; teacher-screened items/paper eggs only. Never assume every bare plant is dead. Grade 1 orally compares two visible features; Grade 2 explains a seasonal-change observation versus symbolism. Reserve final 3 art minutes for cleanup. **Technology: None primary path.**
-
-## 📎 Home Connection (optional; no routine homework)
-> "We celebrated new life and Easter today! Ask your child: 'What signs of spring did you find?' 'How is spring like Easter?' 'What new life art did you create?' Take a family spring walk and look for signs of new life together. Remember: Jesus makes all things new!"
-
----
-
-## ✅ Assessment
-
-- Identified signs of spring and new life
-
-- Connected seasonal renewal to resurrection
-
-- Created art celebrating new life
-
-- Expressed Easter joy and hope
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

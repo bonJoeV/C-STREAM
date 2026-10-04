@@ -1,185 +1,108 @@
 ---
-title: "Session 07: Light in Darkness"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A Advent"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - advent
-  - thanksgiving
-  - christmas
-  - service
-  - arts
+title: "Light in Darkness"
+description: "A shadow comparison separates physical evidence from an Advent symbol."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S2, CST-S3, CST-A1]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Light in Darkness
 
-# Session 07: Light in Darkness ⭐
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 7 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Light |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, A / A shadow comparison separates physical evidence from an Advent symbol. |
+| Student objective / why | "I can compare shadows at two object positions and explain what changed." One controlled investigation is feasible in a native short period. |
+| Catholic connection | Name a helpful action associated with the classroom hope symbol, while reporting shadow evidence honestly. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S2: safe investigations and variables; CST-S3: physical, life or Earth systems/models; CST-A1: observational representation. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students explore the science of light during Advent, connecting Jesus as the "Light of the World" to scientific understanding of light and darkness.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Check secured lights. Mark fixed lamp/screen and two object positions at 10/20 cm from source; pretest visible shadows in a safely lit room using an allocated white paper sheet as screen.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 07: Light in Darkness
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand that light travels and can be blocked (shadows)
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Enclosed 2-AA flashlight / kit / items | 4 | 5 | 7 | 9 |
+| Clean corrugated cardboard / kit / 10 cm square | 4 | 5 | 7 | 9 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
+| Masking tape / kit / 10 cm strips | 16 | 20 | 28 | 36 |
 
-- Explore how light helps us see
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Connect Advent waiting to Jesus as Light
+## Vocabulary and teacher background
 
-- Create a light-themed project
+Source = makes light; shadow = blocked light area; compare = same/different.
 
----
+Changing object distance changes shadow geometry when lamp and screen are fixed; the result does not measure kindness or prove a faith story.
 
-# Session 07: Light in Darkness
+**Common misconception:** A shadow is an object making darkness.
 
-## Materials Needed
+**If asked:** "Does hope work like a flashlight?" That is a classroom image, not the physical mechanism we test.
 
-- 📦 Flashlights
+## SAFETY
 
-- 📦 Prisms or CDs
+No flames, lasers, glass, Sun viewing, eye beams or dark-room movement; adult handles cells. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🎨 Star shapes, yellow/gold paper
+## Meeting 1: Two-position shadows - 30 minutes
 
-- 📓 Engineering journals
+1. **0-3:** Identify source and blocker; distinguish hope imagery from a test question.
+2. **3-7:** Model fixed lamp/screen, move only cardboard between marks and trace an outline.
+3. **7-20:** Teams predict/test both positions. Each child moves/directs an object position and records two outlines; rotate lamp/observer roles.
+4. **20-26:** Each child compares actual outlines, points to a kept-same condition and states a helpful action without calling it brightness data.
+5. **26-30:** Switch off/count lights, return cardboard/rulers and remove table tape. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 🕯️ LED tea light candles (safe)
+## Questions to ask
 
-- 📦 Various objects for shadow-making
+- What stayed the same in your shadow test?
+- What changed when the cardboard moved?
 
----
+## Individual evidence and success
 
-## Catholic Integration
+**Grade 1:** Identify source/blocker and show a shadow difference.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching devotional details
-**Mary, Star of the Sea** — Mary guides us to Jesus, the true Light, just as stars guide sailors home.
+**Grade 2:** Explain changed versus kept-same positions and distinguish observed result from classroom symbolism.
 
-### Scripture reference
-John 8:12; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. Light language is religious imagery, not a measured property of Jesus.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear Jesus, in this Advent season, we wait for you—the Light of the World. Help us shine your light to everyone we meet. Come, Lord Jesus! Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Large object/screen and adult-stabilized light directed by the child. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Repeat a position and discuss any outline difference. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (5 minutes)
-1. **Create Atmosphere** — Dim lights, use LED candles
-2. **Advent Connection** — "We're waiting for Christmas! For Jesus to come!"
-3. **Jesus = Light** — "Jesus called himself the Light of the World"
-4. **Science + Faith** — "Today we'll learn about light AND think about Jesus!"
-5. **Wonder Question** — "Why do we need light?"
+## If things go wrong / indoor alternative
 
-### Main Activity: Light Exploration (19 minutes)
+Weak shadow: teacher changes screen position before trials and remarks it. No secured light: use an inspected classroom source for observation and record individual light operation unassessed; never a candle.
 
-**Part 1: Light Investigation (7 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Flashlight experiments:
-  - Shine through paper (dim)
-  - Shine through glass/plastic (bright)
-  - Blocked by solid objects (shadow!)
+## Family copy - optional, no routine homework
 
-- "Light travels in straight lines until something stops it"
+We compared shadows with fixed test positions and separated evidence from a hope image. Ask: "What stayed the same in your shadow test?" Optional: notice a shadow safely indoors. No purchase, donation, device, home teaching or required take-home project.
 
-- Make shadow puppets on wall
+## Sources and claim boundaries
 
-**Part 2: Rainbow Discovery (5 minutes)**
-
-- Use prism or CD to split light
-
-- Find rainbows on walls
-
-- "White light has ALL colors hiding inside!"
-
-- "God made light full of beautiful colors"
-
-**Part 3: Advent Star Creation (7 minutes)**
-
-- Create an Advent star
-
-- Star of Bethlehem guided the Wise Men to Jesus
-
-- Decorate with gold, glitter, or sequins
-
-- Add: "Jesus is our Light"
-
-### Engineering Journal (4 minutes)
-1. Draw one light experiment
-2. Draw your Advent star
-3. Write: "Jesus is the light because..."
-
-### Closing Circle (2 minutes)
-1. **Light Connection** — "How can WE be lights?" (Being kind, helping others)
-2. **Star Display** — Show stars, announce where they'll be displayed
-3. **Closing Prayer** — *"Jesus, Light of the World, shine through us. Help us spread your light this Advent season. Come, Lord Jesus! Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Participated in light experiments
-
-- [ ] Understood light and shadow concepts
-
-- [ ] Connected Jesus to light imagery
-
-- [ ] Created Advent star
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-cut star shape to decorate
-
-- Focus on one light concept
-
-- Work with light partner
-
-### For Advanced Students
-
-- Explain why some things cast shadows
-
-- Create complex star design
-
-- Write about light and faith connection
-
----
-
-## SAFETY / evidence / cleanup
-Low-power flashlights, plastic safety prism/transparent objects, enclosed LED lights only; no glass, lasers, real flames, sun viewing, glow-stick opening or beams at eyes. Keep aisles visible and children seated if dimming. Replace glitter/sequins with crayon/foil. Grade 1 shows a blocked versus transmitted beam orally; Grade 2 explains one changed material/position using observations. **Technology: None primary path.** Reserve final 3 creation minutes for cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; flashlight play indoors or picture discussion)
-**Family Activity:** Look for lights during Advent! Christmas lights, candles, stars. Talk about how Jesus is the Light of the World. Make shadow puppets together using a flashlight.
-
----
-
-## Teacher Notes
-
-- Coordinate with Advent wreath lighting in school
-
-- Display stars in hallway or church
-
-- Great connection to religion class Advent lessons
-
-- Consider using glow sticks as alternative
-
----
-
-**Previous:** [Session 06 — Thanksgiving Service](./Session06_Thanksgiving_Service.md)  
-**Next:** [Session 08 — Coding Basics](./Session08_Coding_Basics.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

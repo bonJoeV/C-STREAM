@@ -1,234 +1,91 @@
 ---
 title: "Week 12: Giving Season Making"
-description: "Grades 5-6 design and create gifts that serve others"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - engineering
-  - circuits
-  - life-science
-  - advent
-  - arts
+description: "Purposeful greeting-card design with recipient choice and reader testing"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎁 Week 12: Giving Season Making
+# Week 12: Giving Season Making
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **STREAM Focus** | E (Engineering), A (Arts), R (Religion) |
-
----
-
-# Week 12: Giving Season Making
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply user-centered design principles
-2. Use maker skills for purposeful creation
-3. Consider accessibility and adaptability in design
-4. Create functional items that serve real needs
-
-### Faith Integration Objectives
-Students will be able to:
-1. Practice the virtue of generosity
-2. Design with the recipient's dignity in mind
-3. Connect making to Corporal Works of Mercy
-
----
-
-# Week 12: Giving Season Making
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Corporal Works of Mercy** — The Church calls us to feed the hungry, give drink to the thirsty, clothe the naked, shelter the homeless, visit the sick and imprisoned, and bury the dead. Our making can directly support these works of mercy.
-
-### Scripture Connection
-> "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace in its various forms."
-> — 1 Peter 4:10
-
-### Saint Connection
-**St. Martin de Porres** — Known for his care for the poor and sick. He used practical skills to serve others, including medicine and gardening. He found God in serving others through action, not just prayer.
-
----
-
-## 📚 Materials Needed
-
-## SAFETY AND RECIPIENT APPROVAL
-
-Classroom cardboard concepts only. Do not give patient-use busy boards, sensory items, adaptive tools, electronics, or toys to vulnerable recipients without prior organization approval and qualified safety review. No clinical, mobility, food-contact, or safety-device testing on people. Use fictional needs and avoid assumptions about disability. No sewing/sharp-tool station unless adult-controlled; electronics use only the inspected protected-AA kit in the electronics lesson, never button cells or improvised power.
-
-**Local standards (not official):** CST-C2 - individual dignity/access decision; CST-E1 - user need and test criterion; CST-A2 - purposeful layout with peer feedback. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Cardboard and cardstock
-
-- Sewing supplies (optional)
-
-- Recycled materials
-
-- Little Bits or simple electronics (optional)
-
-- Craft supplies
-
-- Design planning sheets
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Lord, You gave us the greatest gift in Your Son. Help us use our gifts to give to others. May what we make today bring joy and meet real needs. Amen."
-
-**Giving Season context:**
-
-- "Advent is a season of preparation and giving"
-
-- "We can MAKE gifts that show we truly know someone"
-
-- "Making for others is a spiritual practice"
-
-**Corporal Works of Mercy:**
-
-- Which works can our making address?
-
-- Feed hungry → Food organizers, recipe holders
-
-- Clothe naked → Wearable items, fabric crafts
-
-- Shelter homeless → Comfort items for shelters
-
-- Visit sick → Cards, sensory items, games
-
-- "How can our skills serve others?"
-
-### Design Challenge Introduction (8 min)
-**Choose a project type:**
-
-**Option A: Comfort Item for Hospitals/Nursing Homes**
-
-- Busy boards for elderly with dementia
-
-- Sensory items for children's hospitals
-
-- Large-button devices for those with limited mobility
-
-**Option B: Practical Item for Families in Need**
-
-- Coupon organizers
-
-- Simple toy for children
-
-- Helpful household item
-
-**Option C: Accessibility Item**
-
-- Large-print book holders
-
-- Easy-grip tools
-
-- Adaptive items for specific needs
-
-**Option D: Custom Gift for Someone You Know**
-
-- Based on THEIR needs
-
-- Shows you truly know them
-
-- Solves a problem they have
-
-**User-centered design principles:**
-1. Who is this for? (Specific person or group)
-2. What do they need?
-3. What limitations might they have?
-4. How can I design for dignity?
-
-### Design Phase (7 min)
-**Planning requirements:**
-1. **User profile** — Who is this for? What are their needs?
-2. **Sketch** — What will it look like?
-3. **Materials list** — What will you need?
-4. **Accessibility check** — Can your user actually use this?
-5. **Dignity check** — Does this treat the user with respect?
-
-**Share plans with partner:**
-
-- Get feedback on usability
-
-- Consider what you might be missing
-
-- Improve before building
-
-### Making Phase (20 min)
-**Construction time!**
-
-**Stations available:**
-
-- Cardboard construction
-
-- Fabric/sewing (if available)
-
-- Electronics (Little Bits)
-
-- Art materials
-
-- Recycled materials
-
-**Teacher circulates:**
-
-- "How does this meet your user's need?"
-
-- "Have you considered accessibility?"
-
-- "What would make this more useful?"
-
-**Encourage iteration:**
-
-- Test as you go
-
-- Willing to change approach
-
-- Quality over speed
-
-### Sharing & Reflection (5 min)
-**Share creations:**
-
-- Who is this for?
-
-- What need does it address?
-
-- How does it show you thought about THEM?
-
-**Faith Connection:** "St. Martin de Porres served God by serving people with his practical skills. When we make something for someone else — really thinking about their needs, their dignity, their situation — we're doing the same thing. Our hands become God's hands."
-
-**Closing Prayer:** "Lord, bless these items we've made. May they bring comfort, joy, and help to those who receive them. Help us always use our gifts to serve others as You served us. Amen."
-
----
-
-## ✅ Assessment
-
-- Identified specific user and need
-
-- Applied user-centered design principles
-
-- Created functional, thoughtful item
-
-- Considered accessibility and dignity
-
-- Connected making to faith
-
----
-
-## 📎 Home Connection
-> "We made gifts for others using design thinking! Ask your child: 'Who did you design for?' 'What need does your gift address?' 'How did you think about their dignity?' We connected making to the Corporal Works of Mercy. As a family, consider how you can use your skills to serve others this giving season."
-
----
-
-**Lesson Version:** 1.0 | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Service |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can design a readable welcome card, test its message and revise for a stated user need. A thoughtful gift respects the recipient's choice. |
+| Domains / Catholic connection | C, E, A; generosity and works of mercy require dignity, not assumptions about illness or disability. |
+| Local standards | CST-C2: choice/access; CST-E1: criterion/constraint; CST-A2: purposeful layout. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; paper card is the intended gift prototype, not a clinical aid. |
+| Difficulty / entry | Introductory; demonstrate folding and title/body hierarchy. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min included. Kit: Giving Cards. |
+
+## BEFORE CLASS / MATERIALS
+
+Review contact/accommodations. Seat 4/5/7/9 teams to share tools; each student
+makes their own card. Copy fictional brief: "A community reading-table visitor
+may choose a welcome card or decline. They want large text, a cheerful original
+image and no assumption about religion/health." Keep cards in classroom unless
+an adult partner later approves content/delivery. Draw example layout:
+WELCOME / "You are welcome at the reading table" / optional blank message.
+Criterion: peer reads title and invitation at 50 cm without coaching;
+constraint: one folded sheet, no bought gifts.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Cardstock | 1/student | 10 | 15 | 20 | 25 |
+| Paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Ruler; marker set | 1 each/team | 4 | 5 | 7 | 9 |
+| Paper brief/example | 1/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Cardstock/paper consumable; tools reusable. No electronics/sewing/sharp tools.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**User need:** stated requirement. **Hierarchy:** visual order of importance.
+**Contrast:** visible difference. **Consent:** permission freely given.
+Art is practiced through image/composition and readable hierarchy, not decoration
+alone. **Common misconception:** all people want the same religious gift.
+**If asked, "Will this make someone feel better?"** We cannot promise that;
+we test readability and invite choice, not emotions or treatment.
+Math check: one sheet folded makes two panels; a 12 cm panel with two 1 cm
+margins leaves 10 cm for text.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Read brief; ask "How can a gift respect a no?" Connect generosity to dignity.
+2. **4-11 (7 min):** Model fold, margins, bold title and simple original image; show 50 cm reader test.
+3. **11-25 (14 min):** Each sketches two layouts, selects one, makes card with invitation and optional blank area; measure margins.
+4. **25-35 (10 min):** Partners test title/invitation at 50 cm; record two readable/not-yet checks. Revise one visual choice, repeat without coaching.
+5. **35-41 (6 min):** Individual explains criterion, constraint, before/after layout reason and respectful decline/delivery decision.
+6. **41-45 (4 min):** Cap/count markers, save original sketches/cards, sort scrap and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Where should the eye go first? Did the reader need your explanation? Who
+decides delivery?" Each supplies testable criterion/constraint, purposeful
+layout, two reader checks and consent decision. 1 unsupported; 2 prompted;
+3 independent; 4 defends contrast/space tradeoff; NE for untested work.
+
+## IF THINGS GO WRONG / SAFETY
+
+Unreadable -> enlarge title/reduce text, not grade artistic talent.
+No cardstock -> same folded paper quantity, keep criterion. No real partner
+-> classroom model only, no false delivery claim. No clinical, sensory,
+mobility, food-contact or powered devices. Keep private details off cards;
+stop/report unsafe tool handling or accidental disclosure.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: pre-folded sheet, printed/teacher-drawn words, dictation and
+large contrast. Grade 6/challenge: compare two image/text balances and defend
+user choice. Indoor tabletop plan; no off-site visit required.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Store cards pending approval; keep each child's reader evidence; report shortages.
+**Explored:** gift design. **Did:** tested/revised a welcome card.
+**Learned:** thoughtful layout and consent. **Catholic connection:** generosity
+with dignity. **Ask:** "What changed after reader feedback?" Optional conversation;
+no routine homework, purchase or compulsory donation.

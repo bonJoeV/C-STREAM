@@ -1,207 +1,107 @@
 ---
-title: "Session 11: Lenten Love"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B Lent service"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - engineering
-  - life-science
-  - lent
-  - easter
-  - service
-  - arts
+title: "Lenten Love"
+description: "A counted classroom service project can meet a real need without compulsory giving."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-M3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Lenten Love
 
-# Session 11: Lenten Love 💜
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 11 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Service |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, E, M / A counted classroom service project can meet a real need without compulsory giving. |
+| Student objective / why | "I can make an organizer for two groups and explain the quantity relationship." This extends earlier sharing arithmetic to a tested useful function. |
+| Catholic connection | Listen and help through a useful school task; no child is ranked by donations, fasting or private devotion. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-E1: needs, criteria and constraints; CST-E2: build, test and redesign; CST-M3: quantities, operations and reasoning. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students design and create something to help others during Lent, connecting engineering skills to the three pillars: prayer, fasting, and almsgiving.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Ask a classroom helper to request two readable groups of four picture cards that can be retrieved without lifting the holder. Precut card/tape and draw eight-dot/group criterion icons.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **two equal groups / test result / user-based change**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 11: Lenten Love
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand Lenten practices
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Clean corrugated cardboard / kit / 20 cm squares | 8 | 10 | 14 | 18 |
+| Index cards / kit / items | 32 | 40 | 56 | 72 |
+| Masking tape / kit / 10 cm strips | 32 | 40 | 56 | 72 |
 
-- Design something to serve others
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Create a meaningful service project
+## Vocabulary and teacher background
 
-- Connect engineering to loving others
+Almsgiving = giving help/resources in a religious context; service = useful action; criterion = must do.
 
----
+The classroom service activity does not require money or child fasting. Two equal groups of four model 4 + 4 = 8, not a measure of love.
 
-# Session 11: Lenten Love
+**Common misconception:** Everyone must donate money or restrict food in this lesson.
 
-## Materials Needed
+**If asked:** "What if my family cannot donate?" No donation is required; this classroom work uses school materials.
 
-- 📦 Craft supplies
+## SAFETY
 
-- 💜 Purple paper and decorations
+No food restriction, fund collection, unsafe outreach or body attachments; screened dry card only. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📦 Recycled materials for building
+## Meeting 1: Eight-card service organizer - 30 minutes
 
-- 📓 Design Detective journals
+1. **0-3:** Read actual helper request and bounded materials.
+2. **3-7:** Model a fold/compartment and show four-plus-four with eight cards.
+3. **7-20:** Teams build, allocate four cards to each space, test readability/retrieval and revise a weak support. Each child directs a trial and records the groups/test.
+4. **20-26:** Each child shows the quantity relationship, names a criterion/limit and explains a user-based revision.
+5. **26-30:** Count eight cards, return reusable parts and store evidence. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- ❤️ Heart shapes
+## Questions to ask
 
----
+- How do your two groups make eight?
+- What did the helper need your organizer to do?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Teresa of Calcutta (Mother Teresa)** — She dedicated her life to serving the poorest of the poor with great love.
+**Grade 1:** Represent four-plus-four and show a useful function test.
 
-### Scripture reference
-Matthew 25:40; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+**Grade 2:** Explain the equation with groups, compare a nonmatching allocation and justify a test-based revision.
 
-### Opening Prayer
-*Dear Jesus, during Lent we prepare our hearts for Easter. Help us find ways to love others as you loved us. Bless our hands as they work for others today. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Two big group outlines and precreased compartments; no written prayer/faith disclosure. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (5 minutes)
-1. **Lent Season** — "We're preparing for Easter!"
-2. **Three Lenten Practices:**
-   - 🙏 Prayer — Talking with God more
-   - 🍞 Fasting — Giving something up
-   - 💝 Almsgiving — Giving to those in need
-3. **Teresa of Calcutta** — A vetted biography may illustrate service; the attributed "small things with great love" quotation was not verified and is omitted.
-4. **Today's Mission** — "Design something loving for others!"
+**Challenge:** Explain why five/three totals eight but fails the equal-group request. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Love in Action Project (19 minutes)
+## If things go wrong / indoor alternative
 
-**Part 1: Who Needs Love? (3 minutes)**
+Organizer tips: lower/widen it and retest, not add heavy ballast. No helper: teacher supplies the actual school sorting request.
 
-- Brainstorm people who could use kindness:
-  - Elderly neighbors
-  - Sick classmates
-  - Lonely people
-  - Hungry families
-  - Tired parents
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Choose who to serve
+## Family copy - optional, no routine homework
 
-**Part 2: Design & Create (14 minutes)**
+We combined counted quantities with a useful classroom service design. Ask: "How do your two groups make eight?" Optional: offer a small helpful action without money, fasting or required supplies. No purchase, donation, device, home teaching or required take-home project.
 
-**Option A: Comfort Cards**
+## Sources and claim boundaries
 
-- Cards for hospital or nursing home
-
-- Include cheerful drawings
-
-- Message: "You are loved!"
-
-- Add hearts and encouraging words
-
-**Option B: Prayer Chain**
-
-- Paper chain for people to pray for
-
-- Each link = one person/intention
-
-- Class prayer chain to display
-
-**Option C: Kindness Jar**
-
-- Decorate a paper/cardboard container, not a glass jar.
-
-- Fill with kindness ideas on paper strips:
-  - "Offer a kind word" (physical contact is never owed)
-  - "Help clean up"
-  - "Share a toy"
-
-- Take home to use during Lent
-
-**Option D: Care Packages Design**
-
-- Design what would go in a care package
-
-- Draw items that would help someone in need
-
-- Plan actual collection
-
-**Part 3: Dedication (2 minutes)**
-
-- "Who will receive your act of love?"
-
-- "Why is this important?"
-
-### Design Detective Journal (4 minutes)
-1. Draw your service project
-2. Write: "I made this for... because..."
-3. Write: "One way I can show love this Lent is..."
-
-### Closing Circle (2 minutes)
-1. **Share Projects** — Show what you made
-2. **Lenten Commitment** — What will YOU do for love?
-3. **Closing Prayer** — *"Jesus, help us be like Mother Teresa—doing small things with great love. Bless our Lenten journey. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Understood Lenten practices
-
-- [ ] Designed with others in mind
-
-- [ ] Created service project
-
-- [ ] Made Lenten commitment
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Choose one project focus
-
-- Partner work
-
-- Pre-cut materials
-
-### For Advanced Students
-
-- Create multiple items
-
-- Plan a family service project
-
-- Write prayer intentions
-
----
-
-## SAFETY / equitable Lent / evidence
-Do not assign food fasting to young children; use school-approved sharing of time and kind words, never required family money/donations. No forced hugs, glass jars, food gifts or student contact details. Teacher confirms recipient consent/organization delivery rules. Grade 1 dictates/draws a recipient-focused message; Grade 2 revises a communication feature after feedback. Decorated cards are art/service, not tested engineering. **Technology: None primary path.** Last 3 creation minutes are cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; no-cost kindness conversation equally valid)
-**Family Activity:** Plan a family Lent service project! Ideas: Donate to food shelf, visit someone lonely, do extra chores, give up something and give the money away. Create a Lenten calendar together.
-
----
-
-## Teacher Notes
-
-- Coordinate with school Lenten service projects
-
-- Consider delivering cards to nursing home
-
-- Connect to Rice Bowl or other parish initiatives
-
-- Purple is the liturgical color of Lent
-
----
-
-**Previous:** [Session 10 — Magnets & Motion](./Session10_Magnets_Motion.md)  
-**Next:** [Session 12 — Butterfly Wonder](./Session12_Butterfly_Wonder.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

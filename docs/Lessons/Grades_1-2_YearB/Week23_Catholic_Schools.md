@@ -1,212 +1,106 @@
 ---
-title: "Week 23: Catholic Schools Celebration"
-description: "Grades 1-2 Year B Catholic Schools Week STREAM activities"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - astronomy
-  - catholic-schools-week
-  - arts
+title: "Catholic Schools Celebration"
+description: "A welcoming school display explains actual learning without overclaiming."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-A3, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🏫 Week 23: Catholic Schools Celebration
+# Catholic Schools Celebration
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Celebration) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Faith and reason |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, A, M / A welcoming school display explains actual learning without overclaiming. |
+| Student objective / why | "I can clarify an evidence display and interpret an anonymous audience-choice count." An in-class audience works without visitor scheduling or digital presentations. |
+| Catholic connection | Welcome each viewer respectfully and tell what a work sample does and does not demonstrate. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-A3: artistic communication, critique and revision; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 23: Catholic Schools Celebration
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Choose two prior records per pupil and set up seated pairs. Draw columns for displays about observe/build/code; visitors are optional, not needed for the test.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Demonstrate STREAM learning to visitors
-2. Explain what they've learned this year
-3. Work as a team on group activities
-4. Share enthusiasm for STREAM with others
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Articulate what makes Catholic schools special
-2. Demonstrate faith integration in STREAM
-3. Welcome and serve visitors
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Saved learning artifact / student / items | 20 | 30 | 40 | 50 |
+| Index cards / student / items | 10 | 15 | 20 | 25 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 23: Catholic Schools Celebration
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Audience = viewer; evidence = support; display = communication.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Catholic Education** — Catholic schools teach faith AND reason together. STREAM shows that science and faith are partners, not enemies. We celebrate learning about God's world!
+An audience-interest graph is not a score of learning. A clear display makes claims inspectable.
 
-### Scripture reference
-Proverbs 22:6; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** A Catholic school celebration requires unverified saints or scientist biographies.
 
-### Saint Connection - VERIFICATION REQUIRED
-Elizabeth Ann Seton is associated with Catholic education; use a vetted biography. Do not claim she founded the first Catholic school in America; Catholic schools predate her work.
+**If asked:** "Can our display prove everything we learned?" No; explain the particular evidence and its limits.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+No public identifying photos/names, device stations or unsupervised visitor contact. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Station materials (varied)
+## Meeting 1: Welcoming evidence display - 30 minutes
 
-- Display materials
+1. **0-3:** State honesty and welcome as today's care commitments.
+2. **3-7:** Model a two-record display and a viewer question that identifies an unclear feature.
+3. **7-20:** Each child explains two records at tables, listens to a partner question and revises the display for clarity. Each anonymously chooses one display topic; build/count the topic graph.
+4. **20-26:** Each child names an evidence-supported claim and limit, gives a graph comparison and shows a welcoming action.
+5. **26-30:** Return private portfolios, collect topic cards and clear displays. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Visitor name tags
+## Questions to ask
 
-- Celebration supplies
+- What can your display show the viewer?
+- What does the audience-choice graph count?
 
-- Student work samples
+## Individual evidence and success
 
----
+**Grade 1:** Point to a clear record detail, revise one confusing feature and compare counts.
 
-## 📝 Lesson Procedure (30 minutes)
+**Grade 2:** Explain a supported claim/limit and interpret the graph as interest, not proficiency.
 
-### Opening Prayer (2 min)
-"Dear God, thank You for our Catholic school! Thank You that we learn about Your world AND about You. Help us share what we've learned today and welcome our visitors with joy. Amen."
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### What Makes Us Special? (5 min)
-**Catholic Schools Week discussion:**
+## Support and challenge
 
-- "Why is our school special?"
+**Support / nonreader access:** Teacher-read captions, oral narration and a quiet partner audience. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- "What do we do in STREAM?"
+**Challenge:** Identify an overclaim in a sample display and rewrite it accurately. Do not add an unprepared activity or extend the native period.
 
-- "How is it different from regular STEM?"
+## If things go wrong / indoor alternative
 
-**Key message:**
+No artifacts: compare a fresh first/revised observation drawing, labeled fresh. No visitors: paired classmates fulfill the audience objective.
 
-- "We learn science and faith TOGETHER"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- "We see God in everything we learn"
+## Family copy - optional, no routine homework
 
-- "We learn to serve others with our skills"
+We welcomed viewers with clear learning evidence and interpreted a class interest count. Ask: "What can your display show the viewer?" Optional: ask what one record supports and what it does not. No purchase, donation, device, home teaching or required take-home project.
 
-**St. Elizabeth Ann Seton:**
+## Sources and claim boundaries
 
-- "Her educational contribution needs a verified biography; the 'first Catholic school in America' claim is omitted."
-
-- "She wanted children to learn AND grow in faith"
-
-- "Our school continues her mission!"
-
-### Station Preparation (8 min)
-**Set up celebration stations:**
-
-**Station 1: Robot Show**
-
-- Dash Robot demonstration
-
-- Simple coding explanation
-
-- Visitors try basic commands
-
-**Station 2: Building Challenge**
-
-- KEVA structure display
-
-- Invite visitors to build
-
-- Tower challenge!
-
-**Station 3: Science Wonder**
-
-- Show nature collections
-
-- Share "I wonder" questions
-
-- Magnifying glass exploration
-
-**Station 4: Invention Gallery**
-
-- Display inventions from lab
-
-- Explain problems solved
-
-- Show creativity!
-
-**Assign students to stations:**
-
-- Practice explanations
-
-- Know what to say
-
-- Be welcoming!
-
-### Celebration Time (12 min)
-**Visitors rotate through stations OR stations are open exploration**
-
-**Student roles:**
-
-- Explain the activity
-
-- Help visitors participate
-
-- Share what you learned
-
-- Show how faith connects
-
-**Teacher circulates:**
-
-- Support students
-
-- Engage visitors
-
-- Celebrate!
-
-### Closing (3 min)
-**Thank visitors:**
-
-- "Thank you for celebrating with us!"
-
-- "We love learning at our Catholic school!"
-
-**Class reflection:**
-
-- "What was it like to share with visitors?"
-
-- "What questions did people ask?"
-
-- "What are you proud of?"
-
-**Closing Prayer:**
-"Thank You, God, for Catholic Schools Week. Thank You for visitors who celebrated with us. Thank You for a school where we learn about You in everything. Bless our school, our teachers, our families. Amen."
-
----
-
-## Technology / SAFETY / staffing
-**Recommended primary path:** supervised Dash/tablet demonstration; no-device alternative uses saved design/test evidence and cards, not robot mastery. If no visitors/extra adults, partners share at tables and perform one measured demonstration each. No unsupervised moving robot station; low-speed marked bays and towers below 30 cm. Visitors follow school safeguarding/photo policies. Reserve final 3 activity minutes for cleanup; assess an individual's explanation, not visitor attendance.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We celebrated Catholic Schools Week in STREAM! Your child helped lead activities and share learning with visitors. Ask: 'What station did you help with?' 'What did you tell visitors?' 'What makes our Catholic school special?' Thank you for choosing Catholic education!"
-
----
-
-## ✅ Assessment
-
-- Participated in station activities
-
-- Explained STREAM learning to visitors
-
-- Welcomed and helped others
-
-- Articulated Catholic school identity
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

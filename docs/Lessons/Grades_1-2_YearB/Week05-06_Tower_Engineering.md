@@ -1,275 +1,115 @@
 ---
-title: "Weeks 5-6: Tower Engineering"
-description: "Grades 1-2 Year B tall structure building challenge"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - engineering
-  - light
-  - service
-  - arts
+title: "Tower Engineering"
+description: "Tower stability can be compared at the same height."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E2, CST-M1, CST-M2]
+technology: None
+meetings: 2
+minutes: 30
 ---
 
-# 🗼 Weeks 5-6: Tower Engineering
+# Tower Engineering
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 2 sessions (30 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), M (Math), S (Science) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Structures |
+| Native time / scope | 2 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, E, M / Tower stability can be compared at the same height. |
+| Student objective / why | "I can measure two tower tests and represent their results." Year B adds repeatability and a data display, not a tallest tower contest. |
+| Catholic connection | Use shared planks responsibly and explain why a smaller material allocation may be a wise choice. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-E2: build, test and redesign; CST-M1: count, compare and measure; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Weeks 5-6: Tower Engineering
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Inspect planks. Mark a build zone and 20 cm target/30 cm ceiling on a teacher ruler. Pretest two low base arrangements; draw pass/fall and height boxes.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **height / two trial results / changed base**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Apply engineering design process to build tall structures
-2. Explore concepts of balance, stability, and height
-3. Measure height using non-standard and standard units
-4. Test, iterate, and improve designs
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect towers to the Tower of Babel story
-2. Understand the difference between prideful building and serving others
-3. Work cooperatively as a team
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 40 | 60 | 80 | 100 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Wooden building planks / kit / items | 96 | 120 | 168 | 216 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
+| Masking tape / kit / 10 cm strips | 16 | 20 | 28 | 36 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Weeks 5-6: Tower Engineering
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Stability = staying standing; height = bottom-to-top length; trial = one test.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED
-Genesis 11 is a theological story to read from an approved source, not a guarantee that a faithful engineer's structure succeeds. Good engineers learn from failed models and can serve others without a winning tower.
+A broader base often resists tipping, but arrangement matters. Compare bases at similar height; changing both height and base obscures the cause.
 
-### Scripture reference
-Psalm 127:1; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** An impressive height proves a good structure or humble character.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Joseph the Worker** — Patron of workers and craftsmen. He built things with his hands to provide for his family and serve others, not for pride.
+**If asked:** "Did Babel fail because tall towers are bad?" No history claim is required; we study stability and respectful teamwork.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Under 30 cm on tables, no furniture climbing, pushing towers or heavy top loads. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- KEVA planks (large supply)
+## Meeting 1: Measure the first design - 30 minutes
 
-- Measuring tools (rulers, non-standard units)
+1. **0-3:** State target: approximately 20 cm tall, stands 10 seconds, maximum 24 planks.
+2. **3-7:** Model measuring from table surface and starting a standing test with hands clear.
+3. **7-20:** Teams build and run two 10-second trials, rebuilding the same design after a fall. Each child measures/counts/directs a trial and records the actual height.
+4. **20-26:** Each child shows height with units and two pass/fall results; identify a weak part without blaming a classmate.
+5. **26-30:** Dismantle top-down and count 24 planks; retain diagrams between meetings. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Recording sheets
+## Meeting 2: Same-height redesign - 30 minutes
 
-- Images of famous towers
+1. **0-3:** Retrieve the first height/results and choose a base change.
+2. **3-7:** Model keeping height approximately the same while widening or overlapping the base.
+3. **7-20:** Teams change the base, run two equivalent trials and record new height/results. Each child builds/directs and explains the kept-same condition.
+4. **20-26:** Each child makes a two-row results display and compares success counts out of two; explain a material-care choice.
+5. **26-30:** Dismantle top-down and count 24 planks; retain diagrams between meetings. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Building area with crash zones
+## Questions to ask
 
----
+- Were the two designs tested at the same height?
+- What do your two trial records show?
 
-# Session 1: Tower Basics
+## Individual evidence and success
 
-## 📝 Lesson Procedure (30 minutes)
+**Grade 1:** Measure/count height with aligned starts and show actual standing results.
 
-### Opening Prayer (2 min)
-"Dear God, help us be good builders today. Not builders who are proud, but builders who work together and help others. Bless our hands and minds as we create. Amen."
+**Grade 2:** Record units and successes out of two for both designs; explain a kept-same condition and limit.
 
-### Introduction: Famous Towers (5 min)
-**Show images:**
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-- Leaning Tower of Pisa
+## Support and challenge
 
-- Eiffel Tower
+**Support / nonreader access:** Provide a low base example and equal-unit strip if cm reading is not secure. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- Church steeples
+**Challenge:** Explain why a single fall does not prove a shape always fails. Do not add an unprepared activity or extend the native period.
 
-- Lighthouse towers
+## If things go wrong / indoor alternative
 
-**Discussion:**
+No planks: use equal classroom blocks and pretest the feasible height before class, labeling the changed criterion. Both pass: report a tie and compare resource use.
 
-- "Why do people build towers?"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- "What makes a tower stay up?"
+## Family copy - optional, no routine homework
 
-- "What makes a tower fall down?"
+We measured tower height and compared repeated stability trials using honest records. Ask: "Were the two designs tested at the same height?" Optional: point to the base of a pictured structure. No purchase, donation, device, home teaching or required take-home project.
 
-**Tower of Babel connection:**
+## Sources and claim boundaries
 
-- Tell brief story: People built a tower to make themselves famous
-
-- "God wants us to build to SERVE others, not to brag"
-
-- "Today we'll build towers to learn engineering!"
-
-### Engineering Investigation (8 min)
-**Key concepts:**
-
-**Base:**
-
-- Wider base = more stable
-
-- Demonstrate: One block base vs. four blocks base
-
-**Balance:**
-
-- Weight must be even
-
-- Show: Unbalanced tower falls
-
-**Height:**
-
-- Higher = harder to balance
-
-- Each level adds challenge
-
-**Let students explore:**
-
-- What happens with different base sizes?
-
-- What happens when you add weight on top?
-
-### Build Challenge Round 1 (12 min)
-**Challenge:** Build the TALLEST tower you can!
-
-**Rules:**
-
-- KEVA planks only
-
-- Must stand for 10 seconds
-
-- Work in partners
-
-- Stay in your area
-
-**Teacher circulates:**
-
-- "How tall is your tower?"
-
-- "What happens when you add more?"
-
-- "Why do you think it fell?"
-
-**Measure towers:**
-
-- Use hand spans or rulers
-
-- Record heights
-
-### Closing (3 min)
-**Quick share:**
-
-- What worked?
-
-- What made towers fall?
-
-**Preview:** "Next time: even TALLER towers!"
-
-**Closing Prayer:**
-"Thank You, God, for teaching us about building. Help us use what we learn to help others. Amen."
-
----
-
-# Session 2: Tower Challenge
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"St. Joseph, you worked with your hands to serve your family. Help us work well today to build and learn. Amen."
-
-### Review & Strategy (5 min)
-**What we learned:**
-
-- Wide bases help
-
-- Balance matters
-
-- Adding slowly works better
-
-**New strategies:**
-
-- Cross-patterns for stability
-
-- Layer building
-
-- Checking balance before adding
-
-**Challenge announcement:**
-
-- "Today: tallest tower that can hold a small weight on top!"
-
-- Added difficulty: Must support a small object
-
-### Tower Engineering Challenge (18 min)
-**Phase 1: Build (12 min)**
-
-- Partners work together
-
-- Build tallest stable tower
-
-- Prepare to add weight
-
-**Phase 2: Test (6 min)**
-
-- Add small weight to top (eraser, small ball)
-
-- Must stand for 10 seconds with weight
-
-- Measure final height
-
-**Recording:**
-
-- Tower height (in hand spans or inches)
-
-- Did it hold the weight?
-
-- Draw your tower design
-
-### Data Sharing (3 min)
-**Class comparison:**
-
-- Which tower was tallest?
-
-- Which held weight the best?
-
-- What designs worked well?
-
-**Key discoveries:**
-
-- What patterns do we see in successful towers?
-
-### Closing (2 min)
-**Faith connection:**
-"St. Joseph built good, strong things for his family. The best builders don't build to show off — they build to help others. How could engineers use tower-building to help people?" (Lighthouses, communication towers, church steeples)
-
-**Closing Prayer:**
-"Thank You, God, for engineers who build things that help people. Help us use our building skills for good. Amen."
-
----
-
-## SAFETY / evidence / cleanup
-Tabletop tower height **maximum 30 cm**, soft eraser load only, never a ball/book/heavy weight. Clear hands/faces for 10-second tests; no climbing or catching a collapse. Replace "even taller" goal with same-height stability comparison. Grade 1 points to base and compares two tests; Grade 2 records height in the same units before/after one redesign. Last 4 building minutes each meeting are tool count/storage/cleanup. **Technology: None primary path.**
-
-## 📎 Home Connection (optional; no routine homework)
-> "We engineered towers this week! Ask your child: 'What makes a tower stable?' 'What was your tallest tower?' 'What did you learn when it fell?' We discussed building for service vs. pride (Tower of Babel). Try building towers at home with blocks, cards, or household items!"
-
----
-
-## ✅ Assessment
-
-- Applied engineering concepts (base, balance)
-
-- Measured tower height
-
-- Iterated on design after failures
-
-- Worked cooperatively with partner
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

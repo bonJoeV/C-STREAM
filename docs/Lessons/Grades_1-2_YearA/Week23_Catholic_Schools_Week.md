@@ -1,165 +1,106 @@
 ---
-title: "Week 23: Catholic Schools Week STREAM"
-description: "Grades 1-2 celebration of Catholic identity and learning"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-a
-  - coding
-  - engineering
-  - life-science
-  - catholic-schools-week
-  - arts
+title: "Catholic Schools Week STREAM"
+description: "Catholic school inquiry combines honest observation with care for its audience."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-A3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# ✝️ Week 23: Catholic Schools Week STREAM
+# Catholic Schools Week STREAM
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **STREAM Focus** | R (Religion) + All STREAM Areas |
+| Grade / track / unit | Grades 1-2 / Weekly A / Faith and reason |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, S, A / Catholic school inquiry combines honest observation with care for its audience. |
+| Student objective / why | "I can make a clear observation panel and explain evidence versus belief." A school celebration can show real inquiry without unsupported biographies. |
+| Catholic connection | Explain how careful truthful work serves the classroom and distinguish it from the taught faith connection. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S1: observations, questions and evidence; CST-A3: artistic communication, critique and revision. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 23: Catholic Schools Week STREAM
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Choose a dry leaf picture and smooth wooden object per kit. Draw a two-panel example: "I observed" and "Our classroom commitment." No biography packet is needed.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **observed details / still-open question / commitment**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Connect STREAM learning to Catholic school identity
-2. Create a project showcasing Catholic values
-3. Explain how faith and learning work together
-4. Celebrate Catholic education
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Articulate what makes Catholic school special
-2. Identify Catholic scientists and their contributions
-3. Express gratitude for Catholic education
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Leaf picture / kit / items | 4 | 5 | 7 | 9 |
+| Smooth wooden block / kit / items | 4 | 5 | 7 | 9 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 23: Catholic Schools Week STREAM
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Evidence = actual observation; belief = taught faith commitment; panel = message space.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Faith and Reason** — In Catholic schools, we learn that faith and science work together. God gave us minds to explore His creation, and faith helps us understand the deeper meaning of what we discover.
+A leaf detail is observable; "we care for creation" states a commitment. Do not use scientist origin claims to prove either.
 
-### Scripture reference
-Proverbs 9:10; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** A religious symbol is scientific evidence.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**Catholic Scientists:**
+**If asked:** "Who discovered the universe?" That history question is not needed for today's observation; do not improvise a name or an origin story.
 
-- **St. Albert the Great** — Studied science and nature
+## SAFETY
 
-- **Fr. Georges Lemaître** — Proposed the Big Bang theory
+Screen objects; no food/plant tasting, unsupervised visitors or public identifying photos. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- **Gregor Mendel** — Father of genetics
+## Meeting 1: Inquiry display - 30 minutes
 
-- **Sr. Mary Kenneth Keller** — Computer scientist and educator; degree chronology/institution **VERIFICATION REQUIRED** before teaching a "first" claim.
+1. **0-3:** State that careful learning and care for people both matter in our Catholic classroom.
+2. **3-7:** Model two observed details in one panel and a concrete care action in the other; label which is evidence.
+3. **7-20:** Each child observes, draws a two-panel display and explains it to a partner. Partner says which detail is clear and asks one question; author revises that detail.
+4. **20-26:** Each child identifies an actual detail, a question still open and a commitment/action not proved by the object. Gallery remains at tables.
+5. **26-30:** Return objects and save display/evidence pages. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
----
+## Questions to ask
 
-## 📚 Materials Needed
+- Which part of your panel is an observation?
+- What did you clarify for your audience?
 
-- Catholic Scientists poster/pictures
+## Individual evidence and success
 
-- "What Makes Us Special" worksheet
+**Grade 1:** Show two details and distinguish a classroom action from an object observation.
 
-- Craft materials for "Catholic STREAM" project
+**Grade 2:** Explain an open question, an evidence limit and a visual revision after feedback.
 
-- School values list
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-- Celebration decorations
+## Support and challenge
 
----
+**Support / nonreader access:** Use eye/heart icons with teacher-read meanings and child dictation. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## 📝 Lesson Procedure (30 minutes)
+**Challenge:** Identify one tempting but unsupported explanation and say what evidence would be needed. Do not add an unprepared activity or extend the native period.
 
-### Opening Prayer & Introduction (5 min)
-**Catholic Schools Week Prayer:** "Thank You, God, for our Catholic school! Thank You for teachers who help us learn and grow in faith. Bless all Catholic schools everywhere. Help us share Your love through all we do. Amen."
+## If things go wrong / indoor alternative
 
-**Discuss:**
+No natural specimens: use familiar classroom objects. Visitor absent: a partner is a valid audience; no scheduling requirement or new history gate.
 
-- "What makes our school special?"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- "How is a Catholic school different?"
+## Family copy - optional, no routine homework
 
-- Answers may include: We pray, we learn about God, we go to Mass, we serve others, we treat everyone with dignity
+We shared clear inquiry panels showing observed evidence and a Catholic classroom care commitment. Ask: "Which part of your panel is an observation?" Optional: ask which detail was noticed and which message was a commitment. No purchase, donation, device, home teaching or required take-home project.
 
-### Catholic Scientists (8 min)
-**Introduce Catholic scientists:**
+## Sources and claim boundaries
 
-"Did you know many scientists were Catholic? They believed studying science helped them know God better!"
-
-**Share brief stories:**
-1. **Gregor Mendel** — A monk who studied pea plants and discovered how traits pass from parents to children
-2. **Sr. Mary Kenneth Keller** — A Catholic sister who worked in computing and education; exact contribution **VERIFICATION REQUIRED**.
-3. **Fr. Georges Lemaître** — Priest/cosmologist associated with expanding-universe models; exact contribution **VERIFICATION REQUIRED**. Do not say he fully explained the origin of everything.
-
-**Discussion:**
-
-- "These scientists loved God AND loved science!"
-
-- "In Catholic schools, we learn that faith and science go together"
-
-- "God gave us brains to discover and hearts to believe"
-
-### "What Makes Us Special" Project (12 min)
-**Create a "Catholic STREAM" banner or poster:**
-
-Students contribute to a class project showing:
-
-- S — "Science shows us God's creation"
-
-- T — "Technology helps us serve others"
-
-- R — "Religion guides everything we do"
-
-- E — "Engineering solves problems with love"
-
-- A — "Art celebrates God's beauty"
-
-- M — "Math shows God's order and patterns"
-
-**Individual contribution:** Each student adds a drawing or words to the class banner.
-
-**Alternative:** Individual "I Love My Catholic School" cards with STREAM elements.
-
-### Closing Celebration (5 min)
-**Share the completed project.**
-
-**Gratitude circle:** Each student shares one thing they're thankful for about their Catholic school.
-
-**Faith Connection:** "In Catholic schools, we don't just learn facts — we learn how to love God and love others. Our STREAM learning helps us become people who can make the world better!"
-
-**Closing Prayer:** "Thank You, God, for Catholic schools where faith and learning come together. Thank You for our teachers, friends, and families who support us. Help us use everything we learn to serve You and others. Amen."
-
----
-
-## ✅ Assessment
-
-- Contributed to class Catholic STREAM project
-
-- Identified at least one Catholic scientist
-
-- Expressed what makes Catholic school special
-
----
-
-## Substitute source gate
-If vetted biographies are not supplied, omit the scientist-story block and spend those 8 minutes observing a classroom plant, drawing two details and honestly distinguishing observation from belief. This preserves the faith/reason purpose without teaching uncertain history. Grade 1 tells/draws; Grade 2 explains one distinction. No devices required; **Technology: None primary path**. Reserve 3 banner minutes for cleanup.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We celebrated Catholic Schools Week! Ask your child: 'What makes our Catholic school special?' 'What Catholic scientist did you learn about?' Thank you for choosing Catholic education. Together, we help your child grow in faith, knowledge, and love!"
-
----
-
-**Lesson Version:** 1.0 | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

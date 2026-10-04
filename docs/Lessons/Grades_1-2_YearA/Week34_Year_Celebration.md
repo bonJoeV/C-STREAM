@@ -1,224 +1,106 @@
 ---
-title: "Week 34: Year-End STREAM Celebration"
-description: "Grades 1-2 showcase and celebration of learning"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - life-science
-  - service
-  - arts
+title: "Year-End STREAM Celebration"
+description: "A year-end explanation distinguishes evidence, memory and unanswered questions."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-A3, CST-M2, CST-C1]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🎉 Week 34: Year-End STREAM Celebration
+# Year-End STREAM Celebration
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **STREAM Focus** | All STREAM Areas |
+| Grade / track / unit | Grades 1-2 / Weekly A / Reflection |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | A, M, C / A year-end explanation distinguishes evidence, memory and unanswered questions. |
+| Student objective / why | "I can explain two records, revise my visual explanation and interpret a learning-choice graph." A portfolio can show exactly what was done without blanket achievement claims. |
+| Catholic connection | Tell the truth about what the evidence supports and thank a classmate for a specific contribution. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-A3: artistic communication, critique and revision; CST-M2: represent and interpret data/patterns; CST-C1: honest evidence and faith/reason. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 34: Year-End STREAM Celebration
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Select two comparable dated records per pupil; identify unmatched/missing records honestly. Draw columns for observe/design/code and label the graph as favorite experience, not mastery.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Reflect on a full year of STREAM learning
-2. Demonstrate skills learned across all STREAM areas
-3. Articulate growth and favorite experiences
-4. Celebrate achievements with classmates
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude to God for the gift of learning
-2. Recognize growth in faith integration
-3. Celebrate the gift of community
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Saved learning artifact / student / items | 20 | 30 | 40 | 50 |
+| Index cards / student / items | 10 | 15 | 20 | 25 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 34: Year-End STREAM Celebration
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Compare = show likeness/difference; claim = what you say; evidence = support; revise = improve.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal/historical details
-**Gratitude and Celebration** — When the Israelites finished important work, they celebrated and thanked God. We celebrate our STREAM year and thank God for the gift of learning, curiosity, and creativity.
+Different products alone do not establish growth; a child must explain a comparable change. Preference data is not achievement data.
 
-### Scripture reference
-Psalm 126:3; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** Every child demonstrated all domains because the year ended.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**All Our Saint Friends** — Throughout the year, we learned about saints who were scientists, engineers, artists, and mathematicians. They all used their gifts for God's glory!
+**If asked:** "Do I earn a science award?" Everyone receives recognition for a specific effort; evidence checks remain separate.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Seated galleries; no open robots, food rewards, public names or photos. Keep folders private. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Student portfolios/work samples from the year
+## Meeting 1: Evidence, not awards - 30 minutes
 
-- Celebration certificates
+1. **0-3:** Show a saved sample and distinguish an actual change from a favorite memory.
+2. **3-7:** Model an annotated two-record explanation and an honest "I still need evidence" statement.
+3. **7-20:** Each child compares two records, creates a clear visual explanation and revises after a partner question. Each places one anonymous preference card in a graph column; teacher checks explanations during practice.
+4. **20-26:** Each child supports one claim with a record, gives one graph comparison and states an unanswered question or missing evidence. Close with gratitude, not all-domain certificates.
+5. **26-30:** Return records and final explanation to private folders, count cards and clear tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Photo slideshow (if available)
+## Questions to ask
 
-- Memory sharing prompts
+- Which record supports what you said?
+- What does the class graph measure?
 
-- Celebration decorations
+## Individual evidence and success
 
-- Treats (optional)
+**Grade 1:** Point to a comparable changed detail and give an accurate two-column comparison.
 
----
+**Grade 2:** Justify a claim using two records, clarify a visual explanation and distinguish preference data from demonstrated skill.
 
-## 📝 Lesson Procedure (30 minutes)
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer & Introduction (4 min)
-**Year-End Prayer:** "Thank You, God, for an amazing year of STREAM learning! Thank You for curious minds, creative hands, and wonderful friends. Thank You for helping us grow in knowledge and faith. We celebrate Your gifts today! Amen."
+## Support and challenge
 
-**Introduction:**
+**Support / nonreader access:** Offer two teacher-read record choices and a quiet partner audience. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- "What a year we've had!"
+**Challenge:** Explain a limit in a year-end claim and suggest the evidence that could resolve it. Do not add an unprepared activity or extend the native period.
 
-- "Let's celebrate all we've learned and done together!"
+## If things go wrong / indoor alternative
 
-### Memory Lane (8 min)
-**Journey through the year:**
-If available, show photo slideshow of projects and activities.
+Missing records: make a fresh observation sketch and revised version today; label fresh and assess revision, not annual growth.
 
-**Memory sharing prompts:**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- "What was your FAVORITE STREAM activity this year?"
+## Family copy - optional, no routine homework
 
-- "What was the HARDEST thing you learned?"
+We shared specific evidence of learning, revised explanations and interpreted a preference graph honestly. Ask: "Which record supports what you said?" Optional: ask your child to describe a record that supports a learning claim. No purchase, donation, device, home teaching or required take-home project.
 
-- "What are you most PROUD of?"
+## Sources and claim boundaries
 
-- "What SAINT do you remember most?"
-
-**Popcorn sharing:** Students share one memory each.
-
-### Celebration Stations (12 min)
-**Quick visits to 4 mini-stations (3 min each):**
-
-**Station 1: Design Evidence**
-
-- Review a saved bridge/robot-route design; any robot replay is supervised and optional, not free play or an automatic mastery claim.
-
-- "Show a saved bridge/design: what was its criterion, what did the test show, and what changed?" Children may point/draw/tell; communicate actual design evidence rather than a mastery badge.
-
-**Station 2: Building Challenge**
-
-- 3-minute KEVA tower challenge
-
-- Beat your personal best!
-
-**Station 3: Memory Art**
-
-- Draw your favorite STREAM memory
-
-- Add to class memory collage
-
-**Station 4: Faith Favorites**
-
-- Which saint was your favorite?
-
-- Write a thank-you prayer
-
-### Recognition & Certificates (4 min)
-**Celebrate achievements:**
-
-- Distribute year-end STREAM certificates
-
-- Recognize growth and effort
-
-- Celebrate the whole class community
-
-### Closing Circle (2 min)
-**Final gratitude:**
-Each student completes: "I'm thankful for..."
-
-**Faith Connection:** "God gave each of you amazing gifts — curiosity, creativity, kindness, and perseverance. You've grown so much this year! Keep exploring God's amazing world and using your gifts to serve others."
-
-**Final Prayer:** "Loving God, thank You for this incredible year! Thank You for:
-
-- Curious minds that asked great questions
-
-- Creative hands that built and coded and created
-
-- Kind hearts that helped and shared
-
-- Our wonderful STREAM community
-
-Bless us over the summer. Help us keep learning and growing. Bring us back safe and ready for another great year. We give You all the glory for the great things we've done together. Amen!"
-
----
-
-## ✅ Assessment
-
-- Participated in celebration activities
-
-- Shared a favorite memory or learning
-
-- Expressed gratitude
-
----
-
-## Technology / SAFETY / assessment limit
-**Recommended primary path:** supervised robot replay if kits are available; replace with paper-token prediction without crediting physical robot mastery. Towers below 30 cm, no heavy loads, real candles, balloons or food treats; photos require school permissions. Reserve 3 station minutes for cleanup. Each child may show one saved test/change orally or by drawing; memories and certificates alone are not all-domain mastery.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We celebrated our STREAM year today! Ask your child: 'What was your favorite thing you learned?' 'What are you most proud of?' 'What do you want to learn next?' 
-
-Thank you for your partnership this year! Continue exploring STREAM at home over the summer:
-
-- Build with blocks and household items
-
-- Observe nature and ask questions
-
-- Code with free apps like ScratchJr
-
-- Create art and make things together
-
-- Most importantly — wonder at God's amazing creation!
-
-Have a blessed summer! 🌟"
-
----
-
-## 🏆 Year-End Certificate Text
-
-**STREAM Achievement Certificate**
-
-*This certifies that*
-
-**[Student Name]**
-
-*has successfully completed a year of C-STREAM learning in Grades 1-2!*
-
-*This student participated in opportunities to explore the following areas. Report individual demonstrated skills only when supported by saved evidence:*
-
-- ✝️ Faith Integration
-
-- 🔬 Scientific Inquiry
-
-- 💻 Technology & Coding
-
-- 🏗️ Engineering Design
-
-- 🎨 Creative Expression
-
-- ➕ Mathematical Thinking
-
-*Optional Scripture reference: Ephesians 2:10; verify/read from the school's approved Bible.*
-
-*Congratulations on a wonderful year!*
-
----
-
-**Lesson Version:** 1.0 | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

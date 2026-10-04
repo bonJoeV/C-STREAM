@@ -1,214 +1,111 @@
 ---
-title: "Week 11: Thanksgiving Coding"
-description: "Grades 1-2 Year B gratitude-themed ScratchJr projects"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - coding
-  - animals
-  - thanksgiving
-  - arts
+title: "Thanksgiving Coding"
+description: "An animation can communicate thanks while protecting personal information."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-T1, CST-T2, CST-A3, CST-T3]
+technology: Required
+meetings: 1
+minutes: 30
 ---
 
-# 🦃 Week 11: Thanksgiving Coding
+# Thanksgiving Coding
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | T (Technology), R (Religion), A (Arts) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Coding |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | T, A / An animation can communicate thanks while protecting personal information. |
+| Student objective / why | "I can run two character scripts, change an order and share safely." Year B extends the single-character task with two outputs and a privacy decision. |
+| Catholic connection | Communicate gratitude respectfully and protect people from unwanted personal sharing; thanks is a classroom connection, not a stand-alone mastery measure. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-T1: tool use, input/output and troubleshooting; CST-T2: algorithms and debugging; CST-A3: artistic communication, critique and revision; CST-T3: data, privacy and responsible communication. Only the evidence below supports these local claims. |
+| Technology requirement | **Required**. Actual local ScratchJr execution is required for the app objective; paper scripts are not device mastery. |
+| Difficulty / prep / cleanup | Guided; Moderate, 20-25 minutes first setup; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 11: Thanksgiving Coding
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Test Home > New (+), add two characters, select each character and connect its Green Flag/motion/End script. Prepare a safe fictional helper scene; no names/photos/voice recording. Verify Wait control in the installed version.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **character / predicted order / actual output and safe-sharing choice**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Create a ScratchJr project with multiple characters
-2. Use speech bubbles to express ideas
-3. Sequence events in a simple animation
-4. Add backgrounds and personalize projects
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude through digital creation
-2. Identify things they're thankful for
-3. Connect gratitude to prayer
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Compatible tablet / kit / items | 4 | 5 | 7 | 9 |
+| Index cards / kit / items | 24 | 30 | 42 | 54 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 11: Thanksgiving Coding
+**ACCESS resource (software, not a physical material):** School-approved offline ScratchJr with two characters, Green Flag trigger, motion, Wait and End blocks.. Use local classroom aliases, not names/photos/voice uploads; disable sharing and purchases. Actual school-approved access and installed controls are checked during preparation, not assumed from this document.
 
-## 🙏 Faith-Reason Integration
+## Vocabulary and teacher background
 
-### Catholic Teaching Connection
-Thanksgiving is a form of prayer; [CCC 2637-2638](https://www.vatican.va/archive/ENG0015/__P99.HTM). Do not present a four-item classroom mnemonic as the Catechism's exhaustive classification.
+Character = programmed figure; script = its stored blocks; privacy = controlling personal information.
 
-### Scripture reference
-Psalm 107:1; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+Each character has its own script; a message cannot be checked by watching only one shared run.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Thérèse of Lisieux** — Found joy in small things and was constantly grateful. Her "Little Way" teaches us to thank God for everyday blessings.
+**Common misconception:** Everyone in a group coded because two characters moved.
 
----
+**If asked:** "Can we publish my photo?" No; this class uses fictional characters and local work only.
 
-## 📚 Materials Needed
+## SAFETY
 
-- iPads with ScratchJr
+Dry table tablets, muted sound, no account creation, purchases, camera use or uploads. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Thankful brainstorm sheets
+## Meeting 1: Two-character thanks - 30 minutes
 
-- Sample project to show
+1. **0-3:** Choose a fictional helper and a visual thank-you message; decide which personal detail must stay private.
+2. **3-7:** Model character 1: flag -> right 2 -> End; character 2: flag -> Wait -> right 1 -> End. Predict which moves first.
+3. **7-20:** Each member has a four-minute tablet turn: select a character, build/run its script, change a motion/Wait order, reset and rerun. Waiting partners trace cards and plan a visual choice.
+4. **20-26:** Each child explains a changed output and privacy choice; partner gives one visual-message comment and author revises. Teacher checks Run and selected-character actions during turns.
+5. **26-30:** Return to Home to retain local project, lock tablets and count block cards. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Thanksgiving-themed stickers (optional)
+## Questions to ask
 
----
+- Which character's script did you change?
+- What information should stay private?
 
-## 📝 Lesson Procedure (30 minutes)
+## Individual evidence and success
 
-### Opening Prayer (2 min)
-"Dear God, thank You! Thank You for families, food, friends, and fun. Thank You for this school and for each other. Help us create projects today that show our gratitude. Amen."
+**Grade 1:** Select a character, Run its stored script and identify a changed action; reject sharing a name/photo.
 
-### Introduction: Gratitude Coding (5 min)
-**What are you thankful for?**
+**Grade 2:** Explain the two-script order, rerun a changed block and justify a specific privacy/message revision.
 
-- Quick brainstorm: family, pets, food, home, friends, toys, nature
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Thanksgiving feelings are not scored as a Catholic standard.
 
-- "St. Thérèse was thankful for even SMALL things"
+## Support and challenge
 
-- The specific attributed "flowers" saying is unverified; omit it. Children can express their own gratitude without an attributed quote.
+**Support / nonreader access:** Starter scripts with one missing block, large character icons and spoken messages. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-**Today's project:**
+**Challenge:** Predict whether the second character's Wait changes the first character's script, then test. Do not add an unprepared activity or extend the native period.
 
-- Create a "Thank You" animation
+## If things go wrong / indoor alternative
 
-- Characters will SAY what they're thankful for
+No Wait block: use two different motion counts and assess character/output, not timing. No app: use two paper story panels and cards; mark app operation unassessed.
 
-- Make it colorful and joyful!
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Show sample project:**
+## Family copy - optional, no routine homework
 
-- Character with speech bubble
+We executed and revised two-character thank-you animations and practiced safe local sharing. Ask: "Which character's script did you change?" Optional: tell a two-character story with no personal details. No purchase, donation, device, home teaching or required take-home project.
 
-- "I'm thankful for my family!"
+## Sources and claim boundaries
 
-- Another character appears
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.
 
-- "I'm thankful for my dog!"
-
-### Planning (3 min)
-**Think about YOUR project:**
-1. What are 2-3 things you're thankful for?
-2. What characters will say these things?
-3. What background fits?
-
-**Quick sketch:**
-
-- Draw your thankful things
-
-- Note which character says which thing
-
-### ScratchJr Creation (17 min)
-**Step-by-step guidance:**
-
-**Step 1: Choose background**
-
-- Find a thankful scene
-
-- Home, nature, table scene
-
-**Step 2: Add character**
-
-- Choose a person, animal, or object
-
-- Place on screen
-
-**Step 3: Add speech**
-
-- Find speech bubble block
-
-- Type "I'm thankful for ___________!"
-
-- Add wait time
-
-**Step 4: Add more!**
-
-- Another character?
-
-- Another thankful thing?
-
-- Movement or animation?
-
-**Stretch challenges:**
-
-- Character moves across screen
-
-- Two characters have a conversation
-
-- Add sound effects
-
-- Multiple scenes
-
-**Teacher circulates:**
-
-- Help with technical issues
-
-- Ask "What are you thankful for?"
-
-- Encourage creativity
-
-### Sharing (3 min)
-**Quick gallery walk or partner share:**
-
-- Show your neighbor your project
-
-- Tell them what you're thankful for
-
-**Celebration:**
-
-- "You coded your GRATITUDE!"
-
-- "You can share this with your family"
-
-### Closing (2 min)
-**St. Thérèse connection:**
-
-- "She found joy in tiny blessings"
-
-- "What 'small thing' are you thankful for?"
-
-- "Gratitude is a kind of PRAYER!"
-
-**Closing Prayer:**
-"Thank You, God, for EVERYTHING — big and small. Thank You for the creativity to make projects that share our gratitude. Help us be thankful people every day, not just at Thanksgiving. Amen."
-
----
-
-## Technology / nonreader / privacy
-**Required primary path:** school-approved ScratchJr tablets for executed code. Grade 1 dictates or records a short message instead of typing; demonstrate green-flag plus two ordered actions. Grade 2 changes one action and explains output. No devices: paper panels and oral sequence/debug; no app-operation/executed-program mastery claim. Do not upload names/photos/voices outside approved storage. Use final 3 creation minutes for save/return/cleanup. Optional home discussion needs no tablet.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We created gratitude animations in ScratchJr! Ask your child to show you their project. Ask: 'What are you thankful for?' We learned that gratitude is a form of prayer. At dinner this week, go around and share something each person is thankful for."
-
----
-
-## ✅ Assessment
-
-- Created ScratchJr project with character(s)
-
-- Used speech bubbles to express gratitude
-
-- Identified multiple things to be thankful for
-
-- Connected gratitude to prayer
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+Retained original source pointers (not additional required claims):
+- [Source pointer 1](https://www.vatican.va/archive/ENG0015/__P99.HTM)

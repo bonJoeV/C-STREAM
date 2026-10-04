@@ -1,404 +1,159 @@
 ---
 title: "Weeks 19-22: Passion Project Labs"
-description: "Grades 5-6 independent research and creation"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - lent
-  - service
-  - arts
+description: "Bounded student choice with four complete meetings and independent test evidence"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🚀 Weeks 19-22: Passion Project Labs
+# Weeks 19-22: Passion Project Labs
 
-## Unit Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 4 sessions (45 min each) |
-| **STREAM Focus** | Student-directed |
-
----
-
-# Weeks 19-22: Passion Project Labs
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Design and manage an independent project
-2. Conduct research and apply findings
-3. Create meaningful output (product, program, presentation)
-4. Present and defend their work
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect personal interests to serving others
-2. Identify faith connections within their topic
-3. Practice stewardship of God-given talents and interests
-
----
-
-# Weeks 19-22: Passion Project Labs
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Stewardship of Talents** — God gives each person unique gifts, interests, and abilities. We're called to develop these fully and use them for good. Passion projects allow students to pursue God-given interests deeply.
-
-### Scripture Connection
-> "Whatever you do, work at it with all your heart, as working for the Lord, not for human masters."
-> — Colossians 3:23
-
-### Saint Connection
-**Saint Pier Giorgio Frassati** - canonized September 7, 2025; his joyful service is described in the [canonization homily](https://www.vatican.va/content/leo-xiv/en/homilies/2025/documents/20250907-omelia-frassati-acutis.html). Additional biography: **VERIFICATION REQUIRED**.
-
----
-
-## 📚 Materials Needed
-
-- Project proposal templates
-
-- Research resources
-
-- Building/making materials (varied based on projects)
-
-- Computers for research and creation
-
-- Presentation materials
-
----
-
-# Session 1: Proposal Development
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Introduction (5 min)
-**Prayer:** "Lord, You have given each of us unique interests and gifts. Help us discover what YOU want us to explore. Guide our choices and bless our learning. Amen."
-
-**Passion project introduction:**
-
-- "For the next four weeks, YOU choose what to learn"
-
-- "Deep dive into something that fascinates you"
-
-- "Must include STREAM elements"
-
-- "Must connect to faith"
-
-- "Must produce something shareable"
-
-### Project Categories & Examples (10 min)
-**Categories:**
-
-**Engineering/Building:**
-
-- Design and build a robot
-
-- Create a kinetic sculpture
-
-- Engineer a solution to a problem
-
-**Programming/Technology:**
-
-- Code a game or app
-
-- Build an interactive website
-
-- Create animations or digital art
-
-**Science Research:**
-
-- Investigate a scientific question
-
-- Conduct experiments
-
-- Research and present findings
-
-**Making/Art:**
-
-- Design and fabricate an invention
-
-- Create artistic work with technical elements
-
-- Build musical instruments
-
-**Service Design:**
-
-- Design something that helps others
-
-- Create resources for a cause
-
-- Build accessibility tools
-
-**Faith connection requirement:**
-
-- How does your topic connect to faith?
-
-- Historical Catholic connection?
-
-- Service/ethical dimension?
-
-- Theological reflection?
-
-### Proposal Development (25 min)
-**Proposal requirements:**
-
-**1. Project Description (What?)**
-
-- What will you create or investigate?
-
-- Why does this interest you?
-
-- What will your final product be?
-
-**2. STREAM Connection (How?)**
-
-- Which STREAM areas does this involve?
-
-- What skills will you develop?
-
-- What will you learn?
-
-**3. Faith Connection (Why does it matter?)**
-
-- How does this connect to Catholic faith?
-
-- How might this serve others?
-
-- What values does this project express?
-
-**4. Plan & Timeline**
-
-- Week 2 goal:
-
-- Week 3 goal:
-
-- Week 4 goal (presentation):
-
-**5. Resources Needed**
-
-- Materials needed
-
-- Help needed
-
-- Research sources
-
-**Teacher conferences during work time:**
-
-- Review proposals
-
-- Provide guidance
-
-- Approve projects
-
-### Closing (5 min)
-**Proposal share:**
-
-- Brief share of project ideas
-
-- Generate excitement
-
-- Identify potential collaborators
-
-**No routine homework:** Finalize a bounded proposal in class. School supplies materials; family purchases/donations are never prerequisites.
-
----
-
-# Session 2: Research & Development
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Status Check (5 min)
-**Prayer:** "Lord, bless our work today. Help us focus, persevere, and create something meaningful. Amen."
-
-**Quick status:**
-
-- Where are you in your plan?
-
-- What do you need today?
-
-- Any obstacles?
-
-### Research Phase (15 min)
-**Quality research:**
-
-- Multiple sources
-
-- Credible sources (how to evaluate)
-
-- Take organized notes
-
-- Record citations
-
-**Teacher available for:**
-
-- Research guidance
-
-- Source evaluation
-
-- Direction when stuck
-
-### Development/Creation Phase (20 min)
-**Active work time:**
-
-- Building
-
-- Programming
-
-- Creating
-
-- Experimenting
-
-**Teacher circulates:**
-
-- Check progress
-
-- Troubleshoot
-
-- Encourage
-
-- Document work
-
-### Progress Documentation (5 min)
-**Update project log:**
-
-- What did you accomplish today?
-
-- What challenges did you face?
-
-- What's your plan for next session?
-
----
-
-# Session 3: Creation & Refinement
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer & Status (3 min)
-**Prayer:** "Lord, help us refine our work today. Give us attention to detail and commitment to excellence. Amen."
-
-### Extended Work Time (35 min)
-**Focused creation time:**
-
-- Continue building/creating
-
-- Refine and improve
-
-- Test and iterate
-
-- Prepare presentation elements
-
-**Mid-session check (brief):**
-
-- How are you progressing?
-
-- What will you present?
-
-- What help do you need?
-
-### Presentation Preparation (7 min)
-**Presentation requirements:**
-
-- 4-5 minutes presentation
-
-- Show your work/product
-
-- Explain your process
-
-- Discuss faith connection
-
-- What you learned
-
-- What you'd do differently
-
-**Plan your presentation structure.**
-
----
-
-# Session 4: Presentations & Celebration
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-**Prayer:** "Lord, thank You for these weeks of learning. Help us present well and learn from each other. May we celebrate the gifts You've given each person. Amen."
-
-### Presentations (35 min)
-**Format:** At 10/15/20/25 students, use paired portfolio exchanges: each student has 3 minutes to present plus 1 minute for a question, then switch. Teacher samples technical demonstrations using the individual logs; do not promise 25 plenary talks in 35 minutes.
-
-**Presentation elements:**
-1. What did you create/investigate?
-2. Show/demonstrate your work
-3. What did you learn?
-4. How does this connect to faith?
-5. What would you do next?
-
-**Audience:**
-
-- Active listening
-
-- One positive comment
-
-- One thoughtful question
-
-### Celebration & Reflection (8 min)
-**Celebrate:**
-
-- Recognize achievements
-
-- Appreciate diversity of interests
-
-- Acknowledge growth and effort
-
-**Reflection questions:**
-
-- What surprised you about this process?
-
-- What did you learn about yourself?
-
-- How might you continue this interest?
-
-**Faith Connection:** Saint Pier Giorgio Frassati's service invites students to consider how their interests can serve others; use the verified canonization homily rather than unsourced details about studies or hobbies.
-
-**Closing Prayer:** "Thank You, God, for the unique gifts and interests You've given each of us. Thank You for these weeks to explore them. Help us continue developing our talents and using them for Your glory and others' good. Amen."
-
----
-
-## ✅ Assessment
-
-**Individual local check (not official):** CST-E1 - proposal criterion/constraint; CST-E2 - original test, revision, and retest; CST-E3 - supported conclusion and limit; CST-C3 - resource-use decision. Each student's dated log must contain all four; a finished group product is insufficient. Official benchmarks **VERIFICATION REQUIRED**. Teacher approves only safe classroom materials; no unsupervised bodily, medical, electrical, or chemical projects.
-
-### Project Assessment
-
-- Clear proposal with STREAM and faith connections
-
-- Consistent work across sessions
-
-- Quality final product/presentation
-
-- Reflection on learning
-
-### Presentation Assessment
-
-- Clear explanation of project
-
-- Demonstrated learning
-
-- Articulated faith connection
-
-- Responded to questions
-
----
-
-## 📎 Home Connection
-> "We completed passion projects! Each student chose a topic and created something meaningful over four weeks. Ask your child: 'What was your project?' 'Show me what you created!' 'What did you learn?' 'How did it connect to faith?' Encourage them to continue pursuing their interests — they're gifts from God!"
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+| Grade / schedule / rotation / unit | 5-6 / Weekly / A / Capstone |
+| Time | 4 meetings of 45 minutes; 180 total |
+| Objective / why / big idea | I can propose, test, revise and defend a chosen project with dated individual evidence. Choice works when scope and criteria are realistic. |
+| Domains / Catholic connection | E, C; chosen science/music/computing pathways retain genuine disciplinary work. Use talents responsibly for others, without compulsory biography or devotional disclosure. |
+| Local standards | CST-E1: proposal; CST-E2: test/retest; CST-E3: defense; CST-C3: resources. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | Recommended; only coding choice requires working Scratch for actual execution. Other paths are fully low-tech. |
+| Difficulty / entry | Developing; no assumed platform mastery, teach chosen test and units. |
+| Prep / cleanup | Moderate: first 30 min, repeat 15 min; device approval/setup extra before unit; cleanup 4 min/meeting. Kit: Choice Lab. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact. Seat teams of at most three, but each pupil
+owns proposal/log/defense. Supply all three bounded choices below; students may
+choose interests within one, not introduce unreviewed hazards or home sourcing.
+Adult pilots six-roll setup and silent rhythm-reader test. Teacher/IT pretests
+Scratch if offered; if unavailable choose another path or explicitly log
+paper algorithm shift. No personal/shared accounts, cloud publication or research
+search required. Do not promise approval for a fourth unplanned project.
+
+| Item | Allocation for unit maximum | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Paper dated logs; pencil | 4 sheets and 1 pencil/student | 40;10 | 60;15 | 80;20 | 100;25 |
+| Cardstock; cardboard | 2 sheets each/team | 8 | 10 | 14 | 18 |
+| Ruler; marker; blunt scissors; tray | 1 each/team | 4 | 5 | 7 | 9 |
+| Large soft ball; low cardboard ramp | 1 each/science team, maximum | 4 | 5 | 7 | 9 |
+| Stable books | 2/science team, maximum | 8 | 10 | 14 | 18 |
+| Masking tape | 1 m/team/unit | 4 m | 5 m | 7 m | 9 m |
+| Computer with tested Scratch, simultaneous coding choice | 1/coding team, maximum | 4 | 5 | 7 | 9 |
+| Computer with tested Scratch, shared coding choice instead | 3/class alternative | 3 | 3 | 3 | 3 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+These are maximum stock for all teams choosing a route; not three simultaneous
+kit purchases. Paper/tape consumable; tools reusable. No electrical build.
+
+### Shared coding-choice kit and turn plan
+
+Choose one computer allocation, not both; if at most three coding teams have
+one approved setup each, use their ordinary work time. For more coding teams
+and three working approved setups, teacher preloads the exact score starter
+below and fresh turn copies. Keep 4/5/7/9 balanced teams <=3: two trios/two
+pairs, five trios, six trios/one pair, seven trios/two pairs. Number coding
+teams separately; in meetings 2 and 3, coding teams 1-3 use **11-19**,
+4-6 **19-27**, 7-9 **27-35**. Each pupil has up to two minutes to personally
+edit/run and record; two minutes/team cover reset/checking.
+Meeting 2: run the correct 0/1/2/3/3 trace, change the guard to <4 on a
+labelled bug copy and record 0/1/2/3/4. Meeting 3: restore <3, rerun the same
+four clicks and justify the correction. Waiting coders complete dated
+predictions/trace/resource logs; science/music teams continue their own
+complete pathways. Pretest actual access/turn timing; observing a partner
+does not prove operation. One/two setups serve that many coding teams/window;
+record remaining runtime NE and book a supervised check rather than enlarge
+groups or rush access. This route edits a provided reference, not an
+independently built game from blank. No setup/stock or family device is assumed.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Proposal:** bounded plan. **Criterion/constraint:** success/limit.
+**Iteration:** evidence-based change. **Limitation:** what is untested.
+**Common misconception:** passion means unlimited scope.
+**If asked, "Must it succeed?"** Honest evidence and justified revision count,
+not a fabricated success. The important concept is a repeatable chosen test.
+
+### Complete choices, starters and worked checks
+
+- **Science:** compare soft-ball stopping distance at 3/6 cm ramp heights in
+  long tray, three trials each, same ball/release/ramp/surface; no push.
+  Criterion: six valid distances with units; constraint: height under 15 cm.
+  Fictional worked means 12/14/13 -> 13 cm, 19/21/20 -> 20 cm; difference 7 cm.
+  Improve release mark or measurement method, not demand a desired result.
+- **Music/art:** compose two four-beat bars using quarter note = 1 beat,
+  two eighths = 1 beat, quarter rest = 1 beat. Starter bar: quarter, two
+  eighths, quarter, rest = 4. Student chooses a contrasting second bar;
+  peer taps/claps quietly at teacher's steady beat. Criterion: both bars
+  total 4 and a reader identifies intended repeated/contrasting motif.
+  Revise notation/spacing after reader feedback; no sound-level/therapy claims.
+- **Coding:** one sprite, variable `score`. Green flag: set score 0, say
+  "Click to count, limit 3". Sprite-click: if score < 3, change score by 1;
+  then say score. Four clicks -> 1/2/3/3; green flag -> 0.
+  Criterion: correct boundary/reset with clear instructions. Each student
+  assembles/runs a change on working editor; one bug `<4` -> `<3`, retest.
+  Paper operator/score cards teach algorithm only, not executable programming.
+
+## EXACT LESSON SEQUENCE
+
+### Meeting 1: proposal and entry test
+1. **0-4 (4 min):** Introduce responsible choice and service/resource purpose.
+2. **4-11 (7 min):** Demonstrate three starters; students choose one, not every route.
+3. **11-24 (13 min):** Each drafts question/user, criterion, constraint, materials, three milestones and prediction.
+4. **24-35 (11 min):** Try route entry task: ruler reading, four-beat count or score trace. Teacher conferences approve bounded scope; missing skills taught now.
+5. **35-41 (6 min):** Individual proposal with checked math and safe plan; collect approval record.
+6. **41-45 (4 min):** Store proposals/kit, no home research assignment.
+
+### Meeting 2: create and baseline test
+1. **0-4 (4 min):** Retrieve approved criterion and current question.
+2. **4-11 (7 min):** Model chosen data/reader/runtime log: expected, actual, date, route.
+3. **11-24 (13 min):** Create bounded setup/composition/code; every pupil performs a technical turn. Shared coders begin the stated waves; others keep their own route's practice/logs.
+4. **24-35 (11 min):** Run complete chosen baseline test; finish shared coding waves and record correct/labelled-bug outputs separately from other raw results, invalid trials or unclear notation.
+5. **35-41 (6 min):** Each names result/limitation and proposed change; no group-only log.
+6. **41-45 (4 min):** Save code locally if approved, store models/records and count tools.
+
+### Meeting 3: revision and retest
+1. **0-4 (4 min):** Identify baseline difficulty using actual record.
+2. **4-11 (7 min):** Explain changing one feature and retaining original evidence.
+3. **11-24 (13 min):** Each proposes revision; team executes one justified change. Shared coders begin the stated correction/retest waves.
+4. **24-35 (11 min):** Repeat same chosen test with rotated roles; finish shared coding waves and compare results without promising improvement.
+5. **35-41 (6 min):** Individual before/after evidence and material/time tradeoff; draft caption.
+6. **41-45 (4 min):** Save both versions, store kit and tidy.
+
+### Meeting 4: defense and next questions
+1. **0-4 (4 min):** State evidence, not "completed research" or universal mastery.
+2. **4-11 (7 min):** Model 90-second defense: purpose/test/change/result/limit.
+3. **11-24 (13 min):** Each prepares one artifact and dated results; finishes missing arithmetic, not new features.
+4. **24-35 (11 min):** Paired exchanges, 90 seconds each plus one question; trios fit. Teacher samples evidence while all submit individual explanations.
+5. **35-41 (6 min):** Each defends decision, resource choice and next validation need; separate paper/device evidence.
+6. **41-45 (4 min):** Return kits, save logs, celebrate specific work without achievement guarantees.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"What did your test actually check? What changed? What would the next trial
+need?" Each has four dated logs: approved criterion/constraint, baseline,
+revision/retest, supported defense/limit and resource choice.
+1 unsupported; 2 prompted; 3 independent; 4 justified tradeoff/next test;
+NE for unobserved work. Artistic polish is not the music test.
+
+## IF THINGS GO WRONG / SAFETY
+
+Science ball reaches wall -> reduce both heights/retest, do not label collision
+as stopping distance. Rhythm unclear -> clap slowly, show rests, allow silent
+pointing. Code fails -> check event/reset/guard; no random feature additions.
+Unavailable route kit -> choose another complete route at start and record
+objective shift. No medical, bodily, chemical, projectile, unprotected battery,
+food, mains or unsupervised web projects; report/isolate unsafe condition.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: starter/template, oral/scribed log, tactile beat tokens.
+Grade 6/challenge: quantify uncertainty or compare two motif/interface decisions
+and resource costs. All paths indoors; no family device/material requirement.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Count tools, save raw/revised evidence and actual route, report unresolved checks.
+**Explored:** chosen science/music/coding question. **Did:** proposal, test,
+revision and defense. **Learned:** scope/evidence matter. **Catholic connection:**
+talents used responsibly. **Ask:** "Which result changed your decision?"
+No routine homework or unsupported claim of real-world benefit.

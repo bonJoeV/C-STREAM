@@ -1,195 +1,111 @@
 ---
-title: "Session 09: Catholic Inventors"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A Catholic Schools Week"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - coding
-  - engineering
-  - life-science
-  - earth-science
-  - catholic-schools-week
-  - arts
+title: "Catholic Inventors"
+description: "Evidence-based inquiry can take place in a faith community."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-M2, CST-A3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Catholic Inventors
 
-# Session 09: Catholic Inventors ⛪
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 9 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Faith and reason |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, S, M, A / Evidence-based inquiry can take place in a faith community. |
+| Student objective / why | "I can count observations and communicate a clear inquiry panel." A brief source-checked historical context leads to hands-on evidence, not biography memorization. |
+| Catholic connection | Mendel's pea investigations at an Augustinian abbey give a historical faith-community context; our task reports its own limited data honestly. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S1: observations, questions and evidence; CST-M2: represent and interpret data/patterns; CST-A3: artistic communication, critique and revision. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students celebrate Catholic Schools Week by learning about Catholic scientists and inventors who changed the world while serving God.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Read the Mendel card in [verified Catholic scientific heritage](../../../Resources/Catholic_Scientists_Heritage.md#gregor-johann-mendel-observation-and-inquiry); its original read-aloud is supplied below for an offline substitute. Use it inside the existing 0-3-minute hook, not as an extra biography lesson. Prepare six labeled DRAWN MODEL cards with three of each leaf-shape icon; these are classroom practice data, not Mendel's plants or experimental records. No pupil web research is required.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **visible grouping rule / category counts / what data cannot show**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 09: Catholic Inventors
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Learn about Catholic scientists and inventors
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Teacher-drawn plant feature card / kit / 3 with round leaf icon; 3 with pointed leaf icon | 24 | 30 | 42 | 54 |
 
-- Understand that faith and science work together
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Celebrate being in a Catholic school
+## Vocabulary and teacher background
 
-- Create a project honoring Catholic scientists
+Investigate = check a question; data = records; category = group with a rule.
 
----
+The museum documents Mendel's Augustinian membership/abbot role and pea experiments. It does not establish his private motives or imply that our classroom repeats his research method. Our six invented model cards teach visible grouping/counting; they cannot demonstrate inheritance laws.
 
-# Session 09: Catholic Inventors
+**Original teacher read-aloud, not a quotation by Mendel:**
+> "Mendel belonged to a Catholic religious community. He also studied pea plants. His museum preserves evidence of that scientific work. A person can have a religious vocation and also investigate nature."
 
-## Materials Needed
+Reused from the original [Mendel heritage card](../../../Resources/Catholic_Scientists_Heritage.md#gregor-johann-mendel-observation-and-inquiry), with its [institutional museum source](https://mendelmuseum.muni.cz/en/about-the-museum/mendel-museum). Ask which records would help compare plants honestly, then use the children's own labeled model graph. Biography recall alone does not earn inquiry or mathematics credit.
 
-- 📸 Pictures of Catholic scientists
+**Common misconception:** Six classroom drawings prove Mendel's discoveries or prove religion.
 
-- 📄 Short biographies (age-appropriate)
+**If asked:** "Are these Mendel's real plants?" No; they are our labeled practice models.
 
-- 🎨 Art supplies for poster/project
+## SAFETY
 
-- 📓 Engineering journals
+No seeds/plants tasted, live collection, web accounts or independent online research. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📋 "My Catholic School" activity sheet
+## Meeting 1: Faith-community inquiry - 30 minutes
 
----
+1. **0-3:** Read the short heritage text above. Ask "What records would help someone compare plants honestly?" Distinguish its historical facts from today's observations of DRAWN MODEL cards.
+2. **3-7:** Model sorting one card by a visible shape and making one mark per card, not by a desired result.
+3. **7-20:** Each child takes a turn sorting/counting the six cards, creates a two-category object/picture graph and draws an inquiry panel. Partner asks a clarity question; author revises.
+4. **20-26:** Each child interprets the 3/3 counts, reports the visible grouping rule and explains that the class graph is its own model evidence, not Mendel's records or proof of inheritance. Connect honest labels to inquiry rather than quiz biography names.
+5. **26-30:** Count six cards per kit and save individual graphs/panels. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-## Catholic Integration
+## Questions to ask
 
-### Scientist connection - VERIFICATION REQUIRED before teaching biographies
-**Multiple Catholic Scientists:**
+- What can our six model cards actually show?
+- How did you decide the grouping rule?
+- Which statement came from the museum source, and what did our cards actually show?
 
-- **Gregor Mendel** — Monk who discovered genetics
+## Individual evidence and success
 
-- **Louis Pasteur** — Studied microorganisms and heating processes; specific religious-affiliation claims are unverified and omitted.
+**Grade 1:** Sort by visible feature, count both groups and explain the panel.
 
-- **Fr. Georges Lemaître** — Priest who proposed the Big Bang theory
+**Grade 2:** Interpret the equal counts, revise a clear data message and distinguish source-checked history from model data.
 
-### Scripture reference
-Psalm 19:1; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear God, thank you for our Catholic school where we learn about you AND about your world. Thank you for Catholic scientists who loved you and loved learning. Help us follow their example. Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Two tactile/high-contrast shape icons and oral captions. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Propose another grouping rule and explain why its count does not change historical conclusions. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (6 minutes)
-1. **Catholic Schools Week!** — "We're celebrating our school!"
-2. **Faith + Science** — "At Catholic schools, we learn that God made science!"
-3. **Catholic Scientists** — Introduce heroes:
-   - **Gregor Mendel:** Monk who grew pea plants and discovered how traits pass from parents to children (genetics)
-   - **Louis Pasteur:** Heating can reduce harmful microorganisms; pasteurization does not make every milk sample automatically safe and is not a classroom milk experiment.
-   - **Fr. Georges Lemaître:** Priest who figured out the universe is expanding (Big Bang)
-4. **Key Message** — "Loving God and loving science go together!"
+## If things go wrong / indoor alternative
 
-### Main Activity: Catholic Scientist Celebration (18 minutes)
+Cards unavailable: draw the six labeled practice icons on allocated paper. Do not substitute unsourced scientist details or invent historical experimental numbers.
 
-**Part 1: Meet a Scientist (6 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Focus on ONE scientist in depth (Gregor Mendel recommended for 1-2)
+## Family copy - optional, no routine homework
 
-- "Brother Mendel was a monk—he prayed every day"
+We learned a brief abbey-based inquiry context, then counted and communicated our own clearly labeled practice data. Ask: "What can our six model cards actually show?" Optional: sort two familiar kinds of pictured objects orally. No purchase, donation, device, home teaching or required take-home project.
 
-- "He was curious about God's creation"
+## Sources and claim boundaries
 
-- "He grew thousands of pea plants!"
-
-- "He discovered that children look like their parents because of tiny instructions (genes)"
-
-- Discussion: "What made him a good scientist AND a good Catholic?"
-
-**Part 2: Create a Tribute (10 minutes)**
-
-- **Option A: Scientist Poster**
-  - Draw the scientist
-  - Write one fact
-  - Add: "Catholic Scientist!"
-  
-
-- **Option B: Pea Plant Activity** (Mendel connection)
-  - Sort items by traits (like Mendel did)
-  - Big/small, green/yellow
-  - Connect to Mendel's work
-
-
-- **Option C: Thank You to Teachers**
-  - Create cards for school teachers
-  - "Thank you for teaching us about God and science!"
-
-**Part 3: Share (2 minutes)**
-
-- Show creations
-
-- Say one thing learned about Catholic scientists
-
-### Engineering Journal (4 minutes)
-1. Draw your favorite Catholic scientist
-2. Write: "I learned that..."
-3. Write: "I'm thankful for my Catholic school because..."
-
-### Closing Circle (2 minutes)
-1. **School Pride** — "What's special about our Catholic school?"
-2. **Future Scientists** — "You can be a Catholic scientist too!"
-3. **Closing Prayer** — *"Thank you, God, for faith and science together. Thank you for our Catholic school. Help us love learning and love you. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Learned about at least one Catholic scientist
-
-- [ ] Understood faith-science connection
-
-- [ ] Participated in celebration activity
-
-- [ ] Expressed gratitude for Catholic school
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one scientist's story
-
-- Simple drawing activity
-
-- Work alongside teacher or buddy
-
-### For Advanced Students
-
-- Research additional scientists
-
-- Write a short report
-
-- Present to the class
-
----
-
-## Source gate / low-tech evidence
-If verified biographies are unavailable, replace the six-minute scientist story with sorting large paper pea-picture cards by two visible traits. Grade 1 names a grouping rule orally; Grade 2 separates an observed trait from an untested inheritance explanation. Do not infer genetic rules from color-sorting crafts. **Technology: None primary path.** Teacher checks safe large supplies, no food/tasting; last 3 tribute minutes are cleanup. Additional Church/history claims require approved sources; no routine homework.
-
-## Wonder at Home 🏠 (optional; discuss the class observations without internet)
-**Optional family activity:** Ask what students observed or learned from a teacher-verified biography. No research device or purchase is needed; do not assign unverified religious affiliations.
-
----
-
-## Teacher Notes
-
-- Coordinate with school-wide Catholic Schools Week activities
-
-- Consider inviting a scientist from the parish
-
-- Display student work in hallway
-
-- See Resources/Catholic_Scientists_Heritage.md for more scientists
-
----
-
-**Previous:** [Session 08 — Coding Basics](./Session08_Coding_Basics.md)  
-**Next:** [Session 10 — Weather Watchers](./Session10_Weather_Watchers.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. The original teacher text comes from [verified heritage cards](../../../Resources/Catholic_Scientists_Heritage.md), not a historical personal quotation. The [Masaryk University museum record](https://mendelmuseum.muni.cz/en/about-the-museum/mendel-museum) was readable on 2026-10-04 and verifies the bounded role/experiment facts; the [original museum pointer](https://mendelmuseum.muni.cz/en) is retained. No discovery-priority claim, experimental quantity or personal-faith motivation is supplied.

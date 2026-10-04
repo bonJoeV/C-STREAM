@@ -1,179 +1,106 @@
 ---
-title: "Session 01: Wonder Engineers"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A introduction"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - engineering
-  - service
-  - arts
+title: "Wonder Engineers"
+description: "A first engineering question names a need and a test."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-E1, CST-E2, CST-M1]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Wonder Engineers
 
-# Session 01: Wonder Engineers 🔧
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 1 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Structures |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, E, M / A first engineering question names a need and a test. |
+| Student objective / why | "I can build a low structure that stands and explain a changed support." New pupils can enter either rotation with concrete design routines. |
+| Catholic connection | Share blocks fairly, save reusable materials and explain how careful work helps the group. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-E1: needs, criteria and constraints; CST-E2: build, test and redesign; CST-M1: count, compare and measure. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Welcome to C-STREAM! Students discover what engineers do and begin thinking like designers who solve problems to help others.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Inspect planks, mark a 30 cm ceiling and choose a 10-second standing test. Draw ask/plan/try/change icons; do not prepare a tallest-tower contest.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 01: Wonder Engineers
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand that engineers design things to help people
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Wooden building planks / kit / items | 72 | 90 | 126 | 162 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
 
-- Practice the "I wonder..." mindset
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Begin learning the design process
+## Vocabulary and teacher background
 
-- Connect engineering to caring for God's world
+Engineer = designs solutions; criterion = must do; base = bottom support.
 
----
+A low structure can solve a stability problem. Failure identifies a weak part, not a weak child.
 
-# Session 01: Wonder Engineers
+**Common misconception:** An engineer must make the tallest structure.
 
-## Materials Needed
+**If asked:** "What if it falls?" Record that useful result and change a support.
 
-- 📦 KEVA Planks or building blocks
+## SAFETY
 
-- 📋 "Design Process" poster (Ask, Imagine, Plan, Create, Improve)
+Tabletop under 30 cm, hands clear during the standing test, no heavy loads or furniture climbing. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📓 Engineering journals (composition notebooks)
+## Meeting 1: First useful structure - 30 minutes
 
-- 🖍️ Crayons/pencils
+1. **0-3:** State the need: a structure that stands 10 seconds in its tabletop space.
+2. **3-7:** Model a broad base, measure from table level and show a plan -> test -> change record.
+3. **7-20:** Teams use 18 planks to build/test, record height and change one support. Every child adds/directs a part and counts or measures.
+4. **20-26:** Each child explains the need, first/revised result and a reusable-material care action.
+5. **26-30:** Dismantle top-down and count all 18 planks; retain individual records. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 📸 Pictures of things engineers build
+## Questions to ask
 
----
+- Which support did you change after the test?
+- How did we care for shared materials?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Joseph the Worker** — Jesus's foster father was a builder who used his skills to care for his family and community.
+**Grade 1:** Show a standing test, count/compare height and point to a changed support.
 
-### Scripture reference
-Ephesians 2:10; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+**Grade 2:** Name the criterion and limit, compare measured results and explain a test-based change.
 
-### Opening Prayer
-*Dear God, thank you for giving us minds that can solve problems and hands that can build things. Help us be engineers who make the world better for others. Bless our work this year. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Prebuilt base example and large picture steps; accept equal-unit height counting. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (6 minutes)
-1. **Welcome to C-STREAM** — "This year we're going to be ENGINEERS!"
-2. **What is Engineering?** 
-   - "Engineers design and build things to help people"
-   - Show pictures: bridges, buildings, toys, wheelchairs, phones
-3. **Wonder Question** — "What problem would YOU like to solve?"
-4. **Introduce Design Process:**
-   - **Ask** — What's the problem?
-   - **Imagine** — What are ideas?
-   - **Plan** — How will we do it?
-   - **Create** — Build it!
-   - **Improve** — Make it better!
+**Challenge:** Maintain height while using fewer planks and test the tradeoff. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: First Engineering Challenge (18 minutes)
+## If things go wrong / indoor alternative
 
-**Challenge: Build a tower as tall as a pencil!**
+No planks: use equal clean blocks and pretest a feasible low height. Immediate falls: widen base rather than add unsafe weight.
 
-**Part 1: Ask & Imagine (3 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- "Can you build a tower that's this tall?" (show pencil height)
+## Family copy - optional, no routine homework
 
-- "What might we use? What could work?"
+We began engineering with a clear standing test and careful shared-material work. Ask: "Which support did you change after the test?" Optional: notice a stable base in a pictured object. No purchase, donation, device, home teaching or required take-home project.
 
-- Partner brainstorming
+## Sources and claim boundaries
 
-**Part 2: Create (10 minutes)**
-
-- Partners receive KEVA Planks or blocks
-
-- Build towers
-
-- When towers fall: "What did we learn? Let's try again!"
-
-- Test against pencil height
-
-**Part 3: Improve (5 minutes)**
-
-- "How can we make it even taller or stronger?"
-
-- Try improvements
-
-- Celebrate successes AND learning from failures
-
-### Engineering Journal (4 minutes)
-1. Draw your tower design
-2. Circle: Did it work? 😊 or Still working? 🔧
-3. Write/draw one thing you learned
-
-### Closing Circle (2 minutes)
-1. **Share** — One discovery from building
-2. **Preview** — "Next time we'll explore God's amazing patterns!"
-3. **Closing Prayer** — *"Thank you, God, for letting us be builders and problem-solvers. Help us always use our skills to help others. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Participated in building challenge
-
-- [ ] Tried again after failures
-
-- [ ] Worked cooperatively with partner
-
-- [ ] Recorded in engineering journal
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Lower height goal (3 blocks)
-
-- Teacher modeling nearby
-
-- Pre-built base to add to
-
-### For Advanced Students
-
-- Challenge: Build as tall as a book standing up
-
-- Add a "bridge" connecting two towers
-
-- Write about their strategy
-
----
-
-## SAFETY / individual evidence / cleanup
-Tabletop towers below 30 cm, no heavy loads or climbing. Grade 1 points to a base and compares tower/pencil height orally; Grade 2 explains one redesign after the standing test. Replace participation-only credit with each child's demonstration. **Technology: None primary path.** Use final 3 building minutes for plank count/return; no routine homework.
-
-## Wonder at Home 🏠 (optional)
-**Family Activity:** Build towers at home using anything available—blocks, boxes, cans, books. Who can build the tallest tower that stands on its own for 10 seconds?
-
----
-
-## Teacher Notes
-
-- Reserve KEVA Planks from CSCOE library 2 weeks ahead
-
-- Create "Design Process" poster to display all year
-
-- Engineering journals will be used each session
-
-- Establish building/cleanup routines
-
----
-
-**Next Session:** [Session 02 — God's Patterns](./Session02_Gods_Patterns.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

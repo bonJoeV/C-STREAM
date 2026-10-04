@@ -1,261 +1,106 @@
 ---
-title: "Week 34: Year B Showcase"
-description: "Grades 1-2 Year B end-of-year celebration"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - robotics
-  - coding
-  - engineering
-  - light
-  - life-science
-  - astronomy
-  - animals
-  - advent
-  - easter
-  - christmas
-  - service
-  - arts
+title: "Year B Showcase"
+description: "A showcase should communicate a supported claim and its limit."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-A3, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🎉 Week 34: Year B Showcase
+# Year B Showcase
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | All Areas (Celebration) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Reflection |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, A, M / A showcase should communicate a supported claim and its limit. |
+| Student objective / why | "I can compare two records and revise a clear learning explanation." Meaningful evidence is not the same as a memory or award. |
+| Catholic connection | Give honest claims, including missing evidence, and recognize each classmate's contribution. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-A3: artistic communication, critique and revision; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 34: Year B Showcase
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Select comparable dated records where available and draw observe/build/code preference columns. Use a seated partner audience, not unstaffed stations or required visitors.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Reflect on Year B learning journey
-2. Share favorite projects and memories
-3. Demonstrate growth and skills
-4. Celebrate accomplishments
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Express gratitude for learning opportunities
-2. Recognize God's presence throughout the year
-3. Celebrate as faith community
-4. Look forward with hope
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Saved learning artifact / student / items | 20 | 30 | 40 | 50 |
+| Index cards / student / items | 10 | 15 | 20 | 25 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 34: Year B Showcase
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Claim = what is said; evidence = support; limit = what it does not show.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Gratitude and Celebration** — Looking back on a year of learning, we give thanks to God who gave us curious minds and the opportunity to explore His creation.
+Two unlike projects do not prove measured improvement. Favorite-topic counts describe preferences, not achievement.
 
-### Scripture reference
-Psalm 136:1; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** Year-end display automatically proves annual mastery.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching historical details
-All the saints from Year B! — St. Kateri, Bl. Solanus Casey, St. Francis, St. Thérèse, St. Fiacre, and more — all showed us how to learn and love God.
+**If asked:** "Can I show an unfinished test?" Yes; explain the evidence and the remaining question honestly.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Private folders and classroom-only displays, no photo uploads, food awards or device replays. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Student portfolios/work samples
+## Meeting 1: Year B evidence showcase - 30 minutes
 
-- Display materials
+1. **0-3:** Model a supported learning claim and a separate favorite memory.
+2. **3-7:** Demonstrate a two-record visual explanation and a respectful clarity question.
+3. **7-20:** Each child creates an explanation, shares with a partner and revises after a question. Each places one anonymous topic-choice card on the preference graph; compare two counts.
+4. **20-26:** Each child explains a supported change/limit and interprets the graph accurately. Teacher records the stated criteria only; recognition is not mastery scoring.
+5. **26-30:** Return private records and explanations to folders, count cards and clear galleries. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Certificates
+## Questions to ask
 
-- Camera for photos
+- What record supports your learning claim?
+- What does the preference graph not prove?
 
-- Celebration supplies
+## Individual evidence and success
 
-- Reflection sheets
+**Grade 1:** Point to a comparable changed detail and compare two counts.
 
----
+**Grade 2:** Support a claim with records, name a limit and explain a purposeful revision to the visual explanation.
 
-## 📝 Lesson Procedure (30 minutes)
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer (2 min)
-"Dear God, thank You for this amazing year of learning! Thank You for robots, towers, butterflies, gardens, and all our STREAM adventures. Thank You for the saints who showed us how to love You and learn. We are so grateful! Amen."
+## Support and challenge
 
-### Year B Memory Journey (10 min)
-**Walk through the year:**
+**Support / nonreader access:** Two teacher-read sample choices and a quiet paired audience. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-**Fall memories:**
+**Challenge:** Explain why the comparison may be unfair if tasks differed. Do not add an unprepared activity or extend the native period.
 
-- 🔬 Nature observation — "What did we discover outside?"
+## If things go wrong / indoor alternative
 
-- 🤖 Dash Robots — "What did you program Dash to do?"
+Missing records: make a fresh first/revised sketch today; assess current revision, not fabricated annual growth.
 
-- 🗼 Tower building — "How tall did we go?"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- 🐾 Animal habitats — "What animal did you help?"
+## Family copy - optional, no routine homework
 
-- 🎁 Gift making — "Who did you make something for?"
+Our Year B showcase communicated specific evidence and honest limits. Ask: "What record supports your learning claim?" Optional: ask which record supports a stated learning claim. No purchase, donation, device, home teaching or required take-home project.
 
-**Winter memories:**
+## Sources and claim boundaries
 
-- ⭐ Stars and light — "What did we learn about the Christmas star?"
-
-- ❄️ Snowflakes — "Which patterns did we observe, and what did our paper model leave out?"
-
-- 🔧 Invention labs — "What problem did you solve?"
-
-- 🎪 Friendship machines — "How do chain reactions work?"
-
-**Spring memories:**
-
-- 🌻 Gardens — "Is your plant still growing?"
-
-- 🦋 Butterflies — "What is metamorphosis?"
-
-- 🌷 New life — "How is spring like Easter?"
-
-**Discussion:**
-
-- "What was your FAVORITE activity?"
-
-- "What was HARDEST?"
-
-- "What saint do you remember?"
-
-- "What did you learn about God?"
-
-### Portfolio Celebration (8 min)
-**Look through work:**
-
-- Find your best work from Year B
-
-- Choose one thing to share
-
-- Remember how you've grown!
-
-**Partner sharing:**
-
-- Show your partner your favorite project
-
-- Tell them why you chose it; for the design example name its criterion, test result and one change. An intentional drawn memory message provides art communication evidence.
-
-- Listen to theirs
-
-### Saints Recall (3 min)
-**Quick saint match game:**
-
-- "Who loved animals?" (St. Francis)
-
-- "Who followed the star?" (Wise Men)
-
-- "Who gardened as prayer?" (St. Fiacre)
-
-- "Who did little things with love?" (St. Thérèse)
-
-- "Who saw the Risen Jesus first?" (St. Mary Magdalene)
-
-**Saints showed us:** Faith and learning go together!
-
-### Awards & Recognition (5 min)
-**Celebrate everyone!**
-
-**Possible awards:**
-
-- 🔬 Super Scientist
-
-- 🤖 Coding Champion
-
-- 🏗️ Master Builder
-
-- 🎨 Creative Artist
-
-- 🤝 Teamwork Star
-
-- 💪 Perseverance Prize
-
-- 🙏 Faith Friend
-
-**Every student recognized!**
-
-### Closing Celebration (2 min)
-**Looking ahead:**
-
-- "Next year: NEW adventures!"
-
-- "Keep being curious"
-
-- "Keep asking questions"
-
-- "Keep seeing God in everything"
-
-**Final cheer:**
-"We are STREAM scientists! We explore God's world! We learned and grew in Year B!"
-
-**Closing Prayer:**
-"Thank You, God, for Year B! Thank You for every robot, every building, every plant, every butterfly. Thank You for friends who learned with us and teachers who helped us. Bless our summer and bring us back ready to learn more. We love You! Amen."
-
----
-
-## Technology / SAFETY / evidence limit
-**Optional primary path:** teacher camera under school photo/privacy permissions; paper portfolio is sufficient. No food/latex decorations. At 25 use table partner shares, not 25 lengthy talks; reserve 3 portfolio minutes for cleanup. Grade 1 points to one saved before/after example; Grade 2 explains a measured revision. Accomplishment lists describe opportunities, not individual mastery without saved evidence.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We celebrated Year B today! What a year of learning and growing! Ask your child: 'What was your favorite Year B activity?' 'What did you learn?' 'Which saint do you remember?' 'How did you see God in STREAM?' Thank you for supporting your child's STREAM journey. Keep exploring this summer!"
-
----
-
-## ✅ Assessment
-
-- Reflected on year's learning
-
-- Shared favorite project/memory
-
-- Participated in celebration
-
-- Expressed gratitude
-
----
-
-## Year B Accomplishments Summary
-
-Your child explored:
-
-- 🔬 **Science:** Nature, senses, plants, butterflies, light
-
-- 🤖 **Technology:** Dash Robots, ScratchJr
-
-- 🙏 **Religion:** Saints, Scripture, faith connections
-
-- 🏗️ **Engineering:** Towers, habitats, inventions, gardens
-
-- 🎨 **Arts:** Various creative projects
-
-- 🔢 **Math:** Measurement, patterns, estimation
-
-**STREAM skills developed:**
-
-- Observation and inquiry
-
-- Coding and programming basics
-
-- Engineering design process
-
-- Collaboration and teamwork
-
-- Perseverance through challenges
-
-- Faith-reason integration
-
-**Congratulations on completing Year B!**
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

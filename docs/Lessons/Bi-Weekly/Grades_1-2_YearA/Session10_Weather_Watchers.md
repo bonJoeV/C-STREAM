@@ -1,199 +1,105 @@
 ---
-title: "Session 10: Weather Watchers"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A weather science"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - engineering
-  - light
-  - life-science
-  - earth-science
-  - astronomy
-  - lent
-  - arts
+title: "Weather Watchers"
+description: "Repeated weather records describe actual conditions, not guaranteed forecasts."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-S3, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Weather Watchers
 
-# Session 10: Weather Watchers 🌦️
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 10 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Weather |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, M / Repeated weather records describe actual conditions, not guaranteed forecasts. |
+| Student objective / why | "I can record three same-window observations and interpret their counts." Indoor repeated Earth-system evidence works in Minnesota winter without outdoor instruments. |
+| Catholic connection | Tell the truth about weather evidence and its limits while appreciating creation; a forecast is not a statement of faith. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S1: observations, questions and evidence; CST-S3: physical, life or Earth systems/models; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students become meteorologists, observing and recording weather data and building simple weather instruments.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Choose an accessible same-window view and draw sky/precipitation icons. Fold the allocated work page into a three-time recording tool with columns for start, minute 7 and minute 20. Use the three blank cards to store actual class observations; no predetermined sunny/rainy results. If the view is inaccessible, teacher describes the actual view and labels teacher-observed records.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **actual time / sky and precipitation evidence / count comparison**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 10: Weather Watchers
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Identify different types of weather
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Index cards / kit / blank timed weather records | 12 | 15 | 21 | 27 |
 
-- Record weather observations systematically
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Build a simple weather tool
+## Vocabulary and teacher background
 
-- Understand that scientists study God's patterns in weather
+Weather = conditions at a time/place; precipitation = rain/snow falling; observation = noticed condition; forecast = prediction.
 
----
+Three short observations can show change or no change; they do not measure temperature/wind or predict tomorrow. Precipitation returns water to Earth's surface, but this window record does not show every part of the water cycle.
 
-# Session 10: Weather Watchers
+**Common misconception:** Cloud means rain is certain, or three equal observations are a failed investigation.
 
-## Materials Needed
+**If asked:** "Will it snow tomorrow?" These short observations alone cannot tell us; a forecast needs more information.
 
-- 📋 Weather chart/calendar
+## SAFETY
 
-- 🌡️ Outdoor thermometer
+Stay indoors and away from open windows/glass handling. No snow/ice exposure, roof access or unapproved weather instruments. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🎐 Windsock materials (paper, string, streamers)
+## Meeting 1: Repeated window weather and data - 30 minutes
 
-- 📓 Engineering journals
+1. **0-3:** Observe/describe actual sky/precipitation or visibility limits; make the first dated class record.
+2. **3-7:** Model the folded three-time recording tool and a one-mark-per-time display; do not fill future columns yet.
+3. **7-20:** At minute 7 make a second observation from the same view. Each child records both times and begins a precipitation/not-seen display using actual results; a partner checks the time labels. Keep unknown visibility separate, not counted as no precipitation.
+4. **20-26:** At minute 20 make the third observation. Each child completes the chart, compares change/no change and precipitation/not-seen counts and states why these short records do not prove tomorrow's weather.
+5. **26-30:** Keep dated class weather cards and individual recording tools; clear tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 📸 Pictures of weather types
+## Questions to ask
 
-- ☁️ Cloud chart
+- Did the same-window observations show change or no change?
+- What do these counts tell us and not tell us?
 
----
+## Individual evidence and success
 
-## Catholic Integration
+**Grade 1:** Represent three supported time records and count observed categories accurately.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching legends/biographies
-**St. Scholastica** — According to legend, she prayed and God sent a storm so she could keep talking with her brother (St. Benedict) about faith!
+**Grade 2:** Interpret actual three-time category counts, identify the same-place condition and distinguish observation from forecast or unknown visibility.
 
-### Scripture reference
-Psalm 135:7; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. A devotional story is not meteorological evidence.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear God, you control the weather—the sun, rain, snow, and wind. Thank you for the patterns you built into nature. Help us learn about your amazing world. Keep us safe in all weather. Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Sky/rain icons, oral descriptions and high-contrast records. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Suggest two dated future observations to compare without adding counted teaching meetings. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (5 minutes)
-1. **Today's Weather** — Look outside. "What's the weather today?"
-2. **Weather Types:**
-   - ☀️ Sunny
-   - ☁️ Cloudy
-   - 🌧️ Rainy
-   - ❄️ Snowy
-   - 💨 Windy
-3. **Meteorologists** — Scientists who study weather
-4. **God's Patterns** — Weather follows patterns God designed
-5. **Today's Goal** — "We're going to be weather scientists!"
+## If things go wrong / indoor alternative
 
-### Main Activity: Weather Station (19 minutes)
+No accessible window: teacher describes actual visible conditions at the three times and labels teacher-observed data. If no real view is available, draw three clearly labeled example records for chart practice and mark live weather evidence unassessed. No weather change: record honestly; do not force a trend.
 
-**Part 1: Weather Observation (5 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Go outside or observe from window
+## Family copy - optional, no routine homework
 
-- Record on chart:
-  - Temperature (read thermometer together)
-  - Cloud cover (sunny, partly cloudy, cloudy)
-  - Wind (calm, breezy, windy)
-  - Precipitation (none, rain, snow)
+We made three same-window weather records, interpreted actual counts and distinguished observation from forecast. Ask: "Did the same-window observations show change or no change?" Optional: describe weather from a safe indoor view; no required log. No purchase, donation, device, home teaching or required take-home project.
 
-- "Scientists record what they observe!"
+## Sources and claim boundaries
 
-**Part 2: Cloud Study (4 minutes)**
-
-- Look at clouds
-
-- Cloud types (simplified):
-  - Describe visible cloud shapes/color without treating them as guaranteed forecasts.
-  - A single classroom observation cannot establish a weather pattern; a prediction remains a guess to check later.
-
-- Draw the clouds you see
-
-**Part 3: Build a Windsock (8 minutes)**
-
-- Materials: Paper tube/cup, streamers, string
-
-- Steps:
-  1. Attach streamers to one end of tube
-  2. Add string for hanging
-  3. Decorate!
-
-- "This tool shows us wind direction!"
-
-- Test by window or briefly outside
-
-**Part 4: Weather Prediction (2 minutes)**
-
-- Based on observations: "What do you think weather will be like tomorrow?"
-
-- "Scientists make predictions based on patterns!"
-
-### Engineering Journal (4 minutes)
-1. Draw today's weather
-2. Record temperature
-3. Draw your windsock
-4. Predict tomorrow's weather
-
-### Closing Circle (2 minutes)
-1. **Weather Wonder** — "What amazes you about weather?"
-2. **God's Care** — "God sends rain for plants and sunshine for warmth"
-3. **Closing Prayer** — *"Thank you, God, for weather that waters the earth and gives us seasons. Help us appreciate every kind of day you give us. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified weather conditions
-
-- [ ] Recorded observations
-
-- [ ] Built windsock
-
-- [ ] Made weather prediction
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on three weather types
-
-- Pre-made windsock base
-
-- Partner observation
-
-### For Advanced Students
-
-- Record multiple data points
-
-- Compare to weather forecast
-
-- Research cloud types
-
----
-
-## SAFETY / indoor weather route / evidence
-Default: observe from a closed window and read a teacher-provided outdoor temperature; use a non-glass thermometer and follow placement instructions, not indoor heat against a sunny window. Never go outside in extreme cold/storms or fly streamers near traffic/electrical lines; teacher controls strings, no neck loops. Test windsock indoors with a teacher gently moving air using cardboard; no shared mouth blowing. Grade 1 draws two observed weather details; Grade 2 records temperature/date and names prediction uncertainty. **Technology: None primary path.** Last 3 building minutes are cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; one spoken window observation is enough)
-**Family Activity:** Start a family weather journal! Record the weather each day for a week. Hang your windsock outside and watch it. Compare your observations to the weather forecast—how accurate were you?
-
----
-
-## Teacher Notes
-
-- Start ongoing classroom weather tracking if possible
-
-- Windsocks can be hung in classroom or sent home
-
-- Connect to daily calendar weather activities
-
-- Great springboard for water cycle discussions
-
----
-
-**Previous:** [Session 09 — Catholic Inventors](./Session09_Catholic_Inventors.md)  
-**Next:** [Session 11 — Lenten Engineers](./Session11_Lenten_Engineers.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

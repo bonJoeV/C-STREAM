@@ -1,186 +1,111 @@
 ---
-title: "Session 08: Coding Basics"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A ScratchJr introduction"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - arts
+title: "Coding Basics"
+description: "A changed stored motion block produces a checkable digital output."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-T1, CST-T2, CST-M1]
+technology: Required
+meetings: 1
+minutes: 30
 ---
 
+# Coding Basics
 
-# Session 08: Coding Basics 💻
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 8 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Coding |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, T, M / A changed stored motion block produces a checkable digital output. |
+| Student objective / why | "I can run a short ScratchJr sequence and debug a predicted endpoint." Actual execution makes coding different from only arranging arrows. |
+| Catholic connection | Share turns, care for the tablet and explain why preserving common tools makes future learning possible. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-T1: tool use, input/output and troubleshooting; CST-T2: algorithms and debugging; CST-M1: count, compare and measure. Only the evidence below supports these local claims. |
+| Technology requirement | **Required**. Individual ScratchJr turns are required for app evidence; cards show algorithms only. |
+| Difficulty / prep / cleanup | Guided; Moderate, 20-25 minutes first app setup; final 4 minutes of **every** meeting. |
 
-Students learn foundational coding concepts using ScratchJr, creating simple animated stories and programs.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Pretest Home > New (+), one character, yellow Green Flag, blue Move Right, red End, flag Run and Stop. Enable the stage grid if present; otherwise count the selected block's steps, not measured cm.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **predicted steps / actual output / changed block**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 08: Coding Basics
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand that coding is giving instructions to computers
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Compatible tablet / kit / items | 4 | 5 | 7 | 9 |
+| Index cards / kit / items | 24 | 30 | 42 | 54 |
 
-- Navigate the ScratchJr interface
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Create a simple program with motion blocks
+**ACCESS resource (software, not a physical material):** School-approved offline ScratchJr; local projects without online publishing.. Use local classroom aliases, not names/photos/voice uploads; disable sharing and purchases. Actual school-approved access and installed controls are checked during preparation, not assumed from this document.
 
-- Debug (fix) programs when they don't work
+## Vocabulary and teacher background
 
----
+Sequence = ordered commands; output = character movement; debug = fix mismatch.
 
-# Session 08: Coding Basics
+The stage uses digital steps, not classroom centimeters. Reset character start before comparing motion counts.
 
-## Materials Needed
+**Common misconception:** Dragging a sprite manually is executed programming.
 
-- 📱 Tablets with ScratchJr app installed
+**If asked:** "Are two digital steps two centimeters?" No; different unit systems must not be equated.
 
-- 📋 ScratchJr quick reference cards
+## SAFETY
 
-- 📓 Engineering journals
+Dry tablets, mute sound, no names/photos/accounts, purchases or uploads. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📺 Display for demonstration (optional)
+## Meeting 1: First executed code - 30 minutes
 
----
+1. **0-3:** Predict how an on-screen character will move from its starting point.
+2. **3-7:** Model Green Flag -> Right 2 -> End, Run/Stop, reset and change 2 to 1.
+3. **7-20:** Each team member gets a four-minute tablet turn: connect the three blocks, predict, Run/Stop, reset and change one motion count. Others trace/count block cards.
+4. **20-26:** Each child shows a changed block and actual output, compares counts and explains careful tablet sharing/return; teacher checks during turns.
+5. **26-30:** Return to Home, lock tablets, count cards and clear dry tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-## Catholic Integration
+## Questions to ask
 
-### Saint Connection
-**Saint Carlo Acutis**, canonized September 7, 2025: [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html). Specific computing/website biography is **VERIFICATION REQUIRED** before teaching.
+- Which block changed the output?
+- What unit are you counting?
 
-### Scripture reference
-John 1:1; **VERIFICATION REQUIRED:** read from the school's approved Bible; no quotation reproduced. The divine Word is not computer code; omit the creation/programming equivalence.
+## Individual evidence and success
 
-### Opening Prayer
-*Dear God, thank you for creative minds. Help us use technology responsibly in service of others. Amen.*
+**Grade 1:** Individually connect/run the sequence and identify the changed motion count.
 
----
+**Grade 2:** Predict the changed endpoint, explain the rerun/reset and distinguish digital steps from cm.
 
-## Lesson Procedure
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. The card route does not establish digital-tool operation.
 
-### Opening Circle (5 minutes)
-1. **What is Coding?** — "Giving step-by-step instructions to a computer"
-2. **Connection to Robots** — "Remember Dash? Same idea!"
-3. **ScratchJr** — "This app lets us code stories and games"
-4. **Saint Carlo Acutis** — Optional verified biography; responsible technology use is the assessed connection.
-5. **Today's Goal** — "Make a character move!"
+## Support and challenge
 
-### Main Activity: ScratchJr Exploration (19 minutes)
+**Support / nonreader access:** A starter script with one missing block and large picture cards. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-**Part 1: App Tour (4 minutes)**
+**Challenge:** Add one opposite-direction motion and predict the net path before running. Do not add an unprepared activity or extend the native period.
 
-- Open ScratchJr
+## If things go wrong / indoor alternative
 
-- Explore interface:
-  - Character (Cat)
-  - Stage (background)
-  - Blocks (instructions)
-  - Green flag (start)
+No app: trace cards with a paper token and record app execution unassessed. Blocks fail: check snapping and selected character before random edits.
 
-- "The blocks are like puzzle pieces that tell the character what to do"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Part 2: First Program (8 minutes)**
+## Family copy - optional, no routine homework
 
-- Guided tutorial:
-  1. Add "Start on Green Flag" block
-  2. Add "Move Right" block
-  3. Tap green flag—watch cat move!
-  4. Add more move blocks
-  5. Try: Up, down, left
+We executed and debugged short stored sequences, counting digital steps and sharing tools carefully. Ask: "Which block changed the output?" Optional: give two spoken directions to a paper character. No purchase, donation, device, home teaching or required take-home project.
 
-- Challenge: Make cat walk across the screen
+## Sources and claim boundaries
 
-**Part 3: Personalize (5 minutes)**
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.
 
-- Change background
-
-- Try different character
-
-- Add sounds or speech bubbles
-
-- Free creation time
-
-**Part 4: Share (2 minutes)**
-
-- Show neighbor what you made
-
-- "You just wrote a computer program!"
-
-### Engineering Journal (4 minutes)
-1. Draw the ScratchJr character you used
-2. Write or draw the instructions you gave
-3. Circle: Easy 😊 or Tricky 🔧
-
-### Closing Circle (2 minutes)
-1. **Celebration** — "You are now CODERS!"
-2. **Next Time** — "We'll learn more coding tricks!"
-3. **Closing Prayer** — *"Thank you, God, for the gift of learning. Help us use coding and technology for good things. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Opened ScratchJr and explored
-
-- [ ] Created program with motion
-
-- [ ] Used green flag to run program
-
-- [ ] Showed willingness to try
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-made starter project to modify
-
-- Partner with experienced peer
-
-- Focus on one block type (motion)
-
-### For Advanced Students
-
-- Add loops (repeat blocks)
-
-- Create multi-scene story
-
-- Help classmates who are stuck
-
----
-
-## Technology / privacy / individual evidence
-**Required primary path:** school-approved ScratchJr tablets for executed motion code. Grade 1 points to/orders green-flag and two movement blocks, personally runs them and corrects one deliberate wrong direction; Grade 2 predicts/explains the changed output. No devices: cards/token sequence/debug only, not app/executed-program mastery. Do not publish names/photos/voice externally. Use final 3 personalization minutes for save/return/cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; oral token directions need no tablet)
-**Family Activity:** If you have a tablet, try ScratchJr at home! (Free app) Create a story together. No tablet? Play "programmer"—give family members step-by-step instructions to do something!
-
----
-
-## Teacher Notes
-
-- ScratchJr is free for iPad and Android
-
-- Pre-install and test app before session
-
-- Consider projecting tablet for demonstrations
-
-- Common issue: Blocks not snapping together—show how to connect
-
----
-
-**Previous:** [Session 07 — Light in Darkness](./Session07_Light_in_Darkness.md)  
-**Next:** [Session 09 — Catholic Inventors](./Session09_Catholic_Inventors.md)
+Retained original source pointers (not additional required claims):
+- [Source pointer 1](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html)

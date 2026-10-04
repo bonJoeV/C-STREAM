@@ -1,289 +1,71 @@
 ---
 title: "Week 12: Gifts for Others"
-description: "Grades 3-4 Year B service project design"
-version: "1.2"
-date: 2025-12-05
-tags:
-  - grades-3-4
-  - year-b
-  - engineering
-  - advent
-  - lent
-  - service
-  - arts
----
-
-# 🎁 Week 12: Gifts for Others
-
-## Lesson Overview
-
-| | |
-|---|---|
-| **Grade Level** | Grades 3-4 |
-| **Duration** | 40 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), A (Arts), R (Religion) |
-
+description: "A tested large-print instruction card for a classroom reader"
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-A2]
+technology: None
+prep_minutes: 10
+cleanup_minutes: 5
+materials: [Cardstock, Plain paper, Pencils, Markers, Metric ruler]
 ---
 
 # Week 12: Gifts for Others
 
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Design solutions to help others
-2. Apply engineering design for service
-3. Create functional, thoughtful gifts
-4. Consider user needs in design
-
-### Faith Integration Objectives
-Students will be able to:
-1. Connect gift-giving to Christ's gift of Himself
-2. Practice service-oriented thinking
-3. Experience joy in giving
-
----
-
-# Week 12: Gifts for Others
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**The Gift of Self** — Jesus gave us the ultimate gift — Himself! When we create gifts for others, we share our time, talent, and love. The best gifts come from the heart and serve others' needs.
-
-### Scripture Connection
-> "Each of you should use whatever gift you have received to serve others, as faithful stewards of God's grace."
-> — 1 Peter 4:10
-
-### Saint Connection
-**St. Elizabeth Ann Seton** — First American-born saint! She founded schools and served the poor. She used her gifts of teaching and organizing to help thousands. She showed that our talents are meant to be shared.
-
----
-
-## 📚 Materials Needed
-
-- Cardboard, paper, fabric scraps
-
-- Scissors, glue, tape
-
-- Markers, crayons
-
-- Gift recipients information (see prep)
-
-- Design worksheets
-
-- Packaging materials
-
----
-
-## 📝 Pre-Lesson Preparation
-
-**Identify gift recipients:**
-
-- Nursing home residents
-
-- Younger students
-
-- Hospital patients
-
-- Family members
-
-- Community helpers (firefighters, etc.)
-
-**Gather needs information:**
-
-- What would help them?
-
-- What might brighten their day?
-
-- Any specific requests or restrictions?
-
----
-
-## 📝 Lesson Procedure (40 minutes)
-
-### Opening Prayer (2 min)
-"Jesus, You gave us the greatest gift of all — Yourself! Help us give from our hearts today. St. Elizabeth Ann Seton, pray that we use our talents to serve others. Amen."
-
-### The Gift of Service (5 min)
-**Why give gifts?**
-
-**Discussion:**
-
-- What makes a gift meaningful?
-
-- Is it the cost or the thought?
-
-- How do you feel when you make something for someone?
-
-**St. Elizabeth Ann Seton's story:**
-
-- Wealthy woman who lost everything
-
-- Used her talents to teach and serve
-
-- Helped develop Catholic education in the United States; do not claim hers were the first Catholic schools
-
-- Paraphrase the service theme; no unsourced quotation attributed to Seton
-
-**Our challenge:**
-"Today we design and create gifts that SERVE others — gifts that meet a real need or bring real joy."
-
-### Design for Service (10 min)
-**User-Centered Design:**
-
-**Step 1: Know your recipient**
-
-- Who will receive this?
-
-- What do they need?
-
-- What would bring them joy?
-
-- What limitations should we consider?
-
-**Example recipients and needs:**
-| Recipient | Possible Need | Gift Idea |
-|-----------|--------------|-----------|
-| Nursing home resident | Companionship | Card with photos, bookmarks |
-| Kindergartener | Learning tools | Counting games, puzzles |
-| Hospital patient | Comfort | Decorated pillowcase, cards |
-| Firefighter | Appreciation | Thank you collection, snacks |
-
-**Step 2: Design worksheet**
-
-- Who is this for?
-
-- What is their need?
-
-- My gift idea:
-
-- How will this help them?
-
-- Materials needed:
-
-- Sketch of design:
-
-**Teacher approval before building**
-
-### Gift Creation (18 min)
-**Build your service gift:**
-
-**Project ideas:**
-
-**For elderly/lonely:**
-
-- Photo cards with drawings
-
-- Bookmarks with encouraging messages
-
-- Activity books (word searches, coloring)
-
-**For younger children:**
-
-- Educational games
-
-- Counting manipulatives
-
-- Story cards
-
-**For patients:**
-
-- Encouragement cards
-
-- Decorated bags
-
-- Comfort items
-
-**For community helpers:**
-
-- Thank you cards/posters
-
-- Appreciation certificates
-
-- Decorated containers for supplies
-
-**Building guidelines:**
-
-- Quality matters — make it with care
-
-- Include personal touch
-
-- Think about the user
-
-- Add encouraging message
-
-**Teacher circulation:**
-
-- "How does this meet their need?"
-
-- "What makes this special?"
-
-- "How is this gift 'giving yourself'?"
-
-### Sharing & Blessing (5 min)
-**Share creations:**
-
-- Brief show-and-tell
-
-- Explain who it's for and why
-
-**Prepare for delivery:**
-
-- Package gifts carefully
-
-- Add gift tags
-
-- Write recipient's name
-
-**Blessing of gifts:**
-"Lord, bless these gifts made with love. May they bring joy to those who receive them. Help the recipients know they are loved by You and by us. Amen."
-
-**Closing Prayer:**
-"Thank You, Jesus, for teaching us to give. Thank You, St. Elizabeth, for showing us that our talents are meant to serve. Help us always look for ways to use our gifts to help others. May our hands be Your hands, bringing Your love to the world. Amen."
-
----
-
-## 📝 Post-Lesson
-
-**Delivery options:**
-
-- Class trip to deliver
-
-- Mail gifts
-
-- Send with parent volunteers
-
-- School-wide collection
-
-**Follow-up:**
-
-- Share any thank-you responses received
-
-- Reflect on the experience of giving
-
----
-
-## 📎 Home Connection
-> "We designed and created gifts to serve others today! Ask your child: 'Who is your gift for?' 'What need does it meet?' 'How did it feel to make something for someone else?' Consider a family service project during Advent — perhaps making care packages together."
-
----
-
-## ✅ Assessment
-
-- Identified user needs in design
-
-- Created thoughtful, quality gift
-
-- Demonstrated understanding of service
-
-- Participated in blessing and sharing
-
----
-
-**Lesson Version:** 1.0 — Year B | **
-
-## SAFETY / delivery approval
-
-Use paper cards/bookmarks as the default, no snacks, medical/comfort devices or small counting manipulatives for younger children. An adult confirms recipient organization restrictions and consent before delivery. No pupil photos, names, addresses or health information without school approval. Seton biography details beyond the broad service theme are **VERIFICATION REQUIRED**. Gift appearance does not establish useful function; collect each child's user need and one appropriate design choice.
+## Lesson at a glance
+
+Grades 3-4; Weekly B; Service design; **one 40-minute meeting**.
+**Objective:** make a readable two-step classroom-help card, test a reader's
+response twice and revise. **Why:** a functional gift responds to need, not
+assumed medical benefit. Catholic/CST-C2: dignity/consent; CST-E1: readable
+instructions criterion; CST-E2 retest; CST-A2 purposeful layout/contrast.
+Official alignment **VERIFICATION REQUIRED**. Technology **None**;
+introductory. Prep 10; cleanup 5 included.
+
+## Before class and exact supplies
+
+Fictional recipient brief: "A visitor needs to know: put a book in the return
+tray, then place the marker beside it." Classroom peers test by pointing,
+not real delivery. Per pupil: two half-sheet cardstock blanks, evidence paper/
+pencil. Teams <=3 (4/5/7/9) share two markers/ruler. Teacher board/timer and drawn
+book/tray/marker symbols; demo uses issued blank. Adult approves any later gift
+delivery; absent permission, keep display at school.
+
+| Allocation | 10 | 15 | 20 | 25 |
+|---|---:|---:|---:|---:|
+| Card blanks (2/pupil) | 20 | 30 | 40 | 50 |
+| Evidence paper; pencils (1/pupil each) | 10 | 15 | 20 | 25 |
+| Rulers (1/team) | 4 | 5 | 7 | 9 |
+| Markers (2/team) | 8 | 10 | 14 | 18 |
+
+## Vocabulary/background/SAFETY
+
+Recipient = intended user; sequence = order; contrast = visible difference;
+criterion = success. **Misconception:** nice appearance proves comprehension.
+**If asked "Will this comfort a hospital patient?"** We did not test that;
+organizations have restrictions, adult approval needed.
+No food, medical items, small manipulatives for younger pupils, private
+photos/names/health data or unapproved visits. Paper indoors; report damaged
+tools. No unverified Seton quote/history claim needed.
+
+## Meeting 1: exactly 40 minutes
+
+1. **0-4:** "How does listening make a gift useful?" Optional service prayer.
+2. **4-9:** Model two numbered actions with word/symbol; criterion reader names
+   both in order at 50 cm within ten seconds.
+3. **9-21:** Each designs card 1, purposeful visual choices, brief original thanks.
+4. **21-30:** Peer tests twice; record correct actions 0-2; revise on card 2 and
+   repeat twice, same distance/time.
+5. **30-35:** Each child shows need/criterion, four counts and visual rationale.
+6. **35-40:** Cap/count, save dated versions/evidence; adult handles delivery.
+
+## Success/access/troubleshooting
+
+Meets: user/criterion, actual four test counts and justified layout revision.
+Grade 3/support: large numbered boxes/pictures/scribing. Grade 4/challenge:
+clarity-versus-space tradeoff without relying on color. Reader confused: simplify
+one word/symbol; do not coach during test. No card: folded paper, same criterion.
+Early finish: another reader, note sample limit. Joy/prayer not scored.
+
+**Family:** We made and tested functional gifts. Ask, "What could your reader
+actually understand?" Optional: thank a helper, no donation/home task.

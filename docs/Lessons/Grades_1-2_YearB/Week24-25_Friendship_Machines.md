@@ -1,288 +1,116 @@
 ---
-title: "Weeks 24-25: Friendship Machines"
-description: "Grades 1-2 Year B Rube Goldberg kindness contraptions"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - engineering
-  - astronomy
-  - arts
+title: "Friendship Machines"
+description: "A small tabletop chain can be tested repeatedly, while kindness is not a mechanical law."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-S2, CST-E2, CST-M2]
+technology: None
+meetings: 2
+minutes: 30
 ---
 
-# 🎪 Weeks 24-25: Friendship Machines
+# Friendship Machines
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 2 sessions (30 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), S (Science), R (Religion) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Motion |
+| Native time / scope | 2 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, E, M / A small tabletop chain can be tested repeatedly, while kindness is not a mechanical law. |
+| Student objective / why | "I can test and improve a two-event chain that reveals a friendly message." Cause-and-effect evidence is different from a kindness metaphor. |
+| Catholic connection | Choose an inclusive message for a classroom partner and explain the intended recipient benefit; people freely choose responses, unlike falling blocks. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-S2: safe investigations and variables; CST-E2: build, test and redesign; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Weeks 24-25: Friendship Machines
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Pretest six broad blocks standing less than 10 cm high: a gentle first nudge topples the next blocks and reveals an upright message card behind the last. Keep the whole chain inside the tray; no launch or elevated ramp.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **predicted events / three trial results / revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Understand cause and effect relationships
-2. Create simple chain reaction machines
-3. Work collaboratively on team projects
-4. Test and refine designs
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect chain reactions to ripple effects of kindness
-2. Understand how small acts lead to big effects
-3. Design machines with kind purposes
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 40 | 60 | 80 | 100 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Broad wooden block / kit / items | 24 | 30 | 42 | 54 |
+| Index cards / kit / items | 12 | 15 | 21 | 27 |
+| Cardstock / kit / 10 cm squares | 8 | 10 | 14 | 18 |
+| Masking tape / kit / 10 cm strips | 32 | 40 | 56 | 72 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Weeks 24-25: Friendship Machines
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Cause = event leading to change; effect = result; chain = connected events; trial = one test.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Ripple Effect of Love** — One act of kindness leads to another. Just like a chain reaction machine where one action triggers the next, our kindness creates ripples that spread far beyond what we see.
+The reveal is a small mechanical sequence. It models a message delivery, not a rule that kindness automatically makes others act kindly.
 
-### Scripture reference
-Proverbs 11:25; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** More dramatic launches make a better chain, or friendship follows mechanical commands.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Thérèse of Lisieux** — Her "Little Way" teaches that small acts of love add up to great things. Each tiny kindness is like a domino that starts a chain reaction of good!
+**If asked:** "Will a kind message always make someone happy?" People can respond differently; we choose respectful communication without controlling their feelings.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Tray-contained low blocks, gentle finger nudge only; no marbles, balloons, catapults, throwing or climbing. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Dominoes
+## Meeting 1: Plan two events - 30 minutes
 
-- Cardboard tubes (paper towel, toilet paper)
+1. **0-3:** Demonstrate nudge -> topple -> reveal and choose a partner-approved friendly symbol.
+2. **3-7:** Model safe spacing and three trial boxes; predict the reveal before resetting.
+3. **7-20:** Teams build the short chain, run three trials with identical start/nudge and rotate resetter/tester/recorder. Each child records reveal/no reveal.
+4. **20-26:** Each child shows two linked events, success count out of three and a proposed spacing change; explain recipient/message purpose.
+5. **26-30:** Dismantle low chains, count six blocks and return message cards; save records. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Ramps and tracks
+## Meeting 2: Reliable reveal - 30 minutes
 
-- Small balls
+1. **0-3:** Retrieve trial records and pick one spacing/support feature to change.
+2. **3-7:** Model holding the starting nudge and message card constant while changing one feature.
+3. **7-20:** Teams revise and repeat three trials. Each child tests/directs once and makes two aligned success bars out of three.
+4. **20-26:** Each child compares before/after reliability, explains the changed feature and distinguishes a physical effect from the friendship metaphor.
+5. **26-30:** Dismantle low chains, count six blocks and return message cards; save records. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Books for supports
+## Questions to ask
 
-- Tape
+- Did your change make the message reveal more reliably?
+- How is a falling block different from a person's choice?
 
-- Simple machine examples
+## Individual evidence and success
 
----
+**Grade 1:** Show two events and count three trial successes.
 
-# Session 1: Chain Reactions
+**Grade 2:** Compare before/after success counts, name a kept-same test condition and explain the metaphor limit.
 
-## 📝 Lesson Procedure (30 minutes)
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer (2 min)
-"Dear God, help us learn about chain reactions today. Help us see how our small actions can start big things — especially our acts of kindness! Amen."
+## Support and challenge
 
-### Introduction: Cause & Effect (6 min)
-**What is a chain reaction?**
+**Support / nonreader access:** Use three initial broad blocks and child-directed resets, with picture event cards. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- "One thing causes the next thing"
+**Challenge:** Explain why a three-trial success count does not guarantee every future trial. Do not add an unprepared activity or extend the native period.
 
-- "Like dominoes falling!"
+## If things go wrong / indoor alternative
 
-**Demonstration:**
+Blocks will not topple: shorten gaps or use upright folded cardstock from the allocation; pretest the change. Keep the actual result, including failures, without heavier force.
 
-- Set up small domino chain
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- One push → many dominoes fall
+## Family copy - optional, no routine homework
 
-- "ONE action → MANY effects!"
+We tested a friendly-message chain and compared reliability while respecting people's choices. Ask: "Did your change make the message reveal more reliably?" Optional: describe two cause/effect events orally without constructing a launch. No purchase, donation, device, home teaching or required take-home project.
 
-**Rube Goldberg machines:**
+## Sources and claim boundaries
 
-- Show video or images of elaborate machines
-
-- "These silly machines do simple tasks in complicated ways"
-
-- "They're fun to make and watch!"
-
-**Kindness connection:**
-
-- "Kindness works like chain reactions"
-
-- "YOU smile at someone → THEY feel happy → THEY'RE kind to someone else → and on and on!"
-
-- This is a teacher kindness metaphor, not a verified saying of Therese. Kindness does not mechanically guarantee another person's response.
-
-### Simple Chain Experiments (12 min)
-**Experiment 1: Domino Lines**
-
-- Line up dominoes
-
-- Test spacing — too far? Too close?
-
-- Push the first one — watch the chain!
-
-**Experiment 2: Ramp Chain**
-
-- Ball rolls down ramp
-
-- Hits something at bottom
-
-- That thing moves or does something
-
-**Experiment 3: Tube Tunnel**
-
-- Ball goes through tube
-
-- Exits and triggers next step
-
-**Discovery questions:**
-
-- "What happens if they're too far apart?"
-
-- "What happens if something is in the way?"
-
-- "How can you make it work better?"
-
-### Design Challenge Introduction (8 min)
-**Challenge:**
-
-- Design a "Friendship Machine"
-
-- A chain reaction that ends with something kind
-
-- Examples: Delivers a note, rings a bell, waves a flag that says "You're Great!"
-
-**Planning:**
-
-- What will your machine DO at the end?
-
-- What steps will lead to that?
-
-- Draw a simple plan
-
-**Teams:**
-
-- Work in small teams
-
-- Share ideas
-
-- Start gathering materials
-
-### Closing (2 min)
-**Preview:**
-"Next time: Build your Friendship Machines!"
-
-**Closing Prayer:**
-"Thank You, God, for chain reactions. Help us start good chain reactions with our kindness today! Amen."
-
----
-
-# Session 2: Build & Test
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"St. Thérèse, teach us your Little Way. Help us do small things with great love today. Amen."
-
-### Building Phase (18 min)
-**Teams build their Friendship Machines!**
-
-**Requirements:**
-
-- At least 3 steps in the chain
-
-- Must end with something "kind" (delivers message, rings chime, etc.)
-
-- Must work when tested
-
-**Building tips:**
-
-- Test each step as you build
-
-- If one part doesn't work, fix it before moving on
-
-- Be patient — it takes many tries!
-
-**Teacher circulates:**
-
-- Help troubleshoot
-
-- Encourage perseverance
-
-- Ask about the kind purpose
-
-**When machines fail (they will!):**
-
-- "That's how inventors learn!"
-
-- "What went wrong?"
-
-- "What could you change?"
-
-- "Try again!"
-
-### Testing & Demonstration (8 min)
-**Teams demonstrate their machines:**
-
-- Set up
-
-- Explain what will happen
-
-- START the chain!
-
-- (Celebrate successes and attempts!)
-
-**Share the kind purpose:**
-
-- "Our machine delivers a 'You're Awesome' note!"
-
-- "Our machine rings a 'Kindness Bell!'"
-
-### Reflection & Closing (2 min)
-**Discussion:**
-
-- "What was hard about chain reactions?"
-
-- "What happened when one part didn't work?"
-
-- "How is this like kindness?"
-
-**Kindness chain:**
-
-- "Your kindness starts a chain reaction"
-
-- "You might not see all the effects"
-
-- "But it keeps going!"
-
-**Challenge:**
-"This week, start a kindness chain reaction. Do something kind and watch what happens!"
-
-**Closing Prayer:**
-"Thank You, God, for the fun of building and learning. Help us start kindness chain reactions everywhere we go. May our small acts of love create big ripples of good! Amen."
-
----
-
-## SAFETY / evidence / cleanup
-Use large balls that cannot fit in a child's mouth, low tabletop ramps, catch boxes and dominoes; no projectiles, marbles, human loads or loud bells near ears. Teacher screens tubes/edges. Default ending: gently tip a paper kindness flag. Grade 1 orally explains two causal steps; Grade 2 shows three steps and a failed-link revision. Last 4 making minutes each meeting are cleanup. **Technology: Optional primary path** for a teacher-selected offline image/video; physical model works without screens.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We built Friendship Machines — chain reaction contraptions with kind purposes! Ask your child: 'How does a chain reaction work?' 'What did your machine do?' We learned that kindness creates chain reactions too. Challenge: Do an intentional act of kindness together and watch for the ripple effect!"
-
----
-
-## ✅ Assessment
-
-- Understood cause and effect
-
-- Created functional chain reaction
-
-- Worked cooperatively in team
-
-- Connected machines to kindness ripple effects
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

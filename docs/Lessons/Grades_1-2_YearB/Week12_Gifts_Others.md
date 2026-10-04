@@ -1,221 +1,106 @@
 ---
-title: "Week 12: Gifts for Others"
-description: "Grades 1-2 Year B making meaningful gifts"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - engineering
-  - christmas
-  - arts
+title: "Gifts for Others"
+description: "A gift can be useful and communicate a recipient's preferred message."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-A3, CST-E1]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🎁 Week 12: Gifts for Others
+# Gifts for Others
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), A (Arts), R (Religion) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Service |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, A, E / A gift can be useful and communicate a recipient's preferred message. |
+| Student objective / why | "I can make a flat reading-page marker and revise its message for a reader." The recipient and function guide the design. |
+| Catholic connection | Respect recipient preferences and give time/attention without purchases or gift ranking. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-A3: artistic communication, critique and revision; CST-E1: needs, criteria and constraints. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 12: Gifts for Others
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Ask a classroom reader to choose a calming or encouraging symbol; precut strips and set books on tables. State no raised decoration/page damage.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Design with a user in mind
-2. Use materials purposefully
-3. Follow design constraints
-4. Create a functional item
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Practice generosity through making
-2. Understand that gifts of time and effort are meaningful
-3. Think of others' needs before their own
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Cardstock / student / 5 x 15 cm strip | 10 | 15 | 20 | 25 |
+| Classroom book / kit / items | 4 | 5 | 7 | 9 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 12: Gifts for Others
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Recipient = user; criterion = must do; contrast = visible difference.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Gift of Self** — The best gifts are those that give of ourselves — our time, effort, and love. Handmade gifts show we value the person enough to invest ourselves.
+A flat marker must hold a page location; a visual choice should convey the selected meaning, not just fill space.
 
-### Scripture reference
-2 Corinthians 9:7; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** The most elaborate gift is the most generous.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies/traditions
-**St. Nicholas** — Famous for giving gifts in secret. He gave to those in need without expecting anything in return. He inspires our gift-giving at Christmas.
+**If asked:** "Must my family buy materials?" No; the school supplies this class activity.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Teacher precuts; no beads, staples, wet glue or private identifying messages. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Cardstock/construction paper
+## Meeting 1: Useful message gift - 30 minutes
 
-- Craft sticks
+1. **0-3:** State the reader's request and flat page-marker criterion.
+2. **3-7:** Model contrasting symbol choices and a gentle closed-book page test.
+3. **7-20:** Each child chooses a message, designs the marker, tests it in a shared book and asks a partner how the symbol reads. Author revises one unclear detail.
+4. **20-26:** Each child shows the functional criterion and explains how feedback changed a purposeful visual choice.
+5. **26-30:** Return books and unused cardstock; save evidence pages before optional giving. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Beads, buttons
+## Questions to ask
 
-- Glue, tape, scissors
+- What did your reader want the marker to say?
+- Did the bookmark meet its function?
 
-- Markers, crayons
+## Individual evidence and success
 
-- Gift-making templates (optional)
+**Grade 1:** Show a page-marking test and explain one meaningful symbol.
 
-- Brown paper for wrapping
+**Grade 2:** Identify the flatness constraint, audience choice and an evidence-based visual revision.
 
----
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-## 📝 Lesson Procedure (30 minutes)
+## Support and challenge
 
-### Opening Prayer (2 min)
-"Dear God, help us be cheerful givers today. As we make gifts for others, fill us with love. Help us think about what would make someone else happy. Amen."
+**Support / nonreader access:** Offer two broad symbol choices and oral dictation; partner handles book as directed. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Introduction: Giving Gifts (4 min)
-**St. Nicholas story:**
+**Challenge:** Compare readability of two contrast choices without ranking artistic talent. Do not add an unprepared activity or extend the native period.
 
-- "He gave gifts to people in need"
+## If things go wrong / indoor alternative
 
-- "He gave SECRETLY — didn't want thanks"
+No intended reader available: teacher serves as reader for the stated request. Hard-to-see symbol: enlarge or simplify rather than add unlisted decorations.
 
-- "He shows us how to be generous"
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Handmade gifts are special:**
+## Family copy - optional, no routine homework
 
-- "When you MAKE something, you give your TIME"
+We made useful page markers with respectful recipient choices and revised communication. Ask: "What did your reader want the marker to say?" Optional: say a kind message to a reader. No purchase, donation, device, home teaching or required take-home project.
 
-- "That's more valuable than money!"
+## Sources and claim boundaries
 
-- "Thinking about what someone else wants = LOVE"
-
-**Today's challenge:**
-
-- Make a gift for someone you care about
-
-- Think: What would THEY like?
-
-- Not what YOU like — what THEY like!
-
-### Planning Phase (5 min)
-**Think about your recipient:**
-
-- Who will you give this to?
-
-- What do they like?
-
-- What colors do they enjoy?
-
-- What would make them smile?
-
-**Choose your project:**
-
-**Option A: Bookmark**
-
-- For someone who reads
-
-- Personalize with colors they like
-
-**Option B: Picture Frame**
-
-- Made from craft sticks
-
-- Decorate for them
-
-- They can add a photo
-
-**Option C: Decoration**
-
-- Ornament or hanging art
-
-- For their room or tree
-
-**Option D: Card with Art**
-
-- Special handmade card
-
-- Include a drawing for them
-
-### Making Phase (15 min)
-**Create your gift!**
-
-**Design thinking reminders:**
-
-- "Is this what THEY would like?"
-
-- "Are you using THEIR favorite colors?"
-
-- "Would this make THEM smile?"
-
-**Craftsmanship matters:**
-
-- Take your time
-
-- Do your best work
-
-- This shows you care!
-
-**Teacher circulates:**
-
-- "Who is this for?"
-
-- "What do they like about it?"
-
-- "How will they use it?"
-
-### Closing (4 min)
-**Wrap it up:**
-
-- Simple wrapping if time allows
-
-- Write "To: ___" and "From: ___"
-
-**Sharing:**
-
-- "Who is your gift for?"
-
-- "What did you think about while making it?"
-
-**St. Nicholas connection:**
-
-- "He gave without wanting thanks"
-
-- "Can you give this gift and not brag about it?"
-
-- "Let the GIFT show your love, not your words"
-
-**Closing Prayer:**
-"Thank You, God, for people we love. Thank You for the ability to make things with our hands. Help us be cheerful givers like St. Nicholas. May our gifts bring joy to others. Amen."
-
----
-
-## SAFETY / workable default
-Use a 5 x 15 cm teacher-precut cardstock bookmark; choose recipient, draw a purposeful message/pattern, test in a closed book and revise anything that obstructs use. Omit loose beads/buttons, hot glue and staples. Grade 1 dictates; Grade 2 explains one design revision. **Technology: None primary path.** Final 3 making minutes are cleanup; functional testing, not decoration alone, supports engineering evidence.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We made gifts with a recipient in mind. Ask: 'What did you choose for that person, and why?' Handmade, purchased and spoken gifts can all express love; do not rank families by purchases or time available."
-
----
-
-## ✅ Assessment
-
-- Designed with recipient in mind
-
-- Created thoughtful, careful work
-
-- Considered what recipient would enjoy
-
-- Connected gift-making to generosity
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

@@ -1,274 +1,85 @@
 ---
 title: "Week 12: Gifts of Service"
-description: "Grades 5-6 Year B service engineering project"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-5-6
-  - year-b
-  - coding
-  - engineering
-  - lent
-  - service
-  - arts
+description: "A tested classroom activity-card gift with explicit recipient approval"
+version: "3.0"
+date: 2026-10-04
 ---
 
-# 🎁 Week 12: Gifts of Service
+# Week 12: Gifts of Service
 
-## Lesson Overview
+## LESSON AT A GLANCE
 
-| | |
+| Field | Reference |
 |---|---|
-| **Grade Level** | Grades 5-6 |
-| **Duration** | 45 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | E (Engineering), T (Tech), R (Religion), A (Arts) |
-
----
-
-# Week 12: Gifts of Service
-
-## 🎯 Learning Objectives
-
-### STEM Objectives
-Students will be able to:
-1. Apply design thinking to service
-2. Create solutions for real needs
-3. Use technology to help others
-4. Prototype service-oriented gifts
-
-### Faith Integration Objectives
-Students will be able to:
-1. Understand service as Christian calling
-2. Connect giving to receiving Christ
-3. Design with dignity in mind
-
----
-
-# Week 12: Gifts of Service
-
-## 🙏 Faith-Reason Integration
-
-### Catholic Teaching Connection
-**Preferential Option for the Poor** — Catholic Social Teaching calls us to prioritize those in need. When we design gifts that serve others, we use our talents as Jesus commanded — loving our neighbors.
-
-### Scripture Connection
-> "Truly I tell you, whatever you did for one of the least of these brothers and sisters of mine, you did for me."
-> — Matthew 25:40
-
-### Saint Connection
-**St. Vincent de Paul** — Patron of charitable organizations who dedicated his life to serving the poor. He organized systematic charity, not just individual acts. He saw Christ in every person he served.
-
----
-
-## 📚 Materials Needed
-
-## SAFETY AND APPROVAL
-
-Make classroom cardboard mockups only. No patient-use, mobility, medical, food-contact, or safety devices; no real-use testing or distribution without prior recipient-organization consent and qualified review. No private health/family interviews. Use fictional need cards if no approved partner. Powered work requires the protected-AA circuit kit and adult inspection; no button cells or improvised supplies.
-
-**Local standards (not official):** CST-C2 - individual's dignity/access decision; CST-E1 - need with a criterion; CST-A2 - purposeful layout tested by a peer. Official benchmarks **VERIFICATION REQUIRED**.
-
-- Service partner information (who will receive gifts)
-
-- Design materials (various)
-
-- Technology tools as available
-
-- User needs documentation
-
-- Project planning sheets
-
----
-
-## 📝 Lesson Procedure (45 minutes)
-
-### Opening Prayer (2 min)
-"St. Vincent de Paul, pray for us! Lord, help us see Your face in those we serve. Guide our hands to create gifts that meet real needs. May our work honor both the givers and receivers. Amen."
-
-### Service & Design Thinking (8 min)
-**Using skills to serve:**
-
-**St. Vincent de Paul's approach:**
-
-- Saw needs systematically
-
-- Organized responses
-
-- Treated poor with dignity
-
-- Specific attributed sayings require an original source; the unsupported quotation is removed.
-
-**Design thinking for service:**
-1. **Empathize** — Understand who we're serving
-2. **Define** — Identify specific needs
-3. **Ideate** — Brainstorm solutions
-4. **Prototype** — Create quickly
-5. **Test** — Get feedback
-
-**Key principle:**
-"Design WITH people, not FOR people. Dignity means involvement."
-
-### Identify Service Recipients (5 min)
-**Who needs our help?**
-
-**Possible partners:**
-
-- Nursing home residents
-
-- Homeless shelter
-
-- Hospital patients
-
-- Refugee families
-
-- Younger students
-
-- Homebound elderly
-
-**Learn about recipients:**
-
-- What challenges do they face?
-
-- What would make their day better?
-
-- What needs aren't being met?
-
-- How can we help with dignity?
-
-### Need Analysis (10 min)
-**Deep dive into needs:**
-
-**For chosen recipient group:**
-
-**Physical needs:**
-
-- Comfort items
-
-- Practical tools
-
-- Accessibility aids
-
-**Emotional needs:**
-
-- Connection items
-
-- Entertainment
-
-- Beauty and joy
-
-**Spiritual needs:**
-
-- Prayer items
-
-- Encouraging messages
-
-- Reminders of God's love
-
-**Technology possibilities:**
-
-- Could an app help?
-
-- Could a device assist?
-
-- Could we create something digital?
-
-**Choose focus:**
-
-- What need resonates with your team?
-
-- What do you have skills to address?
-
-- What would make real difference?
-
-### Gift Design & Creation (15 min)
-**Design your service gift:**
-
-**Options:**
-
-**Tech-Enhanced:**
-
-- Simple app for specific need
-
-- QR code linking to resources
-
-- Digital photo album
-
-- Recorded messages/music
-
-**Engineered Solutions:**
-
-- Adaptive tools
-
-- Comfort items
-
-- Organization aids
-
-- Safety devices
-
-**Creative:**
-
-- Activity kits
-
-- Personalized items
-
-- Care packages with purpose
-
-**Design process:**
-1. Sketch solution
-2. List materials
-3. Begin prototype
-4. Plan completion
-
-**Quality standards:**
-
-- Respects dignity
-
-- Meets real need
-
-- Made with care
-
-- Could be replicated
-
-### Sharing & Next Steps (5 min)
-**Present concepts:**
-
-- What are you making?
-
-- Who is it for?
-
-- What need does it meet?
-
-- How does it show dignity?
-
-**Completion plan:**
-
-- What do you need to finish?
-
-- When will gifts be delivered?
-
-- How will we know it helped?
-
-**Closing Prayer:**
-"Lord, You taught us that whatever we do for the least, we do for You. Bless our gifts and those who receive them. Help us see Your face in everyone we serve. St. Vincent de Paul, inspire us to serve with both skill and love. May our work bring joy to others and glory to God. Amen."
-
----
-
-## 📎 Home Connection
-> "We're creating service gifts using our STREAM skills! Ask your child: 'Who are you serving?' 'What need are you addressing?' 'How are you using your skills to help?' Consider family service opportunities during the giving season — St. Vincent de Paul reminds us to see Christ in those we serve!"
-
----
-
-## ✅ Assessment
-
-- Applied design thinking to service
-
-- Identified real needs with dignity
-
-- Created thoughtful gift prototype
-
-- Connected service to faith
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+| Grade / schedule / rotation / unit | 5-6 / Weekly / B / Service |
+| Time | 1 meeting of 45 minutes |
+| Objective / why / big idea | I can define a user criterion and design/test a clear choice-based activity card. Gifts should meet stated needs, not presumed disability or poverty. |
+| Domains / Catholic connection | C, E, A; service respects dignity and recipient choice; no unsourced Vincent biography needed. |
+| Local standards | CST-C2: choice/access; CST-E1: criterion; CST-A2: purposeful visual design. Official benchmarks VERIFICATION REQUIRED. |
+| Technology Requirement | None; dry paper card primary. |
+| Difficulty / entry | Introductory; show icon/text pairing and spacing. |
+| Prep / cleanup | Light: first 15 min, repeat 10 min; cleanup 4 min. Kit: Activity Cards. |
+
+## BEFORE CLASS / MATERIALS
+
+Review accommodations/contact; seat 4/5/7/9 tool teams. Supply fictional brief:
+"A reading-table visitor wants a simple activity, may choose drawing or
+wordplay, and may decline. No name/prayer/health data needed." Each pupil
+creates one two-choice card: DRAW a favorite imaginary place / MAKE three
+words from STREAM / PASS is welcome. Adult recipient organization approval
+would be needed before distribution; classroom peer test is not real recipient
+validation. Criterion: peer locates both choices and PASS at 50 cm unaided.
+
+| Item | Allocation | 10 | 15 | 20 | 25 |
+|---|---|---:|---:|---:|---:|
+| Cardstock; paper evidence; pencil | 1 each/student | 10 | 15 | 20 | 25 |
+| Ruler; marker set; brief sheet | 1 each/team | 4 | 5 | 7 | 9 |
+| Board; clock; roster | 1 each/teacher | 1 | 1 | 1 | 1 |
+
+Cardstock/paper consumable; tools reusable; no bought gifts/electronics.
+
+## VOCABULARY / TEACHER BACKGROUND
+
+**Criterion:** checkable requirement. **Choice:** user decision.
+**Hierarchy:** visual importance/order. **Consent:** freely given permission.
+**Common misconception:** a gift must be accepted to count as service.
+**If asked, "Can we make a medical aid?"** No; this is an activity communication
+card, not a patient-use/food-contact/assistive/safety device.
+Worked wordplay examples: TEAM, STAR, RAM use available letters once per word.
+Three labels should be distinct; two choices plus PASS = three options.
+
+## EXACT LESSON SEQUENCE
+
+1. **0-4 (4 min):** Ask "What did the visitor actually request?" Introduce dignity/choice.
+2. **4-11 (7 min):** Model two-choice layout, high contrast and 50 cm test.
+3. **11-25 (14 min):** Each sketches two layouts, chooses one and makes card with original icons, clear instructions and PASS.
+4. **25-35 (10 min):** Partners locate three options without coaching; record found/not yet, revise spacing/wording, repeat. Do not infer emotional benefit.
+5. **35-41 (6 min):** Each explains criterion/constraint (one card), visual purpose/revision and recipient approval/decline safeguard.
+6. **41-45 (4 min):** Save cards/tests, cap/count tools, sort scrap and tidy.
+
+## QUESTIONS TO ASK STUDENTS / WHAT SUCCESS LOOKS LIKE
+
+"Can someone choose neither? What directs the eye? What did your test show?"
+Each has three-option test, purposefully revised layout and criterion/dignity
+decision. 1 unsupported; 2 prompted; 3 independent; 4 defends layout tradeoff;
+NE for untested work.
+
+## IF THINGS GO WRONG / SAFETY
+
+Too much text -> shorten while keeping choice/PASS. No cardstock -> paper
+same count. No approved partner -> store classroom prototypes; never claim
+delivery. No clinical/powered/food-contact items, private surveys, identifiable
+media, sharp tools or mandatory donations. Stop/report unsafe conditions.
+
+## SUPPORT / CHALLENGE / INDOOR FALLBACK
+
+Grade 5/support: large words, icon outlines, dictation and pre-folded card.
+Grade 6/challenge: compare two layouts for access and explain untested recipient
+needs. Indoor desk plan; no off-site service required.
+
+## CLEANUP / FAMILY NEWSLETTER
+
+Store prototypes pending adult approval, keep individual tests, count tools.
+**Explored:** service gift design. **Did:** tested a two-choice card.
+**Learned:** clear options/consent. **Catholic connection:** dignity in service.
+**Ask:** "How could someone decline?" Optional conversation; no routine homework.

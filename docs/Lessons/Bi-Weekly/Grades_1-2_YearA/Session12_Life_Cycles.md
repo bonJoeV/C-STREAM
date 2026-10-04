@@ -1,188 +1,105 @@
 ---
-title: "Session 12: Life Cycles"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A life science"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - engineering
-  - life-science
-  - animals
-  - lent
-  - easter
-  - arts
+title: "Life Cycles"
+description: "Plant stages form a continuing cycle; a model does not record real elapsed growth."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S3, CST-A1, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Life Cycles
 
-# Session 12: Life Cycles 🌱
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 12 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Life cycles |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, A, M / Plant stages form a continuing cycle; a model does not record real elapsed growth. |
+| Student objective / why | "I can sequence and represent plant stages and explain a model limit." Life-science reasoning does not depend on live specimens this day. |
+| Catholic connection | Distinguish a represented living process from spiritual renewal; honest model limits support careful inquiry in our Catholic classroom. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S3: physical, life or Earth systems/models; CST-A1: observational representation; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students explore plant and animal life cycles, discovering God's pattern of growth, change, and renewal in living things.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Draw/read the six distinct stage cards and adult-to-new-seed arrows. Label MODEL. Do not claim every species follows this exact appearance or that the drawing is dated school growth.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **stage order / coverage check / model limit**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 12: Life Cycles
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand that living things have life cycles
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Teacher-drawn bean life-stage card / kit / seed; sprout; leafy plant; flower; pod; seeds | 24 | 30 | 42 | 54 |
 
-- Sequence stages of plant and/or butterfly life cycles
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Create a life cycle model
+## Vocabulary and teacher background
 
-- Connect life cycles to God's pattern of renewal
+Sprout = early emerging plant; pod = holds developing seeds; cycle = continuing stages.
 
----
+The represented bean stages continue through new seeds. A dormant seed may be alive; stages do not mean death and resurrection.
 
-# Session 12: Life Cycles
+**Common misconception:** A model proves the days needed for growth or plants eat soil.
 
-## Materials Needed
+**If asked:** "Is soil plant food?" Plants make sugars using light and take water/minerals from their environment; the model does not test all needs.
 
-- 📦 Seeds and small pots (optional)
+## SAFETY
 
-- 📸 Life cycle pictures (plant, butterfly, frog)
+No live seed tasting, chemicals, sharp tools or compulsory planting/home care. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🎨 Paper plates for cycle craft
+## Meeting 1: Continuing plant model - 30 minutes
 
-- 📦 Pasta shapes (life cycle materials)
+1. **0-3:** Read six stage names and explain the MODEL label.
+2. **3-7:** Model arrows from seed through plant/pod to new seeds, not adult back into its own seed.
+3. **7-20:** Each child orders/draws the six stages with teacher-read names, traces relationships and records a six-feature coverage checklist. Partner removes/swaps one stage; child repairs it.
+4. **20-26:** Each child explains a transition, interprets coverage count and names something the model omits, such as actual timing.
+5. **26-30:** Return six reference cards and save individual stage diagrams. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 📓 Engineering journals
+## Questions to ask
 
-- 🦋 Butterfly kit (if available)
+- How do new seeds continue the cycle?
+- What does your model not measure?
 
----
+## Individual evidence and success
 
-## Catholic Integration
+**Grade 1:** Order at least seed/sprout/plant/new seeds with the six-card support and identify one connection.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Thérèse of Lisieux (The Little Flower)** — She compared spiritual growth to a flower blooming. Growth takes time and trust in God.
+**Grade 2:** Explain all six represented stages, repair an order error and interpret coverage without claiming real growth timing.
 
-### Scripture reference
-John 12:24; **VERIFICATION REQUIRED:** check the school's approved Bible. This is religious imagery: a viable seed does not need to die biologically to germinate.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear God, you made everything with cycles of growth and change. Thank you for seeds that become plants and caterpillars that become butterflies. Help us grow closer to you every day. Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Large picture cards, four key stages first, then teacher-supported six-stage sequence. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Explain why a mature plant does not become its own original seed again. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (5 minutes)
-1. **Growth Question** — "Have YOU changed since you were a baby?"
-2. **Life Cycles** — "Living things go through stages called a life cycle"
-3. **Examples:**
-   - Plants: seed → sprout → plant → flower → seed again
-   - Butterfly: egg → caterpillar → chrysalis → butterfly
-   - You: baby → child → teenager → adult
-4. **God's Pattern** — "God built change and growth into creation!"
+## If things go wrong / indoor alternative
 
-### Main Activity: Life Cycle Exploration (19 minutes)
+Missing card: teacher draws a labeled replacement. Confusing plant species: stay with the supplied simplified bean model rather than make universal botanical claims.
 
-**Part 1: Learn the Cycles (5 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Show plant life cycle:
-  1. 🌰 Seed (planted in soil)
-  2. 🌱 Sprout (pushes through)
-  3. 🌿 Plant (grows leaves)
-  4. 🌸 Flower (blooms)
-  5. 🌰 Seeds (makes new seeds!)
-  
+## Family copy - optional, no routine homework
 
-- Show butterfly life cycle:
-  1. 🥚 Egg (on a leaf)
-  2. 🐛 Caterpillar (eats and grows)
-  3. 🛖 Chrysalis (transforms inside)
-  4. 🦋 Butterfly (emerges!)
+We sequenced a plant cycle and explained what the model can and cannot show. Ask: "How do new seeds continue the cycle?" Optional: describe a plant cycle from a picture. No purchase, donation, device, home teaching or required take-home project.
 
-**Part 2: Life Cycle Craft (12 minutes)**
+## Sources and claim boundaries
 
-- Paper plate divided into 4 sections
-
-- Choose plant OR butterfly cycle
-
-- Create each stage:
-  - Draw pictures
-  - OR use pasta: orzo=egg/seed, rotini=caterpillar/sprout, shell=chrysalis/bud, bow tie=butterfly/flower
-
-- Add arrows showing cycle direction
-
-- Label stages
-
-**Part 3: Connection (2 minutes)**
-
-- A butterfly remains alive through its stages; a new generation begins with eggs laid by an adult.
-- Easter is a faith claim, not a repeating biological death/resurrection cycle. Teacher symbols must not replace the science.
-
-### Engineering Journal (4 minutes)
-1. Draw the life cycle you learned
-2. Label the stages
-3. Write: "God makes things grow by..."
-
-### Closing Circle (2 minutes)
-1. **Share** — Show life cycle crafts
-2. **Easter Preview** — "Easter celebrates the greatest new life—Jesus rising!"
-3. **Closing Prayer** — *"Thank you, God, for life cycles. Thank you that you can make all things new—even us! Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified stages of life cycle
-
-- [ ] Sequenced stages correctly
-
-- [ ] Created life cycle model
-
-- [ ] Connected to faith themes
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on one life cycle
-
-- Pre-drawn stages to color
-
-- Fewer stages (3 instead of 4-5)
-
-### For Advanced Students
-
-- Create both plant AND butterfly cycles
-
-- Add frog or human life cycle
-
-- Write about each stage
-
----
-
-## SAFETY / model accuracy / evidence
-Use drawn paper stages rather than loose pasta/food. No wild collecting or unapproved live butterfly release; teacher photos/models are the default. Grade 1 points to four ordered butterfly stages and tells a change; Grade 2 explains the new-generation arrow and a model limitation. Reducing to three pictures is support toward, not mastery of, four stages. **Technology: None primary path.** Last 3 model minutes are cleanup; no routine homework or purchased live kits.
-
-## Wonder at Home 🏠 (optional; discuss a book/picture instead of planting)
-**Family Activity:** Plant a seed and watch it grow! Bean seeds grow quickly. Take photos at each stage. Look for caterpillars, butterflies, or tadpoles in nature. Talk about how things change and grow.
-
----
-
-## Teacher Notes
-
-- Consider raising butterflies (kits available)
-
-- Great spring activity as plants and insects emerge
-
-- Strong connection to Easter resurrection themes
-
-- John 12:24 is particularly relevant
-
----
-
-**Previous:** [Session 11 — Lenten Engineers](./Session11_Lenten_Engineers.md)  
-**Next:** [Session 13 — Easter Innovation](./Session13_Easter_Innovation.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

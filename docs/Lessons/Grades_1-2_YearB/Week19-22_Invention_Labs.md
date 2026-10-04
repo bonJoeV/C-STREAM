@@ -1,384 +1,135 @@
 ---
-title: "Weeks 19-22: Invention Labs"
-description: "Grades 1-2 Year B student-directed exploration and creation"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - engineering
-  - astronomy
-  - service
-  - arts
+title: "Invention Labs"
+description: "An invention recommendation must meet a real user request and survive a repeatable test."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-E3, CST-M2]
+technology: None
+meetings: 4
+minutes: 30
 ---
 
-# 🔧 Weeks 19-22: Invention Labs
+# Invention Labs
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 4 sessions (30 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | Student-Directed (All Areas) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Invention |
+| Native time / scope | 4 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, E, M / An invention recommendation must meet a real user request and survive a repeatable test. |
+| Student objective / why | "I can choose a service problem, test a prototype and defend a revision with results." Four meetings allow listening, building, measured redesign and communication. |
+| Catholic connection | Listen to a classroom user and respect their preference; failure gives information rather than lowering a child's dignity. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-E1: needs, criteria and constraints; CST-E2: build, test and redesign; CST-E3: compare and communicate solutions; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Weeks 19-22: Invention Labs
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Ask a helper to choose one of two bounded requests: carry three paper balls 20 cm across a tabletop without loss, or keep six picture cards in two visible groups retrievable without moving the holder. Draw criterion icons and test sheet. Precut/inspect materials. No student invents a medical/high-reaching device.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **user / criterion and constraint / baseline and revised trials**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Identify problems and brainstorm solutions
-2. Design and build original creations
-3. Test ideas and iterate
-4. Present inventions and explain thinking
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. See themselves as creative like God
-2. Design inventions that help others
-3. Practice perseverance when things don't work
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 80 | 120 | 160 | 200 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Clean corrugated cardboard / kit / 20 cm squares | 16 | 20 | 28 | 36 |
+| Paper cups / kit / items | 16 | 20 | 28 | 36 |
+| Wooden craft sticks / kit / items | 32 | 40 | 56 | 72 |
+| Masking tape / kit / 10 cm strips | 64 | 80 | 112 | 144 |
+| Plain paper ball / kit / 5 cm diameter | 12 | 15 | 21 | 27 |
+| Index cards / kit / items | 24 | 30 | 42 | 54 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Weeks 19-22: Invention Labs
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Need = user problem; criterion = required result; constraint = material/time limit; trial = one test; tradeoff = gain with a cost.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Human Creativity** — Made in God's image, we share in His creativity. Inventors use their God-given imagination to solve problems and help others. When we create, we reflect our Creator!
+These are two safe classroom problem options, not identical required designs. Teams can vary form within the same issued materials. Compare a revised prototype with its own earlier test, not an unrelated team.
 
-### Scripture reference
-Isaiah 43:19; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** Any creative object is an invention that solves a problem.
 
-### Vocation connection
-Health-care workers, designers and neighbors can solve problems in service of others. Thomas Dooley's cause status and specific invention claims were not verified and are omitted; no saint title is assigned.
+**If asked:** "Does every invention have to work?" An honest failed trial is useful; a recommendation must name the remaining limitation.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Tabletop only, under 20 cm high; no body attachment, reaching above tables, medical/assistive use, food, balloons, launches, heavy loads or sharp recyclables. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Recycled materials collection
+## Meeting 1: Listen, define, choose - 30 minutes
 
-- Cardboard, tape, glue
+1. **0-3:** Read both user requests and ask teams which problem they will address.
+2. **3-7:** Demonstrate each test using bare materials, not a prescribed invention. State the full kit/time limits.
+3. **7-20:** Each child sketches two options, identifies user/criterion/constraint and discusses a choice with the partner-user. Teams select one request and plan material allocation.
+4. **20-26:** Each child explains one criterion versus one material limit and revises a plan after user feedback; save individual plans.
+5. **26-30:** Return balls/cards/sticks and save labeled dry prototypes between meetings; count unused tape/cardboard and retain reusable parts. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Craft supplies
+## Meeting 2: Build and baseline test - 30 minutes
 
-- Simple tools (kid-safe scissors)
+1. **0-3:** Retrieve selected request/plans; do not switch the criterion mid-test.
+2. **3-7:** Model a secure tape joint and the chosen test: three balls over 20 cm, or six cards sorted/retrieved in two groups.
+3. **7-20:** Teams build using the kit, reserving four tape strips for revision. Run two baseline trials with the same contents/route. Rotate builder, tester and recorder so every child acts/directs.
+4. **20-26:** Each child draws two pass/fail results and a weak feature; choose one revision based on those results. Do not call an untested attractive feature improvement.
+5. **26-30:** Return balls/cards/sticks and save labeled dry prototypes between meetings; count unused tape/cardboard and retain reusable parts. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Invention planning sheets
+## Meeting 3: One change, equivalent tests - 30 minutes
 
-- Testing space
+1. **0-3:** Read baseline results and the selected revision.
+2. **3-7:** Show how to keep contents, route and criterion constant while changing one feature.
+3. **7-20:** Teams revise, run two equivalent trials and record outcomes. Each child tests/directs a trial and makes aligned before/after success bars (0-2). Partner-user checks the actual request.
+4. **20-26:** Each child interprets the two bars and explains whether the revision helped, tied or worsened; record a remaining limitation.
+5. **26-30:** Return balls/cards/sticks and save labeled dry prototypes between meetings; count unused tape/cardboard and retain reusable parts. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
----
+## Meeting 4: Service invention fair - 30 minutes
 
-# Session 1: Inventor Thinking
+1. **0-3:** Retrieve user request, both result displays and prototype; use a table fair, not 25 speeches.
+2. **3-7:** Model a 30-second recommendation: user need, two results, chosen change and tradeoff.
+3. **7-20:** Pairs within table teams present records/prototypes; listeners ask one criterion question. Each author clarifies their visual explanation and checks the user request again. Teacher visits nine teams across practice.
+4. **20-26:** Each child independently recommends the design using before/after evidence and one tradeoff, or honestly says the current prototype misses a criterion. Thank the helper; classroom delivery is optional.
+5. **26-30:** Return balls/cards/sticks and save labeled dry prototypes between meetings; count unused tape/cardboard and retain reusable parts. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-## 📝 Lesson Procedure (30 minutes)
+## Questions to ask
 
-### Opening Prayer (2 min)
-"Dear God, You are the great Creator. You made us creative too! Help us think like inventors today — seeing problems and imagining solutions. May our ideas help others. Amen."
+- Which result supports your recommendation to the user?
+- What did your change gain and give up?
 
-### What is an Inventor? (8 min)
-**Discussion:**
+## Individual evidence and success
 
-- "What is an inventor?"
+**Grade 1:** Name a user need and material limit, show a safe test and identify a revision from an actual result.
 
-- "What inventions do you use every day?"
+**Grade 2:** Distinguish criterion/constraint, compare successes out of two before/after and defend a recommendation with a limitation/tradeoff.
 
-- Pencils, zippers, velcro, books...everything was invented!
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. The fair records demonstrated criteria, not all-domain mastery or real assistive-device readiness.
 
-**Inventor mindset:**
+## Support and challenge
 
-- "I see a problem"
+**Support / nonreader access:** Two pictured requests, prepared tape tabs and child-directed partner handling; individual oral explanations remain required. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- "I wonder how to fix it"
+**Challenge:** Compare two forms for the same user request without changing the test; defend a material-saving tradeoff. Do not add an unprepared activity or extend the native period.
 
-- "I try something"
+## If things go wrong / indoor alternative
 
-- "If it doesn't work, I try again!"
+No helper available: teacher supplies the actual classroom request and partner gives user feedback. Build unfinished: test a partial functional feature, record failure and revise within remaining material allocation. No measurable improvement: preserve the honest comparison; do not reset baseline results.
 
-**Service example:** A classroom helper asks for a tray to carry three paper balls between tables. Ask the user's preference and test a safe model; medical invention stories require verified sources before use.
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-### Finding Problems to Solve (10 min)
-**Brainstorm problems:**
+## Family copy - optional, no routine homework
 
-- "What's hard to do?"
+Our four-meeting service invention lab listened to a user, built models, compared repeatable trials and defended a redesign. Ask: "Which result supports your recommendation to the user?" Optional: ask which user request and test result supported your child's recommendation. No purchase, donation, device, home teaching or required take-home project.
 
-- "What could be better?"
+## Sources and claim boundaries
 
-- "What does someone need?"
-
-**Categories:**
-
-- School problems (carrying things, organizing)
-
-- Home problems (reaching, cleaning)
-
-- Play problems (storing toys, playing games)
-
-- Helping problems (pets, siblings, parents)
-
-**Choose YOUR invention focus:**
-
-- Pick ONE problem you want to solve
-
-- Draw the problem
-
-- Think: Who would this help?
-
-### Initial Sketches (8 min)
-**Draw your invention idea:**
-
-- What will it look like?
-
-- What will it do?
-
-- What materials might you need?
-
-**Not perfect — just IDEAS!**
-
-**Share with partner:**
-
-- Explain your problem
-
-- Explain your invention idea
-
-- Get feedback
-
-### Closing (2 min)
-**Preview:**
-"Next time: Start building!"
-
-**Closing Prayer:**
-"Thank You, God, for creative minds. Help us think of ways to help others. Bless our invention ideas! Amen."
-
----
-
-# Session 2: Design & Build
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Creative God, guide our hands today as we build. When things don't work, help us keep trying. Amen."
-
-### Planning Review (5 min)
-**Review your invention plan:**
-
-- What problem are you solving?
-
-- What will you build?
-
-- What materials do you need?
-
-**Get materials:**
-
-- Choose from available supplies
-
-- Think creatively — what could work?
-
-### Building Time! (20 min)
-**Create your invention!**
-
-**Inventor rules:**
-
-- It doesn't have to be perfect
-
-- It's okay if it doesn't work the first time
-
-- Ask for help when stuck
-
-- Be safe with materials
-
-**Teacher circulates:**
-
-- "Tell me about your invention"
-
-- "What problem does it solve?"
-
-- "What's working? What's tricky?"
-
-**When stuck:**
-
-- Try a different material
-
-- Try a different shape
-
-- Ask a friend for ideas
-
-- Look at other inventions for inspiration
-
-### Progress Check (3 min)
-**Quick share:**
-
-- Show your progress
-
-- What's working?
-
-- What do you still need to figure out?
-
-**Closing Prayer:**
-"Thank You for time to build today. Help us keep working on our inventions. Amen."
-
----
-
-# Session 3: Test & Improve
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Dear God, help us test our inventions and make them better. When things don't work, give us perseverance to try again. Amen."
-
-### Testing Phase (12 min)
-**Test your invention:**
-
-- Does it work?
-
-- Does it solve the problem?
-
-- What happens when you use it?
-
-**Inventor observation:**
-
-- What works well?
-
-- What doesn't work?
-
-- What could be better?
-
-**Record results:**
-
-- Draw what happened
-
-- Note what to change
-
-### Improvement Phase (13 min)
-**Make it better!**
-
-**Iteration — the inventor's secret:**
-
-- "Real inventors never get it right the first time"
-
-- "They try, learn, and improve"
-
-- "That's called ITERATION"
-
-**Make changes:**
-
-- Fix what didn't work
-
-- Add features
-
-- Strengthen weak parts
-
-- Make it look better
-
-**Test again:**
-
-- Does the improvement help?
-
-- Keep adjusting!
-
-### Closing (3 min)
-**Perseverance reflection:**
-
-- "Was it hard when things didn't work?"
-
-- "What helped you keep trying?"
-
-- "Inventors never give up!"
-
-**Preview:** "Next time: Share your inventions!"
-
-**Closing Prayer:**
-"Thank You, God, for perseverance. Help us keep trying even when it's hard. Amen."
-
----
-
-# Session 4: Invention Fair
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Thank You, God, for these weeks of inventing. Help us share our creations with joy. May our inventions inspire others! Amen."
-
-### Final Preparations (5 min)
-**Get ready to share:**
-
-- Final touches on invention
-
-- Practice your explanation
-
-- Set up display
-
-### Invention Fair (18 min)
-**Each inventor presents:**
-1. "The problem I wanted to solve was..."
-2. "My invention is called..."
-3. "Here's how it works..."
-4. "I want it to help..."
-
-**Demonstration:**
-
-- Show the invention
-
-- Show how it works
-
-- Let others try it (if appropriate)
-
-**Audience response:**
-
-- "I like how you..."
-
-- "I wonder if..."
-
-### Celebration (5 min)
-**Inventor celebration:**
-
-- Everyone clap for everyone!
-
-- "You are ALL inventors!"
-
-- "You used your God-given creativity"
-
-**Inventor certificates or stickers.**
-
-**Faith connection:**
-
-- "God is the ultimate Creator"
-
-- "You are made in His image"
-
-- "When you create, you're like God!"
-
-- "Keep inventing ways to help others!"
-
-**Closing Prayer:**
-"Thank You, God, for making us creative. Thank You for the problems that make us think and the inventions that help people. Help us keep seeing problems as opportunities to create solutions. Bless these young inventors! Amen."
-
----
-
-## SAFETY / assessed default / indoor fallback
-All inventions are tabletop models: no medical use, human loads, electrical mains, hot/sharp tools, body restraints, projectiles or animal testing. Screen recyclables. Default tray criterion: hold three crumpled paper balls for five seconds without spill; change one fold and retest. Grade 1 tells/draws a test/change; Grade 2 records two outcomes and defends the revision. At 25 use partner/table demonstrations rather than 25 long talks. Reserve final 4 making minutes each meeting for cleanup. **Technology: None primary path**; recycled cardboard supports all weather.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We had an Invention Lab! Your child designed and built an original invention to solve a problem. Ask them: 'What problem did you solve?' 'How does your invention work?' 'What was hard?' 'What did you learn?' Encourage inventing at home — cardboard boxes are great invention materials!"
-
----
-
-## ✅ Assessment
-
-- Identified problem to solve
-
-- Designed and built invention
-
-- Tested and improved design
-
-- Presented invention and explained thinking
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

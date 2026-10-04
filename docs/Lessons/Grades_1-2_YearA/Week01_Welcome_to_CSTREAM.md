@@ -1,235 +1,107 @@
 ---
-title: "Week 1: Welcome to C-STREAM"
-description: "Grades 1-2 introduction to C-STREAM - Faith, reason, and discovery"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - life-science
-  - astronomy
-  - arts
+title: "Welcome to C-STREAM"
+description: "Careful noticing comes before explanations."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S1, CST-A1]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🎉 Week 1: Welcome to C-STREAM
+# Welcome to C-STREAM
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Lesson Type** | Single-Week |
-| **STREAM Focus** | All areas introduction |
+| Grade / track / unit | Grades 1-2 / Weekly A / Welcome |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, A / Careful noticing comes before explanations. |
+| Student objective / why | "I can draw two things I notice, ask a question and choose a first learning step." Scientists and artists use attention rather than guesses. |
+| Catholic connection | Practice truthful noticing as a way to study and care about creation; distinguish a taught belief from an observed feature. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S1: observations, questions and evidence; CST-A1: observational representation. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 1: Welcome to C-STREAM
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Choose three familiar dry objects per kit: a leaf picture, pencil and smooth block. Draw eye/question/footstep icons. Keep biographies and acronym memorization out of the assessment.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **noticed detail / question / next practice step**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Identify what each letter in STREAM stands for
-2. Explain that STREAM helps us understand God's creation
-3. Set one personal learning goal for the year
-4. Ask a wonder question about something they want to learn
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Understand that faith and science work together
-2. Recognize that curiosity is a gift from God
-3. Identify at least one Catholic scientist
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Leaf picture / kit / items | 4 | 5 | 7 | 9 |
+| Pencil / kit / items | 4 | 5 | 7 | 9 |
+| Smooth wooden block / kit / items | 4 | 5 | 7 | 9 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 1: Welcome to C-STREAM
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Observe = notice with senses; question = something to investigate; goal = an action to practice.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Faith and Reason** — In Catholic teaching, faith and reason are not opposed — they work together! Science helps us understand HOW God's creation works, while faith helps us understand WHY God created it.
+A question such as "Does this roll?" can be tested; "It looks happy" is an interpretation. Briefly name C-STREAM areas, then let children investigate.
 
-### Scripture reference
-Psalm 19:1-2; **VERIFICATION REQUIRED:** check numbering/translation in the school's approved Bible. No quotation is reproduced; this is not scientific evidence.
+**Common misconception:** A drawing or guess automatically explains why something happens.
 
-### Catholic Scientist Connection - VERIFICATION REQUIRED before teaching biographies
-**Gregor Mendel** — A Catholic monk who discovered how traits are passed from parents to children (genetics). He studied pea plants and is called the "Father of Genetics."
+**If asked:** "Can faith and science go together?" Say that Catholic schooling values both faithful living and careful reasoning; the object test answers a testable question, not every question about meaning.
 
-### Wonder Question
-> "Have you ever wondered how scientists and people of faith can both love learning? Because God made our minds to be curious!"
+## SAFETY
 
----
+Only screened dry classroom objects; no tasting, sharp specimens or unknown plants. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-## 📚 Materials and Preparation
+## Meeting 1: Wonder and first goal - 30 minutes
 
-### Materials Needed
-| Item | Quantity | Source |
-|------|----------|--------|
-| STREAM poster or letter cards | 1 set | Teacher-made |
-| STREAM journal | 1 per student | School supply |
-| Catholic scientist picture cards | 5-6 | Teacher-made |
-| "My STREAM Goals" worksheet | 1 per student | Teacher-made |
-| Crayons/markers | Class set | Classroom |
+1. **0-3:** Show an object and offer an original short prayer for careful learning. Name one observed detail and one guess.
+2. **3-7:** Model looking, drawing two visible details and asking "What happens if I turn it?" Show a picture-step goal.
+3. **7-20:** Each child chooses an object, draws two details, asks a partner a testable question and tries a safe turn/roll test on a tray. Teacher checks each child.
+4. **20-26:** Children point to what they actually saw, distinguish it from their prediction and draw one practice goal; partners suggest a clearer detail.
+5. **26-30:** Return the three objects to each tray; save goal pages for Week 18. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-### Teacher Preparation
+## Questions to ask
 
-- [ ] Create or display STREAM letter poster
+- What did you notice rather than guess?
+- How could we check your question?
 
-- [ ] Prepare Catholic scientist cards (Mendel, Lemaitre, etc.)
+## Individual evidence and success
 
-- [ ] Set up Wonder Wall space
+**Grade 1:** Point to two represented details and ask one oral question; choose one concrete first step.
 
-- [ ] Prepare goal-setting worksheet
+**Grade 2:** Distinguish observation from prediction, ask a testable question and give a reason for a useful next step.
 
----
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. No scientist-name, acronym-recall or all-domain mastery is inferred.
 
-## 📝 Lesson Procedure
+## Support and challenge
 
-### ⏱️ Timing Guide (30 minutes)
+**Support / nonreader access:** Offer two objects and eye/question icons; teacher repeats each question orally. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-| Section | Time | Activity |
-|---------|------|----------|
-| Opening Prayer & Wonder | 3 min | Prayer and wonder question |
-| What is C-STREAM? | 8 min | Letter exploration and meaning |
-| Faith + Science | 7 min | Catholic scientists |
-| Goal Setting | 9 min | Personal goals |
-| Closing | 3 min | Share and pray |
+**Challenge:** Suggest what evidence would answer a second question without inventing an explanation. Do not add an unprepared activity or extend the native period.
 
----
+## If things go wrong / indoor alternative
 
-### 1. Opening Prayer & Wonder Moment (3 minutes)
+No leaf picture: use a second familiar dry object. A broad question: help narrow it to turning, rolling or comparing without supplying the answer.
 
-**Prayer:**
-> "Dear God, thank you for giving us curious minds. This year, help us to learn amazing things about Your creation and to grow closer to You through everything we discover. Amen."
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Wonder Question:**
-> "If you could learn about ANYTHING in the world, what would it be?"
+## Family copy - optional, no routine homework
 
-Take 2-3 quick responses.
+We practiced observation, drawing and honest questions, then chose a learning action. Ask: "What did you notice rather than guess?" Optional: describe two visible details on a familiar object. No purchase, donation, device, home teaching or required take-home project.
 
----
+## Sources and claim boundaries
 
-### 2. What is C-STREAM? (8 minutes)
-
-**Introduce each letter:**
-> "Welcome to C-STREAM! The 'C' stands for Catholic — because we're learning in a Catholic school where we connect everything to our faith."
-
-| Letter | Stands For | What We Do | God Connection |
-|--------|------------|------------|----------------|
-| **C** | Catholic | Learn with faith | God guides our learning |
-| **S** | Science | Ask questions, experiment | Understand God's creation |
-| **T** | Technology | Use tools, code robots | Use gifts wisely |
-| **R** | Religion | Pray, connect to faith | Everything leads to God |
-| **E** | Engineering | Design, build, solve | Create like God creates |
-| **A** | Arts | Draw, music, design | Create beauty |
-| **M** | Math | Count, measure, patterns | See God's order |
-
-**Practice chant with motions:**
-> "C-STREAM helps us learn and grow, about the world that God made so!"
-
-**Key Point:**
-> "In C-STREAM, we don't just learn science OR faith — we learn both TOGETHER!"
-
----
-
-### 3. Faith + Science (7 minutes)
-
-**Big Idea:**
-> "Some people think you can't believe in God AND be a scientist. But that's not true! Many amazing scientists were Catholics!"
-
-**Introduce Catholic Scientists:**
-
-**Gregor Mendel** (Show picture)
-> "Gregor Mendel was a monk — a man who devoted his life to God. He also studied pea plants and discovered how parents pass traits to their children. He's called the Father of Genetics!"
-
-**Georges Lemaître** (Show picture)
-Lemaitre's priesthood and cosmological contributions require a vetted biography before teaching. Do not describe expansion as a proven tiny point in space or as a complete explanation of why the universe exists. If sources are unavailable, replace this block with a child-generated observation/question about a classroom plant.
-
-**Discussion:**
-
-- "Can you be a person of faith AND a scientist?" (YES!)
-
-- "Why do you think these Catholics wanted to study science?" (To understand God's creation better)
-
----
-
-### 4. Goal Setting (9 minutes)
-
-**Introduce goal-setting:**
-> "This year, you're going to learn SO many things. But first, let's think about what YOU want to learn."
-
-**Distribute "My STREAM Goals" worksheet.**
-
-**Guide students through:**
-
-1. **What I already know** — Draw one thing you already know about science or technology
-2. **What I want to learn** — Draw something you want to learn this year
-3. **My goal** — Circle or write one goal:
-   - I will try new things
-   - I will ask questions
-   - I will help my friends learn
-   - I will keep trying when things are hard
-   - I will see God in what I learn
-
-**Students work for 5-6 minutes while teacher circulates.**
-
----
-
-### 5. Closing (3 minutes)
-
-**Partner share:**
-> "Turn to a neighbor and share your goal."
-
-**Wonder Wall:**
-> "Our Wonder Wall is where we put questions about things we wonder about. If you have a wonder question, you can add it anytime!"
-
-**Closing Prayer:**
-> "Dear God, thank you for this year of learning ahead. Help us to ask good questions, work hard, help our friends, and see You in everything we discover. Amen."
-
----
-
-## ✅ Assessment
-
-### Observation Checklist
-| Skill | Observed |
-|-------|----------|
-| Can name what STREAM stands for | ☐ |
-| Understands faith + science connection | ☐ |
-| Set a personal goal | ☐ |
-| Expressed wonder/curiosity | ☐ |
-
----
-
-## 🔄 Differentiation
-
-### For Students Who Need Support
-
-- Partner for goal-setting
-
-- Provide picture choices
-
-- Focus on verbal sharing
-
-### For Advanced Learners
-
-- Write goal in sentence form
-
-- Research another Catholic scientist
-
-- Create a wonder question for the Wonder Wall
-
----
-
-## 📎 Home Connection (optional; no routine homework)
-
-**Family Note:**
-> "Today we began our C-STREAM year! Your child learned that in Catholic school, we learn science, technology, engineering, art, and math — all connected to our faith. We also learned about Catholic scientists like Gregor Mendel. Ask your child: 'What is one thing you want to learn in STREAM this year?'"
-
----
-
-**Lesson Version:** {{ page.meta.version }}  
-**Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

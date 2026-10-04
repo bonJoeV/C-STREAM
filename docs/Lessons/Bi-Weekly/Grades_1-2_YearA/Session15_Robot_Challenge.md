@@ -1,202 +1,111 @@
 ---
-title: "Session 15: Robot Challenge"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A robotics challenge"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - robotics
-  - coding
-  - engineering
-  - light
-  - astronomy
-  - service
-  - arts
+title: "Robot Challenge"
+description: "A later robot mission rechecks individual code and uses a conditional plan honestly."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-T1, CST-T2, CST-M1]
+technology: Required
+meetings: 1
+minutes: 30
 ---
 
+# Robot Challenge
 
-# Session 15: Robot Challenge 🤖
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 15 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Coding |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, T, M / A later robot mission rechecks individual code and uses a conditional plan honestly. |
+| Student objective / why | "I can run and debug a stored Dash route and explain a conditional choice." One earlier robot contact does not establish expertise. |
+| Catholic connection | Return scarce tools carefully and explain why sharing them serves classmates; no machine is credited with making a moral choice. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-T1: tool use, input/output and troubleshooting; CST-T2: algorithms and debugging; CST-M1: count, compare and measure. Only the evidence below supports these local claims. |
+| Technology requirement | **Required**. Three complete Dash/tablet kits support four-minute waves; cards assess algorithm tracing only. |
+| Difficulty / prep / cleanup | Guided; Moderate, 20-30 minutes plus charging; final 4 minutes of **every** meeting. |
 
-Students use their Dash Robot skills from earlier to complete mission challenges, demonstrating growth in programming concepts.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Check three charged kits and stored Blockly execution. Mark three 1 m dry clear lanes with a start and 10 cm-wide goal zone at a short pretested distance. Draw a blue/red mission card rule: if blue choose two short forward blocks; otherwise one. This is a human-selected condition, not a robot color sensor.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **input card / predicted route / measured result and correction**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 15: Robot Challenge
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Apply programming skills to solve challenges
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Dash robot / class / items | 3 | 3 | 3 | 3 |
+| Compatible tablet / class / items | 3 | 3 | 3 | 3 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
+| Index cards / kit / items | 24 | 30 | 42 | 54 |
+| Masking tape / class / 10 cm strips | 24 | 24 | 24 | 24 |
 
-- Program a sequence of movements
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Problem-solve when code doesn't work (debugging)
+**ACCESS resource (software, not a physical material):** School-approved compatible Wonder Workshop Blockly; Start, short Drive and Stop controls pretested, manual Go not credited.. Use local classroom aliases, not names/photos/voice uploads; disable sharing and purchases. Actual school-approved access and installed controls are checked during preparation, not assumed from this document.
 
-- Collaborate on robot missions
+## Vocabulary and teacher background
 
----
+Mission = criterion; debug = repair mismatch; condition = choice based on input.
 
-# Session 15: Robot Challenge
+A condition can select a program; without an actual sensor/conditional block, do not call the robot autonomous. Measured endpoints depend on floor/start/heading.
 
-## Materials Needed
+**Common misconception:** Watching a team run proves every member wrote code.
 
-- 📦 Dash Robots (from CSCOE library)
+**If asked:** "Did Dash see the blue card?" No; you read the input and choose stored instructions.
 
-- 📱 Tablets with Go/Wonder app
+## SAFETY
 
-- 📋 Mission challenge cards
+Three dry low-speed lanes in one sightline, no riders, collisions, attachments or crossing walking routes; adult charges devices. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🚧 Obstacle materials (cups, blocks, tape)
+## Meeting 1: Recheck, debug, choose - 30 minutes
 
-- 📓 Engineering journals
+1. **0-3:** Recheck Run/Stop and name the goal-zone criterion; teach the blue/red card rule.
+2. **3-7:** Model Start -> short Drive -> Stop, predict, run, reset; change one drive parameter if endpoint misses.
+3. **7-20:** Use two four-minute waves for 10/15 pupils or three for 20/25, three teams per wave. Each member gets about 40 seconds to choose/edit, predict, Run/Stop and identify output; waiting teams trace both card inputs.
+4. **20-26:** Each child records measured endpoint/goal result and explains a code change plus the human-selected conditional choice; teacher checks individual actions during waves.
+5. **26-30:** Stop/park robots, retain local projects, count cards and remove lane tape. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 🏁 Tape for start/finish lines
+## Questions to ask
 
----
+- Which change helped reach the goal zone?
+- Who read the card condition: you or the robot?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED
-Thomas Aquinas biography requires a vetted source. The attributed "Logic is God's gift!" quotation is unverified and removed. Use children's own reasoning, not an invented saying.
+**Grade 1:** Individually Run/Stop a stored route and point to a changed block.
 
-### Scripture reference
-Philippians 4:13; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced or guarantee of coding success.
+**Grade 2:** Explain a reset/measured endpoint correction and trace both blue/red inputs without claiming robot sensing.
 
-### Opening Prayer
-*Dear God, thank you for giving us problem-solving minds. When things don't work, help us try again. Give us patience and creativity as we work with our robot friends today. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Neither token success nor human card selection proves autonomous hardware sensing.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Connected starter script, big input cards and oral directions. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (4 minutes)
-1. **Robot Review** — "We are learning specific skills; show the short sequence you can run."
-2. **Challenge Day** — "Today you'll complete MISSIONS!"
-3. **Programming Review:**
-   - Robots follow our instructions exactly
-   - We can drive OR we can program sequences
-4. **Growth Mindset** — "If it doesn't work, that's a learning chance!"
+**Challenge:** Explain which extra hardware/software evidence would be needed for autonomous sensing. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Robot Mission Challenges (20 minutes)
+## If things go wrong / indoor alternative
 
-**Mission Setup:** Create course with tape lines and obstacles
+Only one/two/no working kits: run feasible individual turns and trace cards for the rest; record missing hardware evidence. Connection failure: adult rechecks pairing/app; no manual steering substituted.
 
-**Part 1: Review & Practice (3 minutes)**
+**Indoor:** The indoor marked-lane route is primary; token/card work is available when safe floor space is absent.
 
-- Quick refresh of Dash controls
+## Family copy - optional, no routine homework
 
-- Practice driving forward and turning
+We rechecked stored robot code, measured a mission result and traced a human-selected condition honestly. Ask: "Which change helped reach the goal zone?" Optional: choose between two paper-token routes using a color/shape card. No purchase, donation, device, home teaching or required take-home project.
 
-- Use preflighted Blockly for stored forward-distance/turn sequences, as in revised Session 04; app labels must match installed help.
+## Sources and claim boundaries
 
-**Part 2: Mission Challenges (15 minutes)**
-
-**Mission 1: Straight Shot** (3 min)
-
-- Program Dash to drive from START to FINISH line
-
-- No driving—must use programming!
-
-- Goal: Accurate straight line
-
-**Mission 2: Turn Around** (4 min)
-
-- Program Dash to go forward, turn around, come back
-
-- Requires forward, turn 180°, forward
-
-**Mission 3: Obstacle Course** (5 min)
-
-- Navigate around cups or blocks
-
-- Requires turns and distance planning
-
-- Teams collaborate to solve
-
-**Mission 4: Creative Challenge** (3 min)
-
-- "Program Dash to do something cool!"
-
-- Add sounds, lights
-
-- Share with class
-
-**Part 3: Celebration (2 minutes)**
-
-- Teams share favorite accomplishments
-
-- Discuss: "What was tricky? How did you solve it?"
-
-### Engineering Journal (4 minutes)
-1. Draw one mission you completed
-2. Write: "The hardest part was..."
-3. Write: "I solved it by..."
-4. Rate your programming: Beginner → Expert!
-
-### Closing Circle (2 minutes)
-1. **Growth Celebration** — "Look how much you've learned!"
-2. **Problem-Solving** — "What did you do when it didn't work?"
-3. **Closing Prayer** — *"Thank you, God, for letting us solve problems and learn new things. Help us use technology wisely. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Completed at least two missions
-
-- [ ] Used programming (not just driving)
-
-- [ ] Problem-solved when stuck
-
-- [ ] Collaborated with team
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Simplified missions (shorter distances)
-
-- Partner with experienced programmer
-
-- Focus on driving with some programming
-
-### For Advanced Students
-
-- Create own mission course
-
-- Use Wonder app for complex programs
-
-- Mentor other students
-
----
-
-## Technology / SAFETY / measurable limit
-**Required primary path:** Dash/tablet/Blockly for physical stored code, not just Go driving. Preflight compatibility/charge; low-speed dry marked bays, no chasing, teacher-only cords. Narrow to one forward-turn-return mission and a debug rerun within the same time block. Each Grade 1 child points to/orders and runs two actions; Grade 2 runs three and explains one changed distance/turn result. Driving-only support is practice, not programming mastery. No devices: arrow/token debug, not real robot programming/operation credit. Reserve final 4 mission minutes for cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; oral directions without devices)
-**Family Activity:** Talk about robots at home! Where do we see robots? (Vacuums, car factories, space exploration) If you have a tablet, try ScratchJr to practice programming. Give family members "robot" commands to follow!
-
----
-
-## Teacher Notes
-
-- Reserve Dash Robots 2 weeks ahead
-
-- Charge all robots night before
-
-- Have backup activities if tech fails
-
-- This session shows growth from Session 4
-
----
-
-**Previous:** [Session 14 — Sound Engineering](./Session14_Sound_Engineering.md)  
-**Next:** [Session 16 — Community Helpers](./Session16_Community_Helpers.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

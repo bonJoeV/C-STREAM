@@ -1,219 +1,109 @@
 ---
-title: "Week 18: Growth Goals"
-description: "Grades 1-2 Year B New Year goal setting and measurement"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - life-science
-  - animals
-  - service
-  - arts
+title: "Growth Goals"
+description: "Useful progress records measure a task, not a child's body or spiritual worth."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-M1, CST-M2, CST-T2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🌱 Week 18: Growth Goals
+# Growth Goals
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **Curriculum** | Year B |
-| **STREAM Focus** | M (Math), R (Religion) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Reflection |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, M, T / Useful progress records measure a task, not a child's body or spiritual worth. |
+| Student objective / why | "I can measure a paper route and plan an ordered helping action." A safe task comparison replaces public height/ability comparisons. |
+| Catholic connection | Plan an inclusive classroom-helping routine and keep private goals free of moral rankings. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-M1: count, compare and measure; CST-M2: represent and interpret data/patterns; CST-T2: algorithms and debugging. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 18: Growth Goals
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Mark 10 cm and 20 cm routes on each kit tray using ruler/crayon; draw a three-attempt school tracker. Use no pupil height, weight or private faith chart.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **two lengths / ordered action / actual attempt**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Understand measurement as tracking change
-2. Set simple, achievable goals
-3. Create a visual goal tracker
-4. Understand growth over time
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Recognize that God wants us to grow
-2. Set goals for kindness and faith, not just skills
-3. Trust God to help us grow
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
+| Index cards / student / items | 30 | 45 | 60 | 75 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 18: Growth Goals
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Measure = compare with units; sequence = ordered actions; progress = changed task evidence.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Growth in Virtue** — God calls us to grow — not just taller, but in love, kindness, and faith. Setting goals helps us cooperate with God's plan for our growth.
+A tracker records attempts; route length is measurable but kindness is not centimeters.
 
-### Scripture reference
-Luke 2:52; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** Physical size or more tracker ticks means a better person.
 
-### Saint Connection
-**Saint Pier Giorgio Frassati** — Canonized September 7, 2025; [Vatican source](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html). Specific student/goal anecdotes are **VERIFICATION REQUIRED** before teaching.
+**If asked:** "Can we measure how holy someone is?" No; we record a learning task and respect each person.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+Seated paper routes and role-play only; no body measurements or required physical helping. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Height measuring chart
+## Meeting 1: Measure and plan - 30 minutes
 
-- Goal-setting worksheets
+1. **0-3:** Compare the two paper routes and a helping routine; separate length data from a care commitment.
+2. **3-7:** Model ruler zero/endpoints and invite -> listen -> share cards; repair an intentionally swapped order.
+3. **7-20:** Each child measures both routes with the same units, draws a length display, orders three helping steps and practices once with a partner.
+4. **20-26:** Each child compares lengths, explains the repaired order and marks only the actual attempt; save tracker for the next existing lesson opening check.
+5. **26-30:** Return rulers/cards and store private trackers. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Growth tracker templates
+## Questions to ask
 
-- Crayons/markers
+- What does your measurement tell you?
+- What does a tracker mark not tell you?
 
-- Plant seeds or seedlings (optional)
+## Individual evidence and success
 
----
+**Grade 1:** Measure from a common start and order a concrete helping routine.
 
-## 📝 Lesson Procedure (30 minutes)
+**Grade 2:** Record two lengths with units, explain a sequence repair and distinguish task data from personal worth.
 
-### Opening Prayer (2 min)
-"Dear God, You helped Jesus grow in wisdom and love. Help us grow this year too — not just taller, but kinder, smarter, and closer to You. Show us how to set good goals. Amen."
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Introduction: Growing in Every Way (5 min)
-**Growth conversation:**
+## Support and challenge
 
-- "How do you know you're growing?" (taller, bigger shoes, learning more)
+**Support / nonreader access:** Use equal drawn units and two initial action cards before three. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- "You grow in ways you can SEE and ways you CAN'T see"
+**Challenge:** Explain why route differences cannot measure kindness. Do not add an unprepared activity or extend the native period.
 
-**Luke 2:52 — Jesus grew in:**
+## If things go wrong / indoor alternative
 
-- **Wisdom** — Learning and understanding
+Ruler unavailable: teacher draws equal 1 cm units before class and label them; never mix hand spans. Goal too broad: choose one school action. Next existing lesson asks for one actual attempt, not a new counted meeting.
 
-- **Stature** — Body growing
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- **Favor with God** — Faith and prayer
+## Family copy - optional, no routine homework
 
-- **Favor with man** — Kindness and friendship
+We measured comparable task lengths and planned an inclusive helping action with an honest school tracker. Ask: "What does your measurement tell you?" Optional: describe a small helpful action without a required chart. No purchase, donation, device, home teaching or required take-home project.
 
-**All four matter!**
+## Sources and claim boundaries
 
-**Saint Pier Giorgio (anecdotes VERIFICATION REQUIRED):**
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.
 
-- "He was a student who worked hard at school"
-
-- "He was also very kind and helped poor people"
-
-- "He loved to climb mountains AND pray"
-
-- "He grew in EVERY way!"
-
-### Measuring Physical Growth (5 min)
-**Quick measurement activity:**
-
-- Measure heights (or hands, or shoe length)
-
-- Record numbers
-
-- "We'll measure again later to see growth!"
-
-**Math connection:**
-
-- "Numbers help us track change"
-
-- "We can SEE growth when we measure"
-
-### Setting Growth Goals (12 min)
-**Four goal areas (matching Jesus):**
-
-**1. Learning Goal (Wisdom):**
-
-- "What do you want to LEARN this year?"
-
-- Examples: Learn to read better, learn math facts, learn about animals
-
-- Write or draw goal
-
-**2. Body Goal (Stature):**
-
-- "How will you take care of your body?"
-
-- Examples: Run faster, eat healthy foods, get enough sleep
-
-- Write or draw goal
-
-**3. Faith Goal (Favor with God):**
-
-- "How will you grow closer to God?"
-
-- Examples: Pray every day, learn a new prayer, listen at Mass
-
-- Write or draw goal
-
-**4. Kindness Goal (Favor with People):**
-
-- "How will you be kind to others?"
-
-- Examples: Share more, include someone lonely, help at home
-
-- Write or draw goal
-
-**Create goal page:**
-
-- Four sections
-
-- Draw or write each goal
-
-- Decorate!
-
-### Growth Tracker (4 min)
-**Simple tracker:**
-
-- Chart or sticker system
-
-- Check off when working on goals
-
-- "Growth takes TIME and PRACTICE"
-
-**Plant connection (if available):**
-
-- Plant a seed together
-
-- "Just like this seed will grow, YOU will grow!"
-
-- "We'll watch it and watch ourselves grow too"
-
-### Closing (2 min)
-**Encouragement:**
-
-- "Growing takes time — be patient with yourself"
-
-- "God is always helping you grow"
-
-- "Even when it's hard, keep trying!"
-
-**Closing Prayer:**
-"Thank You, God, for helping us grow. Help us keep our goals and become more like Jesus — wise, healthy, faithful, and kind. When we struggle, help us try again. We trust You to help us grow. Amen."
-
----
-
-## Privacy / Grade 1 / follow-up
-Compare lengths of classroom objects rather than public body-height rankings. Grade 1 selects one classroom action, draws/dictates first step; Grade 2 may choose four goals. Track at school; revisit next opening. Never publicly rank bodies, prayer or home resources, or assess strength of faith from a tracker. **Technology: None primary path.** Last 2 planning minutes tidy supplies; no required home care/planting.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We chose classroom growth goals and first steps. Ask your child to tell or show a step they can practice. Trackers stay at school; optional conversation needs no purchase or home tracking."
-
----
-
-## ✅ Assessment
-
-- Participated in measurement activity
-
-- Set goals in multiple areas
-
-- Created goal page/tracker
-
-- Connected growth to faith
-
----
-
-**Lesson Version:** 1.0 — Year B | **
+Retained original source pointers (not additional required claims):
+- [Source pointer 1](https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/09/07/250907a.html)

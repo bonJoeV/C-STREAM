@@ -1,205 +1,107 @@
 ---
-title: "Session 07: Star Makers"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B Advent"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - engineering
-  - light
-  - astronomy
-  - advent
-  - christmas
-  - arts
+title: "Star Makers"
+description: "A star-pattern form has counted features and limitations as a sky model."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S3, CST-A2, CST-M1, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Star Makers
 
-# Session 07: Star Makers ⭐
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 7 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Light |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, A, M / A star-pattern form has counted features and limitations as a sky model. |
+| Student objective / why | "I can make a standing six-dot model and represent its pattern count." A geometric form is not the actual size or spacing of stars. |
+| Catholic connection | Separate Christmas star imagery from the physical source/model explanation; express wonder without inventing biblical history. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S3: physical, life or Earth systems/models; CST-A2: purposeful form and pattern; CST-M1: count, compare and measure; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students explore stars and light during Advent, engineering their own star creations that shine with the message of Jesus as Light.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Draw six-dot model cards, not an official named constellation. Precrease cardstock into two panels that can stand as a low zigzag. Set a visible/readable pattern purpose rather than a strongest-star contest.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **six-dot arrangement / visible-feature count / purpose and limit**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 07: Star Makers
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Explore properties of stars and light
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Cardstock / student / 15 cm square | 10 | 15 | 20 | 25 |
+| Teacher-drawn star-pattern card / kit / 6-dot model | 4 | 5 | 7 | 9 |
+| Masking tape / kit / 10 cm strips | 24 | 30 | 42 | 54 |
 
-- Engineer a 3D star structure
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Connect the Star of Bethlehem to Advent
+## Vocabulary and teacher background
 
-- Understand Jesus as "Light of the World"
+Source = makes light; pattern = arrangement; model = representation; form = shape.
 
----
+Stars produce light; paper reflects room light. A six-dot fold has no claim to real distances/sizes or the Star of Bethlehem's appearance.
 
-# Session 07: Star Makers
+**Common misconception:** The paper star emits light or reconstructs the biblical event.
 
-## Materials Needed
+**If asked:** "Were the Magi astronomers?" That profession is not established by this lesson and is not needed.
 
-- 📦 Craft sticks (for star frames)
+## SAFETY
 
-- ✨ Glitter, foil, metallic paper
+Teacher precuts/precreases; no hole punctures, glass, beams into eyes or Sun viewing. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🔦 Flashlights
+## Meeting 1: Counted star form - 30 minutes
 
-- 📦 Pipe cleaners
+1. **0-3:** Distinguish a distant source from a paper representation and faith imagery.
+2. **3-7:** Model six dots, count once and copy two relative positions onto folded card.
+3. **7-20:** Each child represents six dots, chooses an intentional contrast/placement, folds a low standing form and checks visibility with a partner. Revise an obscured dot; make a six-box feature checklist.
+4. **20-26:** Each child counts/compares visible features, explains an artistic choice and names a real-sky/model limit.
+5. **26-30:** Return reference cards/tape and save checked forms/evidence. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 📓 Design Detective journals
+## Questions to ask
 
-- 📸 Pictures of stars, night sky, Star of Bethlehem
+- How many dots are clearly visible in your form?
+- What does the model leave out?
 
----
+## Individual evidence and success
 
-## Catholic Integration
+**Grade 1:** Count six dots, show two matching positions and explain a visible design choice.
 
-### Biblical connection - VERIFICATION REQUIRED before teaching historical details
-**The Magi (Wise Men)** — They followed a star to find Jesus! Stars can lead us to God.
+**Grade 2:** Interpret the six-feature checklist and explain why folded paper does not show real stellar distances or emit light.
 
-### Scripture reference
-Matthew 2:2; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. The narrative does not establish the Magi's number, profession or the star's physical identity.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear Jesus, the Magi followed a star to find you. Help us follow your light this Advent season. You are the brightest star, the Light of the World! Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Large/tactile dots and a precreased low form; use a flat accessible model with the same representation criterion. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Explain how folding may hide a feature without changing the total dot count. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (5 minutes)
-1. **Advent Season** — "We're waiting for Christmas, for Jesus!"
-2. **Star Story** — The Magi followed a star
-3. **Star Facts:**
-   - Stars are giant balls of hot gas that make light
-   - Our sun is a star!
-   - Stars light up the dark sky
-4. **Jesus = Light** — "Jesus is the light that lights up our lives!"
-5. **Today's Challenge** — "Engineer your own star!"
+## If things go wrong / indoor alternative
 
-### Main Activity: Star Engineering (19 minutes)
+Form will not stand: use a wider low fold or a flat display, recording no standing outcome rather than add a pointed stake.
 
-**Part 1: Light Exploration (4 minutes)**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Flashlight experiments:
-  - Shine through different materials
-  - Make star shapes with fingers (shadows)
-  - "Stars give light in darkness"
+## Family copy - optional, no routine homework
 
-- "The Star of Bethlehem led the Wise Men to Jesus!"
+We made purposeful counted star-pattern forms and described their scientific limits. Ask: "How many dots are clearly visible in your form?" Optional: compare a drawing with the real thing it represents. No purchase, donation, device, home teaching or required take-home project.
 
-**Part 2: Engineer a Star (12 minutes)**
+## Sources and claim boundaries
 
-**Option A: Craft Stick Star**
-
-- Arrange craft sticks in star shape
-
-- Glue together
-
-- Decorate with glitter, foil
-
-- Add string for hanging
-
-**Option B: Pipe Cleaner Star**
-
-- Twist pipe cleaners into star shape
-
-- Create 3D structure
-
-- Add sparkly decorations
-
-**Option C: Woven Star**
-
-- More complex pattern
-
-- Yarn or ribbon woven through frame
-
-- Teacher assistance available
-
-**All Stars:**
-
-- Make it SHINE! (reflective materials)
-
-- This represents Jesus, our Light!
-
-**Part 3: Light Test (3 minutes)**
-
-- Shine flashlight on stars
-
-- Watch them sparkle!
-
-- "Our foil models reflect the flashlight; they do not generate light as actual stars do. Jesus-as-Light is a religious image, not a measured light source."
-
-### Design Detective Journal (4 minutes)
-1. Draw your star design
-2. Write: "Jesus is the light because..."
-3. Draw the Wise Men following the star
-
-### Closing Circle (2 minutes)
-1. **Star Display** — Show off star creations
-2. **Be a Star** — "How can YOU shine Jesus's light?"
-3. **Closing Prayer** — *"Jesus, Light of the World, help us shine your love. Guide us like the star guided the Wise Men. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Built star structure
-
-- [ ] Connected star to Advent meaning
-
-- [ ] Understood Jesus as Light
-
-- [ ] Designed with intention
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-made star frame to decorate
-
-- Simpler star design
-
-- Work with partner
-
-### For Advanced Students
-
-- Create multiple star designs
-
-- Make 3D standing star
-
-- Write Advent reflection
-
----
-
-## SAFETY / source versus reflection / evidence
-Low-power flashlights only; no lasers, flames, glass, sun viewing or beams at eyes. Teacher precuts any sharp-ended wire; prefer paper/craft-stick/tape stars and crayon/foil instead of loose glitter. Grade 1 compares flashlight on/off reflection orally; Grade 2 explains source versus reflector and revises a star pattern deliberately. **Technology: None primary path.** Last 3 building minutes are cleanup; no routine homework or required candle use.
-
-## Wonder at Home 🏠 (optional; indoor picture conversation equally valid)
-**Family Activity:** Look at the night sky together! Find stars. Talk about the Star of Bethlehem. Make stars to decorate your home for Advent. Light Advent candles and talk about Jesus as Light.
-
----
-
-## Teacher Notes
-
-- Display stars in classroom or church
-
-- Connect to Advent wreath and candles
-
-- Consider "star of the day" recognitions
-
-- Coordinate with religion class Advent activities
-
----
-
-**Previous:** [Session 06 — Gratitude Gifts](./Session06_Gratitude_Gifts.md)  
-**Next:** [Session 08 — Digital Art](./Session08_Digital_Art.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

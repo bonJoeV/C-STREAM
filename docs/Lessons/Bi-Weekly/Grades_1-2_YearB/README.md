@@ -14,9 +14,11 @@ See the [Grades 1-2 review and downloadable audit](../../../Review/Grades_1-2_Re
 
 Year A is **not** a prerequisite. Teach safe handling, observation and picture sequences before challenges. Grade 1 can point, draw or respond orally without reading; Grade 2 should justify a feature/measurement and revise using evidence. Session 14 rechecks Session 03 stored-code start/stop rather than declaring students experts.
 
-Meet Sphero and Garden Engineers are fully rebuilt; remaining files have targeted corrections but unresolved readiness work. Historical/doctrinal details and official benchmarks marked **VERIFICATION REQUIRED** must be verified before teaching; no universal substitute-readiness claim is made.
+All 17 files are complete documented packages: Meet Sphero and Garden Engineers are preserved references; the remaining 15 plans are rebuilt. Mathematics progresses through same-start measurement, repeated counts, two-part/equal-group operations and interpreted data, with distinct Grade 1/Grade 2 checks in the actual steps. Maria Agnesi's brief context is source-checked; unsupported quotations/history are omitted. School stock/policy and classroom pilots remain conditional, not documentation gaps or observed outcomes.
 
 ---
+
+For trio-based lessons, **10/15/20/25 pupils use 4/5/7/9 groups**: two trios and two pairs; five trios; six trios and one pair; seven trios and two pairs. [Optional reference routines](../../../Resources/Grade_Band_Reference_Routines.md) support kit checks and individual evidence but do not replace the lesson's complete sequence, supplies or safety. Pair-based lessons keep their own allocation/reserve plan. Fewer devices use the lesson's stated waves/shared tests, not groups of four or credit for watching.
 
 ## 📋 Session Overview
 
@@ -36,7 +38,7 @@ Meet Sphero and Garden Engineers are fully rebuilt; remaining files have targete
 | [Session 12](./Session12_Butterfly_Wonder.md) | Butterfly Wonder | Life Cycles | Metamorphosis |
 | [Session 13](./Session13_Easter_Joy.md) | Easter Joy | Resurrection | New life celebration |
 | [Session 14](./Session14_Sphero_Challenge.md) | Sphero Challenge | Technology | Robot missions |
-| [Session 15](./Session15_Simple_Machines.md) | Simple Machines | Engineering | Levers and pulleys |
+| [Session 15](./Session15_Simple_Machines.md) | Simple Machines | Tools/Math | Gentle lever and ramp-distance comparison |
 | [Session 16](./Session16_Earth_Care.md) | Earth Care | Environment | Creation care |
 | [Session 17](./Session17_Celebration.md) | Year Celebration | Exhibition | Portfolio showcase |
 
@@ -88,7 +90,7 @@ Possible loans only: confirm actual availability, booking terms, model/app compa
 
 - Garden supplies
 
-Plant care stays at school with a named adult checking moisture; no automatic daily watering, outdoor growth requirement or compulsory home care. Photos/models replace live butterflies unless species/care/ecological plans are approved; purchased animals are not released simply because weather is warm. Digital art is **Recommended**, not device-essential; actual robot execution has a **Required primary path** with an honest algorithm-only fallback. Home activities are optional with no routine homework, purchases or required donations.
+Plant care stays at school with a named adult checking moisture; no automatic daily watering, outdoor growth requirement or compulsory home care. Butterfly Wonder uses stage models, not live acquisition/release options. Digital art is **Recommended** for a genuine Undo/revision objective; paper art does not establish digital control operation. Actual robot execution has a **Required primary path** with an honest algorithm-only fallback. Home activities are optional with no routine homework, purchases or required donations.
 
 - Construction paper
 

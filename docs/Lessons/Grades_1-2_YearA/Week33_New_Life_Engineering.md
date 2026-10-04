@@ -1,169 +1,107 @@
 ---
-title: "Week 33: New Life Engineering"
-description: "Grades 1-2 Easter and spring engineering projects"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-a
-  - engineering
-  - life-science
-  - animals
-  - easter
-  - arts
+title: "New Life Engineering"
+description: "A protective plant-sign model must still show the living thing clearly."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-S3, CST-A1, CST-E2, CST-C3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
-# 🦋 Week 33: New Life Engineering
+# New Life Engineering
 
-## Lesson Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 30 minutes |
-| **STREAM Focus** | E (Engineering), S (Science), R (Religion) |
+| Grade / track / unit | Grades 1-2 / Weekly A / New life |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | S, A, E, C / A protective plant-sign model must still show the living thing clearly. |
+| Student objective / why | "I can represent a plant and test a stable label stand." This connects earlier growth observations with a small tested classroom design. |
+| Catholic connection | Protect and care for classroom plants; spring imagery is not biological resurrection. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-S3: physical, life or Earth systems/models; CST-A1: observational representation; CST-E2: build, test and redesign; CST-C3: stewardship and responsible work. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Week 33: New Life Engineering
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Use the Week 29-31 plant or a clearly labeled substitute picture. Pretest a folded cardstock tent below 15 cm high. Draw criterion icons: stands 10 seconds, readable plant detail, stays out of pot.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Design and build a project related to new life/spring
-2. Observe signs of new life in nature
-3. Apply engineering design process
-4. Connect science of life cycles to project
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect new life in nature to Jesus's Resurrection
-2. Understand that Easter brings new life
-3. Recognize God's power over death and darkness
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Plant picture / kit / items | 4 | 5 | 7 | 9 |
+| Cardstock / student / 10 x 15 cm piece | 10 | 15 | 20 | 25 |
+| Masking tape / kit / 10 cm strips | 24 | 30 | 42 | 54 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Week 33: New Life Engineering
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Growth = living change; label = identifies; stable = stands; model = representation.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Resurrection and New Life** — At Easter, we celebrate Jesus rising from the dead. Spring shows us new life all around — flowers blooming, butterflies emerging, baby animals being born. Creation reflects the Resurrection!
+A label stand is engineering; the observed plant drawing is life-science/art evidence. A picture is not evidence of new growth this week.
 
-### Scripture reference
-John 11:25; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** Dormancy or spring growth means a plant died and resurrected.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching historical details
-**St. Mary Magdalene** — She was the first to see Jesus risen from the dead on Easter morning. She went from sadness to JOY when she saw that new life had conquered death.
+**If asked:** "Did our drawing grow?" No; it represents a living plant, and our stand test answers a stability question.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+No seed tasting, pot contact, sharp plant stakes or outdoor searching. Dry stand remains beside, not inside, the pot. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Pictures of spring/new life (butterflies, flowers, baby animals)
+## Meeting 1: Plant-detail stand - 30 minutes
 
-- Building materials: paper, cardboard, pipe cleaners, pom poms
+1. **0-3:** Notice two plant features from the real specimen or labeled picture.
+2. **3-7:** Model drawing those details and folding a cardstock tent with no sharp stake.
+3. **7-20:** Each child draws a plant label, folds a stand, tests 10 seconds and revises fold width/tape placement if needed. Partners check that one detail remains visible.
+4. **20-26:** Each child points to an accurate plant detail and compares first/revised stand results; state how the model avoids disturbing the plant.
+5. **26-30:** Keep stands away from pots, collect unused tape and return plant/picture safely. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Scissors and tape
+## Questions to ask
 
-- Spring nature items (optional: seeds, flowers)
+- Which plant detail does your model show?
+- What did the standing test tell you?
 
-- Resurrection story visual
+## Individual evidence and success
 
----
+**Grade 1:** Show two observed details and a standing test/change.
 
-## 📝 Lesson Procedure (30 minutes)
+**Grade 2:** Explain a life-model limitation and a test-based design change without claiming growth from a picture.
 
-### Opening Prayer & Introduction (5 min)
-**Easter Prayer:** "Risen Jesus, You conquered death and brought us new life! As we see new life in spring, help us remember Your Resurrection. Alleluia! Amen."
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-**Signs of new life:**
+## Support and challenge
 
-- "What signs of spring do you see?"
+**Support / nonreader access:** Use a precreased wide tent and adult placement under child direction. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- List: flowers, butterflies, baby birds, green leaves, longer days
+**Challenge:** Test whether a wider base obscures any picture and explain the tradeoff. Do not add an unprepared activity or extend the native period.
 
-- "After the cold and darkness of winter, new life comes!"
+## If things go wrong / indoor alternative
 
-**Faith Connection:** "Easter is like the biggest spring ever! Jesus was in the dark tomb, but He rose to new life. He's stronger than death!"
+No plants or earlier record: use a clearly labeled plant picture; growth change is unassessed. Stand fails: lower and widen it, not add a sharp stake.
 
-### Engineering Challenge Introduction (4 min)
-**Today's Challenge: Build something that shows NEW LIFE**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Options:**
-1. **Butterfly** — Design a butterfly with moving wings
-2. **Flower** — Create a flower that can "bloom" (open and close)
-3. **Bird Nest** — Build a nest that can hold eggs
-4. **Anything else** that shows new life in spring!
+## Family copy - optional, no routine homework
 
-**Design criteria:**
+We represented plant details and tested stable labels while protecting classroom plants. Ask: "Which plant detail does your model show?" Optional: describe a plant or plant picture indoors. No purchase, donation, device, home teaching or required take-home project.
 
-- Shows the idea of "new life"
+## Sources and claim boundaries
 
-- Has at least one moving or interactive part
-
-- Uses available materials creatively
-
-### Design & Build (16 min)
-**Quick plan (3 min):**
-
-- Choose your project
-
-- Sketch your idea
-
-- List materials
-
-**Building time (13 min):**
-Students create their new life projects.
-
-**Teacher prompts:**
-
-- "How does this show new life?"
-
-- "What's your moving part?"
-
-- "What would make it better?"
-
-**Encourage creativity:**
-
-- There's no one right way!
-
-- Try different approaches
-
-- It's okay if it's not perfect
-
-### Sharing & Closing (5 min)
-**Quick share:** Students show creations and explain:
-
-- "This shows new life because..."
-
-- "It moves like this..."
-
-**Faith Connection:** Spring growth can be a reminder of Easter hope, not a scientific demonstration of resurrection. A dormant plant and developing chrysalis are living, not dead and resurrected.
-
-**Closing Prayer:** "Risen Jesus, thank You for the gift of new life! Thank You for spring, for Easter, and for the promise that we will live forever with You. Help us share the joy of Your Resurrection with everyone we meet. Alleluia! Amen."
-
----
-
-## ✅ Assessment
-
-- Created a project representing new life
-
-- Included an interactive or moving element
-
-- Explained how project connects to new life theme
-
-- Connected spring/new life to Resurrection
-
----
-
-## SAFETY / indoor default / evidence
-Use paper flowers with a folded opening petal as the default; no real eggs, animal collection, sharp wire ends or body-worn moving parts. Indoor spring pictures work in any weather. Grade 1 shows opening/closing twice and draws a change; Grade 2 explains one revision after a failed opening. Use final 3 building minutes for cleanup. Artistic symbolism does not establish biological causation.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We celebrated new life today! Your child made a project showing spring and new life. Ask them: 'How does your project show new life?' 'How is Easter like spring?' Look for signs of new life together in your neighborhood. Talk about how Jesus's Resurrection is the ultimate new life!"
-
----
-
-**Lesson Version:** 1.0 | **
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

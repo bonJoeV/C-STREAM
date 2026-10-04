@@ -1,183 +1,105 @@
 ---
-title: "Session 02: God's Patterns"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A exploring patterns"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - engineering
-  - life-science
-  - astronomy
-  - animals
-  - arts
+title: "Gods Patterns"
+description: "A repeating unit can organize a purposeful visual or rhythmic message."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-A2, CST-M2]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Gods Patterns
 
-# Session 02: God's Patterns 🔢
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 2 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Patterns |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, A, M / A repeating unit can organize a purposeful visual or rhythmic message. |
+| Student objective / why | "I can make, extend and repair a pattern and explain its purpose." Pattern rules support mathematics and genuine artistic choices. |
+| Catholic connection | Respect different creative choices and return shared pattern materials; a pattern is not scientific proof of a belief. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-A2: purposeful form and pattern; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Moderate, 20-30 minutes first reusable set; light 5-10 minutes thereafter; final 4 minutes of **every** meeting. |
 
-Students discover that God built patterns into creation—in math, nature, art, and music—exploring the beautiful order of the universe.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Count 30 existing large pattern shapes or batch-precut colored paper shapes per kit, enough for up to three 9-shape patterns. Draw AB and ABB examples plus one intentional error. Use paper crayons for a silent rhythm route.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **unit / next two elements / corrected pattern**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 02: God's Patterns
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Identify patterns in nature and everyday life
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Pattern shape / kit / large reusable shapes | 120 | 150 | 210 | 270 |
 
-- Create and extend patterns using different materials
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Understand that patterns show God's order in creation
+## Vocabulary and teacher background
 
-- Connect mathematical thinking to beauty
+Unit = repeated part; predict = say what comes next; rhythm = timed pattern.
 
----
+A repeated-looking natural feature is not always a strict mathematical repeat. Assess a constructed rule, not a claim that everything in nature repeats perfectly.
 
-# Session 02: God's Patterns
+**Common misconception:** Any decorative arrangement is a repeating pattern.
 
-## Materials Needed
+**If asked:** "Must every leaf match exactly?" No; nature has variation. Our constructed pattern has a stated rule.
 
-- 📦 Pattern blocks
+## SAFETY
 
-- 🌿 Nature items with patterns (pinecones, leaves, flowers)
+Large cards only; no beads, food props or loud compulsory clapping. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📸 Pictures of patterns in nature (honeycomb, zebra, snowflakes)
+## Meeting 1: Pattern communication - 30 minutes
 
-- 🎨 Pattern worksheets or paper strips
+1. **0-3:** Show a patterned border intended to welcome a viewer; ask which part repeats.
+2. **3-7:** Model AB twice, then an incorrect next card; explain how the unit predicts the correction.
+3. **7-20:** Each child makes AB twice (Grade 1) or ABB/AAB three times (Grade 2), chooses a color/shape purpose and trades a next-two prediction. Partners insert one error; each author repairs it.
+4. **20-26:** Each child identifies the unit, next two elements and purposeful visual choice; return reusable cards thoughtfully.
+5. **26-30:** Count 30 cards per kit and save each child's drawn pattern before dismantling. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 🖍️ Crayons/markers
+## Questions to ask
 
-- 📓 Engineering journals
+- Which part of your pattern repeats?
+- Why did you choose those shapes or colors?
 
----
+## Individual evidence and success
 
-## Catholic Integration
+**Grade 1:** Identify AB, extend by two elements and explain one purposeful choice.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**Blessed Nicolas Steno** — A Catholic scientist who discovered patterns in crystals and rock layers, showing God's order in geology!
+**Grade 2:** Identify ABB/AAB, repair an error and explain the prediction using the unit.
 
-### Scripture reference
-Ecclesiastes 3:11; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Opening Prayer
-*Dear God, you made a world full of beautiful patterns—in flowers, snowflakes, and math. Open our eyes to see your wonderful order all around us. Amen.*
+## Support and challenge
 
----
+**Support / nonreader access:** Use two high-contrast or tactile shapes with teacher oral rhythm; avoid color-only distinctions. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-## Lesson Procedure
+**Challenge:** Show the same rule using a silent four-beat finger/tap representation. Do not add an unprepared activity or extend the native period.
 
-### Opening Circle (6 minutes)
-1. **Pattern Hunt** — "What patterns do you notice in our classroom?"
-2. **Definition** — "A pattern is something that repeats in a predictable way"
-3. **Nature Patterns** — Show pictures:
-   - Honeycomb (hexagons)
-   - Zebra stripes
-   - Flower petals
-   - Snowflakes (6 points)
-   - Pinecone spirals
-4. **Wonder** — "Why do you think God made so many patterns?"
+## If things go wrong / indoor alternative
 
-### Main Activity: Pattern Exploration (18 minutes)
+Cards missing: draw shapes on allocated paper. Sound sensitivity: use a silent pointing pattern with the same rule; no music performance claim on that route.
 
-**Station Rotation or Whole Group:**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Part 1: Nature Patterns (5 minutes)**
+## Family copy - optional, no routine homework
 
-- Examine real nature items with magnifying glasses
+We created purposeful patterns, predicted their continuation and repaired an error. Ask: "Which part of your pattern repeats?" Optional: tell or point to a two-part pattern indoors. No purchase, donation, device, home teaching or required take-home project.
 
-- Pinecone spirals, leaf veins, flower petals
+## Sources and claim boundaries
 
-- "What patterns do you see?"
-
-- Count: petals, spirals, sections
-
-**Part 2: Create Patterns (8 minutes)**
-
-- Pattern blocks: Create your own repeating pattern
-
-- Share with partner: "What comes next in my pattern?"
-
-- Challenge patterns:
-  - AB pattern (red, blue, red, blue)
-  - ABC pattern (red, blue, yellow, red, blue, yellow)
-  - ABB pattern (red, blue, blue, red, blue, blue)
-
-**Part 3: Pattern Art (5 minutes)**
-
-- Create a pattern border on paper
-
-- Draw a nature pattern you observed
-
-- Add color!
-
-### Engineering Journal (4 minutes)
-1. Draw a pattern you discovered today
-2. Create your own pattern design
-3. Write: "God's patterns are..."
-
-### Closing Circle (2 minutes)
-1. **Share** — Show one pattern you made or found
-2. **Connection** — "Patterns help us predict what comes next—scientists use patterns too!"
-3. **Closing Prayer** — *"Thank you, God, for the patterns in your beautiful world. Help us notice your order everywhere. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified patterns in nature
-
-- [ ] Created original patterns
-
-- [ ] Extended patterns correctly
-
-- [ ] Connected patterns to God's creation
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on simple AB patterns
-
-- Pre-made pattern starters to complete
-
-- Pair with pattern buddy
-
-### For Advanced Students
-
-- Create complex patterns (AABB, ABCD)
-
-- Growing patterns (1, 2, 3... or square numbers)
-
-- Write about why patterns matter
-
----
-
-## SAFETY / evidence / cleanup
-Screen large nature items; no unknown plant touch/tasting or loose tiny seeds. Grade 1 orally points to an AB repeating unit and next two items; Grade 2 explains ABB/AAB and repairs one wrong item. Nature pattern observation is not a proof of a theological claim. **Technology: None primary path.** Use final 3 art minutes for sorting/reuse/cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional)
-**Family Activity:** Go on a "Pattern Hunt" at home and outside! How many patterns can you find? Look at tiles, fabrics, plants, and animals. Draw your favorite patterns.
-
----
-
-## Teacher Notes
-
-- Some plants exhibit spiral counts associated with Fibonacci numbers; do not promise every specimen matches. Verify a specific example before extending beyond observed counts.
-
-- Connect to math class pattern work
-
-- Save pattern artwork for display
-
----
-
-**Previous:** [Session 01 — Wonder Engineers](./Session01_Wonder_Engineers.md)  
-**Next:** [Session 03 — Bridge Building](./Session03_Bridge_Building.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

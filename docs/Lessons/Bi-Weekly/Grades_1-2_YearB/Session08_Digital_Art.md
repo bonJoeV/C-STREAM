@@ -1,182 +1,107 @@
 ---
-title: "Session 08: Digital Art"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B technology and arts"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - astronomy
-  - animals
-  - arts
+title: "Digital Art"
+description: "Digital undo enables purposeful revision and safe local communication."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-T1, CST-T3, CST-A3, CST-M2]
+technology: Recommended
+meetings: 1
+minutes: 30
 ---
 
+# Digital Art
 
-# Session 08: Digital Art 🎨
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 8 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Art |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | T, A, M / Digital undo enables purposeful revision and safe local communication. |
+| Student objective / why | "I can use drawing/undo tools to clarify a message and compare revision counts." Undo is a genuine digital capability; a paper revision does not prove its operation. |
+| Catholic connection | Use creative gifts responsibly and respect viewers' privacy; digital sharing should not expose another person's information. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-T1: tool use, input/output and troubleshooting; CST-T3: data, privacy and responsible communication; CST-A3: artistic communication, critique and revision; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **Recommended**. The digital path makes undo/input-output the tool objective; paper meets artistic communication only. |
+| Difficulty / prep / cleanup | Guided; Moderate, 15-25 minutes first setup; final 4 minutes of **every** meeting. |
 
-Students explore digital art creation using tablets, discovering how technology can be used for creative expression and praise.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Choose one approved offline app; open a blank canvas, test pen/eraser/Undo/local save and draw a control picture card on the board. Prepare no accounts, stamps requiring downloads, photos or public exports. Draw four icon-feature boxes for a welcoming picture.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **intended message / tool action / before-after feature count**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 08: Digital Art
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Use a digital drawing app to create art
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Compatible tablet / kit / items | 4 | 5 | 7 | 9 |
 
-- Explore digital tools (brush, colors, stamps)
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Create a meaningful digital artwork
+**ACCESS resource (software, not a physical material):** School-approved offline drawing app with pen, eraser and Undo; teacher pretests the actual interface and local save/open.. Use local classroom aliases, not names/photos/voice uploads; disable sharing and purchases. Actual school-approved access and installed controls are checked during preparation, not assumed from this document.
 
-- Connect digital creativity to praising God
+## Vocabulary and teacher background
 
----
+Undo = reverse the last digital action; revision = deliberate change; private = not for public sharing.
 
-# Session 08: Digital Art
+Undo changes the stored image; erased paper does not use that software control. Count represented message features, not artistic merit.
 
-## Materials Needed
+**Common misconception:** Touching a tablet automatically demonstrates digital-art skill.
 
-- 📱 Tablets with drawing app (such as: Kids Doodle, Drawing Pad, Tayasui Sketches)
+**If asked:** "Can I upload my name/photo?" No; the local picture uses fictional/nonidentifying symbols.
 
-- 📓 Design Detective journals
+## SAFETY
 
-- 🖼️ Examples of digital art
+Dry seated tablets, no charging leads at student places, account creation, purchases or uploads. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📋 App navigation guide
+## Meeting 1: Undo, communicate, count - 30 minutes
 
----
+1. **0-3:** Set a welcoming classroom message and privacy choice.
+2. **3-7:** Model adding a mark, Undoing it, then making an intentional alternative; show pen/eraser differences and local save.
+3. **7-20:** Each member has a four-minute turn: draw a message, add/Undo a trial detail, receive a partner clarity comment, revise and save with a class alias. Waiting members plan on paper and keep a four-feature before/after checklist.
+4. **20-26:** Each child explains a tool input/output, artistic revision and feature-count comparison, plus one safe-sharing choice. Teacher checks digital actions during turns.
+5. **26-30:** Save locally using aliases, lock tablets and collect private evidence. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-## Catholic Integration
+## Questions to ask
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**Blessed Fra Angelico** — A friar who created beautiful art for God's glory. If he lived today, he might use digital tools!
+- What did Undo change in your artwork?
+- Did the revision make your message clearer?
 
-### Scripture reference
-Psalm 96:1; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. Visual-art use is a teacher application.
+## Individual evidence and success
 
-### Opening Prayer
-*Dear God, you made us creative like you. Thank you for new ways to make art! Help us use technology to create beautiful things that honor you. Amen.*
+**Grade 1:** Individually use a digital tool/Undo and compare visible-feature counts with support.
 
----
+**Grade 2:** Explain tool input/output, justify a message revision and a privacy decision; counts describe features, not quality.
 
-## Lesson Procedure
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Paper art is not evidence of digital Undo, save or tool operation.
 
-### Opening Circle (4 minutes)
-1. **Digital Art** — "Today we make art on tablets!"
-2. **New Tools** — "Artists today use computers and tablets"
-3. **Same Creativity** — "Digital or paper—art comes from your creative mind!"
-4. **Blessed Fra Angelico** — Made art to praise God
-5. **Today's Goal** — "Create digital art that shows something beautiful!"
+## Support and challenge
 
-### Main Activity: Digital Art Creation (20 minutes)
+**Support / nonreader access:** Large controls, two picture choices and oral dictation; child directs a partner action but operation evidence is recorded accurately. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-**Part 1: App Exploration (5 minutes)**
+**Challenge:** Compare Undo with erasing and explain which preserves the intended earlier work. Do not add an unprepared activity or extend the native period.
 
-- Open drawing app
+## If things go wrong / indoor alternative
 
-- Explore tools:
-  - 🖌️ Brushes (different sizes)
-  - 🎨 Colors (palette or picker)
-  - ⭕ Shapes
-  - ↩️ Undo button (fix mistakes!)
+No approved app/tablets: draw first/revised paper messages and count features; mark digital operation unassessed. No Undo control: paper/app drawing may support A3, not the stated Undo evidence; do not claim equivalence.
 
-- Free exploration time
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-**Part 2: Guided Creation (7 minutes)**
+## Family copy - optional, no routine homework
 
-- Follow-along activity:
-  - Draw a background (choose a color)
-  - Add a main subject (suggest: flower, animal, house, or scene from nature)
-  - Add details (sun, clouds, ground)
-  - Add your name signature!
+We revised clear visual messages, used local digital controls where available and protected personal information. Ask: "What did Undo change in your artwork?" Optional: describe a purposeful change in a picture without a required device. No purchase, donation, device, home teaching or required take-home project.
 
-- Teacher demonstrates on display if available
+## Sources and claim boundaries
 
-**Part 3: Free Creation (6 minutes)**
-
-- Create your own artwork!
-
-- Theme suggestions:
-  - Something you love about God's creation
-  - Your family
-  - A place that makes you happy
-  - Something you're thankful for
-
-**Part 4: Gallery (2 minutes)**
-
-- Show neighbors your artwork
-
-- Share one thing you like about your creation
-
-### Design Detective Journal (4 minutes)
-1. Draw (on paper!) what you created digitally
-2. Write: "I made... because..."
-3. Circle: Creating digital art was: Fun! 😊 Hard 😰 Cool! 🎉
-
-### Closing Circle (2 minutes)
-1. **Art Celebration** — "You're digital artists!"
-2. **Praising God** — "Our creativity is a gift from God—use it to bring joy!"
-3. **Closing Prayer** — *"Thank you, God, for creativity and new tools. Help us make beautiful things that make the world better. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Successfully used digital drawing tools
-
-- [ ] Created original artwork
-
-- [ ] Explored multiple features
-
-- [ ] Connected art to meaningful themes
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Focus on 2-3 tools
-
-- Pre-started template to add to
-
-- Partner exploration
-
-### For Advanced Students
-
-- Explore advanced features
-
-- Create multiple artworks
-
-- Use layers or effects
-
----
-
-## Technology / low-tech equivalent / evidence
-**Recommended primary path:** school-approved offline tablet drawing when undo/revision materially adds value; paper art fully supports purposeful artistic communication but not digital-tool mastery. Before sharing, child explains one intended message, receives one specific partner suggestion and revises a feature. Grade 1 tells/draws; Grade 2 explains why revision improved communication. Skip redundant paper copying; use that journal time for critique/revision evidence. No accounts, external upload, names/photos or ads without school approval. Save locally as permitted and return tools in final 3 creation minutes; no routine homework.
-
-## Wonder at Home 🏠 (optional; paper or oral comparison equally valid)
-**Family Activity:** Try digital art at home if you have a tablet or computer! Many free drawing websites exist. Compare digital art to paper art—what's different? What's the same? Create art together!
-
----
-
-## Teacher Notes
-
-- Pre-install and test drawing apps
-
-- App prices, privacy, advertising and age/accessibility terms change: **VERIFICATION REQUIRED**. Use only school-approved installed apps; none is promised free or suitable merely by name.
-
-- Have backup paper art activity ready
-
-- Consider saving/printing student work
-
----
-
-**Previous:** [Session 07 — Star Makers](./Session07_Star_Makers.md)  
-**Next:** [Session 09 — Faith Scientists](./Session09_Faith_Scientists.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

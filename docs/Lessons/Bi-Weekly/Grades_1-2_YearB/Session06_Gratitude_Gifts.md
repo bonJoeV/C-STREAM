@@ -1,202 +1,105 @@
 ---
-title: "Session 06: Gratitude Gifts"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B Thanksgiving"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - life-science
-  - astronomy
-  - thanksgiving
-  - service
-  - arts
+title: "Gratitude Gifts"
+description: "Recipient-focused art and fair quantities make a thoughtful gift."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-A3, CST-M3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Gratitude Gifts
 
-# Session 06: Gratitude Gifts 🦃
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 6 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Service |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, A, M / Recipient-focused art and fair quantities make a thoughtful gift. |
+| Student objective / why | "I can communicate thanks and explain how I allocated six visual spaces." Purpose and number reasoning replace a generic craft. |
+| Catholic connection | Respect the recipient's preferences; gifts of attention do not depend on purchases. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-A3: artistic communication, critique and revision; CST-M3: quantities, operations and reasoning. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students express thankfulness by designing and creating handmade gifts for people they appreciate.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Ask a classroom helper for a clear thank-you picture. Draw a six-space card guide; each child chooses how many spaces show the message and how many form a meaningful border, total six.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **message spaces / border spaces / total and revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 06: Gratitude Gifts
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Express gratitude for people in their lives
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Cardstock / student / 10 x 15 cm piece | 10 | 15 | 20 | 25 |
 
-- Design a meaningful gift for someone
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Create a handmade item with intention
+## Vocabulary and teacher background
 
-- Connect giving to Catholic social teaching
+Recipient = viewer; allocate = assign amounts; revision = purposeful change.
 
----
+Visual spaces can support within-6 joining reasoning; the quantities do not measure generosity.
 
-# Session 06: Gratitude Gifts
+**Common misconception:** More decoration or a larger gift means more love.
 
-## Materials Needed
+**If asked:** "Must I give this away?" No; explaining to the classroom audience completes the task.
 
-- 🎨 Craft supplies (paper, markers, ribbons)
+## SAFETY
 
-- 📦 Card-making materials
+Dry crayons/card, teacher precuts, no food/donation collections or identifying messages. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 🖼️ Small frames or photo holders (optional)
+## Meeting 1: Thanks with six spaces - 30 minutes
 
-- 📓 Design Detective journals
+1. **0-3:** Read recipient request and six-space limit.
+2. **3-7:** Model two message spaces plus four border spaces; show the six-space count and readable symbol.
+3. **7-20:** Each child chooses a split totaling six, creates a purposeful card and asks a partner what it communicates. Revise an unclear feature and recount the two parts.
+4. **20-26:** Each child explains audience/purpose, the two-part total and a revision from feedback, not artistic ranking.
+5. **26-30:** Save cards/evidence, return unused cardstock and clear tables. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- ❤️ Heart shapes
+## Questions to ask
 
----
+- How do your two parts make six spaces?
+- What makes the message clear to its recipient?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Thérèse of Lisieux** — She believed in doing small things with great love. Even little gifts can show big love!
+**Grade 1:** Show a two-part total of six with drawn spaces and tell the message.
 
-### Scripture reference
-1 Thessalonians 5:18; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+**Grade 2:** Explain the number relationship, offer another valid split and show an audience-based visual revision.
 
-### Opening Prayer
-*Dear God, we have so much to thank you for! Help us remember all the people who help us. May our gifts today show our love and gratitude. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Pre-drawn six-box guide and two simple symbol choices; oral explanation accepted. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (5 minutes)
-1. **Gratitude Circle** — Each person shares one thing they're thankful for
-2. **People Who Help Us:**
-   - Family
-   - Teachers
-   - Friends
-   - Church community
-   - Neighbors
-3. **St. Thérèse** — "Little things done with love matter most!"
-4. **Today's Project** — "Design a gift to show gratitude!"
+**Challenge:** Explain why changing the split need not change the total. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Gift Design & Creation (19 minutes)
+## If things go wrong / indoor alternative
 
-**Part 1: Design Thinking (4 minutes)**
+Writing barrier: use symbols and dictation. No helper: teacher is audience for the stated request. Do not turn the card into an untested engineering claim.
 
-- Who will receive your gift?
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- What do they like?
+## Family copy - optional, no routine homework
 
-- What would make them smile?
+We designed meaningful thanks and explained the quantities in a six-space visual plan. Ask: "How do your two parts make six spaces?" Optional: say a thank-you and discuss a simple number split. No purchase, donation, device, home teaching or required take-home project.
 
-- Sketch your gift idea
+## Sources and claim boundaries
 
-**Part 2: Create Your Gift (13 minutes)**
-
-**Option A: Thank You Card**
-
-- Decorated card with personal message
-
-- Include: Why you're thankful for them
-
-- Add drawings, stickers, hearts
-
-**Option B: Bookmark**
-
-- Decorated bookmark
-
-- "Thank you for..." message
-
-- For teachers, librarians, readers
-
-**Option C: Picture Frame/Holder**
-
-- Decorate a small frame
-
-- Add: "I'm thankful for you!"
-
-- Gift to family member
-
-**Option D: Custom Design**
-
-- Student's own gift idea
-
-- Must express gratitude
-
-- Created with care
-
-**Part 3: Reflection (2 minutes)**
-
-- How does it feel to make something for someone else?
-
-- How do you think they'll feel?
-
-### Design Detective Journal (4 minutes)
-1. Draw the gift you created
-2. Write: "I made this for ___ because..."
-3. Write: "Giving makes me feel..."
-
-### Closing Circle (2 minutes)
-1. **Gift Preview** — Show what you made (keep recipients secret!)
-2. **Giving Joy** — "It's better to give than receive!"
-3. **Closing Prayer** — *"Thank you, God, for everyone who loves us. Help our gifts bring joy. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Identified someone to thank
-
-- [ ] Designed with recipient in mind
-
-- [ ] Created gift with care
-
-- [ ] Expressed gratitude through work
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Choose from 2 options
-
-- Template for card design
-
-- Work alongside teacher
-
-### For Advanced Students
-
-- Make gifts for multiple people
-
-- Write longer messages
-
-- Create original gift design
-
----
-
-## SAFETY / recipient / evidence
-Default a paper thank-you card; teacher precuts, no glass frames, hot glue or small beads. Recipient delivery and student-photo use follow school permissions; no required purchases/donations. Grade 1 dictates/draws a message; Grade 2 revises one design feature after partner feedback. Do not rate love by expense or artistic talent. **Technology: None primary path.** Last 3 making minutes are cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; an oral thank-you equally valid)
-**Family Activity:** Have a family gratitude night! Each person makes a gift for another family member. Share what you're thankful for about each person. Start a "Thankful Jar" for November.
-
----
-
-## Teacher Notes
-
-- Time gift completion for family events
-
-- Consider class gift for school staff
-
-- Display gratitude art on bulletin board
-
-- Connect to school Thanksgiving activities
-
----
-
-**Previous:** [Session 05 — Garden Engineers](./Session05_Garden_Engineers.md)  
-**Next:** [Session 07 — Star Makers](./Session07_Star_Makers.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

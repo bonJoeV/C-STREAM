@@ -1,186 +1,106 @@
 ---
-title: "Session 06: Thanksgiving Service"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year A gratitude and service"
-version: "1.1"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-a
-  - engineering
-  - light
-  - thanksgiving
-  - service
-  - arts
+title: "Thanksgiving Service"
+description: "Service communication should fit a recipient and use a fair material allocation."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-A3, CST-M3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Thanksgiving Service
 
-# Session 06: Thanksgiving Service 🦃
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 6 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly A / Service |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / RECOMMENDED |
+| Domains / big idea | C, A, M / Service communication should fit a recipient and use a fair material allocation. |
+| Student objective / why | "I can make a clear thank-you card and explain my shared-material count." Purposeful communication is valuable without calling every card engineering. |
+| Catholic connection | Ask what message a classroom helper would appreciate; giving time is not a purchase/donation contest. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-A3: artistic communication, critique and revision; CST-M3: quantities, operations and reasoning. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students combine gratitude with service, designing and creating something to help or bless others in their community.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Ask a helper to request a thank-you picture. Set six large symbol cards per team; plan two choices per child at teams of three, leaving extras at smaller teams. Draw intent/feedback/revision boxes.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **recipient and purpose / audience comment / revised detail**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 06: Thanksgiving Service
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Express gratitude for God's blessings
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Cardstock / student / 10 x 15 cm piece | 10 | 15 | 20 | 25 |
+| Index cards / kit / reusable symbol choices | 24 | 30 | 42 | 54 |
 
-- Design something to help others
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Create a service project item
+## Vocabulary and teacher background
 
-- Connect engineering skills to Catholic social teaching
+Audience = recipient; intention = message; fair share = equal amount for this task.
 
----
+A message is artistic communication; no function/load test means no engineering mastery is claimed.
 
-# Session 06: Thanksgiving Service
+**Common misconception:** Long written text or expensive gifts are needed to say thanks.
 
-## Materials Needed
+**If asked:** "Must we deliver cards outside school?" No; classroom sharing completes the lesson and giving is optional.
 
-- 📦 Card-making supplies (paper, markers, stickers)
+## SAFETY
 
-- 🎨 Craft supplies
+No food gifts, outside deliveries, private information, wet glue or compulsory giving. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📓 Engineering journals
+## Meeting 1: Thoughtful thanks - 30 minutes
 
-- 📋 "People Who Help Us" list
+1. **0-3:** State the helper's request and invite nonprivate symbol ideas.
+2. **3-7:** Model choosing two of six shared symbol cards per child and creating a readable pictorial message.
+3. **7-20:** Each child chooses two symbols, makes a card and asks a partner what message they see. Author revises one ambiguous feature; count six as three groups of two. Smaller teams explain unused extras.
+4. **20-26:** Each child explains recipient/purpose, a visual revision and the two-per-child allocation with counters or drawn groups.
+5. **26-30:** Count/reuse six symbol cards, store evidence and allow optional classroom giving only. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- ❤️ Heart shapes
+## Questions to ask
 
----
+- How will your recipient understand the message?
+- How do six symbol choices serve three children?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Martin de Porres** — He served the poor and sick with great love, giving food and care to everyone in need.
+**Grade 1:** Tell the message and show two choices per child using groups/counting.
 
-### Scripture reference
-1 Thessalonians 5:18; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced.
+**Grade 2:** Explain three groups of two, leftover choices at smaller teams and a recipient-based visual revision.
 
-### Opening Prayer
-*Dear God, we have so much to be thankful for! Help us share our blessings with others. Like St. Martin de Porres, may we serve with love. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Two large symbol choices and oral dictation instead of writing. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (5 minutes)
-1. **Gratitude Round** — Each person: "I'm thankful for..."
-2. **Giving Back** — "When we have blessings, we share them!"
-3. **St. Martin de Porres** — Served the poor in Peru
-4. **Today's Project** — "We're making something to bless others!"
-5. **Design Thinking** — "WHO could we help? WHAT would help them?"
+**Challenge:** Explain another fair allocation for a team of two and show unused resources. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Service Design Project (19 minutes)
+## If things go wrong / indoor alternative
 
-**Part 1: Design Planning (4 minutes)**
+Helper absent: teacher reads the request and plays audience. Message unclear: simplify one symbol, not add private text.
 
-- Brainstorm who needs blessing:
-  - Elderly in nursing homes
-  - Children in hospital
-  - Community helpers (firefighters, police)
-  - School staff
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- Choose a group to serve
+## Family copy - optional, no routine homework
 
-- Discuss: "What would help them feel loved?"
+We made recipient-focused thanks, revised visual messages and explained fair sharing. Ask: "How will your recipient understand the message?" Optional: offer a kind spoken thank-you without a required gift. No purchase, donation, device, home teaching or required take-home project.
 
-**Part 2: Create (13 minutes)**
+## Sources and claim boundaries
 
-- **Option A: Thankful Cards**
-  - Cards for nursing home residents
-  - Include drawings, messages, stickers
-  - "You are loved!"
-  
-
-- **Option B: Bookmark Gifts**
-  - Decorated bookmarks for library/school
-  - "Thank you for helping us learn!"
-  
-
-- **Option C: Thank You Posters**
-  - For school helpers (custodians, lunch staff)
-  - Class collaboration
-
-
-- Focus on quality and kindness in creation
-
-**Part 3: Reflection (2 minutes)**
-
-- "How do you think people will feel when they get these?"
-
-- "Why is it important to think about others?"
-
-### Engineering Journal (4 minutes)
-1. Draw what you created
-2. Write: "I made this for... because..."
-3. Draw a heart
-
-### Closing Circle (2 minutes)
-1. **Share Creations** — Show what you made
-2. **Delivery Plan** — When/how will we give these?
-3. **Closing Prayer** — *"Thank you, God, for the chance to bless others. Help us always look for ways to share your love. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Expressed personal gratitude
-
-- [ ] Participated in design process
-
-- [ ] Created item with care
-
-- [ ] Connected service to faith
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Pre-folded card ready to decorate
-
-- Focus on drawing over writing
-
-- Work alongside teacher
-
-### For Advanced Students
-
-- Write longer personal messages
-
-- Create multiple items
-
-- Help others with spelling/ideas
-
----
-
-## SAFETY / recipient consent / evidence
-Teacher confirms recipient/organization wishes and delivery restrictions before promising a project; no required purchases/donations. Use paper/crayon cards, no food, loose glitter or student contact details. Grade 1 dictates a kind message; Grade 2 explains a purposeful communication choice. Do not claim tested engineering from a decorated card. **Technology: None primary path**; school photo permissions apply to any optional documentation. Last 3 making minutes are cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; an oral thank-you costs nothing)
-**Family Activity:** As a family, do a service project! Ideas: rake leaves for a neighbor, deliver cookies, write cards to relatives, donate toys or food. Talk about how it feels to help others.
-
----
-
-## Teacher Notes
-
-- Arrange delivery to nursing home or recipients
-
-- Take photos of students with creations
-
-- Follow up with recipient responses if possible
-
-- This embodies Catholic Social Teaching: care for others
-
----
-
-**Previous:** [Session 05 — Nature Exploration](./Session05_Nature_Exploration.md)  
-**Next:** [Session 07 — Light in Darkness](./Session07_Light_in_Darkness.md)
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

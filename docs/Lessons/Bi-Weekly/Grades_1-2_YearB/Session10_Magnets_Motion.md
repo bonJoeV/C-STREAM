@@ -1,183 +1,115 @@
 ---
-title: "Session 10: Magnets & Motion"
-description: "Grades 1-2 Bi-Weekly C-STREAM Year B physical science"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - bi-weekly
-  - year-b
-  - lent
-  - arts
+title: "Magnets and Motion"
+description: "A magnetic tool test uses predictions, actual results and safe encased equipment."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C1, CST-S2, CST-T1, CST-M2, CST-M3]
+technology: None
+meetings: 1
+minutes: 30
 ---
 
+# Magnets and Motion
 
-# Session 10: Magnets & Motion 🧲
+## Lesson at a glance
 
-## Overview
-**Grades:** 1-2 | **Duration:** 30 minutes | **Session:** 10 of 17
+| Field | Teacher plan |
+|---|---|
+| Grade / track / unit | Grades 1-2 / Bi-Weekly B / Forces |
+| Native time / scope | 1 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, T, M / A magnetic tool test uses predictions, actual results and safe encased equipment. |
+| Student objective / why | "I can sort six objects by attraction and compare predicted versus observed counts." This adds data/operation reasoning while preserving real physical investigation. |
+| Catholic connection | Revise a prediction honestly rather than force a desired answer; invisible-force analogies are not scientific proof of faith. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C1: honest evidence and faith/reason; CST-S2: safe investigations and variables; CST-T1: tool use, input/output and troubleshooting; CST-M2: represent and interpret data/patterns; CST-M3: quantities, operations and reasoning. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
-Students explore the invisible force of magnetism, discovering how magnets push, pull, and make things move.
+## Before class
 
----
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Inspect large encased age-appropriate magnets and sealed clip boxes. Pretest attraction of the specific spoon/clip; some spoons are nonmagnetic. Draw six prediction/result boxes. Keep magnets away from electronics and medical equipment; arrange an accessible nonhandling observation role if needed.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **object prediction / actual attraction / group counts totaling six**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-# Session 10: Magnets & Motion
+## Exact supplies and class-size allocation
 
-## Learning Objectives
-By the end of this session, students will:
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-- Understand that magnets attract some materials
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 20 | 30 | 40 | 50 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Large encased classroom magnet / kit / items | 4 | 5 | 7 | 9 |
+| Large steel spoon / kit / items | 4 | 5 | 7 | 9 |
+| Smooth wooden block / kit / items | 4 | 5 | 7 | 9 |
+| Plastic spoon / kit / items | 4 | 5 | 7 | 9 |
+| Cardstock / kit / 10 cm square | 4 | 5 | 7 | 9 |
+| Aluminum foil / kit / 10 cm square with folded edges | 4 | 5 | 7 | 9 |
+| Steel binder clip / kit / adult-secured inside clear rigid sample box | 4 | 5 | 7 | 9 |
+| Rigid clear sample box / kit / adult-sealed with the clip inside | 4 | 5 | 7 | 9 |
 
-- Explore magnetic push and pull forces
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-- Test objects for magnetic properties
+## Vocabulary and teacher background
 
-- Connect invisible forces to God's design
+Attract = pull toward; magnetic = attracted in this test; prediction = expected result.
 
----
+Magnets attract some materials, not all metals. Our actual object results determine counts; a steel label does not guarantee the particular spoon's response.
 
-# Session 10: Magnets & Motion
+**Common misconception:** All metal attracts a magnet or an unseen force proves a theological claim.
 
-## Materials Needed
+**If asked:** "Is the force invisible like God?" This is a measurable physical interaction; that analogy is not scientific proof of belief.
 
-- Large intact encased classroom magnets appropriate for age; **no loose disc/button/high-powered magnets**.
+## SAFETY
 
-- 📦 Test objects (paperclips, coins, plastic, wood, foil, fabric)
+No loose high-powered magnets, tiny detachable magnets, iron filings or exposed clips. Count magnets before/after and keep away from mouths; suspected ingestion requires immediate medical response. Stop if a casing cracks; never open sample boxes. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- 📋 Predict & Test chart
+## Meeting 1: Predict and sort six tests - 30 minutes
 
-- 📓 Design Detective journals
+1. **0-3:** Review safe magnet handling and distinguish a physical observation from a belief comparison.
+2. **3-7:** Model approaching one screened object gently and recording pull/no pull, not making an expected answer.
+3. **7-20:** Each child tests/directs all six objects in turn, predicts and records actual attraction. Teams sort into two groups; each child makes a six-result chart and compares predicted/actual attracted counts.
+4. **20-26:** Each child interprets group counts (sum six), gives a mismatch explanation and identifies magnet input/action/output. Teacher checks actual handling/results during practice.
+5. **26-30:** Teacher counts and stores encased magnets/boxes; return six test objects, smooth foil and retain charts. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- 🧭 Compass (optional demonstration)
+## Questions to ask
 
----
+- How did your prediction count compare with the actual count?
+- Did all metal objects attract?
 
-## Catholic Integration
+## Individual evidence and success
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Hildegard of Bingen** — She studied the natural world, including stones and their properties. She'd be fascinated by magnets!
+**Grade 1:** Test or direct a test, sort actual outcomes and count groups totaling six.
 
-### Scripture reference
-Job 26:7; **VERIFICATION REQUIRED:** check the school's approved Bible; no quotation reproduced. Scripture/love analogies are not evidence about magnetic fields.
+**Grade 2:** Compare predicted/actual counts, explain a mismatch and use sum/difference reasoning without assuming every metal attracts.
 
-### Opening Prayer
-*Dear God, you made invisible forces like magnetism that hold our world together. Thank you for the amazing things we can't see but know are real. Help us discover more about your creation today. Amen.*
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
----
+## Support and challenge
 
-## Lesson Procedure
+**Support / nonreader access:** Large object icons and partner magnet handling under child direction; oral data accepted. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-### Opening Circle (5 minutes)
-1. **Magic or Science?** — Show magnets sticking together (looks like magic!)
-2. **Invisible Forces** — "Magnets have INVISIBLE pulling power!"
-3. **Attract & Repel:**
-   - Magnets ATTRACT (pull toward) some things
-   - Magnets can also REPEL (push away) other magnets
-4. **God's Invisible Design** — "Many things in God's world are invisible but real—like love, air, and magnetic force!"
+**Challenge:** Explain why one sample does not establish a universal rule about all materials. Do not add an unprepared activity or extend the native period.
 
-### Main Activity: Magnet Exploration (19 minutes)
+## If things go wrong / indoor alternative
 
-**Part 1: Attract or Not? (7 minutes)**
+No safe encased magnet: use teacher-supplied clearly labeled demonstration data for chart reasoning; physical tool operation is unassessed. Spoon not attracted: keep the actual result, do not silently replace it with a "correct" one.
 
-- Predict & Test activity
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- For each object:
-  - PREDICT: Will the magnet attract it? (yes/no)
-  - TEST: Try it!
-  - RECORD: What happened?
+## Family copy - optional, no routine homework
 
-- Test: paperclips, coins, plastic, wood, foil, pencil, fabric
+We safely tested attraction, counted actual groups and revised predictions using evidence. Ask: "How did your prediction count compare with the actual count?" Optional: discuss the class chart; no home magnet experiment required. No purchase, donation, device, home teaching or required take-home project.
 
-- Discovery: some materials containing iron/steel are attracted; **not all metals** are. Record each object's result instead of predicting from metallic appearance.
+## Sources and claim boundaries
 
-**Part 2: Push and Pull (6 minutes)**
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../../Review/Local_Standards.md) and the [source register](../../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. Magnet-ingestion caution is supported by the retained CPSC source pointer.
 
-- Use two magnets
-
-- Try to stick them together different ways
-
-- Sometimes they attract (pull together)
-
-- Sometimes they repel (push apart)
-
-- "Magnets have two poles—north and south!"
-
-- Demo: Make magnets "chase" each other
-
-**Part 3: Magnet Challenge (6 minutes)**
-
-- Challenge: Use magnets to move paperclips WITHOUT touching them!
-
-- Try through paper, cardboard, or thin plastic
-
-- "Magnetic force goes through things!"
-
-- Creative exploration time
-
-### Design Detective Journal (4 minutes)
-1. Draw objects that were magnetic vs. not magnetic
-2. Write: "Magnets attract..."
-3. Write: "Something invisible but real is..."
-
-### Closing Circle (2 minutes)
-1. **Magnet Discovery** — "What did you learn about magnets?"
-2. **Invisible Things** — "What else is invisible but real?" (God's love, air, gravity)
-3. **Closing Prayer** — *"Thank you, God, for invisible forces that make our world work. Thank you for your invisible love that's always with us. Amen."*
-
----
-
-## Assessment
-**Observation Checklist:**
-
-- [ ] Predicted and tested magnetic properties
-
-- [ ] Observed attract/repel behaviors
-
-- [ ] Made connection to invisible forces
-
-- [ ] Recorded discoveries
-
----
-
-## Differentiation
-
-### For Students Who Need Support
-
-- Fewer test items
-
-- Focus on attract only
-
-- Partner work
-
-### For Advanced Students
-
-- Draw observed attract/repel motions; no loose iron filings in this age band.
-
-- Test more materials
-
-- Research how magnets are used in everyday life
-
----
-
-## SAFETY / individual evidence / cleanup
-Teacher counts intact encased magnets before/after and removes cracked casings; supervise, never put near mouth/nose, medical devices or school electronics. Suspected swallowed magnet: **seek immediate medical attention and follow school emergency procedures**, not wait for symptoms ([CPSC](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets)). Replace loose coins/clips with teacher-secured samples or large safe objects. Grade 1 predicts/tests three objects and points to results; Grade 2 records four and explains a nonmagnetic-metal counterexample. Magnet attraction does not prove God's existence or equate God's love with a physical field. **Technology: None primary path.** Last 3 test minutes are count/return/cleanup; no routine homework.
-
-## Wonder at Home 🏠 (optional; discuss classroom findings rather than loose-magnet play)
-**Family Activity:** Go on a magnet hunt at home (use a refrigerator magnet)! What sticks? What doesn't? Test different metals—are they all magnetic? Where are magnets used in your home? (Refrigerator, cabinet doors, speakers)
-
----
-
-## Teacher Notes
-
-- Magnet kits available from CSCOE
-
-- Small/high-powered magnets can cause severe ingestion injury; do not use them for this activity, even with supervision.
-
-- Do not distribute loose iron filings or small magnets; use a teacher picture if field patterns are discussed.
-
-- Connect to Earth's magnetic field and compasses
-
----
-
-**Previous:** [Session 09 — Faith Scientists](./Session09_Faith_Scientists.md)  
-**Next:** [Session 11 — Lenten Love](./Session11_Lenten_Love.md)
+Retained original source pointers (not additional required claims):
+- [Source pointer 1](https://www.cpsc.gov/Safety-Education/Safety-Education-Centers/Magnets)

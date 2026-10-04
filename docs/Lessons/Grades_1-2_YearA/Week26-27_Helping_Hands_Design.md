@@ -1,209 +1,115 @@
 ---
-title: "Weeks 26-27: Helping Hands Design"
-description: "Grades 1-2 service-oriented design challenge"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-a
-  - engineering
-  - astronomy
-  - service
-  - arts
+title: "Helping Hands Design"
+description: "Later service design compares user access and material tradeoffs."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C2, CST-E1, CST-E2, CST-E3]
+technology: None
+meetings: 2
+minutes: 30
 ---
 
-# 🤲 Weeks 26-27: Helping Hands Design
+# Helping Hands Design
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 2 sessions (30 min each) |
-| **STREAM Focus** | E (Engineering), R (Religion), A (Art) |
+| Grade / track / unit | Grades 1-2 / Weekly A / Service |
+| Native time / scope | 2 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, E / Later service design compares user access and material tradeoffs. |
+| Student objective / why | "I can test two ways to organize classroom picture cards and recommend one." This extends early moving-tool work by comparing alternatives for a user. |
+| Catholic connection | Ask a classroom helper how to find cards easily and respect different ways of grasping/pointing; no assumed disability simulation. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C2: dignity, service and inclusion; CST-E1: needs, criteria and constraints; CST-E2: build, test and redesign; CST-E3: compare and communicate solutions. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Light, 10-15 minutes; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Weeks 26-27: Helping Hands Design
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Ask a helper to request two separate card spaces, visible picture fronts and one-handed retrieval without lifting the organizer. Draw three criterion icons. Teacher scores no actual person's motor performance.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **plan or prediction / actual result / reason or revision**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Apply human-centered design thinking
-2. Create solutions that address real needs
-3. Test and iterate on designs
-4. Present design solutions
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect Catholic Social Teaching to design
-2. Understand preferential option for the poor
-3. Practice empathy and compassion in design thinking
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 40 | 60 | 80 | 100 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Clean corrugated cardboard / kit / 20 cm squares | 16 | 20 | 28 | 36 |
+| Index cards / kit / items | 24 | 30 | 42 | 54 |
+| Masking tape / kit / 10 cm strips | 48 | 60 | 84 | 108 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. No optional item is necessary for the stated outcome.
 
-# Weeks 26-27: Helping Hands Design
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Access = usable participation; alternative = another option; tradeoff = gain with a cost.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Catholic Social Teaching: Preferential Option for the Poor** — God calls us to care especially for those who are struggling. Engineers and designers can create things that help people in need.
+Open slots may be easier to reach but less secure. A model evaluates the stated tabletop request only.
 
-### Scripture reference
-Matthew 25:40; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** A complicated design is automatically more caring.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Vincent de Paul** — He organized practical help for poor people. He found creative solutions to help those in need with food, medicine, and shelter.
+**If asked:** "Can we test it on someone's wheelchair?" No; the tabletop organizer is not an assistive product.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+No body attachments, mobility devices, sharp cardboard, heavy loads or elevated reaches; teacher precuts. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Design scenario cards
+## Meeting 1: Two alternatives - 30 minutes
 
-- Planning worksheets
+1. **0-3:** Read the user's actual request and three criterion icons.
+2. **3-7:** Model open tray versus divided upright slots using sketches, not a finished required answer.
+3. **7-20:** Teams fold two different organizers using two squares each and six tape strips each. Each child sketches a criterion and predicts a benefit/limitation. Test card visibility and retrieval with six cards.
+4. **20-26:** Each child identifies which criterion each design meets or misses; record user feedback and choose one feature to revise.
+5. **26-30:** Return all six cards and sort usable cardboard; label prototypes between meetings. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Building materials: cardboard, paper, tape, craft supplies
+## Meeting 2: Revise and recommend - 30 minutes
 
-- Testing materials
+1. **0-3:** Retrieve the two test records, not only attractive prototypes.
+2. **3-7:** Model a repeat retrieval test with the same cards/placement and an untaped hand; do not pretend disability.
+3. **7-20:** Teams revise one feature, run the same three criterion checks on both alternatives and exchange a partner-user check. Each child conducts/directs one check.
+4. **20-26:** Each child recommends a design with two criterion results and one tradeoff; teacher captures individual explanations while tables remain seated.
+5. **26-30:** Return all six cards and sort usable cardboard; label prototypes between meetings. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Presentation space
+## Questions to ask
 
----
+- Which design best meets the helper's request?
+- What did your choice gain and give up?
 
-# Session 1: Design for Others
+## Individual evidence and success
 
-## 📝 Lesson Procedure (30 minutes)
+**Grade 1:** Name the user need, demonstrate one criterion check and give a reason for a choice.
 
-### Opening Prayer & Introduction (4 min)
-**Prayer:** "Jesus, You said when we help others, we help You. Open our hearts to see the needs of others. Guide our hands as we design to help. Amen."
+**Grade 2:** Compare both options against three criteria, explain a test-based revision and a specific tradeoff.
 
-Read Matthew 25:40 only from the approved Bible; do not reproduce an unverified abbreviated quotation.
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-**Discuss:** "Who are 'the least of these'? Who needs help?"
+## Support and challenge
 
-### Design Challenge Introduction (6 min)
-**Present scenarios (choose one for class):**
+**Support / nonreader access:** Offer two folded starting forms and picture criterion cards; child directs a retrieval test. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-**Scenario A:** "An elderly person has trouble carrying groceries."
+**Challenge:** Defend whether less tape can preserve function, then test rather than assert. Do not add an unprepared activity or extend the native period.
 
-- What's hard for them?
+## If things go wrong / indoor alternative
 
-- What would help?
+Organizer tips: broaden its tabletop base or lay slots flat. Helper absent: partner reads the same request; no outside delivery is required.
 
-**Scenario B:** "A child in a wheelchair can't reach drinking fountains."
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- What's the problem?
+## Family copy - optional, no routine homework
 
-- What could we design?
+We compared organizer alternatives for a classroom helper and defended an accessible design choice. Ask: "Which design best meets the helper's request?" Optional: notice how an ordinary organizer helps someone find things. No purchase, donation, device, home teaching or required take-home project.
 
-**Scenario C:** "Someone who can't see needs help knowing what's around them."
+## Sources and claim boundaries
 
-- What challenges do they face?
-
-- How could we help?
-
-**Empathy discussion:**
-
-- "How would YOU feel if you had this challenge?"
-
-- "What would you want someone to design for you?"
-
-### Design Thinking: Brainstorm & Plan (15 min)
-**Individual brainstorm (4 min):** Draw 2-3 ideas.
-
-**Partner share (4 min):** Share ideas with partner. Combine ideas!
-
-**Choose and plan (7 min):**
-
-- Select one design to build
-
-- Draw detailed plan
-
-- List materials needed
-
-- Identify how you'll test if it works
-
-### Closing Preview (5 min)
-**Share plans** with another group.
-
-**Faith Connection:** "When we design to help others, we're doing what Jesus asked! We're being His hands in the world."
-
-**Closing Prayer:** "Bless our designs, Lord. Help us think carefully about how to help others. Amen."
-
----
-
-# Session 2: Build & Present
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer & Review (3 min)
-**Prayer:** "Jesus, help us build with love today. May our creations serve others and honor You. Amen."
-
-**Review plans:** "What are you building? How will it help?"
-
-### Building Time (17 min)
-**Students build their designs.**
-
-**Teacher circulates:**
-
-- "Tell me how this helps."
-
-- "How will you test it?"
-
-- "What changes are you making?"
-
-**Encourage iteration:**
-
-- Test as you build
-
-- It's okay to change your plan
-
-- Ask for help when needed
-
-### Quick Testing (4 min)
-**Test designs** with a toy figure and a tabletop paper load only. Default: paper carry tray holds three crumpled paper balls for five seconds; redesign one fold and retest. Ask about user preferences rather than assuming every older/disabled person needs the same help.
-
-- Does it work?
-
-- What would make it better?
-
-### Presentations (4 min)
-**Quick presentations:**
-Each group shares:
-
-- "We designed this for..." (who it helps)
-
-- "It works by..." (how it helps)
-
-- "We learned..." (what they discovered)
-
-### Closing Celebration (2 min)
-**Faith Connection:** "You were Jesus's hands today! You thought about others' needs and created to help them. That's what Catholic engineers do — they use their skills to serve!"
-
-**Closing Prayer:** "Thank you, God, for minds that create and hearts that care. Help us always use our gifts to serve 'the least of these.' We want to be Your hands in the world. Amen."
-
----
-
-## ✅ Assessment
-
-- Demonstrated empathy for the user's needs
-
-- Created a design plan
-
-- Built a prototype
-
-- Explained how design helps others
-
----
-
-## SAFETY / access
-All products are models, not real medical or assistive devices. No human lifting, body-worn restraint, blindfolding, climbing to a fountain/shelf or overhead loads. Teacher precuts cardboard, screens recyclables and limits tests to paper loads. Grade 1 orally demonstrates one feature/test; Grade 2 explains one evidence-based revision. Reserve final 4 building/planning minutes each meeting for cleanup/storage.
-
-## 📎 Home Connection (optional; no routine homework)
-> "We were designers for others! Ask your child: 'Who did you design for?' 'How does your invention help them?' 'What would you improve?' Talk about how your family can be 'helping hands' for people in need in your community."
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.

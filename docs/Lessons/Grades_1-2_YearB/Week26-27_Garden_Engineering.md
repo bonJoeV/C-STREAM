@@ -1,298 +1,120 @@
 ---
-title: "Weeks 26-27: Garden Engineering"
-description: "Grades 1-2 Year B plants, life cycles, and garden design"
-version: "1.0"
-date: 2025-12-05
-tags:
-  - grades-1-2
-  - year-b
-  - engineering
-  - light
-  - life-science
-  - astronomy
-  - service
-  - arts
+title: "Garden Engineering"
+description: "A garden layout must fit space and plant needs; growth records take time."
+version: "3.0"
+date: 2026-10-04
+local_standards: [CST-C3, CST-S3, CST-E1, CST-M1, CST-M2]
+technology: None
+meetings: 2
+minutes: 30
 ---
 
-# 🌻 Weeks 26-27: Garden Engineering
+# Garden Engineering
 
-## Unit Overview
+## Lesson at a glance
 
-| | |
+| Field | Teacher plan |
 |---|---|
-| **Grade Level** | Grades 1-2 |
-| **Duration** | 2 sessions (30 min each) |
-| **Curriculum** | Year B |
-| **STREAM Focus** | S (Science), E (Engineering), R (Religion) |
+| Grade / track / unit | Grades 1-2 / Weekly B / Growth |
+| Native time / scope | 2 meeting(s), **30 minutes each including cleanup** / CORE |
+| Domains / big idea | C, S, E, M / A garden layout must fit space and plant needs; growth records take time. |
+| Student objective / why | "I can plant with a school care plan and compare a constrained garden layout." A single planting is not proof of growth or a controlled experiment. |
+| Catholic connection | Accept responsibility for plant care at school and explain why checking needs is better stewardship than wasteful automatic watering. This is a classroom application, not a historical quotation or official academic standard. |
+| Local standards | CST-C3: stewardship and responsible work; CST-S3: physical, life or Earth systems/models; CST-E1: needs, criteria and constraints; CST-M1: count, compare and measure; CST-M2: represent and interpret data/patterns. Only the evidence below supports these local claims. |
+| Technology requirement | **None**. No digital device or home access needed. |
+| Difficulty / prep / cleanup | Guided; Moderate, 20-30 minutes first setup plus named school adult care; final 4 minutes of **every** meeting. |
 
----
+## Before class
 
-# Weeks 26-27: Garden Engineering
+1. Assign teams of at most three: **4 / 5 / 7 / 9** kits for **10 / 15 / 20 / 25** pupils. Keep work at tables; distribute materials, not roaming station rotations.
+2. Adult prepares drainage pots/trays, measures 200 mL mix per kit and checks manufacturer seed/mix instructions. Plant only untreated school-approved seeds; adult issues seeds one at a time. Draw a six-space garden grid and place pots in an indoor light location. Name the adult checking moisture on school days/weekends/breaks; use a labeled plant picture if elapsed time has not produced visible growth. Plan handwashing during practice: with one visible classroom sink allow about 25 seconds per child, one waiting maximum, others draw at tables. If washing cannot be supervised during 7-20, adult handles mix/seeds and children direct placements rather than contact them.
+3. Put two plain-paper sheets per child per meeting and crayons at tables. Draw this record on the board: **date / actual plant detail / planting and access counts**. Children copy boxes/icons, not paragraphs. Teacher dates and saves each child's record between meetings.
+4. Read the SAFETY section, pretest the actual task with one issued kit and put a roster beside the timer. Demonstrate orally with objects; read every direction aloud. No independent reading, Year A completion or family donation is a prerequisite.
 
-## 🎯 Learning Objectives
+## Exact supplies and class-size allocation
 
-### STEM Objectives
-Students will be able to:
-1. Identify what plants need to grow
-2. Understand plant life cycles
-3. Design a garden with purpose
-4. Plant seeds and observe growth
+Quantities below are the **whole package allocation**, not an assumed school holding. Kit items are reused across meetings unless the preparation says otherwise. Plain paper includes one work/model page and one individual evidence page per meeting. Supplies are counted before issue and after return; the teacher demonstrates with an issued kit, not an unlisted extra.
 
-### Faith Integration Objectives
-Students will be able to:
-1. Connect plant growth to spiritual growth
-2. Practice patience and care for living things
-3. See gardening as stewardship of creation
+| Material / allocation / unit | 10 pupils | 15 pupils | 20 pupils | 25 pupils |
+|---|---:|---:|---:|---:|
+| Plain paper / student / sheets per meeting | 40 | 60 | 80 | 100 |
+| Crayons / student / items | 10 | 15 | 20 | 25 |
+| Team sorting tray / kit / items | 4 | 5 | 7 | 9 |
+| Simple timer / class / items | 1 | 1 | 1 | 1 |
+| Classroom board / class / items | 1 | 1 | 1 | 1 |
+| Whiteboard marker / class / items | 1 | 1 | 1 | 1 |
+| Teacher roster / class / items | 1 | 1 | 1 | 1 |
+| Teacher scissors / class / items | 1 | 1 | 1 | 1 |
+| Plastic plant pot / kit / with adult-made drainage | 4 | 5 | 7 | 9 |
+| Potting mix / kit / mL | 800 | 1000 | 1400 | 1800 |
+| Untreated bean seed / kit / items | 12 | 15 | 21 | 27 |
+| Plastic graduated measuring cup / kit / items | 4 | 5 | 7 | 9 |
+| Plant picture / kit / items | 4 | 5 | 7 | 9 |
+| Index cards / kit / items | 24 | 30 | 42 | 54 |
+| Metric ruler / kit / items | 4 | 5 | 7 | 9 |
+| Water / kit / mL initial reserve | 200 | 250 | 350 | 450 |
 
----
+**Teacher-only:** roster/timer, advance screening and precutting; classroom handwashing/normal cleaning supplies. Classroom room-temperature water: reserve 50 mL per kit initially (200/250/350/450 mL class total); adult meters only the amount needed for damp, not saturated, mix. Handwashing access is required.
 
-# Weeks 26-27: Garden Engineering
+## Vocabulary and teacher background
 
-## 🙏 Faith-Reason Integration
+Seed = young plant with stored resources; drainage = excess water outlet; layout = arrangement; data = record.
 
-### Catholic Teaching Connection - VERIFICATION REQUIRED before teaching doctrinal details
-**Spiritual Growth** — Just like plants need sun, water, and soil, our faith needs nourishment too — prayer, Mass, kindness. Jesus often used plant parables to teach about faith.
+Plants need light, water, air and suitable temperatures; soil is not food. Germination timing varies. Garden grid spacing is a model, not a species planting recommendation.
 
-### Scripture reference
-1 Corinthians 3:6; **VERIFICATION REQUIRED:** use the school's approved Bible; no quotation reproduced.
+**Common misconception:** Every seed sprouts by the next class or must be watered every day.
 
-### Saint Connection - VERIFICATION REQUIRED before teaching biographies
-**St. Fiacre** — Patron saint of gardeners who saw gardening as prayer. He cared for God's creation and fed the poor from his garden.
+**If asked:** "Why did ours not sprout?" We can record no visible change and investigate possible causes; the observation alone does not prove one cause.
 
----
+## SAFETY
 
-## 📚 Materials Needed
+No tasting mix/seeds, pesticides or glass. Adult handles drainage holes/seed issue; water stays over trays. Wash hands before leaving the final cleanup phase. Keep aisles/exits clear. Stop for damaged materials; do not improvise a hazardous replacement. No student handles loose batteries or teacher cutting tools.
 
-- Seeds (fast-growing: beans, sunflowers)
+## Meeting 1: Plant and constrain - 30 minutes
 
-- Soil
+1. **0-3:** Read plant needs and introduce the school care plan.
+2. **3-7:** Model filling one pot with the measured mix and sowing three seeds at the packet-directed depth; adult meters initial water.
+3. **7-20:** Each child directs or does a safe fill/placement/water step, draws the starting pot and counts three seeds. Start washing immediately after each contact turn within this practice block (about 25 seconds per child; at most one waiting). Teams lay six card planting spaces on a drawn grid, leaving two access spaces open.
+4. **20-26:** Each child states a plant need, a layout limit and why adult moisture checks are better than automatic daily watering; finish any pending handwash before cleanup.
+5. **26-30:** Adult stores pots in their indoor care location; collect dry grid cards, wipe spills and wash hands. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Cups or pots
+## Meeting 2: Evidence and layout comparison - 30 minutes
 
-- Water
+1. **0-3:** Check the actual pot; record date and visible change or no change, not an assumed growth story.
+2. **3-7:** Model measuring a visible shoot from mix level using the issued ruler, or recording no visible shoot without inventing height.
+3. **7-20:** Each child draws a dated observation. Teams compare two six-space layouts with two access spaces, use cards to represent four planting spaces and revise access/visibility.
+4. **20-26:** Each child compares four planting/two access spaces, interprets the dated record and explains a care choice. No controlled-growth cause claim is made.
+5. **26-30:** Adult stores pots in their indoor care location; collect dry grid cards, wipe spills and wash hands. Collect each child's dated evidence, count kit items, return tools and clear tables. Cleanup is part of the period, not time added afterward.
 
-- Garden design paper
+## Questions to ask
 
-- Plant life cycle images
+- What did your pot actually show today?
+- How many planting and access spaces fit your layout?
 
----
+## Individual evidence and success
 
-# Session 1: What Plants Need
+**Grade 1:** Count seeds/spaces, show a plant need and report an actual observation.
 
-## 📝 Lesson Procedure (30 minutes)
+**Grade 2:** Explain the four-plus-two layout limit, compare dated evidence honestly and distinguish an observation from an untested cause.
 
-### Opening Prayer (2 min)
-"Dear God, You created plants that give us food, beauty, and oxygen. Help us learn to care for Your green creation today. May our gardens grow and teach us about growth! Amen."
+Teacher visits three table teams during each of the first three four-minute blocks of practice (7-19), listening to or observing each member briefly; use the remaining practice minute and 20-26 for unfinished checks and comparison. At 25, this is nine table visits, **not 25 presentations**. Where a meeting specifies waves, use its supervised wave/check schedule instead of simultaneous table visits. Children keep separate records and partners may not answer for each other. Score each stated criterion **not yet / prompted / independent**; record absent/unobserved evidence as such. A group product, attendance, attractive art or a certificate is not individual mastery. Use the grade-level criterion, not handwriting, reading speed or religious worth.
 
-### Introduction: Plant Needs (8 min)
-**What do plants need to grow?**
+## Support and challenge
 
-- ☀️ **Sunlight** — Energy from the sun
+**Support / nonreader access:** Large need icons, prefilled pot if handling mix is unsuitable, and partner placement under child direction. Adult scribing, pointing, tactile/large pieces and a seated partner-directed action can show understanding; do not score motor speed. Record who actually operated hardware/software: a partner's operation does not establish the child's independent operation.
 
-- 💧 **Water** — Drink for the plant
+**Challenge:** Show a different four-plus-two layout and explain an access tradeoff. Do not add an unprepared activity or extend the native period.
 
-- 🪴 **Growing medium** — Support and nutrients; soil is not plant food. Plants make food using light; appropriate soilless growth is possible.
+## If things go wrong / indoor alternative
 
-- 💨 **Air** — Plants breathe too!
+No viable seed/growth/approved mix: use the labeled plant picture and grid route; planting/growth observation is unassessed. Water spill: stop, wipe and keep devices absent. No adult ongoing care: use the model route rather than send compulsory care home.
 
-**Like us!**
+**Indoor:** The complete primary lesson is indoors at tables; Minnesota weather, internet access and daylight are not prerequisites.
 
-- We need food, water, air, and care
+## Family copy - optional, no routine homework
 
-- Plants are living things too!
+We planted with responsible school care and compared garden layouts with planting/access space limits. Ask: "What did your pot actually show today?" Optional: discuss a plant picture; no required watering or supplies. No purchase, donation, device, home teaching or required take-home project.
 
-- We're stewards — caretakers — of plants
+## Sources and claim boundaries
 
-**St. Fiacre connection:**
-
-- "He was a monk who loved gardening"
-
-- "He grew food for poor and hungry people"
-
-- "Gardening was his prayer to God"
-
-- "We can make gardening a prayer too!"
-
-### Plant Life Cycle (6 min)
-**The circle of life:**
-1. **Seed** — This is the start of our selected flowering-plant example, not every kind of plant.
-2. **Sprout** — First little plant emerges
-3. **Seedling** — Baby plant grows
-4. **Adult plant** — Full-grown, makes flowers
-5. **Flowers & fruit** — Makes new seeds!
-6. **Seeds** — And it starts again!
-
-**Show images or diagram.**
-
-**Wonder:**
-
-- "Isn't it amazing that a tiny seed becomes a big plant?"
-
-- "A seed has a young plant and stored food; it still needs suitable water, oxygen and temperature to germinate, then light and nutrients to grow."
-
-### Planting Activity (10 min)
-**Plant your seeds!**
-
-**Steps:**
-1. Fill cup with soil (not too packed)
-2. Make small hole with finger
-3. Place 2-3 seeds
-4. Cover gently with soil
-5. Water carefully (not too much!)
-6. Label with name
-
-**Teacher demonstrates each step.**
-
-**Care instructions:**
-
-- Keep soil moist (not soggy)
-
-- Put in sunny spot
-
-- Check the selected untreated seed packet for possible timing; growth is not guaranteed in 5-7 days.
-
-### Faith Connection (2 min)
-**Spiritual growth:**
-
-- "Plants need water, sun, and care to grow"
-
-- "OUR faith needs nourishment too!"
-
-- "Prayer is like water for our souls"
-
-- "Mass is like sunshine for our faith"
-
-- "Kindness is like good soil"
-
-### Closing (2 min)
-**Take home or leave at school:**
-
-- Care for your plant this week
-
-- Observe what happens
-
-- Be patient!
-
-**Closing Prayer:**
-"Thank You, God, for seeds and growth. Help us care for our plants and learn from them. As our plants grow, help OUR faith grow too! Amen."
-
----
-
-# Session 2: Garden Design
-
-## 📝 Lesson Procedure (30 minutes)
-
-### Opening Prayer (2 min)
-"Creator God, You planted the Garden of Eden. Help us design beautiful gardens today that honor You and help others. Amen."
-
-### Plant Check & Share (3 min)
-**How are plants doing?**
-
-- Any sprouts yet?
-
-- What do you observe?
-
-- Are you caring for them?
-
-### Garden Design Challenge (10 min)
-**Design a dream garden!**
-
-**Garden purposes:**
-
-- **Food garden** — Vegetables and fruits to eat
-
-- **Flower garden** — Beauty and butterflies
-
-- **Helping garden** — Vegetables for food shelf
-
-- **Prayer garden** — Quiet space to pray
-
-- **Pollinator garden** — Flowers for bees and butterflies
-
-**Choose your garden type:**
-
-- What's the PURPOSE of your garden?
-
-- Who will your garden help?
-
-**Design elements:**
-
-- What will you plant?
-
-- Where will paths go?
-
-- Any special features? (Bench, statue, birdbath)
-
-### Draw Your Garden Design (12 min)
-**Create a garden plan:**
-
-- Bird's eye view (from above)
-
-- Show what's planted where
-
-- Label plants
-
-- Include special features
-
-- Color it!
-
-**Design thinking:**
-
-- "What do your plants need?"
-
-- "Where will the sun be?"
-
-- "How will you water them?"
-
-- "Who will enjoy this garden?"
-
-### Sharing Gardens (3 min)
-**Quick gallery walk or partner share:**
-
-- Show your garden design
-
-- Explain the purpose
-
-- Tell who it helps
-
-**Celebration:**
-
-- "You are garden engineers!"
-
-- "Real gardens start with plans like these"
-
-### Closing (2 min)
-**St. Fiacre challenge:**
-
-- "Can you care for a plant this spring?"
-
-- "Can you help with gardening at home?"
-
-- "Can you notice plants and thank God for them?"
-
-**Closing Prayer:**
-"Thank You, God, for the gift of gardens. Thank You for St. Fiacre who showed us gardening is prayer. Help us care for plants and see Your love growing all around us. Amen."
-
----
-
-## SAFETY / school care / constraints
-Teacher makes drainage holes; plastic pots in leakproof trays, no tasting mix/seeds/plants or pesticides, handwashing required. Name an adult to check moisture on school days/weekends/breaks; water when needed, not automatically. School care is the default; home care is voluntary. Indoor bright space/pictures replace outdoor planting in winter. Grade 1 shows two plant needs and an access path orally; Grade 2 revises a plan to fit a 30 x 40 cm model with clear 10 cm care strip. Reserve 5 making minutes each meeting for cleanup. **Technology: None primary path.**
-
-## 📎 Home Connection (optional; no routine homework)
-> "We planted seeds and designed gardens! Your child has a growing plant to care for. Help them water it and watch for growth. Ask: 'What do plants need?' 'What kind of garden did you design?' 'Who would your garden help?' Consider planting something together this spring!"
-
----
-
-## ✅ Assessment
-
-- Identified plant needs
-
-- Planted seeds correctly
-
-- Designed purposeful garden
-
-- Connected plant growth to faith growth
-
----
-
-**Unit Version:** {{ page.meta.version }} | **Last Updated:** {{ page.meta.date }}
+These are local program competencies, not official Minnesota/Archdiocesan benchmark numbers. See [local standards](../../Review/Local_Standards.md) and the [source register](../../Review/Standards_Sources.md). Catholic care, dignity and honest-inquiry applications follow that register; no unsupported scientist/saint biography, Scripture quotation or devotional history is required to execute this lesson. No external historical or official numeric claim is made.
