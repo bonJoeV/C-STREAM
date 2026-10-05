@@ -23,6 +23,11 @@ allocation. None of these packages claims coverage of **all 251 legacy lesson
 documents**, specialty kits, every commercial curriculum or a full replacement
 of primary science/math/arts instruction.
 
+The generated [procurement register](Procurement_Register.csv) adds a
+vendor-neutral specification, material class, replacement/rebudget rule,
+charging/setup fields, substitution rule and explicit lead-time/annual-cost
+verification for every catalog identity. It is a planning control, not a quote.
+
 [Planned inventory/resource use](Inventory_Usage_Summary.csv) groups exact
 references by canonical identity, grades and distinct lesson documents.
 These counts answer where an item/resource is planned without relabeling a

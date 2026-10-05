@@ -75,3 +75,7 @@ The entire model pathway is indoors and independent of weather or nighttime acce
 
 **Family:** We counted a star-pattern model and explained what it cannot show.
 Ask, "Does your picture make light like a star?" No required evening outing.
+
+## Teacher artifacts
+
+See the [Week 16 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-16--star-of-wonder).

@@ -142,3 +142,29 @@ clear communication matter. **Catholic connection:** dignity in design.
 Name the actual Snap, protected-AA or paper route; for the AA route describe its
 four-state test instead. **Ask:** "What did your test show, and how did the label
 change?" No homework, family purchases or take-home powered circuits.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the approved Snap slide-switch/lamp path, two ON/OFF cycles and accessible 1 m label.
+
+### Student material and evidence
+
+- **Printable/no-print material:** Diagram/state/design sheet: label source/switch/lamp/conductors/return; predict and record two **OFF=open/lamp off; ON=closed/lamp on** cycles; teacher-managed gap repair/retest; 1 m label trial, revision/retest, access rationale and limitation.
+- **Expected evidence, worked example, and finished example:** Individual switch turn and full return path are logged separately from paper. Work an open gap: isolate source, adult repairs against approved diagram, inspect, restore and retest. The finished model stays on supplied grid with unchanged documented circuit and word+symbol paper label beside it; two correct cycles/readability pass do not certify a medical/emergency safety system. Paper-only result states electrical operation not observed.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw the approved path loop, OFF/ON table, **isolate→adult inspect→power→observe**, and 1 m read test. A lit lamp proves path function, not arbitrary wiring safety; current is not used up; color-only signal excludes. Misconceptions: shorting terminals is a test, push/release is the Snap slide-switch evidence, lamp proves real alert suitability.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact listed per-pupil/team/station contents and actual OHM-135 setup card—no assumed part count. **Kit label:** **SNAP INDICATOR—W26-27—APPROVED SLIDE SWITCH/LAMP / ADULT CELLS / 2×OFF-ON**. Adult isolates, counts against manufacturer diagram, trays parts/cells in dry storage and marks OUT OF SERVICE damage. Record last cycle/read test; schedule supervised hardware completion, not paper inference.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Trace source→switch→lamp→return, box two predicted/actual cycles, circle adult-repaired gap and enlarged word+symbol label after failed 1 m read. Lamp off may be valid open state, not pupil failure; working team kit without individual turn is access gap; color-only pass is false accessibility. Reteach on paper with loop/gap, then one adult-checked OFF/ON cycle and one silent read.
+
+## SAFETY / support / challenge
+
+- **Safety classification:** Battery short/leak/heat has **serious severity / unlikely likelihood** under guide controls. **Adult supervision ratio:** **1:1 energized station**, maximum five stations, all source changes/cells adult-only. Warm/damaged/smelly/leaking = isolate and report. Battery manufacturer safety data **applies and must be available**. Print ≥16 pt circuit lines and word+symbol states; tactile tracing, oral record and motor assistance. Do not substitute mains or USB power, and do not send the kit home.
+- **SDS/product gate: HOLD — school-approved classroom marker.** The exact marker product and manufacturer are not specified. The [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product; do not issue this marker or substitute another marker until the school safety lead approves the exact product and its current SDS.

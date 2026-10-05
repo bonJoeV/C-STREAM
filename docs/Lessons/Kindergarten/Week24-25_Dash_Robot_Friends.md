@@ -95,3 +95,7 @@ P is demonstrated only by a child who edits a real block sequence and runs it on
 ## Optional family snippet
 
 We designed a welcoming delivery route, tested it, and corrected an instruction. Ask: "Which step did you change, and what happened?" Real robot programming was optional and recorded only for children who performed it. No homework or equipment purchase.
+
+## Teacher artifacts
+
+See the [Weeks 24-25 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-24-25--dash-robot-friends).

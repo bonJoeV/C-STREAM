@@ -74,3 +74,93 @@ Early finish: explain why same relation does not mean same circumference.
 
 **Family:** We compared around/across and learned pi is finite. Ask, "What was
 left after three across-lengths?" Optional: notice a circle, no measurement task.
+
+## Teacher artifact pack
+
+- **Student material — measurement record (print/no-print):** Give each pupil one landscape
+  half-sheet headed `Circle A / Circle B`. Fields for each circle are `object
+  name`, `across through center: ___ cm`, `around: ___ cm`, `three across-lengths:
+  ___ + ___ + ___ = ___ cm`, and `around is ___ cm longer than three
+  across-lengths`. Finish with the exact prompts: `Circle ___ gave me a more
+  trustworthy reading because ___`; `One source of measurement error was ___`;
+  `We measured an approximation, not exact pi, because ___`. If no printer is
+  available, pupils fold plain paper into two columns and copy these headings
+  from the board. Do not add a division or decimal-pi field.
+- **Expected evidence and acceptable answers:** Each pupil must record two
+  plausible across/around pairs with `cm`, show three repeated diameter values
+  for at least one circle, and identify a small positive remainder. Around
+  should normally be a little more than three times across; readings below
+  three across or at/above four across trigger a remeasure rather than automatic
+  failure. Accept `string slipped`, `I did not cross the center`, `string
+  stretched`, `ruler started away from zero`, or `rounded to whole centimeters`
+  as error sources. Accept any explanation that real string/ruler readings are
+  limited or rounded and therefore do not establish exact pi. Do not require
+  `3.14`.
+- **Worked and finished example:** Display a teacher sample clearly marked
+  `example measurements, not target answers`: `lid; across 10 cm; around 32 cm;
+  10 + 10 + 10 = 30 cm; remainder about 2 cm`. Finished explanation: `Circle A
+  was more trustworthy because I held the string at the zero point and repeated
+  the around measurement. The 2 cm is approximate because the string shifted
+  and we read only whole centimeters.` Annotate `units`, `three equal
+  across-lengths`, `positive remainder`, and `honest limit`.
+- **Visual/board setup:** Before class draw the existing four-column table
+  `circle | across cm | around cm | three across compared with around`. Beside it
+  draw one circle with a center-crossing diameter and one non-example chord that
+  misses the center; label only the first `across`. Place a short demonstration
+  string under a ruler sketch whose first mark is `0`, and reserve a box headed
+  `remeasure if: around < 3 across OR around >= 4 across`. Keep the worked
+  example covered until after pupils' first measurements.
+- **Discussion questions, answers and misconceptions:** Ask `Why must across
+  pass through the center?` (it gives the diameter; an off-center chord is too
+  short); `Why can two circles have different measurements but the same around-
+  to-across pattern?` (size changes both lengths while the relationship remains
+  near the same); `Does an endless decimal make a circle infinitely large?`
+  (no; pi is a finite number and a particular circle has finite measurements);
+  `Did three diameters exactly equal around?` (normally no, a small remainder
+  was left); and `Did our activity prove exact pi or a faith claim?` (no, it
+  produced approximate physical evidence and an optional reflection). If a
+  pupil says `pi equals three`, have the pupil point to and measure the remaining
+  string rather than supplying a decimal.
+- **Kit contents. Kit label: and Cleanup/Reset:** For each team pack exactly `2 smooth plastic circles
+  under 15 cm diameter; 1 metric ruler; 4 cotton strings, each 50 cm`. Label the
+  resealable team bag exactly `W28 CIRCLES | TEAM CODE | 2 CIRCLES / 1 RULER /
+  4 x 50 cm STRING`. Place team bags in a bin labeled `C-STREAM G3-4 YRA W28 |
+  PI DAY | 4/5/7/9 TEAM BAGS`. At reset, reject any sharp-edged circle, untangle
+  and loosely coil each string, confirm each still reaches around both objects,
+  count against the bag label, stack rulers at zero-end together, and return
+  dated pupil records separately; do not put pupil paper or pencils in team
+  bags.
+- **Unfinished work:** Mark the last completed field with a check and write one
+  next action: `measure Circle B`, `repeat around`, or `write limit`. Clip the
+  pupil's record to the team's named-circle note so the same objects can be
+  reissued during the next supervised work period. A pupil who has both pairs
+  but no explanation may give the three final responses orally to the teacher;
+  no circle/string kit goes home.
+- **Annotated exemplar, Common error interpretation, and Reteach:** On the finished example,
+  underline `10 cm` and `32 cm` as measured evidence, bracket the three `10`s as
+  repeated equal lengths, circle `2 cm` as the remainder, and star the sentence
+  naming approximation. Interpret `around = 24 cm, across = 10 cm` first as a
+  likely center/wrap/zero procedure error, not a weak math learner; observe one
+  repeat. Interpret changing remainders across repeats as measurement
+  variability. Reteach at a teacher table by marking a lid center, pinching the
+  string start, wrapping once without stretch, and aligning that length to ruler
+  zero; pupil then completes one fresh pair and says `three across plus a small
+  remainder`.
+- **Safety classification: Severity low; likelihood unlikely** after controls.
+  Possible harms are minor skin irritation, string entanglement, or a scratch
+  from damaged plastic;
+  after inspection and desk-only use. **Adult ratio: 1:25 maximum**, with teams
+  no larger than 3; the adult circulates continuously and keeps every string
+  user in line-of-sight. Add support if a pupil's plan requires closer
+  supervision.
+  Strings remain below shoulder level and are never worn; stop for frayed string
+  or a sharp/cracked circle. **SDS applicability: not applicable** because no
+  chemical product is used.
+- **Print accessibility:** Print at 100% in black and white with at least
+  12-point text, bold column headings, heavy table borders, no color-only codes,
+  and enough space for two-digit measurements plus units. Provide a 16-18-point
+  enlarged copy, read prompts aloud, and permit a ruler/string partner, scribe,
+  oral explanation, or tactile tracing. Check that `cm` and the comparison signs
+  remain legible on one sample copy; the folded-paper version must preserve the
+  same fields.
+- **Technology compliance:** No technology artifact applies.

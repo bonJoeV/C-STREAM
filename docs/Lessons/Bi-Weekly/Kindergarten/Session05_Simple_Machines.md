@@ -71,3 +71,41 @@ Object escapes tray: stop, contain/stabilize before resuming. No safe ramp:
 teach a labeled drawing and defer movement evidence. Indoors; no home test needed.
 **Family:** We compared the same object at two low ramp rises.
 Ask, "Did it roll, slide or stay?" No purchases or routine homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print half-sheet, crayon, contained low cardboard ramp, tray, large ball, large block, and ruler; adult changes supports.
+
+**Evidence and answer guidance:** Record same object, same release point, actual roll/slide/stay outcome, and changed rise. Do not infer speed or call the desk ramp a real wheelchair ramp.
+
+**Worked example:** Release the same ball without pushing at 5 cm, reset to 10 cm, and report roll, slide, or stay.
+
+**Finished example:** Two low rises and the same object are shown with the child’s actual motion word or symbol.
+
+**Visual example:** Draw the tray, release point, and side-view ramps labeled 5 cm and 10 cm.
+
+**Board setup:** Make “roll,” “slide,” and “stay” columns plus “same object / changed rise.”
+
+**Expected discussion responses:** “The ball rolled”; “The rise changed”; “The release stayed the same”; “This is a desk model.”
+
+**Kit contents and label:** Ramp, tray, large ball/block, ruler, and two low supports; label “contained 5/10 cm ramp.”
+
+**Cleanup/reset:** Stop motion, remove boards safely, count pieces, retain records, and clear floor/table space.
+
+**Unfinished work:** Keep the observed motion and changed rise; defer comparison if the tray escaped or was not stable.
+
+**Common misconceptions:** Taller does not mean stronger gravity; distance does not prove speed; a toy ramp is not for a person.
+
+**Annotated exemplar:** “Same ball,” “5/10 cm,” and actual “roll/roll” are marked.
+
+**Common error interpretation:** If object and rise both changed, mark the test not fair and repeat with one condition changed.
+
+**Reteaching option:** Demonstrate one low rise, have the child point to the release line, then compare using three motion cards.
+
+**Safety risk classification:** Severity: moderate; likelihood: unlikely after controls. Controlled tabletop movement only; no launches, races, body ramps, floor traffic, or heights above 10 cm.
+
+**Adult supervision ratio:** Teacher controls supports/releases; children test seated with adult monitoring each active area.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use clean cardboard, stable supports, large pieces, and school-approved paper/crayons.
+
+**Print/accessibility check:** No printing; use large motion symbols, tactile ramp edges, pointing, and scribing.

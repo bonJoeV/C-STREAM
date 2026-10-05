@@ -87,3 +87,143 @@ no home purchase. At 25, nine simultaneous desk tests avoid serial queues.
 
 **Family:** We retested structures and stewarded shared stock. Ask, “Which test
 informed your change?” Optional: notice a support in a picture.
+
+## Teacher artifact pack
+
+### Student materials and Evidence and answer guidance: two print/no-print records
+
+Issue one sheet per pupil each meeting. For no-print use, copy the exact fields
+to the board and pupils divide plain paper into `Version 1 | Change | Version 2`.
+
+**Meeting 1 -- tower**
+
+`Name: ___  Date: ___  Team: ___`
+
+`Limits: 30 planks; 20 cm square; height cap 40 cm. Criterion: stands without
+hands for 10 seconds.`
+
+`Version 1 sketch/base: ___  Height: ___ cm  10-second result: [pass / fell at
+___ s]`
+
+`Observed movement/fall location: ___`
+
+`One base change and reason: ___`
+
+`Version 2 height: ___ cm  10-second result: [pass / fell at ___ s]`
+
+`Comparison: Version 2 was ___ cm [taller/shorter/same] and ___.`
+
+`Stock check: returned ___ of 30 planks; reuse choice: ___.`
+
+**Meeting 2 -- bridge**
+
+`Limits: 30 planks; 8 cm book gap; 10 identical counters. Criterion: each
+counter remains for 3 seconds.`
+
+`Version 1 sketch: ___  Last successful load: ___ counters / at least 10`
+
+`Movement began at: ___  One overlap change and reason: ___`
+
+`Version 2 load: ___ counters / at least 10`
+
+`Difference: ___ counters. Kept same: ___ and ___.`
+
+`Stock check: returned ___ of 30 planks; responsible choice: ___.`
+
+**Acceptable evidence:** record zero for an immediate structural failure and
+`at least 10` when all ten counters hold; `10` is not proven maximum strength.
+A complete tower/bridge record has two actual results, one evidence-linked
+design change, the stated criterion/constraint, comparable conditions, and a
+30-plank count-back. Diagrams and dictated explanations are acceptable.
+
+### Worked example, finished example, and annotated exemplar
+
+Display two labeled sketches with this **illustrative** record:
+
+> Tower V1: **34 cm, stood 10 s**, but the top swayed over the narrow two-plank
+> base. Change: **used four planks in a crossed base and removed two upper
+> planks**. Tower V2: **32 cm, stood 10 s with less visible sway**. It was 2 cm
+> shorter; the evidence supports stability, not “best tower.” **30/30 returned.**
+>
+> Bridge V1: **6 counters** for 3 seconds; movement began where deck planks met
+> over the center. Change: **increased center overlap while keeping the 8 cm
+> gap, 30-plank allowance, center loading, and same counters**. Bridge V2:
+> **9 counters**, a difference of **3**. **30/30 returned.**
+
+Underline the observation that caused each change, circle the measured
+height/load, and box the fair-comparison conditions. Annotate `shorter` as a
+tradeoff rather than failure and `9 counters` as the tested load, not a claim
+that the bridge can hold people. The finished artifact is the two evidence
+sheets with before/after sketches; structures are intentionally dismantled, so
+a preserved physical final model is **N/A for stewardship and reset**.
+
+### Board/chart setup and discussion
+
+Meeting 1 board: draw the 20 cm square, a vertical ruler capped at 40 cm, and a
+chart `V1 height/pass | observed issue | base change | V2 height/pass | 30
+returned`. Meeting 2: draw two books with an 8 cm arrow, center counter position,
+and `V1 last successful | movement began | overlap change | V2 last successful
+| difference | 30 returned`. Post `hands off`, `3-second count`, and `test one
+counter at a time`.
+
+- “Is the tallest tower automatically best?” Accept no; it must meet the
+  ten-second criterion and constraints, and a shorter revision may be steadier.
+- “What does a fall tell us?” Accept where/when movement began and what feature
+  to revise. Correct the idea that a fall means the builder was careless.
+- “Why add counters one at a time in the same place?” Accept comparable load
+  steps and observation of the last successful count.
+- “If both bridges hold all ten, which is strongest?” Accept unknown; the test
+  only shows both held **at least ten** under these conditions.
+- “What must stay the same for the bridge retest?” Accept 8 cm span, plank
+  allowance, books, counters, placement, and three-second rule.
+- “How does count-back show stewardship?” Accept that shared stock remains
+  available and damage/missing pieces are reported; using all pieces is not
+  automatically more responsible.
+
+### Kit contents, Kit label:, Cleanup, Reset, and Unfinished work
+
+Each team sorting tray contains exactly `30 inspected KEVA planks, 1 metric
+ruler, 2 flat books, 10 identical plastic counters`; issue `1 pencil and 2
+recording sheets per pupil across the unit`. Label the tray `C-STREAM G3-4 |
+W05-06 KEVA | TEAM CODE | 30 PLANKS / 1 RULER / 2 BOOKS / 10 COUNTERS`. Reset in
+this order: remove counters, dismantle from the top without forced collapse,
+sort/count 10 counters and 30 planks, inspect and isolate damaged stock, stack
+two books, lay the ruler flat, and have teacher initial the count. Record an
+approved substitute block set and equal revised allowance on every sheet.
+
+When work is unfinished, pupils sketch the current layer/base or overlap and
+write `NEXT: finish build / test V1 / make change / retest V2`. Then dismantle
+and count back anyway; clip the dated plan to the team tray so it can be rebuilt
+at school. Do not store an unstable structure, estimate a missing test result,
+or send shared planks home.
+
+### Error interpretation and reteaching
+
+Annotate `tower failed` with `record height and seconds before fall`; `bridge
+held 10` with `write at least 10--maximum unknown`; a changed gap plus changed
+overlap with `not a comparable retest`; and `29 returned` with `stop/reset and
+locate or report one missing plank`. Different results do not by themselves
+show poor measurement. For reteaching, provide a six-plank teacher base and a
+mini bridge over the same marked 8 cm gap. The pupil predicts a movement point,
+runs one hands-off/three-second check, points to the observed motion, changes
+one arrangement feature, and completes `I changed ___ because I observed ___;
+the retest changed from ___ to ___`.
+
+### Safety classification, Print/accessibility check, and technology
+
+**Safety classification: Severity low; likelihood unlikely** after controls.
+A falling plank, pinched finger near books, or counter on the floor can cause
+minor injury; with desk-only tests, hands clear,
+trays, and deliberate dismantling. **Adult ratio: 1:25 maximum** (one adult to
+no more than 25 pupils/nine structure teams) while circulating with all tests
+visible; pause testing if the adult is occupied with a spill, missing counter,
+or unsafe build. No body-load, forced collapse, climbing, throwing, or hands
+beneath bridges. SDS review is **not applicable** to intact unfinished wood
+planks, plastic counters, books, ruler, paper, pencil, and tray used as intended;
+isolate splintered, coated, or contaminated stock and follow the supplier/local
+process.
+
+Print at 100% in at least 12-point high-contrast type, with checkboxes plus words
+for pass/fell and ample sketch space; do not rely on color. Offer large-print
+ruler marks, tactile counting piles of five, oral timing, partner placement,
+speech, scribing, or pointing. No technology artifact applies.

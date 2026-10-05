@@ -82,3 +82,7 @@ On the roster record two observed details and one question for every child: inde
 ## Optional family snippet
 
 We drew or described two observed details, asked a question, and practiced leaving creation undisturbed. Ask: "What did you notice, and what do you still wonder?" A safe window observation is optional; nothing must be brought from home.
+
+## Teacher artifacts
+
+See the [Week 4 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-4--wonder-walk).

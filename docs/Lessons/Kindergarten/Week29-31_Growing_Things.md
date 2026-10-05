@@ -108,3 +108,7 @@ Record O (actual detail), C (comparison), M (count/comparison), and care action 
 ## Optional family snippet
 
 We observed seeds three times, counted visible features, and recorded changes honestly, including no change. Ask: "What is something you saw, and what was only a prediction?" School adults provided all care; there is no homework or donation prerequisite.
+
+## Teacher artifacts
+
+See the [Weeks 29-31 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-29-31--growing-things).

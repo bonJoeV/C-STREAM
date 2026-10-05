@@ -5,6 +5,12 @@ description: "Content, progression and operational gaps with closure evidence"
 
 # Curriculum gap analysis
 
+> **Current release status:** historical "complete reference/package" language
+> means the lesson pathway was revised. The expanded
+> [teacher-artifact audit](Teacher_Artifact_Readiness.md) records complete
+> repository artifact coverage for all 251 lessons; school-controlled release
+> evidence remains outstanding.
+
 A gap can be **missing content**, **insufficient depth**, **missing individual
 evidence**, **an unsuitable prerequisite**, or **an unusable teaching procedure**.
 The existence of a file or tag does not close it. The detailed band reviews

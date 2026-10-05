@@ -100,3 +100,7 @@ H may be recorded only for a child who actually controls the real robot and stop
 ## Optional family snippet
 
 We predicted and corrected picture instructions and practiced fair turns. Ask: "Show me two steps and one way to fix them." Real robot driving was optional and was recorded separately from algorithm learning. No homework or device purchase.
+
+## Teacher artifacts
+
+See the [Weeks 2-3 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-2-3--exploring-movement-with-sphero).

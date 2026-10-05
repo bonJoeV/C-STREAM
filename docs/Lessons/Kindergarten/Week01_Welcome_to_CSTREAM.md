@@ -74,3 +74,7 @@ Child only guesses: ask where the claimed feature appears; keep the question.
 Early finish: compare a partner's representation. Follow the routines' cleanup.
 **Family:** We noticed a detail and asked a question. Ask, "What did you actually
 see, and what do you still wonder?" No routine homework or supplies required.
+
+## Teacher artifacts
+
+See the [Week 1 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-1--welcome-to-c-stream).

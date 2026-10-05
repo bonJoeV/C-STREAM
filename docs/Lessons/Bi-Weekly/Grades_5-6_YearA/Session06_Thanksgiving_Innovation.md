@@ -86,3 +86,16 @@ Keep individual result/limit, count tools/tokens and reuse bases.
 
 **Previous:** [Scratch Advanced](./Session05_Scratch_Advanced.md)
 **Next:** [Christmas Electronics](./Session07_Christmas_Electronics.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Give the fictional helper brief, six tokens (2 THANKS, 2 DRAW, 2 PASS), and fields `criterion / constraint / request / route / correct? / revision / pitch limit`; board-copy these if no printer. Complete evidence includes all three request types, 0-3 first/retest counts, one changed label, and a pitch limited to routing—not happiness.
+- **Worked example and finished example:** Work a PASS request that is first placed under THANKS because PASS is small; enlarge/separate PASS and retest. Finished table routes DRAW/THANKS/PASS correctly (3/3), states one-base/six-token constraint and says `The revision made PASS findable in this trial; it does not show anyone became grateful`.
+- **Board setup:** Post the exact brief, three equal-choice columns `THANKS | DRAW | PASS`, criterion `3 requests without coaching`, and `FIRST | CHANGE | RETEST | UNTESTED`.
+- **Questions/misconceptions:** Ask “Why is PASS successful?” (it honors the requested choice), “Did we make anyone happier?” (not measured), “What was actually requested?” (clear routing). Correct “gratitude requires participation,” “PASS is failure,” and a confident pitch as proof of impact.
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Thanks Choice Table kit: paper evidence/pencil per pupil; per team cardstock token sheet, cardboard base, brief/test sheet, ruler, marker, blunt scissors, 0.3 m tape; teacher board/clock/roster. **Kit label:** `G5-6 YA S06 — THANKS CHOICE TABLE — 6 TOKENS`. Reset by counting two of each token, returning/capping tools, reusing base and filing logs. Date unfinished work, bag its tokens/base, note last request/count, and resume without home service.
+- **Annotated exemplar/reteach:** Mark `PASS lowered our score` with `misconception: matching PASS is correct`; box trial routes, underline criterion and circle revised PASS label. Reteach by teacher naming one request at a time, pupil pointing without hints, then repeating the three-request test.
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gates, and Print/accessibility check:** Severity **low**, likelihood **unlikely** with blunt scissors/tabletop stock; adult ratio **1:25**. **SDS/product gate: HOLD — masking/painter tape (TAPE).** The exact product/manufacturer is not specified; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv). Do not issue or substitute tape until the school safety lead approves the exact product and current SDS. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; use the register CONTROL-ROW and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** print 14-point, high contrast, words/icons not color alone; read aloud and allow pointing, oral/scribed pitch and pre-cut tokens.

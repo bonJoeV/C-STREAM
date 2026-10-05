@@ -1434,6 +1434,98 @@ Better activities, differentiation, efficiency.
 ### P3 - Enhancement
 Nice-to-have enrichment.
 
+## N. REPOSITORY INVENTORY AND AUDIT RECONCILIATION
+
+Provide one row per discovered curriculum artifact:
+
+- path
+- grade
+- unit
+- lesson
+- type
+- include or exclude with rationale
+- audit status
+- resulting action
+
+Reconcile totals for:
+
+- discovered
+- reviewed
+- excluded
+- duplicate
+- incomplete
+- unresolved
+
+Require totals to add up so no file is silently skipped.
+
+## O. REVISED CLASSROOM-READY CURRICULUM
+
+Provide the actual improved curriculum files, not only reports:
+
+- updated unit plans
+- updated lesson plans
+- student handouts
+- assessments
+- rubrics
+- answer keys
+- substitute-ready versions
+- indoor alternatives for outdoor lessons
+- low-tech alternatives for device-dependent lessons
+
+## P. TEACHER IMPLEMENTATION GUIDE
+
+Include:
+
+- yearly schedule derived from the documented instructional time baseline
+- repository navigation
+- kit organization and labeling
+- printing and preparation guidance
+- what to do the first week
+- how to record student progress
+
+## Q. SOURCE AND ASSUMPTIONS REGISTER
+
+List every cited source with:
+
+- issuing body
+- title
+- version or edition
+- effective date
+- URL or document identifier
+- date accessed
+- classification as official standard, official guidance, national standard, or local program standard
+- verification status
+
+List every assumption made where authoritative information was unavailable.
+
+Mark each assumption **VERIFICATION REQUIRED** and include the question a staff member must answer.
+
+## R. VALIDATION AND MAINTENANCE REPORT
+
+Include:
+
+- completeness checks performed
+- standards validation
+- safety review results
+- accessibility review results
+- teacher feedback
+- pilot feedback
+- defects found and corrected
+- known limitations
+- annual review procedure that keeps the curriculum current
+
+## DELIVERABLE FORMAT AND LOCATION
+
+Require:
+
+- deliverables to live in a clear, predictable location in the repository
+- consistent and predictable file naming
+- Markdown for reading-oriented deliverables
+- CSV or JSON for data deliverables such as the materials database, standards traceability matrix, and inventory reconciliation
+- a single index or README that links every deliverable
+- relative links so documents remain navigable
+- a principal or teacher to be able to find any deliverable without being told where it is
+
 ---
 
 # 31. DO NOT HALLUCINATE SOURCES OR STANDARDS
@@ -1547,9 +1639,622 @@ Academic rigor and Catholic identity should strengthen one another.
 
 ---
 
-# 36. WORKING METHOD
+# 36. DEFINE THE INSTRUCTIONAL TIME BASELINE
+
+Determine the real instructional time available before judging scope.
+
+Do not decide whether a grade has too much or too little curriculum until the time budget is stated.
+
+Use repository evidence where available.
+
+If the repository does not answer a question, make an explicit assumption and label it clearly:
+
+**ASSUMPTION - VERIFY LATER**
+
+Determine and document:
+
+- how often C-STREAM meets
+- typical period length
+- instructional weeks per year
+- number of grade sections
+- whether C-STREAM is a standalone special
+- whether C-STREAM is integrated into classroom time
+- who teaches C-STREAM
+- how much time is usually lost to holidays
+- how much time is usually lost to Mass
+- how much time is usually lost to testing
+- how much time is usually lost to field trips
+- how much time is usually lost to Minnesota snow days
+
+Calculate the resulting:
+
+**Total annual instructional minutes per grade**
+
+Use that number as the controlling constraint.
+
+Every scope decision must derive from it.
+
+Every yearly calendar must fit inside it.
+
+Record assumptions so the school can correct them later without rebuilding the entire curriculum.
+
+State a realistic lesson count for each grade.
+
+Do not count every theoretical school week as available instructional time.
+
+Do not plan more lessons than the baseline can support.
+
+---
+
+# 37. UNIT-LEVEL REQUIREMENTS
+
+Specify units as rigorously as lessons.
+
+No unit should exist only as a loose collection of activities.
+
+Every unit plan must include:
+
+- unit title
+- grade
+- approximate duration in sessions
+- approximate duration in minutes
+- enduring understandings
+- essential questions
+- prerequisite knowledge
+- ordered lesson sequence
+- explanation of why the order matters
+- cumulative or culminating assessment
+- vocabulary introduced
+- vocabulary reinforced
+- standards coverage for the unit as a whole
+- consolidated materials list
+- kit requirements
+- calendar placement
+- seasonal constraints
+- Catholic through-line for the unit
+- differentiation notes that apply across the unit
+- family communication summary
+
+For each unit, state clearly:
+
+**What should students be able to do at the end that they could not do at the start?**
+
+The answer must be observable.
+
+The answer must be age appropriate.
+
+The answer must connect to the lessons in the unit.
+
+If the lesson order does not matter, the unit may not be a true unit.
+
+If the activities do not build toward a shared understanding, skill, project, question, or assessment, rebuild the unit.
+
+---
+
+# 38. REQUIRED TEACHER ARTIFACTS
+
+A lesson is not classroom ready until the required artifacts physically exist in the repository.
+
+A lesson is not substitute ready until a substitute can use those artifacts without hidden knowledge.
+
+For every lesson, create or verify:
+
+- printable student materials
+- answer keys or expected student evidence
+- worked example where a build is involved
+- finished example where a build is involved
+- photographs or sketches of the expected result where helpful
+- board setup
+- chart setup
+- expected student responses to each discussion question
+- materials tray or kit contents list
+- kit label text
+- cleanup instructions
+- kit reset instructions
+- directions for what to do with unfinished student work
+
+Cleanup and reset instructions must be specific enough that the next teacher finds the kit complete.
+
+Do not write "clean up materials" when the actual reset matters.
+
+State:
+
+- what gets thrown away
+- what gets saved
+- what gets returned to the kit
+- what must be dried, counted, repaired, replaced, or recharged
+- where unfinished student work should go
+- whether unfinished work continues in the next lesson
+
+For discussion questions, include likely correct responses and common misconceptions.
+
+For builds, include enough visual or physical evidence that the teacher knows what students are trying to make.
+
+Do not mark a lesson complete until every required artifact exists in the repository.
+
+---
+
+# 39. SAFETY RISK PROTOCOL
+
+Use a repeatable safety protocol for every hands-on activity.
+
+Do not merely list hazards.
+
+For each hazard classify:
+
+- severity
+- likelihood
+- who may be harmed
+- when the risk occurs
+- how the risk will be prevented or reduced
+
+Use plain categories that teachers can apply consistently.
+
+Example:
+
+**Severity**
+- Low
+- Moderate
+- Serious
+- Severe
+
+**Likelihood**
+- Unlikely
+- Possible
+- Likely
+- Frequent
+
+Match mitigation to risk.
+
+Do not allow a serious risk to remain with only a reminder to be careful.
+
+For any activity with meaningful risk, require:
+
+- required adult supervision ratio
+- teacher-only steps
+- required personal protective equipment
+- safety glasses where eyes could be exposed to debris, liquid, force, or splash
+- safe handling directions
+- safe storage directions
+- spill response
+- breakage response
+- burn response
+- cut response
+- allergy and food protocols
+- battery rules
+- magnet rules
+- battery and magnet ingestion warnings
+- disposal instructions
+- cleanup instructions
+
+Require a current Safety Data Sheet for any chemical product.
+
+This includes:
+
+- cleaning products
+- adhesives
+- paints
+- solvents
+- sprays
+- lab materials
+- commercial mixtures
+
+Obtain and retain the Safety Data Sheet before the lesson is approved.
+
+Create a prohibited materials and tools list for K-6.
+
+For each prohibited item include:
+
+- item name
+- reason it is prohibited
+- grade levels affected
+- safer alternative if one exists
+
+Include items that are unsafe because of:
+
+- choking risk
+- ingestion risk
+- sharpness
+- heat
+- fumes
+- skin or eye irritation
+- fire risk
+- electrical risk
+- allergy risk
+- supervision burden
+- facility restriction
+- age inappropriateness
+
+Confirm that every activity complies with:
+
+- school policy
+- Archdiocesan policy
+- insurance requirements
+- facilities restrictions
+- classroom space limitations
+- storage limitations
+- cleaning and disposal rules
+
+If confirmation cannot be obtained, record:
+
+**VERIFICATION REQUIRED**
+
+Do not approve the activity until the missing confirmation is resolved.
+
+If the risk cannot be adequately mitigated, replace the activity.
+
+Do not merely annotate an unsafe activity and leave it in the curriculum.
+
+---
+
+# 40. ACCESSIBILITY AND TECHNOLOGY COMPLIANCE
+
+Make all printed and digital materials accessible to elementary students.
+
+Do not assume that a visually attractive page is usable.
+
+For printed and digital materials require:
+
+- readable typography
+- adequate type size for emerging readers
+- sufficient contrast
+- directions that do not depend on color alone
+- alt text for meaningful images
+- clean print layout
+- black-and-white reproducibility
+- plain language appropriate to the grade
+- uncluttered worksheets
+- clear labels
+- enough space for student responses
+
+Use images to support understanding.
+
+Do not use images as decoration when they distract from the task.
+
+For any device-based activity identify:
+
+- whether student accounts are needed
+- what personal data is collected
+- whether advertising is present
+- minimum age requirements
+- terms-of-service restrictions
+- whether the activity works offline
+- keyboard accessibility
+- switch accessibility
+- captioning for video
+- audio alternatives where needed
+- teacher setup burden
+- student login burden
+- technical support needed
+
+Require explicit school approval before any external service is used with students.
+
+Do not rely on a free website, app, video platform, account system, or online tool unless it has been approved for student use.
+
+Where a service cannot be approved, provide an unplugged or low-tech alternative.
+
+The alternative must teach the same objective.
+
+Do not treat the alternative as busywork.
+
+No lesson may make a student's participation depend on:
+
+- home internet access
+- a personal device
+- a family subscription
+- printing at home
+- parent technical support
+
+If technology is used, it must strengthen the lesson.
+
+Do not add screen time merely to modernize an activity.
+
+---
+
+# 41. ASSESSMENT SUPPORT MATERIALS
+
+Make assessment usable by a teacher who did not design the lesson.
+
+Do not turn C-STREAM into a testing-heavy subject.
+
+Use brief, meaningful evidence of learning.
+
+For each assessment provide:
+
+- answer key
+- or a clear description of the expected evidence
+- annotated exemplars for open-ended student work
+- the stated learning objective being measured
+- an explicit check that the assessment measures that objective
+- an explicit check that the assessment does not measure unrelated skills
+- guidance for interpreting common student errors
+- guidance for what to do when most students do not demonstrate understanding
+- short reteaching options
+- a simple way to record progress over time
+
+The progress record must be realistic for a busy teacher.
+
+Prefer low-burden records such as:
+
+- class checklist
+- quick rubric mark
+- one-sentence note
+- exit question tally
+- portfolio artifact list
+- standards tracker
+
+Do not require elaborate data entry unless the school already uses that system.
+
+Rubrics must use the program's shared level names.
+
+Use the same level names across grades unless a clear developmental reason requires otherwise.
+
+Scoring must not reward:
+
+- handwriting
+- artistic talent
+- reading speed
+- spelling
+- grammar
+- confidence speaking in front of the class
+
+unless those skills are part of the stated objective.
+
+Separate participation from mastery.
+
+A student may participate well and still need reteaching.
+
+A student may show understanding in speech, drawing, model-building, demonstration, or writing.
+
+Accept the form of evidence that best matches the objective.
+
+---
+
+# 42. STANDARDS VERSIONING AND SOURCE DISCIPLINE
+
+State the target school year explicitly.
+
+Do not imply the school year from file dates, current calendar year, or recently accessed sources.
+
+For every standard cited, record:
+
+- issuing body
+- official document title
+- version, edition, or publication year
+- adoption date, if published
+- effective date, if published
+- URL or official document identifier
+- date accessed
+- classification used by this program:
+  - official standard
+  - official guidance
+  - national standard
+  - local program standard
+
+Reproduce benchmark codes exactly as published.
+
+Do not construct, shorten, combine, renumber, or "normalize" benchmark codes.
+
+If a source does not publish a benchmark code, state that clearly.
+
+Do not invent one for convenience.
+
+When standards are under revision, being phased in, or overlapping with older versions, identify:
+
+- the version the curriculum targets
+- the version being replaced, if applicable
+- the phase-in or sunset timeline, if available
+- the reason for choosing the target version
+- any risk that the curriculum will need revision before or during the target school year
+
+If authoritative information cannot be obtained, create an assumptions log entry.
+
+Each assumptions log entry must include:
+
+- the unresolved point
+- the source or office checked
+- the date checked
+- the decision made for drafting purposes
+- the specific question a school staff member must answer
+- **VERIFICATION REQUIRED**
+
+Do not treat an assumption as verified because it seems likely.
+
+Do not bury uncertainty in prose.
+
+Make every standards uncertainty visible enough that the school can resolve it before adoption.
+
+---
+
+# 43. PROCUREMENT AND SUSTAINABILITY
+
+Build a materials plan the school can use in future years.
+
+Do not create a one-time shopping list that becomes obsolete after the first purchase.
+
+For each significant item, include:
+
+- vendor-neutral specification sufficient to buy an equivalent product
+- example item or vendor, if useful
+- date the price was recorded
+- expected replacement cycle
+- estimated annual recurring cost
+- typical lead time
+- whether batteries are required
+- whether charging is required
+- whether adult setup, maintenance, or calibration is required
+
+Write specifications so the school can substitute responsibly.
+
+For discontinued or unavailable items, state the substitution rule.
+
+The substitution rule must preserve:
+
+- safety
+- learning purpose
+- durability
+- approximate size or capacity
+- compatibility with existing kits
+- reasonable cost
+
+Prefer commodity materials available from local retailers when they meet the lesson need.
+
+Avoid locking the curriculum to specialty items unless the instructional value clearly justifies it.
+
+Classify every material as:
+
+- consumable
+- durable
+- reusable but likely to wear out
+- optional enrichment
+
+Identify which items must be rebudgeted each year.
+
+Identify which items require:
+
+- storage bins
+- labeled kit space
+- separate teacher-only storage
+- drying space
+- charging space
+- battery storage
+
+Estimate annual replenishment realistically.
+
+Include predictable losses, breakage, wear, and normal classroom use.
+
+Do not assume every item purchased in year one will remain complete, clean, and usable indefinitely.
+
+The materials plan should allow the principal to budget before the school year begins.
+
+Do not leave teachers to discover recurring costs mid-year.
+
+---
+
+# 44. VALIDATION AND CHANGE MANAGEMENT
+
+Keep a disciplined record of what changed and why.
+
+Do not rely on memory, informal comments, or scattered notes.
+
+Maintain a change log that records:
+
+- files added
+- files modified
+- files removed
+- reason for each substantive change
+- standards or lessons affected
+- materials or assessments affected
+- decisions left unresolved
+- reviewer responsible for the decision, when known
+
+Before treating the curriculum as complete, perform a completeness check.
+
+Confirm that:
+
+- each lesson has the required teacher artifacts
+- each lesson has clear objectives
+- each lesson has required materials
+- each lesson has assessment evidence
+- each unit has the required fields
+- each claimed standard is traceable to evidence
+- each Catholic integration claim is visible in the lesson
+- each deliverable exists
+- each file needed by teachers can be found without guessing
+
+Require review by at least one person who will actually teach the material.
+
+Do not substitute administrative approval for teacher usability review.
+
+Pilot a sample of lessons in real classroom conditions.
+
+The pilot sample must include:
+
+- at least one primary grade lesson
+- at least one intermediate grade lesson
+- at least one hands-on activity with materials
+- at least one lesson using the substitute-ready teacher directions
+
+Record pilot feedback in a form that can be acted on.
+
+Pilot findings must produce revisions.
+
+Do not file pilot comments without changing the curriculum when the comments reveal a real defect.
+
+After revisions, verify that the same defect no longer appears elsewhere in the same unit or grade band.
+
+Create an annual review procedure.
+
+The procedure must identify:
+
+- who reviews the curriculum
+- when the review occurs
+- which standards sources are rechecked
+- how material prices are updated
+- how teacher feedback is collected
+- how changes are approved
+- where the change log is stored
+
+Maintain the curriculum as a living program.
+
+Do not freeze it as a finished binder that slowly becomes inaccurate.
+
+---
+
+# 45. SIMULATION RESULTS RECORD
+
+The final simulations must produce a recorded, reviewable artifact.
+
+Do not treat a simulation as complete because someone informally says the curriculum seems fine.
+
+Create a results record for each simulation.
+
+For each simulation, record:
+
+- simulation name
+- lessons or units examined
+- grade level examined
+- evidence reviewed
+- reviewer
+- review date
+- clear pass or fail result
+- each defect found
+- corrective action taken
+- date corrective action was completed
+- re-run result, if the first result failed
+- remaining exception, if any
+- justification for each remaining exception
+
+Failures must be fixed and re-run.
+
+Do not explain away a failed simulation without changing the curriculum or documenting an approved exception.
+
+Corrective action must be specific.
+
+Do not write "revise lesson" when the actual problem is unclear directions, missing materials, unrealistic timing, unsafe setup, weak assessment, or unsupported standards alignment.
+
+When a failure affects more than one lesson, check the surrounding unit and grade band for the same defect.
+
+Do not fix only the sampled lesson if the defect is systemic.
+
+Accepted exceptions must be visible to:
+
+- the principal
+- the teacher who will teach the lesson
+- any reviewer responsible for curriculum approval
+
+Do not bury accepted exceptions in comments, side notes, or unresolved drafts.
+
+The results record should allow the school to see what was tested, what failed, what changed, and what risk remains.
+
+---
+
+# 46. WORKING METHOD
 
 Proceed in phases.
+
+### PHASE 0
+Define and document the instructional time baseline.
 
 ### PHASE 1
 Inventory and understand the repository.
@@ -1587,13 +2292,16 @@ Implement the highest-value curriculum improvements in the repository.
 ### PHASE 12
 Perform a final consistency and quality review.
 
+### PHASE 13
+Validate, pilot, correct defects, and record the results.
+
 Do not stop after producing a report if this repository contains editable curriculum files.
 
 Where appropriate, make the improvements.
 
 Preserve useful existing work rather than rewriting everything unnecessarily.
 
-Keep a clear record of substantive changes.
+Keep a clear record of substantive changes in the required change log.
 
 ---
 
@@ -1641,5 +2349,11 @@ A parent asks:
 Can the teacher clearly explain the skills, standards, Catholic connection, and progression?
 
 If any simulation exposes a weakness, improve the curriculum.
+
+Record every simulation in the required simulation results record.
+
+Each simulation must have a documented pass or fail result, the defects found, the corrective action taken, and any remaining exception.
+
+A simulation is not complete until its result is written down and its failures are fixed and re-run.
 
 The finished product should feel like a deliberately engineered K-6 academic program, not a folder full of STEM activities.

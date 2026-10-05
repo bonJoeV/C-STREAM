@@ -111,3 +111,149 @@ Every child predicts an ordered route, traces a two-repeat sequence as 8 command
 ## Family snippet
 
 We used sequences, loops and honest debugging to predict and test routes. Robots add real input/output and calibration; paper work develops computational thinking but is not robot operation. Our Catholic connection was inclusive, responsible tool use. **Ask:** "What repeats, and what did you change after testing?" **Optional at home:** give a partner three directions using a paper token. No devices or homework.
+
+## Teacher artifact pack
+
+### Student materials: print or copy
+
+Issue one half-sheet each meeting. If no printer is available, copy the exact
+numbered fields to the board and let pupils answer on folded plain paper.
+
+**Meeting 1 -- sequence/calibration**
+
+`Name: ___  Date: ___  Team: ___  Evidence: [robot operation / robot
+observation / paper only]`
+
+1. `My two-roll prediction (draw arrows and endpoint): ___`
+2. `Settings: heading ___, speed ___, duration ___ s for each roll.`
+3. `Actual endpoint distance from start: ___ cm.`
+4. `One change: ___ changed from ___ to ___. I expect ___.`
+5. `Retest result: ___ cm / not tested because ___.`
+6. `My device action, if observed: [aimed / entered block / ran / stopped] ___`
+
+**Meeting 2 -- loop/debug**
+
+`Name: ___  Date: ___  Team: ___  Evidence: [robot operation / robot
+observation / paper only]`
+
+1. `Square headings in order: ___, ___, ___, ___.`
+2. `Four roll blocks repeated ___ times = ___ executed rolls.`
+3. `Draw the predicted path and mark START/END.`
+4. `Actual endpoint error from start: ___ cm / paper path ended at ___.`
+5. `Debug change: ___ because ___. Retest evidence: ___.`
+6. `Paper cannot show this physical factor: ___.`
+
+**Expected evidence:** paper evidence includes `0, 90, 180, 270`, repeat 2 =
+`8` rolls, a closed traced square for one repeat, and a specific one-variable
+debug such as shorter duration or re-aiming. Real-device evidence additionally
+requires a teacher-observed aim/block-entry/run/stop action and a measured
+result; watching a run is not operation. Accept wheel slip, floor friction,
+aiming error, or Bluetooth delay as physical factors. Never invent a distance
+for a pupil whose slot did not occur.
+
+### Worked example, finished example, and annotated exemplar
+
+Use a teacher-run example labeled **illustrative data, not a promised result**:
+
+> Meeting 1: I predicted two heading-0 rolls would move straight. Settings:
+> **0, 20, 1 s**. Actual: **62 cm**. I changed duration only from **1 s to
+> 0.5 s** and expected a shorter trip. Retest: **34 cm**, shorter but not
+> exactly half.
+>
+> Meeting 2: Headings **0, 90, 180, 270** inside repeat **2** execute **8
+> rolls**. One-square endpoint error was **18 cm**. I kept headings/speed and
+> re-aimed at the start mark; retest error was **9 cm**. Paper cannot show
+> wheel slip.
+
+Annotate the unchanged speed/headings as controls, box `62 -> 34 cm` and `18 ->
+9 cm` as measured evidence, and bracket the four commands enclosed by the loop.
+Cross out the false annotation `repeat 4 around one roll makes a square`; it
+repeats one absolute heading and makes a straight route. The finished artifact
+is the two evidence sheets plus saved team-ID program or complete paper trace;
+a decorated robot product is N/A.
+
+### Visual/board setup and discussion
+
+For meeting 1, post `PREDICTION | SETTINGS | ACTUAL cm | ONE CHANGE | RETEST cm`,
+a 1 m lane diagram, aiming arrow `heading 0`, timer slots, and school stop
+signal. For meeting 2, add a compass cross labeled `0 / 90 / 180 / 270`, draw
+four roll blocks inside a repeat bracket, and show `4 x 2 = 8 rolls`. Keep
+`paper CT evidence != device-operation evidence` visible both days.
+
+- “Why is heading 90 not always ‘turn right’?” Accept that Sphero headings are
+  fixed directions from the aimed reference; correct relative-turn language.
+- “Does correct code guarantee a perfect square?” Accept no: aim, traction,
+  timing, floor and hardware variation affect motion.
+- “What may change in a fair debug retest?” Accept one selected setting or
+  re-aiming step while the others stay fixed. Changing speed, time, and start
+  together prevents identifying the cause.
+- “Why was 34 cm not exactly half of 62 cm?” Accept startup, stopping, slip,
+  measurement uncertainty, or non-proportional physical response; do not call
+  either reading dishonest.
+- “What does the loop shorten?” Accept the written/program representation, not
+  the eight executed rolls. A loop does not make the robot skip physical moves.
+- “What is responsible robot use?” Accept low speed, clear lane, stop signal,
+  honest results, local saving, and equitable input turns. Reject collisions as
+  a valid experiment.
+
+### Kit contents, Kit label:, Cleanup, Reset, and Unfinished work
+
+Label robot cases `C-STREAM G3-4 | W02-03 SPHERO | PAIR 1` and `PAIR 2`.
+Each contains exactly `1 Sphero, 1 compatible school device, 1 charger`; store
+its cardboard boundary set and floor-start tape beside it. Label each team
+envelope `W02-03 | TEAM CODE | 1 ruler / 1 token / 8 arrow-repeat cards` and issue
+`2 plain-paper sheets and 1 pupil half-sheet per meeting`. The teacher checks
+robot shells and cables, stops programs, powers off robots, closes the app,
+saves only a team-ID program locally, returns the paired device/robot/charger,
+and records charge status. Pupils count the ruler, token, and eight cards and
+remove tape without damaging the floor. Only the teacher connects chargers.
+
+For unfinished work, mark the current sheet `NEXT: trace / enter / run / measure
+/ retest` and the evidence type. Save local code under team ID and clip the
+sheet to that team's envelope. Schedule any missing individual operation check
+at school; do not award device operation from a paper completion or require a
+home app/device.
+
+### Error interpretation and reteaching
+
+Annotate `0, 90, 90, 90` as `absolute headings repeated--use 0, 90, 180, 270`;
+`repeat 2 = two commands` as `two repeats of four = eight executed rolls`; and
+a blank distance with completed paper work as `device measurement not observed`,
+not failure. Drift after correct blocks points first to aim, floor, or traction;
+a wrong traced route points to sequence/heading understanding. Reteach on the
+4-by-4 grid: pupil orders four heading cards, moves a token once, encloses all
+four in repeat 2, and counts eight moves. Then, if equipment is available, the
+teacher supervises one low-speed run in which the pupil changes only duration
+or re-aims and records the result.
+
+### Safety, Print/accessibility check, and Device compliance
+
+Overall risk is **low with controls**; a moving robot or floor-lane entry could
+cause a minor-to-moderate trip/impact, severity **moderate**, likelihood
+**unlikely** when speed is at most 20, boundaries are clear, and pupils remain
+seated until called. **Adult ratio: 1:6 maximum in active robot zones** (one
+adult to two active teams of no more than three, one team per test area); the
+same adult may oversee the remaining seated class only within the lesson's
+overall 1:25 enrollment cap. The adult retrieves escaped robots after they stop
+and handles all charging. The used floor-safe tape is a commercial article. Before class, enter the exact
+manufacturer and product in the [Safety Data Sheet Register](../../Review/Safety_Data_Sheet_Register.csv);
+keep that tape on **HOLD** until school approval and SDS applicability are
+resolved. SDS review is not required for intact electronics, but remove a hot,
+swollen, leaking, wet, or cracked unit and follow the school's battery/e-waste
+procedure and manufacturer documentation.
+
+**Print accessibility:** print in at least 12-point high-contrast type with
+large boxes for paths, never use color alone for heading or evidence type, and
+provide a large-print compass and tactile/raised grid if needed. Read block
+names aloud; allow pointing, partner-directed input, adapted stylus use,
+drawing, or scribing while recording whose thinking/action is evidenced.
+
+Before class, school staff must verify the exact Sphero model, app/block labels,
+Bluetooth permission, charging condition, and device-management approval.
+Use only school-managed devices and the approved Sphero Edu installation; use
+no pupil accounts, full names, photos, audio, location, cloud sharing, public
+links, or analytics consent. Save by team ID locally and disable/avoid sharing.
+If pairing, approval, or privacy requirements are unresolved, use the stated
+unplugged pathway. Paper/unplugged work does not count as executed device
+evidence; execution remains deferred and **not observed** until a teacher
+witnesses the pupil's device operation.

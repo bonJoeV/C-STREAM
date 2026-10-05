@@ -5,6 +5,11 @@ description: "Completed 69-package audit, all 58 remaining rebuilds, verified li
 
 # Grades 5-6 curriculum review
 
+> **Release terminology (October 5, 2026):** "complete package/reference" below
+> means a revised lesson pathway. The expanded
+> [teacher-artifact audit](Teacher_Artifact_Readiness.md) separately controls
+> classroom/substitute release and currently holds every lesson.
+
 **Completion review:** October 4, 2026. **Planning context:** 2026-27, small
 Catholic school in Minnesota. **Ownership:** the four Grades 5-6 lesson tracks
 and this review/[audit CSV](Grades_5-6_Audit.csv). Other grade bands, shared

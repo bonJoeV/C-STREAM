@@ -86,3 +86,29 @@ Count tools/packets, store dry kit and raw results, report damage.
 **Explored:** bridge form/forces. **Did:** safe comparison and ratio.
 **Learned:** model limits. **Catholic connection:** responsible collaboration.
 **Ask:** "Why did equal units matter?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the 20 cm flat/folded bridge comparison at 20 and 40 g.
+
+### Student material and evidence
+
+- **Printable/no-print material and evidence:** Sheet/board prompt: force arrows to both supports; **beam/fold | 20 cm? | model mass g | 20 g | 40 g | load÷mass | limit**; one tested or explicitly untested revision. Require identical span/paper count, adult-observed pass/stop, equal-unit ratio, and no breaking-strength claim.
+- **Worked example and finished example:** Work fictional `40 g/5 g=8` versus `40/10=4`. The finished example is a folded strip that spans 20 cm, records only tested loads, labels both supports and says “40 g demonstrated; maximum/durability untested.” A third untested fold remains “proposal.”
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Diagram centered load→two supports, 20 cm span, 20/40 g cap and `load g ÷ model g`. Ask whether units/spans match and what further testing is needed. Misconceptions: largest ratio is not safest real bridge; folding changes geometry, not chemistry; stopped-at-40 is not breaking strength.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS only. **Kit label:** **BRIDGES—W10—20 CM / ADULT 20-40 G LOADS**. Adult counts four sealed packets; stack books, dry trays, return scale/rulers, sort strips and file raw data. Mark missing adult test/unresolved mass; resume identical condition before conclusion, never invent mass/pass.
+
+### Interpretation and reteach
+
+- **Annotated exemplar/error/reteach:** Box flat/folded pass/stop and mass, underline arrows to both books, circle fold revision and “maximum unknown.” One-support arrow is incomplete; unequal spans invalidate comparison; `8 g` after g/g is a unit error. Reteach with one strip over two books and fictional 40/5, then redraw and interpret one actual test.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Dropped/unstable loads are **moderate severity / unlikely likelihood**. **Adult supervision ratio:** **1:1 active load station**, with hands back, tray and supports <10 cm; no body weight/destruction. **Print/accessibility check:** verify ≥16 pt type with bold g/cm and thick arrows; offer precreases, calculator, oral/scribed response.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product and manufacturer are not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD; do not issue this tape or substitute another tape until the school safety lead approves the exact product and its current SDS.

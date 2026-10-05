@@ -6,6 +6,11 @@ date: 2026-10-04
 
 # Grades 1-2 curriculum review
 
+> **Release terminology (October 5, 2026):** "complete package/reference" below
+> means a revised lesson pathway. The expanded
+> [teacher-artifact audit](Teacher_Artifact_Readiness.md) separately controls
+> classroom/substitute release and currently holds every lesson.
+
 ## 1. Completion and boundaries
 
 **All 61 remaining lesson packages have been fully rebuilt**, not relabeled or supplemented with a generic appendix. Their main legacy plans were replaced with coherent teacher-facing instructions. The **13 earlier rebuilt lesson bodies are byte-for-byte preserved**. The current inventory is **74 complete documented references**, with no `improved` or `unchanged` revision rows and **no remaining HOLD/REVIEW package gaps in the 61 replacements**.

@@ -112,3 +112,18 @@ Record actual versus paper, save evidence and report setup failures.
 
 **Previous:** [Christmas Electronics](./Session07_Christmas_Electronics.md)
 **Next:** [Catholic Scientists](./Session09_Catholic_Scientists.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Provide/board-copy the screen components and event trace `Reset / Help / Help / Reset`, with expected output `Ready / Paper: tray A / Paper: tray A / Ready`; fields also ask `trigger, output, excluded data, access choice, actual app or paper`. Full evidence corrects the wrong Reset block and records the retest.
+- **Worked example and finished example:** Model HelpButton.Click changing only ResultLabel.Text. Finished executable screen has TitleLabel `Supply helper`, HelpButton, ResetButton and ResultLabel; both events run in the key sequence and reset to Ready. If approved access fails, the finished paper event simulation is valid only as `interface/logic reasoning; app build/run N/A`.
+- **Board setup:** Sketch the one screen, list exact component names/text, and draw `EVENT | EXPECTED | ACTUAL | BUG/FIX`. Post `no text input, storage, sound, camera, GPS, link or publish`.
+- **Questions/misconceptions:** Ask “What happens on second Help?” (same Paper output), “Which test exposes Reset bug?” (Help then Reset), “Why no name field?” (unnecessary data), and “Does an attractive screen function?” (not until event blocks execute).
+## Exact supplies
+
+- **Kit contents and Kit label:** Trace/pencil per pupil; one approved computer plus tested Companion/emulator per team **or** three shared setups; three paper screen/event/test sheets per team; teacher board/clock/roster. **Kit label:** `G5-6 YA S08 — SUPPLY HELPER — HELP/RESET TEST`. Reset to starter `ResultLabel=Ready`, remove pupil changes from turn copy, school-save only if approved, disconnect/close, and file traces. Unfinished records name last component/event and whether runtime was observed; book only missing edit/run, never share credentials.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `Reset -> Paper: tray A` as `wrong Reset output`; box actual sequence, underline wrong text literal and circle replacement `Ready`. **Common error interpretation:** this is an event-output mismatch, not a design-quality judgment. Reteach with paper component/event cards, then one approved retest.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS, and Print/accessibility check:** Severity **low**, likelihood **unlikely** for seated managed devices; stop/report damaged chargers or unsafe data prompts. Adult ratio **1:25**, teams ≤3 with individual observed turns. SDS **not applicable**. **Print/accessibility check:** use large vertical labels, high contrast, keyboard/switch access where supported, read-aloud and paper/scribed traces.
+- **Devices/external-service compliance:** Required execution uses MIT App Inventor on a school-managed computer with the IT-approved AI Companion on a school-managed test device or the approved emulator. If that hardware/service route or current age/privacy approval is unavailable, defer and mark `NE` for component creation, HelpButton.Click, ResetButton.Click, displayed output, and observed reset retest. The paper screen/event trace remains interface/logic reasoning only and must not count as app runtime or device-operation evidence. No personal/home account, shared password, public upload, added permissions or private data is permitted; save school/local only.

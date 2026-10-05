@@ -102,5 +102,6 @@ foreach ($row in $rows) {
     $totalMeetings += $meetingCount
     $totalIntervals += $intervals.Count
 }
-Write-Output "PASS: $($rows.Count) complete lesson documents, $totalMeetings contiguous native meetings, $totalIntervals intervals and $localLinks relative links."
+Write-Output "PASS: $($rows.Count) revised lesson pathways, $totalMeetings contiguous native meetings, $totalIntervals intervals and $localLinks relative links."
+Write-Output 'Teacher-artifact and local release status are validated separately; this test does not certify classroom readiness.'
 Write-Output 'These checks do not certify actual material condition, local approvals, accommodations or classroom mastery.'

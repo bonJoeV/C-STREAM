@@ -92,3 +92,41 @@ We observed a seed and separated what we could see from what we predicted. Ask: 
 **Previous:** [Session 10 - Weather Wonder](./Session10_Weather_Wonder.md)
 
 **Next:** [Session 12 - Animal Homes](./Session12_Animal_Homes.md)
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print folded “see now/might happen” half-sheet, crayon, and securely closed seed cup; children do not handle seeds, lids, or water.
+
+**Evidence and answer guidance:** Record one real seed detail, one separate prediction, and one care action as independent, prompted, or not yet. Sprouting is not required.
+
+**Worked example:** Point to a visible seed in the eye box, choose a possible root/shoot change in the question box, and name moisture, air, or light care.
+
+**Finished example:** Dated page has one visible feature, a labeled prediction, and the school adult who will check the cups.
+
+**Visual example:** Use a current closed cup beside a dated older cup or clearly labeled stage drawing; identify live versus model.
+
+**Board setup:** Make “see now,” “might happen,” and “care action” columns; add “no growth today is evidence.”
+
+**Expected discussion responses:** “I see the seed”; “A root might appear”; “That is a prediction”; “The school adult checks.”
+
+**Kit contents and label:** Secure 240 mL cup, two untreated bean seeds, towels, and 15 mL adult-added water; label “closed seed observation.”
+
+**Cleanup/reset:** Return cups to the tray, collect pages, wipe moisture, return crayons, and leave care to the named adult.
+
+**Unfinished work:** Preserve the detail and label prediction unfinished; use an honestly labeled model if the live cup is unsafe.
+
+**Common misconceptions:** Planting does not guarantee a sprout today; soil is not food; one meeting cannot claim growth mastery.
+
+**Annotated exemplar:** “Seed visible,” “root might show,” “adult checks moisture,” and live/model source are marked.
+
+**Common error interpretation:** Use dates when the older cup is reported as today’s result; record source confusion without inventing growth.
+
+**Reteaching option:** Compare two dated cups, sort see/might-happen choices, and rehearse one safe care action.
+
+**Safety risk classification:** Severity: moderate; likelihood: unlikely after controls. Adult handles seeds, water, mold checks, and disposal; pupils observe the closed cup only.
+
+**Adult supervision ratio:** Named school adult manages care; teacher supervises seated exterior observation and removes affected cups.
+
+**SDS/product gate:** SDS not applicable: no chemical, fertilizer, or soil is used; use untreated seeds, tap water, secure cups, and school hygiene procedures.
+
+**Print/accessibility check:** No printing; use large eye/question icons, tactile models, oral response, and scribing.

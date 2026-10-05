@@ -75,3 +75,41 @@ no printer or home supplies needed. Fully indoors.
 
 **Family:** We made a respectful message and corrected two picture instructions.
 Ask, "Which step did you fix, and why?" No homework or home-service requirement.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print message/result sheet, crayon, 3-by-3 grid, large token, and RIGHT/UP/DOWN/STOP cards; recipient may remain fictional.
+
+**Evidence and answer guidance:** Record kind design choice, audience, predicted endpoint, ordered moves, and corrected step separately; route is not software or real delivery.
+
+**Worked example:** Start lower-left, predict RIGHT then UP, test, correct a wrong DOWN, and explain why the revision reaches the target.
+
+**Finished example:** Dated sheet shows a welcome message, two-move route, changed command circled, and endpoint indicated.
+
+**Visual example:** Draw START lower-left, RECIPIENT one right/one up, and RIGHT/UP arrows.
+
+**Board setup:** Use “welcome message,” “two moves,” and “debugged step” areas.
+
+**Expected discussion responses:** “The recipient would welcome this”; “I predict RIGHT then UP”; “DOWN was wrong”; “A person chooses the goal.”
+
+**Kit contents and label:** Grid, token, four command cards, message sheet, and crayon; label “two-command paper route.”
+
+**Cleanup/reset:** Save evidence, arrange delivery only if already approved, return cards/crayons, and clear grids/tokens.
+
+**Unfinished work:** Keep message and first move; mark endpoint/correction pending rather than claiming delivery.
+
+**Common misconceptions:** Kind intent does not prove welcome; paper route is not a robot; model does not decide for a person.
+
+**Annotated exemplar:** Welcome message, RIGHT/UP/STOP route, and corrected DOWN are visible.
+
+**Common error interpretation:** Identify the first wrong command and retest one correction instead of replacing the sequence.
+
+**Reteaching option:** Use two moves, point from START to target, swap one command, and name the error.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Seated paper algorithm only; no body maze, tiny tokens, food, sequins, ribbon, or contact promise.
+
+**Adult supervision ratio:** Teacher supervises seated grids and any delivery decision; each child receives an individual turn.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use school-approved paper, large token, cards, and crayons.
+
+**Print/accessibility check:** No printing; use large grids/arrows, tactile route pieces, pointing, and scribing.

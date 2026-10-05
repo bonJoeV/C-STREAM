@@ -83,3 +83,17 @@ Store prototypes pending adult approval, keep individual tests, count tools.
 **Explored:** service gift design. **Did:** tested a two-choice card.
 **Learned:** clear options/consent. **Catholic connection:** dignity in service.
 **Ask:** "How could someone decline?" Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Print/board `DRAW an imaginary place | MAKE three words from STREAM | PASS is welcome`; log each option found at 50 cm before/after revision. Accept TEAM/STAR/RAM and 3/3 distinct options; peer use does not prove recipient benefit.
+- **Worked/finished example:** PASS buried in footer gives 2/3; move/enlarge it to equal hierarchy, retest 3/3. Finished card has original icons, concise directions, test, one-card constraint, and approval/decline safeguard.
+- **Board setup / expected discussion responses:** Chart `option|found?|revision|retest`; accept size/spacing/order/contrast and free decline. Correct “gift must be accepted,” presumed disability/poverty, and “peer equals recipient validation.”
+- **Kit contents / Kit label / reset / unfinished:** Per team: one ruler, one marker set, and one fictional brief sheet; per student: one cardstock card, one evidence sheet, and one pencil. **Kit label:** `ACTIVITY CARDS—W12—DRAW/STREAM/PASS—1 ruler/1 marker set—team ___`. Cap/count every marker, return the ruler and brief sheet, file the card with both tests, and hold it pending recipient-organization approval. Mark the last found option and next layout change; no delivery or invented retest.
+- **Annotated exemplar / common error interpretation / reteach:** Box 3/3, circle layout change, star PASS. Missing PASS=consent error; “liked it”=unsupported outcome. Rebuild a three-box layout and repeat 50-cm point test.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / access:** Physical **low/unlikely**; dignity/privacy **moderate/possible**. **Adult supervision ratio:** one adult/class, teams ≤3. Print 100%, ≥14-point option labels with icon+words/high contrast; offer large print, scribe, or pre-folded stock. This is a dry activity card, not a clinical or food-contact item; conduct no personal survey and do not distribute without recipient-organization approval.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

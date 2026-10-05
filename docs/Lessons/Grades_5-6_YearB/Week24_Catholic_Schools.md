@@ -85,3 +85,16 @@ Keep individual graph/check; record actual versus practice and event not held.
 **Learned:** sources/learner checks. **Catholic connection:** gratitude and
 servant leadership. **Ask:** "What was your graph's source?"
 No routine homework or claimed buddy event.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Dataset Mon 2/Tue 3/Wed 1/Thu 4/Fri 2, source `invented practice card, October 4, 2026`. Students graph five bars, total 12, Thu−Wed=3, teach with supplied script, record listener’s actual answer, and revise explanation.
+- **Visual example / worked/finished example:** Model Monday bar to 2 from zero and source/date; listener incorrectly says Tuesday busiest, so speaker points to units—not answer—and listener corrects Thursday/4. Finished graph/check states practice data cannot measure faith or school quality.
+- **Board setup / expected discussion responses:** Axes 0-4, source/date, `CLAIM|LEARNER WORDS|REVISION|LIMIT`. Correct “practice graph is school history,” nodding is evidence, and counts establish quality.
+- **Kit contents / Kit label / reset / unfinished:** Per team: one ruler and one `Mon 2/Tue 3/Wed 1/Thu 4/Fri 2` dataset sheet; per student: one graph-paper sheet, one paper check, and one pencil. **Kit label:** `SCHOOL STORY PRACTICE—W24—2/3/1/4/2—1 ruler/1 dataset—NOT SCHOOL DATA—team ___`. Return the ruler and dataset sheet and file each graph with its listener check. Mark the missing bar or unanswered learner prompt; no claimed buddy event.
+- **Annotated exemplar / common error interpretation / reteach:** Box five values/12/3, underline source, circle explanation revision. Wrong total=arithmetic; absent source=provenance; “best day”=ambiguous quality claim. Replot Wed/Thu then rehearse one evidence-check question.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / access:** Physical **low/unlikely**; privacy/reputation **moderate/possible**. **Adult supervision ratio:** one adult/class, teams ≤3; visitors require separate approval. Print 100%, ≥12-point with high-contrast labels/patterns; offer pre-labeled axes, the supplied script, scribe, or oral teaching. Use no private records or photographs, and do not substitute unapproved office data.

@@ -87,3 +87,41 @@ We tested predictions and changed a foil shape. Ask: "What did the water test sh
 **Previous:** [Session 15 - Helping Others](./Session15_Helping_Others.md)
 
 **Next:** [Session 17 - Year Celebration](./Session17_Celebration.md)
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print predicted/observed half-sheet, crayon, dry foil squares, and team tray with adult-filled water; adults handle wet collection and sharp edges.
+
+**Evidence and answer guidance:** Record prediction versus actual result, two-row representation, and foil redesign separately. A floating boat is not required.
+
+**Worked example:** Predict for the block/spoon, observe adult placement, then compare one foil ball with the same piece opened into a shallow boat.
+
+**Finished example:** Dated sheet marks predicted/observed up/down and one foil shape change, including both floating or both sinking if observed.
+
+**Visual example:** Draw 2 cm tray, pressed foil ball, and open boat with turned-up edges; label the same foil piece.
+
+**Board setup:** Make “prediction,” “observed,” “changed,” and “same” columns; add “heavy/light alone is not a rule.”
+
+**Expected discussion responses:** “My prediction was ___”; “It actually floated/sank”; “The shape changed”; “Water may have entered.”
+
+**Kit contents and label:** Shallow tray, large block, all-metal spoon, two 20-by-20 cm foil squares, towels, and records; label “shape/redesign water test.”
+
+**Cleanup/reset:** Pupils return dry tools; adults collect/empty water, wipe trays/tables, and keep pupils seated during collection.
+
+**Unfinished work:** Preserve prediction and observation; mark redesign pending if spill, tear, or unsafe handling stops testing.
+
+**Common misconceptions:** All metal does not sink; shape/displaced water matter; a new torn piece changes material too.
+
+**Annotated exemplar:** Predicted sink/observed float, opened edges, and same-foil note are marked.
+
+**Common error interpretation:** Prompt about shape, enclosed air, and water entry instead of asserting an unobserved result.
+
+**Reteaching option:** Use one dry pre-folded boat and two up/down choices, then dictate changed shape and result.
+
+**Safety risk classification:** Severity: moderate; likelihood: unlikely after controls. Adults fill/empty, fold foil edges inward, stop spills, and supervise handwashing.
+
+**Adult supervision ratio:** One adult manages each active water area while teacher records individual evidence.
+
+**SDS/product gate:** SDS not applicable: only fresh clean water and the listed clean tools/materials are used.
+
+**Print/accessibility check:** No printing; use large up/down arrows, pre-folded boat, oral response, pointing, and scribing.

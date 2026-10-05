@@ -23,7 +23,7 @@ tags:
 | Why | Pilots and designers use careful tests, not one lucky result. |
 | Catholic connection | Faith and reason support honest inquiry; give credit for another person's design and report inconvenient results. See the Vatican's [Fides et Ratio](https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_14091998_fides-et-ratio.html), paraphrased, not a scientific proof of faith. |
 | Local standards | **Local, not official:** CST-C1 (honest evidence); CST-S2 (one changed feature and repeated trials); CST-S3 (force model); CST-M1 (measure/compare). |
-| Technology | **None**; teacher photos/video optional, not needed |
+| Technology | **None**; no technology artifact applies |
 | Difficulty / prerequisites | Moderate; count and compare whole centimeters. No mean, percentage, formal force calculation or prior Year A required. |
 | Prep / cleanup | 15 minutes plus obtaining an approved indoor flight area; 5 minutes each meeting |
 
@@ -66,6 +66,8 @@ Accuracy source: NASA Glenn's [Incorrect Airfoil Theory](https://www1.grc.nasa.g
 
 ## SAFETY
 
+**Background, vocabulary, and troubleshooting:**
+
 Only paper gliders with **folded-back blunt noses**. No clips, pins, hard weights, elastic launchers, hair dryers, standing on chairs or throwing toward anyone. Teacher gives launch/retrieve signals. Operators stand at the line; everyone else stays behind it. Retrieve only after both lanes stop. Stop testing when traffic enters the area. Do not go outdoors in ice, storms, unsafe wind or cold.
 
 ## Fold the baseline glider: teacher demonstration
@@ -100,7 +102,7 @@ An adult may precrease for accessibility. Students still choose the test change.
 6. **32-35: Individual evidence.** Each child names the changed feature and two kept-same features, identifies evidence for a next test, and explains that unexpected results must be kept.
 7. **35-40: Cleanup.** Return instruments, recycle or store paper as local rules permit, remove trip hazards and collect slips. No required flight at home.
 
-## Success, troubleshooting and differentiation
+## What success looks like
 
 **Success:** each child labels weight/lift/drag and identifies the launch push, records actual repeated distances, and distinguishes a change from a control. Score **1** assertion only; **2** diagram/data with prompts; **3** correct force model and fair comparison; **4** level 3 plus explains variation or model limitations. Teacher notes absent measurements rather than substituting invented data.
 
@@ -114,3 +116,20 @@ An adult may precrease for accessibility. Students still choose the test change.
 ## Family snippet
 
 We modeled flight forces and tested one wing change using repeated measurements. Each child compared evidence, not just a favorite plane. Our Catholic connection was honest investigation and patience. **Ask:** "Which feature changed, and what stayed the same?" **Optional at home:** explain the force arrows using hands. No throwing, devices or homework required.
+
+## Teacher artifact pack
+
+- **Two-meeting student sheet (print/no-print):** Page 1 fields: `Name/team/date`, a plane outline with arrows to label `weight`, `lift`, `drag`, and `hand launch push`, plus `After release, thrust from an engine? yes/no because ___`. Page 2 contains `Changed feature: ___`, `Kept same 1/2: ___`, and tables `A trial 1/2/3: ___ cm` and `B trial 1/2/3: ___ cm`, followed by `A shortest/longest`, `B shortest/longest`, `My recommendation and evidence`, and `One limit`. No-print: copy those exact headings and two 3-column tables onto the team recording paper and individual half-sheets.
+- **Answer guidance:** Accept weight downward, lift roughly upward/perpendicular to travel, drag opposite travel, and the hand's push only during launch; after release there is no engine thrust. Controls may include plane, paper, launcher, launch line, height, method, and first-contact rule. Recommendations may favor A, B, or say results overlap, provided actual values support the claim. Record flights beyond the lane as `at least 300 cm`, not an invented endpoint.
+- **Worked finished example:** `A: 135, 150, 142 cm; B (both trailing edges up 5 mm): 158, 161, 155 cm. A range 15 cm; B range 6 cm. Recommend B for another test because all B trials exceeded A's longest trial; limitation: hand launch force was not measured.` Annotate the feature as the sole planned change, box the six observed readings, and note that distance does not measure lift magnitude.
+- **Board/visual setup:** Post a large glider profile with the three in-flight arrows and a detachable `launch push` arrow. Beside it draw aligned A/B tables, the first-contact measurement line, `same / changed` T-chart, and expected boundary notation `>=300 cm`. Mark the 3 m lane and stop/retrieve signals visibly.
+- **Discussion and misconceptions:** Ask “What still acts after release?” (weight, lift, drag), “Why run three trials?” (throws and air vary; one flight may be lucky), “Did B always win in every possible flight?” (no; these trials support a limited comparison), and “If the score differs, what must remain the same?” (all controls). Reject the split-air-must-rejoin story and the claim that a falling glider has “run out of thrust.”
+- **Kit contents, labels, reset:** Per team: `2 glider sheets, 2 recording sheets, 1 ruler`; per pupil: `2 evidence half-sheets, 1 pencil`; class: `2 metric measuring tapes, 6 m floor-safe tape, timer, storage tray`; teacher: `2 demo sheets, 4 force labels, optional scissors`. Label team folders `W02-03 | assigned team ID | GLIDER A/B + DATA`; label the tray `FLIGHT FUNDAMENTALS | BLUNT NOSES ONLY`. Store planes flat by team, roll tapes without kinks, return rulers/force labels, remove floor tape when required, and reconcile 5/7/10/12 active team sets for 10/15/20/25 pupils.
+- **Unfinished work:** Place the plane and sheet in its team folder with one status flag: `fold incomplete`, `A trials missing`, `B trials missing`, or `comparison missing`. Schedule the same launcher for the missing trials in the next approved lane slot; never fill absent readings from another team or require home flight.
+- **Error annotation and reteach:** Mark an upward “thrust” arrow after release `launch push ended`; a slide-distance reading `remeasure next trial to first contact`; mixed launchers `control changed—start a comparable set`; a repair between trials `condition changed—label new baseline`. Reteach with a stationary glider and removable arrow cards, then walk through one paper data row before one teacher-launched short-lane trial.
+- **Safety and supervision:** Severity **moderate** because a thrown model could strike an eye or a floor lane could create a collision; likelihood **unlikely** when blunt noses, stop signals, and blocked traffic are enforced. Minimum adult ratio is **1 adult actively controlling no more than 2 lanes and 13 teams/25 pupils**; only one team per lane launches on signal while all others remain behind the line. The floor-safe tape is a commercial floor-marking tape article; record the exact manufacturer/product in [Safety_Data_Sheet_Register.csv](../../Review/Safety_Data_Sheet_Register.csv). Keep that product **ON HOLD** until school approval and SDS applicability are resolved.
+- **Print accessibility:** Use 14-point text, heavy table borders, arrow labels with words and distinct line patterns, and at least 1 cm cells for three-digit centimeter values. Provide large-print force cards, precreased paper, oral/dictated responses, and a tactile arrow placement option. Test one grayscale print to ensure A/B are not color-dependent and table headings repeat beside each set.
+- **Kit label:** Kit label: mark each team folder `W02-03`, the school-assigned team identifier, and `GLIDER A/B + DATA`; mark the shared tray `FLIGHT FUNDAMENTALS | BLUNT NOSES ONLY`.
+- **Annotated exemplar:** Annotated exemplar: label the A glider baseline, the single 5 mm trailing-edge change on B, all six observed distances, and the unchanged launcher, line, and first-contact rule.
+- **Common error:** Common error: if several folds or launchers change, annotate `controls changed—results are not an A/B comparison` and begin a comparable trial set rather than selecting a favorable distance.
+- **Print/accessibility check:** Print/accessibility check: print the black-and-white A/B record at 100% with 14-point minimum text, repeated `cm` units, thick borders, and response space for drawing, dictation, or adult scribing.

@@ -128,3 +128,17 @@ what came from the source?" No routine homework or home trait survey.
 
 **Previous:** [App Inventor](./Session08_App_Inventor.md)
 **Next:** [Environmental Science](./Session10_Environmental_Science.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Give/board-copy Cards A-C and both invented rows with `sample / R / W / total`, then poster boxes `historical claim + source/date / model-data result / limit / revised caption`. Exact counts: A 8R/2W/10; B 7R/3W/10; combined 15R/5W/20 = 3:1. Evidence must separate counted model labels from museum/archive/Church claims.
+- **Worked example and finished example:** Work Sample A by crossing each label once. Finished poster states `Mendel was an Augustinian abbot who worked on pea hybrids—Mendel Museum, checked 2026-10-04`; `our invented rows total 15R/5W`; and `this is not Mendel’s measurement or proof of inheritance/private motive`, with a misleading caption retained and corrected.
+- **Board setup and visual example:** Set `SOURCE/PROVENANCE | SUPPORTED CLAIM | DOES NOT ESTABLISH` beside the A/B tally table and `original caption -> reader question -> revised caption`. The crossed Sample A tally is the visual example; label data `INVENTED CLASSROOM MODEL`.
+- **Questions/misconceptions:** Ask “What did you count?” (paper labels), “Does 3:1 prove inheritance?” (no), “Does a holdings list prove a quotation?” (no), “Does religious identity verify science?” (no). Accept source-specific paraphrases only.
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Mendel Source Study kit: two paper poster/evidence sheets and pencil per pupil; source/data packet, ruler and marker per team; teacher board/clock/roster. **Kit label:** `G5-6 YA S09 — MENDEL SOURCE STUDY — CARDS A-C + A/B DATA`. Reset by counting packets/tools, capping markers and filing original/revised posters. Mark last tallied symbol/source box on unfinished work and resume from supplied packet, not open-web homework.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `Mendel proved 3:1 in our rows` with `provenance error: rows are invented`; box 15/5 arithmetic, underline museum-supported fact and circle the limitation. **Common error interpretation:** this is a provenance error, not evidence that the pupil cannot tally. Reteach by color-free crossing/tally, physically sorting history/model/Church cards, then rewrite one claim with source.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gate, and Print/accessibility check:** Severity **low**, likelihood **rare**; no plants, food, samples or belief interviews. Adult ratio **1:25**. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv), use its CONTROL-ROW, and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** print source cards at 14-point/high contrast with URLs/titles intact, read aloud, use tactile tally marks and allow oral/scribed poster text.

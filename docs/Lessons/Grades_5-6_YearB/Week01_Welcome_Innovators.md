@@ -85,3 +85,17 @@ Retain individual goals/source answers, count tools, record unfinished checks.
 **Explored:** useful innovation. **Did:** source check and label trial.
 **Learned:** purpose/evidence matter. **Catholic connection:** truth and service.
 **Ask:** "Who was your idea for?" Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Prompt/evidence:** Print or board-copy the supplied Mendel paraphrase and label brief. Students record fact/source/limit, goal/one-card constraint, two layouts, and words read at 50 cm before/after revision. Key: supported—Mendel was an Augustinian monk who compared pea generations; unsupported—he proved every trait alike. Success is RULER/TAPE/PAPER, 3/3 unaided.
+- **Worked/finished example:** `RULER | TAPE | PAPER`; baseline `RULER, PAPER, ?`; enlarge/separate TAPE; retest 3/3. Finished work includes both sketches and honest result, not a universal innovation claim.
+- **Board setup / expected discussion responses:** Chart `FACT|SOURCE|LIMIT` and `USER|3-WORD RESULT|REVISION`. Accept “shared-tool user” and “three reads at 50 cm”; correct “new means innovative,” “monkhood proves science,” and “appearance proves readability.”
+- **Kit contents / Kit label / reset / unfinished:** Per team: one cardstock prototype, one source/task sheet, one ruler, and one marker; per student: one goal/evidence sheet, pencil, and journal. **Kit label:** `INNOVATION FOUNDATIONS—W1—50 cm/3 WORDS—team ___—1 ruler/1 marker`. Cap/count the marker, return the ruler and source/task card, and file each test with its prototype. Mark the last observed word and next step; never invent a retest.
+- **Annotated exemplar / common error interpretation / reteach:** Underline source, box 3/3, circle revision. No source=provenance gap; 2/3 called pass=criterion error; “proved genetics”=overclaim. Reread/sort supported claims, then guide one word check.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / access:** Physical severity **low**, likelihood **unlikely**; privacy harm **moderate/possible**. **Adult supervision ratio:** one adult/class at the school-approved ratio, teams ≤3. Print 100%, ≥12-point/high contrast; offer large print, read-aloud, scribe, and a seated test; use only the supplied source card and do not collect personal data or photographs.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

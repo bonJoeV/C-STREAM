@@ -107,3 +107,109 @@ We observed seeds, planned a fair water test and compared clearly labeled practi
 **Previous:** [Session 11 - Lenten Engineering](./Session11_Lenten_Engineering.md)
 
 **Next:** [Session 13 - Easter Tech](./Session13_Easter_Tech.md)
+## Teacher artifact pack (release checklist)
+
+This pack makes today's direct observations, the fair-test plan, and the invented
+multi-day practice values impossible to confuse.
+
+- **Student material (observation/fair-test slip, print or board-copy):** Use these exact
+  prompts: `I directly observe this dry seed detail: ___`;
+  `I infer/predict ___`; `Question: How does added water affect these seeds?`;
+  `Changed condition: ___`; `Kept the same (name two): ___ and ___`;
+  `My prediction: If ___, then ___`; `Cup sketch: MOIST / DRY`;
+  `Was water actually added today? yes—teacher 5 mL / no—planned setup only`;
+  `Practice Day 5: moist seed 1 ___ mm; dry seed 1 ___ mm; difference ___ mm`;
+  `These numbers are OUR OBSERVATIONS / SIMULATED`;
+  `What we know today: ___`; `What still needs days of evidence: ___`.
+  The team recording sheet adds rows for cup, seed 1/2, Day 0/3/5 and a
+  caretaker/date box. If not printing, pupils copy the prompts under headings
+  **SEE TODAY / FAIR TEST / SIMULATED TABLE / CARE DECISION**.
+- **Evidence and answer guidance:** Accept observable properties
+  such as color, shape, size or seed coat without claiming to see a living
+  embryo directly. The sole changed condition is **added water**; acceptable
+  controls include same bean type, number of seeds, cup, towel, location,
+  temperature and observation times. From the supplied practice table, accept
+  Day 5 moist seed 1 **9 mm**, dry seed 1 **0 mm**, difference **9 mm**; Grade 4
+  may also state moist seeds differ by **1 mm**. Every use of these values must
+  say simulated/not class-grown. Accept `we know the seed's visible features
+  and our plan; germination remains a prediction`. Reject `the seed died`,
+  `soil is required to begin germination`, or a claimed growth result during
+  this 40-minute lesson.
+- **Worked example:** Model
+  `Changed—5 mL water; same—bean type, two seeds, towel, cup location and check
+  time; prediction—the moist seeds may germinate before the dry seeds`.
+  Work the comparison `9 mm - 0 mm = 9 mm` while pointing to the
+  **SIMULATED DATA; NOT OUR OBSERVATIONS** heading.
+  The finished example is a slip containing
+  one observation, one prediction, water as the only variable, at least two
+  controls, labeled moist/dry sketches, 9/0/9 with units and simulation label,
+  plus the actual care decision. Visible germination and a final causal result
+  are **N/A today**; they cannot be substituted with the practice table.
+- **Board setup and visual example:** Under a document camera or on a
+  tray, show one intact dry bean and a teacher drawing of coat, embryo and
+  stored resources; label the inner parts as background knowledge, not what
+  pupils can see through the coat. Display two open cups labeled **MOIST** and
+  **DRY** joined by a bracket `same except added water`. Across the board write
+  the full practice table beneath a boxed heading
+  **INVENTED INSTRUCTIONAL VALUES—NOT GUARANTEED GROWTH**. Add a care chart
+  `team | caretaker | check dates | actual observation` only if an adult has
+  accepted daily care.
+- **Discussion with acceptable response:** Ask, `What can you see
+  and what are you inferring is inside?` Accept visible coat/shape versus
+  background knowledge of embryo/stored resources. Ask, `Why use the same kind
+  and number of seeds?` Accept: to make water the intended comparison and
+  reduce another difference. Ask, `Did our class grow a 9 mm root?` Accept:
+  no, 9 mm is invented practice data. Ask, `Must a seed die or be buried to
+  germinate?` Accept: no; a viable living embryo can begin growth with suitable
+  water, oxygen and temperature, including on a damp towel. Ask, `Does two
+  seeds prove a rule for every species?` Accept: no; more replication and
+  species-specific evidence would be needed. Keep John 12:24 identified as a
+  theological metaphor, not a botany mechanism.
+- **Kit contents, kit label and reset:** Per team: **4 untreated
+  bean seeds, 2 clear open plastic cups, 2 folded paper towels, 2 labels,
+  1 ruler and 2 recording sheets**; per pupil: one evidence half-sheet and
+  pencil. Teacher controls the jug (**100 mL class maximum**), one measuring
+  spoon, tray/bin and any live sample. Kit label on the cups:
+  `S12 TEAM __ | MOIST | 2 SEEDS | DATE __` and
+  `S12 TEAM __ | DRY | 2 SEEDS | DATE __`; on the bin:
+  `C-STREAM | G3-4 | S12 | CARETAKER ___ | NEXT CHECK ___`.
+  If care is approved, the teacher alone adds exactly **5 mL** to each moist
+  cup, places all cups open to air in the accepted location and signs the
+  calendar. If no caretaker is named, add no water, mark both
+  **PLANNED SETUP ONLY**, return dry seeds to teacher storage, and complete
+  cleanup and reset: wipe cups/desks,
+  collect rulers and require handwashing.
+- **Unfinished work:** Circle
+  `observation / prediction / variable / controls / cup sketch / practice
+  comparison / simulation label / care decision`. Keep cups dry unless the
+  signed care gate is already met. Store the slip with the team plan and resume
+  at school; do not send seeds home, assign family watering or infer growth
+  between meetings. Later absence/no root is recorded honestly as
+  `no visible root`, not converted into success or failure without review.
+- **Annotated exemplar, common error reading and reteach:** Underline only the
+  direct observation, box `changed—water`, bracket each control, double-box
+  `9 mm / 0 mm / 9 mm difference`, stamp **SIMULATED**, and circle the
+  caretaker/no-care decision. `Our root grew 9 mm` signals a source-label
+  error; changing water and light signals an unfair-test plan; calling a guess
+  an observation signals evidence-language confusion. Reteach by sorting cards
+  into **see / predict / supplied practice data**, then use two cup cards and
+  the stem `We changed ___; kept ___ and ___ the same; the table shows ___;
+  today we observed ___.`
+- **Safety classification:** Severity is **moderate**
+  because seed allergy, ingestion, mold or spilled water can cause harm;
+  likelihood is **low after** the school allergy check, teacher-only water and
+  adult care plan. Adult ratio is **1:3 maximum**: one adult for each active team of two, or final trio,
+  during seed distribution/setup; the teacher alone pours and later disposes
+  of moldy material. No tasting, eye rubbing, student mold handling,
+  fertilizers, chemicals, soil, heat equipment or sealed bags near faces.
+  Wash hands and wipe spills. Untreated food-grade/classroom seeds and water
+  generally have no SDS, but school allergy guidance and supplier labeling
+  apply; any treated seed would be excluded rather than introduced.
+- **Print/accessibility check:** Use 14-point black-and-white text, high-contrast cup
+  labels, whole-mm number boxes and a practice table whose simulated status is
+  written on every page, not conveyed by color alone. Read the table heading aloud,
+  provide enlarged/tactile cup diagrams, ruler support, oral answers and a
+  scribe. For allergy or touch avoidance, substitute paper seed drawings and
+  mark direct seed handling/observation unavailable without lowering the
+  reasoning criterion.
+- **Technology artifact:** None applies; this lesson has no technology artifact.

@@ -121,3 +121,35 @@ Count rulers and tokens, store slips with the grid, stop/unpair robots, remove l
 ## FAMILY NEWSLETTER
 
 **What we explored:** loops and navigation. **What students did:** predicted routes, recorded three trials, and debugged a correction. **What they learned:** instructions and real results can differ. **Catholic connection:** truthful evidence and equitable roles. **Ask your child:** "Which instruction did you change, and why?" No routine homework; optional family conversation needs no device.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the 5-by-5 paper route and, when approved, the Sphero/BOLT calibration route.
+
+### Student material and evidence
+
+- **Printable/no-print student material:** Provide the 5-by-5 grid, command key, and table **trial | expected endpoint | actual endpoint | error cm | setup/code change**. Prompt: “Trace `REPEAT 4 {MOVE 1; TURN right 90}`; then route (1,1)→(3,1)→(3,3). What one correction does a named trial justify?” Copy all of it to board/journal if not printed.
+- **Expected evidence/key:** Square ends at start with original facing; waypoint route is two moves east, right turn, two moves south in the agreed grid frame (or equivalent after clearly stated facing). Require three retained trials, cm error, one changed instruction/calibration value, and a before/after comparison. Paper trace is algorithm evidence only; device editing/operation is logged separately.
+- **Worked example and finished example:** Work a missed fourth turn: endpoint may match but facing is wrong; restore the turn and retrace. Finished paper evidence has six-command-equivalent route, all three trials and corrected facing; finished device evidence adds adult-approved aim, settings, observed endpoint errors and one retest, not an “exact route” claim.
+
+### Teacher display and discussion
+
+- **Board setup:** Draw grid coordinates and a facing arrow; post `MOVE`, `TURN right 90`, `REPEAT n`, the two waypoints, and a table headed **intended | observed | error cm | one change**. For devices add **heading zero = aimed direction**, lane/observer boundary and approved speed/duration cap.
+- **Discussion/answers:** Direction changes only on TURN; repeat count errors repeat the wrong number of moves/turns, while bad aim shifts physical trials despite correct trace. Failed trials stay because they diagnose drift/setup. Equal operator turns protect access. Misconceptions: 90° is not automatically north; repeated code does not guarantee identical physical travel; steering during a run invalidates autonomy evidence.
+
+### Kit, closure, and continuation
+
+- **Exact kit/reference and label:** Use only the MATERIALS allocations: pencil/journal per pupil; two grid/trial sheets, token, ruler and command slips per team; optional tape plus one tested BOLT/tablet pair per team; teacher timer/scissors. Label **SPHERO MASTERY—W2-3—PAPER GRID CORE / OPTIONAL BOLT—AIM, COUNT, STOP**.
+- **Reset/unfinished work:** Stop robots, power/charge only by school procedure, remove lane tape, return token/ruler/slips, and file raw trials. Circle the last completed trace/run and write **paper only**, **device trial n**, or **runtime NE**; resume the missing trial or individual turn without deleting failures or rerunning completed evidence.
+
+### Interpretation and reteach
+
+- **Specific misconceptions:** A traced square is not proof that BOLT ran it; an endpoint at the start with the wrong final heading is not a complete square; changing heading, speed and duration together prevents diagnosis; a collision or drift trial is retained evidence, not learner failure.
+- **Annotated exemplar / Common error interpretation / reteach:** Annotate a grid showing four numbered MOVE/TURN pairs, box actual endpoints/errors for trials 1-3, and circle “changed duration only; error fell 12→5 cm.” A correct endpoint with wrong facing means turn-tracing error; consistent side shift suggests aim, variable distances suggest calibration; missing cm is recording error. Reteach one square with the pupil physically rotating the token, then run/trace one reduced leg and explain which evidence selects code versus setup correction.
+
+### Safety, access, and compliance
+
+- **Safety severity/likelihood and adult ratio:** Paper path is **low severity / unlikely likelihood**. Moving robot collision is **moderate severity / possible likelihood** without lanes; use one responsible adult per active three-lane set (**1:3 active teams**, other teams seated), 50 cm observer line, speed ≤20 and duration ≤1 s. Damaged/hot battery hardware is isolated under manufacturer/school procedure.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product and manufacturer are not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD; do not issue this tape or substitute another tape until the school safety lead approves the exact product and its current SDS.
+- **Print/accessibility:** 16-point command slips, thick grid lines, symbols plus words, high contrast, tactile/large token, oral tracing/scribing; never encode routes by color alone.
+- **Devices/external-service compliance and deferred evidence:** Use the school-approved **Sphero Edu app on the assigned tablet/computer with a Sphero BOLT robot**, prepaired and configured without personal login, cloud share, location data or public upload. Record the Sphero Edu version, BOLT identifier, actual device turn and observed run. If either Sphero Edu or BOLT is unavailable, mark BOLT execution/operation evidence **deferred**; a paper trace demonstrates algorithm reasoning only and must not be counted as runtime or device evidence.

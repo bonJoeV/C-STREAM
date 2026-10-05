@@ -11,7 +11,10 @@ substitute-arrival, physical-kit or student-outcome trial was performed.
 
 ## Current curriculum result
 
-All **251 lesson documents** now have complete conditional teaching packages:
+All **251 lesson documents** have revised teaching pathways and pass the
+expanded repository artifact standard in
+[Teacher Artifact Audit](Teacher_Artifact_Audit.csv). This written-artifact
+result does not satisfy the separate school release gate:
 
 | Band | Documents | Planned meetings across alternatives | Native minutes |
 |---|---:|---:|---:|
@@ -58,8 +61,9 @@ mix volume, spoon magnetism or interchangeable hand-span units.
 | Check | What it establishes | What it does not establish |
 |---|---|---|
 | `Build-CurriculumMaps.ps1 -ValidateOnly` | Complete audit/header/enums, unique paths, native periods/codes, full 24-field catalog, valid counts, explicit resource identities and fresh generated maps | Real school stock, compatible product, safe inspected equipment or student mastery |
-| `Test-LessonReferences.ps1` | All packages complete, baseline keys unchanged, required teaching/evidence sections, every local code present, contiguous times and existing relative targets | Observed teacher pacing, semantic mastery or formal subject approval |
-| `Test-KindergartenReferences.ps1` | 29 autonomous references, 37 new native meetings and 360 scalable quantity comparisons; all 37 K records complete | Actual seed growth, wet-area capacity or classroom outcomes |
+| `Test-OperationalReadiness.ps1` | All 251 repository artifact rows have no missing required fields/sections/links; controlled release, external-service and SDS register schemas are valid | School approval, current vendor terms/SDS, physical kit condition, teacher usability or observed outcomes |
+| `Test-LessonReferences.ps1` | All revised pathways retain baseline keys, required teaching/evidence sections, every local code, contiguous times and existing relative targets | Complete teacher artifacts, classroom release, observed pacing, semantic mastery or formal subject approval |
+| `Test-KindergartenReferences.ps1` | 29 autonomous references, 37 native meetings and 360 scalable quantity comparisons | Complete teacher artifacts, actual seed growth, wet-area capacity or classroom outcomes |
 | Band-owner arithmetic/content checks | 2,636 early-grade supply cells, 956 middle-grade comparisons, 1,172 upper-grade comparisons and explicit worked/model/evidence boundaries | Vendor quotations, physical condition or outcome studies |
 | `Test-SnapCircuitsReferences.ps1` | Four retained paths, six native meetings, 20 station/capacity rows, eight reported individual kits and physical/paper evidence boundaries | Manufacturer model/age/power approval or kit inspection |
 | `Test-CurriculumMaps.ps1` | Physical/resource/holding output shapes, empty-backlog behavior and **15 rejection cases**, including malformed inventory and stale maps | Approval inferred from a structurally valid row |
@@ -88,6 +92,10 @@ identities are not silently added to those purchase bills. Costs remain estimate
 
 ## Seven required simulations
 
+The machine-readable [simulation results record](Simulation_Results.csv) names
+the reviewer/date, defects, corrective actions, reruns and remaining exceptions.
+The table below is the readable summary.
+
 | Simulation | Concrete written pathway and correction | Desk result and remaining local check |
 |---|---|---|
 | 1. Substitute arrives 20 minutes before Grade 3 | [Bridge Engineering](../Lessons/Grades_3-4_YearA/Week10_Bridge_Engineering.md) has a 40-minute sequence, pretest, fair load method and individual evidence. Handoff uses its conservative 13-kit allocation rather than nine generic kits. | Conditional pass with prepared kit; check real location, counts, room, accommodations and pretest. Use the named different fallback if unavailable and record deferred objectives. |
@@ -98,10 +106,11 @@ identities are not silently added to those purchase bills. Costs remain estimate
 | 6. Limited funding | Modest no-device core and reusable kits; purchase ceilings verified without assuming donations/loans or all specialty gear. | Conditional budget pass; verify stock/prices/specifications and the chosen track's consumption. Safe procurement is not improvised to preserve a price. |
 | 7. Parent asks what is learned | Each reference has family copy, an objective/evidence threshold and grade support/challenge. [Progression](Learning_Progression.md) and [maps](Standards_Traceability.md) explain increasing sophistication. | Document pass; explain what actually happened and was demonstrated, not just planned targets or group participation. Home invitations remain optional. |
 
-## Changes made to close the remaining document backlog
+## Changes made to improve the lesson-pathway backlog
 
-1. Rebuilt all remaining Grades 1-6 packages, preserving earlier references
-   and the updated Snap routes; no audit-only or incomplete outline is labeled complete.
+1. Rebuilt all remaining Grades 1-6 lesson pathways, preserving earlier references
+   and the updated Snap routes; the separate artifact audit now prevents these
+   revisions from being mislabeled classroom-ready.
 2. Added actual individual checks, worked/fictional data and scientific/model
    limits; removed withdrawn unsafe paths and unsupported heritage quotations.
 3. Preserved realistic periods and includes cleanup, setup, trial/role plans,
@@ -114,13 +123,14 @@ identities are not silently added to those purchase bills. Costs remain estimate
 7. Explicitly excluded the documentation-root developer README from publication,
    resolving the earlier README/index conflict so the build can run **strictly**.
 
-## Remaining work is school-specific release evidence
+## Remaining work is school-controlled release evidence
 
-No written lesson-package backlog remains. The [school release checklist](School_Release_Checklist.md)
-requires actual counts/condition, model/manual/power checks, source/policy
-approval, individual accommodations, prepared content, physical kit locations
-and classroom pilots. Source access limitations are recorded, not "fixed"
-by unsupported official claims.
+The [teacher artifact readiness review](Teacher_Artifact_Readiness.md) records
+complete repository artifact coverage for all 251 lessons. The
+[school release checklist](School_Release_Checklist.md) still requires
+actual counts/condition, model/manual/power checks, source/policy approval,
+individual accommodations, physical kit locations and classroom pilots. Source
+access limitations are recorded, not "fixed" by unsupported official claims.
 
 Before asserting uniformly classroom-ready delivery, pilot selected lessons,
 time actual preparation/cleanup and collect individual evidence at the local
@@ -135,6 +145,8 @@ records changed/deferred objectives.
 .\scripts\Build-ExternalAlignment.ps1
 .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
 .\scripts\Build-ExternalAlignment.ps1 -ValidateOnly
+.\scripts\Build-OperationalAudit.ps1 -ValidateOnly
+.\scripts\Test-OperationalReadiness.ps1
 .\scripts\Test-CurriculumMaps.ps1
 .\scripts\Test-LessonReferences.ps1
 .\scripts\Test-KindergartenReferences.ps1
@@ -144,7 +156,14 @@ mkdocs build --strict
 git diff --check
 ```
 
-**Final publication result:** the complete library and downloads build with
+The operational audit also separates required checks from explicit
+not-applicable checks, validates equivalent lesson readiness sections, checks
+local artifact links, and enforces generated-CSV freshness against the lesson
+map, lesson sources, materials inventory, and audit script. Its summary counts
+make missing required artifacts, section failures, and broken-link lessons
+visible without treating exclusions or not-applicable checks as passes.
+
+**Publication result:** the library and downloads build with
 `mkdocs build --strict`, with no warnings. The report's outside-document script
 link was corrected to its published guide. Map/source freshness, references,
 K/Snap capacity, fifteen regression rejections and original budget arithmetic

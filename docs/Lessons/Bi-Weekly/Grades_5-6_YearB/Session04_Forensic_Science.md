@@ -154,3 +154,18 @@ Return/count the two-sheet packets and rulers; keep individual logs. Recycle dup
 **Previous:** [Session 3 - Architecture](./Session03_Architecture.md)
 
 **Next:** [Session 5 - Scratch Games](./Session05_Scratch_Games.md)
+## Teacher artifact pack (release checklist)
+
+- **Adult ratio:** 1 adult:25 pupils maximum for seated paper analysis, with teams capped at three and immediate adult intervention for personal accusation or evidence collection.
+Use only the four-card fictional Paper Museum packet; this is evidence reasoning, not identification.
+
+- **Student material (print or no-print):** Give each pupil a four-row `card | observation | inference | uncertainty` log and exit prompts: “Best-supported bay; two features; what is still unknown; why no person may be accused.” If printing fails, board-copy Cards 1-4 and the log.
+- **Exact evidence/answers:** Bay **B** is best supported by three stripes plus tab B. R17 fits A/B/C; three stripes fit B/C; Card 3 copies Card 2 and is not independent; Card 4 is inconclusive. Arrival, handler, motive, misconduct, and guilt remain unknown.
+- **Worked example / Finished example:** Work Card 2 as “observe three stripes/tab B; infer compatible with B; drawing may be wrong.” A finished non-build example is the complete log and conclusion “B routing is supported, but actual location is unknown”; a physical product is **N/A—analysis lesson**.
+- **Board/chart:** Post bays A `R17/2/A`, B `R17/3/B`, C `R17/3/C`; make columns **OBSERVED | INFERRED | CANNOT CONCLUDE | SOURCE DEPENDENCE** and keep “fictional non-crime” visible.
+- **Discussion/misconceptions:** Ask “Which feature separates B from C?” (tab B); “Are Cards 2 and 3 two witnesses?” (no, shared source); “What confirms arrival?” (an independent location-confirmation record); “How could accusation harm reputation?” (weak evidence can falsely blame). Correct “one match identifies a culprit” and “most likely means certain.”
+- **Kit/label/reset:** Per team: exact four-card/two-sheet packet, optional ruler and magnifier; each pupil has log/pencil; teacher has key/timer. Label **G5-6 YB S04 PAPER MUSEUM—CARDS 1-4—NO PERSONAL EVIDENCE**. Reset cards 1-4 in order, count packets/rulers, retain logs, recycle only duplicate paper.
+- **Unfinished work:** Mark last analyzed card and preserve partial log; resume with the next card at school. Do not reveal the key early or require forensic homework.
+- **Annotated exemplar/error/reteach:** Underline `Bay B`, box `three stripes + tab B`, circle `arrival unknown`, and bracket the shared-source note. “Definitely in B” shows certainty/arrival confusion; “R17 proves B” ignores nonunique data. Reteach by crossing out each nonunique feature in the routing chart, then rebuild the limited conclusion.
+- **Safety—severity/likelihood/ratio/SDS:** Severity **low** (paper handling or reputational harm), likelihood **unlikely** with fictional records and explicit no-accusation rules. One adult monitors the class and checks each seated team of at most three, stopping personal comparisons immediately. SDS **not applicable**: paper, pencil, ruler, and optional magnifier only; powders, chemicals, biometrics, samples, and real handwriting/fingerprints are prohibited.
+- **Print/accessibility check:** Use 14-point high-contrast symbols, verbal descriptions of stripes/tabs, enlarged cards, and oral/scribed/drawn exits.

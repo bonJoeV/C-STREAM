@@ -96,3 +96,108 @@ handle trash. Early finish: test different card order under same conditions.
 
 **Family:** We tested a creation-care sorting model. Ask, "What did the data
 measure, and what didn't it measure?" Optional: discuss one reuse habit.
+
+## Teacher artifact pack
+
+- **Student material — three-meeting packet (print/no-print):** Use three single-sided sheets.
+  Sheet 1 fields: `name/date/team`, `Card/sample 1: I can see/feel ___; I
+  infer ___`, `Card/sample 2: I can see/feel ___; I infer ___`, `one classroom
+  reduce choice ___`, `one classroom reuse choice ___`, `baseline: ___ correct
+  out of 10 in 2 minutes`, and `confusing card/category ___`. Sheet 2 fields:
+  `our two sign labels/symbols`, `my authored feature ___`, `first sign test ___
+  /10`, `revision made ___ because ___`, `shuffled retest ___/10`, and `met 8/10
+  criterion? yes / not yet`. Sheet 3 supplies a 0-10 two-bar grid labeled
+  `baseline` and `final`, plus `final ___/10`, `our model measured ___`, `it did
+  not measure actual waste reduction because ___`, `recommend / revise / do not
+  recommend`, and `adult evidence still needed ___`. With no printer, pupils use
+  one dated page per meeting, copy the bold field labels, and draw a vertical
+  0-10 axis with ruler; preserve raw counts, not percentages.
+- **Expected evidence and acceptable answers:** Observations must be visible or
+  tactile card/sample features such as `paper is flat and bendable` or
+  `container has a lid`; `this will save the planet` is an inference, not an
+  observation. Accept classroom reduce choices such as using both sides of
+  paper and reuse choices such as using a clean container again, without asking
+  about family practices. Baseline, first sign test, retest, and final must each
+  be integers 0-10 from actual two-minute tests. A defensible recommendation
+  cites baseline/final or retest evidence and the 8/10 criterion. The limit must
+  state that card-sorting performance does not measure the amount entering
+  school waste; acceptable adult evidence includes dated bin weights/counts,
+  purchase/use records, or repeated adult-observed disposal checks under school
+  rules.
+- **Worked and finished example:** Use a fictional set marked `teacher example`:
+  `baseline 5/10; first sign test 7/10; changed "USE AGAIN" sign by adding a
+  container outline; shuffled retest 9/10; final 8/10`. Draw baseline 5 and
+  final 8 bars. Finished recommendation: `Recommend another classroom trial
+  because a new sorter improved from 5/10 to 8/10 and met our criterion. This
+  shows the signs helped this model test; it does not show that real waste was
+  reduced. An adult would need repeated school-bin measurements using local
+  rules.` Annotate `actual counts`, `named revision`, `criterion`, and `model
+  limit`; explain that the lower final than retest is honest variation, not a
+  number to erase.
+- **Visual example and Board setup:** Keep a three-panel board across the unit:
+  `OBSERVE / INFER`, `TEST CONDITIONS: 10 cards | 2 minutes | same key`, and
+  `RESULTS 0-10`. In Meeting 1 place one sample statement under each of observe
+  and infer. In Meeting 2 draw the fixed design box `2 cardstock signs; 40 cm
+  tape total` and a revision arrow `confusion -> sign change -> shuffled
+  retest`. In Meeting 3 draw paired 0-10 bars with a title, labeled axis, and no
+  percent symbol, plus a T-chart `MODEL SHOWS / MODEL DOES NOT SHOW`. Post the
+  teacher card key face down during tests and reveal it only for scoring.
+- **Discussion questions, answers and misconceptions:** Ask `What stayed the
+  same so the two tests can be compared?` (ten cards, key, two-minute limit;
+  card order may be shuffled); `Why not change the key after a wrong sort?`
+  (that would change the criterion instead of improving the sign); `Does 10/10
+  prove an item belongs in the town recycling bin?` (no, these are classroom
+  practice categories and local rules control real disposal); `What does a bar
+  rising from 5 to 8 mean?` (three more correct placements in this test, not a
+  percentage or landfill reduction); `How does reuse differ from recycling?`
+  (reuse uses an item again; recycling processes material); and `What creation-
+  care claim is honest?` (we tested a routine and can propose a next school
+  check, not claim measured environmental impact). Correct `everything reusable
+  is recyclable` by returning to the separate definitions and local-rule limit.
+- **Kit contents. Kit label: and Cleanup/Reset:** Each team tray contains exactly `10 numbered
+  teacher-drawn scenario cards: 5 clean unused-paper cards and 5 clean reusable-
+  container cards; 2 blank cardstock sign sheets; 2 markers; 1 sorting tray; 1
+  premeasured 40 cm strip of masking tape`. Label each tray `W29-31 ENVIRONMENT
+  | TEAM CODE | CARDS 1-10 / 2 SIGNS / 2 MARKERS / 40 cm TAPE`. Store pupil
+  packets outside trays in an envelope labeled `W29-31 DATA | CLASS CODE |
+  MEETINGS 1-3`. At each reset, order cards 1-10 and verify against the teacher
+  key, cap/test both markers, remove used tape without leaving adhesive, place
+  unfinished signs flat, replenish only the next meeting's authorized
+  cardstock/tape, and record a missing card or dry marker on the tray label.
+- **Unfinished work:** Preserve the last valid count and do not reconstruct it
+  from memory. Circle the next stage on the packet: `baseline`, `build`,
+  `retest`, `final`, or `explain limit`; place the packet and team signs in the
+  class data envelope/tray. On return, the pupil resumes at that stage with a
+  fresh two-minute test if a count is missing. Never send scenario cards home
+  or substitute a home/family waste audit.
+- **Annotated exemplar, Common error interpretation, and Reteach:** On the example, box each
+  raw `/10`, draw an arrow from the named confusion to the added symbol, and
+  bracket the two limit sentences. A high baseline and lower final may indicate
+  card order, an unclear revision, a different new user, or ordinary variation;
+  retain both numbers and ask which condition changed. A perfect score with no
+  time/user record is `result not yet verifiable`, not evidence to invent.
+  Reteach with four cards: pupil states one visible feature, sorts using the
+  posted sign, checks the fixed key, and revises one word/symbol; then return to
+  the full ten-card, two-minute trial.
+- **Safety classification: Severity low; likelihood unlikely** after controls.
+  Possible harms are minor marker contact, paper edge, or a trip/adhesive issue;
+  with clean dry materials,
+  capped markers, and tape used only on tabletop signs. **Adult ratio: 1:25
+  maximum**; keep teams at 3 or fewer while the adult circulates between trays,
+  controls tape distribution, and intercepts any unknown or soiled material.
+  No pupil handles real trash, compost, liquids, sockets, plumbing, or outdoor
+  waste areas; stop if an unknown/soiled object appears. The used commercial
+  product categories are classroom markers and masking tape. Enter the exact
+  manufacturer and product for each in the [Safety Data Sheet
+  Register](../../Review/Safety_Data_Sheet_Register.csv), and keep each product
+  on **HOLD** until school approval and SDS applicability are resolved. Use
+  low-odor classroom markers and follow product labels.
+- **Print accessibility:** Print packets one-sided in black and white at 100%,
+  at least 12-point sans serif, with patterns or written labels on bars rather
+  than color, a numbered 0-10 axis, and sign-symbol boxes at least 5 cm square.
+  Offer 16-18-point sheets, pre-drawn axes, picture-supported cards, oral
+  scoring, a scribe, or pointing. Read every scenario aloud without changing
+  its wording. Test one copy to ensure all ten axis marks, `/10` fields, and
+  `MODEL DOES NOT SHOW` box reproduce clearly; the notebook version uses the
+  same labels.
+- **Technology compliance:** No technology artifact applies.

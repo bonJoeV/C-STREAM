@@ -135,3 +135,18 @@ Save actual test counts and limits, recycle bases, cap/count tools, report gaps.
 kiosk mockup. **Learned:** usability isn't medical effectiveness.
 **Catholic connection:** consent, dignity and access. **Ask:** "What did your
 test not prove?" No routine homework, personal health interview or therapeutic claim.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Supply four kiosk screens and six-event table. Students record HOME→Directions, Back, Paper, Exit, Home, invalid HOME/Back unchanged; baseline/retest, label change, consent/no-name/paper option, and nonclinical limit. Key example one error=5/6, not medical accuracy.
+- **Worked/finished example:** Baseline Exit hidden gives 5/6; move word+icon beside choices, retest 6/6. Finished dry kiosk navigates as keyed and states it neither treats nor validates health benefit.
+- **Board setup / expected discussion responses:** Draw state map and `expected|actual|confusion|revision`; ask leave/measured/health benefit. Correct “navigation proves treatment,” mandatory name, and classmate impairment simulation.
+- **Kit contents / Kit label / reset / unfinished:** Per team: one cardboard screen base, four paper screens, three brief/event/test sheets, one cardstock button sheet, ruler, marker, blunt scissors, and 1 m masking tape; per student: four dated log sheets and pencil. **Kit label:** `HEALTH INFO MOCKUP—W25-28—4 SCREENS/6 EVENTS/1 m TAPE—NO HEALTH DATA—team ___`. Stack all four screens, count movable controls and tools, file baseline/retest logs, and dismantle the base. Mark the last tested state/event; restart from the specified state.
+- **Annotated exemplar / common error interpretation / reteach:** Box six transitions/counts, circle revision, star consent/limit. Invented operator behavior=protocol error; 6/6 called clinical success=claim error. Trace HOME/Directions/Back with movable cards, then rerun failed event.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / Print/accessibility check:** Physical **low/unlikely**; clinical/privacy harm **high but unlikely** under prohibition. **Adult supervision ratio:** one adult/class, teams ≤3, direct sightline. No bodies, medicines, samples, sharps, patient testing, health input, diagnosis, distribution, or disability simulation. Print ≥14-point controls with icon+word/non-color hierarchy; offer large print, scribe, and an accessible role.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product/manufacturer is not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD. Do not issue or substitute masking tape until the school safety lead approves the exact product and its current SDS.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

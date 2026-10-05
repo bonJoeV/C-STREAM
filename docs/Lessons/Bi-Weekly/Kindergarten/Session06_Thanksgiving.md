@@ -67,3 +67,41 @@ Fully indoors; no school-event date or home contribution required.
 
 **Family:** We communicated appreciation and revised a message after feedback.
 Ask, "How did you make your idea clearer?" Optional conversation, no homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print message sheet and shared crayon; child chooses a school helper, trusted recipient, or safe familiar creation aspect.
+
+**Evidence and answer guidance:** Check specific appreciative idea, respectful recipient, listener interpretation, and actual revision separately; do not score prayer, realism, or handwriting.
+
+**Worked example:** Draw a school helper, ask a partner what it means, then add or dictate one detail that clarifies the thanks.
+
+**Finished example:** Dated sheet shows one recipient/action and a changed mark or explanation the listener can interpret.
+
+**Visual example:** Show a simple helper picture before and after one added clarifying detail.
+
+**Board setup:** Use “who/what,” “listener understood,” and “what I clarified” boxes.
+
+**Expected discussion responses:** “I appreciate the helper”; “My partner thought ___”; “I added this detail”; “I can choose a classroom object.”
+
+**Kit contents and label:** Message sheets, shared crayons, timer/roster, and envelope; label “specific appreciation—private topics optional.”
+
+**Cleanup/reset:** Retain dated evidence, return crayons, place sheets in the envelope, and clear without a whole-class queue.
+
+**Unfinished work:** Preserve recipient/action and dictate meaning; revision may be pointed to or spoken.
+
+**Common misconceptions:** A finished picture does not automatically communicate; realism is not the criterion; private disclosure is not required.
+
+**Annotated exemplar:** Recipient/action is named, partner interpretation is noted, and the added detail is circled.
+
+**Common error interpretation:** If the listener cannot identify the idea, record unclear communication and ask for one concrete detail.
+
+**Reteaching option:** Offer two helper pictures, model a listener question, and let the child add one detail.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Paper/crayon communication only; no food, sharp specimens, acorns, or private images.
+
+**Adult supervision ratio:** Teacher supervises partner/trio sharing and protects the option to decline private topics.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use school-approved paper, crayons, and envelope.
+
+**Print/accessibility check:** No printing; use two large picture choices, pointing, speech, and scribing.

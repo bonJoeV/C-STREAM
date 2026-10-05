@@ -71,3 +71,7 @@ Optional camera documents evidence but does not substitute for observing it.
 
 **Family:** We celebrated an actual discovery and named something to practice.
 Ask, "What can you show me, and what does it show?" Home work is optional.
+
+## Teacher artifacts
+
+See the [Week 13 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-13--fall-celebration).

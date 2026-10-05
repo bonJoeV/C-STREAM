@@ -93,3 +93,32 @@ Count kit pieces, save raw values, record incomplete trials and replenish tape.
 **Explored:** fair tests. **Did:** six safe rolls and a comparison. **Learned:**
 variation is evidence. **Catholic connection:** honest inquiry. **Ask:**
 "What did you keep constant?" No routine homework or home experiment required.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the six-trial 3 cm/6 cm ramp investigation.
+
+### Student material and evidence
+
+- **Printable/no-print prompt:** Table **height cm | trials 1-3 distance cm | invalid/reason | comparison** plus “IV ___; DV ___; controls ___ and ___; cite two values/means; limitation ___.” Board-copy is identical.
+- **Expected evidence, worked and finished examples:** IV = 3/6 cm ramp height; DV = stopping distance from ramp end; valid controls include ball, ramp, surface, release point and no push. Work only the labeled fictional 12/14/13 and 19/21/20 cm example (means 13/20, difference 7). Finished evidence is six actual valid values with units and honest overlap/confound; a finished build is **N/A** because the ramp is apparatus, not a designed product.
+
+### Teacher display and discussion
+
+- **Visual example:** Display a side-by-side **3 cm ramp / 6 cm ramp** diagram with the same soft ball, release line, tray surface and ruler zero at the ramp end. Beside it, show the fictional rows **12, 14, 13 cm** and **19, 21, 20 cm**, labeling these numbers “worked example—not class data.”
+- **Board setup/discussion:** Draw both ramp heights, ruler zero at ramp end, six-cell table and **same: ball/ramp/surface/release | changed: height | measured: stop cm**. Ask what stayed same, whether wall contact invalidates the value, and whether a push could explain it. Accept overlap as overlap. Misconceptions: steeper ramp does not increase gravity’s magnitude; a wrong prediction is not failed science; collision distance is not a stopping distance.
+
+### Kit, closure, and continuation
+
+- **Kit/reference/reset:** Exact MATERIALS only: paper/pencil per pupil; ramp, soft ball, tray, ruler, table and two identical books per team; 0.2 m tape; teacher board/clock/roster. **Kit label:** **RAMP INVESTIGATION—W4—3/6 CM, 3 TRIALS EACH—BALL/TRAY/RULER**. Remove tape, stack two books, nest dry tray/ramp, count ball/ruler, and file raw tables.
+- **Unfinished work:** Cross-hatch only missing trial cells and write the current unchanged setup; rerun those trials before comparing. Preserve invalid collision rows and never fill a team value from the fictional example.
+
+### Interpretation and reteach
+
+- **Specific misconceptions:** “The 6 cm ramp won” substitutes a verdict for the six measured distances; changing the ball or pushing at release confounds ramp height; measuring from the table edge instead of the ramp end shifts every result; a wall collision is an invalid trial to retain and rerun, not a learner failure.
+- **Annotated exemplar / Common error interpretation / reteach:** Underline “height,” box six cm values, star ball/release controls, and circle “6 cm values were usually longer, but overlap/other factors limit cause.” A single extreme may be valid variability; equal repeated values are not automatically copied. Radius-from-wrong-zero indicates method error. Reteach one no-push release and zero alignment, then have the pupil name changed/measured/kept factors before one supervised repeat.
+
+## SAFETY / support / challenge
+
+- **Safety classification:** Rolling apparatus is **minor severity / possible likelihood** if hands enter paths; one adult may supervise the class at **1:25** only with low ≤15 cm ramps inside trays and teams ≤3, stopping unstable supports. **Print/accessibility check:** verify 16-point tables with bold cm labels and a large ruler-zero cue; offer number line, oral/scribed responses and physical role access.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product and manufacturer are not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD; do not issue this tape or substitute another tape until the school safety lead approves the exact product and its current SDS.

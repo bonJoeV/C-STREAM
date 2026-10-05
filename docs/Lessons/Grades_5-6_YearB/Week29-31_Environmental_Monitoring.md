@@ -127,3 +127,17 @@ Keep raw/working versions, graphs and individual limits; count tools.
 further checks. **Learned:** patterns aren't causation. **Catholic connection:**
 careful stewardship. **Ask:** "What other information did you need?"
 No routine homework or real savings/monitoring claim.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Provide invented A/B table, immutable raw 14 versus working 41 correction log, and grouped-graph frame. Expected totals 65/60 kWh, means 13/12, ranges 4/4, difference 5; ten bars, provenance, two confounds, reminder test, and no causal savings claim.
+- **Visual example / worked/finished example:** Log `Tuesday A 41→14; verified against raw`; graph Mon A12/B11 from zero. Finished recommendation says Week B was 5 kWh lower in fictional records but occupancy/weather unknown, so campaign causation requires matched facility data.
+- **Board setup / expected discussion responses:** `RAW (LOCKED)|WORKING VERSION|old/new/source/reason`, axes 0-16 kWh, `pattern≠cause`. Correct deletion of outliers, missing=zero, kWh=instant power, and lower B proves campaign.
+- **Kit contents / Kit label / reset / unfinished:** Per team: three raw/working/protocol sheets, one ruler, calculator, and marker; per student: three paper logs, one graph-paper sheet, and pencil. **Kit label:** `ENERGY RECORDS—W29-31—RAW 14/WORKING 41→14—3 SOURCE SHEETS—team ___`. File raw and working versions separately and return the calculator, ruler, and marker. Mark the last verified cell/bar and preserve every unverified blank.
+- **Annotated exemplar / common error interpretation / reteach:** Box 65/60 and units, underline provenance, circle 41→14, star confounds. 92 total signals uncorrected 41; truncated axis misleads; “saved” is causal overreach. Reconcile one row to raw, then sum/plot it.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / access:** Paper **low/unlikely**; electrical/privacy harm **high/unlikely** because facility access is prohibited. **Adult supervision ratio:** one adult/class, teams ≤3. No meters, electrical panels, thermostats, waste/water inspection, personal/home data, or unapproved facility access. Print 100%, ≥12-point with patterns+labels; offer supplied axes, calculator, or scribe.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

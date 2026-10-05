@@ -153,12 +153,14 @@ nav:
   - Home: index.md
   - Curriculum Review:
     - Overview: Review/README.md
+    - Instructional Time Baseline: Review/Instructional_Time_Baseline.md
     - Executive Review: Review/Executive_Review.md
     - Philosophy: Review/Philosophy.md
     - Standards & Sources: Review/Standards_Sources.md
     - Local Standards: Review/Local_Standards.md
     - Learning Progression: Review/Learning_Progression.md
     - Scope & Sequence: Review/Scope_and_Sequence.md
+    - Core Unit Plans: Review/Core_Unit_Plans.md
     - Grade Reviews:
       - Kindergarten: Review/Kindergarten_Review.md
       - Grades 1-2: Review/Grades_1-2_Review.md
@@ -167,7 +169,10 @@ nav:
     - Lesson Quality Audit: Review/Lesson_Quality_Audit.md
     - Materials & Budget: Review/Materials_Plan.md
     - Technology Plan: Review/Technology_Plan.md
+    - Accessibility & Technology Compliance: Review/Accessibility_Technology_Compliance.md
+    - Safety Risk Protocol: Review/Safety_Risk_Protocol.md
     - Substitute Readiness: Review/Substitute_Readiness.md
+    - Teacher Artifact Readiness: Review/Teacher_Artifact_Readiness.md
     - Family Communication: Review/Family_Communication.md
     - Standards Traceability: Review/Standards_Traceability.md
     - K External Candidates: Review/Kindergarten_External_Alignment.md
@@ -176,6 +181,9 @@ nav:
     - Implementation Plan: Review/Implementation_Plan.md
     - Validation: Review/Validation.md
     - School Release Checklist: Review/School_Release_Checklist.md
+    - Teacher Implementation Guide: Review/Teacher_Implementation_Guide.md
+    - Source & Assumptions Register: Review/Source_Assumptions_Register.md
+    - Change Log: Review/Change_Log.md
     - Repository Inventory: Review/Repository_Inventory.md
   - Getting Started:
     - Quick Start Guide: Resources/Quick_Start_Guide.md

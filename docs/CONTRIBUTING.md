@@ -160,7 +160,10 @@ From the repository root:
 
 ```powershell
 .\scripts\Build-CurriculumMaps.ps1
+.\scripts\Build-OperationalAudit.ps1
 .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
+.\scripts\Build-OperationalAudit.ps1 -ValidateOnly
+.\scripts\Test-OperationalReadiness.ps1
 mkdocs build
 ```
 

@@ -74,3 +74,7 @@ All work indoors; no family donation or required home delivery.
 
 **Family:** We made and revised a thoughtful visual message.
 Ask, "Why did you choose that picture, and what did you change?" No routine homework.
+
+## Teacher artifacts
+
+See the [Week 12 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-12--making-gifts-for-others).

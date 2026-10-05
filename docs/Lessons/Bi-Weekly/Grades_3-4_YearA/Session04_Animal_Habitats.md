@@ -71,3 +71,87 @@ safe future observation, not collect wild creatures.
 
 **Family:** We modeled habitat needs responsibly. Ask, "Which relationship
 had a source?" Optional: notice an animal picture, no collection.
+## Teacher artifact pack (release checklist)
+
+The pack must keep the retrieved monarch card visibly separate from pupils'
+proposed habitat features so a model is not mistaken for live-animal guidance.
+
+- **Student material (source/model organizer):** Provide four icon boxes labeled `FOOD`,
+  `WATER`, `SHELTER`, and `SPACE`, followed by these exact prompts: `Organism
+  and life stage: ___`; `The source card states: ___`; `Draw an arrow showing
+  that relationship`; `My model proposes ___ for water`; `My model proposes
+  ___ for shelter`; `My model proposes ___ for space`; `A species detail still
+  unknown is ___`; `A responsible care choice is ___`; `This model is limited
+  because ___`. For no-print use, quarter a sheet, label the four boxes, and
+  copy the remaining prompts from the board.
+- **Evidence and answer guidance:** Each pupil identifies a monarch
+  larva/caterpillar, labels all four general habitat needs, and accurately
+  records `monarch larvae eat milkweed` as the source-supported relationship.
+  Accept proposed water access, protection from weather/predators, and enough
+  room/resources only when labeled `proposed` or `needs more evidence`.
+  Accept `adult food`, `exact water source`, `amount of space`, or `safe shelter
+  type` as unknown details. Accept `do not collect or release`, `protect
+  milkweed habitat`, or `seek qualified adult/ecological guidance` as care
+  choices. Do not accept the card as evidence that adults eat milkweed leaves
+  or that the classroom model is approved housing.
+- **Worked example:** Think aloud: place a paper larva and
+  milkweed in the FOOD area, draw an arrow labeled `source says larvae eat
+  milkweed`, then add `proposed--verify` beside water, shelter, and space.
+  Finish with `Unknown: exact shelter conditions` and `No live caterpillar will
+  be placed here.` The finished example shows four labeled needs, one sourced
+  relationship, at least one explicitly unknown detail, and one safe care
+  choice. N/A is justified for a species-specific detail absent from the card
+  only when written `unknown--source does not say`; blank is not N/A.
+- **Board setup and visual example:** Display a cardstock model divided by
+  a heavy line into `SUPPORTED BY SOURCE CARD` and `MODEL PROPOSAL--VERIFY`.
+  Place the larva-to-milkweed arrow on the supported side and the four need
+  icons around the model. Board headings are `CARD SAYS | MODEL PROPOSES |
+  STILL UNKNOWN | RESPONSIBLE ACTION`, with `DRAWING ONLY--NOT A LIVE-ANIMAL
+  CARE PLAN` boxed above them.
+- **Discussion with acceptable response:** Ask `Which relationship can we defend
+  with today's source?` Monarch larvae eat milkweed. `Does that tell us what
+  an adult monarch eats?` No; the card excerpt does not provide that fact.
+  `Does adding food make any box a habitat?` No; water, shelter, space,
+  conditions, and species-specific evidence also matter. `May we collect a
+  caterpillar to test the model?` No; this lesson uses no specimens, and live
+  care/release requires further evidence and adult ecological approval.
+  Address the misconceptions that all life stages have identical needs and
+  that an attractive model is automatically safe housing.
+- **Kit contents, kit label and reset:** Each team kit contains one retrieved
+  source card, one cardstock base, two washable school-approved markers, and
+  enough issued plain paper for folded labels; each pupil receives pencil and
+  evidence paper. Kit label: `G3-4 YA S04 | MONARCH MODEL | 1 SOURCE / 1 BASE /
+  2 MARKERS | NO SPECIMENS`. Cleanup and reset: cap and count both markers, return the
+  single source card to its sleeve, stack models flat with named organizers,
+  recycle scraps, and record a missing/damaged card before reuse. Never add
+  plants, soil, food, water, insects, or found natural material to the kit.
+- **Unfinished work:** Mark the missing component on a cover slip:
+  `food / water / shelter / space / source arrow / unknown / care choice`.
+  Store the dry paper model flat with its source organizer and resume only in
+  class. Do not ask pupils to collect organisms/plants, photograph habitats,
+  or research unsupervised at home to finish it.
+- **Annotated exemplar, common error reading and reteach:** Underline the exact
+  card-supported sentence, box the four need labels, use a dashed border around
+  proposals, and circle the unknown and care choice. If `adult monarch eats
+  milkweed leaves` is underlined as sourced, the pupil has overgeneralized life
+  stages; if all four boxes are present but no arrow/claim is cited, the model
+  lacks relationship evidence; if nothing is marked unknown, confidence may
+  exceed the source. Reteach by physically sorting sentence strips into `card
+  says`, `we propose`, and `we do not know`, then complete `The card supports
+  ___, but it does not tell us ___`.
+- **Safety classification:** Severity **low** and likelihood **low** because
+  only dry classroom art materials are used. Adult ratio is **1:25 maximum**,
+  with teams of three or fewer. No animals, unknown plants, soil,
+  mold, food, classroom release, collection trip, or sun-focusing lens is part
+  of the lesson; stop use of leaking or strongly scented markers. The used
+  commercial product category is washable classroom marker. Enter the exact
+  manufacturer/product in the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv),
+  record whether an SDS applies and the school approval decision, and keep the
+  markers on **HOLD** until that review is resolved. Do not substitute paint,
+  adhesive, preserved material, or a different marker formulation.
+- **Print/accessibility check:** Reproduce the source in 14-point or larger
+  black-and-white text with generous spacing and a simple larva/milkweed icon pair; add
+  written labels to every icon and never rely on color alone.
+  Read the card aloud and offer large picture labels, pointing, a pre-divided
+  organizer, oral explanation, dictation, scribing, or adapted marker grip.
+- **Technology artifact:** None applies; this lesson has no technology artifact.

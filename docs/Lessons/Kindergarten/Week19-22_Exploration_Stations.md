@@ -22,7 +22,7 @@ materials: [Large wooden building blocks, Team sorting tray, Plain paper, Large 
 | Objective / why | "I can retest, compare records, explain a pattern and fix instructions." Transfer makes skills usable. |
 | Catholic connection | Fair turns and honest reporting; no claim that everyone mastered every field. |
 | Local standards | CST-S1: actual observation; CST-T2: correction; CST-E2: retest; CST-A2: purposeful readable pattern; CST-M2: weather/pattern representation. Official alignment: VERIFICATION REQUIRED. |
-| Technology / difficulty / prep / cleanup | Optional pretested robot extension, paper primary / guided / 15 minutes per prepared kit / 4 each meeting |
+| Technology / difficulty / prep / cleanup | Optional pretested Sphero/Sphero Edu Drive extension, paper primary / guided / 15 minutes per prepared kit / 4 each meeting |
 
 ## Before class and exact supplies
 
@@ -104,11 +104,17 @@ No sky view: labeled teacher observation, or explicitly **model data** with
 actual-weather evidence deferred. Missing blocks: shared <=3 groups, same test.
 All minimum pathways are indoors and device-free.
 
-Optional robot extension is a separately pretested teacher choice; charge/aim
-and verify compatible controls before class. Replace, do not add, work time;
-actual operation/execution evidence requires each child's real device turn.
+Optional Sphero extension reuses the school-approved robot, paired tablet and
+installed Sphero Edu Drive interface from Weeks 2-3; charge/aim and verify the
+Drive and stop controls before class. Replace, do not add, work time. Record
+hardware evidence only for a child's actual drive-and-stop turn; otherwise
+defer `H` as not assessed and keep the named paper challenge evidence.
 If equipment fails, paper evidence remains computational thinking only.
 
 **Family:** We checked structure changes, two weather records, a readable
 repeat and picture instructions. Ask about one actual result, not a station
 stamp. No homework or donations.
+
+## Teacher artifacts
+
+See the [Weeks 19-22 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-19-22--exploration-stations).

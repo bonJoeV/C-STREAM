@@ -92,3 +92,7 @@ minimum is unchanged, no loan or student circuit objective is added.
 
 **Family:** We compared light through materials and made a purposeful art choice.
 Ask, "What did you observe, and what did your picture mean?" No homework.
+
+## Teacher artifacts
+
+See the [Weeks 14-15 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-14-15--light-all-around).

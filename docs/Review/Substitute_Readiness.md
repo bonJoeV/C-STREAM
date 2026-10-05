@@ -5,6 +5,11 @@ description: "Twenty-minute handoff, bounded readiness and seven desk simulation
 
 # Substitute readiness review
 
+> **Current release status:** the written-pathway closeout below predates the
+> expanded [teacher-artifact audit](Teacher_Artifact_Readiness.md). All 251
+> lessons remain on substitute-release hold until missing artifacts and the
+> physical handoff are verified.
+
 **October 2026.** A revised template is not certification of every lesson.
 This workstream owns shared operations, not the four band lesson audits.
 Readiness requires a completed lesson, counted physical kit, accommodations,

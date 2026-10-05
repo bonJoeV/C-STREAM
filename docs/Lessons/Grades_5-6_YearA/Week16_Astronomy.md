@@ -86,3 +86,28 @@ Count tools, keep individual model/exit, note retaught conversions.
 **Explored:** astronomical scale. **Did:** placed distance markers.
 **Learned:** size/distance scales differ. **Catholic connection:** humble,
 honest wonder. **Ask:** "What did one centimeter represent?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the 1 AU = 10 cm one-dimensional distance model and its size-limit explanation.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** NASA fact card plus table **AU | calculation | strip cm | real million km | model limit** for 0.5/1/2/3 AU. Require Sun zero, Earth 10 cm, hypothetical markers 5/20/30 cm, `150÷10=15 million km/cm`, and “marker diameter not to scale.”
+- **Worked example and finished example:** Diagnose deliberately wrong 2 AU at 12 cm: `2×10=20 cm`. The finished non-build model is the measured 40 cm strip with labels and conversion sheet; it is one-dimensional and does not depict orbits or body diameters.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw a number line 0-30 cm, conversions and **distance scale ≠ size scale**. 20 cm represents 2 AU≈300 million km; markers are positions, not orbits; 2 cm paper Earth is not diameter evidence. Misconceptions: light-year is distance, marker size shares the distance scale, astronomy measurements prove theology.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **DISTANCE SCALE—W16—1 AU=10 CM / MARKERS NOT SIZE SCALE**. Return strip, fact sheet, ruler, calculator and four labels/team; erase/reuse labels, file exits. Circle last verified marker; finish conversion/placement before model-limit conclusion.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box 10/20/5 cm, underline scale equation, circle correction 12→20 and size-limit sentence. 20 million km confuses model cm with real scale; circular lines overclaim orbits; oversized marker is acceptable only when labeled. Reteach with 1 AU card repeated twice, then pupil places/checks 2 AU and explains one omitted feature.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Desk model is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**; no Sun viewing, outdoor/night work or glass. Materials are paper and reusable classroom tools only. **Print/accessibility check:** verify the NASA paraphrase is ≥16 pt with a high-contrast number line and large labels; provide marked zero/10, calculator and oral/scribed answers.

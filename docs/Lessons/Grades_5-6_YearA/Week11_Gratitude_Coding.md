@@ -132,3 +132,29 @@ Save evidence, log executed versus paper, report missing tests.
 **Explored:** lists/privacy. **Did:** add/retrieve/reset using fictional entries.
 **Learned:** guards and indices matter. **Catholic connection:** voluntary
 thanksgiving and dignity. **Ask:** "What did reset do?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the Scratch `Thanks` list, six keyed tests, index bug and privacy boundary.
+
+### Student material and evidence
+
+- **Printable/no-print material and evidence:** Starter plus trace **event | input | list | length | output** for reset/view/two approved adds/invalid name/reset. Key lengths 0/1/2/2/0; item 1 is `sunny walk`; empty view says `No entries`; invalid input leaves length 2.
+- **Worked example, finished example, and visual example:** Display a block-by-block trace of the bug `item 2` after one add, retain the wrong/blank output, change to `item 1`, and retest. The finished program has reset, input and empty-list guards using only two fictional strings. Paper trace is algorithm evidence, not execution.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw indexes 1/2 above strings; post six-test key, **fictional allowed/private excluded**, edit/run roster. One-add view finds index bug. Misconceptions: index starts at 1; lists are not automatically private/persistent; gratitude/prayer disclosure is never required.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **GRATITUDE CODING—W11—THANKS LIST / SIX TESTS / FICTIONAL DATA**. Return selected 4/5/7/9 or three shared computers, reset/delete entries, close editor, return references and file traces/run roster. Mark last test and `runtime NE`; schedule missing supervised edit/run.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box 0/1/2/2/0, underline item 1=`sunny walk`, circle index 2→1 and “name rejected.” Wrong first item suggests index/order; retained name means guard defect; correct paper trace with no run is an access gap. Reteach with two numbered cards, then execute reset/add/view.
+
+## SAFETY / support / challenge
+
+- **Safety classification and access:** Seated computer work is **minor severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**, teams ≤3 with individual turns; damaged cables stop use. **Print/accessibility check:** verify ≥16 pt blocks/text and non-color cues; offer motor support, oral trace and cards.
+- **Devices/external-service compliance and deferred evidence:** Use an assigned school-managed computer with the school-approved **Scratch editor** (offline or managed local save); do not use personal/shared passwords, cloud/public upload, names, prayers, family or health data. Record each pupil's actual edit/run turn and the outputs from all six `Thanks` list tests. If the computer or Scratch editor is unavailable, mark program execution and runtime test evidence **deferred**; moving paper entries demonstrates algorithm reasoning only and must not be counted as Scratch runtime or device evidence.

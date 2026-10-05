@@ -84,3 +84,18 @@ Retain tests and actual production route, return devices/tools.
 **Learned:** layout/privacy matter. **Catholic connection:** preparation and
 stewardship. **Ask:** "Why did your resource avoid collecting prayers?"
 Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Prompt/evidence:** Four panels: Pause/private reflection, Notice/useful tool, Share/offer turn, Care/reuse paper. Record whether peer finds Pause/Share, revision/retest, actual paper/digital route, privacy exclusion, and `4×2=8 minutes`.
+- **Visual example / worked/finished example:** Reader misses small PAUSE; enlarge heading/shorten action, retest found. Finished fold or four actually created approved slides contains all invitations, original image, reader evidence, and time/privacy rationale—not official weekly themes.
+- **Board setup / expected discussion responses:** Draw four-panel grid and `TITLE>ACTION>IMAGE`; ask need first/no journal input. Correct “notifications grow faith,” “digital automatically accessible,” and “paper is digital production.”
+- **Kit contents / Kit label / reset / unfinished:** Per team: one ruler, one marker set, and one four-panel content sheet; per student: one paper panel sheet, one evidence sheet, and one pencil; optional route: one school-managed computer with the approved slide editor. **Kit label:** `ADVENT PANELS—W13—PAUSE/NOTICE/SHARE/CARE—PAPER/SLIDES ___—team ___`. File evidence, cap/count every marker, return the ruler/content sheet, and, when used, save and close the four-slide file on the school-managed computer. Mark the missing panel or reader action; do not assert a retest.
+- **Annotated exemplar / common error interpretation / reteach:** Box reader result, circle hierarchy revision, star no-data choice. Private prayer field=data-minimization error; copied image=compliance error. Remodel one heading/action panel.
+- **Devices/external-service compliance and deferred evidence:** The optional service is the school's **approved slide editor** on a school-managed computer. Evidence is an actually created four-slide Pause/Notice/Share/Care file that is saved, reopened, displayed, and reader-tested. If the approved editor or computer is unavailable, defer slide creation, save/reopen, display, and digital reader-test evidence; paper panels and paper reasoning do not count as editor runtime/device evidence.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / Print/accessibility check:** Paper **low/unlikely**; computer/data **moderate/possible**. **Adult supervision ratio:** one adult/class with direct school-computer/charging oversight, teams ≤3. Print ≥12-point with high contrast and no color-only order; offer large print, predivided panels, scribe, or keyboard. Use only school-managed access/storage and original drawings; do not add tracking, public posts/links, personal accounts, unlicensed media, or flashing effects.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

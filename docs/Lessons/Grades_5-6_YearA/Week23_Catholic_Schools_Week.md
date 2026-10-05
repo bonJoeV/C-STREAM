@@ -89,3 +89,28 @@ Count tools, retain each child's learner check, record event as unbooked if so.
 **Explored:** teaching with evidence. **Did:** rehearsed a paper-shape station.
 **Learned:** clear checks and access. **Catholic connection:** servant leadership.
 **Ask:** "What did your learner say?" No routine homework or real-event claim.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the six-minute flat/folded paper teaching station and peer rehearsal.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** Six-minute script with welcome/predict/test/what changed-stayed/learner explanation; observer sheet **instruction | actual learner words/action | access choice | unclear phrase | revision/retry**. Board copy is equivalent.
+- **Worked example and finished example:** Model poor “Do you understand?” versus “What changed and stayed the same?” The finished station uses two 10×25 cm strips over 15 cm, same centered cardstock square, learner handling, actual response and revised instruction; it states shape affects model stiffness, not real-bridge certification.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Post six 1/1/2/1/1-minute segments, 15 cm diagram and **learner said/did—not teacher said**. Echoing is not independent explanation; revise the instruction that caused confusion; actual buddy teaching requires separate approval. Misconception: polished speech or yes/no response proves learning.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **PEER TEACHING—W23—2 STRIPS / 15 CM / SAME SQUARE / LEARNER CHECK**. Count strips/books/square/ruler/script, stack books, file records. Mark unperformed teacher/learner role or missing retry; resume peer rehearsal, never claim buddy event.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box learner’s words “folded bent less; paper/square/span same,” underline check question, circle clearer retried instruction and seated-pointing option. Teacher paraphrase is not learner evidence; both strips bending is valid; absent role is access gap. Reteach one open check, wait silently, record exact response, retry.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Low-load paper station is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**, teams ≤3; no added loads, sharps, crowding, photos or unsupervised younger pupils. Materials are paper and reusable classroom tools only. **Print/accessibility check:** verify the script is ≥16 pt with one step/line; large paper, seated pointing, oral/scribed records.

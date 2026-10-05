@@ -83,3 +83,17 @@ Save each caption/result and actual/practice label; note unfinished checks.
 **Ask:** "What did your test not prove?" Optional conversation; no routine homework.
 
 **Previous:** [Advanced Invention](./Session16_Advanced_Invention.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Give/board-copy display frame `title/task / what I changed / actual result / evidence source or route / limit / reader question / old caption / revised caption / reuse choice`. Use an attended individual artifact/test; otherwise use the labelled practice card-holder record `1/3 -> 3/3 at 10 seconds; durability untested`.
+- **Worked example and finished example:** Work caption `My holder was successful` into `In three 10-second trials, the first holder stood 1/3 times and the wider revision 3/3; long-term durability was not tested.` Finished display preserves before/after captions, artifact or clearly marked practice record, reader question and reason to reuse display backs. As a non-build exhibition lesson, a new build is **N/A**; the finished product is the evidence display/explanation.
+- **Board setup and visual example:** Post `TASK | DECISION | RESULT | LIMIT | SOURCE/ACTUAL-PRACTICE | RESOURCE CHOICE` and `before caption -> reader question -> after caption`; show the revised card-holder caption as the visual example and add a two-minute paired turn schedule.
+- **Questions/misconceptions:** Ask “Was it actually operated?” (state route), “What did the test not prove?” (artifact-specific limit), “Which question changed caption?” (name it), and “Does a certificate/enthusiasm prove mastery?” (no). Unsuccessful results remain valid evidence.
+## Exact supplies
+
+- **Kit contents and Kit label:** One portfolio/practice record and pencil plus two caption/display sheets per pupil; ruler/marker per tool team; teacher board/clock/roster. **Kit label:** `G5-6 YA S17 — EVIDENCE EXHIBITION — ACTUAL/PRACTICE + BEFORE/AFTER`. Reset by returning portfolios, capping/counting tools, reusing clean display backs and filing caption/result. Mark missing caption/question/paired explanation; store display and finish at school without inventing raw data.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `Master Engineer—everything worked` as `unsupported global claim`; box the specific test result, underline actual/practice label, circle the limit and revised wording. **Common error interpretation:** lack of raw test means `untested`, not assumed failure/success. Reteach with claim-evidence-limit sentence strips and one seated explanation.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gate, and Print/accessibility check:** Severity **low**, likelihood **rare** for seated paper gallery; manage crowding and prohibit powered demonstrations, food/balloons and unsafe artifacts. Adult ratio **1:25**; paired/trio exchanges stay seated. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv), use its CONTROL-ROW, and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** use 14-point/high-contrast captions, uncluttered order, read-aloud, oral/drawn/scribed explanation and private teacher exchange for anxiety.

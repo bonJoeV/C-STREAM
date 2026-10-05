@@ -17,6 +17,9 @@ Grades 3-4 40 minutes, Grades 5-6 45 minutes**.
   units and do not prove identical pacing.
 - **Do not combine weekly and bi-weekly tracks** or add all thematic menu
   entries to the selected year.
+- **Controlling baseline:** until the school verifies its actual calendar, plan
+  only 28 weekly meetings (24 core + 4 flex) or 15 bi-weekly meetings (13 core
+  + 2 flex). See the [instructional time baseline](Instructional_Time_Baseline.md).
 - **Core:** Preserve inquiry, measurement/data, purposeful art, design/test/
   redesign, unplugged computing and Catholic ethical reflection.
 - **Recommended:** Additional investigations or retesting that deepen an
@@ -28,16 +31,17 @@ The legacy index's single-week/multi-week/long-arc quotas double-counted
 meetings. The corrected planner and downloadable audits replace that arithmetic.
 No grade should be scheduled simply by counting filenames.
 
-| Band | 17 meetings: contact minutes | 32 meetings: contact minutes |
+| Band | 15-meeting baseline | 28-meeting baseline | Nominal 17/32 maximum |
 |---|---:|---:|
-| K | 425 | 800 |
-| 1-2 | 510 | 960 |
-| 3-4 | 680 | 1,280 |
-| 5-6 | 765 | 1,440 |
+| K | 375 | 700 | 425 / 800 minutes |
+| 1-2 | 450 | 840 | 510 / 960 minutes |
+| 3-4 | 600 | 1,120 | 680 / 1,280 minutes |
+| 5-6 | 675 | 1,260 | 765 / 1,440 minutes |
 
-These totals include distribution, transitions, assessment and cleanup. The
-weekly program has more practice time; equal mastery in half the time is not
-assumed.
+Baseline totals include distribution, transitions, assessment and cleanup and
+reserve realistic interruptions. Nominal totals are library/calendar capacity,
+not guaranteed instructional time. The weekly program has more practice time;
+equal mastery in half the time is not assumed.
 
 The audited weekly Year B tracks for Grades 3-4 and 5-6 represent **33
 meetings**, or **1,320 and 1,485 minutes**, respectively. Their units include

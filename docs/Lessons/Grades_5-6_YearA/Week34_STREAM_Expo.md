@@ -97,3 +97,30 @@ Save individual evidence, return exhibits safely, record deferred event/checks.
 revised. **Learned:** evidence and limits matter. **Catholic connection:** gifts
 for service. **Ask:** "Which result supports your choice?" Describe Expo as held
 only if it occurred. Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the 45-minute evidence-display rehearsal and separately gated Expo.
+
+### Student material and evidence
+
+- **Printable/no-print material:** Caption/defense frame **purpose | tested choice | actual result+unit | change | limit | resource/reuse decision | reader question | old/new caption | access option** plus adult event checklist. Board copy is identical.
+- **Expected evidence/key:** Use actual artifact/raw record or label invented practice. Practice answer: readability 1/3→3/3 at same 1 m, improvement two successful trials, not universal access. Require 90-second defense, specific question-driven caption revision and resource reason; event/award is not evidence.
+- **Worked example, finished example, and visual example:** Display and mark up “my label was accessible” into the practice wording, adding untested users/contexts. The finished non-build exhibit is artifact/practice record, old/new readable caption and seated explanation. Expo remains N/A unless principal date, room/egress/access, adult hosts, visitors/media and invitations are approved.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Post **actual/invented | decision | result | limit | question | revision | reuse**, 60-75 minute optional event gate and no-live-demo rule. Ask what was measured, which claim is too large and why reuse display. Misconceptions: celebration/attendance proves mastery; failed model cannot exhibit; polished caption replaces raw result.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **STREAM EXPO—W34—RAW EVIDENCE + OLD/NEW CAPTION / PAPER ONLY**. Return portfolios/exhibits, count/cap ruler-markers, store two caption sheets/pupil and event checklist; confirm table/chair stock separately. Mark missing result/question/revision/defense; use labeled practice or resume that item—never invent personal achievement/event occurrence.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box 1/3→3/3 at 1 m, underline larger-text decision, circle added “tested with three peers only” and reuse choice. Missing units/denominator is recording gap; universal claim is scope error; no personal artifact is not failure when practice is labeled. Reteach by marking purpose/result/limit on practice, answer one reader question, revise one sentence.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Classroom rehearsal is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25** seated. Approved Expo crowding/egress is **serious severity / possible likelihood** without controls; use at least **1 adult per room plus 1 adult per active visitor route**, secure capacity/egress approval, and stop rotation if crowded. No live chemical or powered demonstrations are permitted. **Print/accessibility check:** verify captions are ≥18 pt, high contrast, with no color-only meaning; provide seated/quiet, oral/drawn/scribed options and accessible routes. Record the Expo as held only after it occurs.
+- **SDS/product gate: HOLD — school-approved classroom marker.** The exact marker product and manufacturer are not specified. The [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product; do not issue this marker or substitute another marker until the school safety lead approves the exact product and its current SDS.

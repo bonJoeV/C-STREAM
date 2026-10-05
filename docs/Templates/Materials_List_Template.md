@@ -25,6 +25,15 @@ Separate optional purchases and existing inventory assumptions.
 - **SAFETY/cautions:** [Ages, small parts, allergies, damage, stop/escalation.]
 - **Replenishment per meeting/cohort/year:** [Measured or explicitly estimated.]
 - **Storage/label:** [Drying, battery removal, counted compartments, OUT OF SERVICE.]
+- **Vendor-neutral specification:** [Safety, learning purpose, durability,
+  dimensions/capacity, compatibility, power and age guidance.]
+- **Example vendor/product/date:** [Optional example, not an endorsement;
+  quote/price date and typical lead time.]
+- **Replacement cycle/class:** [Consumable / durable / reusable likely to wear /
+  optional enrichment; annual loss/breakage reserve.]
+- **Adult setup/maintenance/calibration:** [Exact recurring task and time.]
+- **Substitution rule:** [Preserve safety, purpose, durability, size/capacity,
+  compatibility and reasonable total cost; pretest the equivalent.]
 - **Budget arithmetic:** [Quantity x cost; goods subtotal; tax assumption;
   shipping; annual consumables included; durable replacement reserve; total.]
 - **Use count evidence:** [Verified named lesson references OR explicitly

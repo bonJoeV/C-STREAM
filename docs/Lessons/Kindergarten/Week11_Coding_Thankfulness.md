@@ -81,3 +81,7 @@ If setup fails, return to paper and mark execution unassessed.
 
 **Family:** We communicated thanks and corrected picture instructions.
 Ask, "Which card did you change?" No home app, purchase or routine homework.
+
+## Teacher artifacts
+
+See the [Week 11 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-11--coding-thankfulness).

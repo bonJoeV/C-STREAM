@@ -23,7 +23,7 @@ CST-M1 whole-cm results. Official alignment **VERIFICATION REQUIRED**.
 Technology **None**; developing, novice fold shown. Prep 20 plus approved space;
 cleanup 5 each. No four-category finals, ratios or required averages.
 
-## Before class and exact supplies
+## Before class / supplies
 
 Teams <=3 (4/5/7/9). Per team/unit: three identical paper sheets (versions),
 ruler. Per pupil: three evidence sheets/pencil. Class: one metric tape and
@@ -46,7 +46,9 @@ fold matching wings down. Teacher checks nose and symmetry.
 | Class measuring tape (fixed) | 1 | 1 | 1 | 1 |
 | Class floor tape (fixed cm) | 200 | 200 | 200 | 200 |
 
-## Vocabulary/background/SAFETY
+## SAFETY
+
+**Background, vocabulary, and troubleshooting:**
 
 Lift/drag = aerodynamic forces; gravity = downward attraction; trial = repeat;
 criterion = desired result. After hand release, no engine thrust. Distance
@@ -88,7 +90,7 @@ report hazards. One team active, others seated with records.
    recognize careful tests, not four serial category awards.
 6. **35-40:** Count/store paper/rulers, remove approved tape, archive dated data.
 
-## Success/access/troubleshooting
+## What success looks like
 
 Meets: nine readings, clear version change/controls and evidence-supported
 recommendation. Grade 3/support: precreased starter/oral counts. Grade
@@ -101,3 +103,21 @@ model only; flight evidence not observed. No unsafe winter outdoor flight.
 
 **Family:** We compared repeated glider tests. Ask, "What stayed the same across
 versions?" Optional: explain the force arrows, no home launches required.
+
+## Teacher artifact pack
+
+- **Student design-and-test folio (print/no-print):** Provide three dated pages, one per version, with `Name/team`, `Version 1/2/3 sketch`, `Blunt nose check`, `Feature changed from prior version`, `Controls: paper / launcher / height / lane`, `Prediction`, `Trial 1/2/3 distance to first contact (nearest 10 cm)`, `Shortest`, `Longest`, and `What the three trials support`. The final page adds `Recommended version`, `Evidence`, and `Limit`. If not printed, pupils rule these exact fields on three plain sheets.
+- **Evidence and acceptable conclusions:** A complete folio has nine actual readings with `cm`, one documented feature change for versions 2 and 3, and controls named. Accept a recommendation for any version when repeated values support it; accept “no clear winner” when ranges overlap. A 2 m result is recorded as `200 cm cap reached`, not as a longer guessed distance. A shorter flight remains valid evidence.
+- **Worked finished example:** `V1: 120, 140, 130 cm; V2 wider wings: 150, 160, 150 cm; V3 wing tips up: 140, 170, 130 cm. Recommend V2: its shortest flight (150 cm) exceeded V1's longest (140 cm), and V2 was less variable than V3. Limit: launch force varied.` Annotate each changed feature once, bracket each shortest/longest pair, and cross-reference the recommendation to V2's three readings rather than its single best flight.
+- **Board/visual preparation:** Display the six fold steps as numbered line drawings, a bold `2 m LOW-FLIGHT LANE` plan, the first-contact measurement point, and a matrix with versions in rows and trials in columns. Add `CHANGE ONE FEATURE` over a T-chart labeled `kept same / changed`; post stop, launch, and retrieve symbols at the lane.
+- **Discussion questions and corrections:** “Why not choose the 170 cm flight alone?” (one trial may be atypical), “What did V2 change?” (one named wing feature), “What evidence would make ‘V3 is always best’ too strong?” (its 130 cm result and only three trials), and “Does distance tell us lift directly?” (no). Correct the belief that changing many folds produces a fair redesign; unidentified simultaneous changes prevent attributing the result.
+- **Kit, exact label, and reset:** Per team: `3 identical build-paper sheets + 1 metric ruler`; per pupil: `3 evidence sheets + 1 pencil`; class: `1 metric measuring tape + 200 cm floor-safe tape + timer`. Label each flat storage sleeve `W04-06 | assigned team ID | V1 V2 V3 | DO NOT CRUSH`; label the lane kit `PAPER AIRPLANE | 2 m | BLUNT ONLY`. After each meeting, nest versions without refolding, return ruler, roll measuring tape, remove/replace approved floor tape as the room requires, and count 4/5/7/9 sleeves.
+- **Unfinished work:** Mark the folio with the exact next action (`build V2`, `run V3 trials`, or `write evidence comparison`) and store all versions in the matching sleeve. Give the team its next one-minute lane slot at the following meeting; do not estimate missing distances, merge data from different launchers, or assign home launches.
+- **Annotated error interpretation/reteach:** Label a sharp nose `safety—not testable`; mixed paper sizes `material control changed`; measuring the final slide `wrong endpoint—use first contact next trial`; only best scores copied `selection bias—restore all readings`. Reteach by having pupils sort sample cards into `change`, `control`, and `result`, then model one gentle launch and jointly fill all cells for that trial.
+- **Safety and supervision:** Severity **moderate** (eye strike, collision, or trip in an active lane); likelihood **unlikely** with blunt paper models and controlled retrieval. Required adult ratio is **1 adult to no more than 9 teams/25 pupils**, controlling the single active 2 m lane; only one team moves into the lane during its slot. Stop for through-traffic or damaged tape. The floor-safe tape is a commercial floor-marking tape article; record the exact manufacturer/product in [Safety_Data_Sheet_Register.csv](../../Review/Safety_Data_Sheet_Register.csv). Keep that product **ON HOLD** until school approval and SDS applicability are resolved.
+- **Print accessibility:** Print at 14-point minimum with thick version tabs, repeated units beside every trial field, and symbols plus words for launch/retrieve. Offer precreased starters, large-print tables, oral recording, a scribe, and seated teacher-launch participation. Confirm a grayscale sample distinguishes versions by `V1/V2/V3`, not color, and that each data cell fits `200 cm`.
+- **Student material:** Student material: give each pupil three dated version pages with the blunt-nose check, changed feature, controls, three distances in `cm`, shortest/longest values, recommendation, evidence, and limit.
+- **Board setup:** Board setup: display the numbered fold drawings, 2 m low-flight lane, first-contact measurement point, and V1/V2/V3 trial matrix beneath `CHANGE ONE FEATURE`.
+- **Kit label:** Kit label: mark each flat sleeve `W04-06`, the school-assigned team identifier, `V1 V2 V3 | DO NOT CRUSH`; mark the lane kit `PAPER AIRPLANE | 2 m | BLUNT ONLY`.
+- **Annotated exemplar:** Annotated exemplar: on the completed V1/V2/V3 flight log, mark each sole feature change, bracket every shortest/longest pair, and connect the recommendation to all three V2 readings rather than its best flight.
+- **Print/accessibility check:** Print/accessibility check: print the black-and-white version record at 100% with at least 14-point text, thick V1/V2/V3 tabs, repeated `cm` units, and large response boxes for drawing or dictation.

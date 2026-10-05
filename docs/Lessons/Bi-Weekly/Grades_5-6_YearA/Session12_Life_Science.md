@@ -88,3 +88,17 @@ Keep individual pairing/cell evidence, count tools, log reteaching.
 
 **Previous:** [Lenten Engineering](./Session11_Lenten_Engineering.md)
 **Next:** [Easter Technology](./Session13_Easter_Tech.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Supply/board-copy typical cell reference and `ATCGTAAC -> ________`, with prompts `four shared parts/functions / plant differences / exception / model limit`. Exact complement is `TAGCATTG`; accept 7/8 only when the error is corrected. Shared labels are membrane, cytoplasm, nucleus and mitochondria.
+- **Worked example and finished example:** Work A→T, T→A, C→G, G→C for the first four. Finished sheets show a typical animal cell, wall/chloroplast/large vacuole as typical plant additions, all eight pairs, and limits `2D/not to scale; bacteria lack nuclei; mature human red blood cells lack nuclei/DNA`. This is a non-operational model, so a physical “build test” is **N/A**; completion is reference-checked accuracy and revision.
+- **Board setup:** Draw `TYPICAL ANIMAL | TYPICAL PLANT | EXCEPTIONS`, pairing key A-T/C-G, eight numbered positions and `MODEL SHOWS / OMITS`.
+- **Questions/misconceptions:** Ask “What pairs with C?” (G), “Does every cell have a nucleus/DNA?” (no), “Does every plant cell photosynthesize?” (no), “Is DNA literally a flat ladder?” (no). Distinguish biology models/natural renewal from proof of Resurrection.
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Cell/DNA Models kit: two paper model/evidence sheets and pencil per pupil; cardstock base, reference sheet, ruler and marker per team; teacher board/clock/roster. **Kit label:** `G5-6 YA S12 — CELL/DNA MODELS — ATCGTAAC KEY`. Reset by counting references/tools, capping markers, sorting paper and filing both corrected sheets. **Unfinished work directions:** mark the last verified DNA base or cell label, store loose cards with that pupil's sheet, and resume from the printed pairing/reference key.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `ATCGTAAC -> UAGCAUUG` as `RNA letter U used; this task is DNA, use T`; box correct pairs, underline first mismatch, circle correction. **Common error interpretation:** using U shows an RNA/DNA alphabet mix-up, not inability to apply complementary pairing. Reteach with four pairing cards, rebuild positions 1-4, then check all eight without erasing the first attempt.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gate, and Print/accessibility check:** Severity **low**, likelihood **rare** for dry paper. Adult ratio **1:25**. No sampling, cultures, alcohol, food or slides are used. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv), use its CONTROL-ROW, and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** use 14-point high contrast, shapes plus letters, preoutlined cells/tactile cards, read aloud and oral/scribed answers.

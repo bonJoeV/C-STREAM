@@ -95,3 +95,7 @@ an unsafe real-person challenge.
 **Family:** We planned a desk model, moved two empty cups and retested one
 change. Ask, "What did your test show?" Models are not real assistive devices;
 no homework, donation or home testing.
+
+## Teacher artifacts
+
+See the [Weeks 7-9 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-7-9--engineering-helpers).

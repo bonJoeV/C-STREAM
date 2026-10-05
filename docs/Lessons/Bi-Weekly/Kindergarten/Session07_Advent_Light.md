@@ -68,3 +68,41 @@ No precut stars/glue: teacher draws a five-point symbol; pupils count/represent
 with crayons, same objective. Indoors; no night visit or household supply.
 **Family:** We counted a symbol's points and chose how it communicates kindness.
 Ask, "Why did you put that shape there?" No routine homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print paper, crayon, five large five-point stars, and shared glue stick; teacher draws a replacement if needed.
+
+**Evidence and answer guidance:** Record point count, purposeful placement, and kind recipient/action separately. The paper star is a symbol, not a light source.
+
+**Worked example:** Count five points, place the star for a partner to notice, and explain the kind action or recipient it represents.
+
+**Finished example:** Dated sheet has a star arrangement, five points indicated, and a spoken or dictated kindness meaning.
+
+**Visual example:** Show a large paper star beside a light-source sketch labeled “symbol” versus “source.”
+
+**Board setup:** Draw/count a five-point star and make “symbol can show” and “source makes light” columns.
+
+**Expected discussion responses:** “It has five points”; “I put it there so someone notices”; “Paper reflects light”; “A real star makes light.”
+
+**Kit contents and label:** Five paper stars, sheet, crayon, and glue stick; label “five-point kindness symbol.”
+
+**Cleanup/reset:** Count unused stars, cap glue, retain evidence, return crayons, and clear paper scraps.
+
+**Unfinished work:** Keep placement and record the count orally or by pointing; a glued display is not required.
+
+**Common misconceptions:** Shiny paper does not make light; a symbol is not a source; design is not a spiritual-maturity score.
+
+**Annotated exemplar:** Five points are marked, placement circled, and a kind meaning dictated without private details.
+
+**Common error interpretation:** If paper is called a light source, compare it with the source/symbol board and ask what produces light.
+
+**Reteaching option:** Count one tactile star and choose between two placements before explaining the kindness.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely after controls. Seated paper/glue activity only; no glitter, sequins, flame, button-cell candle, Sun viewing, or dark movement.
+
+**Adult supervision ratio:** Teacher supervises seated glue use and counting with shared supplies.
+
+**SDS/product gate:** The exact school glue-stick brand/product remains **HOLD** in the [SDS register](../../../Review/Safety_Data_Sheet_Register.csv) until its current manufacturer SDS and school approval are recorded; introduce no unlisted product or flame.
+
+**Print/accessibility check:** No printing; use large stars, high contrast, tactile points, pointing, and scribing.

@@ -14,9 +14,10 @@ planning and collaboration of the earlier format; use the
 | Field | Fill in |
 |---|---|
 | Title, grade(s), rotation A/B, weekly/bi-weekly | [ ] |
-| Number of meetings and calendar dates | [Count meetings, not filename/week ranges] |
+| Number of meetings, total minutes and calendar dates | [Count meetings, not filename/week ranges; fit the time baseline] |
 | Native period | [K 25 / 1-2 30 / 3-4 40 / 5-6 45 minutes] |
-| Central question; big idea; why learn this? | [Everyday, vocation or service relevance] |
+| Enduring understanding and essential questions | [What should transfer beyond the activity?] |
+| Observable end performance | [What can students do at the end that they could not do at the start?] |
 | Learning objectives and prerequisites | [O1/O2 with observable end evidence; prior/next learning] |
 | Catholic identity C; religion/faith integration R | [Dignity/stewardship/truth informs choices; sourced explicit reflection] |
 | Science S; technology T; engineering E | [Student actions; devices only when useful] |
@@ -24,6 +25,9 @@ planning and collaboration of the earlier format; use the
 | Local/official standards | [Local codes from Local Standards; official sources/status separately] |
 | Technology Requirement per meeting | [None / Optional / Recommended / Required + reason] |
 | Difficulty; teacher prep; cleanup; storage | [Exact minutes, reusable kit/location and between-meeting drying/holding] |
+| Calendar placement and seasonal constraints | [Indoor route; actual liturgical/school dates] |
+| Vocabulary introduced / reinforced | [Separate lists] |
+| Culminating assessment | [Individual evidence plus any team product] |
 | Source questions | [URL/section/status; VERIFICATION REQUIRED where unresolved] |
 
 ## Integration and evidence map
@@ -41,6 +45,10 @@ Distinguish belief/ethical purpose from empirical evidence.
 
 ## Meeting plan
 
+Meetings must be ordered. Explain below why each meeting depends on the one
+before it; if order does not matter, redesign the unit around a shared question,
+skill, project, or assessment.
+
 | Meeting and linked lesson | Objective/prerequisite | Vocabulary/background/misconception | Build/test/redesign or investigation | Individual check | Family copy |
 |---|---|---|---|---|---|
 | 1. Launch/wonder | [ ] | [ ] | [ ] | [Baseline demonstration] | [ ] |
@@ -51,12 +59,17 @@ Use the native timing table in the [lesson template](./Lesson_Plan_Template.md).
 Do not squeeze a 60-minute commercial-kit meeting into 25 minutes by deleting
 testing, assessment or cleanup; split it and record the actual meeting count.
 
+**Why this order matters:** [Specific dependency from observation/prerequisite
+through investigation, revision and transfer.]
+
 ## Unit materials, logistics and safety
 
 Complete the [materials list](./Materials_List_Template.md): per student/team/
 class/teacher, consumables, 10/15/20/25 quantities, test loads and reserves,
 normalized IDs, cost, kit contents, prep test, replenishment, bins/labels.
 Plan for nine teams at 25; include individual turns and safe traffic.
+Add exact kit label text, issue/return counts, reset, unfinished-work location,
+replacement/charging/drying, and consolidated recurring cost.
 
 **SAFETY:** [Hazards, allergy/sensory checks, teacher-only tasks, stop/escalation.]
 No button cells, latex balloons or projectiles. No neodymium magnets in K.
@@ -86,7 +99,9 @@ or drinking-water solutions; actual deployment needs responsible adult review.
 
 ## Family communication and reflection
 
-Send one [unit newsletter](./Family_Newsletter_Template.md) at launch and
+**Family summary:** [Plain-language skills, standards status, Catholic
+through-line, evidence and optional no-purchase question.] Send one
+[unit newsletter](./Family_Newsletter_Template.md) at launch and
 completion; send an additional update if safety, schedule or objective changes.
 All required work occurs in school. Activities at home are optional, no-purchase
 and ungraded. Record actual outcomes, supply consumption, source questions,

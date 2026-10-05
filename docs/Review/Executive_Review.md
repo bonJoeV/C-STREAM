@@ -5,6 +5,12 @@ description: "A complete written K-6 program with verified sources, explicit evi
 
 # Executive curriculum review
 
+> **Release terminology (October 5, 2026):** historical references on this page
+> to a "complete package" mean a revised lesson pathway. The expanded
+> [teacher-artifact audit](Teacher_Artifact_Readiness.md) supersedes that phrase
+> and now records complete repository artifact coverage for all 251 lessons.
+> School-controlled classroom/substitute release checks remain required.
+
 **School:** Our Lady of the Prairie, Belle Plaine, Minnesota; Archdiocese of
 Saint Paul and Minneapolis. **Planning year:** 2026-27.
 **Review/completion work:** October 4, 2026.

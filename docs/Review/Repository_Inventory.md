@@ -11,9 +11,39 @@ This inventory records the existing organization before curriculum changes.
 The review preserves the weekly/bi-weekly options, combined-grade rotations,
 existing URLs, and the school's 25/30/40/45-minute periods.
 
+The current one-row-per-artifact reconciliation is generated in
+[Curriculum Artifact Inventory](Curriculum_Artifact_Inventory.csv). It includes
+curriculum, review, data, templates, resources, scripts and discovered publishing
+support with an inclusion/exclusion rationale, audit status and resulting action.
+Run `.\scripts\Build-OperationalAudit.ps1` after adding or removing an artifact;
+silent files and hand-edited totals are not accepted.
+
+`.\scripts\Build-OperationalAudit.ps1 -ValidateOnly` is the freshness gate:
+it compares the generated rows with the current script output and rejects an
+audit CSV when an input lesson, lesson map, materials inventory, or the audit
+script is newer than that CSV. Regenerate from the script rather than editing
+`Curriculum_Artifact_Inventory.csv`, `Teacher_Artifact_Audit.csv`, or
+`Procurement_Register.csv` by hand.
+
+## Current reconciliation
+
+| Exclusive disposition | Count |
+|---|---:|
+| Included curriculum/review/operations artifacts | 394 |
+| Reconciled publishing/repository-support exclusions | 9 |
+| **Discovered and reviewed total** | **403** |
+| Duplicate rows | 0 |
+| Unresolved inventory identity | 0 |
+
+The exclusive disposition arithmetic is **394 + 9 = 403**. Separately, all 251
+included lesson plans pass the expanded repository teacher-artifact check; this
+is a quality state within the included set, not an extra inventory row. The
+[teacher artifact audit](Teacher_Artifact_Audit.csv) records the per-lesson
+evidence. School release remains a separate local gate.
+
 ## Curriculum assets
 
-The documentation tree contains **307 Markdown documents**, including **251
+The documentation tree contains **351 Markdown documents**, including **251
 lesson documents** and supporting resources. A document is not necessarily a
 single class meeting: weekly filenames sometimes cover several weeks.
 
@@ -41,9 +71,9 @@ Holiday weeks and multi-week units require a separate pacing check.
 | Publishing | `mkdocs.yml`, overrides and stylesheets | MkDocs Material site, print compilation and GitHub Pages workflow. |
 | Generated output | `site/`, `.cache/` | Not authoritative curriculum; do not edit generated pages to change lessons. |
 
-There are no tracked curriculum-generation scripts, automated curriculum tests,
-structured lesson database, or standards/materials CSVs in the baseline.
-The existing dependency manifest supports documentation publication.
+There were no tracked curriculum-generation scripts, automated curriculum tests,
+structured lesson database, or standards/materials CSVs in the **baseline**.
+Those were added by the review and are now reconciled in the current inventory.
 
 ## Initial evidence, not conclusions about every lesson
 

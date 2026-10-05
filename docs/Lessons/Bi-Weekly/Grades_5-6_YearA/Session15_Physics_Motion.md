@@ -89,3 +89,17 @@ reasoning. **Ask:** "What did your distance not measure?" No routine homework.
 
 **Previous:** [Sphero Challenge](./Session14_Sphero_Challenge.md)
 **Next:** [Advanced Invention](./Session16_Advanced_Invention.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Give/board-copy six rows for three releases at each actual 3/6 cm ramp height (`distance cm / valid? / control note`) plus two-object force-arrow frames. Complete evidence records six measured values with cm, same ball/release/surface, one comparison/limit, and equal/opposite forces on different objects.
+- **Worked example and finished example:** Demonstrate fictional row only: 3 cm results 12/14/13 and 6 cm 19/21/20, means 13/20 if taught, clearly labelled not class measurements. Finished actual record uses observed values; diagram pairs `Earth pulls ball / ball pulls Earth` or `foot pushes ground back / ground pushes foot forward`, and states stopping distance did not measure acceleration.
+- **Board setup:** Post `HEIGHT | TRIAL 1 | 2 | 3 | COMPARISON | CONFOUND`, ruler zero/release point and separate boxes `force on object A / force on object B`. Mark >15 cm prohibited.
+- **Questions/misconceptions:** Ask “Which object receives each force?” (different objects), “Did distance measure acceleration?” (no time/velocity), “Does steeper make gravity stronger?” (weight essentially same; downhill component changes), and “What else affects stop?” (friction/release/surface).
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Motion Models kit: evidence/pencil per pupil; low cardboard ramp, soft ball, 60 cm tray, ruler, force sheet, two stable books and 0.2 m tape per team; teacher board/clock/roster. **Kit label:** `G5-6 YA S15 — MOTION MODELS — 3/6 cm, 60 cm TRAY`. Reset by retrieving balls, stacking supports, removing tape, drying/storing ramps and filing actual/fictional-labelled records. **Unfinished work directions:** mark the last valid trial, retain its ramp height and release settings, and resume only the missing trial; never substitute a wall-hit or fictional value for a measurement.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate two arrows both on ball as `balanced-force drawing, not third-law pair`; box measured cm, underline receiving objects and circle corrected Earth arrow. **Common error interpretation:** a wall hit is invalid, not a long distance. Reteach with named object cards, adult-stabilized ramp and one controlled roll.
+
+## SAFETY
+
+- **Safety classification, Adult supervision ratio, SDS/product gate, and Print/accessibility check:** Severity **moderate** and likelihood **unlikely**; adult pretests that the ball stops in the tray and stops unstable supports/wall hits. **Adult supervision ratio: 1 adult:25 pupils**, directly monitoring all active lanes; teams ≤3. **SDS/product gate: HOLD — masking/painter tape (TAPE).** The exact product/manufacturer is not specified; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv). Do not issue or substitute tape until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** use large high-contrast tables/arrows, tactile ruler guide, seated observer/recorder and oral/scribed responses.

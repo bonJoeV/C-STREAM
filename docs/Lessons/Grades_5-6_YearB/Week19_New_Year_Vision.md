@@ -83,3 +83,16 @@ Teacher retains plans and actual/practice labels, records needed checks.
 **Explored:** evidence-based planning. **Did:** charted milestones/buffer.
 **Learned:** plans need contingencies. **Catholic connection:** stewardship.
 **Ask:** "What result started your plan?" Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Prompt/evidence:** Use actual artifact or labeled practice baseline `label found 1/3; target 3/3`. Students chart three milestones and `design 6 + make 10 + test 9 + buffer 5 = 30`, dependency, five-minute delay response, one-sheet constraint, and reuse tradeoff.
+- **Visual example / worked/finished example:** Selected layout 0-6, draft 6-16, three checks 16-25, buffer 25-30; making takes 15, so buffer is consumed. Finished plan links observed baseline to criterion and defers a feature if delay exceeds five minutes; confidence alone is not evidence.
+- **Board setup / expected discussion responses:** Timeline 0/6/16/25/30 and `BASELINE|MILESTONE EVIDENCE|DEPENDENCY|CONTINGENCY`. Correct “vision is self-rating,” milestones without checks, and invented calendar promises.
+- **Kit contents / Kit label / reset / unfinished:** Per tool team: one ruler and one reference sheet; per student: one portfolio or labeled practice card, two paper goal/chart sheets, pencil, and journal. **Kit label:** `EVIDENCE PLANNING—W19—6+10+9+5=30 MIN/3 MILESTONES—student ___`. Return the ruler/reference sheet and file the plan beside its baseline record. Mark the last totaled interval and next dependency; no fabricated completion.
+- **Annotated exemplar / common error interpretation / reteach:** Box 1/3→3/3 and total 30, arrows for dependency, circle contingency. Total 35=arithmetic/scope error; personal goal disclosure=boundary error. Rebuild timeline with six/ten/nine/five strips and recompute.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / access:** Physical **low/unlikely**; privacy **moderate/possible** for grades, health, or faith goals. **Adult supervision ratio:** one adult/class, teams ≤3. Print 100%, ≥12-point/high contrast with spacious boxes; offer a preprinted timeline, oral/scribed explanation, or large print. Do not require personal/spiritual goals or publicly rank plans.

@@ -90,3 +90,18 @@ the kit was ready?" No routine homework or compulsory family service.
 
 **Previous:** [Environmental Science](./Session10_Environmental_Science.md)
 **Next:** [Life Science](./Session12_Life_Science.md)
+## Teacher artifact pack (release checklist)
+
+- **Student prompt/evidence (print/no-print):** Give/board-copy the teacher request and checklist `3 blank sheets / 1 ruler / folder / RETURN RULER—KEEP YOUR WORK label / peer found return action / teacher accepted or deferred / outcome unknown`. Individual evidence gives criterion, constraint, inventory, handoff status and consent/access limit.
+- **Worked example and finished example:** Work a kit missing one sheet: inventory fails, add the third sheet, then peer reads the return action. Finished accepted kit contains exactly three sheets, ruler, folder and clear label; log says `delivered to designated table and accepted; use or improved learning not yet known`. If teacher cannot consent/store, finished tabletop prototype is explicitly `delivery N/A/deferred`.
+- **Board setup and visual example:** Post `REQUEST | INVENTORY | PEER HANDOFF TEST | REVISION | ACCEPTED/DEFERRED` and distinguish `OUTPUT: delivered kit` from `OUTCOME: later effect`. Display one complete and one missing-sheet kit as the visual example for inventory checking.
+- **Expected discussion responses and misconceptions:** Ask “Was recipient asked?” (teacher consent required), “Is this delivered or planned?” (use actual status), “Do nine kits prove learning?” (no), “What follow-up could help?” (anonymous usability check). Expected discussion responses are those status/consent distinctions; correct counts as people helped.
+
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Service Handoff kit: evidence/pencil per pupil; three blank sheets, cardstock label, folder, ruler and marker per team; teacher acceptance checklist/board/clock/roster. **Kit label:** `G5-6 YA S11 — SERVICE HANDOFF — 3 SHEETS/1 RULER/RETURN LABEL`. Reset by placing accepted kits on approved table, counting deferred tools/folders, capping markers and filing acceptance logs. Unfinished kits are labelled with missing inventory/test step and stored—never reported delivered.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `helped nine students` with `outcome not observed`; box checked inventory, underline accepted/deferred status and circle peer-found label. **Common error interpretation:** counting kits as people helped confuses an output with an unobserved outcome. Reteach by comparing one complete/incomplete kit, rerunning the no-coaching handoff, then recording the real status.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gate, and Print/accessibility check:** Severity **low**, likelihood **rare**; no food/clinical gifts, donations, off-site visit or private data. Adult ratio **1:25**. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv), use its CONTROL-ROW, and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** print action label in large high-contrast type, use icon plus words, read aloud and allow scribing/prepared label frames.

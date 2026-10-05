@@ -58,9 +58,10 @@ because its CSV says `improved` or `rebuilt`.
 ### Classroom improvements
 
 **Autonomous second pass:** all 29 remaining K documents were rebuilt.
-All 37 K files are complete conditional references, with frozen baseline
-judgments retained. This closes the K document-package backlog, not local
-safety/source approvals or classroom certification.
+All 37 K files have revised conditional pathways with frozen baseline judgments.
+The expanded [teacher-artifact audit](Teacher_Artifact_Readiness.md) now
+separately holds missing lesson-specific artifacts; revision status is not
+classroom certification.
 The pass adds dated weather comparisons, requested book criteria/tradeoffs,
 hypothetical privacy/adult-help checks, implemented individual evidence and
 single non-conflicting procedures. It also expands the material catalog from
@@ -113,8 +114,8 @@ Local safety, accommodation, consent and account policies still apply.
 ## Final completion gate
 
 Do not label the entire program "substitute-proof" until every **scheduled**
-core lesson has passed the document/kit walkthrough and classroom pilot.
-The written package queues are closed; this gate refers to real local release
-evidence, not another unimplemented lesson-outline backlog.
+core lesson has cleared its artifact row, document/kit walkthrough, and
+classroom pilot. Lesson prose revisions are complete; teacher artifacts and
+local release evidence are not.
 The [seven simulations](Validation.md) are necessary desk checks; actual
 student learning and classroom timings need observed evidence.

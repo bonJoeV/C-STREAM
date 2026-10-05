@@ -84,3 +84,29 @@ Keep individual captions/results, report unassessed pupils; reuse display backs.
 **Explored:** evidence communication. **Did:** shared an artifact and revised
 a caption. **Learned:** results need limits. **Catholic connection:** encouragement
 and inclusion. **Ask:** "Which question improved your caption?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for an individual artifact caption, seated evidence explanation and reader-driven revision.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** Frame **artifact/title | decision | result+unit | cannot show | reader question | old/new wording | access choice**. Require actual record or labeled practice; effort/award alone is not evidence.
+- **Worked example, finished example, and visual example:** Display and mark up “folded was stronger” into “flat stopped at 20 g; folded held 40 g over 15 cm; same paper; breaking strength not measured.” The finished non-build product is old/new caption, source artifact/practice card and seated/oral/drawn explanation.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Post **decision | result | limit | question | revision**, 20/40 g record and “20 g more demonstrated, not doubled maximum.” Ask which number supports, what was untested, and quiet-presenter access. Misconceptions: polish/confidence/award is evidence; failed model erases learning; practice data is personal achievement.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **PORTFOLIO SHARING—W13—OLD/NEW CAPTION + RAW RESULT**. Return portfolios, count/cap ruler-markers and file both captions. Mark missing result/question/revision; use labeled practice or resume that step, never invent achievement.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box 20/40 g and 15 cm, underline fold decision, circle added “breaking strength not measured” after “maximum?” A number without units is recording gap; “successful” lacks a test; anxious delivery is not content failure. Reteach by marking decision/result/limit, rehearse with teacher, answer one question.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Seated paper sharing is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**; no live equipment, food, crowding, photos or compelled speech. **Print/accessibility check:** verify the frame is ≥16 pt/high contrast; allow seated partner/teacher, oral, drawn or scribed defense.
+- **SDS/product gate: HOLD — school-approved classroom marker.** The exact marker product and manufacturer are not specified. The [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product; do not issue this marker or substitute another marker until the school safety lead approves the exact product and its current SDS.

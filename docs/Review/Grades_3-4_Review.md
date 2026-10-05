@@ -1,5 +1,10 @@
 # Grades 3-4 C-STREAM review: repository completion
 
+> **Release terminology (October 5, 2026):** "complete package/reference" below
+> means a revised lesson pathway. The expanded
+> [teacher-artifact audit](Teacher_Artifact_Readiness.md) separately controls
+> classroom/substitute release and currently holds every lesson.
+
 **Review date: October 4, 2026.** This follow-up owns only the four Grades 3-4
 lesson directories, their four indexes, [the band audit](Grades_3-4_Audit.csv)
 and this review. The parent-authorized arts follow-up also adds

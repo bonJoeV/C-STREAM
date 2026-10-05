@@ -72,3 +72,41 @@ actual-weather evidence. Do not infer wind/temperature from a picture.
 The whole primary pathway stays indoors in Minnesota winter.
 **Family:** We compared two labeled observations, including no change.
 Ask, "What did your record show, and was it a prediction?" No routine homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print two-row record sheet, crayon, three large sky symbols, and an indoor sky view; adult may scribe observer/time.
+
+**Evidence and answer guidance:** Label observer/time for each actual record and separate observation from prediction. If unavailable, use clearly labeled model data and defer actual evidence.
+
+**Worked example:** Choose the card matching the first indoor sky view, label it, then compare with the second labeled record at 17-21 minutes.
+
+**Finished example:** Two rows show source/time, selected symbols, and a same/different feature without a forecast claim.
+
+**Visual example:** Use mostly clear, partly cloudy, and mostly covered cards; mark visible sky, not room temperature.
+
+**Board setup:** Draw two dated rows and a same/different column; add “prediction is not observation.”
+
+**Expected discussion responses:** “I observed this at ___”; “The records are same/different”; “This does not tell tomorrow.”
+
+**Kit contents and label:** Three large sky symbols and record sheets; label “actual sky record—observer/time.”
+
+**Cleanup/reset:** Save records, collect symbols/crayons, and clear the indoor observation area without climbing.
+
+**Unfinished work:** Keep first labeled observation and mark second pending/model data; do not invent earlier weather.
+
+**Common misconceptions:** Favorite-weather drawing is not data; room temperature is not outdoor air; two records do not forecast.
+
+**Annotated exemplar:** Observer/time is labeled, cloud card selected, same/different noted, and forecast limit stated.
+
+**Common error interpretation:** Ask “Who observed this and when?” when a prediction is offered, and record the distinction.
+
+**Reteaching option:** Compare two teacher-labeled cards, then repeat with the child’s current indoor observation.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Indoor observation only; no outdoor exposure, Sun viewing, window climbing, or forced sensory task.
+
+**Adult supervision ratio:** Teacher supervises the sky view, source/time labels, and individual comparisons.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use school-approved paper, cards, and crayons.
+
+**Print/accessibility check:** No printing; use large cloud cards, tactile shapes, oral response, and scribing.

@@ -78,3 +78,7 @@ Teacher records shape identification (three targets) and pattern extension (two 
 ## Optional family snippet
 
 We distinguished flat circles from solid spheres and designed patterns a partner could read. Ask: "What comes next in your pattern, and why?" Pi was optional adult context, not a memorization task. No homework.
+
+## Teacher artifacts
+
+See the [Week 28 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-28--circles-and-pi).

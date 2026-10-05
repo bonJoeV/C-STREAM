@@ -137,3 +137,18 @@ Count tokens/tools, save individual logs/actual tests, reuse cardboard.
 and tested workflow. **Learned:** access has costs and outputs aren't outcomes.
 **Catholic connection:** dignity/solidarity. **Ask:** "Why did the free cards
 still cost money?" No routine homework or real enterprise claim.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Provide enterprise packet, A/B budget, 12 tokens, and six-token route. Required: A revenue $12/cost $7/surplus $5; B $6/$7/−$1; 10 cards=25 min, 12=29; baseline/retest routes and fair-access/untested-outcome pitch.
+- **Visual example / worked/finished example:** Route `PAID BOOK, FREE ART, PAID ART, FREE BOOK, PAID BOOK, PASS`; five requests plus PASS correct. Revise confusing pickup label, retest unchanged tokens. Finished counter/pitch separates outputs from social impact and says free cards still cost $0.50 variable resources.
+- **Board setup / expected discussion responses:** `revenue-cost=surplus`, scenarios A/B, `order→choose→pickup`; ask free cost/routing impact/four payers. Correct “sale automatically helps,” “surplus=impact,” and “forecast=demand.”
+- **Kit contents / Kit label / reset / unfinished:** Per team: one 12-token cardstock sheet, cardboard counter base, three cost/canvas/test sheets, four prototype cards, calculator, ruler, marker, blunt scissors, and 0.5 m masking tape; per student: four dated log sheets and pencil. **Kit label:** `ENTERPRISE SIM—W20-23—12 TOKENS/4 CARDS/0.5 m TAPE—NO REAL MONEY—team ___`. Count all 12 tokens, calculator, ruler, scissors, and marker; file raw logs/versions and reuse the base. Mark the last routed token or calculation; no invented sales.
+- **Annotated exemplar / common error interpretation / reteach:** Box arithmetic and actual routes, circle label revision, star fair-access limit. $12−$5=$7 confuses variable/total cost; routing proving poverty reduction is inference error. Recompute from unit rates, then route three guided tokens.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / Print/accessibility check:** Paper-simulation severity **low**, likelihood **unlikely**; financial/privacy-harm severity **moderate**, likelihood **possible** if real money or income data is used. **Adult supervision ratio:** one adult/class, teams ≤3. Print aligned currency columns at ≥12-point/high contrast; offer calculator, scribe, or oral pitch. No sales, fundraising, donations, personal names, brands, or outside contact.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product/manufacturer is not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD. Do not issue or substitute masking tape until the school safety lead approves the exact product and its current SDS.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

@@ -84,3 +84,7 @@ No safe supplies: plan/criteria only, with testing deferred. Fully indoors.
 **Family:** We listened to a request, tested a model twice and explained a
 tradeoff. Ask, "Which choice helped one thing but made another harder?"
 No home or real-person use is required.
+
+## Teacher artifacts
+
+See the [Weeks 26-27 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-26-27--helping-hands-engineering).

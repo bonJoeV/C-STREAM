@@ -84,3 +84,28 @@ Keep raw/repeated values, count kit pieces; record incomplete checks.
 **Explored:** circle ratios. **Did:** three measurements and a repeat.
 **Learned:** units/uncertainty. **Catholic connection:** honest reasoning.
 **Ask:** "Why wasn't your ratio exact?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for three lid circumference/diameter measurements and a repeated C/D uncertainty check.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** Table **lid | C cm | D through center cm | C÷D | repeat | difference/error source** plus “pattern/uncertainty.” Require three actual pairs, individual measure turn, equal units, one repeat and no correction toward 3.14.
+- **Worked example and finished example:** Use only labeled fictional 18.9/6=3.15, 25.1/8=3.1375, 31.4/10=3.14. The finished non-build product is the raw/repeated table and explanation that mathematical ratio is constant while string/ruler measures approximate.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw center diameter versus radius, unwrap-string method and C/D table. Stretched/gapped string changes C; off-center D is too small and inflates ratio; unexpected ratios stay. Misconceptions: radius is diameter, classroom data is exact pi, more trials must always approach 3.14.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **CIRCLE MEASURES—W28—3 LIDS / C-D / REPEAT RAW DATA**. Count three lids/team, coil 0.5 m string, return ruler/calculator/table; file values. Mark missing lid pair/repeat and resume that measurement, never copy fictional numbers.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box three C/D pairs and repeat, underline cm/cm cancellation, circle “string gap/off-center diameter.” Ratio near 6 indicates radius used; differing repeats are uncertainty, not dishonesty; missing individual turn is access gap. Reteach center diameter with marked lid, wrap once without stretch, then recalculate one pair.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Rigid plastic lids/string are **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**; adult cuts string, no sharp cans, tasting, string around bodies or rolling lids. Materials are dry measuring tools and prepared plastic lids only. **Print/accessibility check:** verify a ≥16 pt table, center-marked diagrams and large units; provide a ruler guide, calculator and scribing/oral reasoning.

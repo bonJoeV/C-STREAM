@@ -77,6 +77,10 @@ Scratch, ScratchJr, Code.org, Chrome Music Lab, Canva, Tinkercad and robot apps
 are legacy candidates, **not guaranteed free/approved/installed services**.
 Use current vendor information for verification; this plan creates no school
 account or privacy policy. No student data are uploaded as part of this review.
+Use the [external-service approval register](External_Service_Approval_Register.csv)
+for the currently named platforms. Every row is held until a school reviewer
+records current terms, privacy, accessibility, supported versions, pretest, and
+approval evidence.
 
 ## All-grade audit reconciliation
 
@@ -94,8 +98,9 @@ Keep objective-preserving and objective-changing fallback fields distinct.
 Recorded devices/kit names indicate procurement questions, not ownership,
 approval or safe equivalent substitution. Confirm Ozobot/EV3/other proprietary
 platforms separately rather than pricing them as the generic floor robot.
-All 251 written packages are complete. Actual app/device inventory, licenses,
-compatibility, local release and observed outcomes remain unverified.
+All 251 lesson pathways have repository artifact coverage under the automated
+screen. Actual app/device inventory, licenses, compatibility, semantic teacher
+review, local release and observed outcomes remain unverified.
 No school holding is inferred from a name or an access resource.
 
 **OLP Snap follow-up:** the school confirmed eight individual activity kits,

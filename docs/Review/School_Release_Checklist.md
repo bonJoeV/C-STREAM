@@ -5,7 +5,7 @@ description: "The remaining physical, policy and classroom evidence needed befor
 
 # School release checklist
 
-Repository completion means a complete written pathway, traceable planned
+Repository artifact completion means a written pathway, traceable planned
 evidence and passing document checks. It does **not** establish physical kit
 condition, the school's permissions, individual access needs or actual learning.
 These are concrete checks the school can complete, not more curriculum reports
@@ -76,6 +76,10 @@ one wave cannot serve 25 pupils in eight groups of at most three.
 K remains optional adult-demonstration only.
 
 ## Release record to copy
+
+The machine-readable [Teacher Release Record](Teacher_Release_Record.csv) is a
+blank controlled template with the same fields. Do not put student names or
+identifying evidence in the public repository.
 
 ```text
 Lesson / schedule / rotation:

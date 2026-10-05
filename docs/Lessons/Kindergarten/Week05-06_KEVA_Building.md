@@ -83,3 +83,7 @@ No blocks: groups <=3 may share kits using the routines; do not claim a paper
 picture is a tested tower. Repeated collapse: use flat blocks on a wider base.
 All work indoors. **Family:** We counted blocks and compared a ten-second test
 before and after a change. Ask, "What changed, and what did the test show?"
+
+## Teacher artifacts
+
+See the [Weeks 5-6 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#weeks-5-6--building-with-keva-planks).

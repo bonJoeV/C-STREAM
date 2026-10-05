@@ -105,5 +105,6 @@ if ($BeforeAudit) {
         throw 'Original baseline judgments, lesson paths or meeting counts changed.'
     }
 }
-Write-Output "PASS: all 37 K records are document-complete; $documents autonomous references, $meetings exact 25-minute meetings and $quantityChecks class-size checks."
+Write-Output "PASS: all 37 K records have revised lesson pathways; $documents autonomous references, $meetings exact 25-minute meetings and $quantityChecks class-size checks."
+Write-Output 'Teacher-artifact and local release status are validated separately; this test does not certify classroom readiness.'
 Write-Output 'School safety/equipment/source approval and classroom outcomes remain unverified.'

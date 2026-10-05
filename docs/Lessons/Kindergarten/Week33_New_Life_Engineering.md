@@ -74,3 +74,7 @@ point and make a directed drawing. Entire lesson works indoors in winter.
 
 **Family:** We ordered a living butterfly's stages and explained a model's limits.
 Ask, "What comes after the caterpillar?" No home collection or routine homework.
+
+## Teacher artifacts
+
+See the [Week 33 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-33--new-life-engineering).

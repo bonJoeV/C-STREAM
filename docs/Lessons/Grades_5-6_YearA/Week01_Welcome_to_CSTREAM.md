@@ -93,3 +93,37 @@ checks. **Explored:** evidence and leadership. **Did:** measured, sorted claims,
 revised a goal. **Learned:** tests and listening matter. **Catholic connection:**
 truth and service. **Ask:** "How will you know your goal worked?" Optional
 conversation only; no routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the 10 cm claim-card sort and measurable school-project goal.
+
+### Student material and evidence
+
+- **Printable/no-print student prompt:** One half-sheet says: “Measure the line from ruler zero; actual length: ___ cm. Sort A-D as observation/prediction/faith reflection/needs a source and give one reason each. My school-task goal is ___; criterion ___; constraint ___; listening action ___.” The no-print version is the same text on the board, answered in journals.
+- **Exact evidence/key:** A is an observation only if the pupil actually measures 10 cm (retain another actual value); B needs a historical source and its absolute “every/exactly” is unsupported; C is a prediction until the card test; D is an ethical faith reflection, not length evidence. A valid goal contains an observable peer/test check and a real limit, plus a concrete turn-taking/listening action.
+- **Worked example, finished example, and visual example:** On the board, mark up “make a better label” into “a peer reads **BOOK / ART / PUZZLE** from 1 m; one sheet; no color-only cue,” underlining the criterion and boxing the constraint. The finished non-build product is the completed sort plus that four-part goal; a poster/model is **N/A** because this lesson assesses classification and planning, not construction.
+
+### Teacher display and discussion
+
+- **Board/chart setup:** Before pupils enter, draw the verified 10 cm line and four columns headed **Observation | Prediction | Faith reflection | Needs a source**; below, write **Goal | criterion/test | constraint | listening action** and the ruler reminder **start at 0; include cm**.
+- **Discussion/key:** “Which information did you inspect?”—the line and ruler reading, not card B’s history. “What would verify B?”—a credible historical source for each cathedral, likely disproving the absolute. “Who gets a tool turn?”—each pupil, with measurer/reader/checker rotated. Also ask, “Does measuring prove faith?” Accept no: measurement answers the physical length question.
+- **Specific misconceptions:** Attractive wording is not verification; prediction C is not an observation; a criterion is the success check, while a constraint is the limit; leadership is not letting the fastest pupil keep the ruler.
+
+### Kit, closure, and continuation
+
+- **Exact kit reference and kit label:** Use only **MATERIALS**: per pupil two goal/exit sheets, pencil and journal; per team one line/claim-card sheet, ruler and marker; teacher board, clock and evidence roster. **Kit label:** **FOUNDATIONS—W1 10 CM CLAIMS & GOALS—4 cards + ruler/marker per team**.
+- **Reset:** Count 4/5/7/9 rulers and markers for 10/15/20/25 pupils, cap markers, return cards A-D in order, discard only used paper, and file each named goal/exit by class.
+- **Unfinished work:** Box the last completed item (measurement, card sort, or goal field), write **NOT YET EVIDENCED**, and clip it to the pupil’s goal. At the next meeting provide a five-minute ruler/card check before any extension; never fill a missing reason or infer it from team talk.
+
+### Interpretation and reteach
+
+- **Annotated exemplar:** “A = observation: I aligned zero and read **10 cm**” (underline action, box 10 cm); “B = needs source because **every/exactly** is not checked” (circle evidence gap); goal “peer reads three words at 1 m” (underline criterion), “one sheet” (bracket constraint), “I pass the ruler after measuring” (star leadership).
+- **Error interpretation:** A pupil writing “A is true because the teacher wrote it” has authority-based reasoning, not measured evidence; starting at the ruler edge may explain 10.4 cm; “make it good” lacks a check; placing D under “false” confuses ethical reflection with a measurable physical claim.
+- **Reteach:** Re-align zero and measure the same line together, contrast “I predict 10 cm” with “I observed 10 cm,” then revise one vague goal using the spoken frame “A peer will ___ under ___; I am limited to ___.” Recheck independently with card A or B.
+
+### Safety, access, and compliance
+
+- **Safety classification:** Paper/ruler work is **low severity / unlikely likelihood** when seated; marker misuse or ruler striking is **minor severity / unlikely** after norms. One responsible adult may supervise the whole class at the stated maximum **1:25**, with teams of at most three; stop sharp-tool substitutions, unsafe handling, or forced faith disclosure.
+- **SDS/product gate: HOLD — school-approved classroom marker.** The exact marker product and manufacturer are not specified. The [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product; do not issue this marker or substitute another marker until the school safety lead approves the exact product and its current SDS.
+- **Print/accessibility check:** Confirm cards print in at least 16-point sans serif, black text on white, never color-only; keep one card per line and verify a large zero-marked ruler image. Provide large ruler markings, read-aloud, oral sorting, dictation/scribing and the same no-print board wording.

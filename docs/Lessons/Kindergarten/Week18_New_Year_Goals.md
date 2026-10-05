@@ -72,3 +72,7 @@ fresh real record when possible; never invent the previous observation.
 
 **Family:** We practiced a weather record and a checkable goal.
 Ask, "What did you observe, and how will you check it again?" No homework.
+
+## Teacher artifacts
+
+See the [Week 18 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-18--new-year-goals).

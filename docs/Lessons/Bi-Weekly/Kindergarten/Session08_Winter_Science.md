@@ -86,3 +86,41 @@ We observed solid ice and liquid water and used before/after evidence. Ask: "Wha
 **Previous:** [Session 07 - Advent Light](./Session07_Advent_Light.md)
 
 **Next:** [Session 09 - Our Catholic School](./Session09_Catholic_Schools.md)
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print folded BEFORE/AFTER half-sheet, crayon, and team cup/tray with one adult-placed ice cube; children do not handle ice.
+
+**Evidence and answer guidance:** Record solid/liquid distinction and before/after comparison as independent, prompted, or not yet. “Little/no visible change” is valid.
+
+**Worked example:** Point to the cube as solid, reobserve the cup, point to liquid inside if present, and compare the two labeled boxes.
+
+**Finished example:** Dated page shows a before detail, after detail, and an honest ice-to-liquid or little/no-change statement.
+
+**Visual example:** Draw a cube under BEFORE and liquid inside the cup under AFTER; label an earlier demonstration “started earlier.”
+
+**Board setup:** Use “solid,” “liquid,” and “what changed” columns with a no-touch/no-taste reminder.
+
+**Expected discussion responses:** “The cube keeps its shape”; “Water flows”; “I see liquid inside”; “My cup changed little.”
+
+**Kit contents and label:** Transparent cup, tray, 20 mL cube, two towels, and record sheet; label “adult ice observation.”
+
+**Cleanup/reset:** Adult collects water, pupils wipe dry trays and return crayons, and adult empties the pitcher at the sink.
+
+**Unfinished work:** Preserve before observation and mark after as not observed or little/no change; do not claim all cubes melted.
+
+**Common misconceptions:** Ice becomes water rather than disappearing; an earlier cup is not the current cup’s elapsed-time result.
+
+**Annotated exemplar:** “Cube has shape” and “liquid inside” or “little change” are dated and pointed to.
+
+**Common error interpretation:** If the child points outside the cup, ask where the intended liquid is and record only visible evidence.
+
+**Reteaching option:** Use fresh and earlier labeled cups, then sort solid/liquid picture choices without touching.
+
+**Safety risk classification:** Severity: moderate; likelihood: unlikely after controls. Adult-managed ice/water handling only; no skin contact, tasting, hot water, salt, outdoor exposure, or mouth contact.
+
+**Adult supervision ratio:** Adults transfer/empty cups; teams remain seated while the teacher circulates for checks.
+
+**SDS/product gate:** SDS not applicable: only plain tap water and clean cups/trays are used under the school hygiene plan.
+
+**Print/accessibility check:** No printing; use large eye symbols, oral/tactile picture choices, and scribing.

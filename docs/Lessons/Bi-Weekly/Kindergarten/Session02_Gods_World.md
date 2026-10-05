@@ -70,3 +70,41 @@ Entire pathway is indoors; no collections, purchases or donations.
 
 **Family:** We sorted by a visible rule and showed two groups.
 Ask, "What made your pictures belong together?" No routine homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print half-sheet and shared crayon; children use six teacher-drawn cards and two paper sorting mats, with pointing or tactile line/no-line cards as needed.
+
+**Evidence and answer guidance:** Check visible rule, correct placement, and two-group representation separately. “Lines/no lines in these pictures” is the supported rule; accept a different visible rule only when the child can point to it.
+
+**Worked example:** Place a leaf-with-lines card in “lines,” intentionally place a smooth oval stone card there, then move it after pointing to “no lines.”
+
+**Finished example:** Two labeled groups contain cards by the stated visible rule, and the half-sheet shows or indicates one card from each group.
+
+**Visual example:** Draw three leaf cards with lines and three smooth oval stone pictures without lines; use a large line/no-line mark on each mat.
+
+**Board setup:** Make two wide mat outlines labeled “lines” and “no lines,” with a small “rule” box between them.
+
+**Expected discussion responses:** “This has lines”; “This one has no lines”; “The rule is what I can see”; “I can use the card again.”
+
+**Kit contents and label:** Six large picture cards and two paper mats; label the kit “visible feature sort” and keep all six cards with both mats.
+
+**Cleanup/reset:** Save dated group records, count six cards and two mats per kit, return crayons, and clear the table.
+
+**Unfinished work:** Keep the placed cards and record the rule orally or by pointing; do not guess an unseen biological property.
+
+**Common misconceptions:** Every answer is not evidence-based; the rule is not a universal claim about all leaves or stones; a preferred group is not a visible rule.
+
+**Annotated exemplar:** “Lines/no lines” is written or dictated above two groups; one card in each group is circled to show the supporting feature.
+
+**Common error interpretation:** If a child cannot explain a placement, ask “What feature supports this group?” and record prompted placement or revise the rule rather than marking the child wrong for a different defensible rule.
+
+**Reteaching option:** Use two cards first, model one placement and one correction, then add cards one at a time before asking for the two-group representation.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Paper sorting only; no food, feathers, acorns, unknown rocks, natural specimens, or collection.
+
+**Adult supervision ratio:** One teacher supervises seated teams and gives each child a full sorting turn; circulate for individual checks.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use only school-approved paper and shared crayons.
+
+**Print/accessibility check:** No printer is required; draw large high-contrast cards and provide tactile line/no-line forms, pointing, and scribing.

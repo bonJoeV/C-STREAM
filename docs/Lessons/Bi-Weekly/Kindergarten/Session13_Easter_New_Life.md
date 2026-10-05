@@ -71,3 +71,41 @@ Child equates biology and Resurrection: restate they are different processes;
 do not claim the experiment proves a belief. Fully indoors.
 **Family:** We ordered a living insect's stages and explained a model.
 Ask, "What does your picture show, and what does it not show?" No homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print four large stage cards, model sheet, crayon, and teacher card set; cards are drawn, not live insects.
+
+**Evidence and answer guidance:** Check four-stage order, living change, and model limit separately; craft completion does not establish the science claim.
+
+**Worked example:** Arrange egg on leaf -> caterpillar -> pupa -> adult butterfly, draw arrows, and state the cards represent rather than are insects.
+
+**Finished example:** Dated model shows all four stages, one changed feature, and a spoken or dictated limit.
+
+**Visual example:** Use four large pictures with arrows; keep the next-generation egg arrow as an optional extension.
+
+**Board setup:** Make four numbered stage spaces and a “model cannot show” box; keep biology and Resurrection distinct.
+
+**Expected discussion responses:** “The pupa is alive and changing”; “Adult follows pupa”; “These are pictures”; “The processes are distinct.”
+
+**Kit contents and label:** Four stage cards and model sheet per child; label “egg-caterpillar-pupa-adult.”
+
+**Cleanup/reset:** Count cards into envelopes, save models, return crayons, and clear paper.
+
+**Unfinished work:** Preserve ordered cards and record a missing arrow/explanation orally; do not infer completion from neatness.
+
+**Common misconceptions:** A chrysalis is not dead; adult does not turn into an egg; biology is not equated with Resurrection.
+
+**Annotated exemplar:** Four arrows, “pupa alive/changing,” and “pictures are not insects” are present.
+
+**Common error interpretation:** Compare adjacent cards and ask what follows the caterpillar before recording prompted order.
+
+**Reteaching option:** Present adjacent pairs, rehearse arrow direction, then rebuild the sequence.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Large paper cards only; no specimens, food, tiny decorations, live kit, or release.
+
+**Adult supervision ratio:** Teacher circulates for individual ordering checks and keeps the teacher set together.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use school-approved paper, cards, and crayons.
+
+**Print/accessibility check:** No printing; use large high-contrast cards, tactile arrows, pointing, and scribing.

@@ -85,3 +85,17 @@ Keep individual models and caption changes, return tools, note reteaching.
 **Learned:** growth isn't death/resurrection. **Catholic connection:** accurate
 limited Easter symbolism. **Ask:** "What was alive at the start?"
 Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Supply two four-panel sequences: seed embryo→root→shoot/leaves→seedling and egg→larva→pupa→adult. Students add arrows, “living development,” conditions, old/new caption, model limit, and science-versus-Easter-symbol statement.
+- **Worked/finished example:** Replace “dead seed becomes plant” with “living embryo germinates when suitable water, oxygen, temperature occur.” Finished paired panels preserve organism continuity and say Resurrection is a distinct faith claim, not biology proof.
+- **Board setup / expected discussion responses:** Number both sequences; chart `BIOLOGICAL CLAIM|MODEL OMITS|SYMBOLIC MEANING`. Correct “seed must die,” “pupa wholly dissolves/dead,” every seed grows, and one-day drawing proves timing.
+- **Kit contents / Kit label / reset / unfinished:** Per team: one eight-stage sheet (four germination and four butterfly stages), one ruler, and one marker set; per student: two paper panel/evidence sheets and one pencil. **Kit label:** `LIFE CHANGE PANELS—W33—SEED 4 + BUTTERFLY 4 STAGES—1 ruler/1 marker set—team ___`. Cap/count every marker, return the stage sheet and ruler, and file old/new captions. Mark the last verified arrow/stage; do not infer completion.
+- **Annotated exemplar / common error interpretation / reteach:** Box ordered labels, circle corrected caption, star faith/science limit. Wrong order=sequence error; “resurrection cycle”=category error. Reorder supplied word cards, narrate continuity, redraw one arrow.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / Print/accessibility check:** Physical **low/unlikely**; spiritual misrepresentation **moderate/possible**. **Adult supervision ratio:** one adult/class, teams ≤3. No specimens, soil/water, cultures, heat, reactions, forced disclosure, or medical claim. Print ≥12-point with numbered high-contrast panels and no color-only arrows; offer large print, word bank, or scribe.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

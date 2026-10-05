@@ -114,3 +114,31 @@ Count six tokens/team and tools, cap markers, save tests, report shortages.
 choice table. **Learned:** consent and evidence matter. **Catholic connection:**
 dignity/solidarity. **Ask:** "What did your users actually show?" Optional
 conversation; no routine homework or promised community implementation.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the fictional BOOK/ART/PUZZLE/PASS choice-table routing prototype.
+
+### Student material and evidence
+
+- **Printable/no-print material:** Brief plus sheet: “Underline three stated needs; box one unknown; criterion/constraint; sketch two layouts; record ART/BOOK/PUZZLE/PASS **time, pass/not yet, confusion** before and after; privacy/access reason; cost.” Copy verbatim to board/journals if unprinted.
+- **Expected evidence/key, worked example, and finished example:** Stated needs are clear choices, no names, and permission to pass; feelings/income are not known. Six tokens = 3×2; $1.20 cards + $0.80 base = $2.00; two extras cost $0.40. The worked layout deliberately hides PASS, records a coached/failed test, then moves/enlarges PASS. The finished example has six category tokens, readable word+symbol labels, four uncoached tests before/after and a limit: classroom speed does not prove community benefit.
+
+### Teacher display and discussion
+
+- **Visual example:** Display a six-token route on the one-base layout with the **PASS** location labeled by both word and symbol. Beside it, show four test rows with actual times, coaching yes/no, tester interpretation and the revision “move PASS beside the first choice after tester could not find how to decline.”
+- **Board setup/discussion:** Post **stated need / assumption / unknown**, criteria “≤10 s, PASS visible, no identifiers,” constraints “one base, six tokens, 1 m tape,” and four-test table. Accept “user may decline”; coaching invalidates navigation evidence; faster does not prove dignity or impact. Misconceptions: empathy is not guessing feelings, consent is not assumed, and a polished layout is not field validation.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS only. **Kit label:** **SERVICE ROUTING—W7-9—6 TOKENS + PASS / 4 TESTS**. Count six tokens/team, two brief/test sheets, base, two label sheets, ruler/marker/blunt scissors and ≤1 m tape; cap/store tools and file both raw test rounds. Mark the next unrun request and store layout intact; resume under the same no-coaching condition, never inventing a community response.
+
+### Interpretation and reteach
+
+- **Specific misconceptions:** “Older users will like it” is an unsupported stereotype, not a stated need; a coached route does not demonstrate independent navigation; a faster completion time does not prove dignity or community impact; a tester declining through PASS is a valid outcome, not project failure.
+- **Annotated exemplar / Common error interpretation / reteach:** Underline “no names/PASS,” box four actual times, circle “moved PASS after tester asked where to decline,” and bracket “still needs recipient input.” “Older users will like it” is an unsupported stereotype; a coached pass is invalid, not learner failure. Reread one brief sentence, sort it as stated/assumed, silently rerun PASS, and have the pupil cite the resulting layout change.
+
+## SAFETY / support / challenge
+
+- **Safety classification:** Blunt-scissor/cardboard work is **minor severity / unlikely likelihood**; one adult may supervise **1:25** with teams ≤3, seated cutting and no real distribution/contact/data collection. **Print/accessibility check:** verify ≥16 pt type, word+symbol labels, high contrast and no color-only category; allow large tokens, read-aloud, scribing and pointing.
+- **SDS/product gates: HOLD — masking tape and school-approved classroom marker.** The exact product and manufacturer for each category are not specified. The [Safety Data Sheet Register TAPE row and CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) do not approve either exact product; do not issue either product or substitute another tape or marker until the school safety lead approves each exact product and its current SDS.

@@ -84,3 +84,28 @@ Teacher keeps goals for next project; notes missing evidence, counts tools.
 **Explored:** measurable planning. **Did:** three milestones and budget.
 **Learned:** order/buffer matter. **Catholic connection:** stewardship.
 **Ask:** "What has to happen first?" Optional conversation; no routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the fictional three-word classroom-label plan and 30-minute budget.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** Timeline 0-30 with **goal | criterion | constraint | Plan/Make/Test milestones and evidence | minutes | dependency | missing-ruler contingency | buffer**. Require total 30 and testing after a draft.
+- **Worked example and finished example:** Work 5 sketch +12 make +8 reader test +5 buffer=30; evidence is chosen layout, finished draft, two checks. The finished product is the feasible plan/timeline, **not a label build** (N/A today); it includes one sheet, 1 m/three-word criterion and resource tradeoff.
+
+### Teacher display and discussion
+
+- **Board setup/discussion and misconception:** Draw dependency arrows Plan→Make→Test, minute sum and buffer. Testing cannot start before a draft; milestones need observable evidence; dates do not guarantee completion. If 35 minutes, remove/defer a feature, not buffer/cleanup. Keep spiritual/health goals private.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **PROJECT PLANNING—W18—30 MIN / PLAN-MAKE-TEST + BUFFER**. Return rulers/task cards, file two sheets/pupil with journal. Mark missing criterion, sum or dependency; resume that field before project work, without inventing dates/resources.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Underline “peer reads three words at 1 m,” box 5+12+8+5=30, arrows between milestones, circle missing-ruler contingency. Test-before-make is dependency error; “work hard” is not evidence; 35-minute total is feasibility, not ability, gap. Reteach with four minute cards and have pupil reorder/sum/explain one dependency.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Planning is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**; prevent forced private goals/rankings and unsafe tool substitutes. Materials are paper and reusable classroom tools only. **Print/accessibility check:** verify ≥16 pt predivided boxes/timeline with non-color arrows; addition scaffold, oral/scribed dependency allowed.

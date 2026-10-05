@@ -6,6 +6,11 @@ date: 2026-10-04
 
 # Kindergarten curriculum review
 
+> **Release terminology (October 5, 2026):** "complete reference/package" below
+> means a revised lesson pathway. The expanded
+> [teacher-artifact audit](Teacher_Artifact_Readiness.md) separately controls
+> classroom/substitute release and currently holds every lesson.
+
 **Current result:** all **37 Kindergarten lesson documents** are complete
 instructional references. The autonomous second pass replaced the remaining
 29 outlines, without agents, and verified their directions, timings and quantity

@@ -101,3 +101,32 @@ Count four packets and all rulers; save original/revised evidence; replenish pap
 **Explored:** forces/form. **Did:** controlled safe tests and folding redesign.
 **Learned:** tested capacity has limits. **Catholic connection:** shared responsible
 work. **Ask:** "What evidence justified your fold?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the flat/folded 15 cm paper-beam comparison and bounded 20/40 g retest.
+
+### Student material and evidence
+
+- **Printable/no-print prompt:** Sketch flat/folded beams over a labeled 15 cm span; table **shape | paper count | mass g | 20 g | 40 g | stop/sag | load÷mass**; arrows from centered load to both supports; “one shape revision and why.” Board-copy/journal version is identical.
+- **Expected evidence, worked and finished examples:** Require two dated baseline tests and revised test, pass/stop rather than breaking strength, equal-unit division only when scale resolves mass, and force path to both supports. Work `40 g ÷ 5 g = 8` versus `40 ÷ 10 = 4`, explicitly fictional if needed. Finished example is an accordion/flanged beam with dimensions, actual bounded result and limitation; an untested third strip stays labeled proposal.
+
+### Teacher display and discussion
+
+- **Visual example:** Display one **10×25 cm flat beam** and one **10×25 cm accordion-fold beam** spanning the same **15 cm** between two books. Draw arrows from the centered 20 g/40 g load square through the beam to both supports, and label the sample result “flat stopped at 20 g; accordion held 40 g; maximum not measured.”
+- **Board setup/discussion:** Draw compression above/tension below a bent beam, shear at supports, 15 cm span, **20→40 g cap**, and ratio units. Ask where it bends, what changed besides shape, and why 40 g is not breaking strength. Accept that mass/material/access/durability complicate “best.” Misconceptions: folded paper is not chemically stronger; a pass proves only demonstrated load; highest ratio does not certify a real bridge.
+
+### Kit, closure, and continuation
+
+- **Kit/reference/reset:** Exact MATERIALS only: two evidence sheets/pupil; four rectangles, two books, tray, ruler and 0.5 m tape/team; four sealed 10 g packets, scale, board/clock/roster teacher-controlled. **Kit label:** **PAPER STRUCTURES—W5-6—15 CM SPAN / 20-40 G CAP—ADULT LOADS**. Adult counts four packets; stack books, dry trays, coil rulers, separate saved beams from scrap and log scale resolution.
+- **Unfinished work:** Write last completed beam/test and “next = ___”; store beam with its raw sheet. Resume the identical missing 20/40 g step before ratio/conclusion; no extra load or inferred pass.
+
+### Interpretation and reteach
+
+- **Specific misconceptions:** A beam that holds 40 g has not been shown to break at 40 g; changing paper, span and fold together prevents a fair comparison; a downward load arrow without paths to both books is incomplete; sag or a 20 g stop is retained structural evidence, not learner failure.
+- **Annotated exemplar / Common error interpretation / reteach:** Annotate arrows to both books, box “flat stop at 20 g / accordion pass 40 g,” underline `40 g ÷ measured g`, and circle “fold geometry changed; maximum unknown.” One downward arrow without supports is incomplete path; `40/5=8 g` has wrong ratio units; sag is valid stop evidence. Reteach with hand pressure on a paper strip and the fictional 40/5 calculation, then have the pupil redraw both supports and interpret one retained result.
+
+## SAFETY / support / challenge
+
+- **Safety classification:** Low supports and sealed packets create **moderate severity / unlikely likelihood** under adult loading. **Adult supervision ratio:** **1:1 active load station**, with all teams hands-back, supports <10 cm, tray under beam, and no destruction/body weight. **Print/accessibility check:** verify 16-point tables, heavy arrows and explicit g/cm; offer precreases, calculator, oral/scribed force path and seated roles.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product and manufacturer are not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD; do not issue this tape or substitute another tape until the school safety lead approves the exact product and its current SDS.

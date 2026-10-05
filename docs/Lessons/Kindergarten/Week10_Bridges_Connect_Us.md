@@ -74,3 +74,7 @@ teach parts only and report the change. Fully indoors in any weather.
 
 **Family:** We counted supports and compared two same-load bridge tests.
 Ask, "What changed and what stayed the same?" No homework or model use by people.
+
+## Teacher artifacts
+
+See the [Week 10 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-10--bridges-connect-us).

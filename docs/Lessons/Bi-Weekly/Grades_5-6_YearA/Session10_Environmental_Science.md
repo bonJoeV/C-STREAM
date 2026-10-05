@@ -85,3 +85,17 @@ Save invented-data labels and individual evidence, count tools/scraps.
 
 **Previous:** [Catholic Scientists](./Session09_Catholic_Scientists.md)
 **Next:** [Lenten Engineering](./Session11_Lenten_Engineering.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Provide/board-copy invented counts `before 12,14,10; after 9,11,10`, axes 0-14 and fields `totals/difference / criterion / peer result / revision / confound/privacy limit`. Expected totals are 36 and 30, difference 6 (means 12 and 10 only if taught); all six bars must be correctly scaled.
+- **Worked example and finished example:** Work day 1 bars 12 and 9 and label them invented. Finished graph has six bars/totals; sign lets a peer find `REUSE blank-back` and `CLEAN paper` at 50 cm; conclusion says `after is 6 sheets lower in this fictional set, but attendance/workload could differ—no causal savings claim`.
+- **Board setup and visual example:** Draw grouped axes with title/source/units, sum lines, and `PATTERN | POSSIBLE CONFOUND | CLAIM LIMIT`. The paired day-1 bars at 12 and 9 are the visual example; beside them post the two-choice sign criterion and a privacy reject bin for named/written paper.
+- **Questions/misconceptions:** Ask “Were these school measurements?” (no), “What else could change counts?” (attendance/workload), “Why not reuse every sheet?” (privacy/clean-paper needs), “Does lower after prove campaign success?” (no).
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Reuse Evidence kit: graph paper/evidence/pencil per pupil; cardstock sign, dataset, ruler, marker and three clean blank-back scraps per team; teacher board/clock/roster. **Kit label:** `G5-6 YA S10 — REUSE EVIDENCE — FICTIONAL 12/14/10 vs 9/11/10`. Reset by storing/counting clean scraps, rejecting private/dirty paper, returning tools and filing graphs/sign tests. **Unfinished work directions:** mark the last plotted bar and peer result, store the sign with its graph, and resume only the uncompleted plot or sign test in class.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `sign saved 6 sheets` as `causal overclaim`; box 36/30/6, underline `fictional` and circle attendance/workload confound. **Common error interpretation:** a wrong total indicates an arithmetic/plot check, not weak stewardship. Reteach with one paired bar, recount totals, then revise only the claim.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gate, and Print/accessibility check:** Severity **low**, likelihood **rare** using supplied clean paper only; no trash/water/soil sorting. Adult ratio **1:25**. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv), use its CONTROL-ROW, and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** use 14-point high-contrast sign text, patterns/labels on bars, prelabelled axes, read aloud and permit oral/scribed analysis.

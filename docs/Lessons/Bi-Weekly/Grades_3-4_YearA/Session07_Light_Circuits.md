@@ -113,3 +113,102 @@ the light is off?" Only paper goes home; no electrical homework or purchases.
 **Previous:** [Session 6 - Gratitude Tech](./Session06_Gratitude_Tech.md)
 
 **Next:** [Session 8 - Scratch Animation](./Session08_Scratch_Animation.md)
+## Teacher artifact pack (release checklist)
+
+Prepare the following lesson-specific artifacts before releasing the lesson.
+
+- **Student evidence half-sheet (printable or board-copied):** Print one per
+  pupil with these exact prompts: `1. Trace battery -> switch -> light -> return.`
+  `2. Switch OFF: I predict the path is open/closed and the lamp is on/off.`
+  `3. Switch ON: I predict the path is open/closed and the lamp is on/off.`
+  `4. My test cycle 1: OFF ___ / ON ___. Cycle 2: OFF ___ / ON ___.`
+  `5. The adult-made gap was at ___. After repair I observed ___.`
+  `6. My Advent message is ___; its reader is ___.`
+  Include teacher boxes for **observed / prompted / not yet** and
+  **hardware / paper route**. The art half-sheet says, `Light is a symbol of
+  Advent hope; my message does not claim electricity proves faith.` With no
+  printer, copy prompts 1-6 exactly onto the board and let pupils number plain
+  paper; oral, pointed, dictated and scribed answers remain valid.
+- **Expected evidence and answer guidance:** A complete answer traces a return
+  path to the battery; predicts **OFF = open = lamp off** and
+  **ON = closed = lamp on** for the approved project; records two personally
+  operated cycles; locates the teacher-managed interruption at the opened
+  switch or identified approved-path connection; and reports that restoring
+  the path restored the lamp. Accept “hope,” “waiting for Christ,” or a
+  similarly respectful Advent meaning, provided the child calls it a symbol.
+  Do not accept “the battery has no electricity” without an inspected path,
+  “any metal touching works,” or a teammate's turn as the child's evidence.
+  On the paper route, mark **circuit reasoning/art only—operation not
+  observed**.
+- **Worked example:** Model a de-energized diagram:
+  `OFF—open—off; ON—closed—on; gap at switch; after the adult closed the
+  approved path, the lamp turned on.` Then model the message, `For a classmate:
+  May Advent light remind you that hope can grow while we wait.`
+  The finished example contains the traced loop, both predictions, two own cycles,
+  one before/after repair observation, and named reader/message. A finished
+  paper-route example contains the same reasoning but labels cycles and repair
+  **N/A—no electrical operation available**.
+- **Visual, board and chart setup:** Place the manufacturer-approved project
+  diagram beside a large four-part loop labeled **battery / switch / lamp /
+  return**. Add a removable card over the switch labeled **SOURCE ISOLATED
+  BEFORE CHANGES**. Draw a two-row chart:
+  `OFF | gap/open | lamp off` and `ON | complete/closed | lamp on`.
+  On the opposite side write `physical cause` and `Advent meaning` so pupils
+  do not merge the scientific and faith explanations. Keep a private roster
+  grid with columns `cycle 1`, `cycle 2`, `repair retest`.
+- **Discussion guide:** Ask, `Where must the path go after the lamp?`
+  Accept: back to the other battery connection/complete return. Ask,
+  `What evidence showed the repair worked?` Accept: the adult restored the
+  approved path and the lamp changed from off to on on retest. Ask,
+  `Does the lamp prove a statement about Jesus?` Accept: no; light is an
+  Advent symbol, while the circuit has a physical explanation. Correct the
+  misconceptions that an open circuit “uses up” current, that touching any two
+  conductors is safe, or that a paper diagram proves hardware operation.
+- **Kit manifest, label and reset:** Each station tray contains exactly one
+  inspected **Snap Circuits STEM Classroom Activity Kit OHM-135** grid and only
+  the parts named by its approved battery/slide-switch/lamp project; battery
+  type/count and reserves remain adult-controlled under the linked guide.
+  Each team also receives one approved diagram and one marker; each pupil gets
+  one evidence and one message half-sheet plus pencil. Kit label:
+  `C-STREAM | G3-4 | S07 | LIGHT CIRCUIT | GUIDE-CHECKED`.
+  Cleanup and reset: the adult opens the switch, isolates/removes the source as the guide
+  directs, counts project parts against the tray card, checks for heat, odor,
+  leakage or damage, records missing turns, and stores cells and dry kits in
+  their approved locations. Mark suspect parts **OUT OF SERVICE**; never return
+  them to a pupil tray.
+- **Unfinished work:** On the evidence sheet, circle the last completed stage:
+  `prediction / adult check / cycle 1 / cycle 2 / repair retest / message`.
+  Record the kit's last safe state as **source isolated** and schedule the child
+  into the next adult-supervised wave. Do not send hardware, cells or a live
+  build home and do not convert a missed physical turn into “observed.”
+- **Annotated exemplar, common error reading and reteach:** In the exemplar,
+  underline the complete return path, box the child's two cycle records, place
+  a star beside the changed observation after repair, and circle the
+  symbol/reader language. A broken trace means path reasoning is not yet
+  secure; identical OFF/ON entries may mean a switch-state misconception or an
+  unverified hardware fault; a correct team result with no personal cycles
+  means participation evidence is missing. Reteach first with the isolated
+  loop and a movable “gap” card, have the child say
+  `switch ___; path ___; lamp ___`, then permit one adult-inspected hardware
+  retest. Adults inspect contacts/cells; pupils never diagnose by shorting.
+- **Safety classification:** Severity is **severe** because an improper source,
+  short, damaged cell or substituted part can cause heat or leakage; likelihood
+  is **low only after** the manufacturer/school gate and isolation routine.
+  Adult ratio is **1:3 maximum**, meaning one supervising adult for each active
+  station team of no more than three pupils; fewer adults means fewer simultaneously powered
+  stations. No pupil battery access, coin cells, mains/USB supplies, extra
+  loads, fan blades, bare LEDs or live changes. The school keeps the
+  manufacturer product/battery safety documentation and any applicable battery
+  SDS available. The used commercial product category is classroom marker.
+  Enter the exact manufacturer/product in the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv),
+  record whether an SDS applies and the school approval decision, and keep the
+  marker on **HOLD** until that review is resolved. Warm, smelly, leaking or
+  damaged equipment triggers stop, isolate, report and quarantine.
+- **Print/accessibility check:** Use a minimum 14-point sans-serif font, thick
+  high-contrast black-and-white lines and distinct `OPEN`/`CLOSED` words rather
+  than color alone. Provide raised-line or finger-trace access to the loop, read all
+  labels aloud, and offer a scribe, oral response or seated switch role.
+  Message meaning is assessed independently of handwriting or decoration.
+- **Technology artifact:** None applies; this lesson has no software or service
+  artifact. School-approved physical hardware remains governed by its
+  manufacturer safety documentation.

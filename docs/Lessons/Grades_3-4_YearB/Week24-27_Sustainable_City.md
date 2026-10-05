@@ -25,7 +25,7 @@ developing. Prep 20; cleanup 5 each. Creation-care paraphrase:
 [Laudato Si'](https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html).
 No Kateri stereotype/quote, real power/water savings or hidden home materials.
 
-## Before class and exact supplies
+## Before class / supplies
 
 Teams <=3 (4/5/7/9): **30 x 30 cm** cardboard base, three cardstock sheets,
 twenty drawn large paper resource tokens, ruler/scissors, two markers,
@@ -49,7 +49,9 @@ function, never imply free benefits.
 | Evidence sheets (4/pupil) | 40 | 60 | 80 | 100 |
 | Pencils (1/pupil) | 10 | 15 | 20 | 25 |
 
-## Vocabulary/background/SAFETY
+## SAFETY
+
+**Background, vocabulary, and troubleshooting:**
 
 Sustainable = meeting needs while considering future resources; tradeoff =
 gain with a cost; system = interacting parts; budget = finite allowance.
@@ -103,7 +105,7 @@ construction. Scissors seated; stop/report hazards. Indoor primary.
    is not a real accessibility-code or resource-savings certification.
 6. **35-40:** Count/archive dry models/plans, cap markers/clear.
 
-## Success/access/troubleshooting
+## What success looks like
 
 Meets: correct twenty-token budget, labeled model, real route retest and
 stewardship tradeoff. Grade 3/support: token piles/copied cost card/scribing.
@@ -114,3 +116,22 @@ new reader traces route, same criterion. No savings outcomes inferred.
 
 **Family:** We balanced resource budgets and retested a city model. Ask,
 "What did your design gain and give up?" Optional: discuss a shared resource.
+
+## Teacher artifact pack
+
+- **Four-sheet student planning set (print/no-print):** (1) `20-token budget` table listing the seven posted features, cost, token allocation, total, remainder; (2) `30 x 30 cm plan` with labels and a continuous route `>=2 cm` connecting housing/community/water/waste/green space; (3) `system card` with `input -> process -> output`, user/resource tradeoff, baseline budget, and 2-token upgrade decision; (4) `model test` with destinations reached `0-5`, narrowest width, before/after sketch, retest, and certification limit. No-print uses the four evidence sheets with these exact headings.
+- **Expected evidence:** Required set costs `4+3+3+3+2+2+3=20`, remainder 0. An upgrade costing 2 requires removing/reducing a costed feature and naming the lost function, or rejecting the upgrade. Accept varied layouts if all seven features are labeled and the route reaches the five named destinations at a measured minimum width of 2 cm. Symbols are conceptual models, not measured savings.
+- **Worked completed example:** Baseline allocates all seven costs for 20/20. First model reaches 4/5 destinations; waste station is blocked and narrowest route is 1 cm. Revision moves one building without adding material; retest reaches 5/5 and narrowest is 2.5 cm. A two-token transit upgrade is rejected because removing green space would eliminate a required function. Annotate the unchanged budget, moved feature, and access improvement.
+- **Board/visual setup:** Post cost cards with twenty magnetic/paper tokens, a running-sum strip, and a 30 cm square plan grid. Draw route destinations as five distinct symbols and a 2 cm width gauge. Add before/after columns and an `actual model / not certified` boundary statement.
+- **Discussion and misconceptions:** “Can an upgrade be free?” (not under this budget), “Does a solar label prove saved energy?” (no), “Who might be left out by a 1 cm route?” (the model fails its access criterion; real users/building codes require other evidence), and “What tradeoff did the alternative create?” (name gain and displaced function). Correct green decoration presented as sustainability evidence.
+- **Kit, labeling, reset:** Per team: `1 cardboard base 30 x 30 cm, 3 cardstock sheets, 20 paper tokens, 1 ruler, 1 blunt scissors, 2 markers, 100 cm masking tape`; per pupil: `4 evidence sheets, 1 pencil`. Label underside/storage `W24-27 | assigned team ID | CITY BASE`; put tokens in `assigned team ID | TOKENS 1-20` and tools in `1 RULER/1 SCISSORS/2 MARKERS`. Count all 20 tokens, cap markers, return tools, secure remaining tape to a card, and store the city flat/dry on its base.
+- **Unfinished work:** Keep all four sheets under the corresponding base with a stage marker `budget`, `system`, `build`, or `retest`. Resume using the remaining issued materials and recorded token total; no family supplies, invented zero-cost parts, or undocumented after-class rebuilding.
+- **Annotated errors/reteach:** Mark total 22 `over budget—rebalance before building`; route drawn through a building `not continuous`; a 2 cm label without measurement `criterion asserted, not checked`; a model labeled “saves water” `function concept, no savings test`. Reteach with seven cost cards and exactly twenty counters, then trace a 2 cm paper strip through the five destinations before moving one obstruction and retesting.
+- **Safety and supervision:** Severity **minor to moderate** (blunt-scissor cut, rough cardboard edge, unstable model); likelihood **unlikely** after adult edge inspection and seated cutting. Adult ratio is **1 adult to no more than 9 teams/25 pupils**, with all cutting visible; adult handles any sharp recycled edge. No wiring, water, glass, metal, moss, or load-bearing use. The markers and masking tape are commercial marker/ink and tape products; record each exact manufacturer/product in [Safety_Data_Sheet_Register.csv](../../Review/Safety_Data_Sheet_Register.csv). Keep both products **ON HOLD** until school approval and SDS applicability are resolved.
+- **Print accessibility:** Use 14-point type, large cost boxes, written symbols plus patterns, a bold 2 cm gauge, and a large-print one-page-per-task option. Offer precut shapes, adapted scissors/rulers, tactile tokens/routes, oral explanation, or scribing. Check a monochrome sample so seven features remain distinguishable without green/blue color cues.
+- **Student material:** Student material: give each pupil the four-sheet set for the 20-token budget, 30 x 30 cm plan, input-process-output system, two-token tradeoff, and before/after five-destination route test.
+- **Board setup:** Board setup: post the seven cost cards and twenty tokens, running-sum strip, 30 cm plan grid, five destination symbols, 2 cm route gauge, before/after columns, and `actual model / not certified` boundary.
+- **Kit label:** Kit label: mark the city-base underside and storage bay `W24-27`, the school-assigned team identifier, and `CITY BASE`; mark the token bag with that identifier and `TOKENS 1-20`, and the tool pouch `1 RULER/1 SCISSORS/2 MARKERS`.
+- **Annotated exemplar:** Annotated exemplar: mark the 20/20 budget, first 4/5 route result, blocked waste station, 1 cm narrow point, moved building, 5/5 retest, 2.5 cm route, and rejected two-token upgrade with its lost function.
+- **Common error:** Common error: total 22, a route through a building, an unmeasured `2 cm` label, or a `saves water` claim without a savings test must be annotated before rebudgeting or retesting.
+- **Print/accessibility check:** Print/accessibility check: print the black-and-white four-sheet planning set at 100% with 14-point text, large cost boxes, written patterned symbols, a bold 2 cm gauge, and room for drawing or dictation.

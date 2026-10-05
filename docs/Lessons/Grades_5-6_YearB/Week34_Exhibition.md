@@ -83,3 +83,17 @@ Store captions/results, record actual/practice route and missing checks.
 **Explored:** communicating evidence. **Did:** curated/shared/revised.
 **Learned:** celebrations need honest claims. **Catholic connection:** gratitude
 and stewardship. **Ask:** "What did your model not show?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+## Exact supplies and class-size allocation / required lesson-specific packet
+- **Student material / prompt / expected evidence:** Use one/two saved artifacts or labeled practice card `routing 4/6→6/6 after clearer labels; no medical effectiveness tested`. Caption frame: user/question, decision, recorded result, limit, resource choice, next question; retain old/new captions and reader words.
+- **Visual example / worked/finished example:** Revise “My kiosk improved health” to “Clearer labels increased fictional routing from 4/6 to 6/6; health effects were not tested.” Finished display identifies simulated/physical status and reused backing; no award/mastery claim.
+- **Board setup / expected discussion responses:** `CLAIM|RAW RESULT|LIMIT|CAPTION CHANGE|REUSE`; ask simulated/physical, not proved, raw retention. Correct polish/award=mastery, invented practice=personal growth, and missing record may be guessed.
+- **Kit contents / Kit label / reset / unfinished:** Per tool team: one ruler and one marker; per student: one portfolio or labeled practice card, two paper caption/display sheets, and pencil. **Kit label:** `YEAR B EVIDENCE GALLERY—W34—2 CAPTIONS—ACTUAL/PRACTICE ___—student ___`. Return the portfolio and ruler, cap/count the marker, file captions with raw results, and reuse display backs. If unfinished, label the exact missing evidence/untested claim and next check; never manufacture a result.
+- **Annotated exemplar / common error interpretation / reteach:** Box 4/6→6/6, underline “fictional,” circle narrowed caption, star limit/reuse. “Improved health”=construct overreach; unlabeled practice=provenance error. Match each caption clause to a raw mark, then rewrite unsupported clause.
+
+## SAFETY
+
+- **Safety severity and likelihood / Adult supervision ratio / Print/accessibility check:** Physical **low/unlikely**; privacy/crowding **moderate/possible**. **Adult supervision ratio:** one adult/class at the school-approved ratio, seated pairs/trio; visitors separately approved. Print ≥14-point captions with high contrast and an uncluttered path; offer large print, oral/scribed defense, or anxiety-safe seated exchange. Use no food, private health/faith content, identifiable photographs, or assumed public event.
+- **SDS/product gate: HOLD — school-approved marker.** The exact marker product/manufacturer is not specified, and the [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product. Do not issue or substitute any marker until the school safety lead approves the exact product and its current SDS.

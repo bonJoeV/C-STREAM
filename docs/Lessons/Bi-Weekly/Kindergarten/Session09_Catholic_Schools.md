@@ -78,3 +78,43 @@ No display space: keep individual sheets. No photo permission: use drawings.
 Fully indoors; no family purchase or home task.
 **Family:** We explained a helpful school action and clarified a message.
 Ask, "What detail made your message clear?" Optional conversation only.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print drawing/message sheet, shared crayon, two hypothetical sharing cards, and a chosen helpful school action; no real identity or address.
+
+**Evidence and answer guidance:** Record contribution, respectful message, listener interpretation, revision, and separate privacy/adult-help choice. Do not rank groups or require a display.
+
+**Worked example:** Draw a librarian helping find a book, add a clarifying detail after partner interpretation, then choose the fictional private-address card and name a trusted adult.
+
+**Finished example:** Dated message identifies an action and revision; child chooses the private-information card without revealing real information.
+
+**Visual example:** Show helper, book, anonymous pattern card, and a separate fictional address icon labeled “private.”
+
+**Board setup:** Use “helpful action,” “clearer detail,” and “ask an adult before sharing.”
+
+**Expected discussion responses:** “The librarian helps find books”; “This detail made it clear”; “An address is private”; “I ask a school adult.”
+
+**Kit contents and label:** Two hypothetical cards, message sheets, crayons, timer/roster, envelope/display space; label “school contribution—no private data.”
+
+**Cleanup/reset:** Retain evidence only with permission, return crayons, store sheets, and clear the room.
+
+**Unfinished work:** Record action or dictated meaning and mark revision pending; never fill in private information.
+
+**Common misconceptions:** Only visible jobs are not valuable; an anonymous pattern is not an address; a drawing does not authorize posting.
+
+**Annotated exemplar:** Action is named, added detail circled, and fictional privacy card selected with adult-help response.
+
+**Common error interpretation:** If real data is offered, stop and do not record it; mark only the privacy/adult-help decision.
+
+**Reteaching option:** Use two imaginary actions, interpret one, revise one detail, and rehearse the privacy card.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Paper communication with privacy protection only; no public identities or unapproved images.
+
+**Adult supervision ratio:** Teacher supervises sharing and any photo/display decision under existing permission procedures.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use school-approved paper and crayons.
+
+**Print/accessibility check:** No printing; use large action icons, pointing, speech, and scribing.
+
+**Devices/external-service compliance:** Optional hardware is the school-approved documentation camera named in the local media process; no external service or upload is part of the lesson. If approval or consent is absent, defer photography and retain the dated drawing/message sheet; an image does not replace the contribution, revision, or privacy evidence.

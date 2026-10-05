@@ -101,3 +101,29 @@ Count mirrors, dry cups/trays, cap flashlight, record missing evidence.
 **Explored:** light paths. **Did:** cup observation and periscope tests.
 **Learned:** surfaces/boundaries differ. **Catholic connection:** truthful use of
 light symbolism. **Ask:** "Where did light turn?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the water-boundary observation, ray diagrams and two-mirror periscope test.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** Sheet: sketch pencil above/below water and label boundary/refraction; draw mirror, normal and equal model angles; periscope path **target→upper mirror→lower mirror→eye**; record target seen/not yet, alignment change and retest. Board-copy is identical.
+- **Worked example and finished example:** Work a reversed ray arrow and 30°/30° measured from the normal; show 45+45=90 ideal turn. The finished periscope uses two parallel plastic mirrors on pre-cut 45° supports and identifies the letter over 10 cm barrier with no direct view, or records failed alignment/repair; it never claims measured flashlight angles.
+
+### Teacher display and discussion
+
+- **Board/discussion:** Draw water boundary, mirror+normal, three-segment periscope path and seen/retest chart. Boundary redirects by refraction; upper mirror redirects first; normal is perpendicular, not the surface. Misconceptions: water does not bend the pencil; rays are model lines; light symbolism is not scientific proof.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **INDOOR OPTICS—W14-15—2 PLASTIC MIRRORS / 45° SUPPORTS / DRY LIGHT**. Count two mirrors/supports per team; adult empties 100 mL cups, dry trays, remove mirrors/tape, store flashlight. Mark missing observation/path/observer turn; if hardware absent write “operation deferred,” not seen.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Underline reflection/refraction labels, box seen/not-yet, circle “made mirrors parallel; letter seen,” and trace all arrows. Arrow from eye outward is direction error; normal drawn along mirror is geometry error; no observer turn is evidence gap. Reteach one mirror with paper arrow/normal, then align one mirror at a time and redraw the path.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Plastic-mirror/water work is **moderate severity / unlikely likelihood**. **Adult supervision ratio:** **1:25** with adult pouring/flashlight and teams ≤3; spill near power, glass, lasers or Sun viewing stops work. **Print/accessibility check:** verify ≥16 pt thick arrows/high contrast; tactile arrows, preassembled channel and oral/scribed diagrams allowed.
+- **SDS/product gate: HOLD — masking tape.** The exact masking-tape product and manufacturer are not specified. The [Safety Data Sheet Register TAPE row](../../Review/Safety_Data_Sheet_Register.csv) is on HOLD; do not issue this tape or substitute another tape until the school safety lead approves the exact product and its current SDS.

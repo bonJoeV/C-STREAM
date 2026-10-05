@@ -82,3 +82,7 @@ individual sheets in a class envelope. Indoors, no visitor/device prerequisite.
 
 **Family:** We explained one real result and revised its presentation.
 Ask, "What evidence does your picture show?" Optional family conversation only.
+
+## Teacher artifacts
+
+See the [Week 23 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-23--catholic-schools-week).

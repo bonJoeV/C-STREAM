@@ -87,3 +87,17 @@ helpful gifts. **Ask:** "What did your redesign change?" No routine homework.
 
 **Previous:** [Physics and Motion](./Session15_Physics_Motion.md)
 **Next:** [Year Exhibition](./Session17_Exhibition.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Provide/board-copy brief and log `idea A/B / chosen reason / 10×15 cm card / 10-second trials 1-3 / hold-fall / change / retest 1-3 / readability/removal / limit`. Complete evidence states one 20×30 cm base/0.5 m tape constraint and before/after counts from the same card/desk.
+- **Worked example and finished example:** Work a narrow triangular stand that holds 1/3; widen base/change lean angle within allowance, then retest. Finished holder keeps the card upright and removable, with example record `1/3 -> 3/3; wider base improved these trials but uses desk space and durability is untested`. This build requires a physical finished prototype; N/A only for a documented missing safe material, with function evidence deferred.
+- **Board setup:** Post exact brief, measurable criterion, material constraints and `BASELINE 1/2/3 | ONE REVISION | RETEST 1/2/3 | TRADEOFF`. Display both safe starter forms.
+- **Questions/misconceptions:** Ask “Did appearance prove function?” (no), “Could user remove/read card?” (must test), “Did two features change?” (identify to avoid confound), “Is it patent-new?” (not established). Correct one success as durability proof.
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Single-Function Invention kit: evidence/pencil per pupil; per team 10×15 cm cardstock card, 20×30 cm cardboard base, brief/test sheet, ruler, marker and 0.5 m tape; teacher board/clock/roster. **Kit label:** `G5-6 YA S16 — CARD HOLDER — 10 s ×3 / 20×30 cm / 0.5 m`. Reset by saving prototype/log for exhibition, counting tools, sorting scraps. Tag unfinished prototype with last trial/result and remaining step; store flat/intact and never assign home construction.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `looks stable` as `appearance only—no trial evidence`; box `1/3`, underline width/angle revision, circle `3/3`, and note durability limit. **Common error interpretation:** a fall supplies redesign data rather than proving inability. Reteach by lowering angle or widening base, timing one modeled 10-second test, then restoring three-trial protocol.
+
+## SAFETY
+
+- **Safety classification, supervision, SDS/product gates, and Print/accessibility check:** Severity **low**, likelihood **unlikely** with adult-precut stock/no sharp slots; stop unsafe edges. Adult ratio **1:25**, teams ≤3. **SDS/product gate: HOLD — masking/painter tape (TAPE).** The exact product/manufacturer is not specified; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv). Do not issue or substitute tape until the school safety lead approves the exact product and current SDS. **SDS/product gate: HOLD — school-approved marker (CONTROL-ROW commercial mixture).** The exact product/manufacturer is not specified and no approved marker row exists; use the register CONTROL-ROW and do not issue or substitute a marker until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** use large high-contrast brief/log, precreased stock, readable card text, two-hand/low-force removal options and oral/scribed records.

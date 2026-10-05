@@ -163,3 +163,29 @@ Teacher records actual versus paper operation and missing tests; return devices.
 **Explored:** functions/clones. **Did:** two sizes and three finite copies.
 **Learned:** parameters/local state matter. **Catholic connection:** honest,
 useful work. **Ask:** "Which test found the bug?" No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for `square(size)` and the three finite sprite-local `slot` clones.
+
+### Student material and evidence
+
+- **Printable/no-print material/evidence:** Starter/test sheet plus traces: **call size | moves/turns | perimeter | observed shape | bug/fix** and **clone slot | x position | deleted? | local/global explanation**. Require individual edit/run separately from paper prediction.
+- **Expected evidence, worked example, finished example, and visual example:** Display the square call trace and three numbered clone-position cards. `square(40/80)` has four moves/turns and perimeter 160/320 steps; repeat 3 leaves open triangle-like path, restore 4. Slots 1/2/3 at -60/0/60; spacing 40 deliberately produces -80/-40/0, then restore. Finished projects retain finite delete, hidden original, sprite-local slot and purposeful non-color-only feedback; paper-only trace defers execution.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Post call table, 4×size perimeter, slot formula `slot×60−120`, expected positions and run roster. Parameter changes a call, not definition count; exactly three clones inherit local slots and delete. Misconceptions: move draws without pen down; Scratch steps are cm; clones persist; global slot safely preserves each value.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS; choose simultaneous 4/5/7/9 or shared three computers, never both. **Kit label:** **ADVANCED SCRATCH—W24-25—SQUARE CALL + 3 FINITE CLONES / LOCAL SLOT**. Stop scripts, locally save if approved, close/return devices, collect two traces/references/rulers. Mark last run and `runtime NE`; book missing individual edit/run.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box 160/320 and -60/0/60, underline local `slot`, circle repeat 3→4 and spacing 40→60 retests. No line indicates Pen setup, overlapping clones indicates state/position, four clones indicates loop boundary; unrun paper is access gap. Reteach one 4-turn card trace or three numbered clone cards, then execute one corrected starter.
+
+## SAFETY / support / challenge
+
+- **Safety classification and access:** Seated computer use is **minor severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**, teams ≤3/timed turns; damaged cords or flashing/infinite clone changes stop. **Print/accessibility check:** verify ≥16 pt block text/high contrast, one call/clone step at a time, oral trace/motor support.
+- **Devices/external-service compliance and deferred evidence:** Use an assigned school-managed computer with the school-approved **Scratch editor** (offline or managed local save); do not use personal/shared login, cloud/public upload, private input or copied media. Record each pupil's actual edit/run turn, square outputs and three-clone runtime results. If the computer or Scratch editor is unavailable, mark program execution, clone operation and runtime retests **deferred**; paper block/clone-card reasoning must not be counted as Scratch runtime or device evidence.

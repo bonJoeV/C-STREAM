@@ -89,3 +89,29 @@ Store cards pending approval; keep each child's reader evidence; report shortage
 **Learned:** thoughtful layout and consent. **Catholic connection:** generosity
 with dignity. **Ask:** "What changed after reader feedback?" Optional conversation;
 no routine homework, purchase or compulsory donation.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the one-sheet welcome card and 50 cm uncoached reader test.
+
+### Student material and evidence
+
+- **Printable/no-print material and evidence:** Brief/sheet: two thumbnails, title/body hierarchy, margins, **50 cm trial 1 + missed words | revision | trial 2**, consent/delivery. Accept “WELCOME / You are welcome at the reading table,” original image and optional blank—not health/religion assumptions.
+- **Worked example and finished example:** Revise crowded small text to large WELCOME, shorter invitation, 1 cm margins (12 cm panel leaves 10 cm). The finished example is a one-sheet card read uncoached, using non-color cues and remaining classroom-only pending adult approval.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw front/inside, 1 cm margins, 50 cm line and **test→revise→retest**. Eye goes to WELCOME; coaching invalidates readability; recipient decides. Misconceptions: generosity does not permit assumptions; polish is not readability; cards cannot promise health/emotion.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **GIVING CARDS—W12—ONE SHEET / 50 CM READ / CHOICE**. Count cards; return 4/5/7/9 ruler/marker sets, cap markers, keep sketch/card/evidence together. Mark next missing test/revision and store flat; finish before delivery.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box “trial 1 missed invitation / trial 2 read both at 50 cm,” underline enlarged title/margins, circle “may decline.” “Looks nice” lacks evidence; reading after explanation is coached; color-only contrast excludes. Reteach from measured 50 cm, remove words/enlarge title, silently retest.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Paper/marker work is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**, teams ≤3; no sharps, private recipient details or unapproved delivery. **Print/accessibility check:** verify the brief is ≥16 pt/high contrast; offer prefold, teacher-drawn words, dictation and non-color symbols.
+- **SDS/product gate: HOLD — school-approved classroom marker.** The exact marker product and manufacturer are not specified. The [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product; do not issue this marker or substitute another marker until the school safety lead approves the exact product and its current SDS.

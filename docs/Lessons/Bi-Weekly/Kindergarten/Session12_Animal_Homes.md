@@ -71,3 +71,41 @@ No glue: use a drawn model with the same four identifiable features.
 No cardboard: school cardstock. Fully indoors; no wildlife feeding or outdoor
 testing required. **Family:** We modeled a habitat, not just a nest.
 Ask, "What does the bird family need besides shelter?" No home collection.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print half-sheet, crayon, cardboard base, fictional bird-family picture, paper strips, glue, and resource pictures; no live animal or nest.
+
+**Evidence and answer guidance:** Check food, water, shelter/nest, surrounding space, model limit, and care/reuse action separately.
+
+**Worked example:** Build a paper-strip nest, draw insects and water, and leave space so a viewer identifies all four needs.
+
+**Finished example:** Dated sketch points to insect food, water, shelter, and space and states the paper model is not wildlife shelter.
+
+**Visual example:** Show fictional bird family beside four labeled need icons and a boundary around surrounding space.
+
+**Board setup:** Draw food, water, shelter, space, and model-limit boxes.
+
+**Expected discussion responses:** “The nest is shelter”; “It needs food and water”; “Space is outside”; “We do not collect nests.”
+
+**Kit contents and label:** 20 cm cardboard, bird picture, glue, six 15 cm strips, and resource cards; label “four habitat needs—fictional model.”
+
+**Cleanup/reset:** Cap glue, reclaim dry paper, retain drawings, count pieces, and clear without wildlife feeding.
+
+**Unfinished work:** Draw or point to missing needs and record them; do not call nest-only complete.
+
+**Common misconceptions:** A nest is not the whole habitat; species differ; classroom model is not real shelter.
+
+**Annotated exemplar:** Four arrows identify insect, water, nest/shelter, and space; model limit is noted.
+
+**Common error interpretation:** Re-anchor a different animal’s claim to the fictional bird-family criteria and reteach the four needs.
+
+**Reteaching option:** Place four large resource pictures one at a time and ask what the nest supplies.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely after controls. Seated paper/cardboard/glue activity only; no animals, nest collection, feathers, food, or unknown specimens.
+
+**Adult supervision ratio:** Teacher supervises glue and rotating construction turns at seated teams.
+
+**SDS/product gate:** The exact school glue-stick brand/product remains **HOLD** in the [SDS register](../../../Review/Safety_Data_Sheet_Register.csv) until its current manufacturer SDS and school approval are recorded; accept no donated or unlisted product.
+
+**Print/accessibility check:** No printing; use large resource pictures, tactile strips, pointing, and scribing.

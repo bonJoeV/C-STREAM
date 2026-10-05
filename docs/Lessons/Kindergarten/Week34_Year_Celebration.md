@@ -73,3 +73,7 @@ Works indoors with no devices; camera documentation needs school approval.
 
 **Family:** We celebrated one demonstrated skill and an honest next step.
 Ask, "What can you show, and what will you practice?" Optional questions only.
+
+## Teacher artifacts
+
+See the [Week 34 teacher artifact card](./Kindergarten_Teacher_Artifacts.md#week-34--year-celebration).

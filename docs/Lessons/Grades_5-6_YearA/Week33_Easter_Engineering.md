@@ -85,3 +85,30 @@ Save actual/reference labels and individual exits; count tools, dry surfaces.
 revised a panel. **Learned:** categories and limits. **Catholic connection:**
 Easter distinct from natural mechanisms. **Ask:** "What stayed the same?"
 No routine homework.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the sealed ice observation, three change-category cards and accurate before/after panel.
+
+### Student material and evidence
+
+- **Printable/no-print material:** Three cards and two-panel sheet: **initial actual ice observation | later actual/not yet | prepared endpoint reference | what changed/remained | category/reason | science claim | symbol/faith distinction | partner question/revision**. Copy exactly to board if unprinted.
+- **Evidence/key:** Ice→water is physical/same substance; iron→rust chemical/new substances (diagram only); caterpillar→butterfly biological development, not death/resurrection. Distinguish actual bag from prepared endpoint; “not yet melted” is valid. Easter Resurrection is a faith claim, not phase-change evidence.
+- **Worked example and finished example:** Work a caption “ice became new water” into “solid water absorbed energy and may become liquid water; same substance; endpoint bag is reference.” The finished non-build panel has same-water labels, arrows/state change, three justified categories and revised limit; it does not claim unobserved melting.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw columns **actual observation | endpoint reference | category/evidence | symbolic meaning**, with solid→liquid and “same H₂O” in words (formula optional). Butterfly is biological development, rust chemical, melting physical. Misconceptions: every change makes a substance; ice is living/dead; natural change scientifically proves Resurrection.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **CHANGE PANELS—W33—ACTUAL ICE vs ENDPOINT REFERENCE / 3 CATEGORIES**. Adult removes two sealed bags/ice/water, wipes and dries tray; count/cap team ruler/markers/cards and file panels. Mark missing category/second observation/revision; use dry cards if needed and state physical observation deferred.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box “ice still partly solid” and endpoint label, underline “same water/physical,” circle revised “may melt” and faith-symbol boundary. Calling endpoint observed is provenance error; “new substance” is category error; missing melt is not failed experiment. Reteach by sorting the three cards using “new substance/living/same substance,” then relabel one panel actual/reference.
+
+## SAFETY / support / challenge
+
+- **Safety classification and access:** Sealed ice/water has **minor severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**, with adult control/spill isolation and no tasting, heating, reactions, pressure or power contact. Tap water is the only lesson liquid; no chemical demonstration is permitted. **Print/accessibility check:** verify cards/panels are ≥16 pt, high contrast, with predivided panels; allow read-aloud and oral/scribed captions.
+- **SDS/product gate: HOLD — school-approved classroom marker.** The exact marker product and manufacturer are not specified. The [Safety Data Sheet Register CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) does not approve a marker product; do not issue this marker or substitute another marker until the school safety lead approves the exact product and its current SDS.

@@ -72,7 +72,7 @@ inheritance, a plant-growth result or Mendel's experimental outcomes.
 scientific work are supported facts; this lesson cannot establish his personal
 motivation. No unverified Pasteur/Jesuit quotation or genetics priority claim.
 Paper indoors; no seeds/allergy handling, animal/human trait tests, personal
-family data or public accounts. Report damaged tools.
+family data. Report damaged tools.
 
 ## Meeting 1: exactly 40 minutes
 
@@ -106,3 +106,96 @@ needed for the unanswered real-plant question; no genotype or ratio exercise.
 **Family:** We credited heritage sources, then classified model observations
 and checked our records. Ask, "What did you observe yourself, and what was a
 source fact?" Optional conversation only.
+## Teacher artifact pack (release checklist)
+
+The pack below keeps sourced history, direct observation and classroom model
+data visibly separate.
+
+- **Student material (source-and-model record, print/no-print):** Provide these exact
+  prompts: `The supplied ___ card says ___`; `Publisher/source named on the
+  card: ___`; `On model plant ___ I can see ___ leaves`; `A second visible
+  detail is ___`; `My grouping rule is ___`; then a table
+  `2 leaves | letters ___ | tally ___ | count ___` and
+  `3 leaves | letters ___ | tally ___ | count ___`.
+  Finish with `Total model plants ___`; `Total leaves ___`;
+  `B was placed incorrectly because ___; it belongs in ___`;
+  `This model cannot show/prove ___`; `A real-plant question I could investigate
+  is ___`. Without copies, place the six A-F drawings and both supplied
+  paraphrases on the board and have children reproduce the two-row table.
+  Read-aloud citation, pointing to letters, drawing and scribing are permitted.
+- **Evidence and answer guidance:** For history, accept
+  `Mendel belonged to an Augustinian/Catholic religious community and studied
+  pea plants`, sourced to the Masaryk University Mendel Museum, or
+  `Albert was a Dominican who observed/described/classified living things and
+  nature`, sourced to Benedict XVI's March 24, 2010 audience. For the model,
+  accept rule `number of leaves`, groups **A,C,E / B,D,F**, counts **3 / 3**,
+  total **6**, and total shown leaves **15**. B must move to the three-leaf
+  group because three leaves are visibly drawn. Accept limits such as
+  `does not show inheritance, causes, growth, or Mendel's results`. Do not
+  accept an invented quotation, `faith caused the discovery`, or a claim that
+  the drawings are historical experimental data.
+- **Worked example:** Work one record publicly:
+  `The Mendel card says he belonged to a Catholic religious community and
+  studied peas; source—Masaryk University Mendel Museum. I observe A has two
+  leaves. Rule—group by shown leaf count. A,C,E = 3; B,D,F = 3; six plants,
+  fifteen leaves. B cannot join A because B has three leaves.`
+  The finished example adds a corrected error, one model limitation and a question requiring
+  real observations, for example `Does added water change root growth over
+  five days?` No worked historical quotation is appropriate; direct quotation
+  is **N/A** because the cards are identified classroom paraphrases.
+- **Board setup and visual example:** Post the two heritage cards under
+  **SOURCE REPORTS** with publisher/date, and the six drawings under the large
+  banner **CLASSROOM MODEL PLANTS—NOT MENDEL'S DATA**; those six drawings are
+  the visual example of the stated rule. Arrange sorting hoops or
+  boxes labeled `2 leaves` and `3 leaves`. Draw a chart with columns
+  `letter | observed leaves | group | tally check`; reserve a final box for
+  `3 + 3 = 6 plants; 2+3+2+3+2+3 = 15 leaves`. Use different line styles and
+  headings, not color alone, to distinguish sourced fact from observation.
+- **Discussion with acceptable response:** Ask, `Which statement came from a
+  source, and which detail did you observe yourself?` Accept a named card fact
+  versus a visible leaf count. Ask, `Why is B not in the two-leaf group?`
+  Accept: its drawing shows three leaves under the stated rule. Ask,
+  `Did religious membership cause Mendel's scientific work?` Accept: the
+  sources support membership and work, not his private motivation or a causal
+  claim. Ask, `Do equal groups prove inheritance?` Accept: no; this is a small
+  designed model with no breeding or controlled causal evidence. Correct the
+  ideas that classification explains why a trait occurs or that medieval and
+  modern methods are identical.
+- **Kit contents, kit label and reset:** Each team envelope has one Mendel card,
+  one Albert card, six model records A-F showing exactly **2,3,2,3,2,3**
+  leaves, and two markers; each pupil receives two sheets and a pencil.
+  Kit label: `C-STREAM | G3-4 | S09 | TEAM __ | SOURCED HERITAGE + MODEL A-F`.
+  Cleanup and reset: cap two markers, count both source cards and all six lettered
+  records, erase only reusable sorting marks, and band the complete set.
+  File dated pupil tables separately. A missing source card means its fact is
+  omitted, not reconstructed from memory.
+- **Unfinished work:** Circle the next step
+  `source fact / publisher / observations / rule / sort / tally / B correction
+  / limit / real question` and write the last verified subtotal. Resume from
+  the physical A-F set or complete board model; never fill a blank with an
+  unsourced saint/scientist claim, genetics ratio or guessed quote.
+- **Annotated exemplar, common error reading and reteach:** Underline the card
+  fact and its publisher together, bracket the observation words, box
+  `A,C,E—3` and `B,D,F—3`, double-box `6` and `15`, and circle both the B
+  correction and limitation. A wrong B placement indicates the child may be
+  sorting by letter or position rather than the declared feature; 3/3 with a
+  total other than 6 is an addition/recording error; calling the model
+  “Mendel's peas” is a source/model boundary error. Reteach by touch-counting
+  each pictured leaf once, saying `I observe ___`, placing the card under one
+  written rule, and completing the stem
+  `The card says ___; I observed ___; the model cannot prove ___`.
+- **Safety classification:** Severity **low**, likelihood **low**. Adult ratio is
+  **1:3 maximum**; one adult supervises each team of up to three while circulating; the activity uses only
+  paper, pencils and classroom markers. Do not introduce seeds, allergens,
+  animal/human traits, family inheritance data or private biographies. Report
+  damaged markers and follow school marker-use guidance. The used commercial
+  product category is classroom marker. Enter the exact manufacturer/product
+  in the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv),
+  record whether an SDS applies and the school approval decision, and keep the
+  markers on **HOLD** until that review is resolved.
+- **Print/accessibility check:** Use 16-point black-and-white card text, uncluttered A-F drawings,
+  bold leaf outlines and tallies with numeral labels. Teacher reads both cards
+  verbatim, names the publishers aloud, and supplies manipulable enlarged
+  records, oral response, pointing or a scribe. Do not rely on color alone
+  or dense biography text.
+- **Technology artifact:** None applies; this lesson has no technology artifact.

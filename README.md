@@ -18,14 +18,16 @@ description: "Catholic Science, Technology, Religion, Engineering, Arts, and Mat
 
 Start with [the curriculum review](docs/Review/README.md) for the executive
 review, verified standards sources, local competencies, K-6 progression, all
-251 lesson audit records, classroom materials, revised priority lessons and
+251 lesson audit records, classroom materials, revised lesson pathways and
 remaining teaching-release checks. This is a local program, not an
-Archdiocesan-approved standards framework. All 251 lesson documents now have
-complete written pathways; actual equipment, school approval and classroom
-pilot checks remain conditional.
+Archdiocesan-approved standards framework. The expanded teacher-artifact audit
+now confirms repository artifact coverage for all 251 lessons. Classroom
+release still requires local equipment, product/service approval,
+accommodation, second-adult review and pilot checks.
 
 From the repository root in PowerShell, regenerate and validate the maps with
-`.\scripts\Build-CurriculumMaps.ps1`, then publish locally with `mkdocs build`.
+`.\scripts\Build-CurriculumMaps.ps1` and
+`.\scripts\Build-OperationalAudit.ps1`, then publish locally with `mkdocs build`.
 See [source documentation](docs/README.md) for dependency and preview commands.
 
 | [📜 License](./LICENSE.html) | [🤝 Contributing](./CONTRIBUTING.html) |

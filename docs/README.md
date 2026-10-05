@@ -19,6 +19,8 @@ This folder contains the source files for the C-STREAM MkDocs site.
 ```powershell
 pip install -r requirements.txt
 .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
+.\scripts\Build-OperationalAudit.ps1 -ValidateOnly
+.\scripts\Test-OperationalReadiness.ps1
 mkdocs serve
 ```
 
@@ -26,5 +28,7 @@ Run these commands from the repository root. After changing a band-audit CSV,
 run `.\scripts\Build-CurriculumMaps.ps1` to regenerate the combined lesson and
 standards-evidence maps. See [the review](Review/README.md) before treating a
 legacy lesson as classroom-ready.
+After adding/removing an artifact or changing lesson artifacts/procurement
+metadata, run `.\scripts\Build-OperationalAudit.ps1`.
 
 Then visit http://127.0.0.1:8000/C-STREAM/

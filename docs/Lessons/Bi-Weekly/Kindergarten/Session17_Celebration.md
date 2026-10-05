@@ -72,3 +72,43 @@ All work indoors; optional photography follows school rules.
 **Family:** We celebrated a demonstrated skill and named what to practice.
 Ask, "What can you show, and how will you check your next step?"
 No routine homework, purchases or compulsory summer activities.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print reflection/record sheet, crayon, one dated result when available, and 3-by-3 grid with large token/cards for a fresh route.
+
+**Evidence and answer guidance:** Point to actual dated evidence, state what it does and does not show, and name one next practice action. Do not infer readiness or growth.
+
+**Worked example:** Show a dated result, explain one observed skill and limit, then demonstrate START, RIGHT, UP, STOP and name the next practice.
+
+**Finished example:** Dated sheet identifies evidence, support/independence honestly, and one next step; fresh demonstration is labeled fresh.
+
+**Visual example:** Place dated record beside the grid, target, and corrected route; no certificate is added.
+
+**Board setup:** Use “actual evidence,” “does not show yet,” and “next practice” columns.
+
+**Expected discussion responses:** “This is what I can show”; “This does not show ___ yet”; “I needed support”; “My next practice is ___.”
+
+**Kit contents and label:** Grid, token, four command cards, reflection sheet, and crayon; label “fresh route evidence—do not backdate.”
+
+**Cleanup/reset:** Save handoff evidence, count pieces, return crayons, and clear without food, decorations, certificates, slideshow, or summer work.
+
+**Unfinished work:** Record observed portion and mark unobserved skill/next step; do not fabricate a portfolio or mastery claim.
+
+**Common misconceptions:** One result does not establish growth; attendance does not prove readiness; celebration is not certification.
+
+**Annotated exemplar:** Dated evidence, explicit limit, and next practice are each separately labeled.
+
+**Common error interpretation:** Redirect attendance/readiness claims to the dated criterion and record observed skills/supports only.
+
+**Reteaching option:** Offer two explanation choices and rehearse “shows / does not show / next step” with one real record.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Paper and large-piece reflection only; no food or public names/photos without consent.
+
+**Adult supervision ratio:** Teacher supervises concurrent pair sharing and individual checks; all route pieces stay large and seated.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use the listed paper, cards, token, grid, and crayons.
+
+**Print/accessibility check:** No printing; use large route pieces, explanation choices, pointing, oral response, and scribing.
+
+**Devices/external-service compliance:** Optional hardware is the school-approved documentation camera named in the local media process; no external service or upload is part of the lesson. If approval or consent is absent, defer photography and retain the dated record or fresh route; an image does not establish readiness or growth.

@@ -67,3 +67,41 @@ same individual checks. All work is indoors, device-free and no home collection.
 
 **Family:** We noticed and represented a detail and asked a question.
 Ask, "What could you point to?" Optional conversation only.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print pathway: half-sheet paper, shared crayon, and one of the three teacher-drawn nature cards; the child may point, dictate, or draw.
+
+**Evidence and answer guidance:** Record one visible detail, one question, and care for the returned card separately. Accept a pointed or dictated detail; do not treat a guessed feature as an observation.
+
+**Worked example:** Point to the leaf lines, say “I see lines,” and ask “I wonder what they do?” Return the card intact.
+
+**Finished example:** A dated half-sheet shows or names a leaf line and includes a question the child can say or select.
+
+**Visual example:** Use the leaf-with-lines card beside the tree-with-branches and flower-with-petals cards; circle the feature actually pointed out.
+
+**Board setup:** Draw three labeled card sketches, then make two columns: “I see” and “I wonder”; leave space for the care reminder.
+
+**Expected discussion responses:** “I see a line”; “I wonder what it does”; “The card is a picture, not the living thing”; “I put it back.”
+
+**Kit contents and label:** Three large nature cards labeled leaf/lines, tree/branches, and flower/petals; keep the shared card set together.
+
+**Cleanup/reset:** Date and retain drawings, count three cards per kit, return crayons, and clear the indoor tables within the planned four minutes.
+
+**Unfinished work:** Mark the observed detail or dictate it and retain the sheet; do not require a finished drawing or an invented question.
+
+**Common misconceptions:** A guessed feature is not an observation; a picture does not grow; enthusiasm or handwriting is not evidence.
+
+**Annotated exemplar:** “I see two leaf lines” (detail circled); “I wonder what they do” (question dictated); “card returned” (care check).
+
+**Common error interpretation:** If the child names a feature not visible on the card, prompt “Show me where”; record prompted observation rather than correcting it into independent evidence.
+
+**Reteaching option:** Redraw one card on the board, model “I see,” and have the child point to one visible feature before adding a question.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Paper-and-crayon observation only; no specimens, tasting, close smelling, sharp shells, or small rocks.
+
+**Adult supervision ratio:** One teacher supervises the whole seated class; circulate to individual checks and shared-card care.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use only school-approved paper and shared crayons.
+
+**Print/accessibility check:** Nothing must be printed; use large, high-contrast drawings, tactile line/no-line options, pointing, and scribing.

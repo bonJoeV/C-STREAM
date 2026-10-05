@@ -72,3 +72,41 @@ Sound too intense: stop tapping and use silent symbols for the musical target;
 do not invent a vibration observation. Indoors, no device or home instrument.
 **Family:** We noticed vibration and chose sound/silence in a phrase.
 Ask, "Where did you put a rest, and why?" No routine homework.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print phrase sheet, dry inverted paper cup, crayon, and adult-held smooth ruler; no loose fillers or mouth instruments.
+
+**Evidence and answer guidance:** Record vibration source, four-beat pattern, and accessible partner role separately; do not assess loudness or forced singing.
+
+**Worked example:** Adult gently plucks the held ruler with 10 cm overhang, then models tap-rest-tap-rest over four beats.
+
+**Finished example:** Four boxes contain tap/rest symbols and the child points or softly performs the phrase while naming the vibrating ruler.
+
+**Visual example:** Draw four beat boxes and a ruler moving back and forth; circle tap and square rest in a legend.
+
+**Board setup:** Make four numbered boxes and “tap/sound” and “rest/silence” legend boxes.
+
+**Expected discussion responses:** “The ruler vibrated”; “A rest takes one beat”; “Silence lets my partner join”; “Louder is not better.”
+
+**Kit contents and label:** Dry cup and phrase sheet per child; teacher ruler, timer, roster; label “soft sound/silence phrase.”
+
+**Cleanup/reset:** Save sheets, keep cups dry/reusable, return crayons, and reset the ruler without a noise blast.
+
+**Unfinished work:** Preserve four symbols and record by pointing; use silent gesture if sound is uncomfortable.
+
+**Common misconceptions:** Louder is not better; a cup is not a professional instrument; silence occupies a beat.
+
+**Annotated exemplar:** Tap/rest/tap/rest is shown and “adult-held ruler vibrated” is noted.
+
+**Common error interpretation:** Return from loudness to visible ruler motion and record vibration source separately.
+
+**Reteaching option:** Count four beats with repeated symbols, replace one with rest, and explain the choice.
+
+**Safety risk classification:** Severity: low; likelihood: unlikely. Soft sound only; no loose parts, sticks, fillers, bells, noise blast, or forced contact.
+
+**Adult supervision ratio:** Teacher holds/plucks ruler while pairs share at conversation-level volume.
+
+**SDS/product gate:** SDS not applicable: no chemical product is used; use dry cups, paper, crayons, and an inspected smooth ruler.
+
+**Print/accessibility check:** No printing; use large beat symbols, gesture, silent pointing, and counting.

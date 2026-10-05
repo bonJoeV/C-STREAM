@@ -69,3 +69,41 @@ the adjustment; no unsafe darkening. Missing safe lights: demonstration/model
 only, student operation deferred. All primary work is indoors.
 **Family:** We compared shadows with one changed condition.
 Ask, "What moved in your test?" No homework or Sun observation.
+
+## Teacher artifact block
+
+**Student material (print/no-print):** No-print result half-sheet, crayon, paper cutout, screen, and enclosed 2-AA flashlight; adult controls light and batteries.
+
+**Evidence and answer guidance:** Record prediction, one changed cutout position, fixed lamp/screen condition, and actual shadow result; an unclear result remains honest.
+
+**Worked example:** Keep lamp and screen fixed, compare the marked 10 cm and 20 cm cutout positions, and point to the screen result.
+
+**Finished example:** Two positions are shown with the moved cutout, the same lamp/screen, and a child-pointed or dictated actual result.
+
+**Visual example:** Draw lamp, cutout, and screen at both marked distances; shade only the observed shadow.
+
+**Board setup:** Use “moved,” “stayed still,” and “what I saw” boxes, with 10 cm and 20 cm below the cutout.
+
+**Expected discussion responses:** “The cutout moved”; “The lamp and screen stayed still”; “I saw a shadow”; “It was unclear.”
+
+**Kit contents and label:** Flashlight, screen, >=8 cm cutout, and ruler; label “shadow comparison—no eye beams.”
+
+**Cleanup/reset:** Switch off/count lights and shapes, date/save drawings, return crayons, and clear the tabletop.
+
+**Unfinished work:** Keep the first prediction and mark the second test deferred if the safe setup cannot be restored.
+
+**Common misconceptions:** A rainbow is not the target; a shadow direction/size is not guaranteed; never put beams at eyes or view the Sun.
+
+**Annotated exemplar:** “Only cutout moved” and “lamp/screen same” are noted beside two actual shadow sketches.
+
+**Common error interpretation:** Redirect a rainbow or Sun claim to the two marked classroom positions and record only visible evidence.
+
+**Reteaching option:** Use one large cutout and two teacher-controlled positions; have the child point to what moved and stayed still.
+
+**Safety risk classification:** Severity: moderate; likelihood: unlikely after controls. Adult-controlled flashlight demonstration only; no lasers, glass, beams at eyes, loose batteries, or dark walking.
+
+**Adult supervision ratio:** Teacher controls the flashlight and battery setup while children remain seated with partners.
+
+**SDS/product gate:** SDS not applicable during normal intact-device use; inspect secure flashlight covers, remove leaking or damaged batteries from service, and use school-approved paper/crayons.
+
+**Print/accessibility check:** No printing; provide large high-contrast/tactile cutout, oral response, pointing, and scribing.

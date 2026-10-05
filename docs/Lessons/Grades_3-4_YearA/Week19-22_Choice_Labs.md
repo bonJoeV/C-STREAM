@@ -117,3 +117,100 @@ not an unprepared hazardous lab. All work indoors.
 
 **Family:** We chose prepared science/art projects, including rhythm, and revised
 using evidence. Ask, "What did feedback change?" Optional: repeat four quiet beats.
+
+## Teacher artifact pack
+
+- **Student material — four-page pupil passport (print/no-print):** Page 1 fields are `Name/team
+  code/date`; a four-row table `light distance 10 or 20 cm | trial 1 shadow
+  width cm | trial 2 shadow width cm`; `Controls kept the same: screen place
+  ___; silhouette/place ___`; `My evidence-based shadow claim ___`; and choice
+  boxes `shadow story` / `rhythm message` with `I chose it because ___`.
+  Page 2 has `Project question ___`; `success means reader identifies
+  welcome/help/thanks` or `listener repeats all four beats`; `my authored part
+  ___`; `stock issued ___; stock used ___; stock remaining ___`; and two rows
+  `attempt | reader/listener response without coaching | correct/not yet |
+  specific change to try`. Page 3 repeats those two trial rows and adds
+  `before result ___/2; after result ___/2; one feature changed ___; feature
+  held the same ___`. Page 4 has `two final new-reader/listener tests`,
+  `science finding (not symbolism) ___`, `artistic meaning (not science) ___`,
+  `feedback-backed revision ___`, `limitation ___`, and `stewardship choice
+  ___`. For no printing, reserve four numbered sides of plain paper and copy
+  these exact headings from the board one meeting at a time.
+- **Expected evidence and acceptable answers:** Four numerical readings with `cm` and two
+  stated controls are required; paired readings need not match exactly. With
+  the screen and silhouette fixed, accept `the shadow was wider when the light
+  was 10 cm away than at 20 cm` when the recorded data support it. Do not accept
+  `closer always makes every shadow bigger` beyond this setup. Project evidence
+  is an uncoached response plus a specific revision: spacing/order/shape for a
+  shadow story, or beat/pause/gesture clarity for rhythm. Accept `not yet` as a
+  legitimate result. Stock arithmetic must reconcile issued, used and remaining
+  quantities; artistic quality or religious intensity is never scored.
+- **Worked and finished examples:** Common test example: `10 cm: 8.2, 8.0 cm;
+  20 cm: 4.3, 4.4 cm; same silhouette and screen positions`; annotate that the
+  small repeat difference is measurement variation and the claim compares
+  these conditions only. Shadow-story finish: attempt 1 reader says `help,
+  welcome, thanks`; intended `welcome, help, thanks`, so the pupil increases
+  spacing around the middle helping image; two new readers then identify the
+  order, `2/2`. Rhythm finish: notate `tap tap | pause | tap tap`; if a listener
+  repeats five taps, circle the ambiguous grouping, lengthen the visible pause,
+  and retest the same four beats. These are models, not required numeric results
+  or designs.
+- **Board setup and Visual example:** Keep a fixed geometry sketch labeled `screen
+  fixed`, `silhouette fixed`, `light at 10 cm/20 cm`, a four-reading table, and
+  `change one variable`. Beside it post both complete choice cards, their
+  separate success criteria, the log `attempt -> uncoached response -> one
+  change`, and a stock ledger `issued - used = remaining`. Use a team rotation
+  chart without public ability rankings; materials remain at seated teams.
+- **Discussion guidance:** Ask `Why repeat each distance?` Accept `to notice
+  variation/check the pattern`; `Can "welcome" prove a science fact?` Accept
+  `no, it is an artistic meaning`; `What makes feedback usable?` Accept a
+  specific observed confusion; `If 1/2 readers understand, what may we claim?`
+  Accept `one did and one did not; more testing or revision is needed`; and
+  `Does choice remove constraints?` Accept `no, both choices have prepared
+  materials and criteria`. Correct claims that a larger object alone determines
+  every shadow, louder rhythm is clearer, or a friendly faith message makes
+  weak test evidence correct.
+- **Kit contents. Kit label: and Cleanup/Reset:** Each team pouch contains one enclosed
+  flashlight, two cardstock sheets, one metric ruler and one premeasured 60 cm
+  tape strip; each pupil receives four passport sheets and one pencil. Label
+  each pouch exactly `C-STREAM G3-4 | W19-22 CHOICE LAB | TEAM CODE | 1 LIGHT,
+  2 CARD, 1 RULER, 60 CM TAPE`. The class archive is `W19-22 PASSPORTS -
+  RETURN EACH WEEK`. At every reset, switch lights off, adult-check the battery
+  compartment, count 1/2/1 reusable items per pouch, flatten reusable
+  silhouettes, record tape remaining, bundle each team's work, and replenish
+  only from recorded stock.
+- **Unfinished work:** Pupils box the next uncompleted passport field and write
+  a restart instruction (`run second 20 cm reading` or `find a new listener for
+  trial 2`). Store the project and passport together by team code. Missing
+  physical shadow readings are `not observed` and must receive a later turn;
+  unfinished projects are neither home assignments nor replaced by a teacher
+  result.
+- **Annotated exemplar, Common error interpretation, and Reteach:** Opposite shadow results first trigger a
+  geometry check for moved screen/silhouette or a ruler starting away from zero,
+  not an automatic incorrect mark. Four identical readings may be genuine but
+  require the pupil to demonstrate both distances. A coached listener result is
+  invalid and should be crossed once, labeled `prompted`, and repeated with a
+  new listener. Decoration without a response-linked change is not iteration.
+  Reteach the common test with one silhouette: tape screen/object positions,
+  place ruler zero at one edge, read the other edge, and repeat. For projects,
+  model changing only one confusing image or one pause and log the new response.
+- **Safety classification: Severity low; likelihood unlikely; SDS gate:** with
+  enclosed flashlights and seated work. **Adult ratio: 1:25 maximum** while
+  teams remain at desks in groups of three or fewer; only that adult opens
+  battery compartments or handles a damaged/leaking light. Beams stay on
+  cardstock, never eyes; no dark-room walking, loose cells, skin tape,
+  ingestion or loud sound. The used commercial product category is masking
+  tape. Enter the exact manufacturer and product in the [Safety Data Sheet
+  Register](../../Review/Safety_Data_Sheet_Register.csv), and keep it on
+  **HOLD** until school approval and SDS applicability are resolved.
+  If a battery leaks, pupils stop and move away; the school's battery procedure
+  and manufacturer safety information apply, and the unit is removed by an
+  adult.
+- **Print accessibility:** Passport pages use 14-point minimum sans-serif type,
+  18-point large-print copies, thick black table borders, written labels in
+  addition to symbols, and no gray/color-coded choice. Read choice cards and
+  feedback verbatim; allow scribing, speech, tactile beat counters or quiet
+  gestures. Print one four-page set at 100% and check that `cm`, Y/not-yet
+  choices and response rows remain visible. The board copy must include the
+  controls and uncoached-response fields.
+- **Technology compliance:** No technology artifact applies.

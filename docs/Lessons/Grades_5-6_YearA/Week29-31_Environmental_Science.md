@@ -134,3 +134,30 @@ Keep original datasets, collect rulers/instruments, cap markers, remove test sig
 ## FAMILY NEWSLETTER
 
 **Explored:** weather data and stewardship. **Did:** graphed fictional practice readings and tested a clear, inclusive reminder. **Learned:** honest comparisons include limitations. **Catholic connection:** care for people and resources. **Ask:** "What could your five-day graph not prove?" No routine homework; optional conversation only.
+
+## TEACHER ARTIFACTS
+
+Use this operational set for the fictional five-day A/B weather dataset, graph and bounded door-reminder test.
+
+### Student material and evidence
+
+- **Printable/no-print material:** Provide the five-date dataset, -15 to 5 °C graph, protocol prompt, and sign test sheet **tester interpretation | coaching? | before/after revision**. No-print: copy all ten values and axes to board; students retain individual graphs/exits.
+- **Evidence/key:** Controls include noon, same height and shielded comparable instruments. A range 8 °C/mean -8; B range 6 °C/mean -9; A-B 1,1,2,0,1 and mean 1. Require ≥9/10 plotted points, title/units/key, two cited values and limits: fictional five days cannot show climate, causation, heat island or energy savings.
+- **Worked example, finished example, and visual example:** Display and plot Jan 6 A=-10/B=-11 with different symbols, not color only. The finished example sign says promptly close exterior doors **without blocking access/exits**, includes a truthful small graph/caption, a 1 m uncoached interpretation before/after and proposed real energy measurement; it never claims savings.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw a large dual-symbol graph, **weather vs climate**, controls/uncertainty, and **data claim / stewardship choice / needed evidence**. Sunlit thermometer biases reading; range shows spread, mean center; rushed door rule may exclude mobility users. Misconceptions: cold week disproves climate change; grass caused difference; graph creates new evidence; pH proves potable water.
+
+### Kit, closure, and continuation
+
+- **Kit/reset/unfinished:** Exact MATERIALS. **Kit label:** **WEATHER/STEWARDSHIP—W29-31—FICTIONAL A/B DATA / 10 POINTS / NO SAVINGS CLAIM**. Return dataset, ruler/marker/scissors, remove signs from exits, collect optional two non-glass thermometers and file original graphs. Mark last plotted point/calculation/tester; resume without altering raw values or inventing readings.
+
+### Interpretation and reteach
+
+- **Annotated exemplar, common error interpretation, and reteach:** Box A/B ranges and two cited points, underline °C/title/key, circle revised access wording and “actual energy not measured.” Reversed negative order is signed-number error; connected A/B as one series is graph structure; causal claim is interpretation error. Reteach -12/-4 on number line, plot one A/B pair, then pupil explains claim versus limit and retests one sign phrase.
+
+### Safety, access, and compliance
+
+- **Safety severity/likelihood and access:** Indoor paper/non-glass thermometer work is **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25**; no outdoor cold/roads, unknown water/trash, glass/mercury, electrical meter or unauthorized door/thermostat changes. Print dataset/axes ≥16 pt, use high-contrast symbols and a premarked axis/number line; allow oral/scribed limitations and seated testing.
+- **SDS/product gates: HOLD — masking tape and school-approved classroom marker.** The exact product and manufacturer for each category are not specified. The [Safety Data Sheet Register TAPE row and CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) do not approve either exact product; do not issue either product or substitute another tape or marker until the school safety lead approves each exact product and its current SDS.

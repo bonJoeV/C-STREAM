@@ -12,8 +12,10 @@ description: "Complete Year-Long C-STREAM Planning Model for K-6 Catholic School
 Use this planner as a calendar scaffold, not a guarantee that all legacy
 lessons are ready to teach. Start with the [scope and sequence](Review/Scope_and_Sequence.md),
 [grade reviews](Review/README.md) and [materials plan](Review/Materials_Plan.md).
-The weekly Year A scaffold has 34 numbered slots with two non-teaching breaks;
-actual Year B meeting counts require the band-specific pacing check.
+The weekly Year A scaffold has 34 numbered slots with two non-teaching breaks.
+For adoption, use the conservative [instructional time baseline](Review/Instructional_Time_Baseline.md):
+28 weekly meetings (24 core + 4 flex) or 15 bi-weekly meetings (13 core + 2
+flex) until the school verifies its calendar.
 
 Four existing Grades 3-6 circuit lessons now have an
 [OLP Snap Circuits pathway](Review/Materials_Plan.md#selected-snap-circuits-lesson-pathways).
@@ -42,6 +44,7 @@ meeting is added; weekly and bi-weekly tracks remain alternatives.
 |-----------------|---------|
 | **Weekly scaffold** | 34 numbered calendar slots; 32 teaching meetings when slots 17 and 32 are breaks |
 | **Bi-weekly alternative** | 17 native-length meetings; choose this instead of the weekly sequence |
+| **Controlling capacity** | Plan 28 weekly or 15 bi-weekly meetings; nominal extra slots absorb interruptions |
 | **Multi-week documents** | Count every meeting in a document, not only the file |
 | **Extension projects** | Replace or deepen a scheduled objective; do not add an overlapping project quota |
 | **Grade Groups** | K, 1-2, 3-4, 5-6 (differentiated content & timing) |
@@ -79,9 +82,10 @@ communication. These digital tools are possible extensions, not requirements:
 
 ### Count meetings, not project labels
 
-For the weekly scaffold: **13 + 13 + 6 = 32 teaching meetings**, plus two
-break slots. The earlier single-week/multi-week/long-arc quotas double-counted
-time and must not be added together.
+The scaffold contains **13 + 13 + 6 = 32 nominal teaching meetings**, plus two
+break slots. Schedule only 24 core meetings and preserve four flex/recovery
+meetings inside the conservative 28-meeting baseline. The earlier
+single-week/multi-week/long-arc quotas double-counted time and must not be added.
 
 Choose the actual grade/rotation documents, total their planned meetings,
 then compare with the school's calendar. Use unexpected spare meetings for

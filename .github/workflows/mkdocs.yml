@@ -43,6 +43,14 @@ jobs:
         shell: pwsh
         run: .\scripts\Build-CurriculumMaps.ps1 -ValidateOnly
 
+      - name: Validate operational audits
+        shell: pwsh
+        run: .\scripts\Build-OperationalAudit.ps1 -ValidateOnly
+
+      - name: Validate operational readiness controls
+        shell: pwsh
+        run: .\scripts\Test-OperationalReadiness.ps1
+
       - name: Test curriculum map rejection cases
         shell: pwsh
         run: .\scripts\Test-CurriculumMaps.ps1

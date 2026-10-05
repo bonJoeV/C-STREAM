@@ -157,3 +157,31 @@ Count tools, save raw/revised evidence and actual route, report unresolved check
 revision and defense. **Learned:** scope/evidence matter. **Catholic connection:**
 talents used responsibly. **Ask:** "Which result changed your decision?"
 No routine homework or unsupported claim of real-world benefit.
+
+## TEACHER ARTIFACTS
+
+Use this route-specific operational set for the bounded science, music/art or Scratch choice and four dated individual logs.
+
+### Student material and evidence
+
+- **Printable/no-print material:** Four dated sheets: **route/question/user | criterion | constraint/materials | milestones/prediction | baseline expected/actual | one change | same retest | result/limit/resource tradeoff/defense**. Add the chosen route table: science six cm distances; music two four-beat bars+reader response; coding four-click score trace+runtime.
+- **Evidence/key:** Science controls ball/release/ramp/surface and retains collisions; worked means 13/20 cm, difference 7. Music each bar totals four beats and reader identifies repeat/contrast; quarter+two eighths+quarter+rest=4. Coding outputs 1/2/3/3, reset 0; bug `<4` gives 1/2/3/4, restore `<3`. Paper coding is not runtime evidence.
+- **Worked example, finished example, and visual example:** Display and model one complete route only, showing its baseline→single change→same retest flow. The finished example has approved proposal, actual baseline, one justified change, same retest and 90-second evidence defense: science dataset/protocol; readable two-bar score; or locally saved bounded Scratch starter. Unsuccessful results remain valid with limit/next test.
+
+### Teacher display and discussion
+
+- **Board setup/discussion:** Draw three columns headed **science 3/6 cm**, **music 4+4 beats**, **coding score≤3**, each with criterion/constraint/baseline/change/retest/limit. Ask what the test checked, what changed and next validation. Misconceptions: passion means unlimited scope; artistic polish substitutes for rhythm test; group success proves individual turn; changed conditions support comparison.
+
+### Kit, closure, and continuation
+
+- **Kit contents:** Use the exact maximum MATERIALS for the selected route only: its four dated sheets plus the science ramp/tray/ball/ruler set, the music score/beat-card set, or the approved Scratch computer/reference set—not all three purchases. **Kit label:** **CHOICE LAB—W19-22—ROUTE: ___ / BASELINE+RETEST / 4 DATED LOGS**. Return tools/trays/books/balls or approved computers, delete tape, save both versions/raw records. **Unfinished work directions:** mark the selected route and last milestone or test, then resume with the same criterion and raw record. If the kit becomes unavailable, document an approved route shift—never invent evidence.
+
+### Interpretation and reteach
+
+- **Annotated exemplar/error/reteach:** Underline route criterion/constraint, box dated baseline/retest values or outputs, circle single revision, bracket limit/resource choice. Mixed routes or multiple simultaneous changes make comparison invalid; missing runtime is access gap, not coding misconception; failed test is data. Reteach the route’s entry task, name one variable/notation/guard change, then repeat one reduced same-condition test.
+
+## SAFETY / support / challenge
+
+- **Safety severity/likelihood and access:** Science ramp/computer routes are **minor severity / possible likelihood**; music/paper **low severity / unlikely likelihood**. **Adult supervision ratio:** **1:25** with teams ≤3 and low tray-contained ramps; no unreviewed chemical, body, electrical, food or web projects. **Print/accessibility check:** verify each route is ≥16 pt with units/beat symbols/code text; offer number line, tactile beats, oral/scribed logs and motor support.
+- **SDS/product gates: HOLD — masking tape and school-approved classroom marker.** The exact product and manufacturer for each category are not specified. The [Safety Data Sheet Register TAPE row and CONTROL-ROW](../../Review/Safety_Data_Sheet_Register.csv) do not approve either exact product; do not issue either product or substitute another tape or marker until the school safety lead approves each exact product and its current SDS.
+- **Devices/external-service compliance and deferred evidence:** The coding route uses an assigned school-managed computer with the school-approved **Scratch editor** (offline or managed local save), with no login, web research, personal data or publication. Record the pupil's actual Scratch edit/run turn and the four-click/reset outputs. If the computer or Scratch editor is unavailable, mark coding-route execution and runtime tests **deferred** or complete an approved route change; a paper score trace demonstrates algorithm reasoning only and must not be counted as Scratch runtime or device evidence.

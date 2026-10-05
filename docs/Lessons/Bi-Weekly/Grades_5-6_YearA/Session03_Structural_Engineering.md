@@ -85,3 +85,17 @@ responsible work. **Ask:** "Where did the force go?" No routine homework.
 
 **Previous:** [Sphero Advanced](./Session02_Sphero_Advanced.md)
 **Next:** [Body Systems](./Session04_Body_Systems.md)
+## Teacher artifact pack (release checklist)
+
+- **Student material and expected evidence (print/no-print):** Supply or board-copy two beam boxes (`flat`, `folded`) with `15 cm span; prediction/reason; 20 g result; 40 g result; sag/stop; redesign` and a force-arrow sketch. Complete evidence records actual results with g, keeps span at 15 cm, traces centered load to both supports, and states that demonstrated load is not breaking strength.
+- **Worked example and finished example:** Model a flat strip that sags at 20 g: stop and record `demonstrated below 20 g`, fold the comparison strip lengthwise, then let the adult test 20 and 40 g. A finished example may read `flat: sag at 20 g; folded: held 20 g, sag at 40 g; fold changed geometry; maximum/breaking strength unmeasured`, with arrows load→beam→both books.
+- **Board/chart setup:** Draw supports 15 cm apart, centered-load arrows, and `FLAT | FOLDED` rows for 20/40 g. Post `2 packets=20 g; 4=40 g; adult loads; stop at sag` and a `kept same / changed` confound check.
+- **Questions/misconceptions:** Ask “Where did the force go?” (through beam to both supports), “Did span stay 15 cm?” (must), “Did 40 g prove breaking strength?” (no), and “Why might folding help?” (form changes resistance to bending). Correct 4 packets = 400 g and “strong enough for people.”
+## Exact supplies
+
+- **Kit contents and Kit label:** Exact Short Beam Test kit: per pupil paper evidence/pencil; per team two 10×25 cm paper strips, two books, tray, ruler and 0.2 m tape; teacher controls four sealed 10 g packets plus board/clock/roster. **Kit label:** `G5-6 YA S03 — 15 cm SHORT BEAM — 4×10 g ADULT LOAD`. Reset: adult retrieves/counts four packets, stack books, return rulers/trays, discard damaged strips, file evidence. Mark last safe load and shape on unfinished work; store untested strip and defer adult test.
+- **Annotated exemplar, Common error interpretation, and reteach:** Annotate `folded held 40 g, therefore safe bridge` as `evidence supports only this tabletop strip/test`; box the actual g result, underline 15 cm control and circle a proposed form change. **Common error interpretation:** a sag is valid evidence, not failure. Reteach units with packet counting, redraw the load path, and adult-run one controlled comparison.
+
+## SAFETY
+
+- **Safety classification, Adult supervision ratio, SDS/product gate, and Print/accessibility check:** Severity **moderate** and likelihood **unlikely** because loads/supports can fall; only the adult adds/removes sealed packets, no hands under load, body weight or climbing. **Adult supervision ratio: 1 adult:25 pupils**, but **one adult directly controls the single active loading visit/team**. **SDS/product gate: HOLD — masking/painter tape (TAPE).** The exact product/manufacturer is not specified; see the [Safety Data Sheet Register](../../../Review/Safety_Data_Sheet_Register.csv). Do not issue or substitute tape until the school safety lead approves the exact product and current SDS. **Print/accessibility check:** print diagrams at 14-point/high contrast, use patterns with arrows, precrease for access, and accept oral/scribed observations.

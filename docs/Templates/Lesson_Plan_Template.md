@@ -44,8 +44,11 @@ every lesson.
 2. [Count materials using the class-size table; assign teams and rotate roles.]
 3. [Perform the exact teacher prep test, including the expected result.]
 4. [Set up tables/trays and demonstrate safe boundaries before distribution.]
-5. [Post/draw the objective and two or three visual steps; read them aloud.]
-6. [Prepare the indoor/no-device/missing-supply fallback and individual check.]
+5. [Write the exact board/chart setup; post/draw the objective and two or three
+   visual steps; read them aloud.]
+6. [Attach the worked example and finished example/sketch where a build is used.]
+7. [Prepare the indoor/no-device/missing-supply fallback and individual check.]
+8. [Prepare the unfinished-work folder and the kit issue/return count card.]
 
 Do not invent a closet location, school account, app license or loan reservation.
 No routine homework and no donation prerequisite.
@@ -95,7 +98,9 @@ Prayer or a saint's story is not experimental proof.]
 
 ## SAFETY
 
-- [Specific hazards, age restrictions, teacher-only steps and stop signal.]
+- [For each hazard: Low/Moderate/Serious/Severe severity; Unlikely/Possible/
+  Likely/Frequent likelihood; who is harmed; when; prevention; residual risk.]
+- [Required adult ratio, age restrictions, teacher-only steps, PPE and stop signal.]
 - [Screen allergies/sensory needs; no eating experimental materials.]
 - Never use button cells, latex balloons or projectile activities in this core
   program. No neodymium magnets in K; use large encapsulated ferrite magnets only
@@ -105,7 +110,13 @@ Prayer or a saint's story is not experimental proof.]
   Stop, isolate the activity and contact the school's responsible adult/emergency
   procedure. A possible swallowed battery or magnet needs urgent emergency
   escalation, not a classroom troubleshooting attempt.
+- [Safe storage, breakage/burn/cut/allergy response, disposal and current SDS for
+  every exact adhesive/paint/cleaner/spray/solvent/mixture.]
 - **Indoor alternative:** [Equivalent objective and setup; no unsafe cold exposure.]
+
+Use the [Safety Risk Protocol](../Review/Safety_Risk_Protocol.md). Unconfirmed
+school, Archdiocesan, insurance, facility, storage, cleaning, disposal, or
+supervision requirements are **VERIFICATION REQUIRED** and hold the pathway.
 
 ## Exact lesson sequence
 
@@ -122,10 +133,9 @@ directions and materials. Do not add untimed prayer, transitions or worksheets.
 | 5. Individual objective-linked check | 19-22 | 23-27 | 32-37 | 36-41 | [Each child shows/tells/draws O1; record evidence] |
 | 6. Cleanup and close | 22-25 | 27-30 | 37-40 | 41-45 | [Count, sort, disconnect, dry and return; closing thought] |
 
-**Questions to ask:** "[What changed?]"; "[What stayed the same?]";
-"[What evidence supports your choice?]"; "[Who does this design include?]";
-"[How did you avoid waste?]" Supply topic-specific versions, not just
-"facilitate discussion."
+**Questions and expected responses:** For each topic-specific question, list
+one acceptable response, evidence to listen for, and a likely misconception.
+Do not write only "facilitate discussion."
 
 **K-1/nonreader directions:** [Show the real object, say ONE step, let students
 do it, repeat. Use pointing, sorting, building, gesture and dictated evidence.]
@@ -176,7 +186,13 @@ a tradeoff. Do not routinely turn faster learners into helpers.]
 1. [Stop tests; switch off/disconnect packs; teacher counts hazardous parts.]
 2. [Sort reusable vs waste; dry all wet materials; wipe tables per school practice.]
 3. [Restock exact quantities; label broken kit OUT OF SERVICE and report.]
-4. [Record elapsed time, individual evidence, supply use and next reteach.]
+4. [Recharge, repair, replace and return the kit to its named location.]
+5. [Put unfinished work in the named folder; state whether it continues next
+   meeting or is documented/recycled.]
+6. [Record elapsed time, individual evidence, supply use and next reteach.]
+
+**Kit label text:** `C-STREAM | grade/rotation | unit | lesson | capacity |
+issue/return counts | consumables | teacher-only items | checked by/date`.
 
 Copy the [newsletter block](./Family_Newsletter_Template.md). Include what
 children did/learned, a Catholic connection, a specific oral question, and an
@@ -194,9 +210,14 @@ standard -> grade -> unit -> lesson -> objective -> individual evidence.
 
 - [ ] Native timings sum correctly, including cleanup.
 - [ ] Complete kit and scaling confirmed for actual enrollment.
-- [ ] Teacher background, model, safety, misconceptions and failure responses supplied.
+- [ ] Printable student materials and answer key/expected evidence physically exist.
+- [ ] Worked and finished examples/sketches exist for builds.
+- [ ] Board/chart setup and expected discussion responses are explicit.
+- [ ] Kit contents, label, reset and unfinished-work directions are explicit.
+- [ ] Teacher background, safety, misconceptions and failure responses supplied.
 - [ ] Each assessed objective has an individual prompt and success condition.
 - [ ] Support, challenge, indoor and no-device contingencies are explicit.
+- [ ] Print/accessibility and any external-service approval checks pass.
 - [ ] Faith/source claims accurate or marked VERIFICATION REQUIRED.
 - [ ] Family copy prepared; no home purchase, donation or device prerequisite.
 - [ ] Substitute has named contact and actual materials location.
