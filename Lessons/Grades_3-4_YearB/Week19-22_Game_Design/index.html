@@ -675,6 +675,22 @@
       
         
       
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
     
     
@@ -1852,6 +1868,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#teacher-artifact-pack" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher artifact pack
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2830,6 +2857,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#teacher-artifact-pack" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher artifact pack
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -3090,6 +3128,21 @@
 </ul>
 <h2 id="family-snippet">Family snippet<a class="headerlink" href="#family-snippet" title="Permanent link">&para;</a></h2>
 <p>We designed a three-point game, tested its score boundary and restart, and revised instructions for a real user. Paper traces show computational thinking; children who used Scratch also practiced executable code. Our Catholic connection was fair, inclusive design and privacy. <strong>Ask:</strong> "What happens on input number four, and why?" <strong>Optional at home:</strong> play a three-point paper game and check its rules. The original resource <strong>scratch.mit.edu</strong> remains optional; offline classroom work needs no home account. No homework, devices or public sharing required.</p>
+<h2 id="teacher-artifact-pack">Teacher artifact pack<a class="headerlink" href="#teacher-artifact-pack" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Four-meeting student evidence set (print/no-print):</strong> M1 trace table fields <code>input green flag/click 1/2/3/4 | score before | score after | message</code>; M2 bug sheet <code>expected | actual | first mismatch | guard/fix | retest</code>; M3 access map <code>mouse sender | space sender | collect receiver | observed one-input change | instruction revision</code>; M4 checklist <code>starts 0 / reaches 3 / fourth stays 3 / restart 0 / readable-respectful</code>, plus <code>feedback</code>, <code>revision</code>, <code>retest</code>, and <code>my observed code operation OR paper trace</code>. No-print: copy those exact headings onto the four team sheets and individual half-sheets.</li>
+<li><strong>Answer guidance:</strong> Correct boundary trace is <code>0,1,2,3,3</code>, and green flag returns score to 0. The guard is <code>if Score &lt; 3</code> around the point change. In the accessible version, click and space broadcast <code>collect</code>; only the receiver changes Score. Accept partner-assisted input as access, but do not call paper tracing executed programming. A fourth input producing 4, or one click adding 2, is a reproducible bug rather than a behavior to conceal.</li>
+<li><strong>Worked finished example:</strong> Document <code>actual before fix: 0,1,2,3,4; first mismatch input 4; change: place change Score by 1 inside if Score &lt; 3; after: 0,1,2,3,3; restart: 0</code>. For M3, annotate deletion of the obsolete clicked scoring body, then show both senders and one receiver. User feedback <code>instructions say click only</code>; revision <code>Click Token or press SPACE. Reach 3 points</code>; retest passes both inputs.</li>
+<li><strong>Board/visual setup:</strong> Keep the native Scratch stacks visible exactly as written in the lesson, beside a 0-3 paper number line and the trace matrix. In meeting 3 draw <code>click -&gt; broadcast collect &lt;- space</code> feeding one receiver; cross out the old direct scoring stack. Post the five user-test criteria and a local-save filename example <code>W19_Team07.sb3</code>.</li>
+<li><strong>Discussion and misconceptions:</strong> “Why does input 4 stay at 3?” (the condition is false), “Why not leave both scoring stacks?” (one click can add twice), “Does finished artwork prove the game works?” (no), “What evidence proves Scratch operation?” (the pupil was observed editing/running), and “What remains private?” (names, photos, voices, accounts). Correct the nonexistent <code>when score &gt; 10</code> event and distinguish a paper trace from executable code.</li>
+<li><strong>Exact kit, label, reset:</strong> Per team: <code>1 school-approved Scratch-capable computer, 4 paper sheets, 1 paper token, 3 scoring squares</code>; per pupil: <code>4 evidence half-sheets, 1 pencil</code>; class: <code>timer, board, school-controlled local storage</code>, plus teacher demonstration computer if available. Label paper folder <code>W19-22 | assigned team ID | TRACE/BUG/ACCESS/USER TEST</code>; label local file <code>W19_[assigned team ID].sb3</code> without names. Save locally, reopen one file to verify, stop project, close software, count token/squares/paper, and leave charging/plugs to the adult.</li>
+<li><strong>Unfinished-work protocol:</strong> Record both the next coding step and operation status: <code>not opened</code>, <code>built reset</code>, <code>built guard</code>, <code>added broadcast</code>, or <code>needs user retest</code>. Save under the same team ID and keep the matching paper folder. Schedule missed individual operation on a school device; never require home Scratch access or relabel paper work as programming.</li>
+<li><strong>Annotated exemplar/error/reteach:</strong> Mark <code>Score 4</code> as <code>boundary guard missing/misplaced</code>; <code>+2 per click</code> as <code>duplicate scoring stack</code>; <code>does not restart</code> as <code>green-flag set Score to 0 missing</code>; inaccessible color-only success as <code>add words/symbol</code>; missing file as <code>storage evidence absent—rebuild starter, not student fault</code>. Reteach first with the 0-3 token and condition card, then reconstruct only reset, sender, receiver, and guard before retesting four inputs.</li>
+<li><strong>Safety, likelihood, adult ratio, SDS:</strong> Severity <strong>moderate</strong> for electrical damage/trip hazards or privacy exposure; likelihood <strong>unlikely</strong> with dry hands, stationary devices, school storage, and adult-controlled power. Adult ratio is <strong>1 adult to no more than 13 pairs/trio (25 pupils)</strong>, with screens observable and plugs/charging handled only by the adult. No liquids, flashing effects, public uploads, or identifying media. <strong>SDS: not applicable</strong>; no chemical product is used.</li>
+<li><strong>Print accessibility:</strong> Use 14-point minimum, actual block names in text, thick arrows, numbered trace rows, and patterns/icons rather than color categories. Provide enlarged block cards, keyboard access, partner-assisted pointing/dragging, screen-reader or school accessibility settings where available, and an unplugged trace with the same logic. Test a grayscale print so Events/Control/Variables remain identifiable by labels, not Scratch block colors.</li>
+<li><strong>Device compliance:</strong> Device compliance: use Scratch 3 on school-managed computers, preferably offline/guest, with school-approved software and hardware and team-ID local <code>.sb3</code> storage whose save/reopen operation was checked before class. Use no student account, public studio, cloud upload, name, photo, voice, analytics, or external asset. Paper or unplugged work is not executed device evidence; when Scratch or a computer is unavailable, record <code>Scratch operation not observed</code>, defer execution, and schedule witnessed editing and running on an approved school device before claiming completion.</li>
+<li><strong>Kit label:</strong> Kit label: mark the paper folder <code>W19-22</code>, the school-assigned team identifier, and <code>TRACE/BUG/ACCESS/USER TEST</code>; name the local file <code>W19_</code> plus that identifier and <code>.sb3</code>, without pupil names.</li>
+</ul>
 
 
 

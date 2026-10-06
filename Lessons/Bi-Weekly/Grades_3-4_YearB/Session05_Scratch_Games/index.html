@@ -675,6 +675,22 @@
       
         
       
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
     
     
@@ -1648,6 +1664,17 @@
     <span class="md-ellipsis">
       
         Success/access/troubleshooting
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#teacher-artifact-pack-lesson-specific-release-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher artifact pack (lesson-specific release checklist)
       
     </span>
   </a>
@@ -2650,6 +2677,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#teacher-artifact-pack-lesson-specific-release-checklist" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher artifact pack (lesson-specific release checklist)
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2689,7 +2727,8 @@ Prep 20 after Scratch 3 works; installation extra; cleanup 5.</p>
 Preflight full starter/four clicks/four space taps/reset/save <code>.sb3</code>/reopen.
 Leave working sample/save location; missing preflight -&gt; paper/report.
 Teams &lt;=3 (&#8536;/7/9): computer/three counters. Each pupil paper/pencil.
-Teacher board/timer/demo from kit. No bought starter or public account.</p>
+Teacher board/timer and demo use a school-managed computer running the same
+offline Scratch 3 starter. No bought starter or public account.</p>
 <table>
 <thead>
 <tr>
@@ -2773,6 +2812,20 @@ observed</strong>. Half computers permit two work-window turn waves; fewer requi
 rescheduled operation. Early finish: clearer rules, no new game-type overload.</p>
 <p><strong>Family:</strong> We made a bounded game and tested restart. Ask, "Why did the fourth
 input stay three?" Optional: explain the rule without coding at home.</p>
+<h2 id="teacher-artifact-pack-lesson-specific-release-checklist">Teacher artifact pack (lesson-specific release checklist)<a class="headerlink" href="#teacher-artifact-pack-lesson-specific-release-checklist" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Student material (print/no-print):</strong> Print a <strong>Scratch 0–3 boundary and reset log</strong> per pupil with <code>My operation turn: edited / ran / stopped</code>, <code>Input tested first: sprite click / space</code>, prediction row <code>start 0 → input 1 ____ → 2 ____ → 3 ____ → 4 ____</code>, actual row with the same five boxes, <code>Green-flag reset predicted ____; actual ____</code>, <code>Second input actual: 0 → ____ → ____ → ____ → ____; reset ____</code>, <code>Mismatch/bug found: ____</code>, and <code>Block changed or verified: ____</code>. No-print: pupils draw the two traces and reset boxes; paper-only work is labeled <strong>CT trace—Scratch operation not observed</strong>.</li>
+<li><strong>Evidence and answer guidance:</strong> The correct predicted and observed trace for four distinct inputs is <code>0,1,2,3,3</code>; green flag returns Score to <code>0</code>, for both sprite-click and space-key event paths. Require each pupil's actual edit/run/stop roster mark, not just team success. Accept <code>no mismatch; &lt;3 guard verified</code> as a valid evidence statement after both traces, or a named fix such as removing a duplicate receive stack/restoring <code>set Score to 0</code>. Holding a key or simultaneous inputs is not a valid controlled test.</li>
+<li><strong>Worked example and finished example:</strong> Run the supplied four-stack starter exactly: green flag shows <code>0</code>; four separate sprite clicks record <code>1,2,3,3</code>; green flag records <code>0</code>; four separate space taps record <code>1,2,3,3</code>; final green flag records <code>0</code>. Annotate <code>Score &lt; 3</code> as the guard and <code>set Score to 0</code> as reset. A finished sheet distinguishes prediction/actual and either records a correction plus repeat or <code>matched—no code change needed</code>; unrelated movement/touch-goal blocks are not part of this lesson.</li>
+<li><strong>Visual example and board setup:</strong> Display the four text stacks from the lesson and connect <code>click OR space → broadcast point → if Score &lt; 3, +1 → at 3, say message</code>. Beside them post a table <code>Input count 0|1|2|3|4|flag</code> over <code>Score 0|1|2|3|3|0</code>, circle <code>&lt;3</code>, and list the team turn roles <code>operator / counter tracer / distinct-input caller</code>.</li>
+<li><strong>Discussion with acceptable response, and misconception:</strong> Ask <code>Why test input 4?</code> (to test the upper boundary), <code>Why does &lt;=3 fail as a guard before adding?</code> (at Score 3 it is still true and permits 4), <code>What must the flag reset?</code> (Score to 0; this starter has no other changing game state), and <code>Does animation prove the rule works?</code> (no, the traces do). Correct <code>the fourth input should win again</code> with the cap, and investigate score jumps by checking duplicate receive stacks and held/simultaneous inputs.</li>
+<li><strong>Kit contents, kit label, cleanup and reset:</strong> Kit label: <strong>S5 SCRATCH—TEAM __</strong>. Each tray contains exactly <code>1 preflighted compatible computer with offline Scratch 3 and local starter, 3 plastic counters, and one save-location card</code>; each pupil receives <code>1 trace sheet/plain paper and 1 pencil</code>. The teacher kit holds <code>1 demo computer, printed four-stack map, timer and operation roster</code>. Reset by clicking Stop, saving only as <code>S5_team##_YYYYMMDD.sb3</code>, reopening once to verify, deleting typed pupil names, stacking three counters, closing Scratch, and returning the unplugged or school-managed charging device per local procedure.</li>
+<li><strong>Unfinished work:</strong> Save the last runnable local file with team number/date and paperclip each pupil's trace to a status card: <code>build incomplete</code>, <code>click test complete</code>, <code>space test complete</code>, or <code>reset not yet observed</code>. If the file will not run/reopen, retain the paper block map and mark runtime evidence <strong>not observed</strong>; schedule the missing individual operation turn instead of inferring it from peers or a screenshot.</li>
+<li><strong>Annotated exemplar, common error and reteach:</strong> Label <code>event</code>, <code>broadcast</code>, <code>single receiver</code>, <code>&lt;3 boundary</code>, <code>score change</code>, and <code>flag reset</code>. Trace <code>0,1,2,3,4</code> indicates the guard is absent or inclusive; restore <code>&lt;3</code> and repeat input 4. A <code>+2</code> jump indicates duplicate point receivers or non-distinct inputs; show the broadcast and count receiver stacks. A post-flag <code>3</code> indicates missing/wrong reset; trace from <code>when green flag clicked</code>.</li>
+<li><strong>Safety classification:</strong> <strong>Severity: low; likelihood: unlikely; Adult ratio: 1 adult to 12 pupils at device stations maximum.</strong> Keep devices dry and flat, route intact power leads away from feet, use counters only on desks, and stop/report heat, damage or exposed wiring. Provide posture/vision breaks and never equate game score with personal worth. <strong>SDS: not applicable</strong> to normal computer, paper, pencil and plastic-counter use; damaged batteries follow the school's device emergency documentation.</li>
+<li><strong>Print/accessibility check:</strong> Use 18-point text, a high-contrast text-block map (not screenshot-only), large trace boxes, words plus click/space symbols, and color-independent block labels. Offer switch/keyboard access, counter tracing, read-aloud prompts, oral prediction/scribing and a no-screen role; still record whose actual operation was observed.</li>
+<li><strong>Device compliance:</strong> Use guest/offline Scratch 3 and the teacher-preflighted local starter only. No public accounts, cloud sharing, chat, downloads, external assets, personal devices or identifying filenames. The paper pathway assesses CT/math only and must not be reported as software operation. Paper/unplugged work is not executed-device evidence; until the approved device or hardware turn is witnessed, operation remains deferred/not observed.</li>
+</ul>
 
 
 

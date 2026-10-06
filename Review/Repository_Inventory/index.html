@@ -15,7 +15,7 @@
         <link rel="canonical" href="https://bonJoeV.github.io/C-STREAM/Review/Repository_Inventory/">
       
       
-        <link rel="prev" href="../School_Release_Checklist/">
+        <link rel="prev" href="../Change_Log/">
       
       
         <link rel="next" href="../../Resources/Quick_Start_Guide/">
@@ -677,6 +677,22 @@
       
         
       
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
     
     
@@ -732,6 +748,34 @@
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Instructional_Time_Baseline/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Instructional Time Baseline
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
               
             
               
@@ -908,6 +952,34 @@
   
   
   
+    <li class="md-nav__item">
+      <a href="../Core_Unit_Plans/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Core Unit Plans
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
     
     
       
@@ -1055,6 +1127,62 @@
   
   
     <li class="md-nav__item">
+      <a href="../Accessibility_Technology_Compliance/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Accessibility & Technology Compliance
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Safety_Risk_Protocol/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Safety Risk Protocol
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
       <a href="../Substitute_Readiness/" class="md-nav__link">
         
   
@@ -1063,6 +1191,34 @@
     
   
     Substitute Readiness
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Teacher_Artifact_Readiness/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teacher Artifact Readiness
   
 
     
@@ -1304,6 +1460,90 @@
                 
   
   
+  
+  
+    <li class="md-nav__item">
+      <a href="../Teacher_Implementation_Guide/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Teacher Implementation Guide
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Source_Assumptions_Register/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Source & Assumptions Register
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../Change_Log/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Change Log
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
     
   
   
@@ -1365,6 +1605,17 @@
       Table of contents
     </label>
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#current-reconciliation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Current reconciliation
+      
+    </span>
+  </a>
+  
+</li>
       
         <li class="md-nav__item">
   <a href="#curriculum-assets" class="md-nav__link">
@@ -2007,6 +2258,17 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
+  <a href="#current-reconciliation" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Current reconciliation
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
   <a href="#curriculum-assets" class="md-nav__link">
     <span class="md-ellipsis">
       
@@ -2069,8 +2331,57 @@
 <p>This inventory records the existing organization before curriculum changes.
 The review preserves the weekly/bi-weekly options, combined-grade rotations,
 existing URLs, and the school's 25/30/40/45-minute periods.</p>
+<p>The current one-row-per-artifact reconciliation is generated in
+<a href="../Curriculum_Artifact_Inventory.csv">Curriculum Artifact Inventory</a>. It includes
+curriculum, review, data, templates, resources, scripts and discovered publishing
+support with an inclusion/exclusion rationale, audit status and resulting action.
+Run <code>.\scripts\Build-OperationalAudit.ps1</code> after adding or removing an artifact;
+silent files and hand-edited totals are not accepted.</p>
+<p><code>.\scripts\Build-OperationalAudit.ps1 -ValidateOnly</code> is the freshness gate:
+it compares the generated rows with the current script output and rejects
+missing or changed content, regardless of row order. File modification times
+are not used because Git checkout does not preserve them. Regenerate from the
+script rather than editing
+<code>Curriculum_Artifact_Inventory.csv</code>, <code>Teacher_Artifact_Audit.csv</code>, or
+<code>Procurement_Register.csv</code> by hand.</p>
+<h2 id="current-reconciliation">Current reconciliation<a class="headerlink" href="#current-reconciliation" title="Permanent link">&para;</a></h2>
+<table>
+<thead>
+<tr>
+<th>Exclusive disposition</th>
+<th style="text-align: right;">Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Included curriculum/review/operations artifacts</td>
+<td style="text-align: right;">394</td>
+</tr>
+<tr>
+<td>Reconciled publishing/repository-support exclusions</td>
+<td style="text-align: right;">9</td>
+</tr>
+<tr>
+<td><strong>Discovered and reviewed total</strong></td>
+<td style="text-align: right;"><strong>403</strong></td>
+</tr>
+<tr>
+<td>Duplicate rows</td>
+<td style="text-align: right;">0</td>
+</tr>
+<tr>
+<td>Unresolved inventory identity</td>
+<td style="text-align: right;">0</td>
+</tr>
+</tbody>
+</table>
+<p>The exclusive disposition arithmetic is <strong>394 + 9 = 403</strong>. Separately, all 251
+included lesson plans pass the expanded repository teacher-artifact check; this
+is a quality state within the included set, not an extra inventory row. The
+<a href="../Teacher_Artifact_Audit.csv">teacher artifact audit</a> records the per-lesson
+evidence. School release remains a separate local gate.</p>
 <h2 id="curriculum-assets">Curriculum assets<a class="headerlink" href="#curriculum-assets" title="Permanent link">&para;</a></h2>
-<p>The documentation tree contains <strong>307 Markdown documents</strong>, including <strong>251
+<p>The documentation tree contains <strong>351 Markdown documents</strong>, including <strong>251
 lesson documents</strong> and supporting resources. A document is not necessarily a
 single class meeting: weekly filenames sometimes cover several weeks.</p>
 <table>
@@ -2180,9 +2491,9 @@ Holiday weeks and multi-week units require a separate pacing check.</p>
 </tr>
 </tbody>
 </table>
-<p>There are no tracked curriculum-generation scripts, automated curriculum tests,
-structured lesson database, or standards/materials CSVs in the baseline.
-The existing dependency manifest supports documentation publication.</p>
+<p>There were no tracked curriculum-generation scripts, automated curriculum tests,
+structured lesson database, or standards/materials CSVs in the <strong>baseline</strong>.
+Those were added by the review and are now reconciled in the current inventory.</p>
 <h2 id="initial-evidence-not-conclusions-about-every-lesson">Initial evidence, not conclusions about every lesson<a class="headerlink" href="#initial-evidence-not-conclusions-about-every-lesson" title="Permanent link">&para;</a></h2>
 <ul>
 <li>A Kindergarten robotics unit requires charged, paired robots and iPads.

@@ -675,6 +675,22 @@
       
         
       
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
     
     
@@ -1806,6 +1822,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#teacher-artifact-pack" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher artifact pack
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2782,6 +2809,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#teacher-artifact-pack" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Teacher artifact pack
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -2927,6 +2965,102 @@ two waves of three-minute turns; otherwise reschedule operation. Early finish:
 test limit again, not unsafe or unguarded catch-game expansion.</p>
 <p><strong>Family:</strong> We executed bounded scores and restart tests. Ask, "Why did the
 fourth input stay three?" Optional: explain the rule without a device.</p>
+<h2 id="teacher-artifact-pack">Teacher artifact pack<a class="headerlink" href="#teacher-artifact-pack" title="Permanent link">&para;</a></h2>
+<ul>
+<li><strong>Student material — two-meeting test record (print/no-print):</strong> Fields are <code>Pupil/team code
+  ___; dates ___</code>; <code>Score variable is for: all sprites / this sprite only</code>;
+  <code>In my words, the &lt;3 guard means ___</code>; then two identical tables, one
+  <code>click test</code> and one <code>space test</code>, with rows <code>start, input 1, input 2, input
+  3, input 4, green-flag restart</code> and columns <code>prediction | actual | match?
+  Y/N</code>. Add <code>Bug or confusing result ___</code>; <code>block/message changed ___</code>;
+  <code>why that change should help ___</code>; <code>retest trace ___</code>; <code>rule message before
+  ___</code>; <code>peer confusion ___</code>; <code>accessible rule message after ___</code>; <code>Every
+  pupil edit/run initials ___</code>; and <code>What stayed at three, and why? ___</code>.
+  With no printer, pupils draw the two six-row tables on their two issued
+  sheets while the teacher leaves every heading visible.</li>
+<li><strong>Expected evidence and acceptable answers:</strong> Both distinct-input traces must
+  be <code>0,1,2,3,3</code>, followed by restart <code>0</code>. Accept plain-language guard
+  explanations such as <code>add one only while Score is less than three</code>. The
+  fourth input remains three because the first condition is false; the flag
+  resets because its event sets Score to zero. A verified-no-bug record is
+  acceptable only with both actual traces and a named check. Valid message
+  revisions make click and keyboard controls, the cap and restart visible.
+  Do not count held keys, simultaneous click/space inputs, counter-only work or
+  an unexecuted script as Scratch operation evidence.</li>
+<li><strong>Worked and finished example:</strong> Predictions and actual click values both read
+  <code>0 | 1 | 2 | 3 | 3 | restart 0</code>. Initial bug: fourth input becomes <code>4</code>.
+  Annotate <code>&lt;= 3 lets Score change when it already equals 3</code>; correction:
+  restore <code>&lt; 3</code>; retest returns <code>0,1,2,3,3</code>. Before message: <code>Click me.</code>
+  Peer confusion: <code>I did not know Space worked or how to restart.</code> Finished
+  message: <code>Click me or press Space. Score stops at 3. Green flag restarts.</code>
+  Box the corrected guard, circle the boundary and reset observations, and
+  underline the peer-feedback-linked words.</li>
+<li><strong>Visual example and Board setup:</strong> Display the complete four-stack starter exactly as
+  written above, a counter trace <code>0 -&gt; 1 -&gt; 2 -&gt; 3 -X-&gt; 4</code>, and side-by-side
+  <code>event / condition / result</code> columns. Keep separate click and space test
+  tables, a <code>one distinct input at a time</code> notice, and a role chart showing
+  which pupil is currently editor/runner. Post local save steps and the
+  approved folder; do not display pupil names or scores publicly.</li>
+<li><strong>Discussion guidance:</strong> Ask <code>Why does input four not add a point?</code> Accept
+  <code>&lt;3 is false at 3</code>; <code>What is different about =3?</code> Accept <code>it controls the
+  message, not the point change</code>; <code>Why test restart after the boundary?</code> Accept
+  <code>to show initialization works after a completed run</code>; <code>Does a high game
+  score rank a person's worth?</code> Accept <code>no, it is only program state</code>; and
+  <code>Why test click and Space separately?</code> Accept <code>both promised controls need
+  evidence and simultaneous events confuse the trace</code>. Correct the ideas that
+  continuous touch is one event, changing the message repairs code logic, or
+  a predicted trace can replace actual execution.</li>
+<li><strong>Kit contents. Kit label: and Cleanup/Reset:</strong> Each station has one preflight-compatible
+  computer, three plastic counters and the known-good starter/save-location
+  card. Each pupil has two plain sheets and one pencil. Use the allocation table
+  totals above. Label the counter pouch exactly <code>C-STREAM G3-4 | W24-25
+  SCRATCH | STATION CODE | 3 COUNTERS</code>; label the paper folder <code>W24-25 TEST
+  RECORDS</code>; identify computers with the school's existing asset label rather
+  than adding tape. Reset by locally saving under a non-identifying team code,
+  reopening once, returning Score to 0, closing Scratch without publishing,
+  counting three counters, arranging cables as school policy requires and
+  noting any device fault before the next team.</li>
+<li><strong>Unfinished work:</strong> Save only to the approved local location as
+  <code>W24-25_TeamCode_incomplete</code>, write the exact next action (<code>connect receive
+  stack</code>, <code>run fourth Space input</code>, or <code>retest restart</code>) on the paper record,
+  and place it in <code>TO RESUME</code>. Do not require an account/home device. If a pupil
+  lacks an observed edit/run turn, mark <code>operation not yet observed</code> and
+  schedule a school-device turn; paper simulation does not close that gap.</li>
+<li><strong>Annotated exemplar, Common error interpretation, and Reteach:</strong> <code>0,1,2,3,4</code> points to <code>&lt;=3</code>, a missing
+  guard or a second receive stack; jumps by two suggest duplicate receive
+  stacks or overlapping inputs; no change suggests a disconnected event,
+  wrong broadcast name or wrong variable scope; no reset suggests the flag hat
+  or <code>set Score to 0</code> is disconnected. First reproduce with one input, compare
+  one stack to the starter and change one cause. Reteach with three counters:
+  physically evaluate <code>Score &lt; 3?</code>, move a counter only for true, then rebuild
+  and execute the receive stack. Preserve evidence of the original result and
+  append the retest rather than erasing the debugging trail.</li>
+<li><strong>Safety classification: Severity moderate; likelihood unlikely; SDS gate:</strong>
+  damaged electrical hardware is the moderate-severity case; normal use is low
+  severity after preflight.
+  <strong>Adult ratio: 1:25 maximum</strong> across no more than nine seated Scratch
+  stations, with teams of three or fewer and line of sight to screens/cables;
+  follow any stricter school device ratio or individual plan. Use dry hands,
+  keep counters off the floor and away from mouths, and stop/report heat, odor,
+  liquid, exposed wire or damaged plugs without touching the fault. No chemical
+  is introduced; a leaking device battery is handled only under the school's
+  manufacturer/EHS procedure.</li>
+<li><strong>Print accessibility:</strong> Use 14-point minimum text, 18-point large print,
+  heavy black table rules, written <code>Y/N</code> labels and no color-only code cues.
+  Read block names and prompts aloud; allow a partner pointer, keyboard access,
+  scribing or oral explanation while preserving each pupil's actual edit/run
+  turn. Print one sheet at 100% to ensure six rows remain on one page; the board
+  trace must be readable from the farthest station.</li>
+<li><strong>Device compliance:</strong> Technology is <strong>Required</strong>. Use preapproved
+  school-managed Scratch 3 offline or approved guest mode, school devices and
+  local storage; no pupil account, email, name in filenames, cloud sync, gallery
+  publishing, chat, media capture or external asset download. Preflight Scratch,
+  input controls, save/reopen and accessibility before class. If approval or
+  operation fails, use the paper/unplugged trace at the same times, but it does
+  not count as executed device evidence. Record <code>executed Scratch not observed</code>;
+  execution remains deferred and <strong>not observed</strong> until a teacher witnesses the
+  pupil's Scratch run; reschedule the device evidence.</li>
+</ul>
 
 
 
