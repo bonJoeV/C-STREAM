@@ -62,7 +62,7 @@ theme:
   # Icons
   icon:
     repo: fontawesome/brands/github
-    logo: material/school
+  logo: assets/images/C-STREAM-Logo.png
   favicon: assets/images/favicon.ico
   
   # Fonts
