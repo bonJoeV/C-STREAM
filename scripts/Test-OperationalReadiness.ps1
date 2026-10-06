@@ -11,6 +11,61 @@ $reviewRoot = Join-Path $root 'docs\Review'
 
 & (Join-Path $root 'scripts\Build-OperationalAudit.ps1') -RepositoryRoot $root -ValidateOnly
 
+$fixtureRoot = Join-Path ([System.IO.Path]::GetTempPath()) (
+    'cstream-operational-tests-' + [guid]::NewGuid().ToString('N')
+)
+[System.IO.Directory]::CreateDirectory($fixtureRoot) | Out-Null
+foreach ($name in @('docs', 'scripts', '.github', '.gitignore', 'mkdocs.yml',
+    'README.md', 'requirements.txt', 'review.md')) {
+    Copy-Item -LiteralPath (Join-Path $root $name) -Destination $fixtureRoot -Recurse -Force
+}
+$fixtureScript = Join-Path $fixtureRoot 'scripts\Build-OperationalAudit.ps1'
+$fixtureReview = Join-Path $fixtureRoot 'docs\Review'
+$outputNames = @('Curriculum_Artifact_Inventory.csv', 'Teacher_Artifact_Audit.csv',
+    'Procurement_Register.csv')
+foreach ($name in $outputNames) {
+    (Get-Item -LiteralPath (Join-Path $fixtureReview $name)).LastWriteTimeUtc = [datetime]::UtcNow.AddDays(-1)
+}
+& $fixtureScript -RepositoryRoot $fixtureRoot -ValidateOnly | Out-Null
+
+foreach ($name in $outputNames) {
+    $path = Join-Path $fixtureReview $name
+    $original = [System.IO.File]::ReadAllBytes($path)
+    $fixtureRows = @(Import-Csv -LiteralPath $path)
+    $column = $fixtureRows[0].PSObject.Properties.Name | Select-Object -First 1
+    $fixtureRows[0].$column = 'INVALID TEST VALUE'
+    $fixtureRows | Export-Csv -LiteralPath $path -NoTypeInformation
+    $rejected = $false
+    try {
+        & $fixtureScript -RepositoryRoot $fixtureRoot -ValidateOnly | Out-Null
+    } catch {
+        if ($_.Exception.Message -cne "Stale or missing operational audit: $path") {
+            throw
+        }
+        $rejected = $true
+    } finally {
+        [System.IO.File]::WriteAllBytes($path, $original)
+    }
+    if (-not $rejected) { throw "Altered operational audit was accepted: $name" }
+
+    $backupPath = Join-Path $fixtureRoot $name
+    Move-Item -LiteralPath $path -Destination $backupPath
+    $rejected = $false
+    $inventoryPath = Join-Path $fixtureReview 'Curriculum_Artifact_Inventory.csv'
+    try {
+        & $fixtureScript -RepositoryRoot $fixtureRoot -ValidateOnly | Out-Null
+    } catch {
+        if ($_.Exception.Message -cne "Stale or missing operational audit: $inventoryPath") {
+            throw
+        }
+        $rejected = $true
+    } finally {
+        Move-Item -LiteralPath $backupPath -Destination $path
+    }
+    if (-not $rejected) { throw "Missing operational audit was accepted: $name" }
+}
+Write-Output 'PASS: checkout timestamps ignored; altered and missing content rejected for all three operational audits.'
+
 $auditPath = Join-Path $reviewRoot 'Teacher_Artifact_Audit.csv'
 $rows = @(Import-Csv -LiteralPath $auditPath)
 if ($rows.Count -ne 251) {

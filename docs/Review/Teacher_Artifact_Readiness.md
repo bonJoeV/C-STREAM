@@ -69,8 +69,9 @@ named approver record are complete.
 
 Run `.\scripts\Build-OperationalAudit.ps1` after revisions, followed by
 `.\scripts\Build-OperationalAudit.ps1 -ValidateOnly`. Validation compares every
-generated row with the script's current output and rejects a generated CSV
-whose lesson map, lesson source, materials source, or audit script is newer.
+generated row with the script's current output and rejects missing or changed
+content, regardless of row order. File modification times are ignored because
+Git checkout does not preserve them.
 The completion line reports included/excluded artifacts, held lessons,
 required versus not-applicable checks, missing required checks, readiness
 section failures, broken-link lessons, and procurement rows. Automated

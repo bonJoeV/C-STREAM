@@ -19,9 +19,10 @@ Run `.\scripts\Build-OperationalAudit.ps1` after adding or removing an artifact;
 silent files and hand-edited totals are not accepted.
 
 `.\scripts\Build-OperationalAudit.ps1 -ValidateOnly` is the freshness gate:
-it compares the generated rows with the current script output and rejects an
-audit CSV when an input lesson, lesson map, materials inventory, or the audit
-script is newer than that CSV. Regenerate from the script rather than editing
+it compares the generated rows with the current script output and rejects
+missing or changed content, regardless of row order. File modification times
+are not used because Git checkout does not preserve them. Regenerate from the
+script rather than editing
 `Curriculum_Artifact_Inventory.csv`, `Teacher_Artifact_Audit.csv`, or
 `Procurement_Register.csv` by hand.
 

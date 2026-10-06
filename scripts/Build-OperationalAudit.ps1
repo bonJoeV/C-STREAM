@@ -340,36 +340,12 @@ $outputs = [ordered]@{
     $procurementPath = @($procurementRows)
 }
 
-function Assert-GeneratedOutputFresh {
-    param(
-        [string]$OutputPath,
-        [string[]]$SourcePaths
-    )
-    if (-not (Test-Path -LiteralPath $OutputPath -PathType Leaf)) {
-        throw "Missing generated operational audit: $OutputPath"
-    }
-    $outputTime = (Get-Item -LiteralPath $OutputPath).LastWriteTimeUtc
-    $newerSource = @($SourcePaths | Where-Object {
-        (Test-Path -LiteralPath $_ -PathType Leaf) -and
-        ((Get-Item -LiteralPath $_).LastWriteTimeUtc -gt $outputTime)
-    })
-    if ($newerSource.Count -gt 0) {
-        throw "Stale generated operational audit: $OutputPath (newer source: $($newerSource[0]))"
-    }
-}
-
 if ($ValidateOnly) {
     foreach ($output in $outputs.GetEnumerator()) {
         if (-not (Compare-CsvContent -Path $output.Key -Rows $output.Value)) {
             throw "Stale or missing operational audit: $($output.Key)"
         }
     }
-    $lessonSources = @($lessonMap | ForEach-Object {
-        Join-Path $docsRoot $_.lesson_path.Replace('/', '\')
-    })
-    Assert-GeneratedOutputFresh -OutputPath $artifactInventoryPath -SourcePaths @($lessonMapPath, $PSCommandPath)
-    Assert-GeneratedOutputFresh -OutputPath $teacherAuditPath -SourcePaths @($lessonMapPath, $PSCommandPath) + $lessonSources
-    Assert-GeneratedOutputFresh -OutputPath $procurementPath -SourcePaths @($materialsPath, $PSCommandPath)
 } else {
     foreach ($output in $outputs.GetEnumerator()) {
         $output.Value | Export-Csv -LiteralPath $output.Key -NoTypeInformation

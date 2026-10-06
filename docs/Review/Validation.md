@@ -158,8 +158,10 @@ git diff --check
 
 The operational audit also separates required checks from explicit
 not-applicable checks, validates equivalent lesson readiness sections, checks
-local artifact links, and enforces generated-CSV freshness against the lesson
-map, lesson sources, materials inventory, and audit script. Its summary counts
+local artifact links, and enforces generated-CSV freshness by comparing content
+computed from the current lesson map, lesson sources, materials inventory, and
+audit script. Row order and checkout-dependent file modification times do not
+affect validation. Its summary counts
 make missing required artifacts, section failures, and broken-link lessons
 visible without treating exclusions or not-applicable checks as passes.
 
