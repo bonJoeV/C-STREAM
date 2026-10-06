@@ -51,9 +51,9 @@ function Get-ArtifactType {
 }
 
 $candidateFiles = @(
-    Get-ChildItem -LiteralPath $docsRoot -Recurse -File
-    Get-ChildItem -LiteralPath (Join-Path $root 'scripts') -Recurse -File
-    Get-ChildItem -LiteralPath (Join-Path $root '.github') -Recurse -File
+    Get-ChildItem -LiteralPath $docsRoot -Recurse -File -Force
+    Get-ChildItem -LiteralPath (Join-Path $root 'scripts') -Recurse -File -Force
+    Get-ChildItem -LiteralPath (Join-Path $root '.github') -Recurse -File -Force
     foreach ($name in @('.gitignore', 'mkdocs.yml', 'README.md', 'requirements.txt', 'review.md')) {
         $path = Join-Path $root $name
         if (Test-Path -LiteralPath $path -PathType Leaf) { Get-Item -LiteralPath $path -Force }
