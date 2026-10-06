@@ -56,7 +56,7 @@ $candidateFiles = @(
     Get-ChildItem -LiteralPath (Join-Path $root '.github') -Recurse -File
     foreach ($name in @('.gitignore', 'mkdocs.yml', 'README.md', 'requirements.txt', 'review.md')) {
         $path = Join-Path $root $name
-        if (Test-Path -LiteralPath $path -PathType Leaf) { Get-Item -LiteralPath $path }
+        if (Test-Path -LiteralPath $path -PathType Leaf) { Get-Item -LiteralPath $path -Force }
     }
 ) | Sort-Object FullName -Unique
 
