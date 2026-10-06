@@ -313,14 +313,25 @@ function Compare-CsvContent {
     if ($actual.Count -ne $expected.Count) { return $false }
     if ($expected.Count -eq 0) { return $true }
     $columns = @($expected[0].PSObject.Properties.Name)
-    for ($index = 0; $index -lt $expected.Count; $index++) {
-        foreach ($column in $columns) {
-            if ([string]$actual[$index].$column -cne [string]$expected[$index].$column) {
-                return $false
-            }
+    $expectedCounts = [System.Collections.Generic.Dictionary[string, int]]::new(
+        [System.StringComparer]::Ordinal
+    )
+    foreach ($row in $expected) {
+        $key = ($columns | ForEach-Object { [string]$row.$_ }) -join "`0"
+        if ($expectedCounts.ContainsKey($key)) {
+            $expectedCounts[$key]++
+        } else {
+            $expectedCounts[$key] = 1
         }
     }
-    return $true
+    foreach ($row in $actual) {
+        $key = ($columns | ForEach-Object { [string]$row.$_ }) -join "`0"
+        if (-not $expectedCounts.ContainsKey($key) -or $expectedCounts[$key] -eq 0) {
+            return $false
+        }
+        $expectedCounts[$key]--
+    }
+    return @($expectedCounts.Values | Where-Object { $_ -ne 0 }).Count -eq 0
 }
 
 $outputs = [ordered]@{
